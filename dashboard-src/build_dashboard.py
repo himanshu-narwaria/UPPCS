@@ -2,7 +2,8 @@
 
 Usage (from any folder):
     python build_dashboard.py
-This also runs sitenav.py, which adds the global menu, breadcrumbs and Related/Previous/Next
+This also runs sitenav.py (global menu, breadcrumbs, related links) and security.py
+(writes vercel.json with the security headers). sitenav.py adds the global menu, breadcrumbs and Related/Previous/Next
 links to every page in the project.
 
 For each subject folder listed in SUBJECTS it finds, by file name:
@@ -658,6 +659,8 @@ def main():
     sitenav.inject_all(only=None)   # every notes page (the dashboard is rebuilt next)
     build()
     sitenav.inject_all(only={"study-dashboard.html"})
+    import security
+    security.write_vercel_json()   # CSP script hashes must match the pages just written
 
 
 if __name__ == "__main__":
