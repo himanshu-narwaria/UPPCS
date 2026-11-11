@@ -57,7 +57,49 @@ th{text-align:left;font-size:12.5px;color:var(--mute);background:var(--soft)}th,
 .side{position:fixed;z-index:40;left:0;top:0;width:290px;height:100%;background:#fff;border-right:1px solid var(--line);transform:translateX(-100%);transition:transform .18s}.side.open{transform:none}
 #scrim.on{display:block;position:fixed;inset:0;z-index:30;background:rgba(0,0,0,.4)}main{padding:20px 16px 80px}h1,h2{font-size:23px}}
 @media print{.top,.bar,.side,.done,#scrim{display:none!important}.view{display:block!important;break-before:page}main{max-width:none;padding:0}}
-</style></head><body>
+</style>
+<style id="sx-style">.sx-nav{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto}
+.sx-nav a,.sx-nav button{font:600 13.5px/1 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#1d2b45;background:#fff;border:1.5px solid #cfd6e3;border-radius:8px;height:34px;padding:0 10px;display:inline-flex;align-items:center;gap:5px;cursor:pointer;text-decoration:none;white-space:nowrap}
+.sx-nav a:hover,.sx-nav button:hover,.sx-nav button[aria-expanded="true"]{background:#eef3fb;border-color:#1f5f8b}
+.sx-nav a:focus-visible,.sx-nav button:focus-visible,.sx-panel a:focus-visible,.sx-crumbs a:focus-visible,.sx-rel a:focus-visible{outline:2px solid #1f5f8b;outline-offset:2px}
+.sx-panel{position:fixed;right:12px;z-index:1000;width:min(760px,calc(100vw - 24px));max-height:calc(100vh - 90px);overflow:auto;background:#fff;color:#16202e;border:1.5px solid #cfd6e3;border-radius:12px;box-shadow:0 16px 44px rgba(20,30,50,.22);padding:14px 16px;font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+.sx-panel[hidden]{display:none}
+.sx-panel .sx-top{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:0 0 10px;padding-bottom:10px;border-bottom:1px solid #e3e7ee}
+.sx-panel .sx-top a{font-weight:700;color:#1f5f8b;text-decoration:none}
+.sx-panel .sx-top small{color:#5b6577}
+.sx-cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px 18px}
+.sx-col h4{margin:0 0 4px;font:700 15px/1.3 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+.sx-col h4 a{color:#1f5f8b;text-decoration:none}
+.sx-col h4 small{display:block;font-weight:400;color:#5b6577;font-size:12.5px}
+.sx-col ul{list-style:none;margin:0;padding:0}
+.sx-col li{margin:0}
+.sx-col li a,.sx-col li span{display:block;padding:5px 8px;border-radius:6px;color:#16202e;text-decoration:none}
+.sx-col li a:hover{background:#eef3fb}
+.sx-col li a[aria-current="page"]{background:#fff3c4;font-weight:700}
+.sx-col li span{color:#8a93a3}
+.sx-col.sx-arch{grid-column:1/-1;border-top:1px solid #e3e7ee;padding-top:10px}
+.sx-col.sx-arch ul{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:0 18px}
+.sx-col.sx-arch small{color:#5b6577;font-size:12px}
+.sx-crumbs{font:13px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#5b6577;margin:0 0 14px;display:flex;flex-wrap:wrap;gap:2px 0;align-items:center}
+.sx-crumbs a{color:#1f5f8b;text-decoration:none}
+.sx-crumbs a:hover{text-decoration:underline}
+.sx-crumbs .sx-sep,.sx-pre .sx-sep{margin:0 6px;color:#9aa3b3}
+.sx-crumbs [aria-current]{color:#16202e;font-weight:600}
+.sx-pre a{text-decoration:none}
+.sx-rel{margin:26px 0 8px;padding:14px 16px;border:1.5px solid #dbe1ea;border-radius:10px;background:#f7f9fc;font:14.5px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#16202e}
+.sx-rel h3{margin:0 0 8px;font:700 13px/1.2 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#5b6577}
+.sx-rel ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 8px}
+.sx-rel li a{display:inline-block;padding:4px 10px;border:1px solid #cfd6e3;border-radius:999px;background:#fff;color:#1f5f8b;text-decoration:none}
+.sx-rel li a:hover{background:#eef3fb}
+.sx-pn{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-top:12px;padding-top:10px;border-top:1px solid #dbe1ea}
+.sx-pn a{color:#1f5f8b;text-decoration:none;font-weight:600;max-width:48%}
+.sx-pn a:hover{text-decoration:underline}
+.sx-pn .sx-nx{margin-left:auto;text-align:right}
+.sx-bar{position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:8px max(16px,env(safe-area-inset-left,0px));background:#fff;border-bottom:1.5px solid #e3e7ee}
+.sx-bar .sx-brand{font:700 16px/1.2 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#16202e;text-decoration:none}
+@media (max-width:600px){.sx-nav .sx-lbl{display:none}.sx-nav a,.sx-nav button{padding:0 8px;font-size:13px}.top .brand{display:none}header .sx-nav a{display:none}}
+@media print{.sx-nav,.sx-panel,.sx-rel,.sx-bar,.sx-crumbs,.sx-pre{display:none!important}}</style>
+</head><body>
 <header class="top"><button id="menu" aria-label="Open hour list">☰</button><a class="brand" href="#home">EVS in 72h</a><span class="prog" id="prog"></span><input id="q" type="search" placeholder="Search" aria-label="Search notes" autocomplete="off"></header>
 <div class="bar"><i id="bar"></i></div>
 <div class="wrap"><nav class="side" id="side" aria-label="Hours"><a href="#home" data-v="home"><span></span>Plan</a><div class="lb">Learn</div><a href="#h1" data-v="h1"><span>1</span>Environment and Sustainable Development · part 1 of 5</a><a href="#h2" data-v="h2"><span>2</span>Environment and Sustainable Development · part 2 of 5</a><a href="#h3" data-v="h3"><span>3</span>Environment and Sustainable Development · part 3 of 5</a><a href="#h4" data-v="h4"><span>4</span>Environment and Sustainable Development · part 4 of 5</a><a href="#h5" data-v="h5"><span>5</span>Environment and Sustainable Development · part 5 of 5</a><a href="#h6" data-v="h6"><span>6</span>Ecology · part 1 of 4</a><a href="#h7" data-v="h7"><span>7</span>Ecology · part 2 of 4</a><a href="#h8" data-v="h8"><span>8</span>Ecology · part 3 of 4</a><a href="#h9" data-v="h9"><span>9</span>Ecology · part 4 of 4</a><a href="#h10" data-v="h10"><span>10</span>Biodiversity · part 1 of 5</a><a href="#h11" data-v="h11"><span>11</span>Biodiversity · part 2 of 5</a><a href="#h12" data-v="h12"><span>12</span>Biodiversity · part 3 of 5</a><a href="#h13" data-v="h13"><span>13</span>Biodiversity · part 4 of 5</a><a href="#h14" data-v="h14"><span>14</span>Biodiversity · part 5 of 5</a><a href="#h15" data-v="h15"><span>15</span>Greenhouse Effect and Climate Change · part 1 of 5</a><a href="#h16" data-v="h16"><span>16</span>Greenhouse Effect and Climate Change · part 2 of 5</a><a href="#h17" data-v="h17"><span>17</span>Greenhouse Effect and Climate Change · part 3 of 5</a><a href="#h18" data-v="h18"><span>18</span>Greenhouse Effect and Climate Change · part 4 of 5</a><a href="#h19" data-v="h19"><span>19</span>Greenhouse Effect and Climate Change · part 5 of 5</a><a href="#h20" data-v="h20"><span>20</span>Ozone Layer · part 1 of 2</a><a href="#h21" data-v="h21"><span>21</span>Ozone Layer · part 2 of 2</a><a href="#h22" data-v="h22"><span>22</span>Forest and Wildlife · part 1 of 6</a><a href="#h23" data-v="h23"><span>23</span>Forest and Wildlife · part 2 of 6</a><a href="#h24" data-v="h24"><span>24</span>Forest and Wildlife · part 3 of 6</a><a href="#h25" data-v="h25"><span>25</span>Forest and Wildlife · part 4 of 6</a><a href="#h26" data-v="h26"><span>26</span>Forest and Wildlife · part 5 of 6</a><a href="#h27" data-v="h27"><span>27</span>Forest and Wildlife · part 6 of 6</a><a href="#h28" data-v="h28"><span>28</span>Sanctuary and Biosphere Reserve · part 1 of 6</a><a href="#h29" data-v="h29"><span>29</span>Sanctuary and Biosphere Reserve · part 2 of 6</a><a href="#h30" data-v="h30"><span>30</span>Sanctuary and Biosphere Reserve · part 3 of 6</a><a href="#h31" data-v="h31"><span>31</span>Sanctuary and Biosphere Reserve · part 4 of 6</a><a href="#h32" data-v="h32"><span>32</span>Sanctuary and Biosphere Reserve · part 5 of 6</a><a href="#h33" data-v="h33"><span>33</span>Sanctuary and Biosphere Reserve · part 6 of 6</a><a href="#h34" data-v="h34"><span>34</span>Non-Conventional Energy · part 1 of 3</a><a href="#h35" data-v="h35"><span>35</span>Non-Conventional Energy · part 2 of 3</a><a href="#h36" data-v="h36"><span>36</span>Non-Conventional Energy · part 3 of 3</a><a href="#h37" data-v="h37"><span>37</span>Pollution · part 1 of 6</a><a href="#h38" data-v="h38"><span>38</span>Pollution · part 2 of 6</a><a href="#h39" data-v="h39"><span>39</span>Pollution · part 3 of 6</a><a href="#h40" data-v="h40"><span>40</span>Pollution · part 4 of 6</a><a href="#h41" data-v="h41"><span>41</span>Pollution · part 5 of 6</a><a href="#h42" data-v="h42"><span>42</span>Pollution · part 6 of 6</a><a href="#h43" data-v="h43"><span>43</span>Water Conservation</a><a href="#h44" data-v="h44"><span>44</span>Miscellaneous · part 1 of 5</a><a href="#h45" data-v="h45"><span>45</span>Miscellaneous · part 2 of 5</a><a href="#h46" data-v="h46"><span>46</span>Miscellaneous · part 3 of 5</a><a href="#h47" data-v="h47"><span>47</span>Miscellaneous · part 4 of 5</a><a href="#h48" data-v="h48"><span>48</span>Miscellaneous · part 5 of 5</a><div class="lb">UP and current</div><a href="#h49" data-v="h49"><span>49</span>Uttar Pradesh special · part 1 of 4</a><a href="#h50" data-v="h50"><span>50</span>Uttar Pradesh special · part 2 of 4</a><a href="#h51" data-v="h51"><span>51</span>Uttar Pradesh special · part 3 of 4</a><a href="#h52" data-v="h52"><span>52</span>Uttar Pradesh special · part 4 of 4</a><a href="#h53" data-v="h53"><span>53</span>Recent developments 2022–26 · part 1 of 4</a><a href="#h54" data-v="h54"><span>54</span>Recent developments 2022–26 · part 2 of 4</a><a href="#h55" data-v="h55"><span>55</span>Recent developments 2022–26 · part 3 of 4</a><a href="#h56" data-v="h56"><span>56</span>Recent developments 2022–26 · part 4 of 4</a><div class="lb">Revise</div><a href="#h57" data-v="h57"><span>57</span>Revision: Environment and Sustainable Development</a><a href="#h58" data-v="h58"><span>58</span>Revision: Ecology</a><a href="#h59" data-v="h59"><span>59</span>Revision: Biodiversity</a><a href="#h60" data-v="h60"><span>60</span>Revision: Greenhouse Effect and Climate Change, Ozone Layer</a><a href="#h61" data-v="h61"><span>61</span>Revision: Forest and Wildlife</a><a href="#h62" data-v="h62"><span>62</span>Revision: Sanctuary and Biosphere Reserve</a><a href="#h63" data-v="h63"><span>63</span>Revision: Non-Conventional Energy, Pollution</a><a href="#h64" data-v="h64"><span>64</span>Revision: Water Conservation, Miscellaneous</a><a href="#h65" data-v="h65"><span>65</span>Most repeated facts · 1 to 49</a><a href="#h66" data-v="h66"><span>66</span>Most repeated facts · 50 to 98</a><a href="#h67" data-v="h67"><span>67</span>What UPPSC asked recently, 2022 to 2025</a><a href="#h68" data-v="h68"><span>68</span>Traps, corrections and doubtful keys</a><div class="lb">Test</div><a href="#h69" data-v="h69"><span>69</span>Mock test 1 of 4</a><a href="#h70" data-v="h70"><span>70</span>Mock test 2 of 4</a><a href="#h71" data-v="h71"><span>71</span>Mock test 3 of 4</a><a href="#h72" data-v="h72"><span>72</span>Mock test 4 of 4</a></nav>
@@ -105,4 +147,108 @@ q.addEventListener("input",function(){var s=q.value.trim().toLowerCase();if(s.le
  $("#rt").textContent=hits.length+" results";$("#rl").innerHTML=hits.map(function(x){return'<a href="#h'+x.n+'">'+x.t.replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})+" <small>Hour "+x.n+"</small></a>"}).join("")||"<p>Nothing found.</p>";show("results")});
 $("#menu").onclick=function(){drawer(!side.classList.contains("open"))};scrim.onclick=function(){drawer(false)};
 window.addEventListener("hashchange",route);paint();route();
-})();</script></body></html>
+})();</script>
+<!--sx:start-->
+<script type="application/json" id="sx-data">{"ctx":{"kind":"plan","subject":"environment","file":"Environment_2025/evs-in-72h.html"},"base":"../","home":"study-dashboard.html","subjects":[{"key":"environment","name":"Environment & Ecology","hindi":"पर्यावरण एवं पारिस्थितिकी","files":{"full":"Environment_2025/environment-ecology-2025-uppsc-notes.html","plan":"Environment_2025/evs-in-72h.html","quick":"Environment_2025/environment-2025-uppsc-quick-notes.html"},"fullLayout":"sections","repeated":"dash-repeats","chapters":[{"n":1,"t":"Environment and Sustainable Development","h":[1,2,3,4,5],"q":true},{"n":2,"t":"Ecology","h":[6,7,8,9],"q":true},{"n":3,"t":"Biodiversity","h":[10,11,12,13,14],"q":true},{"n":4,"t":"Greenhouse Effect and Climate Change","h":[15,16,17,18,19],"q":true},{"n":5,"t":"Ozone Layer","h":[20,21],"q":true},{"n":6,"t":"Forest and Wildlife","h":[22,23,24,25,26,27],"q":true},{"n":7,"t":"Sanctuary/Biosphere Reserve","h":[28,29,30,31,32,33],"q":true},{"n":8,"t":"Non-Conventional Energy","h":[34,35,36],"q":true},{"n":9,"t":"Pollution","h":[37,38,39,40,41,42],"q":true},{"n":10,"t":"Water Conservation","h":[43],"q":true},{"n":11,"t":"Miscellaneous","h":[44,45,46,47,48],"q":true}],"lastHour":72,"hourCh":{"1":[1],"2":[1],"3":[1],"4":[1],"5":[1],"6":[2],"7":[2],"8":[2],"9":[2],"10":[3],"11":[3],"12":[3],"13":[3],"14":[3],"15":[4],"16":[4],"17":[4],"18":[4],"19":[4],"20":[5],"21":[5],"22":[6],"23":[6],"24":[6],"25":[6],"26":[6],"27":[6],"28":[7],"29":[7],"30":[7],"31":[7],"32":[7],"33":[7],"34":[8],"35":[8],"36":[8],"37":[9],"38":[9],"39":[9],"40":[9],"41":[9],"42":[9],"43":[10],"44":[11],"45":[11],"46":[11],"47":[11],"48":[11]},"phases":[["Learn",1,48],["UP and current",49,56],["Revise",57,68],["Test",69,72]]},{"key":"polity","name":"Indian Polity","hindi":"भारतीय राजव्यवस्था","files":{"full":"Indian_Polity_2026/polity-uppsc-full-notes.html","plan":"Indian_Polity_2026/polity-in-72h.html"},"fullLayout":"views","repeated":"repeated","chapters":[{"n":1,"t":"The Constitutional Development of India","h":[1,2],"q":false},{"n":2,"t":"Constituent Assembly and Making of the Constitution","h":[2,3],"q":false},{"n":3,"t":"Important Committees of Constituent Assembly","h":[3],"q":false},{"n":4,"t":"Sources of the Constitution","h":[3,4],"q":false},{"n":5,"t":"Parts of Indian Constitution","h":[4],"q":false},{"n":6,"t":"Articles of the Constitution","h":[5,6,7],"q":false},{"n":7,"t":"Schedules","h":[7,8],"q":false},{"n":8,"t":"The Preamble","h":[8,9],"q":false},{"n":9,"t":"The Governance System","h":[9,10],"q":false},{"n":10,"t":"National Symbols","h":[10,11],"q":false},{"n":11,"t":"States and Union Territories","h":[11,12],"q":false},{"n":12,"t":"The Citizenship","h":[12,13],"q":false},{"n":13,"t":"Fundamental Rights","h":[13,14,15,16],"q":false},{"n":14,"t":"Directive Principles of State Policy","h":[16,17],"q":false},{"n":15,"t":"Fundamental Duties","h":[17],"q":false},{"n":16,"t":"The President","h":[18,19],"q":false},{"n":17,"t":"The Vice-President","h":[19,20],"q":false},{"n":18,"t":"The Council of Ministers","h":[20,21],"q":false},{"n":19,"t":"The Attorney General and the C.A.G.","h":[22,23],"q":false},{"n":20,"t":"Order of Precedence","h":[23,24],"q":false},{"n":21,"t":"The Parliament (1)","h":[24,25],"q":false},{"n":22,"t":"The Parliament (2)","h":[26,27],"q":false},{"n":23,"t":"The Parliament (3)","h":[27,28,29,30],"q":false},{"n":24,"t":"Parliamentary Committees","h":[30],"q":false},{"n":25,"t":"The Parliamentary Act","h":[31,32],"q":false},{"n":26,"t":"The Supreme Court","h":[33,34,35],"q":false},{"n":27,"t":"The Governor","h":[35,36],"q":false},{"n":28,"t":"The State Legislature","h":[36,37,38],"q":false},{"n":29,"t":"The High Court","h":[38,39],"q":false},{"n":30,"t":"The Centre-State Relations","h":[39,40],"q":false},{"n":31,"t":"Emergency Provisions","h":[40,41],"q":false},{"n":32,"t":"The Finance Commission","h":[41],"q":false},{"n":33,"t":"The Planning Commission/NITI Aayog","h":[42],"q":false},{"n":34,"t":"Lokpal and Important Commissions","h":[42,43,44],"q":false},{"n":35,"t":"Temporary, Transitional and Special Provisions","h":[44],"q":false},{"n":36,"t":"Election Commission","h":[44,45],"q":false},{"n":37,"t":"Political Parties","h":[46],"q":false},{"n":38,"t":"Constitutional Amendments","h":[47,48],"q":false},{"n":39,"t":"Official Language","h":[48],"q":false},{"n":40,"t":"Panchayati Raj and Community Development","h":[49,50,51],"q":false},{"n":41,"t":"Special Provision for Certain Classes","h":[52],"q":false},{"n":42,"t":"Miscellaneous","h":[52,53,54],"q":false}],"lastHour":72,"hourCh":{"1":[1],"2":[1,2],"3":[2,3,4],"4":[4,5],"5":[6],"6":[6],"7":[6,7],"8":[7,8],"9":[8,9],"10":[9,10],"11":[10,11],"12":[11,12],"13":[12,13],"14":[13],"15":[13],"16":[13,14],"17":[14,15],"18":[16],"19":[16,17],"20":[17,18],"21":[18],"22":[19],"23":[19,20],"24":[20,21],"25":[21],"26":[22],"27":[22,23],"28":[23],"29":[23],"30":[23,24],"31":[25],"32":[25],"33":[26],"34":[26],"35":[26,27],"36":[27,28],"37":[28],"38":[28,29],"39":[29,30],"40":[30,31],"41":[31,32],"42":[33,34],"43":[34],"44":[34,35,36],"45":[36],"46":[37],"47":[38],"48":[38,39],"49":[40],"50":[40],"51":[40],"52":[41,42],"53":[42],"54":[42]},"phases":[["Learn",1,54],["Revise",55,66],["Test",67,72]]},{"key":"economy","name":"Economy","hindi":"अर्थव्यवस्था","files":{"full":"Economy 2024/economy-uppsc-full-notes.html","plan":"Economy 2024/economy-in-72h.html"},"fullLayout":"views","repeated":"repeated","chapters":[{"n":1,"t":"Nature of Indian Economy","h":[1],"q":false},{"n":2,"t":"National Income and GDP","h":[1,2],"q":false},{"n":3,"t":"Sustainable Economic Development","h":[3,4],"q":false},{"n":4,"t":"Agriculture and Allied Sectors","h":[4,5,6,7,8],"q":false},{"n":5,"t":"Industrial Sector","h":[8,9,10,11,12],"q":false},{"n":6,"t":"Tertiary Sector","h":[12,13],"q":false},{"n":7,"t":"Fiscal Policy and Revenue","h":[13,14,15,16,17],"q":false},{"n":8,"t":"Planning","h":[17,18,19],"q":false},{"n":9,"t":"Money and Banking","h":[20,21,22,23,24,25,26],"q":false},{"n":10,"t":"Human Development","h":[27],"q":false},{"n":11,"t":"Employment and Welfare Schemes","h":[27,28,29,30,31],"q":false},{"n":12,"t":"Poverty and Unemployment","h":[31,32,33],"q":false},{"n":13,"t":"International Trade","h":[33,34,35,36],"q":false},{"n":14,"t":"Foreign Exchange, FDI and External Debt","h":[36,37,38],"q":false},{"n":15,"t":"International Organizations","h":[38,39,40,41],"q":false},{"n":16,"t":"Miscellaneous","h":[41,42,43,44],"q":false},{"n":17,"t":"India: Population","h":[45,46,47,48,49,50],"q":false},{"n":18,"t":"India: Urbanization","h":[50,51,52,53],"q":false},{"n":19,"t":"World Population and Urbanization","h":[53,54],"q":false}],"lastHour":72,"hourCh":{"1":[1,2],"2":[2],"3":[3],"4":[3,4],"5":[4],"6":[4],"7":[4],"8":[4,5],"9":[5],"10":[5],"11":[5],"12":[5,6],"13":[6,7],"14":[7],"15":[7],"16":[7],"17":[7,8],"18":[8],"19":[8],"20":[9],"21":[9],"22":[9],"23":[9],"24":[9],"25":[9],"26":[9],"27":[10,11],"28":[11],"29":[11],"30":[11],"31":[11,12],"32":[12],"33":[12,13],"34":[13],"35":[13],"36":[13,14],"37":[14],"38":[14,15],"39":[15],"40":[15],"41":[15,16],"42":[16],"43":[16],"44":[16],"45":[17],"46":[17],"47":[17],"48":[17],"49":[17],"50":[17,18],"51":[18],"52":[18],"53":[18,19],"54":[19]},"phases":[["Learn",1,54],["Revise",55,66],["Test",67,72]]}],"archive":[{"path":"environment-ecology-2025-handwritten-notes.html","t":"Environment & Ecology — Handwritten UPSC Notes","dir":"project folder"},{"path":"uppsc-prelims-2025-notes Paper textured.html","t":"UPPSC Prelims 2025 — Handwritten Revision Notes (uppsc-prelims-2025-notes Paper textured)","dir":"project folder"},{"path":"uppsc-prelims-2025-notes.html","t":"UPPSC Prelims 2025 — Handwritten Revision Notes (uppsc-prelims-2025-notes)","dir":"project folder"},{"path":"Environment_2025/New folder/environment-2025-quick-notes.html","t":"Environment Quick Notes","dir":"Environment_2025/New folder"},{"path":"Environment_2025/New folder/environment-ecology-2025-handwritten-notes.html","t":"Environment & Ecology — UPSC Notes","dir":"Environment_2025/New folder"}]}</script>
+<script>(function(){
+var D=JSON.parse(document.getElementById("sx-data").textContent),C=D.ctx,B=D.base;
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function enc(p){return p.split("/").map(encodeURIComponent).join("/")}
+function L(path,anchor){if(path===C.file)return "#"+(anchor||"");return B+enc(path)+(anchor?"#"+anchor:"")}
+var S=D.subjects,sub=null;S.forEach(function(s){if(s.key===C.subject)sub=s});
+var FL={full:"Full notes",quick:"Quick notes",plan:"72-hour plan"};
+var SEP='<span class="sx-sep" aria-hidden="true">›</span>';
+
+/* 1. global menu */
+var panel=document.createElement("nav");panel.className="sx-panel";panel.id="sx-panel";panel.hidden=true;panel.setAttribute("aria-label","All subjects and notes");
+var cols=S.map(function(s){
+ var li=["full","quick","plan"].map(function(k){var p=s.files[k];
+  if(!p)return '<li><span>'+FL[k]+' (not made yet)</span></li>';
+  return '<li><a href="'+L(p)+'"'+(p===C.file?' aria-current="page"':"")+'>'+FL[k]+'</a></li>'}).join("");
+ return '<div class="sx-col"><h4><a href="'+L(D.home,s.key)+'">'+esc(s.name)+'<small>'+esc(s.hindi)+'</small></a></h4><ul>'+li+'</ul></div>'}).join("");
+var arch=D.archive.length?'<div class="sx-col sx-arch"><h4>Other notes</h4><ul>'+D.archive.map(function(a){return '<li><a href="'+L(a.path)+'"'+(a.path===C.file?' aria-current="page"':"")+'>'+esc(a.t)+' <small>· '+esc(a.dir)+'</small></a></li>'}).join("")+'</ul></div>':"";
+panel.innerHTML='<div class="sx-top"><a href="'+L(D.home)+'">⌂ Study dashboard</a><small>Esc to close</small></div><div class="sx-cols">'+cols+arch+'</div>';
+document.body.appendChild(panel);
+var bar=document.createElement("span");bar.className="sx-nav";
+bar.innerHTML=(C.kind==="home"?"":'<a href="'+L(D.home)+'" title="Study dashboard" aria-label="Study dashboard home">⌂<span class="sx-lbl">Home</span></a>')+
+ '<button type="button" aria-expanded="false" aria-controls="sx-panel">Subjects ▾</button>';
+var header=document.querySelector("header.topbar, header.top");
+if(C.kind==="home"||!header){var hb=document.createElement("div");hb.className="sx-bar";hb.innerHTML='<a class="sx-brand" href="'+L(D.home)+'">UPPSC Study</a>';hb.appendChild(bar);document.body.insertBefore(hb,document.body.firstChild);header=hb}
+else{var anchor=header.querySelector("#menu, #menuBtn");if(anchor&&anchor.nextSibling)header.insertBefore(bar,anchor.nextSibling);else header.insertBefore(bar,header.firstChild)}
+var btn=bar.querySelector("button");
+function place(){var r=header.getBoundingClientRect();panel.style.top=Math.max(8,r.bottom+6)+"px";panel.style.maxHeight="calc(100vh - "+(Math.max(8,r.bottom+6)+12)+"px)"}
+function openP(o){panel.hidden=!o;btn.setAttribute("aria-expanded",o?"true":"false");if(o){place();var a=panel.querySelector("a");if(a)a.focus()}}
+btn.addEventListener("click",function(e){e.stopPropagation();openP(panel.hidden)});
+document.addEventListener("click",function(e){if(!panel.hidden&&!panel.contains(e.target)&&!bar.contains(e.target))openP(false)});
+document.addEventListener("keydown",function(e){if(e.key==="Escape"&&!panel.hidden){openP(false);btn.focus()}});
+panel.addEventListener("click",function(e){if(e.target.closest("a"))openP(false)});
+/* keep keyboard users inside the open menu: leaving it closes it */
+panel.addEventListener("focusout",function(e){var t=e.relatedTarget;if(!panel.hidden&&t&&!panel.contains(t)&&!bar.contains(t))openP(false)});
+panel.addEventListener("keydown",function(e){if(e.key!=="Tab")return;var a=panel.querySelectorAll("a");if(!a.length)return;
+ if(e.shiftKey&&document.activeElement===a[0]){e.preventDefault();btn.focus()}})
+window.addEventListener("resize",function(){if(!panel.hidden)place()});
+
+/* 2. breadcrumbs */
+var pageName=document.title;D.archive.forEach(function(a){if(a.path===C.file)pageName=a.t});
+var head=C.kind==="archive"?'<a href="'+L(D.home)+'">Home</a>'+SEP+'<a href="'+L(D.home,"others")+'">Other notes</a>'+SEP:
+ sub?'<a href="'+L(D.home)+'">Home</a>'+SEP+'<a href="'+L(D.home,sub.key)+'">'+esc(sub.name)+'</a>'+SEP:"";
+var shellCrumbs=document.getElementById("crumbs");
+if(C.kind!=="home"&&shellCrumbs&&shellCrumbs.classList.contains("crumbs")){
+ var pre=head+'<a href="#top">'+esc(sub?FL[C.kind]:pageName)+'</a>'+SEP;
+ var mo=new MutationObserver(fix);
+ function drop(test){var n=shellCrumbs.firstChild&&shellCrumbs.firstChild.nextSibling;if(n&&n.nodeType===1&&n.tagName==="A"&&test(n.textContent.trim())){var s=n.nextSibling;n.remove();if(s&&s.nodeType===1&&s.classList.contains("sep"))s.remove();return true}return false}
+ function fix(){if(shellCrumbs.firstChild&&shellCrumbs.firstChild.className==="sx-pre")return;mo.disconnect();var sp=document.createElement("span");sp.className="sx-pre";sp.innerHTML=pre;shellCrumbs.insertBefore(sp,shellCrumbs.firstChild);
+  /* the page's own trail starts "Contents › Subject"; the prefix already says both */
+  drop(function(t){return t==="Contents"});if(sub)drop(function(t){return t.replace(/&/g,"and")===sub.name.replace(/&/g,"and")});
+  var last=shellCrumbs.lastChild;if(last&&last.nodeType===1&&last.classList&&last.classList.contains("sep"))last.remove();
+  if(!sp.nextSibling&&sp.lastChild&&sp.lastChild.nodeType===1&&sp.lastChild.classList.contains("sx-sep"))sp.lastChild.remove();
+  mo.observe(shellCrumbs,{childList:true})}
+ fix();
+}else if(C.kind!=="home"){
+ var main=document.querySelector("main");
+ if(main){var cr=document.createElement("nav");cr.className="sx-crumbs";cr.setAttribute("aria-label","Breadcrumb");main.insertBefore(cr,main.firstChild);
+  var homeView=document.getElementById("home");
+  function upd(){var v=document.querySelector(".view.on"),name=sub?FL[C.kind]:pageName,last="";
+   if(v&&v.id!=="home"){
+    if(C.kind==="plan"){var n=v.getAttribute("data-n"),h2=v.querySelector("h2");last=n?"Hour "+n+(h2?" · "+h2.textContent:""):(v.getAttribute("data-title")||"")}
+    else{var h=v.querySelector("h2,h1");last=v.getAttribute("data-title")||(h?h.textContent:"")}}
+   cr.innerHTML=head+(last?'<a href="#home">'+esc(name)+'</a>'+SEP+'<span aria-current="page">'+esc(last)+'</span>':'<span aria-current="page">'+esc(name)+'</span>')}
+  upd();window.addEventListener("hashchange",function(){setTimeout(upd,0)});
+  var lastV=null;new MutationObserver(function(){var v=document.querySelector(".view.on");if(v!==lastV){lastV=v;upd()}}).observe(main,{subtree:true,attributes:true,attributeFilter:["class"]});
+ }
+}
+
+/* 3. related topics + previous/next */
+function block(rel,prev,next){var a=document.createElement("aside");a.className="sx-rel";a.setAttribute("aria-label","Related topics");
+ var h="";if(rel.length)h+='<h3>Related topics</h3><ul>'+rel.map(function(r){return '<li><a href="'+r[1]+'">'+esc(r[0])+'</a></li>'}).join("")+'</ul>';
+ if(prev||next)h+='<nav class="sx-pn" aria-label="Previous and next">'+(prev?'<a rel="prev" href="'+prev[1]+'">← '+esc(prev[0])+'</a>':"")+(next?'<a rel="next" class="sx-nx" href="'+next[1]+'">'+esc(next[0])+' →</a>':"")+'</nav>';
+ a.innerHTML=h;return a}
+function chapterRel(n,except){var c=null;sub.chapters.forEach(function(x){if(x.n===n)c=x});if(!c)return [];var r=[];
+ if(except!=="full")r.push(["Ch "+n+" in full notes",L(sub.files.full,"c"+n)]);
+ if(sub.files.quick&&c.q&&except!=="quick")r.push(["Ch "+n+" in quick notes",L(sub.files.quick,"c"+n)]);
+ if(except!=="plan"&&c.h.length)r.push(["72-hour plan: "+(c.h.length===1?"hour "+c.h[0]:"hours "+c.h[0]+"–"+c.h[c.h.length-1]),L(sub.files.plan,"h"+c.h[0])]);
+ return r}
+function common(){var r=[];if(sub){r.push(["Most repeated facts in "+sub.name,L(sub.files.full,sub.repeated)]);r.push([sub.name+" on the dashboard",L(D.home,sub.key)])}else r.push(["Study dashboard",L(D.home)]);return r}
+if(C.kind==="full"||C.kind==="quick"||C.kind==="archive"){
+ var secs=[].slice.call(document.querySelectorAll("section.chapter[id]"));
+ if(secs.length){secs.forEach(function(sec,i){var m=/^c(\d+)$/.exec(sec.id),rel=(m&&sub)?chapterRel(+m[1],C.kind):[];
+  if(m||i===secs.length-1)rel=rel.concat(common());
+  var t=function(x){return x.getAttribute("data-title")||x.id};
+  var prev=i>0?[t(secs[i-1]),"#"+secs[i-1].id]:["Start of notes","#top"],next=i<secs.length-1?[t(secs[i+1]),"#"+secs[i+1].id]:null;
+  var tgt=sec.querySelector(":scope>.body")||sec;tgt.appendChild(block(rel,prev,next))})}
+ else{[].slice.call(document.querySelectorAll("section.view[id]")).forEach(function(v){if(v.id==="results")return;
+  var m=/^c(\d+)$/.exec(v.id),rel=(m&&sub)?chapterRel(+m[1],C.kind):[];rel=rel.concat(common());
+  var hasPn=!!v.querySelector("nav.pn");v.appendChild(block(rel,hasPn?null:(v.id==="home"?null:["Start of notes","#home"]),null))})}
+}
+if(C.kind==="plan"&&sub){
+ [].slice.call(document.querySelectorAll("section.view[id]")).forEach(function(v){
+  var m=/^h(\d+)$/.exec(v.id),rel=[];
+  if(m){var n=+m[1];(sub.hourCh[String(n)]||[]).forEach(function(c){rel=rel.concat(chapterRel(c,"plan"))});
+   rel=rel.concat(common());
+   var ownNext=!!v.querySelector(".done a.nx");
+   v.appendChild(block(rel,n>1?["Hour "+(n-1),"#h"+(n-1)]:["Plan overview","#home"],ownNext?null:(n<sub.lastHour?["Hour "+(n+1),"#h"+(n+1)]:["Plan overview","#home"])))}
+  else if(v.id==="home"){rel=[["Full notes",L(sub.files.full)]];if(sub.files.quick)rel.push(["Quick notes",L(sub.files.quick)]);rel=rel.concat(common());v.appendChild(block(rel,null,["Hour 1","#h1"]))}})
+}
+})();</script>
+<!--sx:end-->
+</body></html>

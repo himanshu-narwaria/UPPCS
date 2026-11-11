@@ -2,6 +2,8 @@
 
 Usage (from any folder):
     python build_dashboard.py
+This also runs sitenav.py, which adds the global menu, breadcrumbs and Related/Previous/Next
+links to every page in the project.
 
 For each subject folder listed in SUBJECTS it finds, by file name:
     full notes   *-uppsc-notes.html or *-full-notes.html
@@ -514,6 +516,14 @@ td.cn a:hover{text-decoration:underline}
 details summary{cursor:pointer;font-weight:700;color:var(--accent)}
 details[open] summary{margin-bottom:8px}
 code{font-size:.92em;background:var(--wash);padding:0 4px;border-radius:3px}
+.spn{display:flex;justify-content:space-between;gap:10px;border-top:1.5px solid var(--line);padding-top:12px}
+.spn a{font-family:var(--head);font-weight:600;text-decoration:none}
+.spn a:hover{text-decoration:underline}
+.others{display:grid;gap:10px}
+.olist{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:8px}
+.olist li{border:1px solid var(--line);border-radius:8px;padding:8px 12px;display:grid}
+.olist a{font-weight:700;text-decoration:none}
+.olist small{color:var(--soft);font-size:12.5px}
 .foot{font-size:13px;color:var(--soft);margin:0;border-top:1.5px solid var(--line);padding-top:14px}
 @media (max-width:820px){.two{grid-template-columns:minmax(0,1fr)}
 .kpis div{border-right:0;border-bottom:1px solid var(--line)}
@@ -593,7 +603,22 @@ def build():
     exam = exams.pop()
     exam_txt = f"{exam.day} {exam:%B %Y}"
     built = max(modified(p) for p in inputs)
-    panels = "".join(render_subject(sub, F, Q, P, files, exam_txt) for sub, F, Q, P, files in blocks)
+    rendered = [render_subject(sub, F, Q, P, files, exam_txt) for sub, F, Q, P, files in blocks]
+    names = [(b[0]["key"], b[0]["name"]) for b in blocks]
+    for i, part in enumerate(rendered):
+        prev = f'<a href="#{names[i - 1][0]}">← {E(names[i - 1][1])}</a>' if i > 0 else "<span></span>"
+        nxt = f'<a class="nx" href="#{names[i + 1][0]}">{E(names[i + 1][1])} →</a>' if i < len(names) - 1 else '<a class="nx" href="#others">Other notes →</a>'
+        k = part.rindex("</section>")
+        rendered[i] = part[:k] + f'<nav class="spn" aria-label="Previous and next subject">{prev}{nxt}</nav>\n' + part[k:]
+    panels = "".join(rendered)
+    import sitenav
+    archive = sitenav.site_map()["archive"]
+    others = ""
+    if archive:
+        others = ('<section class="others" id="others" aria-labelledby="others-h"><h2 id="others-h">Other notes <span class="hi">(अन्य नोट्स)</span></h2>'
+                  '<p class="lead">Older or general notes kept in the project. They open with the same menu and breadcrumbs.</p><ul class="olist">'
+                  + "".join(f'<li><a href="{E(sitenav.enc(a["path"]))}">{E(a["t"])}</a><small>{E(a["dir"])}</small></li>' for a in archive)
+                  + "</ul></section>")
     js = JS.replace("__EXAM__", exam.isoformat()).replace("__EXAMTXT__", f"{exam.day} {exam:%b %Y}")
     page = f"""<!DOCTYPE html>
 <html lang="en">
@@ -616,6 +641,7 @@ def build():
 </header>
 <nav class="cards" aria-label="Subjects">{"".join(cards)}</nav>
 {panels}
+{others}
 <p class="foot">Built from files dated up to {fmt_date(built)} by <b>dashboard-src/build_dashboard.py</b>. It reads only the notes and plan HTML files, never the PDFs. Run it again after any notes file changes. Counts come from each file’s own practice bank, so they cover different years for each subject.</p>
 </main>
 <script>{js.strip()}</script>
@@ -627,5 +653,12 @@ def build():
     print(f"Wrote {OUT} ({len(page):,} chars)")
 
 
-if __name__ == "__main__":
+def main():
+    import sitenav
+    sitenav.inject_all(only=None)   # every notes page (the dashboard is rebuilt next)
     build()
+    sitenav.inject_all(only={"study-dashboard.html"})
+
+
+if __name__ == "__main__":
+    main()
