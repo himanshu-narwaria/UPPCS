@@ -34,7 +34,8 @@ def generate_quick_notes():
     out.append('<header class="top" id="top">')
     out.append('<button id="menu" aria-label="Open contents">☰</button>')
     out.append('<a class="brand" href="#home">General Geography · Quick Revision</a>')
-    out.append('<input id="q" type="search" placeholder="Search revision notes…" aria-label="Search quick notes">')
+    out.append('<input id="q" type="search" placeholder="Search revision notes…" aria-label="Search quick notes" autocomplete="off">')
+    out.append('<label class="tog"><input id="only" type="checkbox"> Important</label>')
     out.append('<label class="tog"><input id="dark" type="checkbox"> Dark</label>')
     out.append('</header>')
     
@@ -129,7 +130,14 @@ def generate_quick_notes():
         out.append(f'<nav class="pn"><a href="{prev_href}">{prev_txt}</a><a class="nx" href="{next_href}">{next_txt}</a></nav>')
         out.append('</section>')
         
+    # Results view
+    out.append('<section class="view" id="results" data-title="Search">')
+    out.append('<h2 id="rt">Search</h2>')
+    out.append('<ul id="rl" class="res"></ul>')
+    out.append('</section>')
+    
     out.append('</main></div>')
+    out.append('<div id="scrim"></div>')
     
     # JavaScript
     out.append(js)

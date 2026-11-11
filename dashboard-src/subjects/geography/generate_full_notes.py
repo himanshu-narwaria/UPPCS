@@ -34,7 +34,8 @@ def generate_full_notes():
     out.append('<header class="top" id="top">')
     out.append('<button id="menu" aria-label="Open contents">☰</button>')
     out.append('<a class="brand" href="#home">General Geography</a>')
-    out.append(f'<input id="q" type="search" placeholder="Search 83 chapters, {len(qs)} UPPSC questions…" aria-label="Search notes">')
+    out.append(f'<input id="q" type="search" placeholder="Search 83 chapters, {len(qs)} UPPSC questions…" aria-label="Search notes" autocomplete="off">')
+    out.append('<label class="tog"><input id="only" type="checkbox"> Important</label>')
     out.append('<label class="tog"><input id="dark" type="checkbox"> Dark</label>')
     out.append('</header>')
     
@@ -111,8 +112,14 @@ def generate_full_notes():
     for c in chapters:
         num = c["num"]
         out.append(f'<option value="c{num}">{num}. {html.escape(c["title"])} ({ch_q_count.get(num, 0)})</option>')
-    out.append('</select></label></div>')
-    out.append('<div id="pqList"></div>')
+    out.append('</select></label>')
+    out.append('<label>Years <select id="pqYr"><option value="0">All years</option><option value="2015">2015 onwards</option><option value="2020">2020 onwards</option></select></label>')
+    out.append('<label class="pq-chk"><input type="checkbox" id="pqRep"> Repeated facts only</label>')
+    out.append('<button class="pqb" id="pqShuf">Shuffle</button>')
+    out.append('<button class="pqb" id="pqReset">Reset</button></div>')
+    out.append('<p class="pq-score" id="pqScore" aria-live="polite"></p>')
+    out.append('<ol class="pq-list" id="pqList"></ol>')
+    out.append('<button class="pqb" id="pqMore">Show 10 more</button>')
     out.append('</section>')
     
     # Chapters c1 to c83
@@ -162,7 +169,14 @@ def generate_full_notes():
         out.append(f'<nav class="pn"><a href="{prev_href}">{prev_txt}</a><a class="nx" href="{next_href}">{next_txt}</a></nav>')
         out.append('</section>')
         
+    # Results view
+    out.append('<section class="view" id="results" data-title="Search">')
+    out.append('<h2 id="rt">Search</h2>')
+    out.append('<ul id="rl" class="res"></ul>')
+    out.append('</section>')
+    
     out.append('</main></div>')
+    out.append('<div id="scrim"></div>')
     
     # pqd data block
     out.append('<script id="pqd" type="application/json">')

@@ -15,9 +15,6 @@ def generate_72h_plan():
     with open(os.path.join(base_dir, "template_72h_js.html"), encoding="utf-8") as f:
         js = f.read()
 
-    # Replace pol72-done with geo72-done
-    js = js.replace("pol72-done", "geo72-done").replace("Polity in 72h", "Geography in 72h")
-
     # Learn schedule tested and confirmed with chapter_hours
     learn_hours = [
         # Indian Geography (Hours 1-24)
@@ -123,10 +120,12 @@ def generate_72h_plan():
     # Header
     out.append('<header class="top" id="top">')
     out.append('<button id="menu" aria-label="Open schedule">☰</button>')
-    out.append('<a class="brand" href="#home">Geography · 72 Hours</a>')
-    out.append('<span id="prog" class="prog">0 / 72 done</span>')
+    out.append('<a class="brand" href="#home">Geography in 72h</a>')
+    out.append('<span id="prog" class="prog">0 of 72 hours done</span>')
+    out.append('<input id="q" type="search" placeholder="Search" aria-label="Search notes" autocomplete="off">')
     out.append('<label class="tog"><input id="dark" type="checkbox"> Dark</label>')
     out.append('</header>')
+    out.append('<div class="bar"><i id="bar"></i></div>')
     
     out.append('<div class="wrap">')
     
@@ -152,6 +151,7 @@ def generate_72h_plan():
     # Home view
     out.append('<section class="view on" id="home"><h1>General Geography in 72 Hours</h1>')
     out.append('<p class="gist">72 hours before 6 December 2026 for UPPSC Prelims 2026.</p>')
+    out.append('<a class="cta" id="cont" href="#h1">Start with hour 1 →</a>')
     out.append('<p class="lead">Complete syllabus coverage in 48 hours of focused reading, 20 hours of rapid revision, and 4 timed full-length mocks. Every hour has its reading points and real UPPSC PYQs.</p>')
     out.append('<div class="plan-grid">')
     out.append('<div class="card"><h3>Phase 1: Learn</h3><p><b>Hours 1–48</b>: All 83 chapters structured into 48 intensive sessions. Read high-yield summaries and solve matching PYQs.</p><a class="btn" href="#h1">Start Hour 1 →</a></div>')
@@ -201,7 +201,6 @@ def generate_72h_plan():
     # Hours 49 to 68 (Revise)
     for h, title in revise_hours:
         eyebrow = f"Hour {h} of 72 · Revise"
-        # Select high-yield review questions
         rev_idx = (h - 49) * 15
         rev_q_ids = all_q_ids[rev_idx % len(all_q_ids) : (rev_idx % len(all_q_ids)) + 15]
         q_csv = ",".join(rev_q_ids)
@@ -236,7 +235,14 @@ def generate_72h_plan():
         out.append(f'<a class="btn nx" href="{nx_href}">Next: Hour {h+1} →</a></div>')
         out.append('</section>')
 
+    # Results view
+    out.append('<section class="view" id="results">')
+    out.append('<h2 id="rt">Search</h2>')
+    out.append('<div id="rl" class="res"></div>')
+    out.append('</section>')
+
     out.append('</main></div>')
+    out.append('<div id="scrim"></div>')
     
     # pqd data block
     out.append('<script id="pqd" type="application/json">')
