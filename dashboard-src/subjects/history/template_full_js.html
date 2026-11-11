@@ -1,0 +1,134 @@
+<script>(function () {
+  var $ = function (s, r) { return (r || document).querySelector(s); };
+  var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
+  var views = $$('.view'), q = $('#q'), only = $('#only'), side = $('#side'), scrim = $('#scrim'), menu = $('#menu');
+  var last = 'home';
+
+  function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+
+  function drawer(open) {
+    side.classList.toggle('open', open);
+    scrim.classList.toggle('on', open);
+    menu.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+
+  function show(id) {
+    views.forEach(function (v) { v.classList.toggle('on', v.id === id); });
+    $$('.side a').forEach(function (a) { a.classList.toggle('on', a.dataset.v === id); });
+    if (id !== 'results') last = id;
+    var t = $('#' + id);
+    document.title = (t && t.dataset.title ? t.dataset.title + ' · ' : '') + 'Polity Full Notes';
+  }
+
+  function route() {
+    var h = decodeURIComponent(location.hash.slice(1)) || 'home';
+    var el = document.getElementById(h);
+    if (!el) { h = 'home'; el = document.getElementById(h); }
+    var view = el.classList.contains('view') ? el : el.closest('.view');
+    if (q.value) { q.value = ''; }
+    show(view.id);
+    drawer(false);
+    if (el === view) { window.scrollTo(0, 0); }
+    else {
+      var d = el.closest('details'); if (d) d.open = true;
+      if (only.checked && el.classList.contains('topic')) mark();
+      el.scrollIntoView();
+      el.classList.add('flash');
+      setTimeout(function () { el.classList.remove('flash'); }, 1900);
+    }
+  }
+
+  function mark() {
+    $$('.topic').forEach(function (t) {
+      var any = $$('.pt.asked, .warn', t).length > 0;
+      t.classList.toggle('empty', !any);
+    });
+  }
+
+  function apply() {
+    document.body.classList.toggle('imp', only.checked);
+    store('polfull-imp', only.checked ? '1' : '0');
+    mark();
+  }
+
+  function esc(s) { return s.replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; }); }
+
+  var index = null;
+  function build() {
+    index = [];
+    $$('.ch').forEach(function (c) {
+      $$('.topic', c).forEach(function (t) {
+        var head = $('h3', t).firstChild.textContent;
+        $$('.pt', t).forEach(function (p, i) {
+          var clone = p.cloneNode(true);
+          $$('.ps', clone).forEach(function (x) { x.remove(); });
+          var isRow = p.tagName === 'TR';
+          var text = (isRow ? $$('td', clone).map(function (d) { return d.textContent; }).join(' · ') : clone.textContent).replace(/\s+/g, ' ').trim();
+          index.push({ el: p, id: t.id, text: text, low: text.toLowerCase(), where: c.dataset.title + ' › ' + head, hot: p.classList.contains('asked') });
+        });
+      });
+    });
+  }
+
+  function search() {
+    var s = q.value.trim().toLowerCase();
+    if (s.length < 2) { show(last); return; }
+    if (!index) build();
+    var words = s.split(/\s+/);
+    var hits = index.filter(function (x) { return words.every(function (w) { return x.low.indexOf(w) > -1; }); });
+    hits.sort(function (a, b) { return (b.hot ? 1 : 0) - (a.hot ? 1 : 0); });
+    $('#rt').textContent = hits.length + (hits.length === 1 ? ' result' : ' results');
+    var re = new RegExp('(' + words.map(function (w) { return w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }).join('|') + ')', 'gi');
+    var list = $('#rl');
+    list.innerHTML = hits.slice(0, 60).map(function (x, i) {
+      return '<li><a href="#' + x.id + '" data-i="' + i + '">' + esc(x.text).replace(re, '<mark>$1</mark>') + '<small>' + esc(x.where) + '</small></a></li>';
+    }).join('') || '<li style="padding:10px 2px;color:var(--mute)">Nothing found. Try one word.</li>';
+    list._hits = hits;
+    show('results');
+    window.scrollTo(0, 0);
+  }
+
+  $('#rl').addEventListener('click', function (e) {
+    var a = e.target.closest('a'); if (!a) return;
+    e.preventDefault();
+    var hit = this._hits[+a.dataset.i];
+    if (only.checked && !hit.hot) { only.checked = false; apply(); }
+    q.value = '';
+    var v = hit.el.closest('.view');
+    show(v.id);
+    history.replaceState(null, '', '#' + hit.id);
+    hit.el.scrollIntoView({ block: 'center' });
+    hit.el.classList.add('flash');
+    setTimeout(function () { hit.el.classList.remove('flash'); }, 1900);
+  });
+
+  menu.addEventListener('click', function () { drawer(!side.classList.contains('open')); });
+  scrim.addEventListener('click', function () { drawer(false); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') { if (q.value) { q.value = ''; show(last); } drawer(false); }
+    if (e.key === '/' && document.activeElement !== q) { e.preventDefault(); q.focus(); }
+  });
+  q.addEventListener('input', search);
+  only.addEventListener('change', apply);
+  window.addEventListener('hashchange', route);
+  $$('.side a').forEach(function (a) { a.addEventListener('click', function () { drawer(false); }); });
+
+  window.addEventListener('beforeprint', function () { $$('.rows details').forEach(function (d) { d.open = true; }); });
+
+  only.checked = store('polfull-imp') === '1';
+  apply();
+  route();
+})();
+</script><script>(function(){var D=JSON.parse(document.getElementById("pqd").textContent),A=Object.keys(D).map(function(i){var q=D[i];q.i=i;return q}),
+L=document.getElementById("pqList"),ch=document.getElementById("pqCh"),yr=document.getElementById("pqYr"),rep=document.getElementById("pqRep"),more=document.getElementById("pqMore"),sc=document.getElementById("pqScore"),cur=[],shown=0,done=0,right=0,ans={};
+function pick(){cur=A.filter(function(q){return(!ch.value||q.ch===ch.value)&&q.y>=+yr.value&&(!rep.checked||q.n>1)});shown=0;L.innerHTML="";add()}
+function card(q){return'<li class="pq-q" data-i="'+q.i+'"><div class="pq-meta">'+q.e+'</div><div class="pq-stem">'+q.s+'</div><div class="pq-opts">'+q.o.map(function(o,j){return'<button type="button" class="pq-o" data-j="'+j+'">('+"abcde"[j]+') '+o+'</button>'}).join("")+'</div><div class="pq-fb" hidden></div></li>'}
+function add(){var part=cur.slice(shown,shown+10);L.insertAdjacentHTML("beforeend",part.map(card).join(""));shown+=part.length;part.forEach(function(q){if(ans[q.i]!==undefined)mark(L.querySelector('[data-i="'+q.i+'"]'),q,ans[q.i],true)});more.hidden=shown>=cur.length;score()}
+function score(){sc.textContent=cur.length+" questions · showing "+shown+" · answered "+done+" · correct "+right+(done?" ("+Math.round(100*right/done)+"%)":"")}
+function mark(li,q,j,replay){var ok=q.k.indexOf(j)>=0;[].forEach.call(li.querySelectorAll(".pq-o"),function(b,x){b.disabled=true;if(q.k.indexOf(x)>=0)b.classList.add("ok");else if(x===j)b.classList.add("no")});
+var fb=li.querySelector(".pq-fb");fb.hidden=false;fb.innerHTML='<b class="'+(ok?"ok":"no")+'">'+(ok?"Correct.":"Not correct.")+'</b> '+q.f+(q.n>1?' <span class="p up">UPPSC ×'+q.n+'</span>':'')+' <a href="#'+q.h+'">Open note →</a>';if(!replay){ans[q.i]=j;done++;if(ok)right++;score()}}
+L.addEventListener("click",function(e){var b=e.target.closest(".pq-o");if(!b||b.disabled)return;var li=b.closest(".pq-q");mark(li,D[li.dataset.i],+b.dataset.j)});
+ch.onchange=yr.onchange=rep.onchange=pick;more.onclick=add;
+document.getElementById("pqShuf").onclick=function(){for(var i=A.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=A[i];A[i]=A[j];A[j]=t}pick()};
+document.getElementById("pqReset").onclick=function(){ans={};done=0;right=0;A.sort(function(a,b){return a.i<b.i?-1:1});pick()};
+document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("[data-pq-ch]");if(!a)return;ch.value=a.getAttribute("data-pq-ch");yr.value="0";rep.checked=false;pick()},true);pick()})();</script>

@@ -32,6 +32,7 @@ E = html.escape
 
 # Order here is the order of the tabs. Add a subject by adding a line.
 SUBJECTS = [
+    {"key": "history", "name": "Indian History", "hindi": "भारतीय इतिहास", "folder": "Indian_History_Part_2"},
     {"key": "environment", "name": "Environment & Ecology", "hindi": "पर्यावरण एवं पारिस्थितिकी", "folder": "Environment_2025"},
     {"key": "polity", "name": "Indian Polity", "hindi": "भारतीय राजव्यवस्था", "folder": "Indian_Polity_2026"},
     {"key": "economy", "name": "Economy", "hindi": "अर्थव्यवस्था", "folder": "Economy 2024"},
