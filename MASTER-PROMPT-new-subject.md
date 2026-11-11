@@ -150,5 +150,75 @@ built, the counts, what you could not verify, and anything I should check.
 These books are large (History and Science 760 pages each, Geography 708), so expect each subject
 to take a long session.
 
-`Indian_Polity_and_Governance` holds a copy of the same Polity PDF that `Indian_Polity_2026`
-already covers, so it needs no new files.
+---
+
+## Ready-to-paste prompts
+
+Paste one of these as the whole message in a new Claude Code session opened in this project.
+
+### General Geography
+
+```text
+Read MASTER-PROMPT-new-subject.md in this project and follow the prompt inside its box exactly,
+with these values:
+SUBJECT = General Geography
+HINDI = सामान्य भूगोल
+FOLDER = General_Geography_Part_3
+PDF = Preview_General_Geography_Part_3_2026_26117_C_E_Book_combined.pdf
+PREFIX = geography
+PROGRESS_KEY = geo72-done
+The book has 708 pages and many maps, diagrams and tables: read those pages as images.
+Keep Indian and World geography as separate chapter groups if the book separates them, and keep
+every UP-specific fact (rivers, soils, minerals, districts) because UPPSC asks them often.
+```
+
+### General Science
+
+```text
+Read MASTER-PROMPT-new-subject.md in this project and follow the prompt inside its box exactly,
+with these values:
+SUBJECT = General Science
+HINDI = सामान्य विज्ञान
+FOLDER = General_Science_Part_7
+PDF = Preview_General_Science_Part_7_2026_26121_C_E_Book_combined_1.pdf
+PREFIX = science
+PROGRESS_KEY = sci72-done
+The book has 760 pages. Keep Physics, Chemistry, Biology and Science & Technology as separate
+chapter groups if the book separates them. Keep formulas, units, chemical names and scientific
+names exactly as printed, and read pages with diagrams, tables or equations as images.
+```
+
+### Indian Polity and Governance: a completely fresh build
+
+`Indian_Polity_and_Governance` holds the same Polity book that `Indian_Polity_2026` was built
+from. This prompt rebuilds all three files from scratch in the new folder and makes the
+dashboard's Polity tab use them. The old Polity files stay where they are and appear under
+"Other notes".
+
+```text
+Read MASTER-PROMPT-new-subject.md in this project and follow the prompt inside its box exactly,
+with these values:
+SUBJECT = Indian Polity
+HINDI = भारतीय राजव्यवस्था
+FOLDER = Indian_Polity_and_Governance
+PDF = Preview_Indian_Polity_and_Governance_Part_4_2026_26118_C_E_Book.pdf
+PREFIX = polity
+PROGRESS_KEY = polgov72-done
+This is a completely fresh build. Read the 530-page PDF from the first page to the last and
+write the notes from the book itself. Use the files in Indian_Polity_2026 only as layout
+templates (CSS, JavaScript, page structure); do not copy their notes, counts or chapter list.
+The book's index runs about three pages ahead of the real chapter starts, so take chapter
+boundaries from the actual headings.
+Wire-in step, instead of adding a new SUBJECTS line: in dashboard-src/build_dashboard.py change
+the existing Polity entry's folder from "Indian_Polity_2026" to "Indian_Polity_and_Governance",
+keeping "key": "polity". Do not delete or edit anything in Indian_Polity_2026.
+After building, run python dashboard-src/build_dashboard.py: the Polity tab must show all three
+new files with no "sitenav warning" lines, and the old Polity files must appear under Other notes.
+Finally, compare the new full notes with Indian_Polity_2026/polity-uppsc-full-notes.html and
+tell me which facts, chapters or UPPSC counts differ, so I can see whether the rebuild is better.
+```
+
+Economy (`Economy 2024`) has full notes and a 72-hour plan but no quick notes yet. To build only
+that file, use the master prompt with Economy's values and say "build only the quick-notes file;
+use the same 19 chapter numbers and titles as economy-uppsc-full-notes.html, change nothing else,
+and do not add a SUBJECTS entry".
