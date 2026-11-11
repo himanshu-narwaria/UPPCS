@@ -1,0 +1,4 @@
+# Keep the publisher PDFs and build tools off the public website
+*.pdf
+dashboard-src/
+*.md
