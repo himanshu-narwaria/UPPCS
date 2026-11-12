@@ -1,0 +1,151 @@
+<script>(function () {
+  try {
+    var $ = function (s, r) { return (r || document).querySelector(s); };
+    var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
+    var views = $$('.view'), q = $('#q'), only = $('#only'), side = $('#side'), scrim = $('#scrim'), menu = $('#menu'), dark = $('#dark');
+    var last = 'home';
+
+    function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+
+    function drawer(open) {
+      if (side) side.classList.toggle('open', open);
+      if (scrim) scrim.classList.toggle('on', open);
+      if (menu) menu.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+
+    function show(id) {
+      views.forEach(function (v) { v.classList.toggle('on', v.id === id); });
+      $$('.side a').forEach(function (a) { a.classList.toggle('on', a.getAttribute('href') === '#' + id || a.dataset.v === id); });
+      if (id !== 'results') last = id;
+      var t = $('#' + id);
+      document.title = (t && t.dataset.title ? t.dataset.title + ' · ' : '') + 'Economy Quick Revision';
+    }
+
+    function route() {
+      var h = decodeURIComponent(location.hash.slice(1)) || 'home';
+      var el = document.getElementById(h);
+      if (!el) { h = 'home'; el = document.getElementById(h); }
+      if (!el) return;
+      var view = el.classList.contains('view') ? el : el.closest('.view');
+      if (!view) return;
+      if (q && q.value) { q.value = ''; }
+      show(view.id);
+      drawer(false);
+      if (el === view) { window.scrollTo(0, 0); }
+      else {
+        var d = el.closest('details'); if (d) d.open = true;
+        if (only && only.checked && el.classList.contains('topic')) mark();
+        el.scrollIntoView();
+        el.classList.add('flash');
+        setTimeout(function () { el.classList.remove('flash'); }, 1900);
+      }
+    }
+
+    function mark() {
+      $$('.topic').forEach(function (t) {
+        var any = $$('.pt.asked, .pt.keep, .warn', t).length > 0;
+        t.classList.toggle('empty', !any);
+      });
+    }
+
+    function apply() {
+      if (!only) return;
+      document.body.classList.toggle('imp', only.checked);
+      store('ecoup-imp', only.checked ? '1' : '0');
+      mark();
+    }
+
+    function esc(s) { return String(s).replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; }); }
+
+    var index = null;
+    function build() {
+      index = [];
+      $$('.ch').forEach(function (c) {
+        $$('.topic', c).forEach(function (t) {
+          var h3 = $('h3', t);
+          var head = h3 && h3.firstChild ? h3.firstChild.textContent : '';
+          $$('.pt', t).forEach(function (p, i) {
+            var clone = p.cloneNode(true);
+            $$('.ps', clone).forEach(function (x) { x.remove(); });
+            var isRow = p.tagName === 'TR';
+            var text = (isRow ? $$('td', clone).map(function (d) { return d.textContent; }).join(' · ') : clone.textContent).replace(/\s+/g, ' ').trim();
+            index.push({ el: p, id: t.id, text: text, low: text.toLowerCase(), where: (c.dataset.title || '') + ' › ' + head, hot: p.classList.contains('asked') });
+          });
+        });
+      });
+    }
+
+    function search() {
+      if (!q) return;
+      var s = q.value.trim().toLowerCase();
+      if (s.length < 2) { show(last); return; }
+      if (!index) build();
+      var words = s.split(/\s+/);
+      var hits = index.filter(function (x) { return words.every(function (w) { return x.low.indexOf(w) > -1; }); });
+      hits.sort(function (a, b) { return (b.hot ? 1 : 0) - (a.hot ? 1 : 0); });
+      var rt = $('#rt');
+      if (rt) rt.textContent = hits.length + (hits.length === 1 ? ' result' : ' results');
+      var re = new RegExp('(' + words.map(function (w) { return w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }).join('|') + ')', 'gi');
+      var list = $('#rl');
+      if (list) {
+        list.innerHTML = hits.slice(0, 60).map(function (x, i) {
+          return '<li><a href="#' + x.id + '" data-i="' + i + '">' + esc(x.text).replace(re, '<mark>$1</mark>') + '<small>' + esc(x.where) + '</small></a></li>';
+        }).join('') || '<li style="padding:10px 2px;color:var(--mute)">Nothing found. Try one word.</li>';
+        list._hits = hits;
+      }
+      show('results');
+      window.scrollTo(0, 0);
+    }
+
+    var rl = $('#rl');
+    if (rl) {
+      rl.addEventListener('click', function (e) {
+        var a = e.target.closest('a'); if (!a) return;
+        e.preventDefault();
+        var hit = this._hits && this._hits[+a.dataset.i];
+        if (!hit) return;
+        if (only && only.checked && !hit.hot) { only.checked = false; apply(); }
+        if (q) q.value = '';
+        var v = hit.el.closest('.view');
+        if (v) show(v.id);
+        history.replaceState(null, '', '#' + hit.id);
+        hit.el.scrollIntoView({ block: 'center' });
+        hit.el.classList.add('flash');
+        setTimeout(function () { hit.el.classList.remove('flash'); }, 1900);
+      });
+    }
+
+    if (menu && side) menu.addEventListener('click', function () { drawer(!side.classList.contains('open')); });
+    if (scrim) scrim.addEventListener('click', function () { drawer(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') { if (q && q.value) { q.value = ''; show(last); } drawer(false); }
+      if (e.key === '/' && q && document.activeElement !== q) { e.preventDefault(); q.focus(); }
+    });
+    if (q) q.addEventListener('input', search);
+    if (only) {
+      only.addEventListener('change', apply);
+      only.checked = store('ecoup-imp') === '1';
+      apply();
+    }
+    if (dark) {
+      var isDark = store('eco-theme') === 'dark' || (!store('eco-theme') && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+      dark.checked = isDark;
+      document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
+      dark.addEventListener('change', function () {
+        var theme = dark.checked ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+        store('eco-theme', theme);
+      });
+    }
+    window.addEventListener('hashchange', route);
+    $$('.side a').forEach(function (a) { a.addEventListener('click', function () { drawer(false); }); });
+    window.addEventListener('beforeprint', function () { $$('.rows details').forEach(function (d) { d.open = true; }); });
+
+    route();
+  } catch (err) {
+    console.error("Quick notes init error:", err);
+    var hm = document.getElementById("home");
+    if (hm) hm.classList.add("on");
+  }
+})();
+</script>
