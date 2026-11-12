@@ -38,6 +38,7 @@ SUBJECTS = [
     {"key": "economy", "name": "Economy", "hindi": "अर्थव्यवस्था", "folder": "Economy 2024"},
     {"key": "geography", "name": "General Geography", "hindi": "सामान्य भूगोल", "folder": "General_Geography_Part_3"},
     {"key": "science", "name": "General Science", "hindi": "सामान्य विज्ञान", "folder": "General_Science_Part_7"},
+    {"key": "current", "name": "Current Affairs", "hindi": "दृष्टि समसामयिकी", "folder": "Drishti-current affairs"},
 ]
 
 

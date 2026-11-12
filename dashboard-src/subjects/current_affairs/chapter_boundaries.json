@@ -1,0 +1,92 @@
+[
+  {
+    "num": 1,
+    "title": "Points to Remember",
+    "hindi": "याद रखने योग्य बिंदु",
+    "start_page": 4,
+    "end_page": 17,
+    "weightage": "High weightage",
+    "gist": "Over 1,100 rapid revision one-liners and high-yield Q&As across National, International, Economy, Sci-Tech, UP Special, and Sports."
+  },
+  {
+    "num": 2,
+    "title": "National Affairs",
+    "hindi": "राष्ट्रीय परिदृश्य",
+    "start_page": 18,
+    "end_page": 52,
+    "weightage": "High weightage",
+    "gist": "Key national policies, statutory amendments, central welfare schemes, judicial pronouncements, and governance milestones."
+  },
+  {
+    "num": 3,
+    "title": "International Affairs",
+    "hindi": "अंतरराष्ट्रीय परिदृश्य",
+    "start_page": 53,
+    "end_page": 86,
+    "weightage": "High weightage",
+    "gist": "Bilateral relations, prime ministerial and presidential visits, global indices, rankings, and multilateral conventions."
+  },
+  {
+    "num": 4,
+    "title": "Economic Affairs",
+    "hindi": "आर्थिक परिदृश्य",
+    "start_page": 87,
+    "end_page": 120,
+    "weightage": "High weightage",
+    "gist": "Union Budget 2026–27, Economic Survey 2025–26, banking sector reforms, fiscal indicators, industrial schemes, and trade."
+  },
+  {
+    "num": 5,
+    "title": "Science & Technology Affairs",
+    "hindi": "वैज्ञानिक परिदृश्य",
+    "start_page": 121,
+    "end_page": 143,
+    "weightage": "High weightage",
+    "gist": "Space exploration missions (JAXA MMX, Artemis II, ISRO LVM3), indigenous defence systems, health research, and AI."
+  },
+  {
+    "num": 6,
+    "title": "Environmental Affairs",
+    "hindi": "पर्यावरण परिदृश्य",
+    "start_page": 144,
+    "end_page": 156,
+    "weightage": "",
+    "gist": "UNEP Emissions Gap Report 2026, Ramsar wetlands tally (103), COP30 climate negotiations, and biodiversity initiatives."
+  },
+  {
+    "num": 7,
+    "title": "Uttar Pradesh Current Affairs",
+    "hindi": "उत्तर प्रदेश परिदृश्य",
+    "start_page": 157,
+    "end_page": 168,
+    "weightage": "High weightage",
+    "gist": "UP Special current affairs: state policies, infrastructure corridors, airports, industrial hubs, cultural festivals, and schemes."
+  },
+  {
+    "num": 8,
+    "title": "Bihar Current Affairs",
+    "hindi": "बिहार परिदृश्य",
+    "start_page": 169,
+    "end_page": 177,
+    "weightage": "",
+    "gist": "Bihar state current developments, data centres, GSVA growth rates, agriculture milestones, and governance portals."
+  },
+  {
+    "num": 9,
+    "title": "Short News, Awards and Persons",
+    "hindi": "संक्षिप्तियां, पुरस्कार एवं चर्चित व्यक्ति",
+    "start_page": 178,
+    "end_page": 220,
+    "weightage": "High weightage",
+    "gist": "National & international persons in news, prestigious awards & honours, books & authors, operations, days and themes."
+  },
+  {
+    "num": 10,
+    "title": "Sports News",
+    "hindi": "खेल परिदृश्य",
+    "start_page": 221,
+    "end_page": 241,
+    "weightage": "",
+    "gist": "Major sports events: Cricket Asia Cup, Grand Slam tennis, Paris Olympics/Paralympics, chess, and National Sports Awards."
+  }
+]
