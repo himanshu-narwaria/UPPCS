@@ -34,6 +34,7 @@ def main():
     run_step("generate_full_notes.py")
     run_step("generate_quick_notes.py")
     run_step("generate_72h_plan.py")
+    run_step("critic_adversarial_qa.py")
     
     print("\n==================================================")
     print(f"ALL INDIAN POLITY STUDY FILES REBUILT ({time.time() - t_start:.1f}s)!")

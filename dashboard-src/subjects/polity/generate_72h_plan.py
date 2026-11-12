@@ -163,21 +163,53 @@ def generate_72h_plan():
         read_blocks = []
         hour_q_ids = []
         
-        for c_num in ch_nums:
+        m_part = re.search(r'· part (\d+) of (\d+)$', title)
+        if m_part:
+            part_idx = int(m_part.group(1)) - 1
+            num_parts = int(m_part.group(2))
+            c_num = ch_nums[0]
             c = ch_dict.get(c_num)
-            if not c:
-                continue
-            hour_q_ids.extend(qs_by_ch.get(c_num, []))
             
-            c_pts = []
-            for top in c.get("topics", []):
-                for pt in top.get("points", []):
-                    c_pts.append(pt["html"])
-                    
-            if c_pts:
-                pts_html = "".join(f'<li class="pt">{p}</li>' for p in c_pts[:8])
-                read_blocks.append(f'<div class="ch-read"><h4>Chapter {c_num}: {html.escape(c["title"])}</h4><ul>{pts_html}</ul></div>')
+            # 1. Distinct Questions per part (strictly disjoint across parts)
+            ch_all_qs = qs_by_ch.get(c_num, [])
+            q_slice_size = min(15, max(10, len(ch_all_qs) // num_parts))
+            q_start = part_idx * q_slice_size
+            q_end = min(len(ch_all_qs), (part_idx + 1) * q_slice_size) if part_idx < num_parts - 1 else min(len(ch_all_qs), max((part_idx + 1) * q_slice_size, len(ch_all_qs)))
+            hour_q_ids = ch_all_qs[q_start:q_end]
+            if not hour_q_ids:
+                hour_q_ids = ch_all_qs[:15]
                 
+            # 2. Distinct Reading points per part
+            topics = c.get("topics", [])
+            num_topics = len(topics)
+            t_start = part_idx * num_topics // num_parts
+            t_end = (part_idx + 1) * num_topics // num_parts if part_idx < num_parts - 1 else num_topics
+            assigned_topics = topics[t_start:t_end] if t_start < t_end else [topics[min(t_start, num_topics - 1)]]
+            
+            for top in assigned_topics:
+                pts = [p["html"] for p in top.get("points", [])]
+                if pts:
+                    pts_html = "".join(f'<li class="pt">{p}</li>' for p in pts[:8])
+                    read_blocks.append(f'<div class="ch-read"><h4>{html.escape(top["title"])}</h4><ul>{pts_html}</ul></div>')
+        else:
+            # Single or combined chapters
+            for c_num in ch_nums:
+                c = ch_dict.get(c_num)
+                if not c:
+                    continue
+                c_qs = qs_by_ch.get(c_num, [])
+                take_q = 15 // len(ch_nums) if len(ch_nums) > 1 else 15
+                hour_q_ids.extend(c_qs[:take_q])
+                
+                c_pts = []
+                for top in c.get("topics", []):
+                    for pt in top.get("points", []):
+                        c_pts.append(pt["html"])
+                        
+                if c_pts:
+                    pts_html = "".join(f'<li class="pt">{p}</li>' for p in c_pts[:8])
+                    read_blocks.append(f'<div class="ch-read"><h4>Chapter {c_num}: {html.escape(c["title"])}</h4><ul>{pts_html}</ul></div>')
+                    
         out.append(f'<section class="view" id="h{h}" data-n="{h}">')
         out.append(f'<p class="eyebrow">{eyebrow}</p>')
         out.append(f'<h2>{html.escape(title)}</h2>')
@@ -205,7 +237,11 @@ def generate_72h_plan():
         hour_q_ids = []
         for c in rev_chapters:
             c_num = c["num"]
-            hour_q_ids.extend(qs_by_ch.get(c_num, []))
+            c_qs = qs_by_ch.get(c_num, [])
+            rev_qs = [qid for qid in c_qs if qs[qid].get("n", 1) >= 2]
+            if len(rev_qs) < 5:
+                rev_qs += [qid for qid in c_qs if qid not in rev_qs]
+            hour_q_ids.extend(rev_qs[:5])
             rev_pts = []
             for top in c.get("topics", []):
                 for pt in top.get("points", []):
