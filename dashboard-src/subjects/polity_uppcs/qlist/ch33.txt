@@ -1,0 +1,35 @@
+1 | U.P.P.C.S. (Pre) 2015 | Q: The Planning Commission has been abolished by Prime Minister | KEY: Narendra Modi
+2 | U.P. R.O./A.R.O. (Mains) 2016 | Q: NITI Ayog was established in India in January 2015 by : | KEY: Union Cabinet passing a special resolution
+3 | Jharkhand P.C.S. (Mains) 2016 | Q: Replacing planning commission on which of the following day 'NITI Aayog' came into existence? | KEY: 1th January 2015
+4 | M.P.P.C.S. (Pre.) 2022 | Q: Who appoints the Vice Chairman of NITI Aayog? | KEY: The Prime Minister of India.
+5 | M.P.P.C.S. (Pre) 2020; M.P. P.C.S. (Pre) 2018 | Q: Who was the first Vice-Chairman of NITI Aayog? | KEY: Arvind Pangariya
+6 | U.P. R.O/A.R.O (Re. Exam) (Pre) 2023 | Q: Which among the following is not a part of the Governing Council of NITI Aayog ? | KEY: Governors of States
+7 | 47th B.P.S.C. (Pre) 2005 | Q: When was the Planning Commission established? | KEY: 15th March, 1950
+8 | U.P.P.C.S.(Pre) 1999 | Q: Planning Commission was established by- | KEY: A special resolution passed by the Union cabinet
+9 | U.P.P.C.S. (Pre) 2018 | Q: Which of the following is an extra constitutional agency? | KEY: NITI Ayog
+10 | U.P. Lower Sub. (Pre) 2015 | Q: Which one of the following is an extra-Constitutional body? | KEY: NITI Aayog
+11 | U.P.P.C.S.(Pre) 2013 | Q: Which one of the following is not a Constitutional body? | KEY: Planning Commission
+12 | Uttarakhand P.C.S. (Pre) 2005; U.P.P.C.S. (Mains) 2008; U.P.P.C.S. (Mains) 2010 | Q: Which one of the following is not a Constitutional body? | KEY: Planning Commission
+13 | U.P. P.C.S. (Mains) 2004; U.P. P.C.S. (Mains) 2003 | Q: Which of the following is not a Constitutional organ? | KEY: Planning Commission
+14 | U.P.P.C.S. (Pre) 2014; U.P.R.O./A.R.O. (Mains) 2013 | Q: Which one of the following is not a Constitutional body? | KEY: Planning Commission
+15 | I.A.S. (Pre) 2013 | Q: Which of the following body/bodies does not/do not find mention in the Constitution? 1. National Development Council 2. Planning Commission 3. Zonal Councils Select the correct answer using the codes given below | KEY: All of these
+16 | Uttarakhand P.C.S. (Pre) 2006 | Q: Who was the First Chairman of Planning Commission of India? | KEY: Pt. Jawaharlal Nehru
+17 | U.P. U.D.A./L.D.A. (Pre) 2006; M.P.P.C.S. (Pre) 2004 | Q: Who works as the Chairman of the Planning Commission? | KEY: Prime Minister
+18 | Uttarakhand U.D.A./L.D.A. (Pre) 2007 | Q: The Ex-officio-Chairman of Planning Commission is– | KEY: Prime Minister
+19 | U.P. Lower Sub. (Pre) 2015 | Q: Which one of the following is not correct about NITI Aayog? | KEY: It has a full-time Chairman
+20 | M.P.P.C.S. (Pre) 2016 | Q: Who among the following is associated with ‘NITI’ Aayog”? | KEY: Narendra Modi
+21 | U.P.P.C.S. (Pre) 1991 | Q: The Deputy Chairman of the Planning Commission is equivalent to- | KEY: Cabinet Minister
+22 | U.P.P.C.S. (Pre) 1994 | Q: The importance given to the Deputy Chairman of the Planning Commission in the official hierarchy of the Government is that of – | KEY: A Cabinet Minister in the Government of India
+23 | U.P. Lower Sub. (Pre) 2015 | Q: Who among the following has not been the Deputy Chairman of the Planning Commission in India? | KEY: P. Chidambaram
+24 | U.P.P.C.S. (Mains) 2010 | Q: Given below are two statements, one labelled as assertion (A) and the other labelled as Reason (R): Assertion (A) : Planning Commission has been defined as the economic cabinet, not merely for the Union but the States also. Reason (R) : It formulates the five-year plans for the balanced utilization  | KEY: Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+25 | M.P.P.C.S. (Pre) 2015 | Q: Who had suggested a merger of Finance and Planning Commision? | KEY: M.V. Mathur
+26 | U.P.P.C.S (Mains) 2016 | Q: When was the National Development Council formed in India? | KEY: 6th August, 1952
+27 | U.P.P.C.S. (Mains) 2004 | Q: Which one of the following statements in not true? | KEY: Planning Commission is the highest decision-making body for planning in India.
+28 | U.P.P.C.S. (Mains) 2010; U.P. P.C.S. (Mains) 2005 | Q: The National Development Council (NDC) – 1. Discusses the progress of the National Plan. 2. Suggests the ways to achieve the goals of the National Plan. 3. Gives guidelines to formulate the National Plan. 4. Suggests allocation of money in Planning. Considering the above statements, select the corre | KEY: 1, 2, and 3
+29 | Chhattisgarh P.C.S. (Pre) 2019 | Q: Which of the following is the main function of National Development Council in India? | KEY: All of these
+30 | I.A.S. (Pre) 2013 | Q: Who among the following constitutes the National Development Council? 1. The Prime Minister 2. The Chairman, Finance Commission 3. Ministers of the Union Cabinet 4. Chief Ministers of the States Select the correct answer using the code given below? | KEY: Only 1, 3 and 4
+31 | U.P.U.D.A./L.D.A. (Pre) 2002 | Q: National Development Council is primarily related to – | KEY: Approval of five-year plans
+32 | Chhattisgarh P.C.S. (Pre) 2011 | Q: Who acts as the Secretary of National Development Council (NDC)? | KEY: Secretary, Planning Commission
+33 | U.P.P.C.S.(Pre) 2012 | Q: Which among the following functions as a coordinator between the Planning Commission and State Governments? | KEY: National Development Council
+34 | Uttarakhand P.C.S. (Pre) 2006 | Q: Who presides over the meetings of the National Development Council of India? | KEY: Prime Minister of India
+35 | Uttarakhand P.C.S. (Pre) 2021 | Q: Which of the following statement is not correct about 'National Development Council'? | KEY: It is a statutory body.

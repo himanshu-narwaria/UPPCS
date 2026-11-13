@@ -1,0 +1,63 @@
+1 | 49thB.P.S.C. (Pre) 2000 | Q: Who advises the Government of India on legal matters? | KEY: Attorney General
+2 | U.P.P.C.S. (Pre) 2016 | Q: Who among the following holds his/her office during the pleasure of the President? | KEY: Attorney General of India
+3 | Chhattisgarh P.C.S. (Pre) 2013 | Q: How is the Attorney General of India appointed? | KEY: By the President
+4 | B.P.C.S. (Pre) 2018 | Q: The Attorney General of India is appointed by | KEY: the President of India
+5 | U.P. U.D.A./L.D.A. (Spl) (Pre) 2010 | Q: Who amongst the following is considered to be the first law officer of the Govt. of India ? | KEY: Attorney-General
+6 | U.P.P.C.S. (Pre) 2006 | Q: Who is known as the first law officer in India? | KEY: Attorney General of India
+7 | U.P.P.C.S. (Pre) 1995 | Q: The chief legal advisor to government of india is : | KEY: Attorney General of India
+8 | U.P.P.C.S. (Mains) 2008 | Q: The Attorney General of India is a legal advisor to | KEY: Government of India
+9 | U.P.P.C.S. (Pre) 2015 | Q: Who among the following shall have the right of audience in all courts in the territory of India in the performance of his duties? | KEY: Attorney General
+10 | Chhattisgarh P.C.S. (Pre) 2023 | Q: Who is the government's chief legal advisor and its primary lawyer in the Supreme Court of India? | KEY: None of the above
+11 | U.P.P.C.S. (Pre.) 2023 | Q: With reference to the Attorney General of India, which of the following statement/s is/are correct? (1) A person is appointed as Attorney General, who is qualified to be appointed as a Judge of the Supreme Court. (2) The Attorney General can be removed through the same process as the Judges of the S | KEY: Only (1)
+12 | M.P.P.C.S. (Pre) 2024 | Q: As per Article 76 of the Indian Constitution, the President shall appoint a person to be Attorney General for India : | KEY: who is qualified to be appointed a Judge of the Supreme Court.
+13 | U.P.R.O./A.R.O. (Mains) 2014; I.A.S. (Pre) 2000 | Q: Consider the following statements about the Attorney General of India: 1. He is appointed by the President of India 2. He must have the same qualifications as are required for a Judge of the Supreme Court 3. He must be a member of either House of Parliament 4. He can be removed by impeachment by Par | KEY: 1 and 2
+14 | U.P.P.C.S. (Pre) 2020 | Q: Consider the following statements in the context of Attorney General of India : 1. The President shall appoint a person who is qualified as to be appointed a Judge of Supreme Court. 2. The Attorney General shall receive such remuneration as the Parliament may determine. Select the correct answer usi | KEY: Only 1 is correct
+15 | UP R.O./A.R.O. (Pre) 2023 | Q: Consider the following statements with reference to Attorney General of India : (1) He holds office during the pleasure of the Prime Minister. (2) He is not entitled to the privileges of a Member of Parliament Select the correct answer from the code given below : Code : | KEY: Only 2
+16 | I.A.S. (Pre) 2022 | Q: Consider the following statements: 1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India. 2. According to the Constitution of India, the Attorney General of India submits his resig | KEY: Neither 1 nor 2
+17 | Uttarakhand P.C.S. (Pre) 2025 | Q: Who among the following official can be invited to give his opinion in the Parliament ? | KEY: Attorney General
+18 | I.A.S. (Pre) 2013 | Q: Consider the following statements: Attorney General of India can – 1. take part in the proceedings of the Lok Sabha. 2. be a member of a committee of the Lok Sabha. 3. speak in the Lok Sabha. 4. vote in the Lok Sabha. Which of the statements given above is/are correct? | KEY: 1,2 and 3
+19 | Uttarakhand P.C.S. (Pre) 2021 | Q: Who among the following has the right to participate in the parliamentary proceedings? | KEY: Attorney General of India
+20 | U.P.P.C.S. (Pre) 2011 | Q: Who among the following has right to address the Parliament? | KEY: Attorney General of India
+21 | Chhattisgarh P.C.S. (Pre) 2003 | Q: Who can attend either House of the Parliament without being a member? | KEY: Attorney General of India
+22 | U.P.P.C.S. (Mains) 2003 | Q: Who among the following has a right to speak and otherwise take part in the proceedings of the either House of Parliament and to be a member of any parliamentary committee but is not entitled to vote: | KEY: the Attorney General of India
+23 | 71st B.P.S.C. (Pre) 2025 | Q: Attorney General of India: | KEY: He gives advice to the President on legal matters
+24 | 60th to 62nd B.P.S.C. (Pre) 2016 | Q: Which officer of the Government of India has the right to take part in the proceedings of Parliament of India even though he is not a member? | KEY: None of the above/More than one of the above
+25 | U.P.P.C.S. (Mains) 2005 | Q: Who among the following can participate in the proceedings of both the Houses of Parliament? | KEY: Attorney-General
+26 | 48th to 52nd B.P.S.C. (Pre) 2008 | Q: As a Non-Member who can participate in the proceedings of either House of Parliament. | KEY: Vice-President
+27 | U.P.P.C.S. (Pre) 1991 | Q: Solicitor General of India is ........? | KEY: Legal Advisor
+28 | U.P.P.C.S. (Pre) 1994 | Q: The Solicitor General of India is: | KEY: A Legal Adviser
+29 | 45th B.P.S.C. (Pre) 2001 | Q: Who advises the State Government on legal matters? | KEY: Advocate-General
+30 | U.P. Lower Sub. (Pre) 2015 | Q: Who among the following is the legal adviser of a State Government? | KEY: The Advocate-General
+31 | U.P.P.C.S. (Mains) 2014; R.A.S./R.T.S.(Pre) 2003 | Q: The official legal adviser to the State Government is: | KEY: Advocate General
+32 | M.P.P.C.S. (Pre) 2024 | Q: Consider the following statements : 1. It shall be the duty of the Advocate General to give advice to the Government of the State upon legal matters. 2. The Advocate General shall hold office during the pleasure of the Cabinet. Which of the statements given above is/are correct? | KEY: 1 only
+33 | I.A.S. (Pre) 2009 | Q: Consider the following statements: 1. The Advocate General of a State in India is appointed by the President of India on the recommendation of the Governor of the concerned State. 2. As provided in Civil Procedure Code, High Courts have original appellate and advisory jurisdiction at the State level | KEY: Neither 1 nor 2
+34 | U.P.U.D.A./L.D.A. (Pre) 2001 | Q: The Comptroller and Auditor General of India is appointed by- | KEY: President
+35 | U.P. Lower Sub. (Pre) 2015 | Q: Under which Article of the Indian Constitution is the Comptroller and Auditor General of India appointed? | KEY: Article 148
+36 | U.P. Lower Sub. (Mains) 2013 | Q: The Reports of the Comptroller and Auditor General of India relating to the accounts of the Union are submitted first of all to which of the following? | KEY: President of India
+37 | M.P.P.C.S. (Pre), 2021 | Q: Comptroller and Auditor General of India submits its reports relating to accounts of the Union to | KEY: None of the above
+38 | U.P.P.C.S. (Pre) 2012 | Q: The office of the Comptroller and Auditor General of India was created – | KEY: By the Constitution
+39 | M.P.P.C.S. (Pre.) 2022 | Q: Where are the salary and service conditions of the Comptroller and Auditor General of India specified? | KEY: Second Schedule of the Constitution of India
+40 | U.P.P.C.S. (Pre) 1993 | Q: The tenure of Comptroller and Auditor General of India is – | KEY: 6 Years
+41 | M.P. P.C.S. (Pre) 2023 | Q: The Comptroller and Auditor General of India can hold his office for a maximum period of : | KEY: 6 years
+42 | U.P.P.S.C. (R.I.) 2014 | Q: Which of the following is not true about the Comptroller and Auditor General of India? | KEY: He can be removed by the President.
+43 | R.A.S/R.T.S. (Pre) 2018 | Q: The Comptroller and Auditor-General of India can be removed from his office in like manner as | KEY: Judge of the Supreme Court
+44 | R.A.S./R.T.S. (Pre) 2021 | Q: Assertion (A): The Duty of Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety. Reason (R): He has to uphold the Constitution and the Laws of Parliament in the field of financial administration. | KEY: Both (A) and (R) are true and (R) is the correct explanation of (A)
+45 | U.P.P.C.S. (Mains) 2004; I.A.S. (Pre) 2001 | Q: Which one of the following duties is not performed by Comptroller and Auditor General of India? | KEY: To control the receipt and issue of public money, and to ensure that the public revenue is lodged in the Exchequer
+46 | M.P.P.C.S. (Pre) 2020 | Q: Consider the following statements: (i) It shall be the duty of the Comptroller and AuditorGeneral to audit all receipts which are payable into the Consolidated Fund of India. (ii) The Comptroller and Auditor General shall have authority to audit and report on the accounts of stores or stock kept in  | KEY: Both (i) and (ii) are correct
+47 | I.A.S. (Pre) 2012 | Q: In India, other than ensuring that public funds are used efficiently and for the intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)? 1. CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency | KEY: 2 and 3
+48 | U.P.R.O./ A.R.O. (Mains) 2014 | Q: The ultimate responsibility of taking due action on the comments of the Comptroller and Auditor General vests with | KEY: Parliament
+49 | U.P.P.C.S. (Mains) 2011 | Q: Who amongst the following attends the meetings of the Public Accounts Committee of the Parliament? | KEY: Comptroller and Auditor General of India
+50 | M.P.P.C.S. (Pre) 2019 | Q: Which Article of the Constitution prescribes the duties of the comptroller and Auditor General of India? | KEY: Article 149
+51 | no exam label | Q: Match the following List - P (CAG) with List - R (Articles) : List—P List—R A. Appointment of CAG I. Article 148 B. Duties and Powers of CAG II. Article 151 C. Form of Accounts of the Union III. Article 149 D. Audit Reports IV. Article 150 Select correct option : A B C D | KEY: I III IV II
+52 | U.P.P.C.S. (Pre) 2006 | Q: The Comptroller and Auditor General is appointed by the President. He can be removed – | KEY:  | REVIEW: key or options unclear, do not tag
+53 | Jharkhand P.C.S. (Pre) 2023 | Q: Which among the following is not true about the Comptroller and Auditor General of India? I. The adminstrative expenses of his office are subject to vote of Parliament. II. He is not eligible for further office under the Government of India or of any State after he quits office. III. The CAG can be  | KEY: Only I
+54 | U.P.P.C.S. (Mains) 2006 | Q: The Comptroller and Auditor General of India is a friend and guide of: | KEY: Public Accounts Committee
+55 | M.P.P.C.S. (Pre), 2021 | Q: The power to grant or refuse leave to the Comptroller and Auditor General shall vest in the | KEY: President
+56 | U.P.P.C.S. (Pre) 2019 | Q: In which year was accounting separated from auditing and Comptroller and Auditor General's task only remained confined to auditing the Government Accounts? | KEY: 1976
+57 | U.P.P.C.S. (Spl) (Mains) 2004 | Q: The Amendment to (CAG Duties, Power and Condition of Service Act) 1971 separates Accounts from Audit and relieves the CAG of his responsibility in the matters of preparation of Accounts. The amendments were made in the year. | KEY: 1976
+58 | U.P.P.C.S. (Mains) 2003 | Q: Accounts of the States are controlled by the: | KEY: None of these
+59 | U.P. P.C.S. (Mains) 2008 | Q: Who is called the Guardian of Public Purse? | KEY: Comptroller and Auditor General
+60 | Uttarakhand U.D.A./L.D.A. (Mains) 2007 | Q: C.A.G. (Comptroller and Auditor General) of India acts as | KEY: The Guardian of Public Finance.
+61 | Chhattisgarh P.C.S. (Pre) 2020 | Q: Girish Chandra Murmu has become India's: | KEY: 14th Comptroller & Auditor General
+62 | U.P.P.C.S. (Mains) 2005 | Q: Match List-I with List-II and select the correct answer using the code given below. List-I (Officers) List-II (Institutions) A. Vice-President of India1. Public Accounts Committee B. Comptroller and 2. Meetings of Lok Sabha Auditor General of India C. Solicitor General of 3. Rajya Sabha India D. Att | KEY: 3 1 4 2
+63 | U.P.P.C.S. (Mains) 2014 | Q: Which of the following options is not correct? Public Finance Studies financial activities of the Government. It consists of ......... | KEY: Functioning of Commercial Bank

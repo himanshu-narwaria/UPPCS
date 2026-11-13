@@ -1,0 +1,162 @@
+1 | I.A.S. (Pre) 2025 | Q: The first Gandharva Mahavidyalaya, a music training school, was set up in 1901 by Vishnu Digambar Paluskar in | KEY: Lahore
+2 | I.A.S. (Pre) 2009 | Q: Consider the following pairs: | KEY: 2 and 3
+3 | M.P.P.C.S. (Pre) 2013 | Q: ‘Madhubani’ painting is related to which State? | KEY: Bihar
+4 | U.P. R.O./A.R.O. (Pre) 2023 | Q: Match List-I with List-II and select the correct answer using the code given below: | KEY: A-4, B-3, C-1, D-2
+5 | I.A.S. (Pre) 2013 | Q: In the context of the cultural history of India, a pose in dance and dramatics called Tribhanga has been a favourite of Indian artists from ancient times till today. Which one of the following statements best describes this pose? | KEY: One leg is bent and the body is slightly but oppositely curved at waist and neck
+6 | U.P.R.O./A.R.O. (Pre) (Re-Exam) 2016 | Q: Given below are two statements, one labelled as Assertion (A) and the other as Reason (R): Assertion (A): For education and culture a Centre for Cultural Resources and Training (CCRT) was set up in 1979. | KEY: Both A and Rare true and R is the correct explanation ofA
+7 | M.P.P.C.S. (Pre) 1992 | Q: At which of the following places Kumbh Mela is not held? | KEY: Varanasi
+8 | M.P.P.C.S. (Pre) 2013 | Q: After how many years is ‘Maha Kumbh’ held? | KEY: 12 years
+9 | M.P.P.S.C. (Pre) 1995 | Q: In which place is Kumbh Mela held every twelfth year? | KEY: Prayag - Haridwar - Ujjain - Nashik
+10 | U.P.P.C.S. (Mains) 2004; U.P.P.C.S. (Mains) 2002 | Q: Match List-I with List-II and select the correct answer from the codes given below the lists: | KEY: 1 2 3 4
+11 | U.P. P.C.S. (Pre) 2002 | Q: Onam is the festival of which State? | KEY: Kerala
+12 | Uttarakhand U.D.A./L.D.A. (Pre) 2007 | Q: ‘Bihu’is the folk dance ofwhich ofthe following States? | KEY: Assam
+13 | Uttarakhand U.D.A./L.D.A. (Pre) 2007 | Q: ‘Pongal’ is the festival of which State? | KEY: Tamil Nadu
+14 | U.P.P.C.S (Pre) 2011 | Q: South Indian Festival of ‘Onam’ is associated with which of the following? | KEY: Mahabali
+15 | U.P.P.C.S (Pre) 2011 | Q: ‘Athapoo’ is associated with which of the following festivals? | KEY: Onam
+16 | U.P.P.C.S. (Pre) 2009; U.P.P.C.S. (Mains) 2006 | Q: ‘Tamasha’ is the famous folk form of musical theatre in: | KEY: Maharashtra
+17 | U.P.P.C.S. (Pre) 2019 | Q: The book ‘Venushilpa’ by Chitracharya Upendra Maharathi relates to which of the following form of arts? | KEY: Bamboo art
+18 | U.P. Lower Sub. (Pre) 2002 | Q: Name the holy place in which the main God is different from other three? | KEY: Jagannath
+19 | Uttarakhand P.C.S. (Pre) 2010 | Q: Four Mathas established by Adi Shankaracharya are: | KEY: Joshimath, Dwarka, Puri, Sringeri
+20 | Uttarakhand P.C.S. (J) (Pre) 2005 | Q: In India, many pilgrims travel to Srisailam, which is one of the twelve Jyotirlingas, is located in- | KEY: in Andhra Pradesh near Kurnool
+21 | Uttarakhand P.C.S. (Pre) 2010 | Q: In which State is the Buddhist site Tabo Monastery located? | KEY: Himachal Pradesh
+22 | U.P.P.C.S.(Pre) 2003; U.P. U.D.A./L.D.A. (Pre) 2002; U.P. Lower Sub. (Pre) 2002; U.P.P.C.S.(Pre) 2001 | Q: Losoong is a festival which is celebrated in: | KEY: Sikkim
+23 | U.P.R.O./A.R.O. (Pre) (Re-Exam) 2016 | Q: "Wangla Festival" is celebrated in the following state: | KEY: Meghalaya
+24 | I.A.S. (Pre) 2002 | Q: Chapchar Kut is a festival celebrated in the State of: | KEY: Mizoram
+25 | M.P. P.C.S. (Pre) 1991 | Q: Ijtima Festival (Mela) is celebrated in- | KEY: Bhopal
+26 | U.P.R.O./A.R.O. (Re-Exam) (Pre) 2016 | Q: "Navarathri" is celebrated as Saraswathi Pooja in the following state: | KEY:  | REVIEW: key or options unclear, do not tag
+27 | M.P.P.C.S. (Pre) 2005 | Q: Who was the grandfather of Arjun, the hero of Mahabharata? | KEY: Vichitravirya
+28 | Uttarakhand P.C.S. (Pre) 2010 | Q: What is ‘Kaaba’? | KEY: Muslim Shrine
+29 | M.P.P.C.S. (Pre) 1995 | Q: What is the Jewish place of worship called? | KEY: Synagogue
+30 | U.P. P.C.S. (Mains) 2007 | Q: Where was the first Sanskrit University Chair established? | KEY: France
+31 | I.A.S. (Pre) 2009 | Q: Match List- I with List- II and select the correct answer using the codes given below the lists: | KEY: 2 4 3 1
+32 | Uttarakhand P.C.S. (Pre) 2012 | Q: The earliest reference to ‘Magnetic Compass’ is found in: | KEY: Jawamiul Hikayat
+33 | U.P.P.C.S. (Pre) 1999 | Q: The Chitragupta Swami Temple considered to be the only temple of Chitragupta is situated in: | KEY: Kanchi
+34 | I.A.S. (Pre) 2014 | Q: With reference to Buddhist history, tradition and culture in India, consider the following pairs: | KEY: 1 and 3 only
+35 | U.P. P.C.S. (Pre) 2000 | Q: Name the place where the Thyagaraja festival is regularly celebrated in the honour of composer Sri. Thyagaraja? | KEY: Thanjavur
+36 | U.P. P.C.S. (Pre) 1994 | Q: ‘Sufi Kalam,’a type ofdevotional music, is characteristic of: | KEY: Kashmir
+37 | I.A.S. (Pre) 2005 | Q: According to Mimamsa system ofphilosophy liberation is possible by means of: | KEY: Karma
+38 | Uttarakhand P.C.S. (Pre) 2006 | Q: “Jagar” is a form of God worship ritual prevalent in: | KEY: Uttarakhand
+39 | M.P. P.C.S. (Pre) 1997 | Q: Where is the ‘Rath Yatra’ festival held? | KEY: Puri
+40 | Jharkhand P.C.S. (Pre) 2021 | Q: Which of the following places is known as the village of temples? | KEY: Maluti
+41 | U.P. P.C.S. (Pre) 1998 | Q: Which of the following is not correctly matched? | KEY: Sadhvi Sadhana - Homemaker doctor
+42 | I.A.S. (Pre) 2007 | Q: Match List- I with List- II and select the correct answer using the codes given below the lists. | KEY: 1 2 3 4
+43 | U.P. P.C.S. (Pre) 1991 | Q: Alla Rakha, the famous instrumentalist, is related to: | KEY: Tabla
+44 | U.P.P.C.S. (Pre) 1998 | Q: Which of the following is not correctly matched? | KEY: Panna Lal Ghosh - Tabla
+45 | I.A.S. (Pre) 1997 | Q: Which one of the following pairs of composers in different languages and their works on the Mahabharata theme is correctly matched? | KEY: Pampa - Kannada
+46 | I.A.S. (Pre) 1999 | Q: The first writer to use Urdu as the medium of poetic expression was: | KEY: Amir Khusrau
+47 | R.A.S. /R.T.S. (Pre) 1999 | Q: ‘Radha Govind Sangeet Sar’ the renowned classical music composition is the creation of- | KEY: Sawai Pratap Singh
+48 | I.A.S. (Pre) 2012 | Q: With reference to Dhrupad, one ofthe major traditions of India that has been kept alive for centuries, which of the following statements are correct? | KEY: 2 and 3
+49 | I.A.S. (Pre) 2009 | Q: The brothers Umakant and Ramakant Gundecha are: | KEY: Dhrupad vocalists
+50 | R.A.S./R.T.S. (Pre) 1992 | Q: The author of the ‘Raga Kallpadrum’ is- | KEY: Krishnanand Vyas
+51 | Uttarakhand U.D.A./L.D.A. (Pre) 2007 | Q: The ‘Raga’ which is sung early in the morning is: | KEY: Todi
+52 | I.A.S. (Pre) 2000 | Q: Consider the following statements regarding the Chakiarkoothu form of dance: | KEY: 1, 3 and 4
+53 | I.A.S. (Pre) 2017 | Q: With reference to Manipuri Sankirtana, consider the following statements: | KEY: 1 and 3 only
+54 | Uttarakhand U.D.A./L.D.A. (Pre) 2007 | Q: Pandit Bhimsen Joshi is related to: | KEY: Music
+55 | U.P.P.C.S. (Spl) (Mains) 2008 | Q: The famous classical singer, Bhimsen Joshi, is related to – | KEY: Kirana Gharana
+56 | I.A.S. (Pre) 2001 | Q: Match List- I with List- II and select the correct answer using the codes given below the lists: | KEY: 3 1 4 2
+57 | U.P.R.O./A.R.O. (Mains) 2013 | Q: Match List-I with List-II and choose the correct answer from the code given below lists: | KEY: 1 4 3 2
+58 | U.P. R.O./A.R.O. (Pre) 2023 | Q: Match List-I with List-II and select the correct answer using the code given below: | KEY: A-1, B-3, C-4, D-2
+59 | Uttarakhand P.C.S. (Mains) 2006 | Q: ‘Odissi’ dance belongs to – | KEY: Orissa
+60 | U.P.P.C.S. (Pre) 2005 | Q: ‘Mohini Attam’ is the folk dance of – | KEY: Kerala
+61 | I.A.S. (Pre) 2014 | Q: With reference to the famous Sattriya dance, consider the following statements: | KEY: 1 and 2 only
+62 | I.A.S. (Pre) 1997 | Q: Which one of the following dances involves solo performance? | KEY: Mohiniattam
+63 | I.A.S. (Pre) 2014 | Q: Consider the following pairs: | KEY: 1 and 3 only
+64 | I.A.S. (Pre) 2024 | Q: Which one of the following was the latest inclusion in the Intangible Cultural Heritage List of UNESCO? | KEY: Garba dance
+65 | I.A.S. (Pre) 2012 | Q: How do you distinguish between Kuchipudi and Bharatanatyam dances? | KEY: Only 1
+66 | Jharkhand P.C.S. (Pre.) 2021 | Q: Which one ofthe following classical dance in its present form has influence of Mughal tradition? | KEY: Kathak
+67 | I.A.S. (Pre) 2002 | Q: Match List- I (Artist) with List- II (Art) and select the correct answer using the codes given below the lists: | KEY: 4 2 1 3
+68 | M.P. P.C.S. (Pre) 1997 | Q: Which of the following dance styles originates from eastern India? | KEY: Manipuri
+69 | Uttarakhand U.D.A./L.D.A. (Pre) 2007 | Q: From which classical dance system Indrani Rahman is related? | KEY:  | REVIEW: key or options unclear, do not tag
+70 | U.P.P.C.S. (Mains) 2011; U.P.P.C.S. (Pre) 2002 | Q: Girija Devi, famous singer of Thumri belongs to: | KEY: Banaras Gharana
+71 | M.P.P.C.S. (Pre) 2013 | Q: Which of the following musical instruments is not of Indo-Islamic origin? | KEY: Sarangi
+72 | U.P.P.C.S. (Mains) 2008; U.P.P.S.C. (GIC) 2010 | Q: Gangubai Hangal, who died a few months ago, was a: | KEY: Classical singer
+73 | U.P.P.C.S. (Pre) 2000; U.P. Lower Sub. (Spl) (Pre) 2004 | Q: ‘Tera Tali’ is the folk dance of: | KEY: Rajasthan
+74 | U.P. R.O/A.R.O (Re. Exam) (Pre) 2025 | Q: Which one of the following pairs (Folk dance - Place of Origin) is not correctly matched? | KEY: Yakshagana – Rajasthan
+75 | 38th B.P.S.C. (Pre) 1992 | Q: Various States and their popular dance styles are given as follows- | KEY: 2 1 4 3
+76 | U.P.P.C.S. (Mains) 2003 | Q: Match List-I with List-II and select the correct answer using the codes given below the lists: | KEY: 3 4 2 1
+77 | U.P.P.C.S. (Pre) 1998 | Q: ‘Karagam’ a religious folk dance is Associated with: | KEY: Tamil Nadu
+78 | U.P.P.C.S. (Pre) 1990 | Q: Make the correct order- | KEY: 2 4 1 3 5
+79 | U.P.R.O./A.R.O (Pre) 2016 | Q: Which one of the following is not correctly matched? | KEY: Amjad Ali Khan - Pakhawaj
+80 | U.P.P.C.S. (Pre) 1992 | Q: Match the following – | KEY: 3 1 4 2
+81 | M.P. P.C.S. (Pre) 1994 | Q: Sri. V.G. Jog is famous for which of the following instrumental music? | KEY: Violin
+82 | Chhattisgarh P.C.S. (Pre) 2018 | Q: Akum and Todi is a musical instrument of which category? | KEY: Wind instrument
+83 | R.A.S./R.T.S. (Pre.) 2021 | Q: On which part of body “Toti” ornament is worn? | KEY: Ears
+84 | U.P.P.C.S. (Mains) 2010 | Q: Match List- I with List- II and select the correct answer from the codes given below the lists: | KEY: 2 1 4 3
+85 | U.P. U.D.A./L.D.A. (Pre) 2010 | Q: Match List- I with List- II and select the correct answer from the code given below the Lists: | KEY: 1 3 2 4
+86 | M.P.P.C.S. (Pre) 1993 | Q: Match the following- (A) Pt. Shiv Kumar Sharma 1. Hindustani Music (B) Pt. Mallikarjun Mansur 2. Violin Player | KEY: 3 1 2 4
+87 | U.P.P.C.S. (Spl) (Mains) 2004 | Q: Match List-I with List-II and select the correct answer by using the codes given below the Lists: | KEY: 3 4 2 1
+88 | U.P.P.C.S (Pre) 2010 | Q: Match List-I with List-II and choose the correct answer from the codes given below: | KEY: 2 4 1 3
+89 | M.P. P.C.S. (Pre) 1993 | Q: Who among the following is an excellent dancer of Kathak? | KEY: Birju Maharaj
+90 | U.P.P.C.S. (Pre) 2009 | Q: Identify one of the following who is not associated with Kathak dance- | KEY: Dhruvtara Joshi
+91 | U.P.P.C.S. (Spl) (Mains) 2008 | Q: Who amongst the following is not a Kathak artist? | KEY: Kishan Maharaj
+92 | R.A.S./R.T.S.(Pre) 2003 | Q: To which State does the folk art form of Madhubani belong? | KEY: Bihar
+93 | I.A.S. (Pre) 2014 | Q: With reference to India’s culture and tradition, what is ‘Kalaripayattu? | KEY: It is an ancient martial art and a living tradition in some parts of South India
+94 | U.P.R.O./A.R.O (Pre) 2016 | Q: Which one of these signifies the folk culture? | KEY: Cultural practices of common people
+95 | I.A.S. (Pre) 2015 | Q: Kalamkari painting refers to – | KEY: A hand-painted cotton textile in South India
+96 | M.P. P.C.S. (Pre) 1992 | Q: Match the following- | KEY: 4 1 3 2
+97 | R.A.S./R.T.S. (Pre) 1992 | Q: Folk songs have paramount importance – | KEY: for preserving traditions
+98 | I.A.S. (Pre) 2018 | Q: With reference to cultural history of India, consider the following statements: | KEY: 2 and 4 only
+99 | R.A.S./R.T.S. (Pre) 1992 | Q: The dance which is not classical – | KEY: Garba
+100 | U.P. P.C.S. (Pre) 1993 | Q: Which one of the following is correct? | KEY: Hari Prasad Chaurasia - Flute
+101 | 38th B.P.S.C. (Pre) 1992 | Q: Which one of the following pairs is wrong? | KEY: M.S. Subbalakshmi - Flute
+102 | I.A.S. (Pre) 2000 | Q: Match List- I with List- II and select the correct answer using the codes given below the lists: | KEY: 5 1 4 3
+103 | Uttaranchal P.C.S. (Pre) 2005 | Q: Match List-I with List-II and select the correct answer using codes given below- | KEY: 3 5 2 1
+104 | U.P.P.C.S. (Pre) 2011 | Q: Match List- I with List- II and select the correct answer using codes given below- | KEY: 2 1 4 3
+105 | I.A.S. (Pre) 2009 | Q: Match List- I with List- II and select the correct answer using the codes given below the lists: | KEY: 2 1 4 3
+106 | I.A.S. (Pre) 2009 | Q: Consider the following famous names: | KEY: 1, 2, 3 and 4
+107 | I.A.S. (Pre) 2009 | Q: Match List- I with List- II and select the correct answer using the codes given below the lists: | KEY: 2 4 1 3
+108 | U.P. U.D.A./L.D.A. (Pre) 2002 | Q: Which of the following Academy is responsible for fostering the development of dance, drama and music in India? | KEY: Sangeet Akademi
+109 | Chhattisgarh P.S.C. (Pre) 2005 | Q: Who among the following is a flute player? | KEY: Ronu Majumdar
+110 | M.P. P.C.S. (Pre) 1994 | Q: Match the following: | KEY: 2 1 4 3
+111 | M.P. P.C.S. (Pre) 1998 | Q: Ustad Amjad Ali Khan is a famous player of which musical instrument? | KEY: Sarod
+112 | U.P.P.C.S. (Pre) 2005 | Q: Which of the following is not correctly matched? | KEY: Zakir Hussain - Harmonium
+113 | U.P. U.D.A./L.D.A. (Pre) 2002 | Q: Which one of the following is the most ancient musical instrument: | KEY: Veena
+114 | U.P.P.C.S. (Pre) 2000 | Q: Musical instrument sitar is the combination of: | KEY: Veena and Tambura
+115 | I.A.S. (Pre) 1999 | Q: Which one of the following pairs of folk dance forms and States is not correctly matched? | KEY: Thali - Himachal Pradesh
+116 | Uttaranchal P.C.S. (Pre) 2002 | Q: Kuchipudi dance started in- | KEY: Andhra Pradesh
+117 | M.P.P.C.S. (Pre) 1995 | Q: ‘Kuchipudi’ dance is related to: | KEY: Andhra Pradesh
+118 | M.P.P.C.S. (Pre) 1994; U.P. Lower Sub. (Pre) 2002 | Q: Match the following: | KEY: 4 3 2 1
+119 | U.P. R.O./A.R.O. (Pre) 2023 | Q: Match List-I with List-II and select the correct answer using the code given below: | KEY: A-4, B-2, C-1, D-3
+120 | U.P.R.O./A.R.O. (Pre) 2014 | Q: The folk dance of Meghalaya is – | KEY: Loho
+121 | U.P.P.C.S. (Mains) 2014 | Q: In Indian architecture, ‘Surkhi’ was introduced by | KEY: Kushans
+122 | U.P.R.O./A.R.O (Mains) 2014 | Q: Which one ofthe following is not the factor of‘Cultural Lag’? | KEY: Politics
+123 | Chhattisgarh P.C.S. (Pre) 2008 | Q: Which dance is performed only by males? | KEY: Kathakali
+124 | U.P. P.C.S. (Pre) 1992 | Q: Mask dance is associated with which of the following dance styles? | KEY: Kathakali
+125 | I.A.S. (Pre) 1999 | Q: Match List- I with List- II and select the correct answer using the codes given below the lists: List- I A. Pandit Vishnu Digambar Paluskar B. Venkatamahi C. Shyama Shastri D. Amir Khusrau List- II | KEY: 4 1 2 3
+126 | U.P.P.C.S. (Pre) 2008 | Q: Which one of the following dances is related to Gujarat? | KEY: Raas dance
+127 | I.A.S. (Pre) 2001 | Q: Which of the following pairs is not correctly matched? | KEY: India’s first actress to win the Bharat Ratna – Meena Kumari
+128 | M.P. P.C.S. (Pre) 1997; I.A.S. (Pre) 1995 | Q: The lead character in the film “The Bandit Queen” has been played by: | KEY: Seema Biswas
+129 | M.P. P.C.S. (Pre) 1998 | Q: Who was the producer of the famous T.V. serial ‘Ramayan’? | KEY: Ramanand Sagar
+130 | I.A.S. (Pre) 1997 | Q: The film ‘The Making of the Mahatma’ has been directed by: | KEY: Shyam Benegal
+131 | M.P. P.C.S. (Pre) 1998 | Q: Who played the role of Gandhi in the movie ‘Gandhi’? | KEY: Ben Kingsley
+132 | M.P. P.C.S. (Pre) 1992 | Q: Richard Attenborough is – | KEY: Producer and director.
+133 | I.A.S. (Pre) 1999 | Q: The first feature film (talkie) to be produced in India was: | KEY: Alam Ara
+134 | M.P. P.C.S. (Pre) 1993 | Q: Whom did the famous Indian actress Devika Rani marry? | KEY: Painter Svetoslav Roerich
+135 | M.P. P.C.S. (Pre) 2000 | Q: Who was the producer of the serial ‘Mahabharat’? | KEY: B.R. Chopra
+136 | I.A.S. (Pre) 1994 | Q: Vidushaka, a common character in Sanskrit drama is invariably – | KEY: Brahmana
+137 | M.P.P.C.S. (Pre) 1990 | Q: K. Shankar Pillai was a- | KEY: Cartoonist
+138 | I.A.S. (Pre) 2007 | Q: Raghu Rai is well known for which one of the following areas? | KEY: Photography
+139 | I.A.S. (Pre) 2007 | Q: Match List- I with List- II and select the correct answer by using the codes given below the lists. | KEY: 3 4 1 2
+140 | Chhattisgarh P.C.S. (Pre) 2020 | Q: In which year was Raja Ravi Verma, a famous painter of the Modern Age, born? | KEY: 1848
+141 | I.A.S. (Pre) 1999 | Q: The paintings of Abanindranath Tagore have been classified as: | KEY: Revivalistic
+142 | U.P.P.C.S. (Re. Exam) (Pre) 2015 | Q: Who among the following established “Indian Society of Oriental Art”? | KEY: Abanindranath Tagore
+143 | Chhattisgarh P.C.S. (Pre) 2020 | Q: In which year Nandalal Bose, a famous painter, had become the Principal ofKala Bhawan (Shantiniketan)? | KEY: 1922
+144 | M.P.P.C.S. (Pre) 2015 | Q: Who was Vishnu Chinchalkar? | KEY: Chitrakar
+145 | M.P. P.C.S. (Pre) 1997 | Q: What is Monalisa? | KEY: Painting
+146 | M.P. P.C.S. (Pre) 1998 | Q: ‘Mera piya ghar aaya’ has been sung by which Pakistani singer? | KEY: Nusrat Fateh Ali Khan
+147 | M.P. P.C.S. (Pre) 1991 | Q: Jamini Roy was – | KEY: Painter
+148 | Uttarakhand P.C.S. (Pre) 2021 | Q: The famous 'Gangasagar Mela' is held in which of the following states of India? | KEY: West Bengal
+149 | M.P.P.C.S. (Spl) (Pre) 2004 | Q: What is Britney Spears famous for? | KEY: Singing
+150 | 69th B.P.S.C. (Pre) 2023 | Q: In which country is the three-day celebration of Thadingyut festival celebrated? | KEY: Myanmar
+151 | Jharkhand P.C.S. (Pre) 2003; R.A.S./R.T.S. (Pre) 1996 | Q: Who among the following is considered the ‘Tagore’ of Punjabi language? | KEY: Puran Singh
+152 | U.P.P.C.S. (Mains) 2009 | Q: The famous painting Satyam Shivam Sundaram was prepared by: | KEY: Shivnandan Nautiyal
+153 | U.P. U.D.A/L.D.A. (Mains) 2010 | Q: Match List-I with List-II and select the correct answer from the codes given below: | KEY: 1 2 3 4
+154 | I.A.S. (Pre) 2001 | Q: Match List- I with List- II and select the correct answer using the code given below the lists: | KEY: 3 1 4 2
+155 | Uttarakhand P.C.S. (Mains) 2006 | Q: The first Indian lady to climb on Everest top is | KEY: Bachendri Pal
+156 | I.A.S. (Pre) 1999 | Q: Match List-I with List-II and select the correct answer from the codes given below: | KEY: 3 2 4 1
+157 | U.P.P.C.S. (Pre) 2003; U.P.P.C.S.(Pre) 2001 | Q: Given below is a traditional list dresses of women along with States. Which one of them is not correctly matched: | KEY: Mundu - Chhattisgarh
+158 | Chhattisgarh P.C.S. (Pre) 2021 | Q: Match the following embroidery arts with their related States: | KEY: (ii) (iv) (i) (iii)
+159 | M.P.P.C.S. (Pre) 1990 | Q: Shanti Niketan is located in which district of West Bengal? | KEY: Birbhum
+160 | U.P. R.O./A.R.O. (Mains) 2021 | Q: Match List-I with List-II and select the correct answer using the code given below the lists: | KEY: 1 2 3 4
+161 | Uttarakhand P.C.S. (Mains) 2006 | Q: Match List-I with List-II and select the correct answer from the codes given below: | KEY: 4 1 3 2
+162 | M.P. P.C.S. (Pre) 1994 | Q: Match the following- | KEY: 4 2 3 1

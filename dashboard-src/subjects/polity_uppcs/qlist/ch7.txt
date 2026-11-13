@@ -1,0 +1,64 @@
+1 | M.P.P.C.S. (Pre) 1990 | Q: Total number of Schedules in the Constitution is – | KEY: 12
+2 | M.P.P.C.S. (Pre) 2010 | Q: Indian Constitution has - | KEY: 12 Schedules
+3 | I.A.S. (Pre) 2005 | Q: Consider the following statements: 1. The Constitution of India has 20 parts. 2. There are 390 Articles in the Constitution of India in all. 3. Ninth, Tenth, Eleventh and Twelfth Schedules were added to the Constitution of India by the Constitution (Amendment) Acts. Which of the statements given abo | KEY: 3 only
+4 | I.A.S. (Pre) 2003; U.P.P.C.S. (Mains) 2014 | Q: Which one of the following Schedules of the Indian Constitution lists the names of states and specifies their territories? | KEY: First
+5 | I.A.S. (Pre) 2001; U.P. Lower Sub (Spl.) (Pre) 2008 | Q: If a new state of the Indian Union is to be created, which one of the following Schedules of the Constitution must be amended? | KEY: First
+6 | U.P.P.C.S. (Mains) 2015 | Q: Fourth Schedule of the Constitution of India deals with | KEY: Allocation of seats for the Council of States
+7 | U.P.P.C.S. (Pre) 2017 | Q: Which of the following are enshrined in the third schedule of the Indian Constitution? 1. Form of oath of office for a Minister for the Union. 2. Form of oath to be made by the Chief Justice of Supreme Court. 3. Form of oath of office for the President of India. 4. Form of oath to be made by a Membe | KEY: 1, 2, 4
+8 | U.P.P.C.S. (Pre) 2022 | Q: Match List – I with List – II and select the correct answer from the code given below the lists. List – I (Schedule) List – II (Subject) A. Third Schedule 1. Allocation of seats in the Council of States B. Fourth Schedule 2. Forms of Oath or Affirmations C. Seventh Schedule 3. Languages D. Eighth Sc | KEY: 2 1 4 3
+9 | 71st B.P.S.C. (Pre) 2025 | Q: Which pair is not correctly matched? | KEY: Administration of 6th schedule scheduled areas
+10 | U.P.P.C.S. (Pre) 1999 | Q: Match List-I with List-II and select the correct answer from the code given below: List-I List-II (Schedules of (Subject- matter) the Constitution) A. 4th 1. Land Reforms B. 6th 2. Language C. 8th 3. Council of States D. 9th 4. Tribal Areas Code : A B C D | KEY: 3 4 2 1
+11 | U.P.R.O./A.R.O. (Pre) 2016 | Q: Match List-I with List-II and select the correct answer from the code given below the lists: List-I List-II A. 7th Schedule 1. Languages B. 8th Schedule 2. Disqualification on ground of defection C. 9th Schedule 3. Distribution of legislative powers D. 10th Schedule 4. Validation of certain Acts Cod | KEY: 3 1 4 2
+12 | U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016; U.P. P.C.S (Pre) 2025 | Q: Match List-I with List-II and select the correct answer from the codes given below. List-I List-II A. 7th Schedule 1. Languages B. 8th Schedule 2. Disqualification on the ground of defection C. 9th Schedule 3. Union, State and Concurrent lists D. 10th Schedule 4. Validation of certain Acts Codes : A | KEY: 3 1 4 2
+13 | U.P.P.C.S. (Pre.) 2023 | Q: Which one of the following pairs (Schedule – Subjects) is not correctly matched? | KEY: Ninth Schedule – Allocation of seats in the Council of States
+14 | I.A.S. (Pre) 2019 | Q: The Ninth Schedule was introduced in the Constitution of India during the prime ministership of : | KEY: Jawaharlal Nehru
+15 | U.P.P.C.S. (Mains) 2003 | Q: To give constitutional protection, state land reforms laws have been included in the – | KEY: 9th Schedule
+16 | I.A.S. (Pre.) 2018 | Q: Consider the following statements : 1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India. 2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no Judgement can be made on it. Which of the statements given above  | KEY: 1 only
+17 | U.P. P.C.S. (Mains) 2017 | Q: Coelho case is related to which Schedule of the Constitution of India? | KEY: Ninth
+18 | U.P.R.O./A.R.O. (Mains) 2021 | Q: The Provision of three legislative lists is found in the following Schedule of the Constitution– | KEY: VII
+19 | 60th to 62nd B.P.S.C. (Pre) 2016 | Q: Match the following : I. Union List A. 97 entries II. State List B. 47 entries III. Concurrent list C. 66 entries Code : I II III | KEY: A C B
+20 | Uttarakhand P.C.S. (Pre) 2002 | Q: Under the Constitution of India, Economic Planning is a subject: | KEY: In the Concurrent List
+21 | U.P.U.D.A/L.D.A. (Pre) 2006 | Q: Economic planning is included in which list of Constitution- | KEY: Concurrent List
+22 | 66th B.P.S.C. (Pre) (Re- Exam), 2020 | Q: Prevention of cruelty to animals is listed in which list of the Indian Constitution ? | KEY: Concurrent List
+23 | Chhattisgarh P.C.S. (Pre) 2011; U.P.P.C.S. (Mains) 2005 | Q: Which of the following is the subject of Concurrent List? | KEY: Criminal Matters
+24 | I.A.S. (Pre) 1993 | Q: Which of the following Entry is subject of Concurrent List- | KEY: Population control and family planning
+25 | U.P.P.C.S. (Pre) 2024 | Q: The Concurrent list of the Indian Constitution includes : 1. Trade and Commerce 2. Adulteration of Goods 3. Succession Select the correct answer from the codes given below : | KEY: 2 and 3
+26 | 71st B.P.S.C. (Pre) 2025 | Q: Consider the following subjects belonging to different lists of the constitution of India. Which of the following subjects belong to concurrent list? 1) Protection of wildlife 2) Income on Agriculture 3) Tax on Electricity consumption or sale 4) Price control Out of these: | KEY: 1 and 4 are correct
+27 | U.P.P.C.S. (Pre) 2019 | Q: Which of the following is not correctly matched? | KEY: Allocation of seats in the Second Schedule council of States
+28 | 47th B.P.S.C. (Pre) 2005 | Q: Which of the following Subject lies in the Concurrent List? | KEY: Education
+29 | U.P. Lower Sub. (Pre) 2008; U.P.P.C.S. (Mains) 2017 | Q: Education which was initially a state subject was transferred to the Concurrent List by the | KEY: 42th Amendment
+30 | Chhattisgarh P.C.S. (Pre) 2020 | Q: By which Amendment of the Constitution of India forests were transferred from the State list to the Concurrent List ? | KEY: 42nd
+31 | U.P.P.C.S. (Pre) 2009, 2010 | Q: Which one of the given Subjects is not correctly matched with their List Subject List | KEY: Stock Exchange Concurrent
+32 | U. P. P. C. S. (Mains) 2004 | Q: Match the following- List- I List II A. Union List 1.Police and Public Order B. State List 2. Space Research C. Concurrent List 3. Census D. Residuary Subject 4. Population Control and Family Planning Code : A B C D | KEY: 3 1 4 2
+33 | I.A.S (Pre) 2012 | Q: Which of the following provisions of the Constitution of India have a bearing on Education? 1. Directive Principles of State Policy 2. Rural and Urban Local Bodies 3. Fifth Schedule 4. Sixth Schedule 5. Seventh Schedule Select the correct answer using the code given below. | KEY: 1, 2, 3, 4 and 5
+34 | 41st B.P.S.C. (Pre) 1996 | Q: Constitution’s Tenth Schedule relates to- | KEY: Anti-defection Law
+35 | U.P.P.C.S. (Mains) 2005 | Q: The Tenth Schedule of Indian Constitution deals with– | KEY: Anti-defection law
+36 | U.P.P.C.S. (Pre) 1997 | Q: Which one of the following is not included in the Union List in the Seventh Schedule of the Indian Constitution- | KEY: Gas
+37 | Chhattisgarh P.C.S. (Pre) 2011 | Q: Which one of the following is not included in the ‘Union List’ of the Constitution of India? | KEY: Agriculture
+38 | U.P.P.C.S. (Pre) 1997 | Q: Which one of the following is included in the State List under Seventh Schedule of Indian Constitution- | KEY: Railway Police
+39 | U.P.P.C.S. (Pre) 2001 | Q: Which one of the following is in the State list? | KEY: Railway Police
+40 | Chhattisgarh P.C.S. (Pre) 2011; M.P.P.C.S. (Pre) 2019 | Q: In which list of the Indian Constitution the ‘Panchayati Raj’ subject is included? | KEY: State List
+41 | U.P.P.C.S. (Mains) 2006; U.P.P.C.S (Mains) 2011 | Q: Which one of the following subject is in List-III Concurrent List of the Seventh Schedule of the Constitution of India? | KEY: Criminal Procedure
+42 | U.P. Lower Sub. (Spl) (Pre) 2010 | Q: ‘Marriage,’ ‘Divorce’ and ‘Adoption’ are an entry in the Seventh Schedule of the Constitution’ under the following– | KEY: List III - Concurrent List
+43 | M.P.P.C.S. (Pre) 2020 | Q: Which List and Entry of Seventh Schedule of Indian Constitution is related to election of the legislature of the State? | KEY: List–I, Entry 72
+44 | I.A.S. (Pre) 2009 | Q: The right of the government to impose taxes and fees is provided in which Schedule of Constitution? | KEY: VII Schedule
+45 | I.A.S. (Pre) 2024 | Q: Which one of the following statements is correct as per the Constitution of India? | KEY: Inter-State quarantine is a Union subject under the Union List.
+46 | 43rd B.P.S.C. (Pre) 1999 | Q: Land Reform comes under the subjects of – | KEY: State List
+47 | I.A.S. (Pre) 1998, 2014; Uttarakhand P.C.S. (Pre) 2021; 70th B.P.S.C. (Re-Exam) 2024 | Q: Which one of the following Schedules of the Constitution of India contains provisions regarding Anti-defection law? | KEY: Tenth Schedule
+48 | U.P. Lower Sub. (Mains) 2013 | Q: In which Schedule of the Indian Constitution Antidefection Law is placed? | KEY: Tenth Schedule
+49 | I.A.S. (Pre) 2019 | Q: Under which Schedule of the Constitution of India can the transfer of tribal land to private parties for mining be declared null and void? | KEY: Fifth Schedule
+50 | I.A.S. (Pre) 2022 | Q: If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it? | KEY: This would prevent the transfer of land of tribal people to non-tribal people.
+51 | 69th B.P.S.C. (Pre) 2023 | Q: The Fifth Schedule deals with the governance and protection of the interests of which specific group of people? | KEY: Scheduled Tribes
+52 | I.A.S. (Pre) 2008 | Q: Which Schedule of the Constitution of India contains special provisions for the administration and control of Scheduled Areas in several states? | KEY: Fifth
+53 | I.A.S. (Pre) 2015 | Q: The provisions of the fifth and Sixth Schedule in the Constitution of India are made to – | KEY: Protect the interests of Scheduled Tribes
+54 | UP R.O./A.R.O. (Pre) 2023 | Q: The 6th schedule of the Indian Constitution is related to the administration of Tribal areas of : | KEY: Assam, Meghalaya, Tripura & Mizoram
+55 | M.P.P.C.S. (Pre) 2005 | Q: Provisions of Schedule sixth of the Constitution does not apply to which of these state? | KEY: Manipur
+56 | U.P.P.C.S. (Mains) 2016 | Q: The Sixth Schedule of the Constitution of India deals with the administration of tribal areas of which of the following States? | KEY: Meghalaya, Tripura, and Mizoram
+57 | U.P.P.C.S. (Pre) 2019 | Q: The provisions of the Sixth Schedule of Indian Constitution are applicable in which of the following states? | KEY: Tripura
+58 | UP R.O./A.R.O. (Pre) 2023 | Q: Consider the following statements with reference to Scheduled areas : 1. The President of India notifies Scheduled areas. 2. State with scheduled areas need to constitute a Tribal Advisory Council. Select the correct answer from the code given below : Code : | KEY: Both 1 and 2
+59 | I.A.S. (Pre.) 2023 | Q: With reference to ‘Scheduled Areas’ in India, consider the following statements : 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President. 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluste | KEY: Only two
+60 | I.A.S. (Pre) 2025 | Q: Consider the following statements : With reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule I. the State Government loses its executive power in such areas and a local body assumes total administration. II. the Union Government can ta | KEY: Neither I nor II
+61 | Chhattisgarh P.C.S. (Pre) 2021 | Q: What is/are true in relation to Autonomous Districts? (i) Each Autonomous District Council has 30 members (ii) 24 members of Autonomous District Council are elected via voting and rest 6 are nominated by Governor (iii)Rights to direct the Acts passed by Parliament of India in Autonomous Districts of | KEY: (i) and (iii)
+62 | U.P.P.S.C. (R.I.) 2014; U.P.P.C.S. (Pre) 2015 | Q: The Eleventh Schedule of the Constitution is related to which of the following? | KEY: Panchayati Raj
+63 | M.P.P.C.S. (Pre) 2024 | Q: The list of powers, authority and responsibilities which may be entrusted to the Panchayats is given in the : | KEY: Eleventh Schedule
+64 | U.P. P.C.S. (Pre) 2019 | Q: How many items are there in the 11th Schedule of the Constitution of India? | KEY: 29

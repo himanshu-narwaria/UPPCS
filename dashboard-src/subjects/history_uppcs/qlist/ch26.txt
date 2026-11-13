@@ -1,0 +1,42 @@
+1 | U.P. P.C.S. (Mains) 2004; U.P. P.C.S. (Pre) 2003; U.P.U.D.A./L.D.A. (Pre) 2002 | Q: The city of Jaunpur was founded in the memory of: | KEY: Muhammad-Bin-Tughluq
+2 | U.P. U.D.A./L.D.A. (Pre) 2006 | Q: Who had established Jaunpur? | KEY: Firuz Shah Tughluq
+3 | U.P. Lower Sub. (Pre) 2004; U.P. P.C.S. (Pre) 2001 | Q: Which one ofthe following places was known as ‘Shiraz of East’ during the regime of Sharqi Rulers? | KEY: Jaunpur
+4 | U.P.P.C.S. (Mains) 2005 | Q: Which one of the following places was called “Shiraz of India”? | KEY: Jaunpur
+5 | U.P.P.C.S. (Pre) 2017 | Q: Who was the last ruler of 'Jaunpur' state? | KEY: Hussain Shah
+6 | U.P. R.O./A.R.O. (Pre) 2023 | Q: Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R): Assertion (A): Jaunpur is known as Siraj-e-Hind. Reason (R): Jaunpur was a great centre of education during the Sharqi period. Select the correct answer using the code given below: Code - | KEY: Both (A) and (R) are true and (R) is correct explanation of (A).
+7 | R.A.S./R.T.S. (Pre) 1993 | Q: Ruler of Kashmir who was also known as “Akbar of Kashmir’ was- | KEY: Zain-ul-Abidin
+8 | Uttarakhand U.D.A./L.D.A. (Mains) 2006 | Q: Which among the following ruler abolished Jizya for first time? | KEY: Zain-ul-Abidin
+9 | U.P.P.C.S. (Pre) 2023 | Q: Which among the following ruler ofKashmir abolished Zaziya and Cow Slaughter? | KEY: Zain-ul-Abidin
+10 | I.A.S. (Pre) 1999 | Q: Consider the following statements: The striking feature of the Jama Masjid in Kashmir completed by Zain-ul-Abidin include(s): | KEY: 1, 2 and 3
+11 | R.A.S./R.T.S. (Pre) 2016 | Q: Who amongst the following scholars was not in the Court of Kumbha? | KEY: Muni Jin Vijay Suri
+12 | U.P. P.C.S. (Pre) 2021 | Q: Which one of the following is NOT correctly matched? | KEY: Malik Sarwar – Malwa Khwaja Jahan
+13 | I.A.S. (Pre) 2015 | Q: Consider the following pairs: | KEY: 2 only
+14 | Uttarakhand P.C.S. (Pre) 2002 | Q: Bahmani State was established by – | KEY: Alauddin Hasan
+15 | 60th to 62nd B.P.S.C. (Pre) 2016 | Q: Who was the founder of Bahmani Kingdom? | KEY: Alauddin Hasan
+16 | U.P.P.C.S. (Mains) 2005 | Q: The Bahmani Kingdom was founded in the year | KEY: 1347
+17 | Chhattisgarh P.C.S. (Pre) 2014 | Q: Which of the following was the first capital of the Bahamani Kingdom? | KEY: Gulbarga
+18 | U.P.P.C.S. (Pre) 1995 | Q: Who among the following was founder ofthe Bahamani Kingdom in Deccan: | KEY: Hasan Gangu
+19 | U.P.P.C.S. (Pre) 2016 | Q: Bahmani Kingdom was founded in – | KEY: 14th century A.D.
+20 | Uttarakhand P.C.S. (Pre) 2003; U.P. Lower Sub. (Pre) 2002 | Q: Match List- I with List- II and select the correct answer by using the codes given below: | KEY: 2 3 1 4
+21 | I.A.S. (Pre) 2000 | Q: Which one of the following Muslim rulers was hailed as the ‘Jagadguru’ by his Muslim subject because of his belief in secularism? | KEY: Ibrahim Adil Shah
+22 | U.P.P.C.S. (Pre) 2020 | Q: Who among the following was the author of the book 'Kitab-i-Nauras'? | KEY: Ibrahim Adil Shah II
+23 | I.A.S. (Pre) 2004 | Q: How did the dynasty of Nizam Shahi ofAhmadnagar come to an end? | KEY: Ahmadnagar was annexed to Mughal empire and Hussain Shah was consigned to life imprisonment
+24 | U.P.P.C.S. (Pre) 2004 | Q: Name the pair which is not correctly matched: | KEY: YusufAdil Shah - Ahmadnagar
+25 | M.P. P.C.S. (Pre) 1990 | Q: What is Golconda called at present: | KEY: Hyderabad
+26 | I.A.S. (Pre) 2023 | Q: Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese? | KEY: Bahadur Shah
+27 | U.P. Lower Sub (Pre) 2008; U.P.P.C.S. (Mains) 2003 | Q: Which one of the following is correctly matched? | KEY: Hoysala: Dwarasamudra & Pandya: Madurai
+28 | U.P.R.O./A.R.O. (Pre) 2014 | Q: “Dwarasamudra’ was the capital of which dynastic power? | KEY: Hoysala
+29 | I.A.S. (Pre) 2023 | Q: Consider the following dynasties: | KEY: None
+30 | U.P. P.C.S. (Pre) 2019 | Q: Match List-I with List-II and select the correct answer using the codes given below the lists: | KEY: 2 3 4 1
+31 | Uttarakhand P.C.S. (Pre) 2021 | Q: Which of the following Dynasty is associated with the female King Rudrma Devi? | KEY: Kakatiya
+32 | U.P. R.O./A.R.O. (Pre) 2023 | Q: Consider the following statements with reference to Rudrama and choose the correct statements about her - | KEY: Both 1 and 2
+33 | I.A.S. (Pre) 2001 | Q: Hoysala monuments are found in: | KEY: Halebid and Belur
+34 | U.P.P.C.S. (Mains) 2003 | Q: What is modern name of Hoysaleshvara’s ancient capital of Dwarasamudra? | KEY: Halebid
+35 | I.A.S. (Pre) 1995 | Q: Which one of the following monuments has a dome which is said to be one of the largest in the world? | KEY: Gol Gumbad, Bijapur
+36 | Uttarakhand P.C.S. (Pre) 2012 | Q: Match the following monuments with their concerned ruler and select the correct codes given below: | KEY: iv i iii ii
+37 | M.P. P.C.S. (Pre) 2017 | Q: Which of the following rulers got the Jantar Mahal of Mandu constructed? | KEY:  | REVIEW: key or options unclear, do not tag
+38 | M.P.P.C.S. (Pre) 2019 | Q: Which ruler among the following constructed 'Jahaj Mahal' of Mandu? | KEY:  | REVIEW: key or options unclear, do not tag
+39 | M.P.P.C.S. (Pre) 2010 | Q: Who built Gujari Mahal? | KEY: Man Singh
+40 | M.P. P.C.S. (Pre) 2017 | Q: Which of the following pairs is NOT correctly matched? | KEY: Adina Masjid – Mandu
+41 | U.P. R.O./A.R.O. (Mains) 2021 | Q: Match List-I with List-II and select the correct answer from the code given below the lists: | KEY: 2 4 1 3
+42 | U.P.P.C.S. (Re. Exam) (Pre) 2015 | Q: Who were Polygars of South India? | KEY: Territorial Administrative and Military Governors

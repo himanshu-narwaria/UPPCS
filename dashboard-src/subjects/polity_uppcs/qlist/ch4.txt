@@ -1,0 +1,29 @@
+1 | U.P.P.C.S. (Mains) 2013; 45th B.P.S.C. (Pre) 2001 | Q: In Indian political system which one is supreme? | KEY: The Constitution
+2 | U.P.P.C.S. (Pre) 1998 | Q: The concept of ‘Judicial Review’ in India has been adopted from the Constitution of – | KEY: U.S.A.
+3 | U.P. P.C.S. (Mains) 2012; U.P.P.C.S. (Pre) 2008 | Q: The system of judicial review exists in | KEY: India and U.S.A.
+4 | I.A.S. (Pre) 1993 | Q: Which of the following characteristics is common between the Federal system of India and America? | KEY: A Federal Supreme Court for Interpretation of the Constitution
+5 | U.P.P.C.S. (Mains) 2006 | Q: The feature of Federal system of the Indian Constitution is inspired by the constitution of: | KEY: Canada
+6 | U.P. P.C.S. (Mains) 2017 | Q: The Indian Federalism is based on the pattern of which country? | KEY: Canada
+7 | U.P.P.C.S. (Pre) 2017 | Q: The concept of "A Union of States in the Indian Constitution" has been derived from: | KEY: The British North-American Act
+8 | Jharkhand P.C.S. (Pre) 2003 | Q: Concurrent List included in Indian Constitution is given by- | KEY: Australia
+9 | U.P.P.C.S. (Mains) 2014; U.P.P.C.S. (Mains) 2011; U.P.P.C.S. (Mains) 2012 | Q: The idea of Concurrent List in the I ndian Constitution has been borrowed from- | KEY: Australia
+10 | U.P. Lower Sub. (Pre) 2015 | Q: The framers of the Constitution of India borrowed the concept of the Concurrent List described in the Seventh Schedule from the Constitution of – | KEY: Australia
+11 | U.P.P.C.S. (Mains) 2016 | Q: The concept of “Concurrent List” in the Constitution of India was borrowed from the Constitution of | KEY: Australia
+12 | U.P.P.C.S. (Pre) 1998 | Q: The concept of ‘the Directive Principles of State Policy’ in the Indian Constitution has been adopted from the Constitution of - | KEY: Ireland
+13 | 69th B.P.S.C. (Pre) 2023 | Q: The concept of the Directive Principles of State Policy in the Indian Constitution was borrowed from the Constitution of : | KEY: Ireland
+14 | M.P. P.C.S. (Pre) 2023 | Q: The Directive Principles of State Policy are explained in Part IV of the Indian Constitution. This system has been taken from the Constitution of which country? | KEY: Ireland
+15 | U.P. Lower Sub. (Spl.) (Pre) 2004 | Q: Indian Constitution has taken a certain feature of the Constitution of other countries, which country has contributed to the framing of the ‘Directive Principles of State Policy’? | KEY: Ireland
+16 | U.P.P.C.S. (Pre) 1998 | Q: In giving representation to talent, experience, and service in the composition of the Council of States, the Constitution makers of India were influenced by the example of - | KEY: Irish Republic
+17 | I.A.S. (Pre) 1993 | Q: Match List-I and List II and give correct answer by using the code given below- List- 1 List- II (Feature of Constitution (Borrowed from which of India) country) A. Fundamental Rights 1. United Kingdom B. Parliamentary System 2. United States C. Emergency Provisions 3. Ireland D. Directive Principle | KEY: 2 1 4 3
+18 | U.P.P.C.S. (Pre) 2021 | Q: Which one of the following is NOT correctly matched? (Provisions) (Sources) | KEY: Residual Powers of Center - Australia
+19 | R.A.S./R.T.S. (Pre) (Re. Exam) 2013 | Q: Match List-I with List-II and identify correct answer from the code given below : List - I List - II (Constitutional Provision) (Source) A. Fundamental Rights i. British Constitution B. Directive Principles of ii. Canadian Constitution State policy C. Cabinet Government iii. Irish Constitution D. Un | KEY: iv iii i ii
+20 | U.P.P.S.C. (GIC) 2010 | Q: Match List- 1 with List- II by using code given below- List- I List- II (Constitutional Provisions) (Sources) A. Rule of Law 1. Australia B. Procedure established 2. England by Law C. Reserving of bill by 3. Japan Governor for President’s consideration D. Concurrent List 4. Canada Code : A B C D | KEY: 2 3 4 1
+21 | I.A.S. (Pre) 2003 | Q: Match List-I with List-II and select the correct answer: List-I A. Directive Principles of State Policy B. Fundamental Rights C. Concurrent List for Union-State Relations D. India as a Union of States with greater powers to the Union List-II (Country from which it was derived) 1. Australia 2. Canada | KEY: 3 5 1 2
+22 | U.P.U.D.A./L.D.A. (Pre) 2004 | Q: The concept of Fundamental Duties has been taken from- | KEY: Russian (Former Soviet Union) Constitution
+23 | U.P.P.C.S. (Pre) 2015 | Q: Assertion (A):The Constitution of India has become the longest one. Reason (R) : The chapter on Fundamental Rights has been borrowed from the model of American Constitution. Choose the correct answer using the code given below. Code : | KEY: Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+24 | U.P.R.O./A.R.O. (Pre) 2014; U.P. U.D.A./L.D.A. (Pre) 2006 | Q: The concept of Fundamental Rights, as incorporated in the Indian Constitution has been adopted from- | KEY: United States of America
+25 | U.P. U.D.A./L.D.A (Pre) 2010 | Q: Idea of Fundamental Rights is adopted from the Constitution of- | KEY: America
+26 | 69th B.P.S.C. (Pre) 2023 | Q: From which country, the Indian Constitution has taken reference for the idea of the Fundamental Rights? | KEY: United States of America
+27 | U.P.P.S.C. (GIC) 2017 | Q: The idea of Fundamental Rights was borrowed from the constitution of : | KEY: U.S.A.
+28 | Jharkhand P.C.S. (Pre) 2023 | Q: The Provision for Election Commission in Indian Constitution was inspired by which of the following countries? | KEY: None of the above
+29 | M.P.P.C.S. (Pre) 2015 | Q: The tradition of written Constitution began from which of the following countries? | KEY: America

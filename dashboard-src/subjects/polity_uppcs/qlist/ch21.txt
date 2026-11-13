@@ -1,0 +1,108 @@
+1 | 45th B.P.S.C. (Pre) 2001 | Q: What is the minimum age laid down for a person to seek election to the Lok Sabha? | KEY: 25 years
+2 | 63rd B. P.S.C. (Pre) 2017 | Q: What is the minimum age for a Member of the Parliament ? | KEY: 25 years
+3 | 64th B.P.C.S. (Pre) 2018 | Q: In order to be chosen a member of the Lok Sabha, a person must not be less than the age of ? | KEY: 25 years
+4 | U.P.P.C.S. (Mains) 2011 | Q: Which one of the following is not correct with regard to the elections to the Lok Sabha? | KEY: The electoral rolls are prepared under the direction and control of the President of India.
+5 | I.A.S. (Pre) 2017 | Q: For election to the Lok Sabha, a nomination paper can be filed by | KEY: any citizen of India whose name appears in the electoral roll of a constituency.
+6 | Chhattisgarh P.C.S. (Pre) 2005 | Q: The state wise seat allocation in Lok Sabha is based on - | KEY: Population
+7 | M.P.P.C.S. (Pre) 2008 | Q: According to the Article 82 of the Constitution of India, the allocation of seats in Lok Sabha to the states is on the basis of the .... Census – | KEY: 1971
+8 | U.P.P.C.S. (Mains) 2003; 42nd B.P.S.C. (Pre) 1998 | Q: Presently the number of seats of each state in Lok Sabha is allotted on the basis of- | KEY: Census of 1971
+9 | 47th B.P.S.C. (Pre) 2005 | Q: The state-wise allocation of seats in Lok Sabha is based on the 1971 Census. Up to which year does this remain intact? | KEY: 2026
+10 | U.P.P.C.S. (Mains) 2005 | Q: The 84th Amendment Act has frozen the total number of existing seats in the Lok Sabha on the basis of 1971 Census. They shall remain unaltered till the first Census to be taken after the year. | KEY: 2026
+11 | 67th B.P.S.C. (Pre) (Re- Exam), 2022 | Q: The division of each State into territorial constituencies for the Lok Sabha is done by the Delimitation Commission. This delimitation has been freezed till which year? | KEY: 2026
+12 | M.P.P.C.S. (Pre) 2008 | Q: Maximum strength of Lok Sabha as stipulated in the Constitution of India is - | KEY: None of these
+13 | Uttarakhand P.C.S. (Pre) 2005 (*); I.A.S. (Pre) 2003 | Q: Which of the following Constitutional Amendments is related to raising the number of Members of Lok Sabha to be elected from the States? | KEY: 7th and 31st
+14 | U.P.P.C.S. (Spl) (Mains) 2004 | Q: The Strength of the Lok Sabha was increased from 525 to 545 through which Amendment? | KEY: 31st
+15 | U.P. U.D.A./L.D.A. (Pre) 2006 | Q: The maximum number of members in Lok Sabha can be - | KEY: 550
+16 | M.P.P.C.S. (Pre) 2010 (*) | Q: What is the current number of members of Lok Sabha? | KEY: 543
+17 | U.P. P.C.S. (Pre) 2018 | Q: What can be the maximum representation from the Union Territories to the Lok Sabha?? | KEY: 20
+18 | U.P.P.C.S. (Mains) 2007 | Q: In the General Elections 2009, election for 543 Lok Sabha Constituencies was held. Out of these, how many Lok Sabha constituencies are from the States? | KEY: 530
+19 | Uttarakhand U.D.A./L.D.A. (Pre) 2007; U.P.P.C.S. (Spl) (Mains) 2008 | Q: How many seats are reserved for UTs in Lok Sabha? | KEY: 20
+20 | 64th B.P.C.S. (Pre) 2018 | Q: In which Article of the Constitution of India was the provision for reservation of scheduled castes in the Lok Sabha made? | KEY: Article 330
+21 | U.P.P.C.S. (Pre) 1998 | Q: Reservation of seats for Scheduled Tribes in the Lok Sabha does not exist in the states of: | KEY: Kerala and Tamil Nadu
+22 | U.P.P.C.S. (Pre) 2000 | Q: There is no reservation for SC and ST for Lok Sabha in: | KEY: Arunachal Pradesh
+23 | M.P. P.C.S. (Pre) 2018 | Q: How many seats are reserved for Scheduled Castes in the Lok Sabha? | KEY: 84
+24 | U.P.R.O./A.R.O. (Mains) 2014; I.A.S. (Pre) 1996 | Q: If the number of seats allocated to a state in the Lok Sabha is 42, then the number of seats reserved for the Scheduled Castes in that state will be: | KEY:  | REVIEW: key or options unclear, do not tag
+25 | U.P.P.C.S. (Mains) 2005 | Q: Which one of the following States has the highest number of reserve seats for the Scheduled Tribes in the Lok Sabha? | KEY: Madhya Pradesh
+26 | U.P.P.C.S. (Pre) 1997 | Q: Which one of the following states elects the largest number of members representing Schedule Tribes to the House of People: | KEY: Madhya Pradesh
+27 | Chhatisgarh P.C.S. (Pre) 2021 | Q: From which of the following States, maximum number of seats are reserved for Scheduled Tribes in Lok Sabha? | KEY: Madhya Pradesh
+28 | 44th B.P.S.C. (Pre) 2000 | Q: Who holds power to appoint the nominees from AngloIndian Community in the Lok Sabha? | KEY:  | REVIEW: key or options unclear, do not tag
+29 | U.P.P.C.S. (Pre) 2014 | Q: How many members may be nominated by the President from Anglo-Indian Community, if he is of the opinion that the community is not adequately represented in the House of the People? | KEY:  | REVIEW: key or options unclear, do not tag
+30 | Uttarakhand U.D.A./L.D.A. (Pre) 2007 | Q: The President of India can nominate two members in the Lok Sabha to give representation to | KEY:  | REVIEW: key or options unclear, do not tag
+31 | 42nd B.P.C.S. (Pre) 1997 | Q: Before completing its term, the Lok Sabha can be dissolved- | KEY: By the President on the recommendation of Prime Minister
+32 | 40th B.P.S.C. (Pre) 1995 | Q: Prior to the completion of tenure, the Lok Sabha can be dissolved– | KEY: By the President on the recommendation of Council of Ministers
+33 | I.A.S. (Pre) 2020 | Q: Consider the following statements : 1. The President of India can summon a session of the Parliament at such place as he / she thinks fit. 2. The Constitution of India provides for three sessions of the Parliament in a year, but it is not mandatory to conduct all three sessions. 3. There is no minim | KEY: 1 and 3 only
+34 | 67th B.P.S.C. (Pre) (Re- Exam), 2022 | Q: Generally how many sessions are there in the Lok Sabha? | KEY: 3
+35 | U.P.P.C.S. (Pre) 2000 | Q: The sitting of House of the People may be terminated by: | KEY: All of the above
+36 | 71st B.P.S.C. (Pre) 2025 | Q: Consider the following statements: 1) The summoning of the House means convocation 2) Prorogation ends a session 3) Dissolution terminates a House 4) Prorogation of a session can be effected by the leader of the House alone Out of these which is not true? | KEY: Only 4
+37 | U.P.P.C.S. (Mains) 2015 | Q: Which one of the following is authorized to prorogue the session of the House of the People? | KEY: President
+38 | I.A.S. (Pre) 2002 | Q: The term of the Lok Sabha: | KEY: Can be extended by one year at a time during the proclamation of emergency
+39 | 42nd B.P.S.C. (Pre) 1997 | Q: Session of Lok Sabha is called for at least- | KEY: Two times in a year
+40 | M.P.P.C.S. (Pre) 1995 | Q: What is the quorum of Lok Sabha in relation to its strength? | KEY: 1/10
+41 | U.P.P.C.S. (Pre) 2017 | Q: What is the quorum to constitute a meeting of Lok Sabha? | KEY: One tenth of the total members of the House.
+42 | U.P.Lower Sub. (Spl) (Pre) 2008; U.P.P.C.S. (Mains) 2004; U.P.P.C.S. (Mains) 2006 | Q: The quorum of Lok Sabha and Rajya Sabha is – | KEY: 1/10 of the total membership
+43 | 42nd B.P.S.C. (Pre) 1997 | Q: Which State sends the largest number of members in Lok Sabha? | KEY: Uttar Pradesh
+44 | U.P. P.C.S. (Mains) 2012; U.P. P.C.S. (Pre) 1995 | Q: In India which State has the largest representation in Lok Sabha and Rajya Sabha? | KEY: Uttar Pradesh
+45 | 39th B.P.S.C. (Pre) 1994 | Q: So long as the representation in Lok Sabha is concerned, which states rank second and third? | KEY:  | REVIEW: key or options unclear, do not tag
+46 | U.P.P.S.C. (GIC) 2008 | Q: After Uttar Pradesh, the highest number of Lok Sabha seats have been allotted to – | KEY: Maharashtra
+47 | R.A.S./R.T.S.(Pre) 2003 | Q: How many Lok Sabha seats are allocated to the State of Rajasthan? | KEY: 25
+48 | Uttarakhand P.C.S. (Pre) 2021 | Q: How many Lok Sabha members are elected from Uttarakhand? | KEY: 5
+49 | U.P.P.C.S. (Pre) 2000 | Q: Seats allocated to Bihar in the House of People is the total of seats allocated to: | KEY:  | REVIEW: key or options unclear, do not tag
+50 | U.P.P.C.S. (Pre) 2005 | Q: Which one of the following pair of States has equal seats in Lok Sabha? | KEY:  | REVIEW: key or options unclear, do not tag
+51 | U.P.P.C.S. (Pre) 1997 | Q: Which one of the following pairs is not correctly matched: (States) (Seats in Lok Sabha) | KEY:  | REVIEW: key or options unclear, do not tag
+52 | Chhattisgarh P.C.S. (Pre) 2014 | Q: Match the representation of States in Lok Sabha: (Representation) (State) A. 48 (i) Andhra Pradesh B. 11 (ii) Tamil Nadu C. 25 (iii) Maharashtra D. 42 (iv) Chhattisgarh E. 39 (v) West Bengal Code : A B C D E | KEY: (iii) (iv) (i) (v) (ii)
+53 | R.A.S./R.T.S. (Pre) 2016 | Q: Which among the following group of States/Union Territories has only one seat in the Lok Sabha? | KEY: Chandigarh, Sikkim, Mizoram
+54 | U.P.P.C.S. (Mains) 2016 | Q: From which of the following States two members of the Lok Sabha are elected? | KEY: Tripura
+55 | I.A.S. (Pre) 2008 | Q: Which one of the following is the largest (area-wise) Lok Sabha Constituency? | KEY: Ladakh
+56 | U.P.P.C.S. (Mains) 2007 | Q: After delimitation the largest Lok Sabha Constituency in terms of number of voters in U.P. is – | KEY: Unnao
+57 | Uttrakhand P.C.S. (Pre) 2024 | Q: 'Malogam', the polling station with only one voter during 2024 Lok Sabha elections falls in which state? | KEY: Arunachal Pradesh
+58 | 70th B.P.S.C. Pre-2024 | Q: In which Lok Sabha seat, one of India’s Particularly Vulnerable Tribal Groups (PVTGs), Shompen tribe, for the first time exercised their democratic right to vote in April 2024 ? | KEY: Andaman and Nicobar
+59 | Chhattisgarh P.C.S. (Pre) 2011 | Q: What is the maximum expenditure limit for the Parliamentary Elections of a Constituency? | KEY:  | REVIEW: key or options unclear, do not tag
+60 | I.A.S. (Pre) 2002 | Q: In the case of election to the Lok Sabha, the amount of Security deposited by general category candidates and SC/ST category candidates respectively is : | KEY:  | REVIEW: key or options unclear, do not tag
+61 | 40th B.P.S.C. (Pre) 1995 | Q: A candidate of Lok Sabha Poll loses his security amount if he/she does not get – | KEY: None of the above
+62 | M.P.P.C.S. (Pre) 2015; Uttarakhand P.C.S. (Pre) 2005; 42nd B.P.S.C. (Pre) 1997 | Q: First General Election of Lok Sabha was held in- | KEY: 1952
+63 | Chhattisgarh P.C.S. (Pre) 2016 | Q: The tenure of which Lok Sabha was about 6 years? | KEY: 5th Lok Sabha
+64 | 42nd B.P.S.C. (Pre) 1997 | Q: 9th Lok Sabha was dissolved on – | KEY: 13 March,1991
+65 | 42nd B.P.S.C. (Pre) 1997 | Q: The election for 12th Lok Sabha of India was held in- | KEY: February, 1998
+66 | Uttrakhand P.C.S. (Pre) 2024 | Q: Which of the following Lok-Sabha did not complete its full five year term? | KEY: Thirteenth Lok-Sabha
+67 | U.P.P.C.S. (Pre) 2022 | Q: Which one of the following is NOT correctly matched? Loksabha Election Year | KEY: 7th – 1982
+68 | U.P. R.O/A.R.O (Re. Exam) (Pre) 2023 | Q: The Lok Sabha Elections 2024 were held in how many phases? | KEY: 7 phases
+69 | 42nd B.P.S.C. (Pre) 1995 | Q: Who is the leader of the Lok Sabha? | KEY: Prime Minister
+70 | I.A.S. (Pre) 2017 | Q: Consider the following statements: 1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 percent of the votes polled, to be declared elected. 2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker's post goes to the m | KEY: Neither 1 nor 2
+71 | I.A.S. (Pre) 2009 | Q: In India Lok Sabha Speaker is - | KEY: Chosen
+72 | 39th B.P.S.C. (Pre) 1994 | Q: Speaker of the Lok Sabha is elected by – | KEY: All members of Lok Sabha
+73 | Chhattisgarh P.C.S. (Pre) - 2017 | Q: Which of the following doesn't take the oath of the office? | KEY: Speaker
+74 | Chhattisgarh P.C.S. (Pre) 2016 | Q: Who among the following doesn't take oath of the office? | KEY: Speaker
+75 | M.P.P.C.S. (Pre) 2005 | Q: Who does the Speaker of the Lok Sabha submits his resignation to? | KEY: The Deputy Speaker
+76 | U.P.P.C.S. (Mains) 2008, 2014 | Q: The Speaker of the Lok Sabha addresses his letter of resignation to the – | KEY: Deputy Speaker of Lok Sabha
+77 | M.P.P.C.S. (Mains) 1994 | Q: How can the speaker of the Lok Sabha be removed? | KEY: By a resolution of the Lok Sabha passed by a majority of all the members of the House.
+78 | U.P.P.C.S. (Pre) 2007 | Q: The Speaker of Lok Sabha can be removed from his office before the expiry of his term | KEY: If the Lok Sabha passes a resolution to this effect
+79 | U.P.P.C.S. (Mains) 2008 | Q: The Speaker of the Lok Sabha can be removed by – | KEY: A resolution of the Lok Sabha passed by a majority of the members of the House.
+80 | I.A.S. (Pre) 2024 | Q: With reference to the Speaker of the Lok Sabha, consider the following statements : While any resolution for the removal of the Speaker of the Lok Sabha is under consideration 1. He/She shall not preside. 2. He/She shall not have the right to speak. 3. He/She shall not be entitled to vote on the res | KEY: 1 only
+81 | I.A.S. (Pre) 2025 | Q: Consider the following statements : I. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution. II. According to the provisions of the Constitution of India, a Member of the | KEY: I and III only
+82 | I.A.S. (Pre) 1993 | Q: Which one of the following statements regarding the office of the Speaker is correct? | KEY: If he intends to resign the letter of his resignation is to be addressed to the Deputy Speaker.
+83 | I.A.S. (Pre) 2012 | Q: Regarding the office of the Lok Sabha Speaker, consider the following statements: 1. He/She holds the office during the pleasure of the President. 2. He/She need not be a member of the House at the time of his/her election but has to become a member of the House within six months from the date of hi | KEY: Only 3
+84 | Uttrakhand P.C.S. (Pre) 2024 | Q: Which of the following statement is not true about the speaker of Lok Sabha? | KEY: Speaker has to be the member of the house within six months, he assumes office.
+85 | U.P.P.C.S (Pre) 2010 | Q: The function of the protem Speaker is to | KEY: Administer oath to members.
+86 | U.P.P.C.S. (Pre) 2017 | Q: Who is generally appointed as a Protem Speaker? | KEY: One of the senior most members of the newly elected Lok Sabha.
+87 | no exam label | Q: Which of the following statements regarding the powers of the speaker of Lok Sabha are correct? Choose the correct answer from the codes given below: (i) The speaker presides over a joint sitting of both the houses of Parliament. (ii) When a Money Bill is transferred from the Lower House to the Uppe | KEY: Only (i), (ii) and (iv)
+88 | 70th B.P.S.C Re-Exam 2024 | Q: The Speaker of the Lok Sabha enjoys | KEY: The right to vote only in case of a tie
+89 | U.P.P.C.S. (Spl) (Mains) 2008 | Q: The Speaker of the Lok Sabha makes use of his casting vote only – | KEY: In case of a tie when votes are equally divided
+90 | U.P.P.C.S. (Pre) (Re. Exam) 2015 | Q: Which one of the following Articles of the Constitution provides that the Speaker shall have and exercise a casting vote in the case of an equality of votes? | KEY: Article 100
+91 | M.P.P.C.S. (Pre) 2012 (*), U.P.P.C.S (Mains) 2011; Uttarakhand U.D.A./L.D.A. (Pre) 2007.; I.A.S. (Pre) 2007; Uttarakhand P.C.S. (Pre) 2006; M.P.P.C.S. (Pre.) 2022 | Q: Who was the first Speaker of the Lok Sabha of India? | KEY: Shri Ganesh Vasudev Mavlankar
+92 | U.P. R.O/A.R.O (Re. Exam) (Pre) 2023 | Q: Who was the first speaker of the Lok Sabha ? | KEY: G.V. Mavalankar
+93 | Jharkhand P.C.S. (Mains) 2016 | Q: Who was the first speaker of the first Lok Sabha of India? | KEY: G.V. Mavalankar
+94 | U.P. Lower Sub. (Spl) (Pre) 2004; U.P.P.C.S. (Pre) 2000 | Q: The first Speaker against whom a Motion of Noconfidence was moved in the Lok Sabha was – | KEY: G.V. Mavalankar
+95 | U.P. P.C.S. (Mains) 2008 (*); U.P.P.C.S. (Mains) 2007 | Q: The first female Speaker of Lok Sabha is | KEY: Meira Kumar
+96 | U.P.P.C.S. (Pre.) 2023 | Q: Who among the following is the first women Speaker in Lok Sabha? | KEY: Meira Kumar
+97 | U.P. P.C.S (Pre) 2025 | Q: Match List - I with List – II and choose the correct answer using the code given below the lists. List - I List - II (Lok Sabha) (Lok Sabha Speaker) A. 11th Lok Sabha 1. Om Birla B. 12th Lok Sabha 2. P. A. Sangma C. 14th Lok Sabha 3. Somnath Chatterjee D. 17th Lok Sabha 4. G.M.C. Balyogi Code : A B  | KEY: 2 4 3 1
+98 | I.A.S. (Pre) 2022 | Q: With reference to Deputy Speaker of Lok Sabha, consider the following statements: 1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix. 2. There is a mandatory provision that the election of a candidat | KEY: 1 and 3 only
+99 | 43rd B.P.S.C. (Pre) 1999 (*) | Q: Present Lok Sabha Deputy Speaker is | KEY:  | REVIEW: key or options unclear, do not tag
+100 | U.P.P.C.S. (Mains) 2016 | Q: In case the Deputy Speaker is presiding the Lok Sabha he has right to – | KEY: Vote in the event of equality of votes
+101 | U.P.P.C.S. (Pre) 2015 | Q: Who among the following was the first Tribal Speaker of Lok Sabha? | KEY: P.A. Sangama
+102 | U.P.P.C.S. (Pre) 1997 | Q: The Lok Sabha Secretariat comes under the direct control of the: | KEY: Speaker of the Lok Sabha
+103 | Uttarakhand P.C.S. (Pre) 2012 | Q: The Lok Sabha Secretariat comes under the direct supervision of: | KEY: Lok Sabha Speaker
+104 | 71st B.P.S.C. (Pre) 2025 | Q: The power to recruit the Secretarial staff of the House of the People is vested in: | KEY: President aftern consultation with the Speaker of the House of the people
+105 | R.A.S./R.T.S. (Pre) 2013 | Q: Consider the following statements in relation to woman members of 15th Lok Sabha - (i) They are less than 10% of total members. (ii) Maximum of them belong to Indian National Congress. (iii) Three members are elected from Rajasthan (iv) Maximum women members are elected from Uttar Pradesh. Which is/ | KEY:  | REVIEW: key or options unclear, do not tag
+106 | Uttarakhand P.C.S. (Pre) 2021 | Q: In which year the number of women member of Parliament was the lowest in Lok Sabha? | KEY: 1977
+107 | U.P.P.C.S. (Pre) 2006 | Q: The recognition of a political party or an alliance of political parties as opposition by the Speaker of the Lok Sabha requires at least : | KEY:  | REVIEW: key or options unclear, do not tag
+108 | I.A.S. (Pre.) 2018 | Q: Consider the following statements : 1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party. 2. In the Lok Sabha, a "Leader of the Opposition" was recognised for the first time in 1969. 3. In the Lok Sabha, if a party does not have a minimum of 75 members, its l | KEY: 2 only

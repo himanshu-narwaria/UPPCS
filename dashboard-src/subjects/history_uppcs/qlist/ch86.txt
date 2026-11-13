@@ -1,0 +1,46 @@
+1 | U.P.P.C.S. (Mains) 2006 | Q: Netaji Subhas Chandra Bose was born in the city of: | KEY: Cuttack
+2 | I.A.S. (Pre) 2005 | Q: Which party was founded by Subhash Chandra Bose in the Year 1939 after he broke away from the Congress? | KEY: Forward Bloc
+3 | U.P. P.C.S. (Mains) 2016; U.P. Lower Sub. (Pre) 2008 | Q: S. C. Bose had founded ‘Forward Bloc’ in the year | KEY: 1939
+4 | 48th to 52nd B.P.S.C. (Pre) 2008; 44th B.P.S.C. (Pre) 2000 | Q: Who formed the Forward Bloc? | KEY: Subhas Chandra Bose
+5 | 67th B.P.S.C. (Pre) 2022 | Q: In which country was the honorific 'Netaji' applied to the name of Subhas Chandra Bose? | KEY: Germany
+6 | 67th B.P.S.C. (Pre) 2022 | Q: The Forward Bloc was founded by: | KEY: Subhas Chandra Bose
+7 | 71st B.P.S.C. (Pre) 2025 | Q: Which of the following statements about Subhas Chandra Bose are correct? | KEY: Only 2 and 3
+8 | U.P. P.C.S. (Pre) 2001 | Q: I.N.A. was brainchild of: | KEY: 1 and 4
+9 | 39th B.P.S.C. (Pre) 1994 | Q: The result of whose brain is I.N.A. and who founded it? | KEY: Mohan Singh
+10 | U.P.P.C.S. (Pre) 1997 | Q: Who suggested the idea of the Indian National Army– | KEY: Mohan Singh
+11 | U.P. Lower Sub. (Pre) 2003; 43rd B.P.S.C. (Pre) 1999 | Q: In which year was the Indian National Army founded? | KEY: 1942
+12 | U.P. P.C.S. (Pre) 2005 | Q: The first commander of “Indian National Army” was – | KEY: Mohan Singh
+13 | 42ndB.P.S.C. (Pre) 1997 | Q: Organization of Azad Hind Sarkar was declared on: | KEY: 21 October, 1943
+14 | U.P.R.O./A.R.O. (Mains) 2013 | Q: Subhash Chandra Bose announced the establishment of Provisional Government of Free India on – | KEY: 21st October, 1943
+15 | 70th B.P.S.C. (Pre) 2024 | Q: In October 1943, Subhash Chandra Bose set up a provisional government of free India which was recognized by how many countries including Japan? | KEY: 9
+16 | U.P. R.O/A.R.O (Re. Exam) (Pre) 2025 | Q: Which of the following countries did not recognize the Azad Hind Government? | KEY: Indonesia
+17 | 45th B.P.S.C. (Pre) 2001; I.A.S. (Pre) 2000 | Q: Where was Azad Hind Fauz set up in 1943? | KEY: Malaya
+18 | Uttarakhand P.C.S. (Pre) 2024 | Q: In which of the following countries was the Azad Hind Fauj (Indian National Army) formed? | KEY: Singapore
+19 | U.P. P.C.S. (Pre) 2002 | Q: Which Indian revolutionary helped Subhash Chandra Bose in the establishment of Azad Hind Fauz? | KEY: Ras Bihari Bose
+20 | U.P. R.O./A.R.O. (Pre) 2017 | Q: Which one of the following persons was not associated with Azad Hind Fauj? | KEY: Major Kartar Singh
+21 | 70th B.P.S.C. Re-Exam 2024 | Q: Who among the following is not associated with Azad Hind Fauz (INA)? | KEY: S. A. Dange
+22 | M.P.P.C.S. (Pre) 2013 | Q: The head office of ‘Azad Hind Fauj’ is situated at – | KEY: Rangoon
+23 | U.P.R.O./A.R.O. (Pre) (Re-Exam) 2016 | Q: Which one of the following was NOT associated with Indian National Army (I.N.A.)? | KEY: B.C. Dutta
+24 | M.P. P.C.S. (Pre) 2000 | Q: Who said, “ Tum Mujhe Khoon Do, Mai Tumhe Azadi Dunga”? | KEY: Subhash Chandra Bose
+25 | 60th to 62nd B.P.S.C. (Pre) 2016 | Q: Who joined Subhas Chandra Bose to found All India Forward Bloc and actively associated with the INA movement? | KEY: Sheel Bhadra Yajee
+26 | I.A.S. (Pre) 2008 | Q: During the Indian Freedom Struggle, who of the following raised an army called ‘Free Indian Legion’? | KEY: Subhash Chandra Bose
+27 | U.P. Lower Sub. (Pre) 2015 | Q: Who among the following established Rani Laxmibai Regiment? | KEY: Subhash Chandra Bose
+28 | U.P.P.C.S. (Pre) 2023 | Q: What was the name ofthe female Regiment constituted as a part of the Azad Hind Fauj by Netaji Subhash Chandra Bose? | KEY: Rani Jhansi Regiment
+29 | U.P. P.C.S. (Pre) 2009; U.P. P.C.S. (Mains) 2006 | Q: Who among the following called Subhash Chandra Bose as ‘Desh Nayak.’ | KEY: Rabindranath Tagore
+30 | 71st B.P.S.C. (Pre) 2025 | Q: Who assumed the command of the Indian National Army and gave famous battle cry, 'Chalo Delhi'? | KEY: Subhash Chandra Bose
+31 | U.P. P.C.S. (Pre) 1990 | Q: Who gave the slogan ‘Jai Hind’? | KEY: S.C. Bose
+32 | 67th B.P.S.C. (Pre) (Re. Exam) 2022 | Q: Subhas Chandra Bose renamed Nicobar Island as: | KEY: Swaraj Island
+33 | U.P.P.C.S. (Mains) 2013 | Q: The ‘Azad Hind Fauj Day’ was observed on– | KEY: 12 November, 1945
+34 | U.P.P.C.S. (Spl) (Pre) 2008 | Q: Which soldier of Azad Hind Fauj was sentenced to seven years imprisonment? | KEY: Rashid Ali
+35 | M.P.P.C.S. (Pre) 2010 | Q: Who among the following officers of Azad Hind Fauj did not face famous Red Fort trials? | KEY: Mohan Singh
+36 | U.P.P.S.C. (GIC) 2010 | Q: Who among the following had headed the group of advocates to argue the case on behalf of The Indian National Army in 1945 in the Red Fort trials? | KEY: Bhulabhai Desai
+37 | U.P. P.C.S. (Pre) 2013; U.P. U.D.A./L.D.A. (Spl) (Mains) 2010; U.P. U.D.A./L.D.A. (Pre) 2008 | Q: Who among the following has pleaded on the side of the Indian National Army officers in their Red Fort trial? | KEY: Sir T.B. Sapru
+38 | U.P. Lower Sub. (Pre)2004 | Q: Who among the following had not advocated in INA Red Fort Trial in 1945? | KEY: Sardar Vallabh Bhai Patel
+39 | M.P.P.C.S. (Pre) 2012 | Q: Who among the following was the advocate at the famous ‘I.N.A. trial’? | KEY: AsafAli & Bhulabhai Desai
+40 | 66th B.P.S.C. (Pre) 2020 | Q: Who among the following advocates had appeared for the INA trials at Delhi in 1945-46? | KEY: Bhulabhai Desai
+41 | U.P. P.S.C. (GIC) 2010 | Q: The famous I.N.A. trials took place in the Red Fort, Delhi in – | KEY: 1945
+42 | U.P.P.C.S. (Pre) 2019 | Q: The trial of the Officers of the I.N.A. was held in – | KEY: Red Fort. Delhi
+43 | I.A.S. (Pre.) 2021 | Q: In the context of Colonial India, Shah Nawaz Khan, Prem Kumar Sehgal and Gurbaksh Singh Dhillon are remembered as | KEY: Officers of the Indian National Army
+44 | Chhattisgarh P.S.C. (Pre) 2017 | Q: The following were the main events of the year 1945: | KEY: 1, 2, 4
+45 | R.O./A.R.O. (Pre) 2017 | Q: Who was the Political Guru ofSubhash Chandra Bose? | KEY: C.R. Das
+46 | 46th B.P.S.C. (Pre) 2004 | Q: At the Congress Working Committee meeting at Allahabad (April-May, 1947), who of the following members was able to secure a majority for his plan of a Guerilla War against the Japanese due to India’s unequivocal stand against Nazism, Fascism and imperialism? | KEY: Jawaharlal Nehru

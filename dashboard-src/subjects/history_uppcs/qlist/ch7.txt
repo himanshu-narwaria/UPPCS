@@ -1,0 +1,61 @@
+1 | U.P.P.S.C. (GIC) 2010 | Q: The earliest extant coins of India were of – | KEY: Silver
+2 | U.P. R.O./A.R.O. (Mains) 2017 | Q: Which of the following is not correctly matched? | KEY: Koshala - Ahichchhatra
+3 | U.P. Lower (Spl) (Pre) 2004; U.P.P.C.S. (Pre) 2000 | Q: Match List-I with List-II and select the correct answer from the code given below the lists: | KEY: 3 2 4 1
+4 | M.P.P.C.S. (Pre) 2019 | Q: Chand-pradyota was the ruler ofwhich ancient republic? | KEY: Avanti
+5 | U.P.P.C.S. (Pre) 1999 | Q: The epigraphical evidence reveals that under the instructions of a Nanda king, a canal was dug in: | KEY: Kalinga
+6 | M.P.P.C.S. (Pre) 1993; U.P.P.C.S. (Pre) 2009 | Q: What was the ancient name of Ujjain? | KEY: Avantika
+7 | I.A.S. (Pre) 1997 | Q: The following map shows four of the sixteen mahajanapadas that existed in ancient India: The places marked A, B, C and D respectively are: | KEY: Matsya, Avanti, Vatsa, Anga
+8 | R.A.S./R.T.S. (Pre) 2016 | Q: The ancient city which is mentioned in the Mahabharata and Mahabhashya both | KEY:  | REVIEW: key or options unclear, do not tag
+9 | 48th to 52nd B.P.S.C. (Pre) 2008 | Q: Who founded Pataliputra – | KEY:  | REVIEW: key or options unclear, do not tag
+10 | [Chhattisgarh P.C.S. (Pre)-2020] | Q: Which of the following statements is true regarding Pataliputra, the capital of the Magadha Kingdom? | KEY: Pataliputra was surrounded by the river Ganges in the North and by the river Sone is the West
+11 | 42nd B.P.S.C. (Pre) 1997 | Q: Which ruler had made Pataliputra the capital of his empire for the first time? | KEY: Chandragupta Maurya
+12 | 44th B.P.S.C. (Pre) 2000 | Q: WhoamongthefollowingkingshadfoundedPataliputra? | KEY: Ajatashatru
+13 | 46th B.P.S.C. (Pre) 2003 | Q: By which ruler was Pataliputra chosen as the capital for the first time? | KEY: Udayin
+14 | 68th B.P.S.C. (Pre) 2022 | Q: In ancient times, the area to the south of the Ganga was known as | KEY: None of the above
+15 | U.P. Lower (Spl) (Pre) 2008 | Q: The Legend of Udayan-Vasavadatta is related to- | KEY: Ujjain
+16 | 42nd B.P.S.C. (Pre) 1997 | Q: In which century did the first Magadhan Empire rise? | KEY: Sixth Century B.C.
+17 | I.A.S. (Pre) 1999 | Q: Which one of the following was initially the most powerful city-state in India in the 6th century B.C.? | KEY: Magadha
+18 | U.P.P.C.S. (Pre) 1992 | Q: Which one was not in the earlier Republic? | KEY: Yaudheya
+19 | 48th to 52nd B.P.S.C. (Pre) 2008 | Q: By whom the first republic ofthe world was established in Vaishali – | KEY: Lichchhavi
+20 | 46th B.P.S.C. (Pre) 2003 | Q: Where was the first republican system of the world during 6th century B.C. located? | KEY: Vaishali
+21 | R.A.S./R.T.S.(Pre) 2013 | Q: Which one of the following pair is correctly matched? | KEY: Chetak-Lichchhavi
+22 | U.P.P.C.S. (Spl.) (Pre) 2004 | Q: Which Buddha text has described 16 Mahajanpads of 6th century B.C.? | KEY: Anguattar Nikaya
+23 | 46th B.P.S.C. (Pre) 2003 | Q: The list of sixteen Mahajanapadas is available in – | KEY: Anguttar Nikaya
+24 | U.P.P.C.S. (Pre) 2008; U.P.P.C.S. (Spl) (Mains) 2008 | Q: Which one of the following Buddhist texts describes the sixteen Mahajanapadas? | KEY: Anguttara Nikaya
+25 | R.A.S./R.T.S. (Re. Exam) (Pre) 2013 | Q: 16 Janpadas of the age of Mahajanapada have often been mentioned in the Buddhist literature which of the following Janapadas have been mentioned by Panini in his Ashtadhyayi? | KEY: A, B and C
+26 | R.A.S. /R.T.S. (Pre) 2016 | Q: In which ofthe following texts the list ofthe sixteen great states (Shodasha Mahajanapadas) ofancient India occur? Select the correct answer from the code given below: | KEY: (ii) and (iv)
+27 | U.P.P.C.S. (Mains) 2006 | Q: The capital ofNorth Panchal, according to Mahabharata, was located at: | KEY: Ahichhatra
+28 | Jharkhand P.C.S. (Pre) 2013 | Q: During the period of 16 Mahajanapadas, Mathura was the capital of – | KEY: Surasena
+29 | U.P.R.O./A.R.O. (Mains) 2014 | Q: Champa was the capital of which Mahajanapada? | KEY: Anga
+30 | U.P.P.C.S. (Mains) 2011 | Q: In the sixth century B.C. Suktimati was the capital of | KEY: Chedi
+31 | R.A.S./R.T.S.(Pre) 2008 | Q: Mahajanapada situated on the bankofriver Godavari was- | KEY: Assaka
+32 | U.P.P.C.S. (Pre) 2017 | Q: Matsya Mahajanapada of6th Century B.C. was located in: | KEY: Rajasthan
+33 | 47th B.P.S.C. (Pre) 2005 | Q: Which was the capital of Magadha? | KEY: Girivraj (Rajgriha)
+34 | 53rd to 55th B.P.S.C. (Pre) 2011 | Q: Which was the initial capital of Magadha? | KEY: Girivraja (Rajgriha)
+35 | 66th B.P.S.C. (Pre.) 2020 | Q: Which was the first capital of ancient Mahajanapada Magadh? | KEY: None of the above/More than one of the above
+36 | 69th B.P.S.C. (Pre) 2023 | Q: Which city served as the capital ofthe ancient kingdom of Magadha during the early Vedic period? | KEY: Rajgriha
+37 | Chhattisgarh P.C.S. (Pre) 2011 | Q: Which one of the following was not a capital of Magadhan Empire? | KEY: Kaushambi
+38 | U.P.P.C.S. (Pre) 2010 | Q: What is the town configuration of ancient Shravasti? | KEY: Crescentic
+39 | U.P.P.C.S. (Pre) 2007 | Q: Which initial ruler of Magadha killed his father for enthroning and also was killed by his son for the same reason? | KEY: Ajatshatru
+40 | 70th B.P.S.C. (Pre) 2024 | Q: Which of the following great ruler founded the "Haryanka Vansh" in ancient Bihar? | KEY: Bimbisara
+41 | 53rd to 55th B.P.S.C. (Pre) 2011 | Q: What was the name of the dynasty of Ajatshatru? | KEY: Haryanka
+42 | U.P.P.C.S. (Pre) 2011 | Q: The Prince who was responsible for the death of his father was- | KEY: Ajatashatru
+43 | [Jharkhand P.S.C. (Mains)-2016] | Q: Who defeated and assimilated the Vajjis into the empire of Magadha? | KEY: Ajatshatru
+44 | U.P. Lower Sub. (Spl) (Pre) 2008 | Q: Power of Magadha was extended over the Malwa region during the reign period of – | KEY: Sisunaga
+45 | Uttarakhand P.C.S. (Pre) 2016 | Q: Who was the founder of Nanda Dynasty in Magadha? | KEY: Mahapadmananda
+46 | 70th B.P.S.C. (Pre) 2024 | Q: Which dynasty ruled Magadh (Bihar) after Shishunag dynasty? | KEY: Nanda Vansh
+47 | U.P. U.D.A./L.D.A. (Spl) (Pre) 2010 | Q: WhichKingofMagadhaisknownasAparoparashurama? | KEY: Mahapadmananda
+48 | [U.P.G.I.C. Lecturer, 2007] | Q: Who among the following made Varanasi his second capital? | KEY:  | REVIEW: key or options unclear, do not tag
+49 | 44th B.P.S.C. (Pre) 2000 | Q: Which dynasty did rule over Magadha after Nanda Dynasty? | KEY: Maurya
+50 | U.P. U.D.A./L.D.A. (Spl) (Mains) 2010 | Q: Which inscription is the evidence of King Nand? | KEY: Hathigumpha inscription of Kharvel
+51 | Chhattisgarh P.C.S. (Pre) 2008 | Q: Arrange the following Magadhan dynasties in the chronological order | KEY: 4, 1, 3 and 2
+52 | U.P. U.D.A./L.D.A. (Pre) 2006 | Q: Jivaka, the famous physician of the time of Mahatma Buddha, was associated with the court of – | KEY: Bimbisara
+53 | 67th B.P.S.C. (Pre) (Re. Exam) 2022 | Q: Who was the Physician of Magadh ruler Bimbisara? | KEY: Jeevaka
+54 | Uttarakhand P.C.S. (Pre) 2012 | Q: Read the statements (A) and (B) and choose the correct answer from the code given below: (A) The sixth century B.C. was a period of great religious upheaval in all parts of the world. (B) The Vedic religion had become very complex. Code: | KEY: Both (A) and (B) are true.
+55 | U.P.P.C.S. (Mains) 2015 | Q: The town of Kalpi is situated on the bank of the river – | KEY: Yamuna
+56 | U.P.P.C.S. (Pre) 2008 | Q: Match List-I (A) with List-II (B) and select the correct answer from the codes given below the lists: | KEY: 4 3 1 2
+57 | U.P.P.C.S. (Pre) 2020 | Q: Match List-I with List-II and select the correct answer from the code given below the lists: | KEY: 3 4 1 2
+58 | I.A.S. (Pre) 2025 | Q: With reference to ancient India (600-322 BC), consider the following pairs: Territorial region River flowing in the region | KEY: Only two
+59 | U.P.R.O./A.R.O. (Mains) 2016 | Q: Which of the following is NOT correctly matched? | KEY: Shurasen - Kaushambi
+60 | U.P.R.O./A.R.O. (Pre.) 2021 | Q: How many Mahajanapadas were located in present day of Uttar Pradesh among the oldest sixteen Mahajanapadas of India? | KEY: 08
+61 | [R.A.S./R.T.S. (Pre)-2018] | Q: Which one of the following statements is not true about Shreni System of Ancient India? | KEY: Shreni system was prevalent only in Northern India.

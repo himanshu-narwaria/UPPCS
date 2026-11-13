@@ -1,0 +1,46 @@
+1 | U.P.P.C.S. (Pre) 2006 | Q: Where was the first Madarsa set up by British in India? | KEY: Calcutta
+2 | U.P. P.C.S. (Mains) 2006; U.P.P.C.S. (Spl) (Mains) 2004; Chhattisgarh P.C.S. (Pre) 2003; R.A.S./R.T.S. (Pre) 1999 | Q: The Asiatic Society of Bengal was founded by | KEY: Sir William Jones
+3 | Uttarakhand P.C.S. (Mains) 2006 | Q: Who founded First Sanskrit Mahavidyalaya at Varanasi? | KEY: Jonathan Duncan
+4 | U.P. P.C.S. (Pre) 2019 | Q: Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of the learned body in favour of Sir William Jones. | KEY: Both (A) and (R) are true and (R) is the correct explanation of (A)
+5 | U.P.P.C.S. (Mains) 2007 | Q: Who among the following was offered membership of the Royal Asiatic Society of Paris? | KEY: Raja Rammohan Roy
+6 | I.A.S. (Pre) 2001 | Q: Who among the following Englishmen, first translated Bhagavad Gita into English? | KEY: Charles Wilkins
+7 | U.P. U.D.A./L.D.A. (Mains) 2010 | Q: Who among the following was the first to translate Kalidasa’s famous work ‘Shakuntala’ into English? | KEY: Sir William Jones
+8 | Uttarakhand P.C.S. (Pre) 2005 | Q: The main reason for the British Government to spread modern education in India during the pre independence period was – | KEY: The need for educated Indians in minor administrative posts
+9 | U.P.P.C.S. (Mains) 2009 | Q: Which Act of British Government granted Rs. One lakh for education in India for the first time? | KEY: Charter Act, 1813
+10 | I.A.S. (Pre) 2018 | Q: Regarding Wood’s Despatch, which of the following statements are true? | KEY: 1 and 2 only
+11 | 69th B.P.S.C. (Pre) 2023 | Q: Consider the following statements regarding Wood's Despatch of 1854: | KEY: Both 1 and 2
+12 | M.P.P.C.S. (Pre) 2015 | Q: Charles Wood’s Despatch was related to which of the following? | KEY: Education
+13 | Uttarakhand P.C.S. (Pre) 2024 | Q: Which is referred to as the 'Magna Carta' ofthe British education system in India? | KEY: Wood's Despatch on Education, 1854
+14 | U.P.P.C.S. (Pre) 2004; U.P. Lower Sub. (Pre) 2004 | Q: In the Hunter Commission report, special emphasis was laid on the development of: | KEY: Primary education
+15 | Jharkhand P.C.S. (Pre.) 2021 | Q: Who have appointed First Indian Education Commission and in which year? | KEY: Lord Ripon in 1882
+16 | 53rd to 55th B.P.S.C. (Pre) 2011 | Q: When was the National Council of Education established? | KEY: 15th August, 1906
+17 | U.P. Lower Sub. (Spl) (Pre) 2010 | Q: Sadler Commission was related to: | KEY: Education
+18 | 48th to 52nd B.P.S.C. (Pre) 2008 | Q: When did the British Government appoint Sadler University Commission for reforms in education: | KEY: 1917
+19 | 66th B.P.S.C. (Pre) (Re-Exam) 2020 | Q: In 1902, Lord Curzon appointed the University Commission including two Indian members. Who were they? | KEY: Syed Hussain Bilgrami and Justice Gurudas Banerjee
+20 | Uttarakhand P.C.S. (Pre) 2025 | Q: When was the ‘Sargeant Plan’ of education started? | KEY: 1944
+21 | U.P.P.C.S. (Pre) 2007 | Q: Lord Macaulay was related to: | KEY: English education
+22 | R.A.S./R.T.S.(Pre) 2013 | Q: During India’s colonial period, the theory ofdownward filtration was related to: | KEY: Education
+23 | U.P. Lower Sub. (Pre) 2013 | Q: The propounder of “Filtration Theory” in India’s education policy was: | KEY: Macaulay
+24 | I.A.S. (Pre) 1993 | Q: The foundation of the modern educational system in India was laid by: | KEY: Macaulay Minutes of 1835
+25 | 70th B.P.S.C. Re-Exam 2024 | Q: When did Macaulay issue his famous minute on In dian Education? | KEY: 02 February 1835
+26 | U.P. P.C.S. (Pre) 2017 | Q: Who remarked about the East India Company that “The Company is an anomaly but it is part of a system where everything is an anomaly”? | KEY: G.B. Macaulay
+27 | I.A.S. (Pre) 2018 | Q: Which of the following led to the introduction of English Education in India? | KEY: 1, 2 and 3
+28 | U.P.P.C.S. (Mains) 2011 | Q: In whose reign was English Education introduced in India? | KEY: Lord William Cavendish Bentinck
+29 | R.A.S./R.T.S.(Pre) 2010 | Q: The first three universities in India (Calcutta, Madras, and Bombay) were established in which year? | KEY: 1857
+30 | U.P. P.S.C. (GIC) 2010; U.P. U.D.A./L.D.A. (Pre) 2006; U.P. P.C.S. (Mains) 2002 | Q: The establishment of the first Women’s University in Mumbai was the result of the effort of | KEY: D.K. Karve
+31 | U.P.P.C.S. (Pre) 2013; U.P. U.D.A./L.D.A. (Spl) (Pre) 2010 | Q: Who was associated with the formation of the Deccan Educational Society? | KEY: B.G. Tilak
+32 | U.P.R.O. / A.R.O. (Mains) 2016 | Q: Muhammdan Anglo-Oriental College, Aligarh was founded in which of the following years? | KEY: 1875
+33 | 71st B.P.S.C. (Pre) 2025 | Q: Name the Principal of M.A.O. College, Aligarh, who encouraged Muslim Communalism in the last de cades of the 19th Century? | KEY: Theodore Beck
+34 | U.P.P.C.S. (Pre) 2012 | Q: Which of the following was established first? | KEY: Hindu College, Calcutta
+35 | I.A.S. (Pre) 2009 | Q: In collaboration with David Hare and Alexander Duff, who of the following established Hindu College at Calcutta? | KEY: Raja Ram Mohan Roy
+36 | U.P.R.O. / A.R.O. (Mains) 2021 | Q: Famous Hindu College was established by David Hare in 1817 at - | KEY: Calcutta
+37 | Uttarakhand P.C.S. (Pre) 2024 | Q: What was the initial objective of the 'Aligarh Movement'? | KEY: Promoting Western scientific education among Indian Muslims.
+38 | I.A.S. (Pre) 2018 | Q: With reference to educational institutions during colonial rule in India, consider the following pairs - | KEY: 2 only
+39 | I.A.S. (Pre) 2020 | Q: Wellesley established the Fort William College at Cal cutta because: | KEY: he wanted to train and teach British civilians for ad ministrative purpose in India
+40 | 70th B.P.S.C. Re-Exam 2024 | Q: Fort William College at Calcutta was established in | KEY: 1800 CE to train civil servants in Indian languages
+41 | U.P.R.O./A.R.O. (Pre.) 2021 | Q: With reference to the Fort William College Calcutta. which of the statement/s is/are correct? | KEY: Only 2
+42 | U.P.P.C.S. (Mains) 2005 | Q: Who one of the following had vigorously advocated for religious education in the Indian universities? | KEY: Madan Mohan Malviya
+43 | Uttarakhand P.C.S. (Pre) 2024 | Q: Who founded the Central Hindu School of Banaras, which later developed into Banaras Hindu University? | KEY: Annie Besant
+44 | U.P. R.O/A.R.O (Re. Exam) (Pre) 2025 | Q: Who established the Central Hindu College in Banaras, which later emerged as the focal point ofBanaras Hindu University? | KEY: Annie Besant
+45 | U.P.P.C.S. (Mains) 2003 | Q: Who among the following laid the foundation stone of Banaras Hindu University: | KEY: Lord Hardinge
+46 | U.P.P.C.S. (Mains) 2011 | Q: Which one of the following was the first to be declared as Central University? | KEY: Banaras Hindu University of Varanasi

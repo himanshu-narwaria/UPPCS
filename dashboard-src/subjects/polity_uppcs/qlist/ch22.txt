@@ -1,0 +1,64 @@
+1 | M.P.P.C.S. (Pre) 2010 | Q: What is the fixed strength of Rajya Sabha? | KEY: 250
+2 | 68th B.P.S.C. (Pre) 2022 | Q: The representation in the Rajya Sabha includes : | KEY: More than one of the above
+3 | 53rd to 55th B.P.S.C. (Pre) 2011 | Q: The Rajya Sabha consists of- | KEY: 250 members of which 12 members are nominated by the President of India.
+4 | 38th B.P.S.C. (Pre) 1992 | Q: The Representation of States in Council of States is based on – | KEY: Ratio of their Population
+5 | I.A.S. (Pre) 2012 | Q: Consider the following statements: 1. Union Territories are not represented in the Rajya Sabha. 2. It is within the purview of the Chief Election Commissioner to adjudicate the election disputes. 3. According to the Constitution of India, the Parliament consist of the Lok Sabha and the Rajya Sabha o | KEY: None of these
+6 | U.P.P.C.S. (Pre) 1990 | Q: The members of Council of States are elected by - | KEY: Members of Legislative Assembly of States.
+7 | U.P.P.C.S. (Pre) 2014 | Q: Which of the following are correct about the Rajya Sabha? 1. It is not a subject to dissolution. 2. It has a term of five years. 3. One-third of its members retire after every two years 4. Its member shall not be less than 25 years of age. Select the correct answer using the code given below: Code : | KEY: 1 and 3
+8 | U.P. R.O/A.R.O. (Mains) 2016 | Q: Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A) : The Council of States is not subject to dissolution. Reason (R) : (As nearly as possible) 1/3 of its members retired on the expiration of every second year. Choose the correct answer from th | KEY: Both (A) and (R) are true and (R) is the correct explanation of (A).
+9 | U.P.P.C.S. (Pre) 1992 | Q: What is the tenure of a member of Council of State? | KEY: 6 years
+10 | M.P.P.C.S. (Pre) 1994 | Q: Which of the following statements is correct regarding the Rajya Sabha? | KEY: One-third of its members retire every two years.
+11 | 42nd B.P.S.C. (Pre) 1997 | Q: Member of Rajya Sabha is elected- | KEY: For six years
+12 | 41st B.P.S.C. (Pre) 1996 | Q: Rajya Sabha is called Permanent House because – | KEY: It cannot be dissolved
+13 | 48th to 52nd B.P.S.C. (Pre) 2008 | Q: According to our Constitution, the Rajya-Sabha. | KEY: Is not subject to dissolution.
+14 | 39th B.P.S.C. (Pre) 1995 | Q: Right to dissolve the Rajya Sabha is vested in – | KEY: None of the above
+15 | U.P.P.C.S. (Mains) 2011 | Q: Which one of the following statements about Rajya Sabha is correct? | KEY: It is not subject to dissolution.
+16 | M.P.P.C.S. (Pre) 2010 | Q: How is Rajya Sabha dissolved? | KEY: None of the above
+17 | U.P.P.C.S. (Mains) 2012 | Q: The Rajya Sabha can be dissolved by – | KEY: None of above
+18 | 39th B.P.S.C. (Pre) 1996 | Q: The number of members nominated by the President in Rajya Sabha is– | KEY: 12
+19 | U.P. U.D.A./L.D.A. (Pre) 2006 | Q: President may nominate in Council of States total - | KEY: 12 Members
+20 | M.P.P.C.S. (Pre) 2008 | Q: Consider the following statements with respect to qualification to become the member of Rajya Sabha and select the correct answer from the code given below: (1) Should be at least 30 years of age (2) Should be registered as a voter on the list of voters in the state from which the candidate is to be | KEY: (1) and (3) are correct
+21 | U.P. U.D.A./L.D.A. (Pre) 2006 | Q: The minimum age required to be a candidate for Council of States is - | KEY: 30 Year
+22 | M.P.P.C.S. (Pre) 1999 | Q: The first actress to be nominated to Rajya Sabha. | KEY: Nargis Dutt
+23 | U.P.P.C.S. (Mains) 2011 | Q: Which one of the following statements is not correct regarding the power of the Parliament to legislate on a matter in the State List? | KEY: Only the Rajya Sabha can make laws with respect to a matter in the State list in the national interest.
+24 | I.A.S. (Pre) 2016 | Q: The Parliament of India acquires the power to legislate on any item in the State List in the national interest if a resolution to that effect is passed by the – | KEY: Rajya Sabha by a majority of not less than two-third of its members present and voting
+25 | Jharkhand P.C.S. (Pre) 2023 | Q: Under which Article of the Indian Constitution, can the Rajya Sabha authorize the Parliament to legislate on a State subject by 2/3rd majority? | KEY: Article 249
+26 | U.P. P.C.S. (Mains) 2017; U.P.P.C.S. (Mains) 2012 | Q: Which Article of the Indian Constitution empowers the Parliament to legislate on a subject of state list? | KEY: Art. 249
+27 | I.A.S. (Pre) 2015 | Q: Consider the following statements : 1. The Rajya Sabha has no power either to reject or to amend a Money Bill. 2. The Rajya Sabha cannot vote on the Demands for Grants. 3. The Rajya Sabha cannot discuss the Annual Financial Statements. Which of the statements given above is/are correct? | KEY: 1 and 2 only
+28 | U.P. P.C.S. (Mains) 2017 | Q: Consider the followings : Assertion (A) : Recommendations of the Rajya Sabha, after a Money Bill is passed by the Lok Sabha and transmitted to the Rajya Sabha, have to be accepted by the Lok Sabha within 14 days from the receipt of recommendations and then get them incorporated in the Bill. Reason ( | KEY: (A) is false but (R) is true.
+29 | U.P.P.C.S. (Pre) 2021 | Q: Which of the following Bills can NOT be first introduced in Rajya Sabha? | KEY: Money Bill
+30 | I.A.S. (Pre) 2013 | Q: What will follow if money bill is substantially amended by Rajya Sabha? | KEY: Lok Sabha may still proceed with the bill accepting or not accepting the recommendations of Rajya Sabha.
+31 | U.P.P.C.S. (Spl) (Mains) 2004 | Q: Which of the following are exclusive powers of Lok Sabha in comparison to the Rajya Sabha? I. A Money/Finance Bill can be introduced only in the House of the People. II. Regarding the rejection or amendment of Money Bill. III. The accountability of Council of Ministers. IV.Concerning the creation of | KEY: I, II, III
+32 | I.A.S. (Pre) 2022 | Q: Which of the following is/are the exclusive power (s) of Lok Sabha? 1. To ratify the declaration of Emergency 2. To pass a motion of no-confidence against the Council of Ministers 3. To impeach the President of India Select the correct answer using the code given below: | KEY: 2 only
+33 | I.A.S. (Pre) 2012 | Q: Which of the following special powers has been conferred on the Rajya Sabha by the Constitution of India? | KEY: To pass a resolution empowering the Parliament to make laws in the State List and to create one or more All India Services.
+34 | U.P.P.C.S. (Pre) 2018 | Q: The Council of States has exclusive powers in relation to which of the following? | KEY: To recommend creation of a new All India Service
+35 | U.P.P.C.S. (Pre) 1997 | Q: Which one of the following comes under the exclusive power of the Council of States : | KEY: Creation of new All India Services.
+36 | U.P. P.C.S (Pre) 2025 | Q: With reference to creation of new All India Service, which of the following statements is/are correct ? 1. In the national interest, the Rajya Sabha can pass a resolution for creation of new All India Service. 2. The resolution for creation of new All India Service must be passed by the Rajya Sabha  | KEY: Only 1
+37 | I.A.S. (Pre) 2020 | Q: Rajya Sabha has equal powers with Lok Sabha in : | KEY: amending the Constitution
+38 | M.P.P.C.S. (Pre) 1990 | Q: What is the consequence of the failure of Government in Rajya Sabha? | KEY: None of the above
+39 | I.A.S. (Pre) 2001 | Q: Which one of the following statements correctly describes the Fourth Schedule of the Constitution of India? | KEY: It allocates seats in the Council of States.
+40 | U.P.P.C.S. (Pre) 1999 | Q: Which one of the following pairs of states has equal representation in the Council of States: | KEY:  | REVIEW: key or options unclear, do not tag
+41 | U.P.P.C.S. (Pre) 2000 | Q: Seats allocated to Uttar Pradesh in the Council of States are the total number of seats allocated to: | KEY:  | REVIEW: key or options unclear, do not tag
+42 | U.P. P.C.S (Pre) 2025 | Q: Match List I with List II and choose the correct answer using the code given below the lists. List I (State) List - II (Number of seats in Rajya Sabha) A. Maharashtra 1. 16 B. Karnataka 2. 18 C. Bihar 3. 19 D. Tamil Nadu 4. 12 Code : A B C D | KEY: 3 4 1 2
+43 | I.A.S. (Pre) 2009 | Q: Given below is a list of States along with seats allotted to them in the Council of States. Which one of them is not matched : | KEY:  | REVIEW: key or options unclear, do not tag
+44 | U.P.P.C.S. (Pre) 2002 | Q: Match the List-I with List-II and give correct answer by using code given below: List-I List-II (States) (Seats) A. Andhra Pradesh 1. 18 B. Maharashtra 2. 19 C. Karnataka 3. 12 D. West Bengal 4. 16 Code : A B C D | KEY:  | REVIEW: key or options unclear, do not tag
+45 | Uttarakhand P.C.S. (Pre) 2021 | Q: Match the List-I with List-II and select the correct answer using the code given below the lists: List-I List-II (Name of States) (Seats in Rajya Sabha) A. Jharkhand 1. 07 B. Uttarakhand 2. 05 C. Chhattisgarh 3. 03 D. Punjab 4. 06 Codes: A B C D | KEY: 4 3 2 1
+46 | U.P.P.C.S. (Pre) 2021 | Q: Match List -1 with List - II and select the correct answer using the codes given below the lists. List -1 List-II (State) (Representation in Rajya Sabha) A. Rajasthan 1.10 seats B. Gujarat 2. 7 seats C. Karnataka 3.11 seats D. Punjab 4.12 seats Codes A B C D | KEY: 1 3 4 2
+47 | U.P.P.C.S. (Pre) 2017 | Q: Match List-I with List-II and select the correct answer by using the code given below: List-I List-II (States) (No. of members in Rajya Sabha) A. Gujarat 1. 9 B. Karnataka 2. 11 C. Keral 3. 12 D. Odisha 4. 10 Code : A B C D | KEY: 2 3 1 4
+48 | Chhattisgarh P.C.S. (Pre) 2022 | Q: Arrange the following States in decreasing order of the number of seats of Rajya Sabha : | KEY: Karnataka > Gujarat > Odisha > Kerala
+49 | M.P. P.C.S. (Pre) 2018 | Q: Which one of the following is not correctly matched? State Allocation of Seats in the Rajya Sabha | KEY: Andhra Pradesh 18
+50 | U.P.P.C.S. (Mains) 2010; U.P.P.C.S. (Mains) 2006 | Q: Which among the following States has the lowest number of elected members in the Rajya Sabha? | KEY: Himachal Pradesh
+51 | U.P.P.C.S. (Mains) 2015 | Q: The Union Territories get representation in – | KEY: Both Houses of Parliament
+52 | I.A.S. (Pre) 2013 | Q: Consider the following statements: 1. The Chairman and the Deputy Chairman of the Rajya Sabha are not the members of that House. 2. While the nominated members of the Both Houses of the Parliament have no voting right in the Presidential election, they have Right to Vote in the election of the Vice- | KEY: Only 2
+53 | U.P.U.D.A./L.D.A. (Pre) 2013 | Q: The Chairman of Council of States (Rajya Sabha) is | KEY: Vice-President is ex-officio Chairman
+54 | U.P. P.C.S (Pre) 2025 | Q: With reference to ‘Vice-President of India’, which of the following statements is/are correct ? 1. The Vice-President is the ex-officio Chairman of the Rajya Sabha. 2. Vice-President is a member of the Rajya Sabha. Select the correct answer from the code given below : Code : | KEY: Only l
+55 | 48th to 52nd B.P.S.C. (Pre) 2008; U.P.P.C.S. (Pre) 1992 | Q: In which House is the presiding officer not a member of that House? | KEY: Rajya-Sabha
+56 | U.P.P.C.S. (Mains) 2011 | Q: The ex-officio Chairman of the Rajya Sabha is | KEY: The Vice-President
+57 | U.P. U.D.A./L.D.A. (Mains) 2010 | Q: Which one of the following Houses is presided over by a non-Member ? | KEY: Rajya Sabha
+58 | U.P.P.C.S. (Pre) 1993; U.P.P.C.S. (Pre) 1990 | Q: Which one of the following is Chairman of Rajya Sabha? | KEY: Vice-President of India
+59 | 42nd B.P.S.C. (Pre) 1997 | Q: Chairman of Rajya Sabha is- | KEY: The Vice-President of India
+60 | M.P.P.C.S. (Pre) 2010 (*) | Q: Present Chairman of Rajya Sabha is - | KEY:  | REVIEW: key or options unclear, do not tag
+61 | no exam label | Q: Identify the incorrect statement regarding Council of States (Rajya Sabha). | KEY: Dr. S. Radhakrishnan is the only Chairman of Rajya Sabha for two consecutive terms.
+62 | U.P.P.C.S. (Pre) 2017 | Q: In which year was Rajya Sabha constituted for the first time? | KEY: 1952
+63 | M.P.P.C.S. (Pre) 2024 | Q: Who among the following was nominated to the Rajya Sabha by the President of India as the 12th member in the year 2024? | KEY: Sudha Murty
+64 | Chhattisgarh P.C.S (Pre) 2013 | Q: Who among the following can participate in the deliberations of Lok Sabha while being a member of Rajya Sabha? | KEY: Minister who is a member of Rajya Sabha
