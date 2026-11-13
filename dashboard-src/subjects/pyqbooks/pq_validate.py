@@ -52,7 +52,8 @@ def main():
     packs = sorted((d / "packs").glob("w*.txt"))
     pack_ids = {}
     for p in packs:
-        for m in re.finditer(r"^\[(\d\d-\d\d\d)\]", p.read_text(encoding="utf-8"), re.M):
+        # "06-012"; Geography has more than 99 units: "105-012"
+        for m in re.finditer(r"^\[(\d{2,3}-\d{3,4})\]", p.read_text(encoding="utf-8"), re.M):
             pack_ids[m.group(1)] = p.stem
     cards = {}
     errors = warns = 0

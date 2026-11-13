@@ -25,7 +25,7 @@
  },
  "07-161": {
   "r": "Customs plus excise share of Centre's revenue receipts in 1995-96 (B.E.) → 45.01%; in 2024-25 interim customs 7.7%, excise 10.6%.",
-  "c": "Answer not printed; none of the options (42, 37, 30, 25%) matches 45.01%."
+  "c": "Book gives no single answer: customs and excise made up 45.01% of the Centre's revenue receipts in 1995-96 (B.E.), above every option."
  },
  "07-162": {
   "r": "Gross tax revenue order at question time: Corporation Tax > Income Tax > Union Excise > Service Tax (option c); now Income Tax > GST > Corporation Tax."
@@ -50,8 +50,8 @@
   "r": "Maximum tax revenue to Centre in 2007-08 → Corporation Tax; now Income Tax 19%, GST 18%, Corporation Tax 17% of receipts."
  },
  "07-169": {
-  "r": "Largest revenue source in Union Budget 2005-06 (book) → Corporation Tax.",
-  "c": "The book's note under another question says Union excise was largest in 2005-06; the two answers conflict."
+  "r": "Largest tax source in Union Budget 2005-06 → Union excise duties, ahead of corporation tax (the book wrongly prints corporation tax).",
+  "c": "Book's (a) is wrong for 2005-06: in that Budget, Union excise (c) was the largest source, ahead of corporation tax, as the book's own note on the previous question says."
  },
  "07-170": {
   "r": "Union excise share of gross tax revenue fell sharply: 30.4% (2005-06) → 16.5% (2009-10); now about 8.32%."
@@ -67,7 +67,7 @@
  },
  "07-173": {
   "r": "After the Eightieth Amendment (2000), net proceeds of all Union taxes (minus cess, surcharge, collection cost) form the divisible pool shared with States.",
-  "c": "Answer not printed; since all Union taxes except cess are shareable, options (a) and (b) both fit."
+  "c": "Book gives no single answer: since the Eightieth Amendment (2000) all Union taxes except cesses and surcharges are shared with States, so both (a) and (b) fit."
  },
  "07-174": {
   "r": "Income tax → levied and collected by the Union; net proceeds shared between Union and States as per Finance Commission."
@@ -164,7 +164,7 @@
  },
  "07-208": {
   "r": "Fringe Benefit Tax (2005, abolished 2009), Interest Tax (1974 Act) and Securities Transaction Tax (1 October 2004) → all taken as direct taxes.",
-  "c": "Answer counts Interest Tax as direct, but the explanation calls it an indirect tax."
+  "c": "The explanation calls Interest Tax 'indirect', but it was a tax on lenders' interest income under the 1974 Act, run by income-tax authorities; (d) rightly treats it as direct."
  },
  "07-209": {
   "r": "Sales tax on toothpaste (pre-GST) → imposed and collected by the State Government; Central Sales Tax applied to inter-state sales."

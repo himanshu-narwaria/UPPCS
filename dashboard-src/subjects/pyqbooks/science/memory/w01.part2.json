@@ -1,0 +1,309 @@
+{
+ "03-001": {
+  "r": "A simple machine (pulley, lever, wheel, screw) lets a person do the same amount of work with less force.",
+  "hi": [
+   "Simple machine (सरल मशीन)"
+  ]
+ },
+ "03-002": {
+  "r": "A man inhaling deeply on a sensitive balance → reading increases: inhaled air adds mass (1 litre air ≈ 1.225 g; a 4.8 litre breath ≈ 5.88 g)."
+ },
+ "03-003": {
+  "r": "Vector = magnitude + direction (displacement, velocity, force); scalar = magnitude only (volume).",
+  "hi": [
+   "Vector (सदिश)",
+   "Scalar (अदिश)"
+  ]
+ },
+ "03-005": {
+  "r": "Speed is a scalar; velocity, torque and displacement are vectors.",
+  "t": "Don't confuse speed (scalar) with velocity (vector)."
+ },
+ "03-006": {
+  "r": "Pressure (force per unit area, acting in all directions) is a scalar; force, velocity and acceleration are vectors."
+ },
+ "03-007": {
+  "r": "Vectors: velocity, displacement, acceleration, momentum, force. Scalars: distance, volume, speed, pressure, energy, work, density."
+ },
+ "03-008": {
+  "r": "Momentum = mass × velocity, so momentum ÷ velocity = mass.",
+  "hi": [
+   "Momentum (संवेग)"
+  ]
+ },
+ "03-009": {
+  "r": "Force = mass × acceleration (F = m·a); a force changes an object's velocity, i.e. accelerates it."
+ },
+ "03-010": {
+  "r": "Non-contact forces act without physical contact: magnetic, gravitational and electric forces. Friction and impact forces need contact."
+ },
+ "03-011": {
+  "r": "Cube with volume equal to surface area: l³ = 6l² → edge l = 6 units."
+ },
+ "03-012": {
+  "r": "Law of conservation of energy → energy can neither be created nor destroyed; it only changes form or is transferred.",
+  "hi": [
+   "Conservation of energy (ऊर्जा संरक्षण)"
+  ]
+ },
+ "03-013": {
+  "r": "Not from the Sun's energy: nuclear energy (from the atomic nucleus) and geothermal energy (Earth's internal heat, radioactive decay). Biomass and wind are solar-derived."
+ },
+ "03-014": {
+  "r": "Wind energy is only kinetic energy (air in motion); it can be converted into mechanical and electrical energy.",
+  "hi": [
+   "Kinetic energy (गतिज ऊर्जा)"
+  ]
+ },
+ "03-015": {
+  "r": "Wind power: turbines turn the wind's kinetic energy into mechanical power, which a generator converts into electricity."
+ },
+ "03-016": {
+  "r": "Friction during motion turns kinetic energy into heat; static friction does no work (no displacement, no energy change)."
+ },
+ "03-017": {
+  "r": "Light → electric: solar cell; electric → sound: loudspeaker; mass → heat: nuclear reactor; chemical → heat and light: fuel combustion."
+ },
+ "03-018": {
+  "r": "Galileo Galilei first defined speed: distance covered per unit time (v = d/t); Newton later gave the laws of motion."
+ },
+ "03-019": {
+  "r": "Newton's first law = Law of Inertia: a body stays at rest or in uniform straight-line motion unless an unbalanced force acts.",
+  "hi": [
+   "Inertia (जड़त्व)"
+  ]
+ },
+ "03-020": {
+  "r": "Train starts suddenly → passenger's head leans backward: inertia of rest (lower body moves with the train, upper body stays at rest)."
+ },
+ "03-021": {
+  "r": "Bus turns sharply right → passengers lean to the left: the lower body turns with the bus, the upper body keeps moving in the old direction."
+ },
+ "03-022": {
+  "r": "Statics → branch of mechanics dealing with bodies at rest."
+ },
+ "03-023": {
+  "r": "A (man on frictionless surface moves by whistling: Newton's third law) and R (no external force → momentum unchanged) are both true; R doesn't explain A."
+ },
+ "03-024": {
+  "r": "Walking on ice is hard because ice offers less friction than the rough road surface."
+ },
+ "03-025": {
+  "r": "Box pushed at constant velocity → zero acceleration → zero net force, so friction equals the applied force: 200 N."
+ },
+ "03-026": {
+  "r": "Static friction is greater than kinetic friction, so starting a loaded cart needs a harder push than keeping it moving.",
+  "hi": [
+   "Friction (घर्षण)"
+  ]
+ },
+ "03-027": {
+  "r": "Goalkeeper pulls hands back → longer time to stop the ball → smaller rate of change of momentum → less force on hands (F = m(v − u)/t)."
+ },
+ "03-028": {
+  "r": "'Every action has an equal and opposite reaction' → Newton's third law of motion (forces act in pairs)."
+ },
+ "03-029": {
+  "r": "Centripetal ('centre-seeking') force keeps a body moving along a circular path; without it the body would move in a straight line.",
+  "hi": [
+   "Centripetal force (अभिकेंद्री बल)"
+  ]
+ },
+ "03-030": {
+  "r": "Coriolis force → an inertial (fictitious) force on moving objects in a rotating frame; on Earth it results from Earth's rotation."
+ },
+ "03-031": {
+  "r": "Momentum conservation: man × 5 m/s = boat × 0.5 m/s → the boat's mass is 10 times the man's."
+ },
+ "03-032": {
+  "r": "de Broglie wavelength λ = h/p = h/mv; ball of 0.12 kg at 20 m/s → λ = 6.63 × 10⁻³⁴ ÷ (0.12 × 20) = 2.76 × 10⁻³⁴ m."
+ },
+ "03-033": {
+  "r": "Equal kinetic energies and equal stopping forces → truck, car and motorcycle stop in the same distance (X = Y = Z)."
+ },
+ "03-034": {
+  "r": "KE = ½mv²; same mass → KE ratio 4 : 9 gives velocity ratio √4 : √9 = 2 : 3."
+ },
+ "03-035": {
+  "r": "Ball bearings reduce the effective area of contact between wheel and axle → less friction."
+ },
+ "03-036": {
+  "r": "Ball bearings convert static friction into rolling friction; they reduce rotational friction and support radial and axial loads."
+ },
+ "03-037": {
+  "r": "Car on a straight level road (or at rest) is in vertical equilibrium: weight shared equally, so reaction at each wheel stays R."
+ },
+ "03-038": {
+  "r": "Partly filled oil tanker accelerating forward → oil surface tilts, with greater depth at the rear end."
+ },
+ "03-039": {
+  "r": "Vehicle on a sharp circular path at high speed → skids outwards and overturns about its outer wheels (statements 1 and 3)."
+ },
+ "03-040": {
+  "r": "A rolling ball stops because friction, an external force, opposes its motion; without friction it would keep rolling."
+ },
+ "03-041": {
+  "r": "Equal halves of a distance at speeds v₁ and v₂ → average speed = 2v₁v₂ / (v₁ + v₂), not (v₁ + v₂)/2."
+ },
+ "03-042": {
+  "r": "Acceleration a = (v − u)/t, from v = u + at (v final velocity, u initial velocity, t time)."
+ },
+ "03-043": {
+  "r": "From rest: s = ½at² → 400 = ½ × a × 20² → a = 2 m/s²; F = ma = 7000 kg × 2 = 14000 N."
+ },
+ "03-044": {
+  "r": "Work W = F × s × cos θ; force along the motion → W = 140 N × 15 m = 2100 joule."
+ },
+ "03-045": {
+  "r": "Washing machine works on centrifugation: centrifugal force separates particles by size, shape and density.",
+  "hi": [
+   "Centrifugal force (अपकेंद्री बल)"
+  ]
+ },
+ "03-046": {
+  "r": "Cream separates from milk on churning due to centrifugal force.",
+  "h": "Spin to separate: washing machine dryer and cream churning both use centrifugal force."
+ },
+ "04-001": {
+  "r": "Brahmagupta (7th century AD, born Bhinmal, Rajasthan) declared in 'Brahmasphuta Siddhanta' that all things gravitate to the Earth, anticipating Newton."
+ },
+ "04-002": {
+  "r": "Isaac Newton → universal law of gravitation (1687, 'Mathematical Principles of Natural Philosophy'): force ∝ product of masses, ∝ 1/distance².",
+  "hi": [
+   "Gravitation (गुरुत्वाकर्षण)"
+  ]
+ },
+ "04-004": {
+  "r": "Astronauts can't stand erect in space: no gravity (microgravity) makes them weightless; muscles and bones also weaken."
+ },
+ "04-005": {
+  "r": "An apple released from an orbiting spaceship moves along with the spaceship at the same speed."
+ },
+ "04-006": {
+  "r": "Leaning Tower of Pisa stands because the vertical line through its centre of gravity falls within its base.",
+  "hi": [
+   "Centre of gravity (गुरुत्व केंद्र)"
+  ]
+ },
+ "04-007": {
+  "r": "Gravity follows the inverse square law (F = GMm/r²): doubling the Earth–Sun distance makes the force one-fourth."
+ },
+ "04-008": {
+  "r": "A falling object's weight stays the same (ideal case, no air resistance): its mass and gravity do not change."
+ },
+ "04-009": {
+  "r": "In vacuum, a feather, rubber ball and wooden ball dropped together land together: no air resistance, same acceleration for all."
+ },
+ "04-010": {
+  "r": "Equal-size pieces of wood, wax and iron dropped from the same height (air resistance negligible) land at the same time: same g for all."
+ },
+ "04-011": {
+  "r": "Iron and wooden balls of the same weight dropped in air: the smaller iron ball lands first, the larger wooden one later (air resistance); in vacuum, together."
+ },
+ "04-012": {
+  "r": "Balls of 10 kg and 1 kg dropped from 20 m land together: final velocity V = √(2gh) does not depend on mass."
+ },
+ "04-013": {
+  "r": "Objects of different masses falling freely near the Moon's surface (dropped together) have the same velocity at any instant."
+ },
+ "04-014": {
+  "r": "Falling body: potential energy turns into kinetic energy, so conservation of energy is not violated; gravity (a conservative force) is not violated either."
+ },
+ "04-015": {
+  "r": "Moon's surface gravity is 1/6 of Earth's, so a person weighs 1/6 there: A true; R ('Moon has no gravity like Earth') false."
+ },
+ "04-016": {
+  "r": "Weight is maximum at the poles: Earth is flattened at the poles, so the polar radius is less than the equatorial radius and g is greater.",
+  "hi": [
+   "Acceleration due to gravity (गुरुत्वीय त्वरण)"
+  ]
+ },
+ "04-018": {
+  "r": "If Earth spins faster, centrifugal force (maximum at the equator, acting against gravity) grows → a body's weight at the equator decreases."
+ },
+ "04-019": {
+  "r": "Free fall from rest: d = ½gt² → the displacement–time graph is a parabola."
+ },
+ "04-020": {
+  "r": "A body sliding from rest down a smooth incline of angle θ moves with acceleration g sin θ instead of g."
+ },
+ "04-021": {
+  "r": "Ball dropped from rest: v = u + at = 0 + 9.8 × 3 = 29.4 m/s after 3 seconds."
+ },
+ "04-022": {
+  "r": "Gravity g = GM/R²: if radius shrinks by 1% (0.99 R) with the same mass, g' = 1.02 g, i.e. g increases by 2%.",
+  "h": "Since g ∝ 1/R²: radius down 1% → g up about 2%."
+ },
+ "04-023": {
+  "r": "Destructive earthquake → ground acceleration greater than 980 cm/s² (9.8 m/s²)."
+ },
+ "04-024": {
+  "r": "Mass does not change with gravity: 100 kg on Earth is 100 kg on the Moon; only weight changes (Moon's g = g/6).",
+  "t": "Don't confuse mass (constant) with weight (changes with gravity).",
+  "hi": [
+   "Mass (द्रव्यमान)"
+  ]
+ },
+ "04-025": {
+  "r": "Weightlessness → no supporting force on the body, as in free fall; this condition is called 'zero gravity'.",
+  "hi": [
+   "Weightlessness (भारहीनता)"
+  ]
+ },
+ "04-026": {
+  "r": "We don't feel Earth's orbital motion because we move with the Earth: our speed relative to Earth along its orbit is zero.",
+  "c": "The question's figure 'about 4,400 km per hour' is far below Earth's real orbital speed; remember only the reason, not this number."
+ },
+ "04-027": {
+  "r": "If Earth's gravity vanished, an object's weight would become zero but its mass would stay the same."
+ },
+ "04-028": {
+  "r": "A satellite does not fall because Earth's gravitational pull provides the centripetal acceleration for its curved orbit."
+ },
+ "04-029": {
+  "r": "A satellite stays in orbit by centripetal force, supplied by Earth's gravity; gravity likewise keeps planets moving around the Sun."
+ },
+ "04-031": {
+  "r": "Four fundamental forces: gravity is the weakest, strong nuclear the strongest (holds protons and neutrons); weak nuclear causes radioactivity; electromagnetism acts on charges."
+ },
+ "04-032": {
+  "r": "Lift accelerating upward → apparent weight w = m(g + a) → the person feels heavier."
+ },
+ "04-033": {
+  "r": "A pendulum's time period depends on its effective length, not its mass; longer length → longer period.",
+  "hi": [
+   "Time period (आवर्तकाल)"
+  ]
+ },
+ "04-034": {
+  "r": "Pendulum clocks lose time in summer: heat lengthens the pendulum → longer time period → clock runs slow."
+ },
+ "04-035": {
+  "r": "Girl stands up on a swing → centre of gravity rises → effective length shortens → period becomes shorter."
+ },
+ "04-036": {
+  "r": "Pendulum: acceleration zero at mean position; a given velocity is reached twice per cycle; amplitude falls with time. Statement 3 wrong: acceleration is maximum at extremes."
+ },
+ "04-037": {
+  "r": "Pendulum clock runs fast in winter: cold contracts the pendulum, shortening its period.",
+  "h": "Summer slow, winter fast: heat lengthens, cold shortens the pendulum."
+ },
+ "04-038": {
+  "r": "Earth's escape velocity = 11.2 km/s: the minimum speed needed to escape a celestial body's gravitational field.",
+  "hi": [
+   "Escape velocity (पलायन वेग)"
+  ]
+ },
+ "04-039": {
+  "r": "Object thrown at 8 km/s returns to Earth: it is below the escape velocity of 11.2 km/s."
+ },
+ "04-040": {
+  "r": "Moon has no atmosphere: low g → low escape velocity, which is less than the RMS velocity of gas molecules, so gases escaped."
+ },
+ "04-042": {
+  "r": "A (candle in space gives no flame) and R (a flame exists due to gravity) both true, R explains A (NASA experiment)."
+ },
+ "04-043": {
+  "r": "In weightlessness (microgravity) a candle flame becomes spherical."
+ }
+}

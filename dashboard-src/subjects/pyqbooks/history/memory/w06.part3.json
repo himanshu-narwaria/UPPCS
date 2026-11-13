@@ -98,7 +98,7 @@
  },
  "50-143": {
   "r": "Women's movement in India → largely inspired by Jyotiba Phule (opened India's first girls' school, 1848); Ramabai Ranade (Seva Sadan) also inspired it.",
-  "c": "Printed answer Jyotiba Phule, but explanation says BPSC starred the question: Ramabai Ranade was intended (option misprinted 'Padmabai Ranaday')."
+  "c": "Book prints Jyotiba Phule, but notes BPSC accepted no option: Ramabai Ranade would be correct, and option (a) names 'Padmabai Ranaday' instead."
  },
  "50-144": {
   "r": "Brahmo Samaj, Ramakrishna Mission and Arya Samaj → none had a political mission, but all helped develop a spirit of patriotism.",
@@ -199,12 +199,12 @@
   "t": "National Indian Association (1870/71, Mary Carpenter) was also in London."
  },
  "51-017": {
-  "r": "Book's key: Indian Association → Surendranath Banerjee; Madras Mahajan Sabha → M. Veeraraghavachariar; Bombay Presidency Association → Dadabhai Naoroji; Poona Sarvajanik Sabha → Justice Ranade.",
-  "c": "Pairing Bombay Presidency Association with Dadabhai Naoroji clashes with other entries crediting Pherozeshah Mehta, Telang, Tyabji."
+  "r": "Indian Association → Surendranath Banerjee; Madras Mahajan Sabha → M. Veeraraghavachariar; Poona Sarvajanik Sabha → Justice Ranade; Bombay Presidency Association → Pherozeshah Mehta, Telang, Tyabji (key pairs it with Naoroji).",
+  "c": "The Bombay Presidency Association was founded by Pherozeshah Mehta, K.T. Telang and Badruddin Tyabji, not Dadabhai Naoroji; code (b) is picked because it alone pairs Indian Association with Surendranath Banerjee."
  },
  "51-018": {
   "r": "Book's key: 'The Indian Association' (Bristol Indian Association of 1870, renamed National Indian Association in 1871; Mary Carpenter, Keshav Chandra Sen) worked for women's education, so was not political.",
-  "c": "Doubtful: explanation uses the Bristol body; S.N. Banerjee's Indian Association was itself a pre-Congress political association."
+  "c": "Doubtful key: the book uses the Bristol 'Indian Association' (1870, women's education), but Surendranath Banerjee's Indian Association of Calcutta was a major pre-Congress political body, as were the other three options."
  },
  "51-019": {
   "r": "Both true, R explains A: Dadabhai Naoroji → East India Association, London, 1866, to influence British public opinion on Indian questions."

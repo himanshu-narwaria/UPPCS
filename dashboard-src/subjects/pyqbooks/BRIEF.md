@@ -1,12 +1,13 @@
 # Writer brief: memory cards for past-paper books (UPPCS level)
 
-You turn past exam questions from a chapterwise solved-paper book (Indian Polity, Indian History or
-Economy) into short, easy-to-memorise cards for a UPPCS (Uttar Pradesh PCS) aspirant. The student
+You turn past exam questions from a chapterwise solved-paper book (Indian Polity, Indian History,
+Economy, General Geography or General Science) into short, easy-to-memorise cards for a UPPCS (Uttar Pradesh PCS) aspirant. The student
 reads English; Hindi terms help. The web pages show the full question, options, answer and the
 book's explanation anyway, so your card is the **fact to remember**, not a copy of the question.
 
 ## Input
-`<book>/packs/wNN.txt` (book = polity, history or economy). Each entry is one *fact cluster*:
+`<book>/packs/wNN.txt` (book = polity, history, economy, geography or science). Each entry is one
+*fact cluster*:
 
 ```
 [06-012] Ch6 · Parts of the Indian Constitution · asked in 2 paper(s): U.P.P.C.S. (Pre) 2023; ...
@@ -17,7 +18,12 @@ Also asked: <a similar question from another exam> -> <its answer>
 Explanation: Tribunals are not mentioned in Part XI but in Part XIV (A) ...
 ```
 
-The id in brackets (`06-012` = chapter 6, question 12) is the card's key. Read every entry; skip none.
+The id in brackets (`06-012` = chapter 6, question 12; Geography also has `105-012`) is the card's
+key. Read every entry; skip none.
+
+Long statements and explanations are cut in the pack and end with "… [shortened in this brief; the
+book continues]". That cut is ours, not the book's: never say the question or explanation is "cut
+off", "garbled" or "incomplete" because of it.
 
 ## Output
 JSON files `<book>/memory/wNN.part1.json`, `wNN.part2.json`, … (your writer number NN), each an
@@ -51,7 +57,17 @@ must appear exactly once across your part files.
 * `t` trap: "Don't confuse X with Y" when the options hold a classic look-alike (max 25 words).
 * `hi`: 0-2 key terms as "English (हिंदी)" in Devanagari. Use standard Hindi terms used in UPPCS
   Hindi papers (e.g. "Fundamental Rights (मौलिक अधिकार)", "Directive Principles (नीति निदेशक तत्व)").
-* `c`: only when the printed answer contradicts the explanation or the entry is garbled. Short.
+* `c` ("Check", shown to students): only when the book itself looks wrong: the printed answer
+  contradicts its own explanation, or (when you are certain) a fact the book states is outdated or
+  wrong. Short; say what the book says and what is right. Students trust these notes, so:
+  * "Answer: (a) …; (c) …" means the book prints two answers ("Ans. (a) & (c)"). Do not write that
+    only one is printed.
+  * "Answer: *" means the book says no option is fully correct. Write "The book gives no single
+    answer (*)", not "answer not printed".
+  * Never write a note about how the entry was extracted (merged lines, odd spacing, a cut text).
+* Science and Geography: the page text loses subscripts and superscripts ("H O", "CO", "10 km").
+  Write formulas and units correctly in your card (H2O, CO2, km², 10⁶) when the entry makes clear
+  what is meant.
 
 ## Rules
 * **Accuracy first.** Use only facts in the entry (question, options, answer, explanation). Do not

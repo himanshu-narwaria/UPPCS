@@ -1,0 +1,432 @@
+{
+ "30-006": {
+  "r": "Normal annual rainfall, decreasing → Kochi, Kolkata, Patna, Delhi (exam answer); 2024 data: Kochi 2828.09 mm, Kolkata 2089.6, Delhi 732.714, Patna 619.031."
+ },
+ "30-007": {
+  "r": "Mango shower → pre-monsoon (April) showers in Karnataka and Kerala, from Bay of Bengal thunderstorms; they help mangoes ripen early and stop premature dropping.",
+  "c": "A mango shower is pre-monsoon rain, not a crop, so (d) does not fit; (c), the only rain option, fits better, though mango showers belong to Kerala and Karnataka, not Bihar and Bengal."
+ },
+ "30-008": {
+  "r": "Mango shower → coastal Karnataka (and Kerala); Blossom shower → Kerala; Norwesters → West Bengal; Loo → Punjab to Bihar.",
+  "hi": [
+   "Loo (लू)",
+   "Norwesters (काल बैसाखी)"
+  ]
+ },
+ "30-010": {
+  "r": "Mango showers → pre-monsoon showers in Kerala and coastal Karnataka at the end of summer; help early ripening of mangoes ('April rains')."
+ },
+ "30-011": {
+  "r": "Mango Shower → pre-monsoon showers in Kerala, coastal Karnataka and Tamil Nadu that help early ripening of mangoes."
+ },
+ "30-012": {
+  "r": "Norwesters (Kal-Baisakhi) → storms of West Bengal, Assam and Northeast; first moisture for Assam's tea and Bengal–Assam rice; Karaburan → hot dusty wind of central Asia.",
+  "hi": [
+   "Norwesters (काल बैसाखी)"
+  ]
+ },
+ "30-013": {
+  "r": "Least rainfall → Leh (56.967 mm, 2024); Jaisalmer 451.888 mm, Bikaner 457.611 mm, Cherrapunji 10207 mm."
+ },
+ "30-015": {
+  "r": "Cherrapunji (now Sohra) → East Khasi Hills district, Meghalaya; record rainfall place after Mawsynram."
+ },
+ "30-016": {
+  "r": "Highest rainfall (over 250 cm a year) → Western Ghats, Eastern Himalayan region and Meghalaya."
+ },
+ "30-017": {
+  "r": "India is a 'thirsty land' despite 1257 mm rain → all reasons: rain packed into June–September, rapid runoff and quick evaporation; dry for the other eight months."
+ },
+ "30-018": {
+  "r": "Rainwater harvesting → cost-effective water strategy (embankments, tanks; raises the water level); Tamil Nadu is the leading state.",
+  "hi": [
+   "Rainwater harvesting (वर्षा जल संचयन)"
+  ]
+ },
+ "30-019": {
+  "r": "About 200 mm (20 cm) average annual rain → north of the Zaskar range in J&K (now Ladakh) and western Rajasthan; answer (b) Jammu and Kashmir."
+ },
+ "30-020": {
+  "r": "Jharkhand → gets its rain from the South West Monsoon (June to September)."
+ },
+ "30-021": {
+  "r": "Map question: shaded part of India → mean annual rainfall 100 to 150 cm (answer a).",
+  "c": "The book marks (a) 100–150 cm, but its explanation says the shaded area gets 100 to 200 cm."
+ },
+ "30-022": {
+  "r": "Very heavy rain in the Pushkar Hills → floods in the Balotra region (Rajasthan)."
+ },
+ "30-023": {
+  "r": "IMD 'rainy day' → a day with rainfall of 2.5 mm or more in 24 hours.",
+  "hi": [
+   "Rainy day (वर्षा दिवस)"
+  ]
+ },
+ "30-024": {
+  "r": "A and R true, R explains A: monsoon rain in the Ganga plain falls toward the west and north-west (Punjab about 600 mm, Gangetic plain up to 1500 mm)."
+ },
+ "30-025": {
+  "r": "Map question → it shows the All India water divide.",
+  "hi": [
+   "Water divide (जल विभाजक)"
+  ]
+ },
+ "30-026": {
+  "r": "Chennai warmer than Kolkata → latitude; Himalayan snowfall → altitude; rain falling from West Bengal to Punjab → distance from sea; Sutlej-Ganga plain winter rain → western depressions."
+ },
+ "30-027": {
+  "r": "Watershed development in semi-arid India → hallmark is a system of tanks storing water from seasonal rivers (about 120,000 small tanks)."
+ },
+ "30-028": {
+  "r": "Desert Development Programme (started 1977-78) → 131 blocks of 21 districts in 5 states up to 1994-95; now 235 blocks of 40 districts in 7 states."
+ },
+ "30-029": {
+  "r": "A and R true, R explains A: inland waterways are poorly developed because most of India gets rain only four months a year, so rivers lack water.",
+  "hi": [
+   "Inland waterways (अंतर्देशीय जलमार्ग)"
+  ]
+ },
+ "30-030": {
+  "r": "Cherrapunji (now Sohra) → on the Khasi Hills, Meghalaya.",
+  "t": "Not the Garo, Naga or Mikir Hills."
+ },
+ "30-031": {
+  "r": "Lowest South-West monsoon rain (1 June–30 September) among options → Chennai; Chennai gets most rain from the North-East monsoon."
+ },
+ "31-001": {
+  "r": "Winter rain in India's northern plains → Western Disturbance: extratropical storms from the Mediterranean bringing sudden winter rain to the north-west.",
+  "hi": [
+   "Western disturbance (पश्चिमी विक्षोभ)"
+  ]
+ },
+ "31-002": {
+  "r": "Winter rainfall → Punjab (Western Disturbance) and coastal Tamil Nadu (65–75 cm from the retreating North-East monsoon)."
+ },
+ "31-003": {
+  "r": "A and R true, R explains A: Tamil Nadu coast is dry in SW monsoon (parallel to Bay branch; rain shadow of Arabian branch); winter rain from NE monsoon.",
+  "hi": [
+   "Rain shadow (वृष्टि छाया)"
+  ]
+ },
+ "31-006": {
+  "r": "A and R true, R explains A: most of India is dry in winter as north-east trade winds blow land to sea, carrying little moisture (except Tamil Nadu coast)."
+ },
+ "31-008": {
+  "r": "North-East monsoon rain → Coromandel coast (Tamil Nadu coast, southern Andhra), also south-east Karnataka and south-east Kerala.",
+  "hi": [
+   "North-East monsoon (उत्तर-पूर्वी मानसून)"
+  ]
+ },
+ "31-010": {
+  "r": "A true, R false: winter anticyclones form with high pressure and low temperature; North India's winter rain comes from western disturbances and does not cause them.",
+  "hi": [
+   "Anticyclone (प्रतिचक्रवात)"
+  ]
+ },
+ "31-011": {
+  "r": "Winter rain → North-West (western disturbance: Punjab, Haryana, Delhi, west UP) and South-East (Tamil Nadu coast, North-East monsoon, October–December)."
+ },
+ "31-012": {
+  "r": "Western Disturbance winter rain in the north-western plain → decreases from west to east; non-monsoon rain from Mediterranean storms driven by the westerlies."
+ },
+ "31-013": {
+  "r": "Rabi (winter) crops → mainly Punjab and Haryana (Indo-Gangetic Plains); their winter rain comes from extra-tropical cyclones steered by the westerlies, not tropical ones.",
+  "c": "Two readings: R wrongly calls the winter-rain storms tropical cyclones (they are extra-tropical western disturbances), which strictly gives (b); ignoring that slip, (a). The book accepts both."
+ },
+ "31-014": {
+  "r": "North-west India's winter rain → western disturbances (a weak form of cyclonic disturbance, so they are the best answer over 'cyclonic depression')."
+ },
+ "32-001": {
+  "r": "2004 Tsunami (26 December, Indian Ocean) → worst hit the Coromandel Coast (south-east coast, False Divi Point to Kanyakumari).",
+  "hi": [
+   "Tsunami (सुनामी)"
+  ]
+ },
+ "32-002": {
+  "r": "Hudhud cyclone → hit the Andhra Pradesh coast at Visakhapatnam, October 2014; name suggested by Oman.",
+  "hi": [
+   "Cyclone (चक्रवात)"
+  ]
+ },
+ "32-003": {
+  "r": "Indian Tsunami Early Warning Centre (ITEWC) → at INCOIS, Hyderabad; working since October 2007."
+ },
+ "32-004": {
+  "r": "India Meteorological Department (1875, Ministry of Earth Sciences) → head office at Lodhi Road, New Delhi; first head office Kolkata; IITM is in Pune."
+ },
+ "32-005": {
+  "r": "Floods → plains of UP and Bihar; earthquakes → Himalayan foothill zone; droughts → mid-eastern India; cyclones → Jharkhand and northern Odisha."
+ },
+ "32-006": {
+  "r": "A and R true, R explains A: Himalayan landslides have increased due to large-scale mining (roads, dams, minerals) and more earthquakes.",
+  "hi": [
+   "Landslide (भूस्खलन)"
+  ]
+ },
+ "32-007": {
+  "r": "More cyclones in the Bay of Bengal → high temperatures create low pressure; cyclones spin anticlockwise in the northern hemisphere, clockwise in the southern."
+ },
+ "32-008": {
+  "r": "A and R true, R not the reason: east coast is more cyclone-prone because Bay of Bengal cyclones strike it; it also lies in the north-east trade wind zone."
+ },
+ "32-009": {
+  "r": "A and R true, R explains A: Koyna dam (Maharashtra) sits on an old fault plane that reservoir water-level changes may activate → more earthquakes.",
+  "hi": [
+   "Earthquake (भूकंप)"
+  ]
+ },
+ "32-010": {
+  "r": "Odisha → faces the most natural disasters (cyclones, floods, droughts) due to its Bay of Bengal coast."
+ },
+ "32-011": {
+  "r": "First Disaster Management Training Institute (by CRPF) → Latur, Maharashtra; India's first such institute was set up at Nagpur on 29 April 1957."
+ },
+ "32-012": {
+  "r": "India has 4 seismic zones (2, 3, 4, 5) on the BIS map; Karnataka Plateau is not high-intensity, unlike Uttarakhand, Kutch, Himachal Pradesh.",
+  "hi": [
+   "Seismic zone (भूकंपीय क्षेत्र)"
+  ]
+ },
+ "32-014": {
+  "r": "Seismic zones → Bhuj V, Srinagar V, Hyderabad II, Chennai III; so Bhuj–IV, Hyderabad–I and Chennai–II are all wrong.",
+  "c": "The book gives no single answer (*): three of the four pairs are wrong."
+ },
+ "32-015": {
+  "r": "A and R true, R explains A: floods in North Indian plains have risen as silt deposition made river valleys shallower."
+ },
+ "32-016": {
+  "r": "Most flood-prone state of India → Bihar.",
+  "hi": [
+   "Flood (बाढ़)"
+  ]
+ },
+ "32-017": {
+  "r": "Uttar Pradesh → eastern areas are most flood-affected; the high-flood zone is 48% of UP's flood-affected area."
+ },
+ "32-018": {
+  "r": "True: disasters hurt developing countries most; Bhopal gas tragedy (December 1984, MIC leak) was man-made; mangroves reduce cyclone impact. False: India is disaster-free."
+ },
+ "32-019": {
+  "r": "Flood → plains of UP and Bihar; Earthquake → Himalayan zone; Drought → West and Central India; Tsunami → southern coastal India."
+ },
+ "32-020": {
+  "r": "Cyclone Tauktae → formed in the Arabian Sea; hit the Gujarat coast in May 2021."
+ },
+ "32-021": {
+  "r": "Tropical cyclone in May → local temperature variation (book's answer); needs warm moist air, strong Coriolis force, unstable troposphere, no strong vertical wind shear."
+ },
+ "32-022": {
+  "r": "Ockhi → extremely severe cyclonic storm that hit India's coast in November 2017."
+ },
+ "32-023": {
+  "r": "Tauktae → hit India's western coast in 2021 (Arabian Sea, 14–19 May; Gujarat, Maharashtra); Amphan (May 2020) hit West Bengal, Odisha, Bangladesh."
+ },
+ "32-024": {
+  "r": "Fengal → cyclone of late November–early December 2024 from the southwestern Bay of Bengal; crossed northern Tamil Nadu and Puducherry coasts."
+ },
+ "33-001": {
+  "r": "Regur (black) soil → formed by weathering of basaltic lava; also called black cotton soil, tropical black earth or tropical chernozem.",
+  "hi": [
+   "Black soil (काली मिट्टी)"
+  ]
+ },
+ "33-002": {
+  "r": "Black cotton soil → from weathering of fissure volcanic (basaltic) lava of the Deccan trap; covers plateaus of Maharashtra, Saurashtra, Malwa, MP, Chhattisgarh; ideal for cotton."
+ },
+ "33-003": {
+  "r": "Regur → black soil (from Telugu 'Reguda'); most widespread in Maharashtra, also MP, Karnataka, AP, Gujarat, Telangana; covers 5.46 lakh sq km."
+ },
+ "33-005": {
+  "r": "Black cotton soil → Regur; a mature soil with high water retention; 'self-ploughing' as it develops wide cracks when dry."
+ },
+ "33-006": {
+  "r": "A true, R false: Deccan Trap Regur is black but poor in humus, nitrogen and phosphorus; rich in alumina, iron, lime, magnesium carbonates, potash; best for cotton."
+ },
+ "33-008": {
+  "r": "Karewas (thick glacial clay with moraines, Kashmir Himalaya) → famous for Zafran (saffron) cultivation.",
+  "hi": [
+   "Saffron (केसर)"
+  ]
+ },
+ "33-009": {
+  "r": "A true, R false: black soil suits cotton because it is clayey, holds moisture long and 'self-ploughs' (cracks when dry), not because of humus."
+ },
+ "33-013": {
+  "r": "Lava soil → black soil of western India (Deccan trap); the predominant soil of the Malwa Plateau."
+ },
+ "33-015": {
+  "r": "Black soil → needs little irrigation: high moisture retention; 'self-ploughed' as loose particles fall into its cracks."
+ },
+ "33-016": {
+  "r": "Black soil in Jharkhand → Rajmahal hill region (NIDM report)."
+ },
+ "33-017": {
+  "r": "Wrong: black soil is found in the Himalayan region. Regur is mainly in Maharashtra, Gujarat, Karnataka, MP; a mature, moisture-retentive soil good for cotton."
+ },
+ "34-001": {
+  "r": "Laterite → red (iron and aluminium oxides), poor in nitrogen, lime, humus; tapioca and cashew grow well; found in South Maharashtra, Karnataka, Kerala, Meghalaya, not Rajasthan/UP.",
+  "hi": [
+   "Laterite soil (लैटेराइट मृदा)"
+  ]
+ },
+ "34-002": {
+  "r": "Only 1 true: laterite forms under high temperature and heavy rainfall; it is low in humus, nitrogen and phosphorus, so statement 2 is false."
+ },
+ "34-003": {
+  "r": "Only 1 true: laterite (Latin 'Later' = brick) forms with high temperature and rainfall; leaching removes lime and silica, leaving it rich in iron oxide and aluminium.",
+  "h": "Later = brick: laterite is brick-red and used like brick."
+ },
+ "34-004": {
+  "r": "Not true: laterite is moisture-retentive with much clay. Laterite is porous, well-drained, acidic, leached, poor in lime and nitrogen, and a good building material."
+ },
+ "34-005": {
+  "r": "A true, R false: net sown area is about 60% in West Bengal vs 40% in Andhra Pradesh; Andhra's soils are mainly red and alluvial, not laterite."
+ },
+ "34-006": {
+  "r": "Laterite → Maharashtra (south), predominant in the Malabar coastal region; leached by alternate wet and dry seasons, poor in lime, rich in iron and aluminium oxides.",
+  "t": "Laterite is NOT rich in lime."
+ },
+ "34-009": {
+  "r": "Laterite soil → made infertile by excess iron (iron oxides)."
+ },
+ "35-001": {
+  "r": "Alluvial soil → rich in potash, phosphoric acid, alkalies; low in nitrogen; very fertile; covers about 45.6% (15 lakh sq km). Reh, Thur, Chopan are saline soils.",
+  "t": "Reh, Thur, Chopan, Kallar are names of saline soils, not alluvial."
+ },
+ "35-002": {
+  "r": "Alluvial soil → most fertile, productive soil of India; low in nitrogen; formed from Himalayan sediments and sea retreat; covers 15 lakh sq km.",
+  "hi": [
+   "Alluvial soil (जलोढ़ मृदा)"
+  ]
+ },
+ "35-003": {
+  "r": "Alluvial soil → deposited by rivers; Khadar = new alluvium on floodplains (fresh layer each flood); Bangar = old alluvium above flood reach.",
+  "hi": [
+   "Khadar (खादर)",
+   "Bangar (बांगर)"
+  ]
+ },
+ "35-004": {
+  "r": "All four true: alluvial soil's sand content falls west to east; it occurs as Bangar and Khadar; covers about 40% of India; rich in potash, poor in phosphorus.",
+  "t": "Keys differ: this question accepts 'poor in phosphorus', while another in this chapter keys 'rich in phosphoric acid'."
+ },
+ "35-005": {
+  "r": "Alluvial soil → largest, most widespread soil group of India (about 15 lakh sq km, 45.6%); widest in the Indo-Gangetic plain, Punjab to West Bengal and Assam."
+ },
+ "35-007": {
+  "r": "Old alluvium (Kachhari clay) of the Gangetic plain → Bhangar: above flood level, with calcareous concretions; Khadar is the newer alluvium.",
+  "t": "Bhangar = old alluvium; Khadar = new alluvium."
+ },
+ "35-008": {
+  "r": "Minimum water retention → alluvial sand soil (sandy soils saturate sooner; clay loam holds more water)."
+ },
+ "35-009": {
+  "r": "Loamy soil → has all particle types: about 40% sand, 18% clay, 42% silt.",
+  "hi": [
+   "Loamy soil (दोमट मिट्टी)"
+  ]
+ },
+ "35-010": {
+  "r": "Lowest pH among Chhattisgarh soils → Bhatha (laterite), about 6.5, acidic and leached, found in higher areas."
+ },
+ "36-001": {
+  "r": "Alluvial → Uttar Pradesh; Black → Maharashtra; Red → Andhra Pradesh; Desert → Rajasthan."
+ },
+ "36-002": {
+  "r": "Western Rajasthan soils (Jaisalmer, Bikaner, Barmer, Jodhpur etc.) → alkaline, saline, with a calcareous base → high calcium content."
+ },
+ "36-003": {
+  "r": "Pea (a legume) → enriches soil nitrogen by fixing atmospheric nitrogen; others: clover, soybeans, alfalfa, lupins, peanuts.",
+  "hi": [
+   "Nitrogen fixation (नाइट्रोजन स्थिरीकरण)"
+  ]
+ },
+ "36-004": {
+  "r": "Black Gram (Urd) → grown to improve soil fertility; also used as fodder.",
+  "hi": [
+   "Black gram (उड़द)"
+  ]
+ },
+ "36-005": {
+  "r": "Red soil's colour → ferric oxides; formed from ancient crystalline igneous and metamorphic rocks; poor in lime, phosphates, nitrogen, humus; fairly rich in potash."
+ },
+ "36-006": {
+  "r": "A false, R true (book): red soil is the third largest group (about 10.6% of India's area); it surrounds black soil on the south, east and north."
+ },
+ "36-007": {
+  "r": "Zinc → most deficient micronutrient in Indian soils.",
+  "hi": [
+   "Micronutrient (सूक्ष्म पोषक तत्व)"
+  ]
+ },
+ "36-008": {
+  "r": "A false, R true: Himalayan soils lack humus, though the Himalayas have the largest area under forest cover."
+ },
+ "36-009": {
+  "r": "Karewa soil → Kashmir Valley (Kashmir Himalaya); used to grow Zafran, the local saffron.",
+  "hi": [
+   "Saffron (केसर)"
+  ]
+ },
+ "36-010": {
+  "r": "Soil water available to plants → maximum in clay soil (highest water retention; slow air movement keeps water)."
+ },
+ "36-011": {
+  "r": "Particle diameter → clay below 0.002 mm; silt 0.002–0.05 mm; fine sand 0.05–2 mm."
+ },
+ "36-012": {
+  "r": "Not true: (a) on Matasi's height relative to Bhata and Kanhar. Matasi (red-yellow) covers 55–60% of Chhattisgarh; iron-rich, sandy, less fertile than Kanhar; prime paddy soil."
+ },
+ "37-001": {
+  "r": "Usar soil → pH above 7 (alkaline); treated with pyrites, gypsum, green manure (not lime); tolerant paddy varieties (Narendra Usar Paddy) can be grown.",
+  "t": "Lime treats acidic soil; gypsum treats Usar (alkaline) soil.",
+  "hi": [
+   "Usar soil (ऊसर मृदा)"
+  ]
+ },
+ "37-002": {
+  "r": "Fertile soil for common crops → pH six to seven; pH below 7 is acidic, above 7 alkaline."
+ },
+ "37-003": {
+  "r": "Lime → used to make acidic soil cultivable; very acidic or alkaline soil is unfit for common crops.",
+  "hi": [
+   "Acidic soil (अम्लीय मृदा)"
+  ]
+ },
+ "37-004": {
+  "r": "Soil salinity and alkalinity → long-term remedy is gypsum in the fields (with about one foot of water for leaching).",
+  "hi": [
+   "Gypsum (जिप्सम)"
+  ]
+ },
+ "37-006": {
+  "r": "Largest alkali-affected area (exam key) → Uttar Pradesh (2129.61 sq km in a 2019 atlas); largest saline or salt-affected area → Gujarat."
+ },
+ "37-009": {
+  "r": "Salinization (salts left as irrigation water evaporates) → makes some soils impermeable, hinders germination and growth, cuts yields; common in arid irrigated regions.",
+  "hi": [
+   "Salinization (लवणीकरण)"
+  ]
+ },
+ "37-010": {
+  "r": "A and R true, R explains A: saline soils (excess sodium, potassium, high magnesium, little lime) are unfit for crops; salt builds up from dry climate and poor drainage."
+ },
+ "37-011": {
+  "r": "Tea → best on slightly acidic soil without calcium; needs heavy rain but no stagnant water, so grown on hill slopes.",
+  "hi": [
+   "Acidic soil (अम्लीय मृदा)"
+  ]
+ },
+ "38-001": {
+  "r": "Critical soil erosion → Shivalik/Western Himalayan foothills, Chambal–Yamuna ravines (most affected: Chambal valley), Chotanagpur Plateau, Maharashtra black soil, arid Haryana–Rajasthan–Gujarat.",
+  "hi": [
+   "Soil erosion (मृदा अपरदन)"
+  ]
+ },
+ "38-003": {
+  "r": "Morena (Chambal valley, MP) → soil erosion problem; gully erosion (Chambal ravines) has also made Bhind, Gwalior and Shivpuri barren.",
+  "hi": [
+   "Gully erosion (अवनालिका अपरदन)"
+  ]
+ }
+}

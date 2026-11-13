@@ -1,0 +1,464 @@
+{
+ "84-046": {
+  "r": "Central Institute of Indian Languages (CIIL) → Mysore; research and teaching institute under the Department of Higher Education, Ministry of Education."
+ },
+ "84-047": {
+  "r": "Central Goat Research Institute (ICAR) → Makhdoom, Mathura; established 12 July 1979."
+ },
+ "84-048": {
+  "r": "First Krishi Vigyan Kendra → Puducherry (then Pondicherry), 1974, pilot under Tamil Nadu Agricultural University, Coimbatore; 728 KVKs by February 2024.",
+  "hi": [
+   "Krishi Vigyan Kendra (कृषि विज्ञान केंद्र)"
+  ]
+ },
+ "84-050": {
+  "r": "Centre for Social Forestry and Eco-Rehabilitation → Prayagraj; Forest Research Institute → Dehradun; Indian Institute of Forest Management → Bhopal; Environmental Engineering Research Institute → Nagpur."
+ },
+ "84-051": {
+  "r": "Wrong pair: Central Agroforestry Research Institute – Banda; it is at Jhansi (ICAR, est. 1988, called 'Krishivaniki'). Agroforestry research centre → Nairobi; IIFM → Bhopal; TERI → New Delhi."
+ },
+ "84-052": {
+  "r": "University of Horticulture and Forestry → Solan (Himachal Pradesh)."
+ },
+ "84-053": {
+  "r": "Indian Institute of Remote Sensing → Dehradun, Uttarakhand.",
+  "hi": [
+   "Remote sensing (सुदूर संवेदन)"
+  ]
+ },
+ "84-054": {
+  "r": "V.V. Giri National Labour Institute → Noida, Uttar Pradesh."
+ },
+ "84-055": {
+  "r": "National Research Centre on Seed Spices → Doomara, Ajmer."
+ },
+ "84-056": {
+  "r": "IFFCO (fertilizer co-operative, HQ New Delhi) → makes and markets fertilizers, does not export farm goods; NAFED, State Trading Corporation, MMTC do."
+ },
+ "84-057": {
+  "r": "Temperate forest research → Himalayan Forest Research Institute, Shimla (under ICFRE); began May 1977 as conifer (Silver Fir, Spruce) regeneration research centre."
+ },
+ "84-058": {
+  "r": "ICAR-National Research Centre on Camel → Bikaner, Rajasthan."
+ },
+ "84-059": {
+  "r": "Indian Institute of Petroleum (a CSIR lab, est. 14 April 1960) → Dehradun, Uttarakhand."
+ },
+ "84-060": {
+  "r": "National Disaster Response Force (NDRF) Academy → Nagpur, set up in 2018 by merging the National Civil Defence College (NCDC)."
+ },
+ "85-001": {
+  "r": "Roads carried about 80% of passenger and 65% of freight traffic when asked (now about 90% and 67%); road network 63.45 lakh km, world's second largest."
+ },
+ "85-002": {
+  "r": "When asked: 64 National Highways, about 40,000 km long; as of December 31, 2024 → about 668 National Highways, 146195 km."
+ },
+ "85-003": {
+  "r": "Longest National Highway: NH-7 when asked; now NH-27 EW (4112.62 km), as of March 31, 2019 (Ministry of Transport and Highways)."
+ },
+ "85-004": {
+  "r": "Old NH 4 (1,235 km) → Maharashtra, Andhra Pradesh, Karnataka, Tamil Nadu; present NH4 (330.70 km) → Port Blair–Chiriyatapu, Andaman and Nicobar Islands."
+ },
+ "85-006": {
+  "r": "None correct (old numbering): NH 4 → Mumbai–Chennai, not via Hyderabad; NH 6 → Hazira–Kolkata, not from Mumbai; NH 15 pair also wrong."
+ },
+ "85-007": {
+  "r": "When asked, Uttar Pradesh had the longest National Highway length; as of December 31, 2024 → Maharashtra first (18462 km), UP second (12123 km)."
+ },
+ "85-008": {
+  "r": "Maharashtra → longest state highway length (38765 km in 2012-13; 32,005 km in 2018-19), ahead of Gujarat, Rajasthan, Uttar Pradesh."
+ },
+ "85-010": {
+  "r": "Golden Quadrilateral (NHDP) → Delhi, Mumbai, Chennai, Kolkata; 5,846 km. North-South corridor → Srinagar–Kanyakumari; East-West → Silchar–Porbandar (not Dwarka).",
+  "c": "The book prints (b) as the answer, yet its explanation says statements 2 and 3 are correct; (c) Srinagar–Kanyakumari is also true."
+ },
+ "85-012": {
+  "r": "Golden Quadrilateral → highways project connecting the four metropolitan cities by road."
+ },
+ "85-013": {
+  "r": "Golden Quadrilateral (a National Highway project) → Delhi (North), Kolkata (East), Mumbai (West), Chennai (South)."
+ },
+ "85-015": {
+  "r": "Pradhanmantri Bharat Jodo Pariyojna → highway development; corridors linking tourist and economic places, built on BOT (Build, Operate, Transfer)."
+ },
+ "85-016": {
+  "r": "North-South corridor (Srinagar–Kanyakumari) and East-West corridor (Silchar–Porbandar) cross at Jhansi (Uttar Pradesh).",
+  "h": "Jhansi is the '+' sign where India's two highway corridors cross."
+ },
+ "85-020": {
+  "r": "None correct: East-West corridor → Silchar–Porbandar (not Dibrugarh–Surat); Trilateral Highway → Moreh (Manipur) to Mae Sot (Thailand) via Bagan; BCIM corridor starts at Kunming, not linked to Varanasi."
+ },
+ "85-021": {
+  "r": "North-South corridor (NHDP's second phase), north to south → Agra, Gwalior, Nagpur, Krishnagiri."
+ },
+ "85-023": {
+  "r": "Mumbai–Pune Expressway → India's first six-lane concrete, access-controlled, tolled expressway; 94.5 km long."
+ },
+ "85-024": {
+  "r": "Old NH-3 linked Agra, Gwalior and Dhule, not Bhopal; present NH-3 runs Atari (Punjab) – Manali – Leh."
+ },
+ "85-025": {
+  "r": "PMGSY → launched 25 December 2000 as a fully funded Centrally Sponsored Scheme for all-weather roads to unconnected villages.",
+  "hi": [
+   "Pradhan Mantri Gram Sadak Yojana (प्रधानमंत्री ग्राम सड़क योजना)"
+  ]
+ },
+ "85-026": {
+  "r": "Surface roads per 100 km², descending (when asked): Punjab, Tamil Nadu, Maharashtra, Haryana; 2018-19: Punjab 293.59, Maharashtra 208.47, Tamil Nadu 206.97, Haryana 113.75 km."
+ },
+ "85-027": {
+  "r": "When asked: National Highways met 40-45% of transport demand and NH-7 was the longest (now NH-27 EW); 'world's largest railway' and 'Kerala top road density' were false."
+ },
+ "85-028": {
+  "r": "Old NH 2 → Delhi–Agra–Kanpur–Allahabad–Varanasi–Kolkata; old NH 1 → Delhi–Ambala–Jalandhar–Amritsar; book's answer for Amritsar–Kolkata via Delhi: NH 2.",
+  "c": "Amritsar–Delhi–Kolkata needed two old highways: NH 1 (Delhi–Amritsar) and NH 2 (Delhi–Kolkata), together the Grand Trunk Road route. The book takes (b) NH 2, the longer part."
+ },
+ "85-029": {
+  "r": "National Highways → carry about 40% of India's road traffic; road network 63.45 lakh km (world's second largest); NH length about 146195 km."
+ },
+ "85-030": {
+  "r": "Old NH-3 (Agra–Gwalior–Dewas–Mumbai) → longest National Highway length in Madhya Pradesh: 712 km."
+ },
+ "85-031": {
+  "r": "Old NH lengths: Kolkata–Hazira (NH 6) 1949 km, longest; Chennai–Thane (NH 4) 1235; Agra–Mumbai (NH 3) 1161; Pune–Machilipatnam (NH 9) 841."
+ },
+ "85-032": {
+  "r": "Wrong pair: South Central Railway HQ is Secunderabad, not Hyderabad. NW-1 → Haldia–Allahabad; NH-50 → Nasik–Pune; Durgapur–Kolkata → expressway."
+ },
+ "85-033": {
+  "r": "NH length, book's order: Arunachal Pradesh > Mizoram > Nagaland > Sikkim; 31.03.2024 data: Arunachal 4285.39, Nagaland 1670.47, Mizoram 1498.67, Sikkim 709.07 km.",
+  "c": "The book answers (b) with Mizoram above Nagaland, but its own 31.03.2024 table puts Nagaland (1670.47 km) above Mizoram (1498.67 km)."
+ },
+ "85-034": {
+  "r": "Jawahar Tunnel (Banihal Tunnel) → road tunnel at Banihal, Jammu and Kashmir; maintained by the Border Roads Organisation (BRO)."
+ },
+ "85-035": {
+  "r": "Kohima to Kottayam by road → minimum 7 states: Nagaland, Assam, West Bengal, Odisha, Andhra Pradesh, Tamil Nadu (or Karnataka), Kerala."
+ },
+ "85-036": {
+  "r": "New NH numbers (notification of 5 March 2010): NH-3 → Punjab, Himachal, J&K; NH-7 → Haryana, Himachal, Punjab, Uttarakhand; neither enters MP → book gives no single answer (*)."
+ },
+ "85-037": {
+  "r": "Indore–Jaipur National Highway → new number NH 52 (part of old NH 3)."
+ },
+ "85-038": {
+  "r": "Road density per 1000 sq km (31 March 2019): Kerala 6690.30, highest; Punjab 2935.98; Gujarat 1270.73; Haryana 1137.53."
+ },
+ "85-039": {
+  "r": "National Highways in MP: NH 30 → Jabalpur; NH 39 → Khajuraho; NH 46 → Bhopal; NH 44 → Sagar."
+ },
+ "85-040": {
+  "r": "Maharashtra → first in India in length of roads (among Maharashtra, UP, MP, Rajasthan)."
+ },
+ "85-041": {
+  "r": "Bharatmala Pariyojana (to 31 October 2024) → Rajasthan built the most road length (2,241 km), ahead of Uttar Pradesh (1,854 km) and Maharashtra (1,837 km)."
+ },
+ "86-001": {
+  "r": "India's first railway → 16 April 1853, Bombay to Thane, by Great Indian Peninsula Railway (GIPR), in Lord Dalhousie's tenure."
+ },
+ "86-004": {
+  "r": "Broad gauge → 1.676 m (1676 mm, about 5½ ft); metre gauge → 1 m (1000 mm); narrow gauge → 762 mm or 610 mm.",
+  "hi": [
+   "Broad gauge (बड़ी लाइन)"
+  ]
+ },
+ "86-005": {
+  "r": "Shortest Gorakhpur–Mumbai rail route → via Allahabad (Prayagraj)."
+ },
+ "86-006": {
+  "r": "Bullet train → Mumbai–Ahmedabad; plan approved by PM Manmohan Singh in December 2004."
+ },
+ "86-007": {
+  "r": "Wrong pair: South-Eastern Railway HQ is Kolkata, not Bhubaneswar (Bhubaneswar → East Coast Railway). North-Eastern → Gorakhpur; Eastern → Kolkata; South-East Central → Bilaspur."
+ },
+ "86-008": {
+  "r": "Zone HQs: Northern Railway → New Delhi; North Eastern → Gorakhpur; South Eastern → Garden Reach, Kolkata (not Cuttack)."
+ },
+ "86-009": {
+  "r": "Wrong pair: Northeast Frontier Railway HQ is Maligaon (Guwahati), not Prayagraj; North Central → Prayagraj; Central → Mumbai; Western → Churchgate; South Eastern → Garden Reach, Kolkata."
+ },
+ "86-011": {
+  "r": "Only true: Fairy Queen runs on the world's oldest working engine for wildlife and heritage trips. North Western Railway HQ → Jaipur (not Jodhpur); Indrail pass → for foreign tourists/NRIs."
+ },
+ "86-012": {
+  "r": "East Central Railway HQ → Hajipur (Bihar), working since 1st October 2002; Indian Railways has 17 zones."
+ },
+ "86-013": {
+  "r": "North Central Railway HQ → Prayagraj (Allahabad), formed 1 April 2003; Northern Railway → New Delhi; West Central → Jabalpur."
+ },
+ "86-014": {
+  "r": "Delhi travellers bound for Karachi and Bhuj can go together up to Balotra junction; one line then goes to Munabao via Barmer, the other south to Bhuj."
+ },
+ "86-015": {
+  "r": "Roads got more impetus than rail: rail's high capital cost, scattered settlements, rail's 'indivisible' nature; but road is NOT cheaper per tonne-km than rail (statement 3 false)."
+ },
+ "86-016": {
+  "r": "Rail Coach Factory → Kapurthala; Wheel and Axle Plant → Bangalore; Diesel Locomotive Works (now Banaras Locomotive Works) → Varanasi; Integral Coach Factory → Perambur."
+ },
+ "86-017": {
+  "r": "Diesel locomotives → Manduadih (Banaras Locomotive Works, ex-DLW, Varanasi); Chittaranjan → electric; Jamshedpur (TELCO) → steam; Perambur (ICF) → coaches."
+ },
+ "86-018": {
+  "r": "Passenger rail coaches → Punjab (Kapurthala) and Tamil Nadu (Perambur)."
+ },
+ "86-019": {
+  "r": "Railway Staff College (now National Academy of Indian Railways) → Vadodara; trains Group A and B officers."
+ },
+ "86-020": {
+  "r": "Sal wood → hard, heavy, strong, termite-resistant → used mostly for railway sleepers (and coaches).",
+  "hi": [
+   "Sal tree (साल वृक्ष)"
+  ]
+ },
+ "86-021": {
+  "r": "Gujarat railway junctions marked 1–4 on the map → Mahesana, Surendranagar, Rajkot, Junagarh."
+ },
+ "86-022": {
+  "r": "Third Rail Coach Factory → Raebareli (Raibareli); foundation stone 2007, construction began 2009."
+ },
+ "86-023": {
+  "r": "First CNG train (dual fuel: diesel + CNG) → Rewari–Rohtak section, Northern Zone; cuts greenhouse gas and diesel use."
+ },
+ "86-024": {
+  "r": "Gujarat → first state with a PPP railway track: Gandhidham–Tuna Tekra line, commissioned 14 July 2015, built by Deendayal Port Authority.",
+  "hi": [
+   "Public-Private Partnership (सार्वजनिक-निजी भागीदारी)"
+  ]
+ },
+ "86-025": {
+  "r": "Konkan Railway → Roha (Maharashtra) to Thokur near Mangaluru (Karnataka), about 760 km, cuts across Western Ghats; runs through Maharashtra, Goa, Karnataka, not Kerala.",
+  "h": "Konkan = M-G-K: Maharashtra, Goa, Karnataka; Kerala only gets a gateway."
+ },
+ "86-028": {
+  "r": "Konkan Railway connects Madgaon, Ratnagiri and Udupi; it does not connect Belgaum."
+ },
+ "86-029": {
+  "r": "UNESCO Mountain Railways of India → Darjeeling Himalayan (Siliguri–Darjeeling, West Bengal), Nilgiri Mountain (Tamil Nadu), Kalka–Shimla (Himachal Pradesh)."
+ },
+ "86-030": {
+  "r": "Meghalaya had no rail service when asked; joined the rail map in November 2014 (first train Mendipathar–Guwahati); now only Sikkim lacks railways."
+ },
+ "86-031": {
+  "r": "Longest Rajdhani → Thiruvananthapuram Rajdhani (12431/32) to Hazrat Nizamuddin, about 3,149 km; Dibrugarh 2459, Bengaluru 2365, Chennai 2175 km."
+ },
+ "86-032": {
+  "r": "Rail tunnels by length: Pir Panjal 11.2 km > Karbude 6.5 km > Nathuwadi 4.4 km > Berdewadi 4 km."
+ },
+ "86-033": {
+  "r": "New Pamban Bridge (Rameswaram Island–mainland, Tamil Nadu) → India's first vertical-lift railway sea bridge, 2.07 km; built by RVNL, a Navratna PSU of Railways."
+ },
+ "87-001": {
+  "r": "Kochi (Cochin) sea-port, Kerala → Malabar Coast; a natural harbour usable all year."
+ },
+ "87-002": {
+  "r": "All true: tides help navigation and fishing; high tide lets big ships enter/leave harbour; tides prevent harbour siltation; Kandla (Deendayal) and Diamond Harbour are tidal ports.",
+  "hi": [
+   "Tidal port (ज्वारीय पत्तन)"
+  ]
+ },
+ "87-003": {
+  "r": "Cochin Shipyard Limited (CSL) → largest shipyard in India (among Kolkata, Cochin, Mumbai, Visakhapatnam)."
+ },
+ "87-005": {
+  "r": "Map ports: Kolkata (Shyama Prasad Mukherjee), Paradip, Cochin, Kandla (Deendayal); Kolkata and Kandla are both tidal → book gives no single answer (*)."
+ },
+ "87-006": {
+  "r": "Kandla (Deendayal) port → Kandla Creek, Gulf of Kutch, 90 km from its mouth; a protected natural harbour."
+ },
+ "87-007": {
+  "r": "Wrong pair: Chennai – deepest port. Visakhapatnam is the deepest landlocked protected port; Chennai is an old artificial harbour. Cochin → natural; Kandla → tidal."
+ },
+ "87-008": {
+  "r": "Visakhapatnam → landlocked inner harbour, built by Bengal Nagpur Railway 1927–1933 to export manganese ore from the Central Provinces.",
+  "hi": [
+   "Harbour (पोताश्रय)"
+  ]
+ },
+ "87-009": {
+  "r": "Chennai → artificial port (commercial operation from 1881; third oldest major port); Mormugao, Mumbai, Kochi → natural ports."
+ },
+ "87-010": {
+  "r": "Wrong pair: Kolkata is a riverine port, not India's deepest harbour. Tuticorin → fishing harbour; Chennai → artificial harbour (since 1881); Visakhapatnam → natural harbour."
+ },
+ "87-011": {
+  "r": "Kandla (Deendayal) port → Gulf of Kutch, Gujarat (west coast); India's first Special Economic Zone; Chennai, Paradip, Tuticorin are east-coast ports."
+ },
+ "87-012": {
+  "r": "Paradip port (Odisha) → built to decongest Kolkata (Shyama Prasad Mukherjee) and Visakhapatnam ports; began as a mono-commodity port exporting iron ore to Japan."
+ },
+ "87-015": {
+  "r": "Among Kandla, Cochin, Paradip, Marmagoa → Paradip is India's deepest port (minimum depth decides the largest vessel a port can take)."
+ },
+ "87-016": {
+  "r": "Marmugao seaport → Goa."
+ },
+ "87-017": {
+  "r": "Correct: Kandla (Deendayal) → Gujarat. Others: Haldia → West Bengal; Paradip → Odisha; Marmugao → Goa."
+ },
+ "87-018": {
+  "r": "Kandla (Deendayal) → handles the highest tonnage of import (and export) cargo among Calcutta, Kandla, Mumbai, Visakhapatnam (2023-24)."
+ },
+ "87-019": {
+  "r": "Puducherry UT (French-ruled until 1954) → Pondicherry plus Karaikal, Yanam, Mahe; map: A Mahe, B Karaikal, C Pondicherry, D Yanam."
+ },
+ "87-020": {
+  "r": "Chennai → India's oldest and biggest artificial (not natural) harbour; handles petroleum products, fertilizers, iron ore, general cargo."
+ },
+ "87-021": {
+  "r": "Natural ports → Visakhapatnam and Cochin; Chennai and Tuticorin → artificial ports.",
+  "hi": [
+   "Natural harbour (प्राकृतिक पोताश्रय)"
+  ]
+ },
+ "87-022": {
+  "r": "True: Kamarajar (Ennore) → first major port registered as a company; Mundra (Gulf of Kutch, Gujarat) → largest private port. False: Visakhapatnam as largest container port."
+ },
+ "87-023": {
+  "r": "East-coast ports, south to north: Tuticorin, Chennai (Tamil Nadu) → Machilipatnam, Visakhapatnam (Andhra Pradesh)."
+ },
+ "87-024": {
+  "r": "Map ports: A Veraval, B Karwar, C Tuticorin, D Kakinada; Mangalore (Karnataka) is not marked."
+ },
+ "87-025": {
+  "r": "Kakinada → port city of Andhra Pradesh (anchorage port, deep water port, fishing harbour, ship-breaking unit)."
+ },
+ "87-026": {
+  "r": "Paradeep → Odisha (Jagatsinghpur); Tuticorin (V.O. Chidambaranar) → Tamil Nadu; Kakinada → Andhra Pradesh; Alappuzha → Kerala."
+ },
+ "87-027": {
+  "r": "Map ports 1–4: Kandla, Kochi, Paradip, Kolkata; Kolkata → riverine port on the Hooghly River."
+ },
+ "87-028": {
+  "r": "Six LNG terminals → Dahej, Hazira, Mundra (Gujarat), Cochin (Kerala), Dabhol (Maharashtra), Ennore (Tamil Nadu); Kandla has none.",
+  "hi": [
+   "Liquefied Natural Gas (द्रवीकृत प्राकृतिक गैस)"
+  ]
+ },
+ "87-029": {
+  "r": "Kovalam (Kerala) → three crescent-shaped beaches meet here."
+ },
+ "87-030": {
+  "r": "Sethusamudram Shipping Canal → proposed 167 km deep-water channel between India and Sri Lanka, linking Palk Strait/Palk Bay with the Gulf of Mannar."
+ },
+ "87-032": {
+  "r": "Dahej (Gulf of Khambhat, Bharuch, Gujarat) → non-major port; Kochi, Paradip, New Mangalore are among India's 12 major ports.",
+  "hi": [
+   "Major port (महापत्तन)"
+  ]
+ },
+ "87-033": {
+  "r": "Major ports: Kandla (Deendayal) → Gujarat; Nhava Sheva → Maharashtra; Paradip → Odisha; Tuticorin (V.O. Chidambaranar) → Tamil Nadu."
+ },
+ "87-034": {
+  "r": "Alleppey → Kerala; Ennore (Kamarajar) → Tamil Nadu; Paradip → Odisha; Kakinada → Andhra Pradesh."
+ },
+ "87-035": {
+  "r": "Krishnapatnam port → in Andhra Pradesh, so Andhra Pradesh benefits most from it."
+ },
+ "87-036": {
+  "r": "Mumbai → biggest port of India and largest natural deep-water harbour, on the west coast."
+ },
+ "87-038": {
+  "r": "India's 13th major port → Vadhavan, Maharashtra, to be built on a 'landlord model'."
+ },
+ "87-039": {
+  "r": "National Waterway No. 1 → Ganga-Bhagirathi-Hooghly, Haldia to Allahabad (Prayagraj); established 1986; 1620 km.",
+  "hi": [
+   "National Waterway (राष्ट्रीय जलमार्ग)"
+  ]
+ },
+ "87-040": {
+  "r": "NW-1 (Ganga-Bhagirathi-Hooghly system) → Prayagraj to Haldia."
+ },
+ "87-041": {
+  "r": "National Waterway 1 → Ganga-Bhagirathi-Hugli waterway, Prayagraj to Haldia; India's largest waterway."
+ },
+ "87-042": {
+  "r": "NW-1 → Allahabad (Prayagraj) to Haldia, 1620 km, established 1986; India's longest waterway."
+ },
+ "87-044": {
+  "r": "Kottapuram–Kollam → West Coast Canal (Kerala coastal canal) National Waterway, declared by an Act of 1992 with Champakara and Udyogmandal canals."
+ },
+ "87-045": {
+  "r": "National Inland Navigation Institute (NINI) → Patna, Bihar; set up by the Inland Waterways Authority of India (IWAI)."
+ },
+ "87-046": {
+  "r": "Twelfth major port (coal) → Ennore near Chennai; Ennore is India's first incorporated port.",
+  "t": "Ennore Port and Kamarajar Port are the same port, not two."
+ },
+ "87-047": {
+  "r": "Kandla (Deendayal) → Gulf of Kutch, west coast; built in the 1950s to serve western India after Karachi went to Pakistan."
+ },
+ "87-048": {
+  "r": "Gujarat port towns → Okha, Porbandar, Veraval, Alang, Bhavnagar, Dahej, Mandvi, Surat; Jamnagar (south of Gulf of Kutch) is not listed as one."
+ },
+ "87-049": {
+  "r": "Bengaluru → landlocked city with no port; Kandla (Gujarat), Cochin (Kerala), Mangalore (Karnataka) are harbours."
+ },
+ "87-050": {
+  "r": "Chennai → open seaport: quays built parallel to the coast, ships berth in open water."
+ },
+ "87-051": {
+  "r": "Haldia (90 km from Kolkata) → 'Out Port': a deep-water subsidiary port serving a main port."
+ },
+ "87-052": {
+  "r": "Shipyards: Garden Reach → West Bengal; Hindustan Shipyard → Andhra Pradesh; Mazgaon Docks → Maharashtra; Cochin Shipyard → Kerala."
+ },
+ "87-053": {
+  "r": "Garden Reach Shipbuilders and Engineering Ltd.'s diesel engine plant → Ranchi."
+ },
+ "87-054": {
+  "r": "Cochin Airport (Nedumbassery, 26 km NE of Kochi) → India's first airport owned by a public limited company; inaugurated May 1999 by President K.R. Narayanan."
+ },
+ "87-055": {
+  "r": "Raja Sansi (Sri Guru Ram Das Jee) International Airport → Amritsar; Rajiv Gandhi → Hyderabad; Dr. Babasaheb Ambedkar → Nagpur."
+ },
+ "87-056": {
+  "r": "Karaikal → east coast; Daman, Janjira, Ratnagiri → west coast of India."
+ },
+ "87-057": {
+  "r": "Alang (Bhavnagar district, Gujarat) → India's largest ship-breaking yard, recycling about half the world's ship salvage."
+ },
+ "87-058": {
+  "r": "Jawaharlal Nehru Port (Nhava Sheva) → created in 1989 to decongest Mumbai Port."
+ },
+ "87-059": {
+  "r": "Nhava Sheva (Jawaharlal Nehru Port, Navi Mumbai) → west coast; Visakhapatnam, Chennai → east coast; Tuticorin → south-east coast."
+ },
+ "87-060": {
+  "r": "Jawaharlal Nehru Port (Nhava Sheva) → Maharashtra."
+ },
+ "87-061": {
+  "r": "Rajasthan → explored an artificial inland port at Jalore, linked to the Arabian Sea by a channel from Kori Creek via Rann of Kutch (300 m wide, 25 m deep)."
+ },
+ "87-063": {
+  "r": "Wrong pair: Mundra is in Gujarat, not Andhra Pradesh. Marmugao → Goa; Paradip → Odisha; Mangalore → Karnataka."
+ },
+ "87-064": {
+  "r": "Panna airport → non-operational in Madhya Pradesh; Khajuraho, Jabalpur, Gwalior airports are operational."
+ },
+ "87-065": {
+  "r": "The book treats Bhopal, Indore, Khajuraho and Gwalior all as domestic airports; MPPSC deleted the question → the book gives no single answer (*)."
+ },
+ "87-066": {
+  "r": "Kushinagar Airport (U.P.) → granted international airport status by the Union Cabinet on 24 June 2020."
+ },
+ "87-067": {
+  "r": "Air transport in India began in 1911 with the Allahabad (Prayagraj)–Naini flight."
+ },
+ "87-068": {
+  "r": "Cochin International Airport (CIAL), Kerala → India's first solar-powered airport; world's first to run fully on solar power (2015)."
+ },
+ "87-069": {
+  "r": "Kochi (Cochin International Airport) → world's first fully solar-powered airport; also India's first airport built under the PPP model."
+ },
+ "88-001": {
+  "r": "Hill resorts: Chakrata → Uttarakhand (Uttaranchal); Haflong → Assam (its only hill station); Kalimpong → West Bengal; Kufri → Himachal Pradesh."
+ },
+ "88-002": {
+  "r": "Tourist centres: Gulmarg → Jammu and Kashmir; Kasauli → Himachal Pradesh; Udvada (Zoroastrian fire temple) → Gujarat; Point Calimere → Tamil Nadu."
+ },
+ "88-003": {
+  "r": "Keylong → Himachal Pradesh; Auli → Uttarakhand; Chikmagalur → Karnataka; Ooty → Tamil Nadu."
+ }
+}

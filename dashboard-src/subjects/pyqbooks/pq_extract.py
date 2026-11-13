@@ -31,11 +31,15 @@ DROP_FONTS = ("Helvetica", "Lato", "APS-DV", "Kruti", "DevLys", "Walkman", "F5",
 FOOTER_Y = 86
 ECON_MAP = {"±": "–", "¶": "’", "µ": "‘", "³": "“", "´": "”", "²": "—", "\x87": "•", "\x8a": "•", "¼": "•"}
 LIGATURE = {0xFB01: "fi", 0xFB02: "fl", 0xFB00: "ff", 0xFB03: "ffi", 0xFB04: "ffl"}
+# raised and lowered small glyphs: digits and signs get their Unicode forms; a raised "o"/"0" after a
+# number is a degree sign (resolve_breaks); ordinal letters ("nd", "th") stay as they are
+SUPER = dict(zip("0123456789+-−o", "⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁻ᵒ"))
+SUB = dict(zip("0123456789+-−", "₀₁₂₃₄₅₆₇₈₉₊₋₋"))     # lowered letters are bracketed instead: "NNP(FC)"
 TITLE_SIZE = 14.5
 HEAD_SIZE = 10.6
 # "Ans. (b)", "Ans. (a & c)", and two answers printed as "Ans. (a) & (c)"
 # (one stray character may stand for the full stop: the Economy PDF decodes "Ans." as "Ansm" twice)
-ANS_RE = re.compile(r"\bAns\s*[.m]?\s*[:\-]?\s*\(\s*([a-eA-E*](?:\s*(?:,|&|and|or)\s*[a-eA-E])*)\s*(?:\)|(?=\s+[A-Z])|$)"
+ANS_RE = re.compile(r"\bAns\s*[.m]?\s*[:\-]?\s*\(?\s*([a-eA-E*](?:\s*(?:,|&|and|or)\s*[a-eA-E])*)\s*(?:\)|(?=\s+[A-Z])|$)"
                     r"(?:\s*(?:&|and|,|or)\s*\(\s*[a-eA-E]\s*\))*")
 QNUM_RE = re.compile(r"^(\d{1,4})\s*\.(?:\s*(?=\S)|\s*$)")     # "77. Ashokaram ..." or a lone "1." above a map
 YEAR_RE = re.compile(r"(?:19|20)\d\d")
@@ -174,12 +178,37 @@ def page_lines(chars, width, page):
             groups[-1][1].append(c)
         else:
             groups.append([c["base"], [c]])
-    for c in small:                            # superscripts ("42nd") join the nearest line of their column
+    # small glyphs join the nearest line of their column: superscripts ("42nd", "10⁵", "70°") sit
+    # up to 7pt above its baseline, subscripts ("CO₂", "B₁₂", "C₆H₁₂O₆") up to 5.5pt below. Only a
+    # glyph that touches the character before it is a real sub- or superscript; other small text
+    # (a caption, a small table) keeps the old rule: kept plain above, dropped below.
+    for c in sorted(small, key=lambda c: c["l"]):
         side = c["x"] < mid
         mine = [g for g in groups if any((m_["x"] < mid) == side for m_ in g[1])]
         best = min(mine, key=lambda g: abs(g[0] - c["base"])) if mine else None
-        if best is not None and -1.5 <= c["base"] - best[0] <= 7:
+        if best is None:
+            continue
+        d = c["base"] - best[0]
+        touch = any(-1.0 <= c["l"] - m_["r"] <= 1.8 and abs(m_["base"] - c["base"]) < 9 and m_["c"].strip()
+                    for m_ in best[1])
+        if 1.5 < d <= 7:
+            best[1].append(dict(c, c=SUPER.get(c["c"], c["c"])) if touch else c)
+        elif -1.5 <= d <= 1.5:
             best[1].append(c)
+        elif -5.5 <= d < -1.5 and touch:
+            if c["c"] in SUB:
+                best[1].append(dict(c, c=SUB[c["c"]]))
+            elif c["c"].strip():
+                best[1].append(dict(c, sublet=True))
+    # lowered letters are written as textbooks do: "NNP(FC)", "GNP(MP)"
+    for g in groups:
+        cs = sorted(g[1], key=lambda c: c["l"])
+        for i, c in enumerate(cs):
+            if c.get("sublet"):
+                if not (i and cs[i - 1].get("sublet")):
+                    c["c"] = "(" + c["c"]
+                if not (i + 1 < len(cs) and cs[i + 1].get("sublet")):
+                    c["c"] = c["c"] + ")"
     lines = []
     for base, cs in groups:
         cs.sort(key=lambda c: c["l"])
@@ -220,8 +249,13 @@ def page_lines(chars, width, page):
 
 
 # ------------------------------------------------------------------ classification helpers
-def is_title(ln):
-    return TITLE_SIZE <= ln["size"] < 30 and ln["bold"] > 0.7 and len(ln["text"]) > 2 and not ln["text"].isdigit()
+def is_title(ln, minor=False):
+    """A chapter or section title (15pt and up). With minor=True (books numbered by sub-topic) also
+    a short bold sub-sub-topic heading at 12pt: "ii. Sugarcane :", under which numbering restarts."""
+    if TITLE_SIZE <= ln["size"] < 30 and ln["bold"] > 0.7 and len(ln["text"]) > 2 and not ln["text"].isdigit():
+        return True
+    return bool(minor and 11.5 <= ln["size"] < TITLE_SIZE and ln["bold"] > 0.85 and len(ln["text"]) < 70
+                and re.match(r"^(?:[ivx]{1,5}\.|\((?:[ivx]{1,4}|[a-h])\))\s+[A-Z]", ln["text"]))
 
 
 def is_tag(ln):
@@ -230,10 +264,15 @@ def is_tag(ln):
     t = ln["text"]
     # the year may be printed "1997-98" or "2002,03"; one UP paper is named with no year at all
     year_end = re.search(r"(?:19|20)\d\d(?:\s*[-–,/]\s*\d{2,4})*\W{0,12}$", t) \
-        or re.fullmatch(r"U\.\s?P\.\s?[A-Z][A-Z./()\s-]*", t)
+        or re.fullmatch(r"U\.\s?P\.\s?[A-Z][A-Z./()\s-]*", t) \
+        or re.search(r"\((?:Pre|Mains?)\.?\)\s*[-–]?\s*\d{3}\W{0,3}$", t)     # a misprinted year: "(Pre) 995"
     return bool(ln["bold"] > 0.6 and len(t) < 100 and year_end
                 and (re.search(r"\b[A-Z]\.\s?[A-Z]\.", t) or re.search(r"\((?:Pre|Mains?|Re)", t))
                 and not t.lower().startswith(("ans", "see")) and not QNUM_RE.match(t)
+                # an option line that also carries the tag ("(d) 1 3 2 4  U.P.P.C.S. (Pre) 1992")
+                and not re.match(r"^\(\s*[a-eA-E]\s*\)", t)
+                # a statement ending in a year ("... proposed by H.H. Hess in 1967.")
+                and not re.search(r"\b(?:in|by|of|since|from|till|until|after|before|during)\s+(?:19|20)\d\d\W{0,3}$", t)
                 # a bold match-list row ending in a year is not a tag ("B. N. Sanjiva Reddy 2. 1974-1977")
                 and not re.match(r"^[A-H]\.\s", t) and not re.search(r"\s\d{1,2}\.\s+(?:19|20)\d\d", t))
 
@@ -278,22 +317,28 @@ def read_lines(book):
             dup.append((i + 1, seen[text]))
             continue
         seen[text] = i + 1
-        lines += page_lines(chars, width, i + 1)
+        pl = page_lines(chars, width, i + 1)
+        # the running footer ("CA–300  General Studies  Indian Geography") normally sits below
+        # FOOTER_Y, but on some pages higher up: drop it, and anything under it, by its text
+        foot = [ln["base"] for ln in pl if ln["base"] < 130 and "General Studies" in ln["text"]]
+        if foot:
+            pl = [ln for ln in pl if ln["base"] > max(foot) + 1.5]
+        lines += pl
     if dup:
         print("pages printed twice (skipped):", ", ".join(f"p{a} = p{b}" for a, b in dup))
     return lines
 
 
-def find_chapters(lines):
+def find_chapters(lines, minor=False):
     """Chapter titles: bold lines at 15pt or more; a title may run over two lines."""
     chapters = []
     i = 0
     while i < len(lines):
         ln = lines[i]
-        if is_title(ln):
+        if is_title(ln, minor):
             j = i
             text = ln["text"]
-            while j + 1 < len(lines) and is_title(lines[j + 1]) and lines[j + 1]["page"] == ln["page"] \
+            while j + 1 < len(lines) and is_title(lines[j + 1], minor) and lines[j + 1]["page"] == ln["page"] \
                     and abs(lines[j + 1]["size"] - ln["size"]) < 1.5:
                 j += 1
                 text += " " + lines[j]["text"]
@@ -336,20 +381,45 @@ def split_ans(lines):
     return out
 
 
-def parse(lines):
+def parse(lines, minor=False):
     """Questions are anchored on their bold "Ans. (x)" lines. A chapter starts where question
     numbering restarts at 1; its title is the first big bold heading after the previous answer.
     Other big headings inside a chapter name sections."""
     lines = split_ans(lines)
-    titles = find_chapters(lines)
+    titles = find_chapters(lines, minor)
     title_lines = {i for t in titles for i in range(t["line"], t["end_line"] + 1)}
+    # the book's part banners ("I. Indian Geography", "III. Biology"), set at 30pt and more
+    banners = [(i, re.sub(r"^[IVX]{1,4}\.\s+", "", ln["text"]).strip()) for i, ln in enumerate(lines)
+               if ln["size"] >= 29.5 and ln["bold"] > 0.6 and re.match(r"^[IVX]{1,4}\.\s+[A-Z]", ln["text"])]
     # "Ans. (x)" anchors a question whatever its weight (a few are printed regular, e.g. p293)
     ans_idx = [i for i, ln in enumerate(lines) if ANS_RE.match(ln["text"])]
     chapters, questions, problems = [], [], []
     last, lo = 0, 0
     section = None
+    # A numbered bold heading in the book's theory ("1. Thyroid Gland :" in Science) is followed by
+    # "•" or "*" points; a question never is. Such lines are not question starts.
+    def bullet_next(i):
+        for k in (i + 1, i + 2):
+            if k < len(lines) and re.match(r"^[•*]", lines[k]["text"]):
+                return True
+            if k < len(lines) and not (lines[k]["bold"] > 0.6 and qnum(lines[k]) is None):
+                return False      # only a bold continuation of the heading may come in between
+        return False
+    # A numbered theory point "1. Agriculture : Biology gives ..." bolds only its number and label;
+    # a question's first line is bold throughout (or bolds only its number: "44. Assertion (A): ...").
+    def label_point(i):
+        runs = lines[i]["runs"]
+        k = next((k for k, (t, b) in enumerate(runs) if not b and t.strip()), None)
+        if k is None:
+            return False
+        head, rest = "".join(t for t, _ in runs[:k]), "".join(t for t, _ in runs[k:])
+        # the colon (or dash: "1. Exoskeleton– a hard outer layer") may be bold or not
+        return bool(re.match(r"^\s*\d{1,3}\s*\.\s*[A-Z][^:–—]{1,60}[:–—-]?\s*$", head)
+                    and (re.search(r"[:–—-]\s*$", head) or re.match(r"\s*[:–—-]", rest)) and len(rest.split()) >= 3
+                    and not re.match(r"^\s*\d{1,3}\s*\.\s*(?:Assertion|Reason|Statement|Consider|Directions|Match|Read)", head))
     for ai in ans_idx:
-        cands = [i for i in range(lo, ai) if i not in title_lines and qnum(lines[i]) is not None]
+        cands = [i for i in range(lo, ai) if i not in title_lines and qnum(lines[i]) is not None
+                 and not bullet_next(i) and not label_point(i)]
         heads = [t for t in titles if lo <= t["line"] < ai]
         start = next((i for i in cands if qnum(lines[i]) == last + 1), None)
         if start is None and (heads or not chapters):     # a new chapter always has a title
@@ -359,13 +429,20 @@ def parse(lines):
             if later:
                 start = min(later, key=lambda i: qnum(lines[i]))
                 problems.append(f"p{lines[start]['page']}: expected question {last + 1}, found {qnum(lines[start])}")
+        renum = None
+        if start is None and last:
+            # the same number printed twice (Geography p122: two "3."): the second is the next
+            # question; it is numbered on so its id stays unique, and the page notes the print
+            again = [i for i in cands if qnum(lines[i]) == last]
+            if again:
+                start, renum = again[0], last + 1
         if start is None:
             problems.append(f"p{lines[ai]['page']}: answer without a question: {lines[ai]['text'][:60]!r}")
             if questions:
                 questions[-1]["expl_lines"] += lines[lo:ai + 1]
             lo = ai + 1
             continue
-        n = qnum(lines[start])
+        n = renum or qnum(lines[start])
         between = lines[lo:start]
         heads = [t for t in titles if lo <= t["line"] < start]
         heads = [t for t in heads if t["line"] < start]
@@ -388,6 +465,8 @@ def parse(lines):
                 questions[-1]["expl_lines"] += lines[lo:first]
             sub = [{"title": h["title"], "page": h["page"]} for h in heads if h is not t and h["title"] != part]
             chapters.append({"num": len(chapters) + 1, "title": t["title"], "page": t["page"], "part": part,
+                             "book_part": next((b for i, b in reversed(banners) if i < start), None),
+                             "lead": [x["title"] for x in titles if x["line"] < t["line"]][-3:],
                              "theory_lines": [dict(ln, head=(i in title_lines)) for i, ln in
                                               enumerate(lines[t["end_line"] + 1:start], t["end_line"] + 1)],
                              "sections": sub})
@@ -428,7 +507,7 @@ def parse(lines):
                 ans, tail = ",".join(letters), lines[ai]["text"][m.end():].strip()
             questions.append({"ch": len(chapters), "num": n + j, "section": section, "page": lines[s_]["page"],
                               "qlines": qlines, "tags": tags, "ans": ans, "ans_tail": tail, "expl_lines": [],
-                              "ans_page": lines[ai]["page"]})
+                              "ans_page": lines[ai]["page"], "printed_num": renum - 1 if renum and j == 0 else None})
         n += len(cuts) - 1
         last = n
         lo = ai + 1
@@ -439,6 +518,7 @@ def parse(lines):
 
 # ------------------------------------------------------------------ structure: blocks, questions
 BULLET = re.compile(r"^(?:\*|•|–|—|\((?:i{1,3}|iv|vi{0,3}|ix|x)\)|\d{1,2}\s*\.|\(\d{1,2}\)|\([a-e]\)|[ivx]{1,4}\.|"
+                    r"\((?:I{1,3}|IV|VI{0,3})\)|Statement\s*[-–]?\s*(?:I{1,3}|IV|\d)\b|"
                     r"(?:Assertion|Reason)\s*\(?[AR]?\)?\s*:)\s*")
 OPT_START = re.compile(r"^\(\s*a\s*\)")
 CODE_LINE = re.compile(r"^Codes?\s*(?:[:\-–—]|$|A\s+B\s+C)", re.I)
@@ -455,6 +535,9 @@ EDGE_WORDS = {"the", "of", "and", "which", "who", "whose", "from", "with", "are"
 REAL_COMPOUNDS = {"notwithstanding", "nevertheless", "nonetheless", "whatsoever", "inasmuch", "insofar",
                   "thereafter", "hereinafter", "whereabouts", "heretofore", "henceforth", "furthermore"}
 JOIN_NEVER = {"inspite", "chiefofthe", "setup"}     # pairs the book prints both ways; keep them apart
+# real words that begin with "of": never split into "of" + word ("offence" is not "of fence")
+OF_WORDS = ("offence", "offend", "offens", "offer", "offic", "offset", "offshoot", "offshore", "offspring",
+            "often", "oft-")
 TIDY = [re.compile(p) for p in (r"\S( +)[,;:)?.](?=\s|$)", r"\(( +)", r"( ) ")]
 
 
@@ -538,6 +621,9 @@ def blocks_from_lines(lines, facts=False):
             blocks.append({"kind": "h", "runs": [list(r) for r in ln["runs"]]})
             para, prev = None, None
             continue
+        # "•      text": a bullet set apart by a tab is a bullet point, not a two-column table
+        if ln["cells"] and runs_text(ln["cells"][0]) in ("•", "*", "●", "▪"):
+            ln = dict(ln, cells=[])        # (and its wrapped next line continues the point)
         if len(ln["cells"]) >= 2:
             if blocks and blocks[-1]["kind"] == "table" and prev is not None and prev.get("cells"):
                 blocks[-1]["rows"].append(ln["cells"])
@@ -723,7 +809,8 @@ def split_options(lines):
 
 
 # a loose option marker: "(a)", "(C)", "b)" (its "(" printed in a dropped Hindi font), "(h)" for (b)
-LOOSE_OPT = re.compile(r"(?:^|(?<=\s))\(?\s*([a-hA-H])\s*\)\s*")
+# (also "(c Ganga": a marker whose ")" the book forgot; used only when the strict scan has failed)
+LOOSE_OPT = re.compile(r"(?:^|(?<=\s))(?:\(\s*([a-hA-H])\s*(?:\)|(?=\s+\S))|([a-hA-H])\s*\))\s*")
 LOOSE_OPT_START = re.compile(r"^\(?\s*[a-hA-H]\s*\)")
 
 
@@ -736,7 +823,7 @@ def split_options_loose(lines):
     runs, _ = option_text(lines)
     s = "".join(t for t, _ in runs)
     flags = [b for t, b in runs for _ in t]
-    marks = [(m.start(), m.end(), m.group(1).lower()) for m in LOOSE_OPT.finditer(s)]
+    marks = [(m.start(), m.end(), (m.group(1) or m.group(2)).lower()) for m in LOOSE_OPT.finditer(s)]
     if marks and not s[marks[-1][1]:].strip():
         marks = marks[:-1]          # the answer letter printed after the last option
     printed = "".join(x[2] for x in marks)
@@ -779,32 +866,63 @@ def finish_question(q):
     plain = [k for k in after if rest[k]["bold"] < 0.5]
     oi = (plain or after or starts or [None])[0]
     mid, opt_lines = (rest[:oi], rest[oi:]) if oi is not None else (rest, [])
+    # "(d) 1 3 2 4   U.P.P.C.S. (Pre) 1992": the exam tag printed on the last option's line
+    late_tags = []
+    if rest and rest[-1]["runs"]:
+        runs = rest[-1]["runs"]
+        k = len(runs)
+        while k > 0 and (runs[k - 1][1] or not runs[k - 1][0].strip()):
+            k -= 1
+        tail = "".join(t for t, _ in runs[k:]).strip()
+        if 0 < k and tail and LOOSE_OPT_START.match(rest[-1]["text"]) and is_tag({"text": tail, "bold": 1.0}):
+            # the line's table cells hold the tag too: drop the trailing cells that make it up
+            cells, acc, want = list(rest[-1]["cells"]), "", re.sub(r"\s+", " ", tail)
+            while cells and len(acc) < len(want):
+                ct = re.sub(r"\s+", " ", "".join(t for t, _ in cells[-1])).strip()
+                nxt = (ct + " " + acc).strip()
+                if not want.endswith(nxt):
+                    break
+                acc = nxt
+                cells.pop()
+            fixed = dict(rest[-1], runs=[list(r) for r in runs[:k]], text=runs_text(runs[:k]),
+                         cells=cells if acc == want and len(cells) > 1 else [])
+            rest = rest[:-1] + [fixed]
+            if opt_lines:
+                opt_lines = opt_lines[:-1] + [fixed]
+            else:
+                mid = mid[:-1] + [fixed]
+            late_tags.append(re.sub(r"\s+", " ", tail))
     options, opt_note = split_options(opt_lines), None
     if "".join(sorted(options)) not in ("abcd", "abcde"):
         # misprinted letters, or options set out with no line starting "(a)": then the options
-        # are the trailing lines of the question that each start with an option marker
-        cand = opt_lines
+        # are the trailing lines of the question that each start with an option marker -- the
+        # last four or five of them first ("(A) (iii) (i) (iv) (ii)" under list rows "(A) Mand")
+        tries = [opt_lines]
         if oi is None:
             k = len(rest)
             while k > 0 and LOOSE_OPT_START.match(rest[k - 1]["text"]):
                 k -= 1
-            cand = rest[k:]
-        loose, note = split_options_loose(cand) if cand else (None, None)
-        if loose:
-            options, opt_note = loose, note
-            if oi is None:
-                mid = rest[:len(rest) - len(cand)]
+            block = rest[k:]
+            tries = [block[-4:], block[-5:], block] if len(block) > 5 else [block]
+        for cand in tries:
+            loose, note = split_options_loose(cand) if cand else (None, None)
+            if loose:
+                options, opt_note = loose, note
+                if oi is None:
+                    mid = rest[:len(rest) - len(cand)]
+                break
     stem_runs = []
     for ln in stem_lines:
         stem_runs = join_line(stem_runs, ln) if stem_runs else [list(r) for r in ln["runs"]]
-    tags = [re.sub(r"\s+", " ", ln["text"]).strip() for ln in q["tags"]]
+    tags = [re.sub(r"\s+", " ", ln["text"]).strip() for ln in q["tags"]] + late_tags
+    tags = [t for t in (re.sub(r"\s*\bMap\s+not\s+to\s+scale\b\s*", " ", t, flags=re.I).strip() for t in tags) if t]
     expl_lines = list(q["expl_lines"])
     if q["ans_tail"]:
         expl_lines = [{"page": q["ans_page"], "col": 0, "base": 0, "x0": 0, "x1": 0, "size": 10,
                        "runs": [[q["ans_tail"], False]], "text": q["ans_tail"], "bold": 0, "cells": []}] + expl_lines
     return {"ch": q["ch"], "num": q["num"], "page": q["page"], "section": q["section"],
             "stem": tidy(stem_runs), "mid": blocks_from_lines(mid), "options": options, "opt_note": opt_note,
-            "tags": tags, "up": any(UP_TAG.match(t) for t in tags),
+            "tags": tags, "up": any(UP_TAG.match(t) for t in tags), "printed_num": q.get("printed_num"),
             "years": sorted({int(y) for t in tags for y in re.findall(r"(?:19|20)\d\d", t)}),
             "ans": q["ans"], "expl": blocks_from_lines(expl_lines)}
 
@@ -855,8 +973,22 @@ def resolve_breaks(data):
     counts = Counter(w.lower() for w in re.findall(r"[A-Za-z]+", clean))
 
     def unglue(m):
+        # "ofIndia", "ofthe", "offertile" (of fertile); not "offer", "office", "offspring": there the
+        # rest ("fer", "fice") is no word, or the whole is the commoner form ("offence" vs "fence")
         rest = m.group(1)
-        return "of " + rest if rest[0].isupper() or counts[rest.lower()] >= 3 else m.group(0)
+        if ("of" + rest).lower().startswith(OF_WORDS):
+            return m.group(0)
+        whole, part = counts[("of" + rest).lower()], counts[rest.lower()]
+        if (len(rest) >= 2 or rest.isupper() or rest == "a") and \
+                (rest[0].isupper() or (part >= 3 and part > whole) or (part >= 2 and whole <= 1)):
+            return "of " + rest
+        return m.group(0)
+
+    def unglue_short(m):
+        # "Ifa colour blind man", "inthe", "bythe": a short word glued to a/an/the
+        if m.group(2) != "the" and counts[(m.group(1) + m.group(2)).lower()] > 3:
+            return m.group(0)
+        return m.group(1) + " " + m.group(2)
 
     # "estab lished", "Mega sthenes": a word split in two where neither half occurs on its own
     # (2 times at most, the split itself included) and the whole word occurs elsewhere; or
@@ -876,7 +1008,8 @@ def resolve_breaks(data):
             return a
         return m.group(0)
     for r in runs_all:
-        r[0] = re.sub(r"\bof(?!f|ten)([A-Za-z]+)", unglue, r[0])
+        r[0] = re.sub(r"\bof(?!ten\b)([A-Za-z]+)", unglue, r[0])
+        r[0] = re.sub(r"\b(If|if|is|in|to|by|on|at|for)(a|an|the)\b", unglue_short, r[0])
         r[0] = re.sub(r"\b(in|and|the|to|by|for|from|with|at|on|is|was|as)(?=[A-Z][a-z]{2,})", r"\1 ", r[0])
         r[0] = re.sub(r"\b([A-Za-z]{2,}) (?=([a-z]{2,})\b)", join_split, r[0])
 
@@ -937,17 +1070,67 @@ def resolve_breaks(data):
         if len(a) > 2 and a.lower() in common and b.lower() in common:
             return a + " " + b
         return m.group(0)
+    # a raised "0"/"o" right after a number is the book's degree sign: "70⁰ East" -> "70° East",
+    # "25ᵒC" -> "25°C" (an exponent "10¹⁰" is left alone: there the raised 0 follows a raised digit)
+    for r in runs_all:
+        if "⁰" in r[0] or "ᵒ" in r[0]:
+            r[0] = re.sub(r"(?<=[0-9])[⁰ᵒ](?![⁰¹²³⁴⁵⁶⁷⁸⁹0-9])", "°", r[0]).replace("ᵒ", "°")
+
     for r in runs_all:
         # tight-set bold lines glue at 10 letters; in regular text only long tokens are suspects
         r[0] = re.sub(r"[A-Za-z]{10,}" if r[1] else r"[A-Za-z]{14,}", unglue_long, r[0])
         r[0] = re.sub(r"\b([A-Za-z]*[a-z])([A-Z][a-z]{2,})\b", camel, r[0])
 
 
+SUB_START = re.compile(r"^(?:[IVXivx]{1,5}\.|\((?:[ivx]{1,4}|[a-h])\)|[a-h]\))\s*")
+SUB_INLINE = re.compile(r"^(.*?\S)\s+(?:[IVXivx]{1,5}\.|[A-H]\.|\((?:[ivx]{1,4}|[a-h])\))\s+(\S.*)$")
+LEAD_NUM = re.compile(r"^\d{1,2}\.\s*")
+
+
+def name_chapters(chapters, subtopics):
+    """Chapter titles as shown. Geography and Science number their questions afresh in every
+    sub-topic ("i. Area", "ii. Rainfall"), so each sub-topic is a unit of its own (its questions keep
+    their printed numbers), named after its main chapter: "Climate · Rainfall"; c["group"] keeps
+    the main chapter for the menus. A title that would occur twice ("Miscellaneous") gets its book
+    part: "Miscellaneous (World Geography)"."""
+    group = None
+    letter = re.compile(r"^[A-H]\.\s+")
+    for c in chapters:
+        raw = c["title"]
+        if subtopics:
+            bare = letter.sub("", raw)
+            if SUB_INLINE.match(bare):     # "Soils I. Black Soil": main and sub-topic on one title
+                m = SUB_INLINE.match(bare)
+                group, sub = LEAD_NUM.sub("", m.group(1)).strip(), m.group(2).strip()
+            elif SUB_START.match(raw) or bare != raw:   # "ii. Rainfall", "B. Hydrogen and its Compounds"
+                if group is None:     # the first unit: its main chapter is the heading before it
+                    group = next((LEAD_NUM.sub("", t).strip() for t in reversed(c["lead"]) if not SUB_START.match(t)), None)
+                sub = SUB_START.sub("", bare).strip()
+            else:
+                group, sub = LEAD_NUM.sub("", raw).strip(), None
+            group, sub = (x.rstrip(" :–-").strip() if x else x for x in (group, sub))
+            c["group"] = group
+            c["title"] = f"{group} · {sub}" if group and sub else (sub or group)
+        if c.get("book_part") and not c.get("part"):
+            c["part"] = c["book_part"]
+    key = lambda t: re.sub(r"[^a-z0-9]", "", t.lower())
+    count = Counter(key(c["title"]) for c in chapters)
+    for c in chapters:
+        if count[key(c["title"])] > 1 and c.get("book_part"):
+            c["title"] += f" ({c['book_part']})"
+    seen = Counter()
+    for c in chapters:                 # still the same twice within one part: number them
+        k = key(c["title"])
+        seen[k] += 1
+        if seen[k] > 1:
+            c["title"] += f" ({seen[k]})"
+
+
 def main():
     key = sys.argv[1]
     book = BOOKS[key]
     lines = read_lines(book)
-    chapters, questions, problems, ans_idx = parse(lines)
+    chapters, questions, problems, ans_idx = parse(lines, bool(book.get("subtopics")))
     print(f"{key}: {len(lines)} lines, {len(ans_idx)} answers, {len(questions)} questions, {len(chapters)} chapters")
     qs = [finish_question(q) for q in questions]
     for i, q in enumerate(qs, 1):
@@ -972,9 +1155,11 @@ def main():
             q["see"] = last_real.get(q["ch"])
         elif q["expl"]:
             last_real[q["ch"]] = q["id"]
+    name_chapters(chapters, book.get("subtopics"))
     chs = []
     for c in chapters:
         chs.append({"num": c["num"], "title": re.sub(r"^[A-H]\.\s+", "", c["title"]), "part": c.get("part"),
+                    "group": c.get("group"), "book_part": c.get("book_part"),
                     "page": c["page"], "theory": blocks_from_lines(c["theory_lines"], facts=True),
                     "sections": [{"title": s_["title"], "page": s_["page"],
                                   "intro": blocks_from_lines(s_.get("intro_lines", []), facts=True)}

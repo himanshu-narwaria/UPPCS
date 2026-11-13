@@ -1,184 +1,214 @@
 {
-  "14-030": {
-    "r": "Equal pay for equal work → deduced by the Supreme Court from 'Socialist' in the Preamble read with Articles 14, 16 and 39(d).",
-    "hi": ["Equal pay for equal work (समान कार्य के लिए समान वेतन)"]
-  },
-  "14-031": {
-    "r": "Randhir Singh v. Union of India → 'Equal pay for equal work' deduced from Articles 14 and 16 read with the Preamble ('Socialist') and Article 39(d)."
-  },
-  "14-032": {
-    "r": "Article 17 → untouchability abolished; its practice in any form forbidden; enforcing any disability arising from it is an offence punishable by law.",
-    "hi": ["Untouchability (अस्पृश्यता)"]
-  },
-  "14-036": {
-    "r": "Untouchability abolished → Article 17 (not Articles 15, 16 or 18)."
-  },
-  "14-037": {
-    "r": "Article 17 (abolition of untouchability) is a 'statement of principle' to end humiliation of Dalits and secure their fundamental, socio-economic, political and cultural rights."
-  },
-  "14-038": {
-    "r": "Protection against untouchability (Article 17) is part of the Right to Equality, not the Right against Exploitation or Right to Freedom."
-  },
-  "14-039": {
-    "r": "Untouchability is ended by laws, better education and public awareness, not by providing jobs; Protection of Civil Rights Act 1955 made it a punishable offence.",
-    "hi": ["Protection of Civil Rights Act (नागरिक अधिकार संरक्षण अधिनियम)"]
-  },
-  "14-040": {
-    "r": "Both true, R explains A: untouchability is a worst form of structural violence (built into social structure), practised in the name of religious sanctions.",
-    "hi": ["Structural violence (संरचनात्मक हिंसा)"]
-  },
-  "14-041": {
-    "r": "Articles 14, 15, 16 → Right to Equality; Article 19 → Right to Freedom (speech, peaceful assembly, associations). By this grouping Article 19 is the odd one.",
-    "c": "No answer printed; the book says the Articles can be grouped in two ways, though Article 19 stands apart."
-  },
-  "14-042": {
-    "r": "Right to Freedom → Articles 19 to 22: 19 freedoms (speech, assembly, association, movement, residence); 20 protection in conviction for offences; 21 life and personal liberty.",
-    "hi": ["Right to Freedom (स्वतंत्रता का अधिकार)"]
-  },
-  "14-043": {
-    "r": "Article 19(1) guarantees 6 freedoms (speech, assembly, associations, movement, residence, profession); freedom to own, acquire and dispose of property is not among them."
-  },
-  "14-044": {
-    "r": "Article 19(1): speech and expression (a), assemble peaceably (b), practise any profession (g). Equal opportunity in public employment is Article 16 (Right to Equality), not Right to Freedom."
-  },
-  "14-046": {
-    "r": "Freedom of the Press → not expressly in the Constitution; the Supreme Court held it is part of freedom of speech and expression, Article 19(1)(a).",
-    "hi": ["Freedom of the Press (प्रेस की स्वतंत्रता)"]
-  },
-  "14-048": {
-    "r": "Press freedom is not explicit in the Constitution; it is included in Article 19(1)(a), freedom of speech and expression."
-  },
-  "14-049": {
-    "r": "Freedom of newspapers → within Article 19(1)(a); Sakal Papers Ltd v. Union of India (1961): press freedom is part of freedom of speech and expression."
-  },
-  "14-050": {
-    "r": "Supreme Court: hoisting the National Flag atop private buildings is every citizen's fundamental right under Article 19(1)(a).",
-    "hi": ["National Flag (राष्ट्रीय ध्वज)"]
-  },
-  "14-051": {
-    "r": "Article 19(1)(b) → assemble peaceably and without arms; Article 19(3) → reasonable restrictions for public order. Gheraoing officials is not covered."
-  },
-  "14-052": {
-    "r": "Article 19(2) grounds: sovereignty and integrity, security of State, foreign relations, public order, decency or morality, contempt of court, defamation, incitement to offence; not 'unbecoming criticism'.",
-    "hi": ["Reasonable restrictions (युक्तियुक्त निर्बंधन)"]
-  },
-  "14-053": {
-    "r": "Article 19(2) restrictions on speech include security of State, defamation and public order; 'sedition' is not a listed ground.",
-    "t": "Sedition is not an Article 19(2) ground; 'incitement to an offence' is."
-  },
-  "14-054": {
-    "r": "Reasonable restrictions (Articles 19(2) to 19(6)) must safeguard general public interest and may reflect prevailing social values and needs; Directive Principles cannot be bypassed."
-  },
-  "14-055": {
-    "r": "Article 21 → protection of life and personal liberty. Article 19 → freedoms of speech etc.; 20 → conviction for offences; 22 → arrest and detention.",
-    "hi": ["Personal liberty (दैहिक स्वतंत्रता)"]
-  },
-  "14-056": {
-    "r": "Article 21: no person deprived of life or personal liberty except according to procedure established by law; the question links due process to Article 21."
-  },
-  "14-057": {
-    "r": "Right to travel abroad → Article 21; Maneka Gandhi v. UOI (1978)."
-  },
-  "14-058": {
-    "r": "Maneka Gandhi 1978 (7 judges): Articles 14, 19, 21 not mutually exclusive; life includes dignity; procedure close to US procedural due process. Petitioner-burden statement is wrong."
-  },
-  "14-059": {
-    "r": "SC-recognised Fundamental Rights: Right to Shelter (Chameli Singh v. State of U.P. 1995, Article 21), Right to Travel Abroad (Satwant Singh), Equal Pay for Equal Work."
-  },
-  "14-060": {
-    "r": "Right to privacy → implicit in Article 21 (with 19(1)(d)); Govind v. State of M.P. (1975), Malak Singh v. State of Punjab (1980); 'right to be let alone'.",
-    "hi": ["Right to privacy (निजता का अधिकार)"]
-  },
-  "14-061": {
-    "r": "Right to Privacy → intrinsic part of Article 21 and the freedoms in Part III (Justice K.S. Puttaswamy v. Union of India)."
-  },
-  "14-062": {
-    "r": "K.S. Puttaswamy case (nine-judge bench, 24 August 2017): Right to Privacy is a fundamental right under Article 21, part of the Part III freedoms."
-  },
-  "14-064": {
-    "r": "Right to marry a person of one's choice → Article 21 (Lata Singh v. State of U.P., 2006; Hadiya case: right to choose a partner)."
-  },
-  "14-065": {
-    "r": "Article 21 covers medical aid to the injured, safety from sexual harassment at work, pollution-free water; capital punishment is not barred by it (Bachan Singh v. State of Punjab)."
-  },
-  "14-066": {
-    "r": "After 44th Amendment (1978), Article 21 (life and personal liberty) cannot be suspended even in National Emergency; Article 19 rights auto-suspended if Emergency is on war or external aggression.",
-    "h": "44 fixed 21: after the 44th Amendment, Article 21 never goes."
-  },
-  "14-067": {
-    "r": "Unnikrishnan v. State of Andhra Pradesh (1993) → Right to Education flows from Article 21; free education for children up to 14 years."
-  },
-  "14-068": {
-    "r": "Right to Education (6-14 years) is a Fundamental Right: Eighty-Sixth Amendment Act 2002 inserted Article 21A; RTE Act 2009; added from 1 April 2010.",
-    "hi": ["Right to Education (शिक्षा का अधिकार)"]
-  },
-  "14-071": {
-    "r": "Article 21A: State gives free and compulsory education to children aged six to fourteen; education is indispensable to the right to development as a human right (R explains A)."
-  },
-  "14-072": {
-    "r": "Right against Exploitation → Article 23 (no human trafficking, begar, forced labour) and Article 24 (no child below fourteen in factory, mine, hazardous work). Untouchability (Article 17) is not.",
-    "hi": ["Right against Exploitation (शोषण के विरुद्ध अधिकार)"]
-  },
-  "14-073": {
-    "r": "Article 24 → no child under 14 years employed in any factory, mine or other hazardous employment."
-  },
-  "14-074": {
-    "r": "Article 24's ban on employing children below fourteen in factories, mines or hazardous work is an absolute prohibition."
-  },
-  "14-075": {
-    "r": "Article 20: no ex-post facto law, no double jeopardy, no self-incrimination. Protection from torture comes under Article 21, not 20. Child exploitation → Article 24.",
-    "h": "Article 20 = three 'No's: ex-post facto, double jeopardy, self-incrimination."
-  },
-  "14-078": {
-    "r": "Child rights → Article 24 of the ICCPR; Article 24 of the Indian Constitution also protects children.",
-    "h": "Same number twice: 24 in ICCPR and 24 in our Constitution."
-  },
-  "14-079": {
-    "r": "Article 20(2) → no one punished twice for the same offence (double jeopardy); Article 20(3) → no self-incrimination."
-  },
-  "14-080": {
-    "r": "Article 20(3) → an accused cannot be compelled to be a witness against himself (self-incrimination); accused presumed innocent till guilt is proved."
-  },
-  "14-081": {
-    "r": "Article 20(2) → no one prosecuted and punished twice for the same offence: Doctrine of Double Jeopardy (maxim: Nemo Debet Bis Vexari).",
-    "hi": ["Double jeopardy (दोहरा दंड)"]
-  },
-  "14-082": {
-    "r": "Article 22 → an arrested person must be told the grounds of arrest and may consult and be defended by a legal practitioner of choice."
-  },
-  "14-083": {
-    "r": "Wrong pair: Article 22(2) is not about Parliament allowing detention beyond three months; 22(2) → arrested person produced before nearest magistrate within twenty-four hours."
-  },
-  "14-084": {
-    "r": "Article 22(4) → a preventive detention law cannot authorise detention for longer than 3 months.",
-    "hi": ["Preventive detention (निवारक निरोध)"]
-  },
-  "14-085": {
-    "r": "Preventive detention: a person can be detained without trial for at most three months (Article 22(4))."
-  },
-  "14-086": {
-    "r": "Article 355 → Union must protect every State against external aggression and internal disturbance (true). POTA 2002 made confession before police admissible; Article 22(5) lets detainee make representation.",
-    "c": "Book says only one is correct, but Article 22 does not give preventive detainees the right to counsel, so statement 2 also looks correct; answer may be 'Only two'."
-  },
-  "14-087": {
-    "r": "Parole is not a right in India (claim not absolute, even with a sufficient case); State Governments have their own Prisoners Release on Parole Rules."
-  },
-  "14-088": {
-    "r": "Article 25 → freedom of conscience, profession, practice, propagation of religion; Sikhs may wear and carry Kirpans; State can legislate social reform. No right of religious bodies to convert people.",
-    "hi": ["Freedom of Religion (धार्मिक स्वतंत्रता)"]
-  },
-  "14-091": {
-    "r": "'Hindu' in Article 25 includes Sikhs, Jains and Buddhists; it does not include Parsis."
-  },
-  "14-092": {
-    "r": "Article 25 freedom of religion is subject to public order, morality and health; 'humanism' is not a limit.",
-    "h": "Religion's limits = 'PMH': Public order, Morality, Health."
-  },
-  "14-093": {
-    "r": "Article 26 (religious denominations manage own affairs, institutions, property) → subject to public order, morality and health only.",
-    "t": "National security, education and secularism are not Article 26 limits."
-  },
-  "14-094": {
-    "r": "Wrong pair: Article 29 → protection of minorities' interests; minorities' right to establish and administer educational institutions → Article 30. Articles 23, 24, 26 pairs are correct."
-  }
+ "14-030": {
+  "r": "Equal pay for equal work → deduced by the Supreme Court from 'Socialist' in the Preamble read with Articles 14, 16 and 39(d).",
+  "hi": [
+   "Equal pay for equal work (समान कार्य के लिए समान वेतन)"
+  ]
+ },
+ "14-031": {
+  "r": "Randhir Singh v. Union of India → 'Equal pay for equal work' deduced from Articles 14 and 16 read with the Preamble ('Socialist') and Article 39(d)."
+ },
+ "14-032": {
+  "r": "Article 17 → untouchability abolished; its practice in any form forbidden; enforcing any disability arising from it is an offence punishable by law.",
+  "hi": [
+   "Untouchability (अस्पृश्यता)"
+  ]
+ },
+ "14-036": {
+  "r": "Untouchability abolished → Article 17 (not Articles 15, 16 or 18)."
+ },
+ "14-037": {
+  "r": "Article 17 (abolition of untouchability) is a 'statement of principle' to end humiliation of Dalits and secure their fundamental, socio-economic, political and cultural rights."
+ },
+ "14-038": {
+  "r": "Protection against untouchability (Article 17) is part of the Right to Equality, not the Right against Exploitation or Right to Freedom."
+ },
+ "14-039": {
+  "r": "Untouchability is ended by laws, better education and public awareness, not by providing jobs; Protection of Civil Rights Act 1955 made it a punishable offence.",
+  "hi": [
+   "Protection of Civil Rights Act (नागरिक अधिकार संरक्षण अधिनियम)"
+  ]
+ },
+ "14-040": {
+  "r": "Both true, R explains A: untouchability is a worst form of structural violence (built into social structure), practised in the name of religious sanctions.",
+  "hi": [
+   "Structural violence (संरचनात्मक हिंसा)"
+  ]
+ },
+ "14-041": {
+  "r": "Articles 14, 15, 16 → Right to Equality; Article 19 → Right to Freedom (speech, peaceful assembly, associations). By this grouping Article 19 is the odd one.",
+  "c": "Book marks none because two groupings work: Article 19 is a Right to Freedom while 14, 15 and 16 are Right to Equality; and Article 14 alone covers foreigners too (15, 16 and 19 are for citizens only)."
+ },
+ "14-042": {
+  "r": "Right to Freedom → Articles 19 to 22: 19 freedoms (speech, assembly, association, movement, residence); 20 protection in conviction for offences; 21 life and personal liberty.",
+  "hi": [
+   "Right to Freedom (स्वतंत्रता का अधिकार)"
+  ]
+ },
+ "14-043": {
+  "r": "Article 19(1) guarantees 6 freedoms (speech, assembly, associations, movement, residence, profession); freedom to own, acquire and dispose of property is not among them."
+ },
+ "14-044": {
+  "r": "Article 19(1): speech and expression (a), assemble peaceably (b), practise any profession (g). Equal opportunity in public employment is Article 16 (Right to Equality), not Right to Freedom."
+ },
+ "14-046": {
+  "r": "Freedom of the Press → not expressly in the Constitution; the Supreme Court held it is part of freedom of speech and expression, Article 19(1)(a).",
+  "hi": [
+   "Freedom of the Press (प्रेस की स्वतंत्रता)"
+  ]
+ },
+ "14-048": {
+  "r": "Press freedom is not explicit in the Constitution; it is included in Article 19(1)(a), freedom of speech and expression."
+ },
+ "14-049": {
+  "r": "Freedom of newspapers → within Article 19(1)(a); Sakal Papers Ltd v. Union of India (1961): press freedom is part of freedom of speech and expression."
+ },
+ "14-050": {
+  "r": "Supreme Court: hoisting the National Flag atop private buildings is every citizen's fundamental right under Article 19(1)(a).",
+  "hi": [
+   "National Flag (राष्ट्रीय ध्वज)"
+  ]
+ },
+ "14-051": {
+  "r": "Article 19(1)(b) → assemble peaceably and without arms; Article 19(3) → reasonable restrictions for public order. Gheraoing officials is not covered."
+ },
+ "14-052": {
+  "r": "Article 19(2) grounds: sovereignty and integrity, security of State, foreign relations, public order, decency or morality, contempt of court, defamation, incitement to offence; not 'unbecoming criticism'.",
+  "hi": [
+   "Reasonable restrictions (युक्तियुक्त निर्बंधन)"
+  ]
+ },
+ "14-053": {
+  "r": "Article 19(2) restrictions on speech include security of State, defamation and public order; 'sedition' is not a listed ground.",
+  "t": "Sedition is not an Article 19(2) ground; 'incitement to an offence' is."
+ },
+ "14-054": {
+  "r": "Reasonable restrictions (Articles 19(2) to 19(6)) must safeguard general public interest and may reflect prevailing social values and needs; Directive Principles cannot be bypassed."
+ },
+ "14-055": {
+  "r": "Article 21 → protection of life and personal liberty. Article 19 → freedoms of speech etc.; 20 → conviction for offences; 22 → arrest and detention.",
+  "hi": [
+   "Personal liberty (दैहिक स्वतंत्रता)"
+  ]
+ },
+ "14-056": {
+  "r": "Article 21: no person deprived of life or personal liberty except according to procedure established by law; the question links due process to Article 21."
+ },
+ "14-057": {
+  "r": "Right to travel abroad → Article 21; Maneka Gandhi v. UOI (1978)."
+ },
+ "14-058": {
+  "r": "Maneka Gandhi 1978 (7 judges): Articles 14, 19, 21 not mutually exclusive; life includes dignity; procedure close to US procedural due process. Petitioner-burden statement is wrong."
+ },
+ "14-059": {
+  "r": "SC-recognised Fundamental Rights: Right to Shelter (Chameli Singh v. State of U.P. 1995, Article 21), Right to Travel Abroad (Satwant Singh), Equal Pay for Equal Work."
+ },
+ "14-060": {
+  "r": "Right to privacy → implicit in Article 21 (with 19(1)(d)); Govind v. State of M.P. (1975), Malak Singh v. State of Punjab (1980); 'right to be let alone'.",
+  "hi": [
+   "Right to privacy (निजता का अधिकार)"
+  ]
+ },
+ "14-061": {
+  "r": "Right to Privacy → intrinsic part of Article 21 and the freedoms in Part III (Justice K.S. Puttaswamy v. Union of India)."
+ },
+ "14-062": {
+  "r": "K.S. Puttaswamy case (nine-judge bench, 24 August 2017): Right to Privacy is a fundamental right under Article 21, part of the Part III freedoms."
+ },
+ "14-064": {
+  "r": "Right to marry a person of one's choice → Article 21 (Lata Singh v. State of U.P., 2006; Hadiya case: right to choose a partner)."
+ },
+ "14-065": {
+  "r": "Article 21 covers medical aid to the injured, safety from sexual harassment at work, pollution-free water; capital punishment is not barred by it (Bachan Singh v. State of Punjab)."
+ },
+ "14-066": {
+  "r": "After 44th Amendment (1978), Article 21 (life and personal liberty) cannot be suspended even in National Emergency; Article 19 rights auto-suspended if Emergency is on war or external aggression.",
+  "h": "44 fixed 21: after the 44th Amendment, Article 21 never goes."
+ },
+ "14-067": {
+  "r": "Unnikrishnan v. State of Andhra Pradesh (1993) → Right to Education flows from Article 21; free education for children up to 14 years."
+ },
+ "14-068": {
+  "r": "Right to Education (6-14 years) is a Fundamental Right: Eighty-Sixth Amendment Act 2002 inserted Article 21A; RTE Act 2009; added from 1 April 2010.",
+  "hi": [
+   "Right to Education (शिक्षा का अधिकार)"
+  ]
+ },
+ "14-071": {
+  "r": "Article 21A: State gives free and compulsory education to children aged six to fourteen; education is indispensable to the right to development as a human right (R explains A)."
+ },
+ "14-072": {
+  "r": "Right against Exploitation → Article 23 (no human trafficking, begar, forced labour) and Article 24 (no child below fourteen in factory, mine, hazardous work). Untouchability (Article 17) is not.",
+  "hi": [
+   "Right against Exploitation (शोषण के विरुद्ध अधिकार)"
+  ]
+ },
+ "14-073": {
+  "r": "Article 24 → no child under 14 years employed in any factory, mine or other hazardous employment."
+ },
+ "14-074": {
+  "r": "Article 24's ban on employing children below fourteen in factories, mines or hazardous work is an absolute prohibition."
+ },
+ "14-075": {
+  "r": "Article 20: no ex-post facto law, no double jeopardy, no self-incrimination. Protection from torture comes under Article 21, not 20. Child exploitation → Article 24.",
+  "h": "Article 20 = three 'No's: ex-post facto, double jeopardy, self-incrimination."
+ },
+ "14-078": {
+  "r": "Child rights → Article 24 of the ICCPR; Article 24 of the Indian Constitution also protects children.",
+  "h": "Same number twice: 24 in ICCPR and 24 in our Constitution."
+ },
+ "14-079": {
+  "r": "Article 20(2) → no one punished twice for the same offence (double jeopardy); Article 20(3) → no self-incrimination."
+ },
+ "14-080": {
+  "r": "Article 20(3) → an accused cannot be compelled to be a witness against himself (self-incrimination); accused presumed innocent till guilt is proved."
+ },
+ "14-081": {
+  "r": "Article 20(2) → no one prosecuted and punished twice for the same offence: Doctrine of Double Jeopardy (maxim: Nemo Debet Bis Vexari).",
+  "hi": [
+   "Double jeopardy (दोहरा दंड)"
+  ]
+ },
+ "14-082": {
+  "r": "Article 22 → an arrested person must be told the grounds of arrest and may consult and be defended by a legal practitioner of choice."
+ },
+ "14-083": {
+  "r": "Wrong pair: Article 22(2) is not about Parliament allowing detention beyond three months; 22(2) → arrested person produced before nearest magistrate within twenty-four hours."
+ },
+ "14-084": {
+  "r": "Article 22(4) → a preventive detention law cannot authorise detention for longer than 3 months.",
+  "hi": [
+   "Preventive detention (निवारक निरोध)"
+  ]
+ },
+ "14-085": {
+  "r": "Preventive detention: a person can be detained without trial for at most three months (Article 22(4))."
+ },
+ "14-086": {
+  "r": "Article 355 → Union must protect every State against external aggression and internal disturbance (true). POTA 2002 made confession before police admissible; Article 22(5) lets detainee make representation.",
+  "c": "Book prints (a), but statement 2 is also correct: Article 22(3) denies preventive detainees the right to consult a lawyer. With statement 1 true and 3 false, the answer is (b) Only two."
+ },
+ "14-087": {
+  "r": "Parole is not a right in India (claim not absolute, even with a sufficient case); State Governments have their own Prisoners Release on Parole Rules."
+ },
+ "14-088": {
+  "r": "Article 25 → freedom of conscience, profession, practice, propagation of religion; Sikhs may wear and carry Kirpans; State can legislate social reform. No right of religious bodies to convert people.",
+  "hi": [
+   "Freedom of Religion (धार्मिक स्वतंत्रता)"
+  ]
+ },
+ "14-091": {
+  "r": "'Hindu' in Article 25 includes Sikhs, Jains and Buddhists; it does not include Parsis."
+ },
+ "14-092": {
+  "r": "Article 25 freedom of religion is subject to public order, morality and health; 'humanism' is not a limit.",
+  "h": "Religion's limits = 'PMH': Public order, Morality, Health."
+ },
+ "14-093": {
+  "r": "Article 26 (religious denominations manage own affairs, institutions, property) → subject to public order, morality and health only.",
+  "t": "National security, education and secularism are not Article 26 limits."
+ },
+ "14-094": {
+  "r": "Wrong pair: Article 29 → protection of minorities' interests; minorities' right to establish and administer educational institutions → Article 30. Articles 23, 24, 26 pairs are correct."
+ }
 }

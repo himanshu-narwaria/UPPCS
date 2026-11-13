@@ -533,6 +533,9 @@ h4{font-size:16px;margin-top:6px}
 .open{font-family:var(--head);font-size:14px;background:var(--accent);color:#fff;text-decoration:none;border-radius:8px;padding:7px 14px}
 .open:hover{background:#174a6d}
 .basis{margin:0;color:var(--soft);font-size:14px;max-width:90ch}
+/* long file names ("Preview_Indian_History_Part_2_2026_..._Merged_1.pdf") must wrap on a phone */
+.subject,.blk,.plus,.others,.bh>div{min-width:0}
+.basis,.blk h3,.olist a,.plist .pd{overflow-wrap:anywhere}
 .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));border:1px solid var(--line);border-radius:8px}
 .kpis div{padding:10px 14px;border-right:1px solid var(--line);display:grid}
 .kpis div:last-child{border-right:0}
@@ -597,6 +600,16 @@ code{font-size:.92em;background:var(--wash);padding:0 4px;border-radius:3px}
 .spn{display:flex;justify-content:space-between;gap:10px;border-top:1.5px solid var(--line);padding-top:12px}
 .spn a{font-family:var(--head);font-weight:600;text-decoration:none}
 .spn a:hover{text-decoration:underline}
+.pc{display:grid;gap:6px;align-content:start;border:1.5px dashed var(--accent);border-radius:10px;padding:14px 16px;text-decoration:none;color:var(--ink);background:var(--wash)}
+.pc:hover{background:var(--bg)}
+.plus{display:grid;gap:12px;border-top:2px solid var(--ink);padding-top:18px}
+.plist{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+.plist a{display:grid;gap:6px;height:100%;border:1.5px solid var(--line);border-radius:10px;padding:14px 16px;text-decoration:none;color:var(--ink)}
+.plist a:hover{background:var(--wash);border-color:var(--accent)}
+.plist .pn{font-family:var(--head);font-weight:600;font-size:18px;color:var(--accent)}
+.plist .ps{font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--up)}
+.plist .pd{font-size:14.5px;color:var(--soft)}
+.plist .po{font-weight:700;color:var(--accent);margin-top:2px}
 .others{display:grid;gap:10px}
 .olist{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:8px}
 .olist li{border:1px solid var(--line);border-radius:8px;padding:8px 12px;display:grid}
@@ -683,14 +696,37 @@ def build():
     built = max(modified(p) for p in inputs)
     rendered = [render_subject(sub, F, Q, P, files, exam_txt) for sub, F, Q, P, files in blocks]
     names = [(b[0]["key"], b[0]["name"]) for b in blocks]
+    import sitenav
+    smap = sitenav.site_map()
+    archive, plus = smap["archive"], smap["plus"]
+    after = '<a class="nx" href="#plus">UPPCS Plus →</a>' if plus else '<a class="nx" href="#others">Other notes →</a>'
     for i, part in enumerate(rendered):
         prev = f'<a href="#{names[i - 1][0]}">← {E(names[i - 1][1])}</a>' if i > 0 else "<span></span>"
-        nxt = f'<a class="nx" href="#{names[i + 1][0]}">{E(names[i + 1][1])} →</a>' if i < len(names) - 1 else '<a class="nx" href="#others">Other notes →</a>'
+        nxt = f'<a class="nx" href="#{names[i + 1][0]}">{E(names[i + 1][1])} →</a>' if i < len(names) - 1 else after
         k = part.rindex("</section>")
         rendered[i] = part[:k] + f'<nav class="spn" aria-label="Previous and next subject">{prev}{nxt}</nav>\n' + part[k:]
     panels = "".join(rendered)
-    import sitenav
-    archive = sitenav.site_map()["archive"]
+    plus_html = plus_card = ""
+    if plus:
+        # the "UPPCS Plus" pages: every fact of every chapter with recall mode, flashcards, quizzes
+        order = {s["key"]: i for i, s in enumerate(SUBJECTS)}
+        items = []
+        for p in sorted(plus, key=lambda p: (order.get(p["subject"], 99), p["t"])):
+            items.append(f'<li><a href="{E(sitenav.enc(p["path"]))}"><span class="pn">{E(p["t"])}</span>'
+                         f'<span class="ps">{E(p["name"])}</span>'
+                         + (f'<span class="pd">{E(p["desc"])}</span>' if p["desc"] else "")
+                         + '<span class="po">Open →</span></a></li>')
+        subs_with = sorted({p["name"] for p in plus}, key=lambda n: [s["name"] for s in SUBJECTS].index(n) if n in [s["name"] for s in SUBJECTS] else 99)
+        plus_html = ('<section class="plus" id="plus" aria-labelledby="plus-h"><h2 id="plus-h">UPPCS Plus <span class="hi">(प्लस नोट्स)</span></h2>'
+                     '<p class="lead">Separate study pages beside the full notes, quick notes and 72-hour plans: every fact of '
+                     'every chapter in one place, with recall mode, flashcards, quizzes and progress.</p>'
+                     f'<ul class="plist">{"".join(items)}</ul>'
+                     + ('<nav class="spn" aria-label="Previous and next"><a href="#' + names[-1][0] + '">← ' + E(names[-1][1]) + '</a>'
+                        + ('<a class="nx" href="#others">Other notes →</a>' if archive else "<span></span>") + '</nav>')
+                     + '</section>')
+        plus_card = (f'<a class="pc" href="#plus"><span class="sn">UPPCS Plus</span><span class="sh">प्लस नोट्स</span>'
+                     f'<span class="sm"><b>{len(plus)}</b> pages · {E(", ".join(subs_with))}</span>'
+                     f'<span class="sm">Fact lists, recall mode, flashcards and quizzes</span></a>')
     others = ""
     if archive:
         others = ('<section class="others" id="others" aria-labelledby="others-h"><h2 id="others-h">Other notes <span class="hi">(अन्य नोट्स)</span></h2>'
@@ -717,8 +753,9 @@ def build():
 <p>Pick a subject. Each one keeps its full notes, quick notes and 72-hour plan separate, with links straight into the right chapter.</p></div>
 <div class="exam" id="days">UPPCS Prelims · {exam_txt}</div>
 </header>
-<nav class="cards" aria-label="Subjects">{"".join(cards)}</nav>
+<nav class="cards" aria-label="Subjects">{"".join(cards)}{plus_card}</nav>
 {panels}
+{plus_html}
 {others}
 <p class="foot">Built from files dated up to {fmt_date(built)} by <b>dashboard-src/build_dashboard.py</b>. It reads only the notes and plan HTML files, never the PDFs. Run it again after any notes file changes. Counts come from each file’s own practice bank, so they cover different years for each subject.</p>
 </main>

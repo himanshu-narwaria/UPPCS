@@ -129,8 +129,8 @@
   "t": "Don't put NRHM in the Eleventh Plan; 2005 falls in the Tenth Plan (2002-07)."
  },
  "11-019": {
-  "r": "NRHM (2005) target → infant mortality rate of 28 per 1000 live births by 2012.",
-  "c": "Answer not printed; the explanation's target (28 per 1000 by 2012) matches no option."
+  "r": "NRHM (2005) goal → infant mortality rate of 30 per 1000 live births by 2012 (option a); the book's figure of 28 is wrong.",
+  "c": "The book is wrong: NRHM aimed to cut the infant mortality rate to 30 per 1000 live births by 2012, which is option (a)."
  },
  "11-020": {
   "r": "ASHA (Accredited Social Health Activist) → trained female village health worker under NRHM; chosen from the village, preferably aged 25 to 45; links community and health system.",
@@ -179,7 +179,7 @@
  },
  "11-035": {
   "r": "PM Jan Arogya Abhiyan → 2018; PM Vaya Vandana Yojana → 2017; PM Rojgar Protsahan Yojana → 2016 (not 2015); Swachh Bharat Abhiyan → 2014.",
-  "c": "Answer not printed; List-II gives 2015 for PM Rojgar Protsahan Yojana, but it was launched in 2016."
+  "c": "Book gives no single answer: PM Rojgar Protsahan Yojana began in 2016, not 2015 as listed; otherwise the pairs give option (a) 2 3 1 4."
  },
  "11-036": {
   "r": "P.M. Garib Kalyan Package → 2020; Muskan Scheme → 2021; Mission Indradhanush → 2014; Pradhan Mantri Jan Arogya Yojana → 2018."
@@ -257,7 +257,7 @@
  },
  "11-062": {
   "r": "PM Jan-Dhan Yojana (28 August 2014) → RuPay debit card with accident insurance Rs. 1,00,000 (now Rs. 2 lakh for new accounts) and life cover Rs. 30,000.",
-  "c": "Answer not printed; the explanation says option (a), Rs. 1,00,000 accident and Rs. 30,000 life cover, was correct then."
+  "c": "Book gives no single answer: (a) Rs. 1,00,000 accident and Rs. 30,000 life cover was right then; new accounts since 28.8.2018 get Rs. 2 lakh accident cover."
  },
  "11-063": {
   "r": "Aam Aadmi Bima Yojana → 2007; PM Aatmanirbhar Swasth Bharat Yojana → 2021; PM Jan Aarogya Yojana → 2018; PM Suraksha Bima Yojana → 9 May 2015 (Kolkata).",
@@ -265,14 +265,14 @@
  },
  "11-064": {
   "r": "Launch order: PM Jan-Dhan Yojana (28 August 2014) → Make in India (25 September 2014) → Sukanya Samriddhi (22 January 2015) → Atal Pension Yojana (9 May 2015).",
-  "c": "Answer not printed; the correct order IV, III, I, II is not among the options."
+  "c": "Book gives no single answer: the true order is Jan-Dhan (August 2014), Make in India (September 2014), Sukanya Samriddhi (January 2015), Atal Pension (May 2015): IV, III, I, II."
  },
  "11-065": {
   "r": "Launch order: PM Jan-Dhan Yojana (28 August 2014) → Digital Gender Atlas (9 March 2015) → Mudra Bank (8 April 2015) → PM Suraksha Bima Yojana (9 May 2015)."
  },
  "11-066": {
   "r": "Rastriya Vyosree (Vayoshri) Yojana → launched 1 April 2017 in Nellore district (Andhra Pradesh) by Social Justice Ministry; physical aids and assisted-living devices for BPL senior citizens.",
-  "c": "Answer not printed; the launch place, Nellore (Andhra Pradesh), is not among the options."
+  "c": "Book gives no single answer: the Yojana was launched at Nellore, Andhra Pradesh, on 1 April 2017, and none of the options names it."
  },
  "11-067": {
   "r": "Atal Jyoti Yojana, 2013 (Madhya Pradesh) → at least 10 hours of power supply assured for rural agriculture."
@@ -317,7 +317,7 @@
  },
  "11-080": {
   "r": "Amma Scooter Scheme (Tamil Nadu, AIADMK Govt) → launched by PM Modi, 24 February 2018, Chennai, on Jayalalithaa's 70th birth anniversary; 50% subsidy (up to Rs. 25,000) statewide.",
-  "c": "Answer not printed; only statement 2 is fully correct (75%, 69th and Chennai-only are wrong), and no option gives 2 alone."
+  "c": "Book gives no single answer: only statement 2 is right; the subsidy was 50%, not 75%, it marked her 70th birth anniversary, and it covered all Tamil Nadu."
  },
  "11-081": {
   "r": "DWCRA (Development of Women and Children in Rural Areas, 1982-83) → upliftment of rural BPL women through financial help and self-employment."
@@ -450,7 +450,7 @@
  },
  "11-132": {
   "r": "Deen Dayal Upadhyay Gram Jyoti Yojana (Patna, 25 July 2015) → rational electricity supply to rural farm and non-farm consumers; aids rural education, health, sanitation, empowerment.",
-  "c": "Answer not printed; the explanation links all four options, so no single answer is given."
+  "c": "Book gives no single answer: the scheme is for rural electricity supply, and the book says it aids education, sanitation, health and empowerment alike."
  },
  "11-133": {
   "r": "Employment Guarantee Scheme → first started by Maharashtra (Government Resolution, 28 March 1972), part of its 15 Point Programme."

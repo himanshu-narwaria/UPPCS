@@ -20,7 +20,7 @@ Explanation: In the context of finance, the term 'beta' refers to a numeric valu
 Q: Capital Market means:
 Options: (a) Share market (b) Commodity market (c) Money market (d) All the above
 Answer: (a) Share market
-Explanation: Capital market is a place where buyers and sellers indulge in trade (buying/selling) offinancial securities like bonds, stocks, etc. The trading is undertaken by participants such as individuals and institutions. Capital market trades mostly in long-term securities. The magnitude of a nation’s capital markets is directly interconnected to the size of its economy which means that ripples in one corner can cause major … [shortened in this brief; the book continues]
+Explanation: Capital market is a place where buyers and sellers indulge in trade (buying/selling) of financial securities like bonds, stocks, etc. The trading is undertaken by participants such as individuals and institutions. Capital market trades mostly in long-term securities. The magnitude of a nation’s capital markets is directly interconnected to the size of its economy which means that ripples in one corner can cause … [shortened in this brief; the book continues]
 
 [09-308] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2023
 Q: Consider the following markets:
@@ -270,7 +270,7 @@ Q: When was the first Regional Rural Bank formed?
 Options: (a) 1977 (b) 1976 (c) 1974 (d) 1975
 Answer: (d) 1975
 Also asked: In India, Regional Rural Banks were established in the year: -> 1975
-Explanation: The first Regional Rural Bank 'Prathama Grameen Bank' was set up at Moradabad (U.P.) on 2nd October, 1975. Out offive initial stage RRBs in the country, remaining four were set up at Malda (West Bangal), Gorakhpur (U.P.), Bhiwani (Haryana) and Jaipur (Rajasthan).
+Explanation: The first Regional Rural Bank 'Prathama Grameen Bank' was set up at Moradabad (U.P.) on 2nd October, 1975. Out of five initial stage RRBs in the country, remaining four were set up at Malda (West Bangal), Gorakhpur (U.P.), Bhiwani (Haryana) and Jaipur (Rajasthan).
 
 [09-362] Ch9 · Money and Banking · asked in 1 paper(s): U.P.P.C.S. (Mains) 2005
 Q: Which one of the following is not the function of Regional Rural Banks?
@@ -334,7 +334,7 @@ Explanation: Two expert Committees were set up in 1990s under the Chairmanship o
 Q: The Committee on Financial Sector Reforms 2008, in India was headed by:
 Options: (a) Bimal Jalan (b) Raghuram Rajan (c) C. Rangarajan (d) M. Narasimham
 Answer: (b) Raghuram Rajan
-Explanation: In 2007, Planning Commission constituted a Committee to write a report proposing the next generation offinancial sector reforms in India. The Committee was headed by Raghuram Rajan and it submitted its report in 2008.
+Explanation: In 2007, Planning Commission constituted a Committee to write a report proposing the next generation of financial sector reforms in India. The Committee was headed by Raghuram Rajan and it submitted its report in 2008.
 
 [09-372] Ch9 · Money and Banking · asked in 1 paper(s): U.P.P.C.S. (Mains) 2007
 Q: With what subject is Raghuram Rajan Committee connected?
@@ -408,7 +408,7 @@ Q: Which one of the following is covered by the Kisan Credit Card Scheme?
 Options: (a) Consumption Credit and Investment Credit (b) Only Consumption Credit (c) Only Investment Credit (d) None of the above
 Answer: (a) Consumption Credit and Investment Credit
 Also asked: Kisan Credit Card (KCC) Scheme for farmers was introduced in: -> 1998-1999
-Explanation: The Kisan Credit Card (KCC) scheme was introduced in August, 1998 for providing adequate and timely credit support to farmers. The KCC scheme is implemented by Commercial Banks, Regional Rural Banks (RRBs) and Small Finance Banks and Cooperatives. The KCC covers post-harvest expenses, produce marketing loans, consumption requirements offarmer household and investment credit requirements for agriculture and allied … [shortened in this brief; the book continues]
+Explanation: The Kisan Credit Card (KCC) scheme was introduced in August, 1998 for providing adequate and timely credit support to farmers. The KCC scheme is implemented by Commercial Banks, Regional Rural Banks (RRBs) and Small Finance Banks and Cooperatives. The KCC covers post-harvest expenses, produce marketing loans, consumption requirements of farmer household and investment credit requirements for agriculture and allied … [shortened in this brief; the book continues]
 
 [09-385] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2010
 Q: With reference to the institution of Banking Ombudsman in India, which one of the following statements is not correct?
@@ -575,7 +575,7 @@ Q: Consider the following statements: Other things remaining unchanged, market d
    Which of the above statements are correct?
 Options: (a) 1 and 4 only (b) 2, 3 and 4 (c) 1, 3 and 4 (d) 1, 2 and 3
 Answer: (a) 1 and 4 only
-Explanation: Substitute goods are those goods which can be used with equal ease in place of one another. Demand for a commodity will bear a direct relationship to the price of its substitute commodity. So, demand for a good might increase ifthe price of its substitute increases. Hence, statement 1 is correct. Complementary goods are those goods whose utility depends upon the availability of both the goods together. The demand … [shortened in this brief; the book continues]
+Explanation: Substitute goods are those goods which can be used with equal ease in place of one another. Demand for a commodity will bear a direct relationship to the price of its substitute commodity. So, demand for a good might increase if the price of its substitute increases. Hence, statement 1 is correct. Complementary goods are those goods whose utility depends upon the availability of both the goods together. The demand … [shortened in this brief; the book continues]
 
 [09-409] Ch9 · Money and Banking · asked in 1 paper(s): U.P. P.C.S (Mains) 2016
 Q: With fixed demand and increase in supply, the price of the commodity is likely to:
@@ -597,7 +597,7 @@ Explanation: Rise or fall in prices is caused due to changes in supply and deman
 Q: Supply of money remaining the same when there is an increase in demand for money, there will be:
 Options: (a) a fall in the level of prices (b) an increase in the rate of interest (c) a decrease in the rate of interest (d) an increase in the level of income and employment
 Answer: (b) an increase in the rate of interest
-Explanation: Ifthe supply of money is constant and its demand is increasing there will be an increase in interest rates. It does not have much to do with the level of prices and the increase in the level of income and employment.
+Explanation: If the supply of money is constant and its demand is increasing there will be an increase in interest rates. It does not have much to do with the level of prices and the increase in the level of income and employment.
 
 [09-412] Ch9 · Money and Banking · asked in 2 paper(s): U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2003
 Q: Assertion (A): All businessmen make profit due to price-hike.
@@ -948,7 +948,10 @@ Answer: (b) 3 only
 Explanation: Prime Minister Narendra Modi launched the Ayushman Bharat Digital Mission (ABDM) via video conferencing on 27th September, 2021. ABDM will create a seamless online platform by providing a wide range of data, information and infrastructure services, duly leveraging open, interoperable, standards-based digital systems while ensuring the security, confidentiality and privacy of health-related personal information. The … [shortened in this brief; the book continues]
 
 [11-005] Ch11 · Employment & Welfare Schemes · asked in 1 paper(s): I.A.S. (Pre) 2023
-Q: Consider the following statements: Statement-I: India's public sector healthcare system largely focuses on curative care with limited preventive, promotive and rehabilitative care. Statement-II: Under India's decentralized approach to healthcare delivery, the States are primarily responsible for organizing health services. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I: India's public sector healthcare system largely focuses on curative care with limited preventive, promotive and rehabilitative care.
+   Statement-II: Under India's decentralized approach to healthcare delivery, the States are primarily responsible for organizing health services.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
 Explanation: India's public sector healthcare system largely focuses on curative care with limited preventive, promotive and rehabilitative care. The Ayushman Bharat - Health and Wellness Centres (AB-HWCs) were launched under the Ayushman Bharat Programme in a bid to move away from selective healthcare to a more comprehensive range of services spanning preventive, promotive, curative, rehabilitative and palliative care for all … [shortened in this brief; the book continues]
@@ -1300,8 +1303,8 @@ Explanation: The scheme ‘Apna Gaon, Apna Kam’ was started by the Rajasthan G
 
 [11-058] Ch11 · Employment & Welfare Schemes · asked in 1 paper(s): U.P.P.C.S. (Mains) 2017
 Q: Saubhagya Yojana is concerned with:
-Options: (a) Financial assistance for marriage of girls (b) Scholarship for girl’s education (c) Provision offree electricity to BPL families (d) Provision of financial assistance to a new born baby girl
-Answer: (c) Provision offree electricity to BPL families
+Options: (a) Financial assistance for marriage of girls (b) Scholarship for girl’s education (c) Provision of free electricity to BPL families (d) Provision of financial assistance to a new born baby girl
+Answer: (c) Provision of free electricity to BPL families
 Explanation: Pradhan Mantri Sahaj Bijli Har Ghar Yojna – ‘Saubhagya’, a new scheme, was launched by PM Narendra Modi on 25 September, 2017. Under Saubhagya scheme free electricity connections to all households (both APL and BPL families in rural areas and BPL families in urban areas) were provided. Rural Electrification Corporation (REC) was designated as its nodal agency for the Saubhagya Scheme.
 
 [11-059] Ch11 · Employment & Welfare Schemes · asked in 1 paper(s): M.P. P.C.S. (Pre) 2022
@@ -1458,7 +1461,7 @@ Explanation: th / Prime Minister Narendra Modi on 24 February, 2018 launched the
 
 [11-081] Ch11 · Employment & Welfare Schemes · asked in 1 paper(s): R.A.S./R.T.S.(Pre) 1999
 Q: The scheme ‘DWCRA’is associated with:
-Options: (a) Upliftment of women living below poverty line (b) Upliftment of children living below poverty line (c) Providing food to children in primary schools (d) Distribution offree wheat to retain children in schools
+Options: (a) Upliftment of women living below poverty line (b) Upliftment of children living below poverty line (c) Providing food to children in primary schools (d) Distribution of free wheat to retain children in schools
 Answer: (a) Upliftment of women living below poverty line
 Explanation: Development of Women and Children in Rural Areas (DWCRA) scheme was launched during the year 1982-83. The main objective of DWCRA was to improve the socio-economic, health and educational status of rural women by providing financial assistance and creating employment opportunities for them to become self-reliant and to raise their standard of living. The DWCRA was aimed to improve the socio-economic status of the … [shortened in this brief; the book continues]
 
@@ -1566,7 +1569,7 @@ Explanation: Government of India has launched ‘Janani Shishu Suraksha Karyakra
 Q: In which of the following scheme, the main objective is to promote the use of appropriate methods, care and services during pregnancy, safe delivery and lactation period to improve the health and nutritional status of pregnant and lactating women and their infants (0-6 months)?
 Options: (a) Pradhan Mantri Matru Vandana Yojana (b) Indira Gandhi Matrutva Poshan Yojana (c) Mission Vatsalya Yojana (d) Palanhar Yojana
 Answer: (a) Pradhan Mantri Matru Vandana Yojana
-Explanation: Pradhan Mantri Matru Vandana Yojana (PMMVY) is the renamed and revamped version of Indira Gandhi Matritva Sahyog Yojana under which government provides conditional financial aid through DBT to the pregnant and lactating mothers for the first live birth (and also for the second live birth ifthe born child is girl). The main objective of this scheme is to promote the use of appropriate methods, care and services … [shortened in this brief; the book continues]
+Explanation: Pradhan Mantri Matru Vandana Yojana (PMMVY) is the renamed and revamped version of Indira Gandhi Matritva Sahyog Yojana under which government provides conditional financial aid through DBT to the pregnant and lactating mothers for the first live birth (and also for the second live birth if the born child is girl). The main objective of this scheme is to promote the use of appropriate methods, care and services … [shortened in this brief; the book continues]
 
 [11-098] Ch11 · Employment & Welfare Schemes · asked in 1 paper(s): 60th to 62th B.P.S.C. (Pre) 2016
 Q: The nation-wise breast-feeding programme ‘MAA’has been launched by which Union Ministry?
@@ -1616,7 +1619,7 @@ Options: (a) 1 and 2 are correct (b) 1 and 3 are correct (c) 2 and 3 are correct
 Answer: (b) 1 and 3 are correct
 Also asked: Bharat Nirman Programme envisages the creation of: -> 10 million hectares of additional irrigation during 2005-2009
 Also asked: The targets set for achievements under the Bharat Nirman Yojna are to be realized by the end of: -> 2009
-Explanation: Bharat Nirman Programme was started for the period offour years (2005-06 to 2008-09). In the end of the year 2008-09, Government had extended this program (Phase-II) upto the year 2012. Six components were included in this programme. Targets under Bharat Nirman (envisaged to be achieved by year 2009) were as follows: / To create 10 million (1 crore) hectares of additional irrigation capacity. / To provide all-weather … [shortened in this brief; the book continues]
+Explanation: Bharat Nirman Programme was started for the period of four years (2005-06 to 2008-09). In the end of the year 2008-09, Government had extended this program (Phase-II) upto the year 2012. Six components were included in this programme. Targets under Bharat Nirman (envisaged to be achieved by year 2009) were as follows: / To create 10 million (1 crore) hectares of additional irrigation capacity. / To provide all-weather … [shortened in this brief; the book continues]
 
 [11-111] Ch11 · Employment & Welfare Schemes · asked in 1 paper(s): U.P.P.C.S. (Pre) 2015
 Q: National Rural Drinking Water Programme is one of the components of:
@@ -2212,7 +2215,7 @@ Answer: (e) None of the above
 Explanation: As per the results of Swachh Survekshan, 2022, Indore emerged as India's first 7-star garbage-free city, while Surat, Bhopal, Navi Mumbai, Mysuru, Vishakhapatnam and Tirupati earned 5-star garbage-free certification. Hence, option (e) is the correct answer. In Swachh Survekshan, 2023, Indore, Surat and Navi Mumbai were conferred with 7-star garbage-free city rating, while Vishakhapatnam, Tirupati, New Delhi (NDMC), … [shortened in this brief; the book continues]
 
 [11-214] Ch11 · Employment & Welfare Schemes · asked in 1 paper(s): U.P. R.O./A.R.O. (Mains) 2021
-Q: Which one offollowing city was not among the top three cleanest cities in more than one lakh population category in Swachh Survekshan 2021?
+Q: Which one of following city was not among the top three cleanest cities in more than one lakh population category in Swachh Survekshan 2021?
 Options: (a) Indore (b) Surat (c) Tirupati (d) Vijayawada
 Answer: (c) Tirupati
 Explanation: In Swachh Survekshan 2021, Indore was awarded the title of India’s Cleanest City, while Surat and Vijayawada bagged the second and third spots, respectively in ‘more than 1 lakh population’ category. In Swachh Survekshan 2023, Indore and Surat were jointly awarded the title of India’s Cleanest City, while Navi Mumbai bagged the third spot in ‘more than 1 lakh population’ category.
@@ -2266,7 +2269,7 @@ Explanation: In view of the prevention ofinfectious diseases, the government is 
 Q: Consider the following statements related to Integrated Low Cost Sanitation (ILCS) scheme: I. The system is funded on sharing basis. II. Central subsidy is 75 percent. III. State subsidy is 25 percent. Of these, the correct statements are:
 Options: (a) I and II only (b) II and III only (c) I and III only (d) I, II and III
 Answer: (a) I and II only
-Explanation: Integrated Low Cost Sanitation (ILCS) scheme started in 1980- 81 with the objective oferadicating all dry latrines and thereby liberating manual scavengers from inhuman practice of carrying night soil. The scheme also has provision for construction of new latrines for the EWS households who have no latrine facility. This scheme is funded on sharing basis in the following manner: / Central Subsidy – 75% / State Subsidy – … [shortened in this brief; the book continues]
+Explanation: Integrated Low Cost Sanitation (ILCS) scheme started in 1980- 81 with the objective of eradicating all dry latrines and thereby liberating manual scavengers from inhuman practice of carrying night soil. The scheme also has provision for construction of new latrines for the EWS households who have no latrine facility. This scheme is funded on sharing basis in the following manner: / Central Subsidy – 75% / State Subsidy … [shortened in this brief; the book continues]
 
 [11-223] Ch11 · Employment & Welfare Schemes · asked in 2 paper(s): U.P.P.C.S. (Pre) 2019; U.P. Lower Sub. (Spl.) (Pre) 2008
 Q: National Social Assistance Programme does not include the following scheme for ‘Below Poverty Line’ households
@@ -2661,7 +2664,7 @@ Answer: (b) Dehradun
 Explanation: National Institute for the Empowerment of Persons with Visual Disabilities (formerly known as National Institute for the Visually Handicapped) is situated at Dehradun. It is a premier organization under the administrative control of Department of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice and Empowerment, Government of India.
 
 [11-300] Ch11 · Employment & Welfare Schemes · asked in 1 paper(s): R.A.S./R.T.S. (Pre) 1998
-Q: The Headquarters offirst University to be established for only physically handicapped persons in India will be at:
+Q: The Headquarters of first University to be established for only physically handicapped persons in India will be at:
 Options: (a) Allahabad (b) Varanasi (c) Chitrakoot (d) Ballia
 Answer: (c) Chitrakoot
 Explanation: The first University established in India only for the disabled is in Chitrakoot (U.P.).The earlier name of the University was Jagadguru Rambhadracharya Handicapped University. It was established in 2001. It is now renamed as Jagadguru Rambhadracharya Divyang State University.

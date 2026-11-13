@@ -1,0 +1,183 @@
+{
+ "63-001": {
+  "r": "Viruses → replicate only inside living cells and can infect all life forms: animals, plants, bacteria and fungi (1, 2 and 3).",
+  "hi": [
+   "Virus (विषाणु)"
+  ]
+ },
+ "63-002": {
+  "r": "Citrus canker → bacterium Xanthomonas (lesions on leaves, stems, fruit; early drop); red rot of sugarcane → fungus. The book gives no single answer (*)."
+ },
+ "63-003": {
+  "r": "Paddy → brown leaf spot; Wheat → black rust; Sugarcane → red rot; Pigeon pea (arhar) → wilt (ukhtha rog).",
+  "hi": [
+   "Wilt (उकठा रोग)"
+  ]
+ },
+ "63-004": {
+  "r": "Wrong pair: Sugarcane – powdery mildew (that affects wheat, grape, barley, onion, apple, pea). Correct: wheat–Phalaris minor, potato–late blight, bajra–ergot."
+ },
+ "63-005": {
+  "r": "Wrong pair: Rice – green hair; green hair is a bajra disease (twisted, broom-like heads, dwarf plants). Correct: bajra–ergot, pea–powdery mildew, gram–wilt."
+ },
+ "63-006": {
+  "r": "Wrong pair: Paddy – wilt; wilt affects gram, chickpea, sugarcane, toor. Correct: mustard–white rust, bajra–smut, groundnut–tikka."
+ },
+ "63-007": {
+  "r": "Nitrogen deficiency → yellowing (uniform chlorosis, older leaves first) and stunted growth; nitrogen needed for chlorophyll and protein.",
+  "hi": [
+   "Nitrogen (नाइट्रोजन)"
+  ]
+ },
+ "63-008": {
+  "r": "Zinc (Zn, micronutrient) deficiency → chlorosis in maize; white tips on maize leaves, dwarf plants.",
+  "hi": [
+   "Zinc (जस्ता)"
+  ]
+ },
+ "63-010": {
+  "r": "Zinc deficiency → white bud of maize; also khaira of rice, mottle leaf (little leaf) or frenching of citrus and cotton.",
+  "h": "Zinc = Khaira + White bud."
+ },
+ "63-011": {
+  "r": "Pyrilla → leafhopper pest of sugarcane; sucks leaf sap, causing yellow patches and drying of leaves."
+ },
+ "63-012": {
+  "r": "Tikka → deadly disease of groundnut: early and late leaf spot by fungi Cercospora personata and Cercospora arachidicola.",
+  "hi": [
+   "Groundnut (मूंगफली)"
+  ]
+ },
+ "63-013": {
+  "r": "White rust → fungal disease of mustard, caused by Albugo candida (white patches on stem, leaves, inflorescence).",
+  "t": "White rust = mustard; black rust = wheat.",
+  "hi": [
+   "Mustard (सरसों)"
+  ]
+ },
+ "63-014": {
+  "r": "Rice blast → fungal disease (Pyricularia oryzae / Magnaporthe oryzae), one of the most destructive rice diseases.",
+  "hi": [
+   "Fungus (कवक)"
+  ]
+ },
+ "63-015": {
+  "r": "False statement: false smut in barley; false smut is a paddy disease (chalky grains). Correct: rust–wheat, early blight–potato, khaira–paddy."
+ },
+ "63-016": {
+  "r": "Two common fungal diseases of wheat → black rust (Puccinia graminis tritici) and loose smut (Ustilago nuda tritici).",
+  "t": "White rust is of mustard, not wheat."
+ },
+ "63-017": {
+  "r": "Karnal bunt → fungal disease of wheat by smut fungus Tilletia indica; first reported 1931 near Karnal, Haryana.",
+  "h": "Karnal (Haryana) is wheat country → Karnal bunt of wheat."
+ },
+ "63-018": {
+  "r": "Rice tungro → two viruses (RTSV spherical, RTBV bacilliform) transmitted together by green leafhoppers."
+ },
+ "63-019": {
+  "r": "Plant diseases spread by birds, dust, rain and wind (all four); also animals, soil, seed, pollen, irrigation water, humans."
+ },
+ "63-020": {
+  "r": "Blackheart of potato → abiotic disease from oxygen deficiency during storage.",
+  "hi": [
+   "Potato (आलू)"
+  ]
+ },
+ "63-021": {
+  "r": "Yellow vein mosaic → viral disease of okra (bhindi), spread by whitefly.",
+  "hi": [
+   "Okra (भिंडी)"
+  ]
+ },
+ "63-023": {
+  "r": "Spongy tissue (soft white corky centre, ripening disorder) → Alphonso mango; hampers its export; peculiar to South India."
+ },
+ "64-001": {
+  "r": "Microsatellite DNA → short DNA segments repeated many times at one spot; used as markers to study evolutionary relationships among fauna species."
+ },
+ "64-002": {
+  "r": "NOT possible: functional chromosomes from DNA of different species. Possible: artificial functional DNA, DNA replicating outside a cell, cells dividing in petri dishes."
+ },
+ "64-003": {
+  "r": "Insulin → first human hormone made by recombinant DNA technology; Humulin (Eli Lilly, Genentech bacteria) approved by US FDA in 1982.",
+  "hi": [
+   "Recombinant DNA (पुनर्योगज डीएनए)"
+  ]
+ },
+ "64-004": {
+  "r": "Recombinant vector vaccines → made by genetic engineering; live weakened bacteria or viruses used as vectors to carry antigen genes. Both statements true."
+ },
+ "64-005": {
+  "r": "Recombinant DNA technology → genes can move across plant species, from animals to plants, and from microorganisms to higher organisms (all)."
+ },
+ "64-006": {
+  "r": "Making rDNA: isolate genetic material → fragment DNA → isolate desired fragment → amplify gene → ligate into vector → transfer to host → get product → downstream processing."
+ },
+ "64-007": {
+  "r": "DNA can be cut and pasted at will (A true) using restriction endonucleases (cut) and DNA ligases (join) (R explains A); Nobel 1978: Arber, Nathans, Smith."
+ },
+ "64-008": {
+  "r": "Ligases → molecular stitchers (join DNA by covalent bonds); restriction endonucleases → molecular scissors.",
+  "t": "Scissors cut = restriction endonuclease; stitcher joins = ligase."
+ },
+ "64-009": {
+  "r": "Personalised (precision) medicine → CRISPR, nanotechnology, robotics and 3D bioprinting all play a role. The book gives no single answer (*)."
+ },
+ "64-010": {
+  "r": "Cas9 (CRISPR associated protein 9) → molecular scissors that cut DNA in targeted gene editing; CRISPR = clustered regularly interspaced short palindromic repeats."
+ },
+ "64-011": {
+  "r": "RNA interference (RNAi) → silences genes by neutralising mRNA; used for gene silencing therapies, cancer therapies, virus-resistant crops (1, 2, 4), not hormone replacement."
+ },
+ "64-012": {
+  "r": "Messenger RNA (mRNA) → single-stranded ribonucleic acid; carries genetic code from DNA in nucleus to ribosomes for protein making; basis of mRNA vaccines."
+ },
+ "64-013": {
+  "r": "Pronuclear transfer → 'three-parent baby' IVF technique to prevent mitochondrial diseases in offspring (faulty mitochondria removed)."
+ },
+ "64-014": {
+  "r": "Mitochondrial replacement therapy (mitochondrial donation) can prevent passing mitochondrial disease, before or after IVF (1 true); book marks 'entirely from mother' (2) incorrect."
+ },
+ "64-015": {
+  "r": "Dolly → first mammal cloned from an adult somatic cell (A true), by cloning, not in vitro fertilisation (R false); Roslin Institute, Scotland, 1996.",
+  "hi": [
+   "Cloning (क्लोनिंग)"
+  ]
+ },
+ "64-016": {
+  "r": "Dolly the sheep → born 5 July 1996 (not 1998) in Scotland; died 14 February 2003 of lung disease; first cloned mammal from adult somatic cell.",
+  "h": "Dolly lived 1996–2003: died months before her seventh birthday."
+ },
+ "64-020": {
+  "r": "NDRI Karnal → world's first cloned buffalo calf Samrupa (hand-guided cloning, February 2009); second clone Garima (June 2009, 43 kg)."
+ },
+ "64-021": {
+  "r": "Garima II → cloned buffalo by NDRI Karnal (22 Aug 2010); gave birth to calf Mahima on 25 January 2013."
+ },
+ "64-022": {
+  "r": "Ganga → India's first cloned Gir cow (female calf), NDRI Karnal, born 16 March 2023, 32 kg.",
+  "h": "Ganga = Gir (both G)."
+ },
+ "64-023": {
+  "r": "Taiwan → first transgenic glowing green pigs (National Taiwan University, 2006), by putting glowing green protein in pig embryos."
+ },
+ "64-024": {
+  "r": "Injaz → world's first cloned camel (female), Camel Reproduction Centre, Dubai, UAE.",
+  "hi": [
+   "Camel (ऊँट)"
+  ]
+ },
+ "64-025": {
+  "r": "Clone → produced asexually; genetically identical to its parent; two clones are identical; identical twins are not clones (book)."
+ },
+ "64-026": {
+  "r": "Test-tube baby (IVF) → fertilisation outside the mother's body (in a petri dish); embryo then implanted in the uterus.",
+  "hi": [
+   "Test-tube baby (परखनली शिशु)"
+  ]
+ },
+ "64-027": {
+  "r": "Genetic engineering successes: disease resistance, growth promotion, animal cloning (1, 2, 3); human cloning not achieved (controversial, banned)."
+ }
+}

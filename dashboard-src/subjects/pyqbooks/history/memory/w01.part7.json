@@ -1,184 +1,202 @@
 {
-  "05-045": {
-    "r": "Correct: Buddha's mother → Koliyan princess; Parshvanatha (twenty-third Tirthankara) → Banaras. Wrong: Mahavira's mother Trishala was Chetaka's sister, not his daughter.",
-    "t": "Trishala = Chetaka's sister; Chellana (Bimbisara's wife) = Chetaka's daughter."
-  },
-  "05-046": {
-    "r": "Correct: Kalinga king Kharavela patronised Jainism (first century BC). Bhadrabahu (not Sthulabhadra) spread Jainism in South India; his followers → Digambaras."
-  },
-  "05-047": {
-    "r": "Jain doctrine: every object, even the smallest particle, has a soul; karma is the bane of the soul and must end; penance destroys karma → all three."
-  },
-  "05-048": {
-    "r": "Samadhi Maran (Sallekhana, Sanyasna Maran) → Jain last vow: gradually giving up food and liquid at life's end.",
-    "hi": ["Sallekhana (सल्लेखना)"]
-  },
-  "05-049": {
-    "r": "Ikshvakus of South India (3rd-4th century) followed Vedic religion but supported Buddhism → statement 1 wrong; Palas of Bengal patronised Buddhism → 2 correct."
-  },
-  "05-050": {
-    "r": "Ajivika sect → founded (popularised) by Makkhali Gosala, an early disciple of Mahavira; belief 'Niyativad': fate decides everything, man is helpless.",
-    "hi": ["Fatalism (नियतिवाद)"]
-  },
-  "05-054": {
-    "r": "Ajivikas → believed in determinism (fate) and austerity; the order of rebirth cannot be changed → 1 and 3 correct."
-  },
-  "05-055": {
-    "r": "Ajivikas → nude wandering ascetics who begged in towns and lived in rock-cut caves (Barabar), not forest dwellers; respected in the Maurya era → only II."
-  },
-  "05-056": {
-    "r": "Ajivikas: Makkhali Gosala the chief leader; central idea Niyati (fate); held regular sabhas; they rejected caste discrimination (C wrong) → A, B, D."
-  },
-  "05-057": {
-    "r": "Souls exist also in rocks, running water and other natural objects (soul in every particle) → Jainism."
-  },
-  "05-058": {
-    "r": "Lakulisa → Pashupata; Nagarjuna → Sunyavada; Bhadrabahu → Jain; Gosala → Ajivika."
-  },
-  "05-059": {
-    "r": "Barabar caves → shelters for Ajivikas, cut under Ashoka and his grandson Dasaratha (also Nagarjuni hills)."
-  },
-  "05-060": {
-    "r": "Kaushambi (U.P.) → pilgrimage for both Buddhists and Jains; Nicakshu shifted the capital there from flood-hit Hastinapur."
-  },
-  "05-061": {
-    "r": "Wrong: Gomateshwara (Sravanabelagola) is Bahubali, son of first Tirthankara Rishabhnath, not the last Tirthankara. True: Tawang has India's largest monastery; Khajuraho by Chandelas."
-  },
-  "05-062": {
-    "r": "Gommateshwara (Bahubali) statue at Sravanabelagola → built by Chamundraya, minister of Ganga ruler Rachmalla-IV, about 981 A.D."
-  },
-  "05-063": {
-    "r": "Mahamastakabhisheka → Bahubali (Gomateshwara) statue at Shravanabelagola, Karnataka; held every twelve years; statue 18 metres high."
-  },
-  "06-001": {
-    "r": "Four yugas in order → Krita, Treta, Dvapara, Kali.",
-    "hi": ["Yuga (युग)"]
-  },
-  "06-002": {
-    "r": "Mattamayura → Shaiva sect of ancient India, known from Chedi dynasty inscriptions."
-  },
-  "06-003": {
-    "r": "Ardhanarishvara (half Shiva, half Parvati) → union of God with his Shakti (masculine and feminine energies)."
-  },
-  "06-004": {
-    "r": "Nayanars → Tamil devotees of Shiva (Shaiva); Alvars → Tamil devotees of Vishnu.",
-    "h": "N-S, A-V: Nayanar–Shiva, Alvar–Vishnu."
-  },
-  "06-006": {
-    "r": "Not an Alvar saint → Tirugyan. Alvars: Poigai, Pudam, Thirumangai."
-  },
-  "06-007": {
-    "r": "Only woman among the 12 Alvar saints (Vaishnavism, Tamil Nadu) → Andal."
-  },
-  "06-008": {
-    "r": "Bhagavata (Vaishnava) religion peaked under the Guptas: state religion; kings titled 'Parambhagavata'; Garuda (Vishnu's mount) was the state symbol."
-  },
-  "06-009": {
-    "r": "Originator of Bhagavata religion → Krishna (Vasudeva, Vrishni/Satvat clan, Mathura); Chhandogya Upanishad calls him son of Devaki, disciple of Ghor Angirasa."
-  },
-  "06-011": {
-    "r": "First worshippers of Vasudeva Krishna → Bhagavatas (called Vasudevak in Panini's age)."
-  },
-  "06-012": {
-    "r": "Deity shown holding a plough → Balarama (Haldhar), Krishna's brother."
-  },
-  "06-013": {
-    "r": "Forms of bhakti in the Bhagavata cult → 9 (Navadha Bhakti), for attaining Moksha.",
-    "hi": ["Navadha Bhakti (नवधा भक्ति)"]
-  },
-  "06-014": {
-    "r": "Heliodorus' Garuda pillar, Besnagar (Vidisha) → only Vasudeva ('Devadeva'); earliest epigraphic evidence of Bhagavatism; Heliodorus was a Yavana envoy from Taxila."
-  },
-  "06-018": {
-    "r": "Vishnu's incarnation saving the Earth from the sea → Varaha; killed demon Hiranyaksha and rose from the sea balancing Earth on his teeth."
-  },
-  "06-019": {
-    "r": "Astika vs Nastika systems → belief in the authority of the Vedas (Astika accept it, Nastika reject it).",
-    "hi": ["Astika / Nastika (आस्तिक / नास्तिक)"]
-  },
-  "06-020": {
-    "r": "Equal weight to Jnana, Karma and Bhakti for liberation → Bhagavad Gita. Advaita (Shankara) → Brahma the only truth; Mimamsa → only Karma."
-  },
-  "06-021": {
-    "r": "Main teaching of the Gita → Nishkama Karma Yoga (acting unselfishly, without expecting reward).",
-    "hi": ["Selfless action (निष्काम कर्म)"]
-  },
-  "06-022": {
-    "r": "'Ananga' (incorporeal) → Kama (Kamadeva), god of love; wife Rati; other names Kandarpa, Madana, Manmatha."
-  },
-  "06-023": {
-    "r": "Prasthanatrayi of Vedanta → Upanishads, Brahmasutra, Bhagavad Gita; Bhagavata is not included.",
-    "hi": ["Prasthanatrayi (प्रस्थानत्रयी)"]
-  },
-  "06-024": {
-    "r": "Mahabharata narrated before 60,000 hermits → Naimisharanya (Sitapur, U.P.), by Sut Goswami to Saunak; earlier Vaisampayana told it to Janamejaya."
-  },
-  "06-025": {
-    "r": "First meeting of Rama and Hanuman → Kishkindha Kand (fourth of seven Kands of Valmiki's Ramayana); also Bali's death, Sugriva crowned."
-  },
-  "06-026": {
-    "r": "Kalika Purana (Kali/Sati Purana) → Shaktism upapurana, likely composed in Assam; attributed to sage Markandeya."
-  },
-  "06-027": {
-    "r": "Shiva → trident; Vishnu → chakra; Ganesh → rope or noose; Saraswati → veena."
-  },
-  "06-028": {
-    "r": "Rathyatra at Puri (Odisha), Ashadha Shukla Paksha → Lord Jagannath (Krishna) with Balbhadra and Subhadra."
-  },
-  "06-029": {
-    "r": "Kumbh Mela, every twelve years: Nasik → Godavari; Haridwar → Ganga; Prayag → Ganga-Yamuna confluence; Ujjain → Kshipra."
-  },
-  "06-030": {
-    "r": "Nathpanthis, Siddhas and Yogis → made devotional religion popular in Northern India; criticised rituals and social order; urged renunciation."
-  },
-  "06-031": {
-    "r": "Holy places: Jainism → Pavapuri; Hinduism → Varanasi; Islam → Medina; Christianity → Vatican."
-  },
-  "07-001": {
-    "r": "Earliest extant coins of India → silver punch-marked (Aahat) coins.",
-    "hi": ["Punch-marked coins (आहत सिक्के)"]
-  },
-  "07-002": {
-    "r": "Wrong pair: Koshala's capitals were Saket and Shravasti, not Ahichchhatra. Correct: Anga-Champa, Vatsa-Kaushambi, Matsya-Viratnagar."
-  },
-  "07-003": {
-    "r": "Pradyot → Avanti; Udayan → Vatsa; Prasenjit → Koshala; Ajatshatru → Magadha."
-  },
-  "07-004": {
-    "r": "Chand Pradyota → ruler of Avanti (Ujjain); contemporary of Buddha and Bimbisara; Bimbisara sent physician Jivak to treat his jaundice."
-  },
-  "07-005": {
-    "r": "Canal dug under a Nanda king (Mahapadmananda) → Kalinga; known from the Hathigumpha inscription."
-  },
-  "07-006": {
-    "r": "Ancient name of Ujjain (Malwa) → Avantika; one of the two capitals of Avanti, one of the 16 Mahajanapadas."
-  },
-  "07-007": {
-    "r": "Map of Mahajanapadas A-D → Matsya (capital Viratnagar, Rajasthan), Avanti (Ujjayini, Mahishmati), Vatsa (Prayagraj-Kaushambi), Anga.",
-    "hi": ["Mahajanapada (महाजनपद)"]
-  },
-  "07-008": {
-    "r": "City named in both Mahabharata and Mahabhashya → Madhyamika (Nagari) and Viratnagar (Bairat; capital of Matsya, founded by King Virat).",
-    "c": "No answer printed; two options (Madhyamika, Viratnagar) fit."
-  },
-  "07-009": {
-    "r": "Pataliputra → founded by Ajatashatru (Bimbisara's successor); Udayin shifted Magadha's capital from Rajgriha to Pataliputra.",
-    "c": "No answer printed; the book's founder, Ajatashatru, is not among the options."
-  },
-  "07-010": {
-    "r": "Ancient Pataliputra (Patna) → Ganga to the north, Son to the west."
-  },
-  "07-011": {
-    "r": "Pataliputra: founded by Ajatashatru (Haryanka); Udayin first made it capital; among these options → Chandragupta Maurya.",
-    "t": "Udayin is the true first; choose Chandragupta Maurya only if Udayin is absent."
-  },
-  "07-014": {
-    "r": "Area south of the Ganga in ancient times → Magadha (so 'none of the above'); Takshashila → between Indus and Jhelum."
-  },
-  "07-015": {
-    "r": "Udayan-Vasavadatta legend → Ujjain; Bhasa's drama 'Svapnavasavadattam': Vatsa king Udayan and Vasavadatta, daughter of Avanti king Pradyot."
-  },
-  "07-016": {
-    "r": "First Magadhan empire → sixth century B.C.; founder Bimbisara (about 544-492 B.C.) of the Haryanka dynasty."
-  }
+ "05-045": {
+  "r": "Correct: Buddha's mother → Koliyan princess; Parshvanatha (twenty-third Tirthankara) → Banaras. Wrong: Mahavira's mother Trishala was Chetaka's sister, not his daughter.",
+  "t": "Trishala = Chetaka's sister; Chellana (Bimbisara's wife) = Chetaka's daughter."
+ },
+ "05-046": {
+  "r": "Correct: Kalinga king Kharavela patronised Jainism (first century BC). Bhadrabahu (not Sthulabhadra) spread Jainism in South India; his followers → Digambaras."
+ },
+ "05-047": {
+  "r": "Jain doctrine: every object, even the smallest particle, has a soul; karma is the bane of the soul and must end; penance destroys karma → all three."
+ },
+ "05-048": {
+  "r": "Samadhi Maran (Sallekhana, Sanyasna Maran) → Jain last vow: gradually giving up food and liquid at life's end.",
+  "hi": [
+   "Sallekhana (सल्लेखना)"
+  ]
+ },
+ "05-049": {
+  "r": "Ikshvakus of South India (3rd-4th century) followed Vedic religion but supported Buddhism → statement 1 wrong; Palas of Bengal patronised Buddhism → 2 correct."
+ },
+ "05-050": {
+  "r": "Ajivika sect → founded (popularised) by Makkhali Gosala, an early disciple of Mahavira; belief 'Niyativad': fate decides everything, man is helpless.",
+  "hi": [
+   "Fatalism (नियतिवाद)"
+  ]
+ },
+ "05-054": {
+  "r": "Ajivikas → believed in determinism (fate) and austerity; the order of rebirth cannot be changed → 1 and 3 correct."
+ },
+ "05-055": {
+  "r": "Ajivikas → nude wandering ascetics who begged in towns and lived in rock-cut caves (Barabar), not forest dwellers; respected in the Maurya era → only II."
+ },
+ "05-056": {
+  "r": "Ajivikas: Makkhali Gosala the chief leader; central idea Niyati (fate); held regular sabhas; they rejected caste discrimination (C wrong) → A, B, D."
+ },
+ "05-057": {
+  "r": "Souls exist also in rocks, running water and other natural objects (soul in every particle) → Jainism."
+ },
+ "05-058": {
+  "r": "Lakulisa → Pashupata; Nagarjuna → Sunyavada; Bhadrabahu → Jain; Gosala → Ajivika."
+ },
+ "05-059": {
+  "r": "Barabar caves → shelters for Ajivikas, cut under Ashoka and his grandson Dasaratha (also Nagarjuni hills)."
+ },
+ "05-060": {
+  "r": "Kaushambi (U.P.) → pilgrimage for both Buddhists and Jains; Nicakshu shifted the capital there from flood-hit Hastinapur."
+ },
+ "05-061": {
+  "r": "Wrong: Gomateshwara (Sravanabelagola) is Bahubali, son of first Tirthankara Rishabhnath, not the last Tirthankara. True: Tawang has India's largest monastery; Khajuraho by Chandelas."
+ },
+ "05-062": {
+  "r": "Gommateshwara (Bahubali) statue at Sravanabelagola → built by Chamundraya, minister of Ganga ruler Rachmalla-IV, about 981 A.D."
+ },
+ "05-063": {
+  "r": "Mahamastakabhisheka → Bahubali (Gomateshwara) statue at Shravanabelagola, Karnataka; held every twelve years; statue 18 metres high."
+ },
+ "06-001": {
+  "r": "Four yugas in order → Krita, Treta, Dvapara, Kali.",
+  "hi": [
+   "Yuga (युग)"
+  ]
+ },
+ "06-002": {
+  "r": "Mattamayura → Shaiva sect of ancient India, known from Chedi dynasty inscriptions."
+ },
+ "06-003": {
+  "r": "Ardhanarishvara (half Shiva, half Parvati) → union of God with his Shakti (masculine and feminine energies)."
+ },
+ "06-004": {
+  "r": "Nayanars → Tamil devotees of Shiva (Shaiva); Alvars → Tamil devotees of Vishnu.",
+  "h": "N-S, A-V: Nayanar–Shiva, Alvar–Vishnu."
+ },
+ "06-006": {
+  "r": "Not an Alvar saint → Tirugyan. Alvars: Poigai, Pudam, Thirumangai."
+ },
+ "06-007": {
+  "r": "Only woman among the 12 Alvar saints (Vaishnavism, Tamil Nadu) → Andal."
+ },
+ "06-008": {
+  "r": "Bhagavata (Vaishnava) religion peaked under the Guptas: state religion; kings titled 'Parambhagavata'; Garuda (Vishnu's mount) was the state symbol."
+ },
+ "06-009": {
+  "r": "Originator of Bhagavata religion → Krishna (Vasudeva, Vrishni/Satvat clan, Mathura); Chhandogya Upanishad calls him son of Devaki, disciple of Ghor Angirasa."
+ },
+ "06-011": {
+  "r": "First worshippers of Vasudeva Krishna → Bhagavatas (called Vasudevak in Panini's age)."
+ },
+ "06-012": {
+  "r": "Deity shown holding a plough → Balarama (Haldhar), Krishna's brother."
+ },
+ "06-013": {
+  "r": "Forms of bhakti in the Bhagavata cult → 9 (Navadha Bhakti), for attaining Moksha.",
+  "hi": [
+   "Navadha Bhakti (नवधा भक्ति)"
+  ]
+ },
+ "06-014": {
+  "r": "Heliodorus' Garuda pillar, Besnagar (Vidisha) → only Vasudeva ('Devadeva'); earliest epigraphic evidence of Bhagavatism; Heliodorus was a Yavana envoy from Taxila."
+ },
+ "06-018": {
+  "r": "Vishnu's incarnation saving the Earth from the sea → Varaha; killed demon Hiranyaksha and rose from the sea balancing Earth on his teeth."
+ },
+ "06-019": {
+  "r": "Astika vs Nastika systems → belief in the authority of the Vedas (Astika accept it, Nastika reject it).",
+  "hi": [
+   "Astika / Nastika (आस्तिक / नास्तिक)"
+  ]
+ },
+ "06-020": {
+  "r": "Equal weight to Jnana, Karma and Bhakti for liberation → Bhagavad Gita. Advaita (Shankara) → Brahma the only truth; Mimamsa → only Karma."
+ },
+ "06-021": {
+  "r": "Main teaching of the Gita → Nishkama Karma Yoga (acting unselfishly, without expecting reward).",
+  "hi": [
+   "Selfless action (निष्काम कर्म)"
+  ]
+ },
+ "06-022": {
+  "r": "'Ananga' (incorporeal) → Kama (Kamadeva), god of love; wife Rati; other names Kandarpa, Madana, Manmatha."
+ },
+ "06-023": {
+  "r": "Prasthanatrayi of Vedanta → Upanishads, Brahmasutra, Bhagavad Gita; Bhagavata is not included.",
+  "hi": [
+   "Prasthanatrayi (प्रस्थानत्रयी)"
+  ]
+ },
+ "06-024": {
+  "r": "Mahabharata narrated before 60,000 hermits → Naimisharanya (Sitapur, U.P.), by Sut Goswami to Saunak; earlier Vaisampayana told it to Janamejaya."
+ },
+ "06-025": {
+  "r": "First meeting of Rama and Hanuman → Kishkindha Kand (fourth of seven Kands of Valmiki's Ramayana); also Bali's death, Sugriva crowned."
+ },
+ "06-026": {
+  "r": "Kalika Purana (Kali/Sati Purana) → Shaktism upapurana, likely composed in Assam; attributed to sage Markandeya."
+ },
+ "06-027": {
+  "r": "Shiva → trident; Vishnu → chakra; Ganesh → rope or noose; Saraswati → veena."
+ },
+ "06-028": {
+  "r": "Rathyatra at Puri (Odisha), Ashadha Shukla Paksha → Lord Jagannath (Krishna) with Balbhadra and Subhadra."
+ },
+ "06-029": {
+  "r": "Kumbh Mela, every twelve years: Nasik → Godavari; Haridwar → Ganga; Prayag → Ganga-Yamuna confluence; Ujjain → Kshipra."
+ },
+ "06-030": {
+  "r": "Nathpanthis, Siddhas and Yogis → made devotional religion popular in Northern India; criticised rituals and social order; urged renunciation."
+ },
+ "06-031": {
+  "r": "Holy places: Jainism → Pavapuri; Hinduism → Varanasi; Islam → Medina; Christianity → Vatican."
+ },
+ "07-001": {
+  "r": "Earliest extant coins of India → silver punch-marked (Aahat) coins.",
+  "hi": [
+   "Punch-marked coins (आहत सिक्के)"
+  ]
+ },
+ "07-002": {
+  "r": "Wrong pair: Koshala's capitals were Saket and Shravasti, not Ahichchhatra. Correct: Anga-Champa, Vatsa-Kaushambi, Matsya-Viratnagar."
+ },
+ "07-003": {
+  "r": "Pradyot → Avanti; Udayan → Vatsa; Prasenjit → Koshala; Ajatshatru → Magadha."
+ },
+ "07-004": {
+  "r": "Chand Pradyota → ruler of Avanti (Ujjain); contemporary of Buddha and Bimbisara; Bimbisara sent physician Jivak to treat his jaundice."
+ },
+ "07-005": {
+  "r": "Canal dug under a Nanda king (Mahapadmananda) → Kalinga; known from the Hathigumpha inscription."
+ },
+ "07-006": {
+  "r": "Ancient name of Ujjain (Malwa) → Avantika; one of the two capitals of Avanti, one of the 16 Mahajanapadas."
+ },
+ "07-007": {
+  "r": "Map of Mahajanapadas A-D → Matsya (capital Viratnagar, Rajasthan), Avanti (Ujjayini, Mahishmati), Vatsa (Prayagraj-Kaushambi), Anga.",
+  "hi": [
+   "Mahajanapada (महाजनपद)"
+  ]
+ },
+ "07-008": {
+  "r": "City named in both Mahabharata and Mahabhashya → Madhyamika (Nagari) and Viratnagar (Bairat; capital of Matsya, founded by King Virat).",
+  "c": "No answer printed; two options (Madhyamika, Viratnagar) fit."
+ },
+ "07-009": {
+  "r": "Ajatashatru (Bimbisara's successor) fortified Pataligrama; his successor Udayin founded the city of Pataliputra and shifted Magadha's capital there from Rajgriha.",
+  "c": "Ajatashatru only fortified Pataligrama; Udayin is usually credited with founding the city of Pataliputra and moving the capital there, so (a) Udayin is the standard answer."
+ },
+ "07-010": {
+  "r": "Ancient Pataliputra (Patna) → Ganga to the north, Son to the west."
+ },
+ "07-011": {
+  "r": "Pataliputra: founded by Ajatashatru (Haryanka); Udayin first made it capital; among these options → Chandragupta Maurya.",
+  "t": "Udayin is the true first; choose Chandragupta Maurya only if Udayin is absent."
+ },
+ "07-014": {
+  "r": "Area south of the Ganga in ancient times → Magadha (so 'none of the above'); Takshashila → between Indus and Jhelum."
+ },
+ "07-015": {
+  "r": "Udayan-Vasavadatta legend → Ujjain; Bhasa's drama 'Svapnavasavadattam': Vatsa king Udayan and Vasavadatta, daughter of Avanti king Pradyot."
+ },
+ "07-016": {
+  "r": "First Magadhan empire → sixth century B.C.; founder Bimbisara (about 544-492 B.C.) of the Haryanka dynasty."
+ }
 }

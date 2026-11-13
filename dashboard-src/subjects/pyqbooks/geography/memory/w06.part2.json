@@ -1,0 +1,428 @@
+{
+  "112-013": {
+    "r": "Mauna Loa (Hawaii, US) → world's largest volcano; erupted in 2022, first time in 38 years. Name means 'Long Mountain'; above-sea part extends about 120 km."
+  },
+  "112-014": {
+    "r": "Active volcanoes → Cotopaxi (Ecuador), Etna (Italy), Fujiyama (Japan). Aconcagua (Argentina, near Chile) is a volcanic mountain but not an active volcano."
+  },
+  "112-015": {
+    "r": "Active volcanoes → Etna (Sicily, Italy) and Vesuvius (near Naples). Kilimanjaro (Tanzania, Africa's highest peak) is dormant; Aconcagua is non-volcanic.",
+    "hi": ["Dormant volcano (प्रसुप्त ज्वालामुखी)"]
+  },
+  "112-017": {
+    "r": "Kilimanjaro → volcano in north-eastern Tanzania, Africa's highest mountain; three cones Kibo, Mawenzi, Shira; top is Uhuru peak on Kibo (earlier Kaiser-Wilhelm-Spitze)."
+  },
+  "112-018": {
+    "r": "'Lighthouse of the Mediterranean' → Stromboli, on Stromboli island north of Sicily (Italy); its continuous gaseous eruptions light up the area."
+  },
+  "112-019": {
+    "r": "Arctic region → near the North Pole; Antarctica (fifth largest continent, fully ice-covered) → contains the South Pole. Also asked: Stromboli is an active volcano."
+  },
+  "112-021": {
+    "r": "Most active volcano → Kilauea (Hawaii Island, USA); next Etna (Italy), then Piton de la Fournaise and Nyamuragira."
+  },
+  "112-022": {
+    "r": "Etna → Sicily; Vesuvius → Italy (Bay of Naples); Erebus → Ross Island (Antarctica); Cotopaxi → Ecuador (Andes)."
+  },
+  "112-023": {
+    "r": "Mount Rainier → U.S.A.; Etna → Italy; Paricutin → Mexico; Taal → Philippines."
+  },
+  "112-024": {
+    "r": "Mount Kinabalu → Malaysia; Elburz → Iran; Aconcagua → Argentina; Kilimanjaro → Tanzania."
+  },
+  "112-025": {
+    "r": "Sabancaya → Peru; Mount Etna → Italy; Colima → Mexico; Merapi → Indonesia."
+  },
+  "112-026": {
+    "r": "Indonesia (book's figures) → more than 17,000 islands; about 150 volcanoes in total, of which about 80 are active.",
+    "c": "The book prints (b) Only 2, but its own figures (over 17,000 islands; about 80 active volcanoes) make statement 1 true and statement 2 false."
+  },
+  "112-027": {
+    "r": "Karakatoa (Krakatau) volcano → in the Sunda Strait between Java and Sumatra, Indonesia."
+  },
+  "112-028": {
+    "r": "Mount Rainier → U.S.A.; Mount Etna → Italy; Mount Paricutin → Mexico; Mount Apo → Philippines."
+  },
+  "113-001": {
+    "r": "Plate tectonics → developed in the late 1960s by many (Wilson, Morgan, Parker, McKenzie, Harry Hess), so 'given by H.H. Hess in 1967' is false; it rests on sea-floor spreading.",
+    "hi": ["Sea floor spreading (सागर नितल प्रसरण)"]
+  },
+  "113-002": {
+    "r": "Earthquake waves → P (primary, fastest) and S (secondary), both body waves, plus L (surface waves: Love and Rayleigh). So 'P.S.L.'",
+    "hi": ["Seismic waves (भूकंपीय तरंगें)"]
+  },
+  "113-003": {
+    "r": "Each earthquake has its own, different shadow zone (I true). II false: beyond 105° P waves have a shadow band and S waves are stopped by the liquid outer core."
+  },
+  "113-004": {
+    "r": "'Ring of Fire' → Pacific Ocean belt of volcanoes and earthquakes (about 90% of world's earthquakes): Chile, California, Alaska, Japan, Philippines, New Zealand. Not forest fires."
+  },
+  "113-005": {
+    "r": "Richter scale (Charles Richter, 1935) → logarithmic, base 10: +1 magnitude = 10 times amplitude and 32 times energy, not 100. Only statement 1 true."
+  },
+  "113-006": {
+    "r": "Intensity → Mercalli scale; magnitude → energy released, depends on wave amplitude. Each Richter step = 32 times energy, not 100. Statements 1, 2, 3 true.",
+    "t": "Mercalli scale measures intensity; Richter scale measures magnitude."
+  },
+  "113-007": {
+    "r": "Richter scale → measures earthquakes; strictly it gives magnitude, while intensity is on the Mercalli scale. The book accepts 'intensity of earthquake' as the closest option."
+  },
+  "113-009": {
+    "r": "Seismometer → records earthquakes; crescograph → growth of plants; cardiogram → heartbeat."
+  },
+  "113-010": {
+    "r": "Seismograph → instrument that detects and records seismic waves; seismometer is its sensing part (often a synonym); seismogram is the recording made.",
+    "hi": ["Seismograph (भूकंपलेखी)"]
+  },
+  "113-011": {
+    "r": "'Tsunami' → Japanese word: 'tsu' = harbour, 'nami' = wave ('harbour wave'); high waves caused by earthquakes.",
+    "hi": ["Tsunami (सुनामी)"]
+  },
+  "113-012": {
+    "r": "Wrong statement → 'killed more than 50 lakh'. The 26 December 2004 Indian Ocean tsunami (off Sumatra, Indonesia) killed about 2-3 lakh people."
+  },
+  "113-013": {
+    "r": "Fukushima (Japan) → 11 March 2011 earthquake (magnitude 9.0) and tsunami damaged nuclear power plants, leaking radiation."
+  },
+  "113-014": {
+    "r": "North-West Indian subcontinent is earthquake-prone → plate tectonic activity: convergence of the Indian and Eurasian plates."
+  },
+  "113-015": {
+    "r": "Epicentre → place on the surface where seismic waves are first recorded; focus → point inside the Earth where energy is released.",
+    "t": "Focus is the underground origin; epicentre is the surface point above it.",
+    "hi": ["Epicentre (अधिकेंद्र)"]
+  },
+  "113-016": {
+    "r": "Cocos Plate → lies between Central America and the Pacific Plate."
+  },
+  "114-001": {
+    "r": "Most countries → Africa (54); then Europe 49, Asia 48, North America 23, Oceania 14, South America 12."
+  },
+  "114-003": {
+    "r": "Largest continent → Asia (44,568,500 sq km); among the options, Africa (30,065,000). Order: Asia, Africa, North America, South America, Antarctica, Europe, Australia."
+  },
+  "114-004": {
+    "r": "Guyana → South America (capital George Town), not Africa; Gabon, Guinea, Guinea-Bissau are African. Area order: Africa > South America > Europe > Australia.",
+    "t": "Don't confuse Guyana (South America) with Guinea or Guinea-Bissau (West Africa)."
+  },
+  "114-006": {
+    "r": "Continents by area (descending): Asia, Africa, North America, … Europe, Australia. Smallest → Australia; two smallest → Australia and Europe."
+  },
+  "114-009": {
+    "r": "Share of Earth's land (Philip's Atlas): Asia 29.8%, Africa 20.3%, North America 16.2%, South America 11.8%, Antarctica 9.2%, Europe 6.8%, Australia 5.9%."
+  },
+  "114-010": {
+    "r": "Maximum per capita land → Australia (World Bank data)."
+  },
+  "114-011": {
+    "r": "Highest mean elevation → Antarctica (about 2300 m); Asia 923 m, North America 760 m, Africa 585 m, South America 554 m, Australia 330 m, Europe 302 m."
+  },
+  "114-012": {
+    "r": "South America map: 1 → Andes, 2 → Brazilian Shield, 3 → Guiana Highland, 4 → Amazon Basin."
+  },
+  "114-013": {
+    "r": "Correct pair → Atlas Mountains: North-Western Africa. Abyssinian Plateau → East Africa; Guiana Highlands → northern South America; Okavango Basin → South-Western Africa."
+  },
+  "114-014": {
+    "r": "Highest percentage of plains in total area → Europe (South America also has large plains)."
+  },
+  "114-015": {
+    "r": "Aconcagua → South America; Meseta → Europe; Serengeti Plains → Africa; Gibson Desert → Australia."
+  },
+  "114-016": {
+    "r": "Guyana → northern South America (only South American nation with English as official language), not Africa. Gabon (Libreville), Guinea (Conakry), Guinea-Bissau (Bissau) are African."
+  },
+  "114-017": {
+    "r": "Not Australian → Salween (Salvin) Valley, in the Arunachal Pradesh region of India. Australian: Lake Eyre basin (largest internal drainage), Nullarbor Plain (south coast), Mount Selwyn."
+  },
+  "115-001": {
+    "r": "West to East: Pontic (Turkiye, south of the Black Sea) → Zagros (Iran) → Hindu Kush → Karakoram. From the Pamir knot, Hindu Kush runs west, Karakoram east."
+  },
+  "115-002": {
+    "r": "Darling Range → South-Western coast of Australia (Western Australia)."
+  },
+  "115-003": {
+    "r": "'Sea of Mountains' → British Columbia; name from Molyneux St. John's book on Lord Dufferin's 1876 tour through British Columbia."
+  },
+  "115-004": {
+    "r": "World's highest peaks (e.g. Mount Everest in the Himalayas) → mostly in young folded mountains.",
+    "hi": ["Young folded mountains (नवीन वलित पर्वत)"]
+  },
+  "115-005": {
+    "r": "Longest mountain range → Andes (7000–8900 km, along South America's west coast); Rockies over 4800 km; Himalayas about 2500 km."
+  },
+  "115-006": {
+    "r": "Oldest mountains of South America → Pacaraima (Guiana Highlands): tepui plateaus about 1.8 billion years old (Precambrian), crystalline block mountains."
+  },
+  "115-007": {
+    "r": "Not a young folded mountain → Sierra Nevada (block mountain, California, USA); Rocky, Himalaya, Alps are young folded. Andes → South America."
+  },
+  "115-010": {
+    "r": "Longest range → Andes (7000–8900 km); Rocky 4800 km; Himalaya 2500 km; Alps 1200 km (Europe's longest)."
+  },
+  "115-011": {
+    "r": "Longest surface mountain range → Andes, on South America's west (Pacific) coast. Of Bolivia, Brazil, Colombia, Ecuador, Paraguay, Venezuela, it crosses only four."
+  },
+  "115-013": {
+    "r": "Andes → along the entire west coast of South America, through seven countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina.",
+    "h": "'Very Cold Evenings Push Brave Climbers Away' = Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina."
+  },
+  "115-014": {
+    "r": "Southern Alps → South Island of New Zealand (west side); highest peak Aoraki/Mount Cook, 3724 m."
+  },
+  "115-015": {
+    "r": "Lengths (book's data): Andes 7000–8900 km > Rocky 4800 > Great Dividing Range 3700 > Himalaya 2500. Book takes (b) Andes, Rocky, Himalaya, Great Dividing as nearest.",
+    "c": "The book prints (b) only as the 'nearest' option; its own figures put the Great Dividing Range (3700 km) ahead of the Himalaya (2500 km)."
+  },
+  "115-016": {
+    "r": "Alps → France, Austria, Germany, Switzerland, just north of the Mediterranean; not England. Highest peak Mont Blanc (4,807 m); young folded mountains."
+  },
+  "115-018": {
+    "r": "Andes → South America; Altai → Asia; Alps → Europe; Appalachian → North America."
+  },
+  "115-019": {
+    "r": "White Mountains → New Hampshire and Maine states, U.S.A."
+  },
+  "115-020": {
+    "r": "India–Myanmar boundary → Arakan Yoma range (Himalayan extension in western Myanmar; hills Naga, Chin, Lushai, Patkoi). Khasi Hills (Meghalaya) are not on it, so 'None of the above'."
+  },
+  "115-022": {
+    "r": "Black Forest → block mountain in Germany; the Vosges (France) are another block mountain.",
+    "hi": ["Block mountain (भ्रंशोत्थ पर्वत)"]
+  },
+  "115-023": {
+    "r": "Black Forest → mountain range in Germany; highest peak Feldberg (1493 m)."
+  },
+  "115-024": {
+    "r": "Along the Rhine → Black Forest on its east, Vosges on its west. Rhine rises in the Swiss Alps, flows to the North Sea; Bonn and Cologne lie on it."
+  },
+  "115-025": {
+    "r": "Black Mountains → North Carolina, U.S.A.; part of the Appalachian Mountains."
+  },
+  "115-026": {
+    "r": "Odd one out → Appalachian: old mountains of the Caledonian period. Alps, Andes, Himalayas (also Rocky, Atlas) are Tertiary (Alpine) folded mountains."
+  },
+  "115-028": {
+    "r": "Not old folded → Andes (young folded, like Rocky, Alps, Himalaya). Ural, Aravalli and Appalachian are old folded mountains."
+  },
+  "115-029": {
+    "r": "Correct rows: Appalachians (North America) fold; Andes (South America) fold. Wrong: Vosges are block mountains of Europe; Alps are fold mountains. Only two correct."
+  },
+  "115-030": {
+    "r": "Pennines (Europe), Appalachians (North America), Aravallis (India) → old mountains: stopped growing once plate movement stopped.",
+    "hi": ["Old fold mountains (प्राचीन वलित पर्वत)"]
+  },
+  "115-031": {
+    "r": "Drakensberg → range mainly in South Africa and Lesotho; highest peak Thabana Ntlenyana (3482 m, Lesotho)."
+  },
+  "115-032": {
+    "r": "Atlas Mountains → Africa (across Morocco, Algeria and Tunisia)."
+  },
+  "115-033": {
+    "r": "Atlas Mountains (Africa) → about 2400 km through Morocco, Algeria, Tunisia; five ranges separating Mediterranean climate from the Sahara."
+  },
+  "115-034": {
+    "r": "Allegheny → U.S.A.; Cantabrian → Spain; Elburz → Iran; Mackenzie → Canada."
+  },
+  "115-035": {
+    "r": "Kosciuszko (2228 m) → Australia; McKinley (6190 m) → North America; Elbrus (5642 m) → Europe, not Asia; Kilimanjaro (5895 m) → Africa."
+  },
+  "115-037": {
+    "r": "Kilimanjaro → Tanzania; Toubkal → Morocco; Stanley → Uganda; Hoggar → Algeria."
+  },
+  "115-038": {
+    "r": "Alps → folded mountain; Vosges → block mountain; Vindhya → residual mountain; Fujiyama → volcanic mountain.",
+    "hi": ["Residual mountain (अवशिष्ट पर्वत)"]
+  },
+  "115-039": {
+    "r": "Mount Titlis → Switzerland (Black Forest → Germany; Rocky → North America)."
+  },
+  "115-040": {
+    "r": "Apennine → Italy (about 1350 km; highest peak Corno Grande, 2914 m). Pyrenees → France–Spain; Jura → France–Switzerland; Dinaric Alps → Balkan countries."
+  },
+  "115-041": {
+    "r": "Spain–France boundary → Pyrenees, from the Bay of Biscay to the Mediterranean Sea."
+  },
+  "115-042": {
+    "r": "Spain–France → Pyrenees; Switzerland → Alps (highest Mont Blanc, about 4807 m); Bulgaria → Balkan; Italy → Apennine."
+  },
+  "115-045": {
+    "r": "Golan Heights → Middle East: a rocky plateau in south-west Syria, occupied by Israel in the 1967 war."
+  },
+  "115-046": {
+    "r": "Basic landform → volcanic cone (ejecta, lava and ash piled around a vent, with a central crater); residual mountain, monadnock, erosional waterfall come from erosion."
+  },
+  "115-047": {
+    "r": "Elbrus → Russia (Europe's highest, 5642 m); Kilimanjaro → Tanzania (5895 m); Mt. Cook → New Zealand (3,724 m); McKinley (Denali) → U.S.A. (6190 m)."
+  },
+  "115-048": {
+    "r": "Atlas → Morocco; Kilimanjaro → Tanzania; Chimborazo → Ecuador; Pyrenees → France/Spain."
+  },
+  "115-049": {
+    "r": "Taurus Mountains → along the Mediterranean coast of Asia Minor (Turkey); southern boundary of the Anatolian plateau."
+  },
+  "115-050": {
+    "r": "Epeirogenic forces (endogenic) → vertical earth movements: uplift/emergence and subsidence/sinking of large parts of the crust.",
+    "t": "Don't confuse with orogenic forces, which build mountains by folding."
+  },
+  "116-001": {
+    "r": "Tibetan (Qinghai-Tibetan) Plateau → average elevation over 4500 m (nearest option 5 km); area about 2.5 million sq km."
+  },
+  "116-002": {
+    "r": "'Storehouse of minerals' in South America → Patagonia Plateau (book's answer)."
+  },
+  "116-003": {
+    "r": "City on a plateau → Madrid (Meseta Plateau, 610–760 m). Bucharest 55.8 m, Jamnagar 20 m, Singapore 15 m above sea level."
+  },
+  "116-004": {
+    "r": "'Roof of the World' → Pamir Plateau: very high, meeting point of many mountains, southern border of Central Asia."
+  },
+  "116-005": {
+    "r": "Largest plateau of the options → Colorado (150580 sq miles); Columbia 105633, Coconino 5000, Aquarius 900. World's largest → Tibetan Plateau."
+  },
+  "116-006": {
+    "r": "Telegraphic Plateau → part of the North Atlantic Ridge, between Newfoundland and Ireland."
+  },
+  "116-007": {
+    "r": "Wrong pair → Telegraph Plateau – Indian Ocean (it is in the Atlantic). Correct: Cocoa Ridge – Pacific; Walvis Ridge – Atlantic; Agulhas Basin – Indian Ocean."
+  },
+  "117-001": {
+    "r": "Death Valley (California, USA) → a rift valley: linear lowland formed by a geological rift or fault.",
+    "hi": ["Rift valley (भ्रंश घाटी)"]
+  },
+  "117-002": {
+    "r": "'Devil's Golf Course' → large salt pan on the floor of Death Valley (Death Valley National Park, northern Mojave Desert), mainly California, U.S.A."
+  },
+  "117-003": {
+    "r": "Death Valley (California, USA) → known for excessive heat: hottest and most arid valley of the USA; lowest place in North America (–86 m)."
+  },
+  "117-005": {
+    "r": "Panjshir Valley → north-eastern Afghanistan, about 150 km north of Kabul near the Hindu Kush; a main battleground of the Soviet war."
+  },
+  "117-006": {
+    "r": "Silicon Valley → southern San Francisco Bay area, California, U.S.A.; famous for making computer chips."
+  },
+  "117-007": {
+    "r": "Taylor Valley → Antarctica; discovered by Robert Falcon Scott in 1903, who named it 'Valley of the Dead'."
+  },
+  "117-008": {
+    "r": "Great Artesian Basin → Australia; one of the world's largest underground water reservoirs (about 1.7 million sq km), west of the Great Dividing Range.",
+    "hi": ["Artesian basin (उत्स्रुत द्रोणी)"]
+  },
+  "117-009": {
+    "r": "Great Basin → U.S.A., between the Rocky Mountains and Sierra Nevada; Columbia Plateau to the north, Mojave and Sonoran deserts to the south."
+  },
+  "117-010": {
+    "r": "Valley of the Kings (Wadi-el Muluk) → Egypt."
+  },
+  "117-011": {
+    "r": "Blind (steephead) valley → deep, narrow, flat-bottomed valley ending abruptly; found in limestone (Karst) regions."
+  },
+  "117-012": {
+    "r": "Hanging valley → glacial erosion: a tributary glacier's valley is left higher than the main valley, often with a waterfall (e.g. Yosemite Valley, USA).",
+    "hi": ["Hanging valley (लटकती घाटी)"]
+  },
+  "117-013": {
+    "r": "Karst landform → sinkhole (doline): a closed depression, the most common landform in karst (limestone) areas.",
+    "hi": ["Sinkhole (घोल रंध्र)"]
+  },
+  "118-001": {
+    "r": "Most hot deserts → western margins of continents, 15º–30º N and S (Sahara, Kalahari, Atacama), as trade winds turn dry moving west. A and R true, R explains A."
+  },
+  "118-002": {
+    "r": "Deserts → source of perennial energy: in six hours they get more solar energy than mankind uses in a year (Gerhard Knies). A and R true, R explains A."
+  },
+  "118-003": {
+    "r": "Desert → area with annual rainfall less than 25 cm.",
+    "hi": ["Desert (मरुस्थल)"]
+  },
+  "118-004": {
+    "r": "Deserts most likely near the tropics (option 'twenty-three degrees latitude'): high pressure with descending winds, dry trade winds on west coasts, rain shadows, continental interiors."
+  },
+  "118-005": {
+    "r": "Interior Australia is desert/semi-desert (about 70 percent arid or semi-arid): A true. Northern Australia is tropical, not temperate (south is temperate): R false."
+  },
+  "118-006": {
+    "r": "Least desertification → Europe, the only continent without a desert. Desertification (UNCCD) = land degradation in drylands from climate and human activities.",
+    "hi": ["Desertification (मरुस्थलीकरण)"]
+  },
+  "118-007": {
+    "r": "Biggest (non-polar) desert → Sahara, North Africa (about 3.6 million square miles)."
+  },
+  "118-009": {
+    "r": "Most densely populated desert → Thar (83 people per sq km)."
+  },
+  "118-010": {
+    "r": "Takla Makan desert → south-western Xinjiang, north-west China."
+  },
+  "118-011": {
+    "r": "Wrong pair → Gibson – Brazil: Gibson Desert is in Western Australia. Correct: Sonoran – USA; Taklamakan – China; Karakum – Turkmenistan."
+  },
+  "118-012": {
+    "r": "Kara Kum (Kara-Kum) desert → mainly Turkmenistan, with some part in Kazakhstan; the book accepts both."
+  },
+  "118-013": {
+    "r": "Dasht-e-Lut → large salt desert in Iran (Kerman, Sistan and Baluchestan); world's warmest desert per NASA's Aqua satellite (2005)."
+  },
+  "118-014": {
+    "r": "Gobi Desert → southern Mongolia and northern China; surrounded by the Alashan, Tienshan and Altai mountains."
+  },
+  "118-015": {
+    "r": "Gobi (cold desert of Asia) → only Mongolia and China; does not reach Russia or Kazakhstan. Altai Mountains lie to its north-west.",
+    "hi": ["Cold desert (शीत मरुस्थल)"]
+  },
+  "118-016": {
+    "r": "Smallest to largest: Great Sandy (Australia, 284,993 sq km) < Gobi (1,300,000) < Arabian (2,300,000; second largest) < Sahara (8,600,000 sq km)."
+  },
+  "118-017": {
+    "r": "Largest desert of South Asia → Thar ('Great Indian Desert', NW India–SE Pakistan). Atacama → Chile, Peru; Colorado → USA, Mexico; Kalahari → Botswana, Namibia, South Africa."
+  },
+  "118-018": {
+    "r": "Atacama (South America) → driest place on Earth; rich in sodium nitrate and copper; lies in northern Chile and southern Peru, not southern Chile.",
+    "t": "Atacama is in northern Chile, not southern Chile."
+  },
+  "118-021": {
+    "r": "Temperate desert → Patagonian Desert; other temperate deserts: Gobi and Ladakh. Arabian, Atacama and Kalahari are not."
+  },
+  "118-022": {
+    "r": "Tropical deserts → trade wind belt on western sides of continents (1 true). Eastern Himalaya gets more rain from southwest winds of the Bay of Bengal, not north-east (2 false)."
+  },
+  "118-023": {
+    "r": "Kalahari Desert (930000 sq km, interior Southern Africa) → mainly Botswana, parts of Namibia and South Africa."
+  },
+  "118-024": {
+    "r": "Southern Hemisphere desert → Kalahari (Botswana, Namibia, South Africa); name from Tswana 'Kgala' = 'the great thirst'."
+  },
+  "118-025": {
+    "r": "African–Eurasian desert belt → sub-tropical high-pressure cells (1 true); warm ocean currents are not a necessary cause, e.g. the Gobi (2 false)."
+  },
+  "118-026": {
+    "r": "Desert-dwelling animals → xerocoles. Fossorial → digging/underground; arboreal → in trees; terrestrial → on land."
+  },
+  "118-027": {
+    "r": "Great Victoria Desert → Western Australia and South Australia; Australia's largest desert (348,750 sq km)."
+  },
+  "118-028": {
+    "r": "Gobi → Asia; Patagonia → South America; Victoria → Australia; Kalahari → Southern Africa."
+  },
+  "119-001": {
+    "r": "Steppes → Russia; Prairies → U.S.A.; Velds (Welds) → South Africa; Downs → Australia. Tropical grasslands: Savanna (Africa), Llanos (Venezuela, Colombia), Campos (Brazil).",
+    "hi": ["Temperate grassland (शीतोष्ण घास का मैदान)"]
+  },
+  "119-002": {
+    "r": "Wrong pair → Veld – Australia (Veld is in South Africa). Correct: Prairies – North America; Pampas – South America; Steppes – Europe."
+  },
+  "119-003": {
+    "r": "Llanos → South America; Steppe → Europe; Prairies → North America; Veld → Africa."
+  },
+  "119-004": {
+    "r": "Correct pair → Argentina – Pampas (also Uruguay, Brazil). Campos → Brazilian Highland; Savanna → East Africa (Kenya, Tanzania); Steppes → Eastern Europe, Central Asia."
+  },
+  "119-005": {
+    "r": "Savanna (grassland with shrubs, scattered trees, between rainforest and desert) → most widespread in East Africa; also Brazil, Colombia, Venezuela, southern India.",
+    "hi": ["Savanna (सवाना)"]
+  },
+  "119-006": {
+    "r": "Mid-latitude grassland of South America → Pampas (Argentina, Uruguay, southern Brazil). Others: Prairie (North America), Downs (Australia)."
+  }
+}

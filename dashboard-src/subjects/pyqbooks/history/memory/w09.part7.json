@@ -1,151 +1,167 @@
 {
-  "94-038": {
-    "r": "Jagar → ancestor-spirit worship ritual in the hills of Uttarakhand (Kumaon, Garhwal); gods and local deities are invoked for remedies."
-  },
-  "94-039": {
-    "r": "Rath Yatra festival → Jagannath Puri, Odisha."
-  },
-  "94-040": {
-    "r": "Maluti village (Dumka district, Jharkhand) → known as the 'village of temples'."
-  },
-  "94-041": {
-    "r": "Wrong pair: Sadhvi Sadhana → Jain Sant, not homemaker doctor. Correct: Madhumita Raut → Odissi dancer; Indira Chakravarty → nutrition scientist; Meera Bhatia → jurist."
-  },
-  "94-042": {
-    "r": "Bhajan Sopori → Santoor (Sufiana Gharana, Kashmir); Birju Maharaj → Kathak (Lucknow Kalka-Bindadin Gharana); Priyadarshini Govind → Bharatnatyam; T.V. Gopala Krishnan → Mridangam."
-  },
-  "94-043": {
-    "r": "Ustad Alla Rakha (Qureshi) → Tabla player; father of Ustad Zakir Hussain."
-  },
-  "94-044": {
-    "r": "Wrong pair: Panna Lal Ghosh → flute (Bansuri), not Tabla. Correct: Debu Chaudhuri → Sitar; Amjad Ali Khan → Sarod; Yehudi Menuhin → Violin."
-  },
-  "94-045": {
-    "r": "Correct pair: Pampa → Kannada; his 'Vikramarjuna Vijaya' is the Kannada version of the Mahabharata."
-  },
-  "94-046": {
-    "r": "First writer to use Urdu for poetry → Amir Khusrau; also known as originator of Qawwali.",
-    "hi": ["Qawwali (क़व्वाली)"]
-  },
-  "94-047": {
-    "r": "'Radha Govind Sangeet Sar' (classical music work) → Maharaja Sawai Pratap Singh."
-  },
-  "94-048": {
-    "r": "Dhrupad: primarily devotional; Alap uses Sanskrit mantra syllables. Wrong: 'Mughal-period Rajput origin' — it began earlier, from Vedic chanting, with Gwalior's Man Singh Tomar (1486-1516).",
-    "hi": ["Dhrupad (ध्रुपद)"]
-  },
-  "94-049": {
-    "r": "Umakant and Ramakant Gundecha (Gundecha Brothers) → Dagarvani Dhrupad vocalists, born in Ujjain."
-  },
-  "94-050": {
-    "r": "'Raga Kalpadrum' → Krishnanand Vyas. Sangeetraj → Maharana Kumbha; Sringarhar → Rana Hammir; Rag Ratnakar → Radhakrishna."
-  },
-  "94-051": {
-    "r": "Raga Todi → early morning; Bhimpalasi → afternoon; Bhopali → evening; Darbari → night.",
-    "hi": ["Raga (राग)"]
-  },
-  "94-052": {
-    "r": "Chakiarkoothu: performed only by the Chakiar community; Mizhavu drum accompanies; staged in temple theatre Koothambalam. Statement on higher castes not watching is wrong."
-  },
-  "94-053": {
-    "r": "Manipuri Sankirtana → singing, drumming and dancing narrating Lord Krishna's life (on UNESCO intangible heritage list). Wrong: cymbals are not the only instruments."
-  },
-  "94-054": {
-    "r": "Pandit Bhimsen Joshi → Hindustani classical (Khayal) singer of the Kirana Gharana; Bharat Ratna 2009.",
-    "hi": ["Gharana (घराना)"]
-  },
-  "94-056": {
-    "r": "Kalamandalam Kshemavathy → Mohiniattam; Kottakkal Sivaraman → Kathakali; Lakshmi Viswanathan → Bharatanatyam; N. Madhabi Devi → Manipuri."
-  },
-  "94-057": {
-    "r": "Bharatanatyam → Tamil Nadu; Kathak → Uttar Pradesh; Kuchipudi → Andhra Pradesh; Mohiniattam → Kerala.",
-    "hi": ["Classical Dance (शास्त्रीय नृत्य)"]
-  },
-  "94-058": {
-    "r": "Bharatanatyam → Tamil Nadu; Kuchipudi → Andhra Pradesh; Sattriya → Assam; Kathak → Uttar Pradesh."
-  },
-  "94-059": {
-    "r": "Odissi → one of the eight classical dances of India; from Odisha (Orissa)."
-  },
-  "94-060": {
-    "r": "Mohiniattam → Kerala; performed by women; 'Mohini' = maiden who steals the onlooker's heart; one of the eight classical dances."
-  },
-  "94-061": {
-    "r": "Sattriya (Assam) → music, dance and drama; centuries-old Vaishnavite tradition begun by Sankaradeva; classical status 2000. Wrong: not based on Tulsidas-Kabir-Mirabai songs."
-  },
-  "94-062": {
-    "r": "Solo dance → Mohiniattam (Kerala), performed as solo recitals by women; main theme 'sringara' (love)."
-  },
-  "94-063": {
-    "r": "Correct: Garba → Gujarat; Yakshagana (folk theatre) → Karnataka. Wrong: Mohiniattam → Kerala, not Odisha."
-  },
-  "94-064": {
-    "r": "Latest Indian entry on UNESCO Intangible Cultural Heritage list (of options) → Garba of Gujarat (Dec 2023), devotional Navaratri dance.",
-    "hi": ["Intangible Cultural Heritage (अमूर्त सांस्कृतिक विरासत)"]
-  },
-  "94-065": {
-    "r": "Kuchipudi dancers sometimes speak dialogue (not in Bharatanatyam). Dancing on brass-plate edges (Tarangam) is Kuchipudi's feature, not Bharatanatyam's.",
-    "t": "Brass-plate dance (Tarangam) belongs to Kuchipudi, not Bharatanatyam."
-  },
-  "94-066": {
-    "r": "Kathak → classical dance whose present form shows Mughal influence."
-  },
-  "94-067": {
-    "r": "Hiren Bhattacharya → Puppetry; Malini Rajurkar → Hindustani vocal music; Pratibha Prahlad → Bharatnatyam; Vempati Chinna Satyam → Kuchipudi."
-  },
-  "94-068": {
-    "r": "Manipuri → dance from eastern (North-Eastern) India, Manipur; Kathakali, Kuchipudi and Bharatnatyam are South Indian."
-  },
-  "94-069": {
-    "r": "Indrani Rahman (1930-1999) → classical dancer of Bharatnatyam, Kuchipudi, Kathakali and Odissi; the commission's key gave Odissi.",
-    "c": "No answer printed: she performed several styles; the official key chose (c) Odissi."
-  },
-  "94-070": {
-    "r": "Girija Devi, famous Thumri singer → Banaras Gharana.",
-    "hi": ["Thumri (ठुमरी)"]
-  },
-  "94-071": {
-    "r": "Book answer: Sarangi is not of Indo-Islamic origin; Sitar and Tabla are credited to Amir Khusrau.",
-    "c": "Muddled: explanation says Turks brought Rabab and Sarangi, yet answers Sarangi; MPPSC key marked (d) Shehnai."
-  },
-  "94-072": {
-    "r": "Gangubai Hangal (1913-2009) → Hindustani classical Khayal singer of the Kirana Gharana, known for her deep, powerful voice."
-  },
-  "94-073": {
-    "r": "Tera Tali → folk dance of Rajasthan, performed sitting on the ground by women of the Kamar tribe."
-  },
-  "94-074": {
-    "r": "Wrong pair: Yakshagana → Karnataka (coastal Udupi, Dakshina Kannada), not Rajasthan. Correct: Kaikottikali → Kerala women; Koli → Maharashtra; Himachali → Kullu Valley."
-  },
-  "94-075": {
-    "r": "Andhra Pradesh → Burra; Assam → Bihu; Himachal Pradesh → Nati; Rajasthan → Ghoomar."
-  },
-  "94-076": {
-    "r": "Assam → Ojapali; Himachal Pradesh → Luddi; West Bengal → Jatra; Bihar → Jata-Jatin."
-  },
-  "94-077": {
-    "r": "Karagam → religious folk dance of Tamil Nadu."
-  },
-  "94-078": {
-    "r": "Shahnai → Bismillah Khan; Sarod → Amjad Ali Khan; Painter → Maqbool Fida Husain; Tabla → Alla Rakha; Sitar → Ravi Shankar."
-  },
-  "94-079": {
-    "r": "Wrong pair: Amjad Ali Khan → Sarod ('Sarod Samrat'), not Pakhawaj. Correct: Vilayat Khan → Sitar; Alla Rakha → Tabla; Hari Prasad Chaurasia → Flute."
-  },
-  "94-080": {
-    "r": "Birju Maharaj → Kathak; Hari Prasad Chaurasia → Flute; Ali Akbar → Sarod; Zakir Hussain → Tabla."
-  },
-  "94-081": {
-    "r": "V.G. Jog → Violin. Ravishankar → Sitar; Zakir Hussain → Tabla; Shivkumar Sharma → Santoor."
-  },
-  "94-082": {
-    "r": "Akum and Todi → wind instruments, like Bansuri, Mohuri (Madhukari), Shankh.",
-    "hi": ["Wind Instrument (सुषिर वाद्य)"]
-  },
-  "94-083": {
-    "r": "'Toti' → traditional parrot-shaped earring of Rajasthani women (silver or gold, with red or green stone)."
-  },
-  "94-084": {
-    "r": "Shiv Kumar Sharma → Santoor; Hari Prasad Chaurasia → Flute; Asad Ali Khan → Rudra Veena; Pramod Gaekwad → Sundari."
-  }
+ "94-038": {
+  "r": "Jagar → ancestor-spirit worship ritual in the hills of Uttarakhand (Kumaon, Garhwal); gods and local deities are invoked for remedies."
+ },
+ "94-039": {
+  "r": "Rath Yatra festival → Jagannath Puri, Odisha."
+ },
+ "94-040": {
+  "r": "Maluti village (Dumka district, Jharkhand) → known as the 'village of temples'."
+ },
+ "94-041": {
+  "r": "Wrong pair: Sadhvi Sadhana → Jain Sant, not homemaker doctor. Correct: Madhumita Raut → Odissi dancer; Indira Chakravarty → nutrition scientist; Meera Bhatia → jurist."
+ },
+ "94-042": {
+  "r": "Bhajan Sopori → Santoor (Sufiana Gharana, Kashmir); Birju Maharaj → Kathak (Lucknow Kalka-Bindadin Gharana); Priyadarshini Govind → Bharatnatyam; T.V. Gopala Krishnan → Mridangam."
+ },
+ "94-043": {
+  "r": "Ustad Alla Rakha (Qureshi) → Tabla player; father of Ustad Zakir Hussain."
+ },
+ "94-044": {
+  "r": "Wrong pair: Panna Lal Ghosh → flute (Bansuri), not Tabla. Correct: Debu Chaudhuri → Sitar; Amjad Ali Khan → Sarod; Yehudi Menuhin → Violin."
+ },
+ "94-045": {
+  "r": "Correct pair: Pampa → Kannada; his 'Vikramarjuna Vijaya' is the Kannada version of the Mahabharata."
+ },
+ "94-046": {
+  "r": "First writer to use Urdu for poetry → Amir Khusrau; also known as originator of Qawwali.",
+  "hi": [
+   "Qawwali (क़व्वाली)"
+  ]
+ },
+ "94-047": {
+  "r": "'Radha Govind Sangeet Sar' (classical music work) → Maharaja Sawai Pratap Singh."
+ },
+ "94-048": {
+  "r": "Dhrupad: primarily devotional; Alap uses Sanskrit mantra syllables. Wrong: 'Mughal-period Rajput origin' — it began earlier, from Vedic chanting, with Gwalior's Man Singh Tomar (1486-1516).",
+  "hi": [
+   "Dhrupad (ध्रुपद)"
+  ]
+ },
+ "94-049": {
+  "r": "Umakant and Ramakant Gundecha (Gundecha Brothers) → Dagarvani Dhrupad vocalists, born in Ujjain."
+ },
+ "94-050": {
+  "r": "'Raga Kalpadrum' → Krishnanand Vyas. Sangeetraj → Maharana Kumbha; Sringarhar → Rana Hammir; Rag Ratnakar → Radhakrishna."
+ },
+ "94-051": {
+  "r": "Raga Todi → early morning; Bhimpalasi → afternoon; Bhopali → evening; Darbari → night.",
+  "hi": [
+   "Raga (राग)"
+  ]
+ },
+ "94-052": {
+  "r": "Chakiarkoothu: performed only by the Chakiar community; Mizhavu drum accompanies; staged in temple theatre Koothambalam. Statement on higher castes not watching is wrong."
+ },
+ "94-053": {
+  "r": "Manipuri Sankirtana → singing, drumming and dancing narrating Lord Krishna's life (on UNESCO intangible heritage list). Wrong: cymbals are not the only instruments."
+ },
+ "94-054": {
+  "r": "Pandit Bhimsen Joshi → Hindustani classical (Khayal) singer of the Kirana Gharana; Bharat Ratna 2009.",
+  "hi": [
+   "Gharana (घराना)"
+  ]
+ },
+ "94-056": {
+  "r": "Kalamandalam Kshemavathy → Mohiniattam; Kottakkal Sivaraman → Kathakali; Lakshmi Viswanathan → Bharatanatyam; N. Madhabi Devi → Manipuri."
+ },
+ "94-057": {
+  "r": "Bharatanatyam → Tamil Nadu; Kathak → Uttar Pradesh; Kuchipudi → Andhra Pradesh; Mohiniattam → Kerala.",
+  "hi": [
+   "Classical Dance (शास्त्रीय नृत्य)"
+  ]
+ },
+ "94-058": {
+  "r": "Bharatanatyam → Tamil Nadu; Kuchipudi → Andhra Pradesh; Sattriya → Assam; Kathak → Uttar Pradesh."
+ },
+ "94-059": {
+  "r": "Odissi → one of the eight classical dances of India; from Odisha (Orissa)."
+ },
+ "94-060": {
+  "r": "Mohiniattam → Kerala; performed by women; 'Mohini' = maiden who steals the onlooker's heart; one of the eight classical dances."
+ },
+ "94-061": {
+  "r": "Sattriya (Assam) → music, dance and drama; centuries-old Vaishnavite tradition begun by Sankaradeva; classical status 2000. Wrong: not based on Tulsidas-Kabir-Mirabai songs."
+ },
+ "94-062": {
+  "r": "Solo dance → Mohiniattam (Kerala), performed as solo recitals by women; main theme 'sringara' (love)."
+ },
+ "94-063": {
+  "r": "Correct: Garba → Gujarat; Yakshagana (folk theatre) → Karnataka. Wrong: Mohiniattam → Kerala, not Odisha."
+ },
+ "94-064": {
+  "r": "Latest Indian entry on UNESCO Intangible Cultural Heritage list (of options) → Garba of Gujarat (Dec 2023), devotional Navaratri dance.",
+  "hi": [
+   "Intangible Cultural Heritage (अमूर्त सांस्कृतिक विरासत)"
+  ]
+ },
+ "94-065": {
+  "r": "Kuchipudi dancers sometimes speak dialogue (not in Bharatanatyam). Dancing on brass-plate edges (Tarangam) is Kuchipudi's feature, not Bharatanatyam's.",
+  "t": "Brass-plate dance (Tarangam) belongs to Kuchipudi, not Bharatanatyam."
+ },
+ "94-066": {
+  "r": "Kathak → classical dance whose present form shows Mughal influence."
+ },
+ "94-067": {
+  "r": "Hiren Bhattacharya → Puppetry; Malini Rajurkar → Hindustani vocal music; Pratibha Prahlad → Bharatnatyam; Vempati Chinna Satyam → Kuchipudi."
+ },
+ "94-068": {
+  "r": "Manipuri → dance from eastern (North-Eastern) India, Manipur; Kathakali, Kuchipudi and Bharatnatyam are South Indian."
+ },
+ "94-069": {
+  "r": "Indrani Rahman (1930-1999) → classical dancer of Bharatnatyam, Kuchipudi, Kathakali and Odissi; the commission's key gave Odissi.",
+  "c": "She danced several styles, so the book prints no answer; she is especially linked with popularising Odissi, which the official key chose (c)."
+ },
+ "94-070": {
+  "r": "Girija Devi, famous Thumri singer → Banaras Gharana.",
+  "hi": [
+   "Thumri (ठुमरी)"
+  ]
+ },
+ "94-071": {
+  "r": "Book answer: Sarangi is not of Indo-Islamic origin; Sitar and Tabla are credited to Amir Khusrau.",
+  "c": "The explanation says the Turks brought the Sarangi, which contradicts its own answer (c) Sarangi; MPPSC's key gave (d) Shehnai."
+ },
+ "94-072": {
+  "r": "Gangubai Hangal (1913-2009) → Hindustani classical Khayal singer of the Kirana Gharana, known for her deep, powerful voice."
+ },
+ "94-073": {
+  "r": "Tera Tali → folk dance of Rajasthan, performed sitting on the ground by women of the Kamar tribe."
+ },
+ "94-074": {
+  "r": "Wrong pair: Yakshagana → Karnataka (coastal Udupi, Dakshina Kannada), not Rajasthan. Correct: Kaikottikali → Kerala women; Koli → Maharashtra; Himachali → Kullu Valley."
+ },
+ "94-075": {
+  "r": "Andhra Pradesh → Burra; Assam → Bihu; Himachal Pradesh → Nati; Rajasthan → Ghoomar."
+ },
+ "94-076": {
+  "r": "Assam → Ojapali; Himachal Pradesh → Luddi; West Bengal → Jatra; Bihar → Jata-Jatin."
+ },
+ "94-077": {
+  "r": "Karagam → religious folk dance of Tamil Nadu."
+ },
+ "94-078": {
+  "r": "Shahnai → Bismillah Khan; Sarod → Amjad Ali Khan; Painter → Maqbool Fida Husain; Tabla → Alla Rakha; Sitar → Ravi Shankar."
+ },
+ "94-079": {
+  "r": "Wrong pair: Amjad Ali Khan → Sarod ('Sarod Samrat'), not Pakhawaj. Correct: Vilayat Khan → Sitar; Alla Rakha → Tabla; Hari Prasad Chaurasia → Flute."
+ },
+ "94-080": {
+  "r": "Birju Maharaj → Kathak; Hari Prasad Chaurasia → Flute; Ali Akbar → Sarod; Zakir Hussain → Tabla."
+ },
+ "94-081": {
+  "r": "V.G. Jog → Violin. Ravishankar → Sitar; Zakir Hussain → Tabla; Shivkumar Sharma → Santoor."
+ },
+ "94-082": {
+  "r": "Akum and Todi → wind instruments, like Bansuri, Mohuri (Madhukari), Shankh.",
+  "hi": [
+   "Wind Instrument (सुषिर वाद्य)"
+  ]
+ },
+ "94-083": {
+  "r": "'Toti' → traditional parrot-shaped earring of Rajasthani women (silver or gold, with red or green stone)."
+ },
+ "94-084": {
+  "r": "Shiv Kumar Sharma → Santoor; Hari Prasad Chaurasia → Flute; Asad Ali Khan → Rudra Veena; Pramod Gaekwad → Sundari."
+ }
 }

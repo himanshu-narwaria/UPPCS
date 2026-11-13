@@ -44,7 +44,7 @@ Q: According to Kautilya's Arthashastra, which of the following are correct?
    Which of the statements given above are correct?
 Options: (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3
 Answer: (a) 1 and 2 only
-Explanation: As per Dasa-Kalpa chapter of Arthashastra, a person could be a slave as a result ofajudicial punishment. Also ifa female slave bore her master a son, she was legally set free, however this son will not have any legal status of the master's son. Hence, statements (1) and (2) are true, while statement (3) is false.
+Explanation: As per Dasa-Kalpa chapter of Arthashastra, a person could be a slave as a result ofajudicial punishment. Also if a female slave bore her master a son, she was legally set free, however this son will not have any legal status of the master's son. Hence, statements (1) and (2) are true, while statement (3) is false.
 
 [09-017] Ch9 · Maurya Empire · asked in 1 paper(s): U.P.P.C.S. (Pre) 1994
 Q: Which of the following can be compared to ‘Prince’ of Machiavelli?
@@ -499,7 +499,7 @@ Explanation: The book "Indica" written by Megasthenes in Greek describes that In
 Q: In the Mauryan period, tax evasion was punished with –
 Options: (a) Death (b) Confiscation of goods (c) Imprisonment (d) None of the above
 Answer: (a) Death
-Explanation: The municipal administration of Pataliputra town is described in Megasthenes' ‘Indica.’According to this book, Pataliputra was governed by a 30-member municipal council. It was divided into six main committees which had five members each. The 6th board was responsible for the collection ofsales tax. The culprits of tax evasion were punished with a death sentence. So, option (a) is the correct answer.
+Explanation: The municipal administration of Pataliputra town is described in Megasthenes' ‘Indica.’According to this book, Pataliputra was governed by a 30-member municipal council. It was divided into six main committees which had five members each. The 6th board was responsible for the collection of sales tax. The culprits of tax evasion were punished with a death sentence. So, option (a) is the correct answer.
 
 [09-111] Ch9 · Maurya Empire · asked in 6 paper(s): 46th B.P.S.C. (Pre) 2003; U.P.P.C.S. (Mains) 2009; 47th B.P.S.C. (Pre) 2005; Uttrakhand U.D.A./L.D.A. (Mains) 2007; 56th to 59th B.P.S.C. (Pre) 2015; M.P. P.C.S. (Pre) 2015
 Q: The description of the administration of Pataliputra is available in
@@ -1603,7 +1603,7 @@ Explanation: Gupta period in ancient India is considered as the Golden Age due t
 Q: During which age, did women enjoy equality with men?
 Options: (a) Gupta age (b) Mauryan age (c) Cholas (d) None of these
 Answer: (d) None of these
-Explanation: Except for the Vedic age, the situation of women was never good in ancient India. In the age of Gupta, Maurya and Chola, the evidence ofinferior condition of women has been found. Thus condition of women with men cannot be compared in any age.
+Explanation: Except for the Vedic age, the situation of women was never good in ancient India. In the age of Gupta, Maurya and Chola, the evidence of inferior condition of women has been found. Thus condition of women with men cannot be compared in any age.
 
 [11-070] Ch11 · Gupta and Post-Gupta Period · asked in 1 paper(s): 42nd B.P.S.C. (Pre) 1997
 Q: What was the land revenue rate in Gupta age?
@@ -1735,7 +1735,9 @@ Answer: (b) Only 2
 Explanation: The Sankhya School is a part of six orthodox schools of Indian philosophy. Sankhya philosophy accepts the theory of rebirth or transmigration of the soul. Nescience is the cause of sorrow and self-enlightenment by knowledge is the solution for liberation from it. Sankhya holds that it is the self-knowledge that leads to liberation and not any exterior influence or agent. Therefore, option (b) is the correct answer.
 
 [11-093] Ch11 · Gupta and Post-Gupta Period · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre) 2020
-Q: Read the following statements and choose the correct option: Statement I: Kapila is the earliest exponent of Sankhya system Statement II: Kapila teaches that a man's life is shaped by the forces of nature and not by any divine agency
+Q: Read the following statements and choose the correct option:
+   Statement I: Kapila is the earliest exponent of Sankhya system
+   Statement II: Kapila teaches that a man's life is shaped by the forces of nature and not by any divine agency
 Options: (a) Statement I and Statement II both are true (b) Statement I is false, but Statement II is true (c) Statement I and Statement II both are false (d) Statement I is true, but Statement II is false
 Answer: (a) Statement I and Statement II both are true
 Explanation: Kapila Muni is earliest exponent of Sankhya philosophy. As per the philosophy, man's life is shaped by the forces of nature and not by any divine entity.
@@ -1824,7 +1826,7 @@ Explanation: Following are the matches :- / | List–I | List-II | / | (Philosop
 Q: In Nyaya philosophy, which of the following is a synonym for knowledge (Gyana)?
 Options: (a) Buddhi (Cognition) (b) Upalabdhi (Apprehension) (c) Both (a) and (b) (d) None of the above
 Answer: (c) Both (a) and (b)
-Explanation: In Nyaya philosophy, knowledge (Gyana) is considered synonymous with Buddhi (Cognition) and Upalabdhi (Apprehension). / The term Gyana is used in two senses: / | • | Restricted sense: Refers to unmanifested knowledge. | / | • | Broad sense: Refers to both manifested and unmanifested | / knowledge. / It is important to note that in Indian philosophy, the means of acquiring knowledge is termed ‘Pramana’ (valid means of … [shortened in this brief; the book continues]
+Explanation: In Nyaya philosophy, knowledge (Gyana) is considered synonymous with Buddhi (Cognition) and Upalabdhi (Apprehension). / The term Gyana is used in two senses: / Restricted sense: Refers to unmanifested knowledge. / Broad sense: Refers to both manifested and unmanifested knowledge. / It is important to note that in Indian philosophy, the means of acquiring knowledge is termed ‘Pramana’ (valid means of knowledge).
 
 [11-112] Ch11 · Gupta and Post-Gupta Period · asked in 2 paper(s): U.P.P.C.S. (Pre) 2023; Uttarakhand U.D.A./L.D.A. (Pre) 2007
 Q: Which of the following pairs (School of Thought Proponent) is correctly matched?
@@ -1867,7 +1869,7 @@ Explanation: Maharshi Kanad was the founder of Vaisheshika School of Indian phil
 Q: Which one of the following pairs does not form part of the six systems of Indian Philosophy?
 Options: (a) Mimamsa and Vedanta (b) Nyaya and Vaisheshika (c) Lokayata and Kapalika (d) Sankhya and Yoga
 Answer: (c) Lokayata and Kapalika
-Explanation: Hindu philosophy refers to a group ofdarshans (philosophies, worldview, teachings) that emerged in ancient India. The mainstream Hindu philosophy includes six systems (Saddarsana) Sankhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta. Hence Lokayata and Kapalika are not part of the six systems of Indian Philosophy.
+Explanation: Hindu philosophy refers to a group of darshans (philosophies, worldview, teachings) that emerged in ancient India. The mainstream Hindu philosophy includes six systems (Saddarsana) Sankhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta. Hence Lokayata and Kapalika are not part of the six systems of Indian Philosophy.
 
 [11-120] Ch11 · Gupta and Post-Gupta Period · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre) 2023
 Q: Which of the following is the Nastika school of thought?
@@ -2524,7 +2526,7 @@ Q: Consider the following historical places:
    Which of the above places is/are also known for mural paintings?
 Options: (a) Only 1 (b) Only 1 and 2 (c) 1, 2 and 3 (d) None
 Answer: (b) Only 1 and 2
-Explanation: The evidence ofmural painting in Ajanta and Lepakshi temple is clearly visible, but it is not evident in Sanchi Stupa. The nucleus of Sanchi Stupa was a simple hemispherical brick structure built over the relics of the Buddha. It was crowned by the Chhatra, a parasol-like structure symbolising high rank, which was intended to honour and shelter the relics.
+Explanation: The evidence of mural painting in Ajanta and Lepakshi temple is clearly visible, but it is not evident in Sanchi Stupa. The nucleus of Sanchi Stupa was a simple hemispherical brick structure built over the relics of the Buddha. It was crowned by the Chhatra, a parasol-like structure symbolising high rank, which was intended to honour and shelter the relics.
 
 [12-052] Ch12 · Architecture in Ancient India · asked in 1 paper(s): M.P.P.C.S. (Pre) 2022
 Q: Buddhist caves are not situated in which of the following places?
@@ -2535,7 +2537,7 @@ Explanation: Buddhist caves are not situated in Sanchi and Bulsar. The Bagh cave
 [12-053] Ch12 · Architecture in Ancient India · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre)-2020
 Q: Consider the following statements related to the folk paintings of India and choose the correct answer:
    Statement I :The themes of Pattachitra paintings are inspired from Jagannath and Vaishnav Cults
-   Statement II :Manjusha paintings are executed on boxes ofjute and paper
+   Statement II :Manjusha paintings are executed on boxes of jute and paper
    Statement III :Pithora paintings are made by some tribal communities of Gujarat and Madhya Pradesh
 Options: (a) Only Statement I and II are correct (b) Only Statement II and III are correct (c) Only Statement I and III are correct (d) All the four statements are correct
 Answer: *

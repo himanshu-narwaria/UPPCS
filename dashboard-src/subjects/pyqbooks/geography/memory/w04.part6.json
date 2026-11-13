@@ -1,0 +1,116 @@
+{
+  "76-045": {
+    "r": "Kerala → India's largest thorium producer. Thorium comes from monazite; Indian Rare Earths Ltd processes it at Udyogamandal (Aluva), Ernakulam.",
+    "hi": ["Thorium (थोरियम)"]
+  },
+  "76-046": {
+    "r": "Kerala's coastal beaches → monazite, which also holds thorium and uranium; more than one option fits, so the book gives no single answer (*). Monazite is abundant in Kerala."
+  },
+  "76-048": {
+    "r": "Monazite in India → Odisha, Andhra Pradesh, Tamil Nadu, Kerala, West Bengal, Maharashtra, Gujarat; both Tamil Nadu and Kerala fit, so no single answer (*)."
+  },
+  "76-049": {
+    "r": "Only 2 true: Kerala's monazite sands contain uranium (monazite: thorium, lanthanum, uranium, cerium). India has rich monazite deposits, so 'no thorium' is false."
+  },
+  "76-050": {
+    "r": "Uranium centres: Domiasiat → Meghalaya; Lambapur → Andhra Pradesh (now Telangana); Rohil → Rajasthan; Gogi → Karnataka."
+  },
+  "76-051": {
+    "r": "Jaduguda (Purbi Singhbhum, Jharkhand) → uranium mine.",
+    "hi": ["Uranium (यूरेनियम)"]
+  },
+  "76-052": {
+    "r": "Turamdih (East Singhbhum, Jharkhand) → uranium, about 24 km from Jaduguda; mined by Uranium Corporation of India Ltd."
+  },
+  "76-053": {
+    "r": "Chhattisgarh has all four: bauxite (Bastar, Bilaspur, Kabirdham, Surguja), dolomite (Bilaspur, Janjgir, Durg, Raipur), iron ore (haematite, Bastar), tin (Dantewada)."
+  },
+  "76-054": {
+    "r": "Palamu → bauxite; Hazaribagh → mica; Khetri → copper; Keonjhar → manganese. No printed code matches, so the book gives no single answer (*)."
+  },
+  "76-055": {
+    "r": "Chhota Nagpur plateau → rich in many minerals (its main resource)."
+  },
+  "76-056": {
+    "r": "Kaimur plateau (Rohtas and Kaimur districts, Bihar) → limestone and sandstone; Banjari cement industry uses its limestone."
+  },
+  "76-057": {
+    "r": "Coal → Giridih (Jharkhand); Copper → Alwar (Rajasthan); Manganese → Dharwar (Karnataka); Lignite → Jayamkondam (Tamil Nadu)."
+  },
+  "76-058": {
+    "r": "Gurumahisani → iron ore; Talcher → coal; Jaduguda → uranium; Zawar → lead."
+  },
+  "76-059": {
+    "r": "Only Nickel–Odisha right (~93% of resources). Copper → Rajasthan (~52.25%), tungsten → Karnataka (~41.0%), not Jharkhand or Kerala (IMYB 2024)."
+  },
+  "76-060": {
+    "r": "Guru Mahisani → iron ore; Talcher → coal; Jaduguda → uranium; Zawar → zinc."
+  },
+  "76-061": {
+    "r": "Salt 2022-23: India 3rd in world (after China, USA), ~280 lakh t; sea salt ~82%; Gujarat 87%, Rajasthan 6%, Tamil Nadu 4.7%. Book gives no single answer (*)."
+  },
+  "76-062": {
+    "r": "Correct pair: Bauxite–Lohardaga (Jharkhand). Koderma → mica, Talcher → coal, Bailadila → iron ore."
+  },
+  "76-063": {
+    "r": "Main uses: Limestone → cement; Copper → electrical goods; Bauxite → aeroplane manufacturing; Manganese → steel."
+  },
+  "76-064": {
+    "r": "India's first lithium mine → Katghora, Korba district, Chhattisgarh (announced August 2024); lithium 10–2,000 ppm over about 250 hectares.",
+    "hi": ["Lithium (लिथियम)"]
+  },
+  "77-001": {
+    "r": "NTPC Singrauli → NTPC's first unit (set up 1977), in Sonbhadra (UP), not Chhattisgarh. Singrauli region: Sidhi (MP) + Sonbhadra (UP); Rihand in Sonbhadra; Vindhyachal in Singrauli district (MP)."
+  },
+  "77-002": {
+    "r": "Idukki (Periyar river, Kerala) → hydroelectric, not thermal. Correct: Sabarigiri → hydro (Kerala); Ghatprabha → irrigation; Ramganga → multipurpose → 2, 3 and 4."
+  },
+  "77-003": {
+    "r": "Thermal plants: Ukai → Gujarat; Patratu → Jharkhand; Pench → Madhya Pradesh; Dabhol → Maharashtra."
+  },
+  "77-004": {
+    "r": "Uran gas turbine power station (gas-based) → Raigad district, Maharashtra."
+  },
+  "77-005": {
+    "r": "Coal → India's largest energy source; thermal power has the highest share. Installed capacity 31 December 2025: 513729.69 MW; thermal 48.07% (coal 219610.00 MW).",
+    "hi": ["Thermal power (तापीय विद्युत)"]
+  },
+  "77-007": {
+    "r": "Installed capacity, 31 December 2025: Thermal 246941.62 MW > Wind 54510.93 > Hydro 50914.66 > Nuclear 8780 → matches no option; the book gives no single answer (*)."
+  },
+  "77-008": {
+    "r": "Installed capacity order (when asked): water (hydro) > natural gas > nuclear > diesel → 1, 2, 3, 4.",
+    "c": "The book calls 54510.93 MW India's total installed capacity (31 December 2025), but that is its figure for wind power; the all-India total is far larger."
+  },
+  "77-009": {
+    "r": "NTPC super thermal plant in West Bengal → Farakka (at Nabarun, Murshidabad district); coal-based."
+  },
+  "77-010": {
+    "r": "Map question: '2' = Srisailam (hydroelectric, Telangana), not thermal. Thermal: 1 Ukai (Gujarat), 3 Korba (Chhattisgarh), 4 Obra (Uttar Pradesh)."
+  },
+  "77-011": {
+    "r": "Coal power plants: Kahalgaon → Bihar; Khargone → Madhya Pradesh; Korba → Chhattisgarh; Kudgi → Karnataka."
+  },
+  "77-012": {
+    "r": "Neyveli thermal plant (Tamil Nadu) → fed by lignite, a Tertiary coal; first lignite-fired power station in South-East Asia."
+  },
+  "77-013": {
+    "r": "Ramagundam Super Thermal Power Station → then Andhra Pradesh (now Telangana); capacity 2600 MW."
+  },
+  "77-014": {
+    "r": "Obra Thermal Power Station (Sonbhadra, UP) → built with Russian help, 1967."
+  },
+  "77-015": {
+    "r": "Kothagudem → Andhra Pradesh (now Telangana); Raichur → Karnataka; Mettur → Tamil Nadu; Wanakbori → Gujarat."
+  },
+  "77-016": {
+    "r": "Wrong pair: Paras–Andhra Pradesh; Paras is in Maharashtra. Correct: Badarpur–Delhi, Harduaganj–Uttar Pradesh, Utran–Gujarat."
+  },
+  "77-017": {
+    "r": "Installed thermal capacity (31.12.2025): Maharashtra 27839.02 MW > Uttar Pradesh 26580.42 > Gujarat 24174.89 > West Bengal 8514.34. No code fits (*)."
+  },
+  "77-018": {
+    "r": "Thermal PLF was 70–75% when asked. Recent all-India PLF (coal & lignite): 2021-22 58.87%, 2023-24 69.09%, 2024-25 69.45%, 2025-26 (P) 65.54%.",
+    "hi": ["Plant Load Factor (संयंत्र भार कारक)"]
+  }
+}

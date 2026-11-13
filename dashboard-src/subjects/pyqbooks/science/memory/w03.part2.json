@@ -1,0 +1,163 @@
+{
+ "13-315": {
+  "r": "E-mail attachment → any digital file: documents, text files, music, audio, video, photos (all of the above)."
+ },
+ "13-317": {
+  "r": "Singular of data → Datum."
+ },
+ "13-318": {
+  "r": "Blog = Web + log → a publicly accessible personal journal web page; its writer is a blogger."
+ },
+ "13-319": {
+  "r": "Executing → the process of carrying out commands; CPU work in four parts: Fetch → Decode → Execute → Write back (store).",
+  "h": "F-D-E-W: Fetch, Decode, Execute, Write back."
+ },
+ "13-320": {
+  "r": "A 'menu' → contains a list of related commands."
+ },
+ "13-321": {
+  "r": "Bookmark → saves a favourite website in your browser for quick access later."
+ },
+ "13-322": {
+  "r": "Size of virtual memory → depends on disc space (space allocated on hard disk); it speeds exchange between hard disk and RAM."
+ },
+ "13-323": {
+  "r": "ICT = Information and Communications Technology → internet, wireless networks, cellphones and other communication media."
+ },
+ "13-324": {
+  "r": "SIM = Subscriber Identity Module → small card holding the subscriber's account information; used in GSM and UMTS handsets."
+ },
+ "13-325": {
+  "r": "SMS = Short Messaging Service → exchanging messages by mobile phone."
+ },
+ "13-326": {
+  "r": "A picture message stays in a mobile's private inbox for up to 30 days; save it to the message box to keep it longer."
+ },
+ "13-327": {
+  "r": "Wrong pair: Android – Voice input; Android is Google's touch-screen mobile OS (Linux kernel). Correct: Optic fibres – light waves; LHC – God particle; Red Planet – Mars."
+ },
+ "13-328": {
+  "r": "Android 6.0 → 'Marshmallow' (released October 2015); later Android 9.0 → 'Pie' (2018)."
+ },
+ "13-329": {
+  "r": "Apple iPhone 4S → 8 hours talk time on 3G and voice assistant Siri; standby was 200 hours (not 300) and RAM 512 MB (not 640)."
+ },
+ "13-330": {
+  "r": "Cyber venting → using websites to pour out one's grievances (e.g. about one's employer), often anonymously."
+ },
+ "13-331": {
+  "r": "Denial of Service (DOS) attack → floods a website or server with fake traffic so legitimate users cannot access it."
+ },
+ "13-333": {
+  "r": "DDoS (Distributed Denial-of-Service) → a cyber attack that floods a target server or network with Internet traffic from many different sources."
+ },
+ "13-334": {
+  "r": "Hacking → exploiting vulnerabilities to gain unauthorized access to a system or resources; neither searching nor security (none of these)."
+ },
+ "13-335": {
+  "r": "Computer hacker (security hacker) → violates computer security with malicious intent for personal gain, using bugs or exploits."
+ },
+ "13-336": {
+  "r": "Cracker → breaks into computer systems without authorization and deliberately defaces websites for a fraudulent purpose."
+ },
+ "13-337": {
+  "r": "Crackers → also called black hat hackers; break computer security without authority to damage systems, commit fraud, steal identity."
+ },
+ "13-338": {
+  "r": "Cracker (black hat hacker) → gains unauthorized access, destroys vital data, denies legitimate users' service for personal gain.",
+  "t": "Don't confuse crackers with white hat hackers, who are security specialists employed to use hacking."
+ },
+ "13-339": {
+  "r": "Virtual keyboard (software, no physical keys) → reduces keystroke logging; protects against password theft, Trojan programs and spyware (all of the above)."
+ },
+ "13-340": {
+  "r": "Cybercrime → includes hacking, cyberstalking and denial of service attacks (all of the above)."
+ },
+ "13-341": {
+  "r": "Online chatting → not a cybercrime; phishing, cyber stalking and identity theft are cybercrimes."
+ },
+ "13-342": {
+  "r": "Phishing → deceptive emails or text messages that trick users into revealing sensitive information (passwords, account numbers) or installing malicious software."
+ },
+ "13-344": {
+  "r": "Spoofing → an e-mail that appears to come from one source but is sent from another; criminal disguises email address, phone number or URL."
+ },
+ "13-345": {
+  "r": "Two essential features of cybercrime → offender's computer skills and victim's ignorance of computer technology."
+ },
+ "13-346": {
+  "r": "Cyber security features → compliance, defence against internal threats, threat prevention (all of the above); also external-threat coverage, cloud security, analytics."
+ },
+ "13-347": {
+  "r": "First cyber law for e-commerce in India → Information Technology Act, 2000 (enacted 9 June, in force 17 October 2000); recognises e-records and digital signatures.",
+  "hi": [
+   "Information Technology Act (सूचना प्रौद्योगिकी अधिनियम)"
+  ]
+ },
+ "13-348": {
+  "r": "Reporting cybersecurity incidents to CERT-In is mandatory for service providers, data centres and body corporate (Section 70-B, IT Act 2000; IT Rules 2013)."
+ },
+ "13-349": {
+  "r": "Individual cyber insurance covers → restoring a malware-hit computer, consultant for cyber extortion, court defence in third-party suits; not a new computer after wilful damage."
+ },
+ "13-350": {
+  "r": "GDPR (General Data Protection Regulation) → adopted by the European Union in April 2016, implemented from 25 May 2018; replaced the 1995 Data Protection Directive."
+ },
+ "13-351": {
+  "r": "Confidentiality → data security principle protecting customer and organisation data from unauthorized access or use; others: integrity, availability, accountability, non-repudiation."
+ },
+ "13-352": {
+  "r": "BIOS (Basic Input-Output System) → resides in the ROM."
+ },
+ "13-353": {
+  "r": "Networking of computers → increases utility and information access, but also security threats like hacking and viruses (all of the above)."
+ },
+ "13-354": {
+  "r": "Resilience → ability of a computer network to recover from errors like connection failure or data loss and keep offering services."
+ },
+ "13-355": {
+  "r": "Data systems for planning → Decision Support System (DSS), an information system that supports decision making."
+ },
+ "13-356": {
+  "r": "Speedometer of a car → an analog computer."
+ },
+ "13-357": {
+  "r": "Software → written programs (machine-readable instructions) that make a computer work in the desired way."
+ },
+ "13-358": {
+  "r": "Another name for computer programs → computer software; two major types: application software and system software.",
+  "hi": [
+   "Software (सॉफ्टवेयर)"
+  ]
+ },
+ "13-359": {
+  "r": "'Basic Unit' → not a computer component; main parts: input/output devices, processing unit, memory unit, secondary storage."
+ },
+ "13-360": {
+  "r": "Microsoft → a software developing organization; founded by Bill Gates and Paul Allen on 4 April 1975; headquarters in Washington."
+ },
+ "13-361": {
+  "r": "Wipro → founder chairman Azim Premji ('Czar of Indian IT'); his son Rishad Premji became executive chairman in July 2019."
+ },
+ "13-362": {
+  "r": "CEOs (question period): Google → Sundar Pichai; Microsoft → Satya Nadella; Twitter → Parag Agarwal (till October 2022); Adobe → Shantanu Narayen."
+ },
+ "13-363": {
+  "r": "Twitter → created by Jack Dorsey (with Noah Glass, Biz Stone, Evan Williams) in March 2006; Dorsey was CEO 2015–2021; later rebranded as X."
+ },
+ "13-364": {
+  "r": "Facebook → co-founded by Mark Zuckerberg; parent company Meta Platforms owns Facebook, Instagram, Threads and WhatsApp."
+ },
+ "13-365": {
+  "r": "LinkedIn → social networking site for professionals and business people (employees and employers)."
+ },
+ "13-366": {
+  "r": "E-commerce advantages → ability to operate 24/7, extensive reach, personalised shopping, lower operational costs."
+ },
+ "13-367": {
+  "r": "India's biggest E-commerce company (per the book) → M-Junction, a 50:50 joint venture of SAIL and Tata Steel; world's largest online steel marketplace; Kolkata-based."
+ },
+ "13-368": {
+  "r": "Flipkart, Alibaba, Amazon → primarily B2C (sell directly to consumers); the book accepts both B2C and B2B, as they also serve third-party sellers."
+ }
+}

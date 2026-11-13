@@ -1,0 +1,315 @@
+{
+ "01-001": {
+  "r": "Seven fundamental physical quantities: length, mass, time, electric current, temperature, luminous intensity, amount of substance. Force, velocity and work are not among them.",
+  "h": "LMT + CTL + A: Length, Mass, Time; Current, Temperature, Luminous intensity; Amount of substance.",
+  "hi": [
+   "Fundamental quantity (मूल राशि)"
+  ]
+ },
+ "01-002": {
+  "r": "Power = work ÷ time (rate of doing work); SI unit watt = joule per second; also written in kilowatt (kW).",
+  "hi": [
+   "Power (शक्ति)"
+  ]
+ },
+ "01-003": {
+  "r": "Electric power → watt. Ampere → electric current; volt → electric potential; coulomb → electric charge.",
+  "t": "Don't confuse watt (power) with volt (potential difference)."
+ },
+ "01-004": {
+  "r": "Force = mass × acceleration; SI unit newton (kg·m/s²); modern definition from Isaac Newton's laws of motion.",
+  "hi": [
+   "Force (बल)"
+  ]
+ },
+ "01-005": {
+  "r": "Work = force × displacement in the direction of force (a scalar); SI unit joule (= newton metre), also the unit of energy.",
+  "hi": [
+   "Work (कार्य)"
+  ]
+ },
+ "01-006": {
+  "r": "Frequency → hertz (Hz), the derived SI unit = one cycle per second.",
+  "hi": [
+   "Frequency (आवृत्ति)"
+  ]
+ },
+ "01-008": {
+  "r": "Processor speed → hertz/gigahertz: clock cycles completed per second; 1 GHz = 1 billion cycles per second."
+ },
+ "01-009": {
+  "r": "GHz (gigahertz = one billion hertz) on a computer indicates its speed: the clock or processing speed of the central processor."
+ },
+ "01-010": {
+  "r": "Resistivity ρ = RA/l; its SI unit is ohm-metre (Ωm). 'Ohm-metre' is the unit of resistivity.",
+  "c": "None of the options is ohm-metre, the unit of resistivity; (d) ohm is the unit of resistance. Also, capacitance is measured in farads; the faraday is a quantity of charge, not that unit."
+ },
+ "01-012": {
+  "r": "Magnetic field B (magnetic flux density) → SI unit tesla."
+ },
+ "01-013": {
+  "r": "1 tesla = 1 weber per square metre (Wb/m²) = 1 newton per ampere-metre; named after Nikola Tesla."
+ },
+ "01-014": {
+  "r": "Not matched: radioactivity – curie (old non-SI unit); SI unit is becquerel (Bq). Lens power – dioptre, pressure – pascal, heat – joule are correct.",
+  "hi": [
+   "Radioactivity (रेडियोधर्मिता)"
+  ]
+ },
+ "01-015": {
+  "r": "Light-year → unit of distance: the distance light travels in one year ≈ 9.461 trillion km.",
+  "t": "A light-year measures distance, not time or speed.",
+  "hi": [
+   "Light-year (प्रकाश वर्ष)"
+  ]
+ },
+ "01-018": {
+  "r": "Astronomical distances use light-years because the speed of light in vacuum is always the same (not even affected by gravity)."
+ },
+ "01-019": {
+  "r": "1 parsec = distance at which Earth's mean orbital radius subtends 1 arc second (parallax) ≈ 3.262 light-years ≈ 206265 AU ≈ 30.9 trillion km.",
+  "h": "PAR-SEC = PARallax of one arc SECond."
+ },
+ "01-020": {
+  "r": "Parsec is a unit of distance: 1 parsec ≈ 3.262 light-years; nearest option 3.25 light-years."
+ },
+ "01-022": {
+  "r": "1 centimetre = 0.39 inch → multiply centimetres by 0.39 to get inches."
+ },
+ "01-023": {
+  "r": "1 foot = 0.305 m = 30.5 × 10⁷ nm → six feet ≈ 183 × 10⁷ nm (1 nm = 10⁻⁹ m)."
+ },
+ "01-024": {
+  "r": "1 nanometre = 10⁻⁹ m = 10⁻⁷ cm (since 1 m = 100 cm)."
+ },
+ "01-025": {
+  "r": "1 metre = 10⁹ nanometres; 1 nanometre = 10⁻⁹ metre."
+ },
+ "01-026": {
+  "r": "Ampere → SI unit of electric current; 1 ampere means about 6.25 quintillion electrons flowing per second.",
+  "hi": [
+   "Electric current (विद्युत धारा)"
+  ]
+ },
+ "01-027": {
+  "r": "Megawatt → unit of power generated (in power stations/plants); 1 MW = 1 million watt."
+ },
+ "01-028": {
+  "r": "Acceleration → metre/second² (m/s²); force → newton; work done → joule; impulse → newton second (Ns)."
+ },
+ "01-029": {
+  "r": "Not matched: pressure – dyne. SI unit of pressure is pascal; dyne is the CGS unit of force. Work – joule, force – newton, mass – kg are correct.",
+  "hi": [
+   "Pressure (दाब)"
+  ]
+ },
+ "01-030": {
+  "r": "Watt → power; knot → speed of a ship; nautical mile → navigation (distance at sea); calorie → heat."
+ },
+ "01-031": {
+  "r": "Joule → work; ampere → current; watt → power; volt → electric potential."
+ },
+ "01-032": {
+  "r": "1 horsepower = 746 watt (horsepower is a unit of power; 1 watt = 1 joule/second)."
+ },
+ "01-033": {
+  "r": "Not matched: light-year is a unit of distance, not time. Knot → ship speed; nautical mile → navigation distance; angstrom → wavelength of light."
+ },
+ "01-034": {
+  "r": "Angstrom (Å) → length unit for wavelengths of electromagnetic waves; 1 Å = 10⁻¹⁰ m = 0.1 nm; named after Swedish physicist Anders Jonas Angstrom."
+ },
+ "01-035": {
+  "r": "Mach → high speed (Mach 1 = speed of sound); angstrom → wavelength; pascal → pressure; joule → energy."
+ },
+ "01-037": {
+  "r": "1 micron (micrometre) = 10⁻⁶ m = 1/1000 mm."
+ },
+ "01-038": {
+  "r": "1 micron (µm) = 10⁻⁶ m = 0.0001 cm = 10⁻⁴ cm."
+ },
+ "01-039": {
+  "r": "Not matched: Celsius is a temperature scale, not a heat unit (heat → calorie). 1 hp = 746 W; 1 nautical mile = 1.852 km; decibel → sound intensity."
+ },
+ "01-040": {
+  "r": "Watt is a unit of power, not heat; calorie, kilocalorie and kilojoule are units of heat."
+ },
+ "01-041": {
+  "r": "Centigrade is a temperature scale, not a heat unit; calorie, erg and joule are units of heat energy.",
+  "t": "Don't confuse heat (energy: joule, calorie, erg) with temperature (Centigrade, Fahrenheit, Kelvin scales).",
+  "hi": [
+   "Temperature (ताप)"
+  ]
+ },
+ "01-042": {
+  "r": "1 km = 1000 m; 1 m = 100 cm (SI unit of distance is metre)."
+ },
+ "01-043": {
+  "r": "1 pikogram (picogram) = 10⁻¹² g. Milligram 10⁻³, microgram 10⁻⁶, nanogram 10⁻⁹, femtogram 10⁻¹⁵ gram."
+ },
+ "01-044": {
+  "r": "Pascal (Pa) → SI unit of pressure or stress = 1 newton per square metre (N/m²); named after Blaise Pascal."
+ },
+ "01-046": {
+  "r": "The unit kg/cm² is not a correct pressure unit; the proper (deprecated) form is kgf/cm² (1 kgf/cm² = 98,066.5 Pa), so the answer is 'None of the above'."
+ },
+ "01-047": {
+  "r": "Bar, pascal (Pa), torr and atmosphere (atm) are all units of pressure; pascal (1 N/m²) is the SI unit."
+ },
+ "01-048": {
+  "r": "Bar → metric (not SI) unit of pressure, used for atmospheric pressure; 1 bar = one lakh (hundred thousand) pascal."
+ },
+ "01-049": {
+  "r": "1 kg/cm² (meaning 1 kg-force/cm²) ≈ 1.0 bar; 1 bar = 10⁶ dyne/cm²."
+ },
+ "01-050": {
+  "r": "Strain (change in shape or size, a ratio) is dimensionless and has no unit; stress and pressure → pascal; force → newton.",
+  "hi": [
+   "Strain (विकृति)"
+  ]
+ },
+ "01-051": {
+  "r": "1 barrel of oil ≈ 159 litres (158.9873 L) = 42 US gallons."
+ },
+ "01-052": {
+  "r": "Smallest is fermi (femtometre) 10⁻¹⁵ m; angstrom 10⁻¹⁰ m, nanometre 10⁻⁹ m, micron 10⁻⁶ m."
+ },
+ "01-053": {
+  "r": "Cusec (cubic feet per second) → rate of water flow; byte (eight bits) → computer; Richter → earthquake intensity; bar → pressure."
+ },
+ "01-055": {
+  "r": "NTU (nephelometric turbidity unit) → turbidity of water, i.e. its opaqueness due to suspended solids."
+ },
+ "01-056": {
+  "r": "Solar constant (solar energy received per unit area at one astronomical unit from the Sun) ≈ 1.4 kW/m²."
+ },
+ "01-057": {
+  "r": "Ozone layer thickness → Dobson unit (DU); 1 DU = 0.01 mm thickness at STP; named after G.M.B. Dobson.",
+  "hi": [
+   "Ozone layer (ओजोन परत)"
+  ]
+ },
+ "02-001": {
+  "r": "SONAR (Sound Navigation and Ranging) → locates submerged objects (submarines, icebergs) by sending ultrasonic pulses and receiving their echo."
+ },
+ "02-002": {
+  "r": "SONAR is mostly used by navigators; it works with ultrasonic waves."
+ },
+ "02-004": {
+  "r": "Audiometer → intensity of sound; anemometer → wind speed and force; chronometer → exact time (longitude at sea); audiophone → small hearing aid.",
+  "t": "Don't confuse audiometer (sound) with anemometer (wind)."
+ },
+ "02-008": {
+  "r": "Not matched: tacheometer – a theodolite that measures distance to a target, not pressure difference. Anemometer → wind speed; ammeter → current; pyrometer → high temperature."
+ },
+ "02-010": {
+  "r": "Not matched: galvanometer measures small electric current (coil deflection), not resistance. Voltmeter → potential difference; ammeter → current; potentiometer → EMF."
+ },
+ "02-011": {
+  "r": "Pyrometer (radiation thermometer) → very high temperature, even of distant objects like the Sun; based on Stefan–Boltzmann law (E ∝ T⁴).",
+  "hi": [
+   "Pyrometer (उत्तापमापी)"
+  ]
+ },
+ "02-014": {
+  "r": "Total radiation pyrometer → very high temperatures like 2000°C, by measuring thermal radiation without touching the object."
+ },
+ "02-015": {
+  "r": "Pyrometer → temperatures above 1500°C."
+ },
+ "02-016": {
+  "r": "Pyrheliometer → solar radiation (the other device for solar radiation: pyranometer)."
+ },
+ "02-017": {
+  "r": "Manometer → uses a liquid column to measure pressure of gases (and liquids)."
+ },
+ "02-018": {
+  "r": "Ammeter → electric current; hygrometer → relative humidity; spring balance → weight; barometer → atmospheric pressure."
+ },
+ "02-019": {
+  "r": "Not matched: ammeter measures electric current, not power. Odometer → distance by vehicle wheels; ondometer → frequency of EM waves; audiometer → sound intensity."
+ },
+ "02-020": {
+  "r": "Odometer → distance travelled by a vehicle; speedometer → speed; chronometer → precise time (longitude at sea); ammeter → current.",
+  "t": "Don't confuse odometer (distance) with speedometer (speed)."
+ },
+ "02-021": {
+  "r": "Barometer → atmospheric pressure; a sudden fall of mercury in it indicates a thunderstorm.",
+  "hi": [
+   "Barometer (वायुदाबमापी)"
+  ]
+ },
+ "02-022": {
+  "r": "Simple barometer → long glass tube filled with mercury, turned upside down into a mercury container (other types: water, oil, aneroid)."
+ },
+ "02-023": {
+  "r": "Lactometer → density of milk; butyrometer → fat content of milk.",
+  "t": "Don't confuse lactometer (milk density) with butyrometer (milk fat)."
+ },
+ "02-025": {
+  "r": "Hygrometer → relative humidity; hydrometer → relative density of liquids; lactometer → milk density; potentiometer → electric potential.",
+  "t": "Don't confuse hygrometer (humidity) with hydrometer (density of liquids).",
+  "hi": [
+   "Humidity (आर्द्रता)"
+  ]
+ },
+ "02-026": {
+  "r": "Hygrometer → humidity (moisture) in air; spectrometer → properties of light; eudiometer → change in volume of a gas mixture."
+ },
+ "02-029": {
+  "r": "Hygrometer → humidity; pyrometer → high temperature; hypsometer → height or altitude; thermostat → keeps temperature near a set point."
+ },
+ "02-030": {
+  "r": "Ringelmann Scale → density (opacity) of smoke; devised by French professor Maximilien Ringelmann in 1888."
+ },
+ "02-031": {
+  "r": "Thermoresistor → works as an electronic thermometer: its resistance changes with temperature."
+ },
+ "02-032": {
+  "r": "EEG (electroencephalogram) → records electrical activity of the brain through electrodes on the scalp."
+ },
+ "02-033": {
+  "r": "Stethoscope → heart sound; sphygmomanometer → blood pressure; caratometer → purity of gold; luxmeter → intensity of light."
+ },
+ "02-036": {
+  "r": "RADAR (Radio Detection and Ranging) → detects presence, range, angle and velocity of objects (aircraft, ships, weather) using radio waves.",
+  "t": "RADAR uses radio waves, not light or sound waves."
+ },
+ "02-037": {
+  "r": "Richter scale (Charles F. Richter, 1935) → magnitude of an earthquake (energy released; amplitude of seismic waves).",
+  "hi": [
+   "Earthquake (भूकंप)"
+  ]
+ },
+ "02-040": {
+  "r": "Not matched: Richter scale – humidity; it rates earthquake magnitude. Celsius → temperature; kilowatt hour → electricity; Rh factor → blood."
+ },
+ "02-041": {
+  "r": "Seismograph → records seismic waves of earthquakes; crescograph (J.C. Bose) → plant growth; Geiger counter → radioactivity; raingauge → rain."
+ },
+ "02-045": {
+  "r": "Earthquake → seismograph; height → altimeter; electric current → ammeter; resistance → ohm."
+ },
+ "02-046": {
+  "r": "Fathometer → depth of sea (ultrasonic waves); barometer → atmospheric pressure; hygrometer → humidity; altimeter → height."
+ },
+ "02-048": {
+  "r": "Anemometer → wind velocity; seismograph → earthquakes; barograph → atmospheric pressure; hygrometer → humidity."
+ },
+ "02-049": {
+  "r": "Not matched: seismometer – it measures earthquake seismic waves, not curvature of surface. Manometer → pressure; carburettor → IC engine; cardiograph → heart movement."
+ },
+ "02-050": {
+  "r": "Phonometer → tests the force of the human voice; photometer → intensity of light.",
+  "t": "Don't confuse phonometer (voice) with photometer (light).",
+  "c": "The book gives no single answer (*): none of the four options describes a phonometer."
+ },
+ "02-051": {
+  "r": "Polygraph (lie detector) → records blood pressure, pulse, respiration and skin conductivity while a person answers questions."
+ },
+ "02-052": {
+  "r": "Theodolite → measures angles in the horizontal (azimuth) and vertical (elevation) planes."
+ },
+ "02-053": {
+  "r": "Accelerometer is needed in all three: airbag deployment on crash, laptop free-fall hard-drive shut-off, and phone tilt rotating the display."
+ }
+}

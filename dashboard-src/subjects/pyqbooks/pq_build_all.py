@@ -1,6 +1,6 @@
-"""Rebuild the Polity, History and Economy study pages from their PDFs in one command.
+"""Rebuild the Polity, History, Economy, Geography and Science study pages from their PDFs in one command.
 
-    python pq_build_all.py              (all three books)
+    python pq_build_all.py              (all five books)
     python pq_build_all.py polity       (one book)
 
 Steps for each book (each script also runs on its own):
@@ -40,7 +40,7 @@ def run(cwd, cmd):
 
 def main():
     t0 = time.time()
-    books = sys.argv[1:] or ["polity", "history", "economy"]
+    books = sys.argv[1:] or ["polity", "history", "economy", "geography", "science"]
     for b in books:
         for step in (["pq_extract.py", b], ["pq_structure.py", b], ["pq_validate.py", b],
                      ["pq_render.py", b], ["pq_verify.py", b]):

@@ -361,13 +361,13 @@ Q: Given below are two statements, one is labelled as Assertion (A) and the othe
    Select the correct answer from the codes given below:
 Options: (a) Both (A) and (R) are true, but (R) is not the correct explanation of (A). (b) (A) is false, but (R) is true. (c) Both (A) and (R) are true and (R) is the correct explanation of (A). (d) (A) is true, but (R) is false.
 Answer: (a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
-Explanation: The Article 352 of the Indian Constitution is related to the Proclamation of Emergency. According to this Article, Ifthe President is satisfied that a grave emergency exists whereby the security of India or of any part of the territory thereof is threatened, whether by way or external aggression or armed rebellion, he may, by proclamation make a declaration to that effect in respect of the whole of India or of such … [shortened in this brief; the book continues]
+Explanation: The Article 352 of the Indian Constitution is related to the Proclamation of Emergency. According to this Article, If the President is satisfied that a grave emergency exists whereby the security of India or of any part of the territory thereof is threatened, whether by way or external aggression or armed rebellion, he may, by proclamation make a declaration to that effect in respect of the whole of India or of such … [shortened in this brief; the book continues]
 
 [32-013] Ch32 · Emergency Provisions · asked in 1 paper(s): 70th B.P.S.C Re-Exam 2024
 Q: Which Article of the Indian Constitution deals with the proclamation of Emergency?
 Options: (a) Article 360 (b) Article 365 (c) Article 356 (d) Article 352
 Answer: (d) Article 352
-Explanation: According to Article 352 of the Constitution, ifthe President is satisfied that a grave emergency exists, or is imminent, due to war, external aggression, or armed rebellion, threatening the security of India or any part of its territory, then the President can proclaim a state of emergency for the entire country or any part of it. Under Article 356, if the constitutional machinery in a state fails, the President … [shortened in this brief; the book continues]
+Explanation: According to Article 352 of the Constitution, if the President is satisfied that a grave emergency exists, or is imminent, due to war, external aggression, or armed rebellion, threatening the security of India or any part of its territory, then the President can proclaim a state of emergency for the entire country or any part of it. Under Article 356, if the constitutional machinery in a state fails, the President … [shortened in this brief; the book continues]
 
 [32-014] Ch32 · Emergency Provisions · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre) - 2017
 Q: What is correct about external emergency as per Article 352?
@@ -434,7 +434,7 @@ Q: Statement: Constitution of India is basically Federal in nature.
    Reason: Article 352 has provisions to deal with the failure of constitutional machinery in a state.
 Options: (a) Statement and Reason both are correct, and the Statement is the correct explanation of the reason. (b) Statement and Reason both are correct, but the statement is not the correct explanation of reason. (c) The statement is correct, but Reason is false. (d) The statement is false, but Reason is correct.
 Answer: (c) The statement is correct, but Reason is false.
-Explanation: The Indian Constitution is regarded as federal as well as a combination of unitary and federal elements. Article 352 provides that the President of India, if satisfied, that the security of India or any part of the territory thereofis threatened due to war, external aggression or armed rebellion, can proclaim an Emergency, whilst Article 356 provides for the proclamation of the President’s Rule ifthe Constitutional … [shortened in this brief; the book continues]
+Explanation: The Indian Constitution is regarded as federal as well as a combination of unitary and federal elements. Article 352 provides that the President of India, if satisfied, that the security of India or any part of the territory thereofis threatened due to war, external aggression or armed rebellion, can proclaim an Emergency, whilst Article 356 provides for the proclamation of the President’s Rule if the Constitutional … [shortened in this brief; the book continues]
 
 [32-026] Ch32 · Emergency Provisions · asked in 2 paper(s): 45th B.P.S.C. (Pre) 1997; Uttarakhand U.D.A./L.D.A. (Pre) 2007
 Q: Mainly on whose advice the President’s Rule is imposed in the State?
@@ -450,7 +450,7 @@ Answer: *
 Explanation: According to Article 356 of the Indian Constitution, the President can impose President’s rule on the failure of constitutional machinery in the state. Whereas, in view of the special status of Jammu and Kashmir (Article 370) in the Indian constitution, in addition to President's rule, Governor's rule was also made under section 92 of Part 6 of the constitution of Jammu and Kashmir. The separate constitutional … [shortened in this brief; the book continues]
 
 [32-029] Ch32 · Emergency Provisions · asked in 1 paper(s): I.A.S. (Pre.) 2018
-Q: Ifthe President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then
+Q: If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then
 Options: (a) The Assembly of the State is automatically dissolved. (b) The powers of the Legislature of that State shall be exercisable by or under the authority of the Parliament. (c) Article 19 is suspended in that State. (d) The President can make laws relating to that State.
 Answer: (b) The powers of the Legislature of that State shall be exercisable by or under the authority of the Parliament.
 Explanation: The President's Rule can be proclaimed on two grounds one mentioned in Article 356 itself and another in Article 365. / During the President's Rule, the state executive is dismissed and the State legislature is either suspended or dissolved. Hence option (A) is incorrect. / It has no effect on the Fundamental Rights of the citizens. Hence option (c) is incorrect. / The Parliament can delegate the powers to make laws for … [shortened in this brief; the book continues]
@@ -463,7 +463,7 @@ Q: Which of the following are not necessarily the consequences of the proclamati
    Select the correct answer using the code given below:
 Options: (a) 1 and 2 only (b) 1 and 3 only (c) 2 and 3 only (d) 1, 2 and 3
 Answer: (b) 1 and 3 only
-Explanation: The Proclamation of the President's rule in a State can be made in accordance with the provisions of Article 356 of the Indian Constitution at the instance offailure of constitutional machinery in the State. In the event of the imposition of the President's rule in a State, the President removes the Council of Ministers and runs the administration with the help of the Chief Secretary of the State. Besides, the … [shortened in this brief; the book continues]
+Explanation: The Proclamation of the President's rule in a State can be made in accordance with the provisions of Article 356 of the Indian Constitution at the instance of failure of constitutional machinery in the State. In the event of the imposition of the President's rule in a State, the President removes the Council of Ministers and runs the administration with the help of the Chief Secretary of the State. Besides, the … [shortened in this brief; the book continues]
 
 [32-031] Ch32 · Emergency Provisions · asked in 1 paper(s): R.A.S./R.T.S.(Pre) 2013
 Q: Consider the following statements regarding Article 356 of the Constitution:
@@ -504,8 +504,8 @@ Answer: (c) PEPSU
 Explanation: The President’s Rule under Article 356 was imposed in 1951 for the first time in the former Punjab and in 1953 in Patiala and East Punjab States Union (PEPSU).
 
 [32-035] Ch32 · Emergency Provisions · asked in 1 paper(s): I.A.S. (Pre) 2007
-Q: Consider the following statements in respect offinancial emergency under Article 360 of the Constitution of India:
-   1. A Proclamation offinancial emergency issued shall cease to operate at the expiration of two months, unless, before the expiration of that period, it has been approved by the resolutions of both Houses of Parliament.
+Q: Consider the following statements in respect of financial emergency under Article 360 of the Constitution of India:
+   1. A Proclamation of financial emergency issued shall cease to operate at the expiration of two months, unless, before the expiration of that period, it has been approved by the resolutions of both Houses of Parliament.
    2. If any Proclamation of financial emergency is in operation, it is competent for the President of India to issue directions for the reduction of salaries and allowances of all or any class of persons, serving in connection with the affairs of the Union but excluding the Judges of the Supreme Court and the High Courts.
    Which of the statements given above is/are correct?
 Options: (a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2
@@ -600,7 +600,7 @@ Explanation: According to Article 280(3) of the Constitution, the main functions
 
 [33-018] Ch33 · The Finance Commission · asked in 1 paper(s): I.A.S. (Pre) 2011
 Q: With reference to the Finance Commission of India, which of the following statements is correct?
-Options: (a) It encourages the inflow of foreign capital for infrastructure development. (b) It facilitates the proper distribution offinances among the Public Sector Undertakings. (c) It ensures transparency in financial administration. (d) None of the statements (a), (b) and (c) given above is correct in this context.
+Options: (a) It encourages the inflow of foreign capital for infrastructure development. (b) It facilitates the proper distribution of finances among the Public Sector Undertakings. (c) It ensures transparency in financial administration. (d) None of the statements (a), (b) and (c) given above is correct in this context.
 Answer: (d) None of the statements (a), (b) and (c) given above is correct in this context.
 Explanation: Under Article 280(3) of the Constitution, the Finance Commission of India gives its suggestions in the following the cases: / (1) Distribution of receipts of federal taxes between the Union and the States; / (2) Under Article 275, aid in the revenue of the States; and / (3) Any further topic about which the President will recommend to the Commission in the interest of economy. / (4) The measures needed to augment the … [shortened in this brief; the book continues]
 
@@ -1679,7 +1679,12 @@ Answer: (c) President on the recommendation of the Chief Election Commissioner
 Explanation: The Election Commissioners shall not be removed except on the recommendation of the Chief Election Commissioner to the President.
 
 [37-014] Ch37 · Election Commission · asked in 2 paper(s): U.P.U.D.A./L.D.A. (Pre) 2001; U.P.P.C.S. (Mains) 2009
-Q: The functions of Election Commission of India are- (I) To conduct all the elections of the Parliament and State Legislative Assembly. (II) To conduct elections for the post of President and Vice-President. (III) To recommend for President’s Rule in case of any State not in condition to hold or conduct free and fair elections in any State. (IV) To Supervise, direct and control the work of preparing electoral lists. Code:
+Q: The functions of Election Commission of India are-
+   (I) To conduct all the elections of the Parliament and State Legislative Assembly.
+   (II) To conduct elections for the post of President and Vice-President.
+   (III) To recommend for President’s Rule in case of any State not in condition to hold or conduct free and fair elections in any State.
+   (IV) To Supervise, direct and control the work of preparing electoral lists.
+   Code:
 Options: (a) I, II, III (b) I, II and IV (c) I, III, IV (d) all of them
 Answer: (b) I, II and IV
 Also asked: Which one of the following functions is not related to the Election Commission? -> To make provision with respect to elections to Legislatures.
@@ -1927,7 +1932,9 @@ Answer: (b) a two-party system has developed
 Explanation: The objective of a proportional representation system is to provide representation to each group in proper proportion. It becomes insignificant in a country where a two-party system has developed.
 
 [37-055] Ch37 · Election Commission · asked in 1 paper(s): Raj. P.C.S. (Pre) 2024
-Q: In the question given below, a statement is followed by two courses of action numbered (I) and (II). Choose the correct option from the following: Statement: There has been less voting in this Lok Sabha election as compared to previous Lok Sabha election. Course of action: (I) The election commission should announce re election for Lok Sabha. (II) Election commission should cancel the voting rights of the people who did not vote in this Lok Sabha election.
+Q: In the question given below, a statement is followed by two courses of action numbered (I) and (II). Choose the correct option from the following: Statement: There has been less voting in this Lok Sabha election as compared to previous Lok Sabha election. Course of action:
+   (I) The election commission should announce re election for Lok Sabha.
+   (II) Election commission should cancel the voting rights of the people who did not vote in this Lok Sabha election.
 Options: (a) Only (I) follows. (b) Only (II) follows. (c) Neither (I) nor (II) follow. (d) Both (I) and (II) follow. (e) Question not attempted
 Answer: (c) Neither (I) nor (II) follow.
 Explanation: Less voting in an election as compared to the previous election does not create the cause of course of action I and II. The elections are held with proper schedule and planning, awareness campaigns, advertisements etc. are used as tools to increase voter turnout, therefore no way a lesser voting turnout binds the election commission to announce a re election. The voting rights in India are statutory, there is no … [shortened in this brief; the book continues]
@@ -2675,7 +2682,7 @@ Q: Which of the following Constitutional Amendment is related to the Fundamental
    nd th
 Options: (a) 42 (b) 44 th th (c) 46 (d) 50
 Answer: (a) 42
-Explanation: The fundamental duties of citizens were added to the Constitution by the 42nd Amendment in 1976 on the recommendation of the Swaran Singh committee. It has been mentioned under Part IV-A, Article 51(A) of the Indian Constitution. Earlier, the total number offundamental duties was 10; at present, it is 11. Provisions relating to fundamental duties have been derived from the Constitution of the Soviet Union.
+Explanation: The fundamental duties of citizens were added to the Constitution by the 42nd Amendment in 1976 on the recommendation of the Swaran Singh committee. It has been mentioned under Part IV-A, Article 51(A) of the Indian Constitution. Earlier, the total number of fundamental duties was 10; at present, it is 11. Provisions relating to fundamental duties have been derived from the Constitution of the Soviet Union.
 
 [39-037] Ch39 · Constitutional Amendment · asked in 2 paper(s): Chhattisgarh P.C.S. (Pre) 2021; I.A.S. (Pre) 2002
 Q: What is not true about the 44th Constitutional Amendment?

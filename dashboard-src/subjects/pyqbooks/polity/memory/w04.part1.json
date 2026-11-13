@@ -53,7 +53,7 @@
  },
  "25-028": {
   "r": "Parliamentary committees → Standing and Ad hoc; three main Standing Committees: Estimates, Public Accounts, Public Undertakings; 17 Department-related Standing Committees came in 1993.",
-  "c": "No answer printed (*): the explanation treats the listed committees as standing committees, so no option fits as 'not standing'."
+  "c": "All four are standing committees, so none fits. The book wrongly calls the SC/ST Welfare Committee a department-related standing committee; it is a separate standing committee of Parliament."
  },
  "25-029": {
   "r": "Lok Sabha Ethics Committee → initially ad hoc; cannot take up sub-judice matters; complaints not limited to Lok Sabha members. First Ethics Committee: Rajya Sabha, 1997.",
@@ -113,12 +113,10 @@
   "r": "PCR Act 1955 offences → tried by Judicial Magistrate First Class (special courts); in UP, Chief Judicial Magistrate/Judicial Magistrate courts are designated Special Courts."
  },
  "26-004": {
-  "r": "PCR Act 1955 → all offences are cognizable, triable summarily and non-compoundable.",
-  "c": "Book prints two answers, (a) and (b)."
+  "r": "PCR Act 1955 → all offences are cognizable, triable summarily and non-compoundable."
  },
  "26-005": {
-  "r": "PCR Act 1955 → Section 15(1): all offences cognizable; Section 10A(1): State Government can impose collective fine; punishment is imprisonment and fine.",
-  "c": "Book prints two answers, (a) and (d)."
+  "r": "PCR Act 1955 → Section 15(1): all offences cognizable; Section 10A(1): State Government can impose collective fine; punishment is imprisonment and fine."
  },
  "26-006": {
   "r": "PCR Act 1955, Section 5 → refusing admission to hospital, dispensary or educational institution on ground of untouchability; jail one to six months plus fine.",
@@ -226,7 +224,7 @@
  },
  "26-036": {
   "r": "SC/ST Atrocities Rules, 1995 → investigating officer to finish investigation within thirty days and report to Superintendent of Police; rule changed by Amendment Rules, 2016.",
-  "c": "No answer printed (*): the 30-day rule of 1995 was changed in 2016, so the book treats the question as outdated."
+  "c": "MPPSC's key gave (d) 30 days, the 1995 rule; the 2016 amendment replaced it with a sixty-day limit for investigation plus charge-sheet, so the book marks none."
  },
  "26-037": {
   "r": "SC/ST (Prevention of Atrocities) Act, 1989 → anticipatory bail is barred.",
@@ -247,8 +245,8 @@
   "r": "Special Court (SC/ST Atrocities Act) → can remove a person, forfeit property, take measurements; cannot impose collective fine."
  },
  "26-042": {
-  "r": "SC/ST Atrocities Act prosecution → accused cannot plead private defence or 'only slight harm'; can plead he belongs to victim's caste.",
-  "c": "No single answer printed (*); the explanation says both (a) and (c) are correct."
+  "r": "SC/ST Atrocities Act applies only to accused who are not SC/ST; its Section 6 applies the IPC's general exceptions (Chapter IV), such as private defence. MPPSC gave bonus marks.",
+  "c": "The book says the accused cannot plead (a) or (c), but Section 6 of the Act applies the IPC's general exceptions, which include private defence and slight harm; MPPSC gave bonus marks."
  },
  "26-043": {
   "r": "SC/ST Atrocities Act → non-SC/ST person harming SC/ST member on allegation of witchcraft → jail six months to five years, plus fine."

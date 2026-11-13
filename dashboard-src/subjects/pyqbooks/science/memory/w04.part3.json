@@ -1,0 +1,474 @@
+{
+ "21-035": {
+  "r": "Limestone → calcium carbonate (CaCO3), as calcite and aragonite; in iron extraction it binds silica impurities.",
+  "hi": [
+   "Limestone (चूना पत्थर)"
+  ]
+ },
+ "21-036": {
+  "r": "Cement → main raw materials limestone, silica clay, marl; lime about 60–65% of weight, silica 17–25%; heated to 1,450 °C in a kiln. More than one option fits."
+ },
+ "21-037": {
+  "r": "Cement sector → about 5–8% of global CO2 emissions; silica clay is mixed with limestone; limestone becomes lime in clinker production. II and III true, only one explains I."
+ },
+ "21-038": {
+  "r": "Plaster of Paris → calcium sulphate hemihydrate (CaSO4·½H2O), made by heating (calcining) gypsum; used for casts on broken bones.",
+  "h": "Gypsum holds 2 waters; Plaster of Paris keeps only half."
+ },
+ "21-043": {
+  "r": "Gypsum → calcium sulphate dihydrate (CaSO4·2H2O), contains calcium; used as fertilizer, plaster, chalk, drywall.",
+  "t": "Corundum is aluminium oxide and talc is magnesium silicate: no calcium."
+ },
+ "21-044": {
+  "r": "Monazite → ore of thorium (also lanthanum, cerium); rich in Indian coastal beach sands of Kerala, Tamil Nadu, Odisha, Andhra Pradesh.",
+  "hi": [
+   "Thorium (थोरियम)"
+  ]
+ },
+ "21-045": {
+  "r": "Mica → good conductor of heat but bad conductor of electricity; used as raw material in the electrical industry.",
+  "hi": [
+   "Mica (अभ्रक)"
+  ]
+ },
+ "21-047": {
+  "r": "Best heat conductor among mercury, water, ether, benzene → mercury, a liquid metal; used in thermometers (about −40 to 356°C).",
+  "hi": [
+   "Mercury (पारा)"
+  ]
+ },
+ "21-048": {
+  "r": "Poorest heat conductor among copper, lead, mercury, zinc → mercury (about 8.31 W/mK; lead 34.7 W/mK)."
+ },
+ "21-049": {
+  "r": "Mercury (quicksilver) → only common metal that is liquid at room temperature."
+ },
+ "21-050": {
+  "r": "Liquid at room temperature (298 K or 25°C) → bromine and mercury; francium, caesium, gallium, rubidium melt just above it. Among the options → francium."
+ },
+ "21-051": {
+  "r": "Mercury in thermometers → expands evenly with temperature ('high circulation power'), is shiny and easy to read, does not wet glass, conducts heat."
+ },
+ "21-052": {
+  "r": "No reaction with water at all → lead, copper, silver, gold, platinum. Magnesium reacts with hot water; aluminium, iron, zinc react only with steam."
+ },
+ "21-054": {
+  "r": "Iron is obtained from haematite (Fe2O3, about 69.9% Fe) and magnetite (Fe3O4, about 72.4% Fe).",
+  "hi": [
+   "Haematite (हेमेटाइट)"
+  ]
+ },
+ "21-055": {
+  "r": "Bailadila (Dantewada district, Chhattisgarh) → very high-grade haematite iron ore; first mapped by P.N. Bose (1898–1900)."
+ },
+ "21-056": {
+  "r": "Rusting → iron's weight increases, as iron combines with oxygen (with moisture) to form iron oxide.",
+  "hi": [
+   "Rusting (जंग लगना)"
+  ]
+ },
+ "21-058": {
+  "r": "Rust → iron oxide formed by iron, oxygen and moisture, not tannin (a plant substance used in tanning leather). A true, R false."
+ },
+ "21-059": {
+  "r": "Galvanised iron → iron or steel coated with zinc; zinc oxidises first and shields the iron from rust. A and R true, R explains A.",
+  "hi": [
+   "Galvanisation (जस्तीकरण)"
+  ]
+ },
+ "21-063": {
+  "r": "Oil is not stored in galvanised (zinc-coated) iron → zinc reacts with fatty acids and moisture, forming toxic compounds, speeding rancidity and corrosion. All of above."
+ },
+ "21-064": {
+  "r": "Corrosion (rusting) of iron → needs both oxygen and moisture; final product is hydrated iron (III) oxide, i.e. rust."
+ },
+ "21-065": {
+  "r": "Silver articles turn black in air → tarnishing: silver reacts with sulphur compounds (H2S) to form a black silver sulphide (Ag2S) coat. Both statements true."
+ },
+ "21-066": {
+  "r": "Brass utensils are coated with tin (Sn, atomic number 50) to prevent copper contamination.",
+  "hi": [
+   "Tinning (कलई)"
+  ]
+ },
+ "21-067": {
+  "r": "Anodising aluminium → electrochemical deposition of an aluminium oxide layer, making the surface durable and rust-resistant."
+ },
+ "21-068": {
+  "r": "More negative standard electrode potential → stronger reducing agent: B (–3 V) > C (–1.2 V) > A (0.5 V).",
+  "hi": [
+   "Reducing agent (अपचायक)"
+  ]
+ },
+ "21-069": {
+  "r": "Sodium → easily cut with a knife; Mercury → liquid at room temperature; Silver → good conductor of electricity; Lead → poor conductor of heat."
+ },
+ "21-070": {
+  "r": "Silver → best conductor of heat and electricity; Aluminium → metal found in highest amount; Gold → most flexible (malleable) metal; Lead → least heat-conducting."
+ },
+ "21-072": {
+  "r": "Aluminium → produced mainly from bauxite (hydrated aluminium oxides: gibbsite, boehmite, diaspore); bauxite named after Les Baux village, southern France.",
+  "hi": [
+   "Bauxite (बॉक्साइट)"
+  ]
+ },
+ "21-078": {
+  "r": "Corundum (Al2O3) and cryolite (Na3AlF6) → ores of aluminium, with bauxite and diaspore. Aluminium is third most abundant in the crust, after oxygen and silicon."
+ },
+ "21-079": {
+  "r": "Correct statement (book): calcium carbonate is an abrasive ingredient of toothpaste, used only in opaque pastes as it is insoluble.",
+  "c": "Both (a) and (b) are true: liquid sodium cools fast breeder reactors (the book itself names the FBTR), and calcium carbonate is a toothpaste abrasive. The book keeps (b)."
+ },
+ "21-080": {
+  "r": "Cracking → petroleum; Smelting → copper; Hydrogenation → edible fats; Vulcanisation → rubber.",
+  "hi": [
+   "Vulcanisation (वल्कनीकरण)"
+  ]
+ },
+ "21-081": {
+  "r": "Diamond → carbon; Marble → calcium (calcium carbonate); Sand → silicon (silicon dioxide, quartz); Ruby → aluminium."
+ },
+ "21-082": {
+  "r": "Cinnabar → ore of mercury, not copper (copper → cuprite). Correct: aluminium – bauxite; zinc – calamine; iron – haematite.",
+  "hi": [
+   "Ore (अयस्क)"
+  ]
+ },
+ "21-083": {
+  "r": "Metals lighter than water (1 g/cm³) → lithium 0.53, potassium 0.862, sodium 0.971 g/cm³."
+ },
+ "21-084": {
+  "r": "Decreasing density: gold (19.3) > mercury (13.6) > steel (7.8 g/cm³).",
+  "hi": [
+   "Density (घनत्व)"
+  ]
+ },
+ "21-085": {
+  "r": "Melting point: boron 2453 K > iron 1808 K > silicon 1693 K > aluminium 933 K; boron is highest."
+ },
+ "22-001": {
+  "r": "Copper → a pure metal, not an alloy; steel, brass and bronze are alloys.",
+  "hi": [
+   "Alloy (मिश्रधातु)"
+  ]
+ },
+ "22-002": {
+  "r": "Aeroplanes and train compartments → aluminium alloys (e.g. duralumin): low density, strength, easy shaping, corrosion resistance."
+ },
+ "22-003": {
+  "r": "Amalgam → alloy of mercury with another metal; almost all metals form amalgams except iron.",
+  "hi": [
+   "Amalgam (अमलगम)"
+  ]
+ },
+ "22-005": {
+  "r": "Amalgam → mercury + another metal, so Mercury – Zinc is an amalgam."
+ },
+ "22-006": {
+  "r": "Solder → tin + lead (about 32% tin, 68% lead); low melting point, good for heat-sensitive parts."
+ },
+ "22-007": {
+  "r": "Bronze → copper + tin (most modern bronze about 88% copper, 12% tin).",
+  "t": "Brass is copper + zinc; bronze is copper + tin."
+ },
+ "22-009": {
+  "r": "German silver → nickel (alloy of copper, zinc, nickel; 0% silver, no aluminium); Solder → tin; Bleaching powder → chlorine (calcium hypochlorite); Hypo → sodium (sodium thiosulphate)."
+ },
+ "22-013": {
+  "r": "Copper share: bronze about 88% (highest), gunmetal 85%, brass 68–71% (rest zinc), German silver about 50%. Copper is common to brass, bronze and German silver."
+ },
+ "22-019": {
+  "r": "True: brass = copper + zinc; amalgams mainly involve mercury. False: magnetite is an iron ore, not aluminium; photography uses silver bromide, not potassium nitrate."
+ },
+ "22-020": {
+  "r": "Brass loses its colour (fades) in air → due to hydrogen sulphide."
+ },
+ "22-021": {
+  "r": "Nickel added to stainless steel → makes it non-magnetic; extra carbon → more hardness."
+ },
+ "22-022": {
+  "r": "Steel is made harder by increasing carbon; carbon distorts iron's crystal lattice and hardens it."
+ },
+ "22-023": {
+  "r": "Steel slag (by-product of steel making; 16–25% iron, with calcium, silicon) → usable for road base, improving farm soil, and cement (up to 10% of clinker mix). All three."
+ },
+ "22-024": {
+  "r": "Chromium added to iron → stainless steel that resists corrosion, rust and high temperature, with high hardness.",
+  "hi": [
+   "Stainless steel (स्टेनलेस स्टील)"
+  ]
+ },
+ "22-026": {
+  "r": "Stainless steel ≈ iron 89.4%, chromium 10.0%, manganese 0.35%, carbon 0.25% (plus a little nickel); silicon is not used. Chromium is the key metal."
+ },
+ "22-032": {
+  "r": "Steel → iron + carbon, with up to 2% carbon (option 0.1–2%)."
+ },
+ "23-001": {
+  "r": "Carbon → forms the maximum number of compounds among the elements."
+ },
+ "23-002": {
+  "r": "Diamond (relative density 3.5) and graphite (2.25) are carbon allotropes; coal is carbon-rich fuel. All contain carbon, so 'None of these'.",
+  "hi": [
+   "Allotrope (अपररूप)"
+  ]
+ },
+ "23-004": {
+  "r": "Thermodynamically most stable form of carbon → graphite (layers of graphene sheets, weakly bonded)."
+ },
+ "23-005": {
+  "r": "Graphite and diamond → both pure carbon, so they undergo the same chemical reactions; they differ in crystal structure (tetrahedral vs layered), hardness, conductivity."
+ },
+ "23-007": {
+  "r": "Lab-grown diamonds → graphite as seed/carbon source under very high temperature and pressure (catalysts: chromium, iron, platinum). White sapphire (aluminium oxide) cannot form diamond."
+ },
+ "23-009": {
+  "r": "First synthesis order: Kevlar (1965, Stephanie Kwolek, DuPont) → Fullerene (1985) → Graphene (2004, Geim and Novoselov) → Black gold."
+ },
+ "23-010": {
+  "r": "Graphene → only carbon: a single layer of carbon atoms in a two-dimensional hexagonal lattice; basic unit of graphite, charcoal, carbon nanotubes, fullerenes.",
+  "hi": [
+   "Graphene (ग्राफीन)"
+  ]
+ },
+ "23-012": {
+  "r": "Oxocarbon → compound of carbon and oxygen only, not an allotrope of carbon. Allotropes: diamond, graphite, fullerenes."
+ },
+ "23-013": {
+  "r": "Pencil 'lead' → graphite mixed with a clay binder.",
+  "t": "Pencils contain no lead metal; it is graphite."
+ },
+ "23-015": {
+  "r": "Carbon fibres (90% or more carbon, made from PAN) → used in automobile and aircraft parts; they can be recycled, so statement 2 is wrong."
+ },
+ "23-016": {
+  "r": "Fullerenes (third carbon allotrope) → 1996 Chemistry Nobel to Robert Curl, Harold Kroto, Richard Smalley; named after architect Buckminster Fuller. 'Faimen' was not in the team."
+ },
+ "23-017": {
+  "r": "Fullerene → carbon allotrope, not a fluorine compound. Buckminsterfullerene C60: 60 carbon atoms, 12 pentagonal + 20 hexagonal faces, soccer-ball shape.",
+  "t": "Teflon is the fluorine-containing polymer, not fullerene."
+ },
+ "23-019": {
+  "r": "Wrong pair: Fullerene – fluorine organic compounds (it is a carbon allotrope). Correct: dry ice – solid CO2; keratin – protein of outer skin; mustard gas – chemical weapon."
+ },
+ "23-021": {
+  "r": "Wrong pair: Fullerene – fluorine polymer (fullerene is a hollow carbon allotrope). Correct: Pyrene – fire extinguisher; sulfur dioxide – acid rain; Freon – refrigerant."
+ },
+ "23-022": {
+  "r": "Sand → no carbon. Diamond, graphite (carbon allotropes) and coal (about 40–90% carbon) contain carbon."
+ },
+ "23-023": {
+  "r": "Lignite (a coal) → contains carbon. Carbon content: lignite 25–35%, sub-bituminous 35–45%, bituminous 45–86%, anthracite 86–97% (highest).",
+  "h": "L-S-B-A: Lignite lowest, Anthracite highest carbon.",
+  "hi": [
+   "Anthracite (एन्थ्रेसाइट)"
+  ]
+ },
+ "23-025": {
+  "r": "Highest carbon → pig iron (3.5–4.5%); carbon steel 0.2–1.5%; alloy steel 0.1–1%; wrought iron below 0.08%."
+ },
+ "23-026": {
+  "r": "Exam answer: sulfur (c). In fact sulfur also forms crystals (rhombic, monoclinic); diamond, quartz, graphite, salt, sugar and ice are crystalline.",
+  "c": "Sulfur does form crystals (rhombic and monoclinic sulfur); (c) is only the expected exam answer."
+ },
+ "23-027": {
+  "r": "Glass can be etched or scratched by diamond (abrasive, cuts glass) and hydrofluoric acid (HF, used for glass etching); not by aqua regia or concentrated sulfuric acid."
+ },
+ "23-028": {
+  "r": "Carat (unit for weighing gems and pearls) → 200 mg.",
+  "t": "Gem carat is a mass unit; gold carat measures purity."
+ },
+ "23-029": {
+  "r": "Graphene → two-dimensional carbon (not silicon), excellent electrical conductor, thinnest yet strongest material; used as conducting electrodes in touchscreens, LCDs, OLEDs. Isolated 2004 by Geim, Novoselov.",
+  "hi": [
+   "Graphene (ग्राफीन)"
+  ]
+ },
+ "23-031": {
+  "r": "True: calcium sulphate makes water hard; diamond is harder than copper and iron. False: air is mainly nitrogen (about 78%), not oxygen; vanaspati ghee uses hydrogenation, not nitrogen."
+ },
+ "23-032": {
+  "r": "Lubricant for heavy machines → graphite: black, anti-seize, anti-friction carbon allotrope (graphite grease).",
+  "hi": [
+   "Lubricant (स्नेहक)"
+  ]
+ },
+ "23-033": {
+  "r": "Graphite → used as a lubricant: hexagonal carbon layers held by weak van der Waals forces slide over each other."
+ },
+ "23-034": {
+  "r": "Dry ice → solid (frozen) carbon dioxide, CO2, also called dry snow.",
+  "t": "Not solid carbon monoxide and not frozen water."
+ },
+ "23-039": {
+  "r": "Water gas → carbon monoxide + hydrogen (CO + H2), a synthesis gas; makes methyl alcohol: CO + 2H2 → CH3OH.",
+  "hi": [
+   "Water gas (जल गैस)"
+  ]
+ },
+ "23-040": {
+  "r": "Gas escaping from a soda water bottle → carbon dioxide, dissolved under pressure to make the drink fizzy."
+ },
+ "23-041": {
+  "r": "Bond order of CO → 3. Bond order = ½ × (bonding − antibonding electrons); CO has 10 valence electrons (four from carbon, six from oxygen)."
+ },
+ "24-001": {
+  "r": "Element with four electrons in its outermost orbit (valency four) → hydride formula XH4."
+ },
+ "24-002": {
+  "r": "Hydrogen in water (H2O) by mass → 2/18 = 11.11%; molar mass of water = 2 + 16 = 18 g/mol."
+ },
+ "24-003": {
+  "r": "1 mole H2 = 2 g gives 290 kJ; 4 g = 2 moles → 290 × 2 = 580 kJ."
+ },
+ "24-004": {
+  "r": "Burning hydrogen (with oxygen) → produces water; hydrogen burns in air over a wide range, about 4–75% by volume."
+ },
+ "24-005": {
+  "r": "Least polluting fuel → hydrogen (burns to water); coal, kerosene and diesel are fossil fuels giving carbon dioxide and harmful gases.",
+  "hi": [
+   "Fuel (ईंधन)"
+  ]
+ },
+ "24-006": {
+  "r": "Hydrogen stored physically → compressed gas in high-pressure cylinders (350–700 bar), or as liquid."
+ },
+ "24-007": {
+  "r": "Heavy water (D2O, deuterium oxide) → both moderator and coolant in nuclear reactors: slows neutrons well and rarely absorbs them.",
+  "hi": [
+   "Heavy water (भारी जल)",
+   "Moderator (मंदक)"
+  ]
+ },
+ "24-014": {
+  "r": "Heavy water and deuterium → discovered by Harold C. Urey, American physical chemist; Chemistry Nobel 1934."
+ },
+ "24-015": {
+  "r": "Heavy water (D2O) → molecular weight about 20; ordinary water about 18, as deuterium is twice as heavy as ordinary hydrogen."
+ },
+ "24-016": {
+  "r": "Hard water (calcium and magnesium sulphates, chlorides) → unfit for drinking, washing with soap (scum), boilers (deposits) and irrigation: all four. These salts cause permanent hardness.",
+  "hi": [
+   "Hard water (कठोर जल)"
+  ]
+ },
+ "24-018": {
+  "r": "Pure water → pH 7 (neutral); below 7 acidic, above 7 basic (alkaline).",
+  "hi": [
+   "Neutral (उदासीन)"
+  ]
+ },
+ "24-020": {
+  "r": "Book's answer: rainwater is the purest form of water, as water on Earth mixes with acidic and alkaline minerals.",
+  "c": "Distilled water is normally taken as the purest form; rainwater picks up dissolved gases and dust. Rainwater is purest only among natural waters, so (d) is the better answer here."
+ },
+ "24-021": {
+  "r": "Water dissolves ionic salts well → it is polar (dipolar) with a high dipole moment and hydrates ions like Na+ and Cl–.",
+  "hi": [
+   "Dipole moment (द्विध्रुव आघूर्ण)"
+  ]
+ },
+ "24-023": {
+  "r": "Large-scale drinking water from saline water → desalination (removing salts and minerals); used for drinking, irrigation, industry."
+ },
+ "24-024": {
+  "r": "Chlorine → used to purify drinking water (kills bacteria and microbes); also in swimming pools and bleach.",
+  "hi": [
+   "Chlorination (क्लोरीनीकरण)"
+  ]
+ },
+ "24-025": {
+  "r": "Sea water → pure water by reverse osmosis (RO): pressure forces water through a semipermeable membrane, leaving salts behind; main large-scale desalination method."
+ },
+ "24-027": {
+  "r": "Alum (aluminium sulphate) cleans muddy water by coagulation: fine charged particles clump into heavy clusters and settle.",
+  "hi": [
+   "Alum (फिटकरी)",
+   "Coagulation (स्कंदन)"
+  ]
+ },
+ "24-028": {
+  "r": "Vanaspati ghee → hydrogenation: hydrogen passed through vegetable oil at 8–10 atmospheres and 150–180°C with nickel (Ni) catalyst.",
+  "hi": [
+   "Hydrogenation (हाइड्रोजनीकरण)"
+  ]
+ },
+ "25-001": {
+  "r": "Noble gases (Group 18) → odourless, colourless, monatomic, very low reactivity: helium, neon, argon, krypton, xenon, radon. Actinium is not a noble gas.",
+  "hi": [
+   "Noble gas (उत्कृष्ट गैस)"
+  ]
+ },
+ "25-003": {
+  "r": "Air by volume: nitrogen about 78% (78–79%), oxygen 20.95%, argon 0.93%, carbon dioxide about 0.03% (lowest here)."
+ },
+ "25-005": {
+  "r": "Lighter than air (molar mass below about 28.97 g/mol) → helium (4.0 g/mol). Hydrogen chloride (36.5) and sulfur dioxide (64) are heavier."
+ },
+ "25-006": {
+  "r": "Gaseous cycles (reservoir: air or ocean) → nitrogen, oxygen, carbon, water; sedimentary cycles (crust) → iron, calcium, phosphorus, sulfur. Hydrogen is not counted."
+ },
+ "25-007": {
+  "r": "Deep-sea divers breathe oxygen + helium ('Heliox'): helium lowers airway resistance and, being poorly soluble, does not enter blood under pressure like nitrogen."
+ },
+ "25-010": {
+  "r": "Sulfur hexafluoride (SF6) → octahedral shape: six fluorine atoms around a central sulfur atom."
+ },
+ "25-011": {
+  "r": "Ammonia → easily soluble in water, as both are polar molecules that form hydrogen bonds."
+ },
+ "25-012": {
+  "r": "Laughing gas → nitrous oxide (N2O): colourless, causes euphoria; used as anaesthetic and sedative in medical and dental work.",
+  "t": "Nitrous oxide (N2O), not nitric oxide (NO) or nitrogen dioxide."
+ },
+ "25-017": {
+  "r": "'Stranger gas' → xenon (Xe, atomic number 54), noble gas of Group 18; about 0.08 parts per million of air; discovered by William Ramsay.",
+  "h": "Xenon from Greek 'xenos' = stranger."
+ },
+ "25-018": {
+  "r": "Nitrous oxide (N2O), not nitric oxide (NO), is laughing gas. True: Bordeaux mixture (copper sulphate + calcium hydroxide) is a fungicide; boric acid preserves food; dry ice = solid CO2."
+ },
+ "25-019": {
+  "r": "Nitrogen cycle: fixation, ammonification, nitrification, denitrification (bacteria turn nitrate/nitrite into nitrogen). Its discharge keeps nitrogen in lithosphere and atmosphere unchanged.",
+  "hi": [
+   "Nitrogen cycle (नाइट्रोजन चक्र)"
+  ]
+ },
+ "25-020": {
+  "r": "Permanent gas (thought incapable of liquefaction under normal conditions) → nitrogen, about 78% of air; others: hydrogen, carbon monoxide."
+ },
+ "25-021": {
+  "r": "Aircraft tyres → filled with nitrogen: it does not support combustion, preventing wheel fires on hot landings; lowest-cost such gas."
+ },
+ "25-022": {
+  "r": "Insectivorous plants trap and digest insects → to make up for nitrogen deficiency.",
+  "hi": [
+   "Insectivorous plant (कीटभक्षी पौधा)"
+  ]
+ },
+ "25-023": {
+  "r": "Insectivorous plants (Nepenthes, Dionaea, Drosera, Utricularia) → grow in waterlogged, nitrogen-deficient soil and take nitrogen from insects."
+ },
+ "25-024": {
+  "r": "Gas balloons → usually filled with helium: lighter than air, inert, does not form an explosive mixture with air."
+ },
+ "25-025": {
+  "r": "Helium is preferred to hydrogen in balloons → it is inert and does not form an explosive mixture with air; hydrogen is highly flammable.",
+  "t": "The reason is safety, not lower density: hydrogen is lighter than helium."
+ },
+ "25-026": {
+  "r": "Tear gas (book's answer: chlorine, used as a reagent to make it) → agents like alpha-chloroacetophenone, 2-chlorobenzalmalononitrile, acrolein; cause tears and pain."
+ },
+ "25-028": {
+  "r": "Foul smell of dead fish → amino compounds, mainly trimethylamine (a tertiary amine)."
+ },
+ "25-029": {
+  "r": "Iodine → solid (bluish-black, lustrous) at normal temperature. Halogens (fluorine, chlorine, bromine, iodine) have 7 outer electrons."
+ },
+ "25-030": {
+  "r": "Most reactive halogen → fluorine, the smallest atom. Halogens (fluorine, chlorine, bromine, iodine, astatine; also tennessine, 117) form Group 17.",
+  "hi": [
+   "Halogen (हैलोजन)"
+  ]
+ }
+}

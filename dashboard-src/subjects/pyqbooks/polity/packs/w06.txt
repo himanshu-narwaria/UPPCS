@@ -1467,7 +1467,7 @@ Explanation: The Mayor is the highest-ranking official in a Municipal Government
 Q: Which one of the following criteria for deciding an urban area, according to Census of India, is not correct? All places with:
 Options: (a) Either a Municipality or Corporation or Cantonment or Notified Town Area Committee. (b) A minimum population of 5000. (c) At least 60% of the male population engaged in non agricultural pursuits. (d) A density of population of at least 400 persons per square km.
 Answer: (c) At least 60% of the male population engaged in non agricultural pursuits.
-Explanation: All the areas, which include Municipality, Municipal Corporation, Cantonment Board or Notified Town Area Committee come under the urban areas ifthe following three conditions are satisfied- / (1) There must be a minimum population of 5000. / (2) A Minimum 75% of working men are engaged in non-agricultural activities, and / (3) ‘Population density’ must be at least 400 people per square kilometre.
+Explanation: All the areas, which include Municipality, Municipal Corporation, Cantonment Board or Notified Town Area Committee come under the urban areas if the following three conditions are satisfied- / (1) There must be a minimum population of 5000. / (2) A Minimum 75% of working men are engaged in non-agricultural activities, and / (3) ‘Population density’ must be at least 400 people per square kilometre.
 
 [41-200] Ch41 · Panchayati Raj and Community Development · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre) 2021
 Q: In the following questions, there are two statements. One is labelled as Assertion (A) and other is labelled as Reason (R):
@@ -1734,7 +1734,7 @@ Answer: (b) Madhya Pradesh
 Explanation: The maximum population of Scheduled Tribes is in the State of Madhya Pradesh. The descending order of the States given in the options in terms of their Scheduled Tribes population is- Madhya Pradesh, Rajasthan, Andhra Pradesh and Bihar.
 
 [42-013] Ch42 · Special Provisions Relating to Certain Classes · asked in 1 paper(s): U.P. Lower Sub. (Pre) 1998
-Q: In which offollowing there is no reservation for any caste?
+Q: In which of following there is no reservation for any caste?
 Options: (a) Rajya Sabha (b) Legislative Assembly of Jammu and Kashmir (c) State Legislative Council (d) All of above
 Answer: (a) Rajya Sabha; (c) State Legislative Council
 Explanation: The provision of reservation for Scheduled Castes and Scheduled Tribes has been made for Lok Sabha and State Legislative Assemblies under the Constitution. There is no reservation for any caste in the Rajya Sabha and State Legislative Council. / Note - After the Jammu and Kashmir Reorganisation Act, 2019, there is no existence of Legislative Council in the Union territory. According to this Act, seats shall be … [shortened in this brief; the book continues]
@@ -2472,7 +2472,7 @@ Answer: (a) December, 1971
 Explanation: On 3 December, 1971 India intervened on behalf of Bangladeshi refugees who migrated to the Indian side due to oppressive measures adopted in East Pakistan to suppress protest marches following Sheikh Mujibur Rahman’s arrest in western Pakistan. On 16 December, 1971 Pakistani Army unconditionally surrendered, and therefore Eastern Pakistan became a free Nation named as Bangladesh, and Sheikh Mujibur Rahman became its … [shortened in this brief; the book continues]
 
 [43-095] Ch43 · Miscellaneous · asked in 1 paper(s): U.P. Lower Sub. (Pre) 2004
-Q: Who is the founder ofterrorist group Lashkar-e-Taiba?
+Q: Who is the founder of terrorist group Lashkar-e-Taiba?
 Options: (a) Maulana Masood (b) Hafiz Muhammad Saeed (c) Umar Abdulla (d) Osama Bin Laden
 Answer: (b) Hafiz Muhammad Saeed
 Explanation: Lashkar-e-Taiba is an active terrorist organization in South Asia. It was founded by Hafiz Muhammad Saeed, Zafar Iqbal and Mahmoud Mohammad Bahaziq in 1990 at Kunar Province of Afghanistan.

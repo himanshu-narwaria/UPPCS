@@ -1,0 +1,139 @@
+{
+  "14-109": {
+    "r": "Thumba Equatorial Rocket Launch Station (TERLS) → set up in 1962 at Thiruvananthapuram, Kerala."
+  },
+  "14-110": {
+    "r": "Sriharikota → barrier island in Andhra Pradesh that separates Pulicat Lake from the Bay of Bengal; home of India's satellite launch centre."
+  },
+  "14-112": {
+    "r": "Kakrapar → nuclear power plant; Pokhran → atom bomb blast site; Thumba → rocket launching centre; Sriharikota → satellite launching station."
+  },
+  "14-113": {
+    "r": "February 2004 blast → at a solid propellant plant of Satish Dhawan Space Centre, Sriharikota."
+  },
+  "14-114": {
+    "r": "Aeroplane wing: convex top, concave bottom → air flows faster over the top, so pressure is lower above, giving lift; R (slower air on top) is false."
+  },
+  "14-115": {
+    "r": "'Black Box' (flight data recorder + cockpit voice recorder) → painted heat-resistant bright orange so it is easy to find in crash wreckage.",
+    "t": "Don't go by the name: the 'Black Box' is orange, not black."
+  },
+  "14-116": {
+    "r": "The Moon → Earth's only natural satellite; the fifth largest satellite in our solar system.",
+    "hi": ["Natural satellite (प्राकृतिक उपग्रह)"]
+  },
+  "14-117": {
+    "r": "Chandrayaan-1 (India's first Moon mission) → launched 22 October 2008 from Sriharikota, Andhra Pradesh; entered lunar orbit 8 November 2008; worked till 29 August 2009."
+  },
+  "14-120": {
+    "r": "Chandrayaan-2 → initially headed by Dr. M. Annadurai (also led Chandrayaan-1); later led by Muthayya Vanitha (Project Director) and Ritu Karidhal (Mission Director)."
+  },
+  "14-121": {
+    "r": "Chandrayaan-2 → approved 2008 under PM Manmohan Singh; lander Vikram, rover Pragyan; targeted the Moon's south polar region, NOT the north pole."
+  },
+  "14-122": {
+    "r": "Chandrayaan-2 → launched 22 July 2019 from Sriharikota (Andhra Pradesh) by GSLV-MK III-M1; reached lunar orbit 20 August 2019."
+  },
+  "14-123": {
+    "r": "Chandrayaan-2 launch vehicle → GSLV-MkIII-M1 (LVM3): three-stage heavy-lift rocket with cryogenic upper stage; 4 ton class to GTO or about 10 tons to LEO."
+  },
+  "14-124": {
+    "r": "Chandrayaan-3 → follow-on to Chandrayaan-2 to show safe landing and roving; launched by LVM3; Vikram lander + Pragyan rover; India fourth country to soft-land on Moon."
+  },
+  "14-126": {
+    "r": "APXS (Alpha Particle X-ray Spectrometer) on Chandrayaan-3's Pragyan rover → found elemental composition (Mg, Al, Si, K, Ca, Ti, Fe) of lunar soil; other payload: LIBS."
+  },
+  "14-127": {
+    "r": "LUPEX (Chandrayaan-5) → India (ISRO)–Japan (JAXA) joint mission to the Moon's south pole, approved 10 March 2025; statement 2 on lander/rover roles is wrong."
+  },
+  "14-128": {
+    "r": "Moon Express → world's first private flight plan to the Moon; approved by the Federal Aviation Administration on 3 August 2016."
+  },
+  "14-129": {
+    "r": "China's Chang'e 6 → first to bring soil from the far (dark) side of the Moon; launched 3 May, landed 1 June, returned 25 June 2024."
+  },
+  "14-130": {
+    "r": "Luna-25 (Roscosmos, August 2023) → failed lander near lunar south pole; first of China–Russia ILRS missions, rival to US-led Artemis Accord → A, R true, R explains A."
+  },
+  "14-131": {
+    "r": "Aditya-L1 → ISRO's first space observatory to study the Sun, in halo orbit around Sun-Earth L1 (about 1.5 million km away); PSLV-C57, 2 September 2023.",
+    "hi": ["Solar mission (सौर मिशन)"]
+  },
+  "14-132": {
+    "r": "Aditya-L1 → seven payloads: four view the Sun directly (VELC, SUIT, SoLEXS, HEL1OS); remaining three (ASPEX, PAPA, a magnetometer) study the L1 point.",
+    "h": "Seven = four looking at the Sun + three sampling at L1."
+  },
+  "14-133": {
+    "r": "Mangalyaan = Mars Orbiter Mission → launched 5 November 2013 by ISRO; in Mars orbit from 24 September 2014; India's first interplanetary mission.",
+    "hi": ["Mars Orbiter Mission (मंगलयान)"]
+  },
+  "14-135": {
+    "r": "Mangalyaan (MOM) → India first Asian nation and first in world to reach Mars orbit in first attempt; ISRO fourth agency (after USA, Soviet Union/Russia, EU), not second."
+  },
+  "14-136": {
+    "r": "Axiom-4, SpaDeX and Gaganyaan → all three support microgravity research (near-weightless state in Low Earth Orbit)."
+  },
+  "14-137": {
+    "r": "China's Tiangong space station → final module launched: Mengtian; first (core) module: Tianhe, 29 April 2021."
+  },
+  "14-138": {
+    "r": "Tianwen-1 → China's (CNSA) Mars spacecraft: orbiter, lander and Zhurong rover; launched 23 July 2020 on Long March 5."
+  },
+  "14-139": {
+    "r": "Shenzhou-7 (China, 25 September 2008) → carried three astronauts, not four; Long March II-F rocket; first Chinese spacewalk; crew returned safely."
+  },
+  "14-140": {
+    "r": "Micius (QUESS) → world's first quantum communications satellite, launched by China on 16 August 2016; named after an ancient Chinese philosopher."
+  },
+  "14-141": {
+    "r": "NISAR (NASA-ISRO Synthetic Aperture Radar) → joint NASA–ISRO Earth-observing radar satellite; partnership signed 2014; launch expected 2025."
+  },
+  "14-142": {
+    "r": "CNES (Centre National d'Etudes Spatiales) → space agency of France; signed joint maritime surveillance agreement with ISRO in March 2019."
+  },
+  "14-143": {
+    "r": "Arktika-M → Russia's satellite to monitor Arctic climate, launched 28 February 2021; can also relay distress signals (Cospas-Sarsat)."
+  },
+  "14-144": {
+    "r": "JAXA (Japan) → used steam (water propellant) to propel CubeSat EQUULEUS (November 2022), launched with Artemis 1; first such orbit control beyond low-Earth orbit."
+  },
+  "14-145": {
+    "r": "World's smallest satellite-carrying rocket → launched by JAXA (Japan Aerospace Exploration Agency) in February 2018."
+  },
+  "14-146": {
+    "r": "NASA's Jet Propulsion Laboratory (JPL) → Pasadena, California, USA."
+  },
+  "14-147": {
+    "r": "Greased Lightning-10 (GL-10) → NASA's battery-powered electric plane with 10 engines; takes off like a helicopter, flies like an aircraft."
+  },
+  "14-148": {
+    "r": "SOFIA (Stratospheric Observatory for Infrared Astronomy) → NASA mission that confirmed water molecules on the Moon's sunlit surface (Clavius Crater, October 2020)."
+  },
+  "14-149": {
+    "r": "Lunar Trailblazer (NASA, launched 26 February 2025) → to detect and map water on the Moon's surface; contact was lost and mission ended 31 July 2025."
+  },
+  "14-150": {
+    "r": "Deep Impact (NASA, launched 12 January 2005) → crashed an impactor into comet Temple-1 (Tempel 1) nucleus on 4 July 2005, after 429 million km in 174 days."
+  },
+  "14-151": {
+    "r": "Phoenix → NASA Mars Scout Program lander; landed on Mars 25 May 2008."
+  },
+  "14-152": {
+    "r": "Spirit (MER-A) → first US rover to reach Mars, landed 4 January 2004 (active 2004–2010); twin rover Opportunity (MER-B)."
+  },
+  "14-153": {
+    "r": "NASA evidence for life on Mars → water (sulfates show past water), gypsum (a sulfate) and methane."
+  },
+  "14-154": {
+    "r": "Massive underground lake (20 km across, 1.5 km beneath southern polar ice cap) → found on Mars; reported in journal 'Science', July 2018."
+  },
+  "14-155": {
+    "r": "Methane in atmosphere → Mars (found by ESA's Mars Express, NASA's Curiosity) and Jupiter (traces; mainly hydrogen and helium); the book accepts both (c) and (d)."
+  },
+  "14-156": {
+    "r": "Saturn's atmosphere → about 75% hydrogen and 25% helium, with traces of methane, ammonia, water ice; among the options, methane fits best."
+  },
+  "14-157": {
+    "r": "Least dense planet → Saturn (0.7 g/cm³); Earth densest (5.5), then Mercury (5.4), Venus (5.2), Mars (3.9)."
+  }
+}

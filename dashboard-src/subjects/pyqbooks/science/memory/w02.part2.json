@@ -1,0 +1,553 @@
+{
+ "10-061": {
+  "r": "Sodium lamps light in 360° (LEDs about 180°, directional); sodium light is almost monochromatic, LEDs give better colour. False: sodium lamps outlive LEDs (LEDs last 50,000–100,000 hours).",
+  "hi": [
+   "Monochromatic (एकवर्णी)"
+  ]
+ },
+ "10-062": {
+  "r": "Fluorescent tube → low-pressure mercury vapour with noble gases (argon, neon, xenon, krypton); answer: mercury and neon."
+ },
+ "10-063": {
+  "r": "Fluorescent tube is preferred because it turns more electricity into light (about 22% vs about 5% for a 100 W bulb), but not almost all; so 'none of these'."
+ },
+ "10-064": {
+  "r": "Tube light: electrons hit mercury gas molecules and oscillate them → ultraviolet; the fluorescent coating converts UV into white light.",
+  "hi": [
+   "Fluorescence (प्रतिदीप्ति)"
+  ]
+ },
+ "10-065": {
+  "r": "Electric bulb (Edison): tungsten filament; filled with nitrogen and argon (not oxygen, air or CO2) to prevent oxidation.",
+  "hi": [
+   "Inert gas (अक्रिय गैस)"
+  ]
+ },
+ "10-066": {
+  "r": "Tube-light choke coil steps up the voltage to start the tube, then controls voltage to protect it; the starter sends current to the choke."
+ },
+ "10-067": {
+  "r": "Electric potential → scalar quantity: work needed to move a unit charge from a reference point to a point against an electric field.",
+  "hi": [
+   "Electric potential (विद्युत विभव)"
+  ]
+ },
+ "10-068": {
+  "r": "Power P = V × I; doubling both V and I → P' = 2V × 2I = 4P (four times)."
+ },
+ "10-069": {
+  "r": "R = ρl/A: double resistivity, double length and double radius (four times area) → R × 2 × 2 ÷ 4 = unchanged, so thicker wire is also 10 ohm."
+ },
+ "10-070": {
+  "r": "When n identical drops (potential V each) merge: big radius R = n^(1/3) r, charge nq → potential of big drop = n^(2/3) V."
+ },
+ "10-071": {
+  "r": "Field at coil centre B = μ0NI/2r = 4π × 10⁻⁷ × 100 × 1 ÷ (2 × 0.1) = 2π × 10⁻⁴ ≈ 6.28 × 10⁻⁴ T."
+ },
+ "10-072": {
+  "r": "Transformer steps voltage up or down (A true) but works only with AC, not DC (R false).",
+  "hi": [
+   "Transformer (ट्रांसफार्मर)"
+  ]
+ },
+ "10-073": {
+  "r": "Transformer → steps AC voltage up or down; AC in the primary coil induces voltage in the secondary coil.",
+  "t": "Don't confuse: a transformer does not convert AC to DC or DC to AC; it only changes AC voltage."
+ },
+ "10-075": {
+  "r": "Mobile phone charger → step-down transformer: brings 220 V AC down to about 9–10 V, then converts AC to DC."
+ },
+ "10-076": {
+  "r": "Correct pairs: generator → mechanical to electrical; motor → electrical to mechanical. Wrong: diesel engine (compression heat ignites fuel), solar cell (sunlight → electricity)."
+ },
+ "10-077": {
+  "r": "AC is produced by a dynamo (AC dynamo or alternator: coil rotating in a magnetic field); a commutator in a DC dynamo gives DC.",
+  "hi": [
+   "Alternating current (प्रत्यावर्ती धारा)"
+  ]
+ },
+ "10-078": {
+  "r": "AC generator → slip rings; DC generator → commutator (reverses the voltage every half cycle).",
+  "h": "DC goes with Commutator."
+ },
+ "10-079": {
+  "r": "AC is not used to charge storage batteries; they need DC, obtained from AC through a rectifier."
+ },
+ "10-080": {
+  "r": "Rectifier → AC to DC; inverter → DC to AC; transformer → supplies AC at different voltages to appliances.",
+  "t": "Don't swap rectifier (AC → DC) with inverter (DC → AC).",
+  "hi": [
+   "Rectifier (दिष्टकारी)"
+  ]
+ },
+ "10-082": {
+  "r": "India's grid runs at 50 Hz (±0.5 Hz allowed), not 60 Hz (R false); distribution companies bill consumption in kWh (A true)."
+ },
+ "10-083": {
+  "r": "Book: replacing diesel train engines with electric ones → only argument I is strong (diesel engines cause much pollution); 'India lacks electricity' is weak."
+ },
+ "10-084": {
+  "r": "Power rating, ascending: fan < television < electric press (iron) < electric kettle."
+ },
+ "10-085": {
+  "r": "Earth's magnetic field comes from electric currents in its conducting core, driven by convection of escaping heat (not a huge central magnet).",
+  "hi": [
+   "Magnetic field (चुंबकीय क्षेत्र)"
+  ]
+ },
+ "10-086": {
+  "r": "Artificial satellites get electricity from solar (photovoltaic) cells, which turn sunlight into electricity by the photovoltaic effect.",
+  "hi": [
+   "Solar cell (सौर सेल)"
+  ]
+ },
+ "10-087": {
+  "r": "Space-based solar power: collected by orbiting satellites, beamed at 2.45 GHz to rectennas; 99% uninterrupted, so APJ Abdul Kalam urged it as a national goal (A, R true)."
+ },
+ "10-088": {
+  "r": "Only 1 true: photovoltaics turn light directly into electricity; solar thermal makes heat for power. False: PV gives DC (not AC); India does make PV (2000 MW, 2013).",
+  "hi": [
+   "Photovoltaic (प्रकाश-वोल्टीय)"
+  ]
+ },
+ "10-089": {
+  "r": "Solar power can run both surface and submersible pumps, and both centrifugal and piston (reciprocating) pumps → both statements false."
+ },
+ "10-090": {
+  "r": "Solar cells use silicon (crystalline mono/poly or thin film); about 90% of solar cells on the market are silicon.",
+  "hi": [
+   "Silicon (सिलिकॉन)"
+  ]
+ },
+ "10-091": {
+  "r": "Photovoltaic cells = solar cells: they turn solar (light) energy into electricity by the photovoltaic effect; silicon is the main material."
+ },
+ "10-094": {
+  "r": "Photoelectric cell → converts light energy into electric energy; photoelectric effect discovered by Heinrich Hertz in 1887.",
+  "hi": [
+   "Photoelectric effect (प्रकाश-विद्युत प्रभाव)"
+  ]
+ },
+ "10-095": {
+  "r": "Book: photovoltaic (solar) cell is the photoelectric device most suited to digital uses (powers satellite communication); a photodiode only switches with light, generating no electricity."
+ },
+ "10-096": {
+  "r": "Net metering → billing system that credits solar (rooftop PV) owners for electricity they add to the grid; the meter runs backwards.",
+  "hi": [
+   "Net metering (नेट मीटरिंग)"
+  ]
+ },
+ "10-097": {
+  "r": "Both false: India is not a leading silicon wafer maker (China, Taiwan, South Korea lead, 2024); solar tariffs are set by CERC and SERCs, not SECI."
+ },
+ "10-098": {
+  "r": "Distributed energy resources (small, near the user): rooftop solar PV, battery storage, biomass generators, fuel cells, wind units, mini-hydro → all four.",
+  "hi": [
+   "Fuel cell (ईंधन सेल)"
+  ]
+ },
+ "10-099": {
+  "r": "EV lithium-ion battery cathode → lithium, nickel, cobalt (NMC) or LFP; graphite forms the anode → three of the four.",
+  "t": "Don't put graphite in the cathode; it is the anode material."
+ },
+ "10-100": {
+  "r": "Alternative powertrain vehicles (not only petrol/diesel engines): battery electric, hydrogen fuel cell and fuel cell–electric hybrid → all three."
+ },
+ "10-101": {
+  "r": "Pumped-storage hydropower → long-duration energy storage: surplus power pumps water uphill; it flows down through turbines when demand rises, like a giant battery.",
+  "hi": [
+   "Energy storage (ऊर्जा भंडारण)"
+  ]
+ },
+ "10-102": {
+  "r": "Not true: India's wind capacity is about 56.09 GW (31 March 2026), not 400 GW. India is 4th (after China, USA, Germany); Gujarat has maximum potential."
+ },
+ "10-103": {
+  "r": "Not correct: Madhya Pradesh is seventh (not third) in wind capacity. By 2026 Gujarat leads (27.89%), ahead of Tamil Nadu (21.65%)."
+ },
+ "11-001": {
+  "r": "Conductor → many free electrons, low resistance, high thermal conductivity.",
+  "hi": [
+   "Conductor (चालक)"
+  ]
+ },
+ "11-002": {
+  "r": "Best electrical conductor → silver, then copper, aluminium and iron.",
+  "h": "Silver > Copper > Aluminium > Iron: \"Some Cats Avoid Ice\".",
+  "hi": [
+   "Silver (चाँदी)"
+  ]
+ },
+ "11-005": {
+  "r": "Salt water, orange juice and lemon juice all conduct electricity (ions, salts, acids) → none is a bad conductor."
+ },
+ "11-006": {
+  "r": "Lightning conductors use copper, not iron: copper conducts electricity better and does not oxidise or rust easily (A, R true; R explains A)."
+ },
+ "11-007": {
+  "r": "Temperature difference along one conductor creates a potential difference; heat is absorbed or released when current flows → Thomson effect."
+ },
+ "11-008": {
+  "r": "Closed car is safe from lightning: it acts as a hollow conductor (Faraday cage), and charge inside a closed conductor is zero (A, R true; R explains A).",
+  "hi": [
+   "Faraday cage (फैराडे पिंजरा)"
+  ]
+ },
+ "11-009": {
+  "r": "Ultra-high-speed switching circuits → tunnel diode (quantum tunnelling; negative resistance)."
+ },
+ "11-010": {
+  "r": "Superconductor → zero electrical resistance and (book) zero permeability.",
+  "hi": [
+   "Superconductor (अतिचालक)"
+  ]
+ },
+ "11-011": {
+  "r": "Superconductivity at room temperature would save billions of rupees: electric transmission without power loss."
+ },
+ "11-012": {
+  "r": "Highest superconducting temperature (book): lanthanum decahydride, about 250–260 K at 168–180 GPa (2019); superconductivity was found in 1911 near absolute zero (–273.15°C).",
+  "c": "When asked (2013), the accepted record at normal pressure was about 133 K (a mercury-based cuprate), option (b). Lanthanum hydride reached about 250–260 K only in 2019, under enormous pressure."
+ },
+ "11-013": {
+  "r": "High-temperature superconductors → ceramic oxides (Hg/Tl, Ba, Ca, copper oxide); reported 1993, transition temperature 94–135 K."
+ },
+ "11-014": {
+  "r": "At 0 K (absolute zero) a semiconductor (germanium, silicon) acts as a perfect insulator → conductivity zero.",
+  "hi": [
+   "Semiconductor (अर्धचालक)"
+  ]
+ },
+ "11-015": {
+  "r": "On heating, a semiconductor's resistance decreases: more electrons are freed, so more carriers (negative temperature coefficient)."
+ },
+ "11-017": {
+  "r": "Conduction in a semiconductor → by both free electrons and holes (created when heat breaks covalent bonds)."
+ },
+ "11-018": {
+  "r": "Electron–hole pairs come from thermal excitation, impact ionisation and photo-excitation; impurity injection (doping) does not create them.",
+  "hi": [
+   "Doping (अपमिश्रण)"
+  ]
+ },
+ "11-019": {
+  "r": "At absolute zero a semiconductor's conductivity is zero → resistance is infinite (behaves like an insulator)."
+ },
+ "11-020": {
+  "r": "Transistors use the semiconductors germanium and silicon; silicon is the most common material."
+ },
+ "11-023": {
+  "r": "Semiconductors → silicon and germanium (four valence electrons each); quartz and ceramics are not. Silicon is preferred as it works at higher temperatures."
+ },
+ "11-026": {
+  "r": "India banned export of burnt coal (Jhama) because it holds recoverable germanium, used in transistors; germanium also comes from zinc smelting."
+ },
+ "12-001": {
+  "r": "Not matched: transuranic synthesis → Glenn T. Seaborg, not Enrico Fermi. Meson → Hideki Yukawa (1935); positron → C.D. Anderson (1932); stellar energy → H.A. Bethe (1938)."
+ },
+ "12-002": {
+  "r": "Not correct: splitting a nucleus is fission, not fusion. Correct: Darwin → evolution; dry ice → solid carbon dioxide; Graham Bell → telephone.",
+  "hi": [
+   "Nuclear fission (नाभिकीय विखंडन)"
+  ]
+ },
+ "12-003": {
+  "r": "Book: Rutherford told the Royal Society man would never get nuclear energy, sure Einstein's mass–energy law would fail (A and R true, R explains A)."
+ },
+ "12-004": {
+  "r": "Microwave photons: Gunter Nimtz and Alfons Stahlhofen (Koblenz, Germany) claimed to push them faster than light, against Einstein's special relativity."
+ },
+ "12-005": {
+  "r": "Cyclotron accelerates charged particles (protons, deuterons, alpha particles) to very high speed; not neutrons."
+ },
+ "12-006": {
+  "r": "Scintillation counter detects ionising radiation (light pulses in a scintillator) → can check gamma-emitting isotopes in drinking water."
+ },
+ "12-007": {
+  "r": "Sun and stars get energy from nuclear fusion: hydrogen fuses into helium in the core; gravitational contraction also supplies energy.",
+  "hi": [
+   "Nuclear fusion (नाभिकीय संलयन)"
+  ]
+ },
+ "12-012": {
+  "r": "Reactor (atomic pile) uses U-235/Pu-239; chain reaction sustains because each fission frees more neutrons and graphite/heavy water slows fast neutrons (statements 1, 3)."
+ },
+ "12-014": {
+  "r": "Fission → nuclear reactors, atom bombs, neutron-induced reactions; energy in stars comes from fusion, not fission."
+ },
+ "12-015": {
+  "r": "Fusion reactors fuse light nuclei (not fission of heavy nuclei); usually Tokamak design; very high temperature (thermonuclear) → ii and iii.",
+  "hi": [
+   "Thermonuclear (तापनाभिकीय)"
+  ]
+ },
+ "12-016": {
+  "r": "Nuclear reactor → controlled (moderated) chain reaction for peaceful use; atom bomb → uncontrolled chain reaction."
+ },
+ "12-017": {
+  "r": "Radioactivity is a nuclear property (unstable nuclei emit alpha, beta, gamma rays); hydrogen bomb works on fusion, not fission → only 1.",
+  "hi": [
+   "Radioactivity (रेडियोधर्मिता)"
+  ]
+ },
+ "12-018": {
+  "r": "Monazite: radioactive phosphate, India's main source of rare earths and thorium; only government bodies (IREL) process/export it; not in all coastal sands → 1, 2, 4.",
+  "hi": [
+   "Rare earths (दुर्लभ मृदा)"
+  ]
+ },
+ "12-019": {
+  "r": "India's abundant nuclear fuel → thorium; monazite (its main source) is estimated at 13.15 million tonnes (DAE).",
+  "hi": [
+   "Thorium (थोरियम)"
+  ]
+ },
+ "12-021": {
+  "r": "Thorium over uranium: about 3 times more abundant, more energy per unit mass mined, less harmful waste (no plutonium-type transuranics) → all three."
+ },
+ "12-022": {
+  "r": "Statement-I true: India relies on coal (thermal about 43.5% of capacity) despite uranium deposits. Statement-II false: power reactors use 3–5% enriched U-235, not 60%."
+ },
+ "12-023": {
+  "r": "Cadmium is not a nuclear fuel; it absorbs neutrons and is used in control rods. Fuels: thorium, plutonium, uranium.",
+  "hi": [
+   "Control rod (नियंत्रक छड़)"
+  ]
+ },
+ "12-024": {
+  "r": "Chromium has no link with atomic power; monazite → thorium ore; beryllium oxide → reactor moderator."
+ },
+ "12-025": {
+  "r": "Helium (inert gas) is not a nuclear fuel; radioactive uranium, thorium and radium can be (book)."
+ },
+ "12-026": {
+  "r": "Calcium and lead are not nuclear fuels; fuels: uranium-235, plutonium-239, and thorium (bred into uranium-233)."
+ },
+ "12-028": {
+  "r": "Atom bomb → nuclear fission (enriched uranium or plutonium); hydrogen (thermonuclear) bomb → fusion.",
+  "hi": [
+   "Atom bomb (परमाणु बम)"
+  ]
+ },
+ "12-030": {
+  "r": "Hydrogen bomb → uncontrolled nuclear fusion of hydrogen isotopes deuterium and tritium into helium; atom bomb → fission of uranium.",
+  "t": "Don't confuse: A-bomb = fission; H-bomb = fusion."
+ },
+ "12-032": {
+  "r": "Hydrogen bomb → Edward Teller, 'father of the hydrogen bomb' (born 1908, Hungary); first US fusion bomb test November 1952 at Eniwetok."
+ },
+ "12-033": {
+  "r": "Enriched uranium → natural uranium whose U-235 share is raised artificially by isotope separation.",
+  "hi": [
+   "Enriched uranium (संवर्धित यूरेनियम)"
+  ]
+ },
+ "12-034": {
+  "r": "Uranium decays through a long radioactive chain until stable lead forms."
+ },
+ "12-035": {
+  "r": "Half-life 4 months: 3/4 decayed means 1/4 left = two half-lives → 2 × 4 = 8 months.",
+  "h": "Each half-life halves it: 1 → 1/2 → 1/4.",
+  "hi": [
+   "Half-life (अर्ध-आयु)"
+  ]
+ },
+ "12-036": {
+  "r": "Half-life 5 years: 20 years = 4 half-lives → remaining (1/2)⁴ = 1/16."
+ },
+ "12-037": {
+  "r": "Half-life 10 days: after 20 days 1/4 remains, so 3/4 (75%) has decayed."
+ },
+ "12-038": {
+  "r": "Zirconium (atomic number 40) is not radioactive; astatine (85), francium (87) and tritium (hydrogen isotope) are. Elements above 80 are generally radioactive."
+ },
+ "12-039": {
+  "r": "Nuclear power plants use U-235; natural uranium has only about 0.7% U-235, reactors need 3–5% (enrichment)."
+ },
+ "12-040": {
+  "r": "Uranium produces electricity in nuclear plants: 1 kg U-235 ≈ 20 terajoules ≈ 1500 tons of coal."
+ },
+ "12-041": {
+  "r": "Radioactive substances emit alpha, beta and gamma rays (invisible) as unstable nuclei turn into stable ones."
+ },
+ "12-042": {
+  "r": "Without control rods the chain reaction would go out of control; rods are made of boron, silver, indium, cadmium."
+ },
+ "12-043": {
+  "r": "India's first nuclear power plant → Tarapur (Palghar, Maharashtra), operational 1969; original capacity 320 MW (160 × 2)."
+ },
+ "12-044": {
+  "r": "India's first atomic power station → Tarapur (1969); Apsara (1956) and Cirus (1960) at BARC Trombay were only research reactors.",
+  "t": "Don't pick BARC: its Apsara and Cirus were research reactors, not power stations."
+ },
+ "12-045": {
+  "r": "BARC Director: Dr Ratan Kumar Sinha (19 May 2010–19 June 2012) at question time; Vivek Bhasin since 15 September 2023.",
+  "c": "The book gives no single answer (*) because the post has changed; at the time it was R.K. Sinha (option b)."
+ },
+ "12-046": {
+  "r": "Dhruva, Purnima, Cirus → Indian research reactors; Cirus from Canada (1960, shut 2010); Dhruva 100 MW on indigenous natural uranium."
+ },
+ "12-047": {
+  "r": "Indian reactors mainly use natural uranium (about 99.284% U-238, 0.7% U-235); book's answer: U-238."
+ },
+ "12-048": {
+  "r": "Shivanasamudra → hydel power (Kaveri, 1902, Karnataka's first); Kalpakkam → nuclear energy (Tamil Nadu)."
+ },
+ "12-049": {
+  "r": "Kalpakkam (Tamil Nadu) → nuclear plants: Madras Atomic Power Station, Indira Gandhi Centre for Atomic Research (1971), 500 MWe Prototype Fast Breeder Reactor."
+ },
+ "12-051": {
+  "r": "Fast Breeder Test Reactor, Kalpakkam: plutonium–uranium carbide fuel (answer plutonium); based on French Rhapsody; went critical 18 October 1985."
+ },
+ "12-052": {
+  "r": "Kalpakkam Fast Breeder Test Reactor coolant → liquid sodium (reacts with air or water); fuel uranium–plutonium mixed carbide; running since 1985.",
+  "h": "Fast breeder is cooled by sodium, not water."
+ },
+ "12-053": {
+  "r": "Kalpakkam fast breeder (PFBR): 500 MWe, so over 200 MW; fuel mixed uranium (U-238)–plutonium oxide, not carbide; the 13 MWe FBTR uses carbide (book: 1 and 3)."
+ },
+ "12-054": {
+  "r": "Not matched: Harishchandra Research Institute (maths, theoretical physics) is in Prayagraj, not Chennai. IGCAR → Kalpakkam; AMD → Hyderabad; Saha Institute → Kolkata."
+ },
+ "12-055": {
+  "r": "All four under Department of Atomic Energy: AMD (Hyderabad), Heavy Water Board (Mumbai), Indian Rare Earths (Mumbai), Uranium Corporation (Jaduguda, Jharkhand).",
+  "hi": [
+   "Department of Atomic Energy (परमाणु ऊर्जा विभाग)"
+  ]
+ },
+ "12-056": {
+  "r": "Heavy Water Board at Trombay (Mumbai) runs heavy water production; plants at Tuticorin, Kota, Baroda, Thal, Talcher, Manuguru, Hazira.",
+  "hi": [
+   "Heavy water (भारी जल)"
+  ]
+ },
+ "12-057": {
+  "r": "Kalpakkam → Tamil Nadu; Narora → Uttar Pradesh (Bulandshahar, on Ganga); Kakrapara → Gujarat (near Surat); Trombay → Maharashtra (Mumbai, BARC)."
+ },
+ "12-058": {
+  "r": "Kudankulam → Tamil Nadu; Kakrapar → Gujarat; Kaiga → Karnataka; Rawatbhata → Rajasthan."
+ },
+ "12-059": {
+  "r": "Not matched: Rajasthan Atomic Power Station is at Rawatbhata (Kota), not Udaipur. Narora → UP; Madras plant → Kalpakkam; Kaiga → Karnataka."
+ },
+ "12-060": {
+  "r": "Not matched: Kaiga is in Uttara Kannada, Karnataka, not Tamil Nadu. Kalpakkam → Tamil Nadu; Kakrapar → Gujarat; Narora → UP."
+ },
+ "12-061": {
+  "r": "Atomic power plants: Narora (Bulandshahar, UP) and Kalpakkam (about 80 km south of Chennai), each with two 220 MWe units; not Ghatshila or Nangal."
+ },
+ "12-062": {
+  "r": "Narora (UP) → seismic zone IV; Kalpakkam → zone II; Kaiga and Tarapur → zone III.",
+  "hi": [
+   "Seismic zone (भूकंपीय क्षेत्र)"
+  ]
+ },
+ "12-063": {
+  "r": "Kaiga (Karnataka, on Kali river): its second 220 MWe unit was dedicated in March 2000 → the 'recently active' plant; now four 220 MWe units."
+ },
+ "12-064": {
+  "r": "Kudankulam (Tamil Nadu): six Russian units in all (two of 1000 MWe in phase one, four more under the December 2008 India–Russia agreement)."
+ },
+ "12-065": {
+  "r": "Heavy water (D2O) is a moderator: slows neutrons so the chain reaction continues; ordinary water (H2O), graphite and beryllium oxide also moderate.",
+  "hi": [
+   "Moderator (मंदक)"
+  ]
+ },
+ "12-070": {
+  "r": "Fast breeder reactor → makes electricity by fission and produces more fissile material than it burns.",
+  "hi": [
+   "Breeder reactor (प्रजनक रिएक्टर)"
+  ]
+ },
+ "12-072": {
+  "r": "NPCIL could sell Pressurised Heavy Water Reactors of 220 MWe or 540 MWe (Srikumar Banerjee, IAEA general meeting, Vienna, 2010).",
+  "c": "The book gives no single answer (*): the actual sizes, 220 MWe or 540 MWe, are not among the options."
+ },
+ "12-073": {
+  "r": "Largest installed nuclear capacity → Kudankulam (2000 MWe); Kakrapar 1840, Tarapur 1400, Kaiga 880 MWe."
+ },
+ "12-074": {
+  "r": "Installed capacity (end-March 2026): Kudankulam 2000 MWe (highest), Kakrapar 1840, Rawatbhata 1780, Tarapur 1400, Kaiga 880; India total 8780 MWe."
+ },
+ "12-075": {
+  "r": "Nuclear power is India's fourth-largest source: about 3% of generation in the question period; end-March 2026: 24 reactors, 8780 MWe ≈ 1.65% of installed capacity.",
+  "c": "The book gives no single answer (*), though its explanation puts nuclear's share at about 3% (option d) for the question period."
+ },
+ "12-076": {
+  "r": "Manhattan Project → World War II research programme (US with UK and Canada) that produced the first nuclear weapons; J. Robert Oppenheimer directed Los Alamos Laboratory."
+ },
+ "12-077": {
+  "r": "Pokhran-I (18 May 1974), India's first nuclear explosion → code name 'Smiling Buddha'."
+ },
+ "12-078": {
+  "r": "Pokhran-II (Operation Shakti): five nuclear tests on 11 and 13 May 1998."
+ },
+ "12-079": {
+  "r": "'Operation Shakti'-98 → India's 5 underground nuclear tests at Pokhran, Rajasthan, on 11 and 13 May 1998."
+ },
+ "12-080": {
+  "r": "Pokhran (1998 tests) → Jaisalmer district, Rajasthan, in the Thar Desert."
+ },
+ "12-081": {
+  "r": "India's nuclear doctrine (draft by National Security Advisory Board, August 1999): no first use, unilateral moratorium, minimum credible deterrence → all.",
+  "hi": [
+   "No first use (पहले प्रयोग नहीं)"
+  ]
+ },
+ "12-082": {
+  "r": "Both false: Nuclear Security Summits were a US initiative (Obama 2009; four summits 2010–2016), not UN; International Panel on Fissile Materials (2006) is independent, not an IAEA organ."
+ },
+ "12-083": {
+  "r": "CERN: world's largest particle physics lab (near Geneva, formed 1954); its French acronym is from the provisional body of 1952 (A, R true; R not the explanation)."
+ },
+ "12-084": {
+  "r": "ITER (Latin 'The Way') → fusion experiment being built in southern France by seven partners including India; it will not itself produce electricity."
+ },
+ "12-085": {
+  "r": "If ITER (Cadarache, south France) succeeds, India could build fusion reactors for power generation."
+ },
+ "12-086": {
+  "r": "RTGs power spacecraft with heat from natural decay of plutonium-238 (a weapons by-product) via thermocouples; they are not fission reactors → 2 and 3."
+ },
+ "12-087": {
+  "r": "Then: India would not open its nuclear plants to international inspection (A true) but kept the bomb option open (R false); now over 170 warheads (estimate)."
+ },
+ "12-088": {
+  "r": "Mismatch: SALT II signed 1979 (not 1967). NPT signed 1968, in force 1970; Partial Test Ban 1963; Seabed Treaty signed 1971, in force 1972."
+ },
+ "12-089": {
+  "r": "India rejects the NPT as discriminatory: only five states that tested before 1967 are nuclear-weapon states; India (first test 1974) could join only as non-nuclear.",
+  "hi": [
+   "Non-Proliferation Treaty (परमाणु अप्रसार संधि)"
+  ]
+ },
+ "12-090": {
+  "r": "NPT-recognised Nuclear Weapon States → USA, Russia, China, France, UK only; India, Israel and Pakistan are not."
+ },
+ "12-091": {
+  "r": "NSG (1974, 48 members) gives members access to the latest nuclear technology; joining does not make a country an NPT member → only 1.",
+  "hi": [
+   "Nuclear Suppliers Group (परमाणु आपूर्तिकर्ता समूह)"
+  ]
+ },
+ "12-092": {
+  "r": "Iran is not a member of the Nuclear Suppliers Group (48 members, March 2026); among the options China, New Zealand, Ireland are."
+ },
+ "12-093": {
+  "r": "First country to sign a civil nuclear deal with India after the NSG lifted its ban → France."
+ },
+ "12-094": {
+  "r": "India's Additional Protocol with the IAEA (in force 25 July 2014) → civilian nuclear reactors come under IAEA safeguards; not military sites."
+ },
+ "12-095": {
+  "r": "Some Indian reactors are under IAEA safeguards because they use imported uranium (others use domestic supply); required by the India–US civil nuclear deal (2005–2008)."
+ },
+ "12-096": {
+  "r": "ICONS 2024 (IAEA) was held in Vienna, 20–24 May 2024, not on 25 May. India's DAE re-constituted the inter-ministerial Counter Nuclear Smuggling Team (true).",
+  "c": "The book prints (d) both, but its own explanation says statement 1 is wrong; by that, the answer is (a) Only 2."
+ },
+ "12-097": {
+  "r": "India–Russia 'Action Plan for Prioritization and Implementation of Cooperation Areas in the Nuclear Field' → signed 5 October 2018 (second site for Russian reactors)."
+ }
+}

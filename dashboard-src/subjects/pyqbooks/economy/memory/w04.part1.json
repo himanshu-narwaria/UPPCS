@@ -99,7 +99,7 @@
  },
  "09-340": {
   "r": "Urban Cooperative Banks in India: 1645 (end-March 2011); 1618 (end-March 2012); 1502 (end-March 2023); 1483 (December 2023).",
-  "c": "Answer not printed; no option matches the March 2012 figure (1618). Option 1645 is the March 2011 figure."
+  "c": "Book gives no single answer: there were 1618 UCBs at end-March 2012; option (c) 1645 is the end-March 2011 figure."
  },
  "09-341": {
   "r": "Consumer Cooperative Stores → set up by the members; registered by the Registrar of Cooperative Societies."
@@ -243,11 +243,10 @@
  },
  "09-401": {
   "r": "Merchandise Turnover = Cost of Goods Sold/Average Stock; Current Ratio = Current Assets/Current Liabilities; Acid Test = Liquid Assets/Current Liabilities; Return on Total Assets = NPBIT/Total Assets.",
-  "c": "Answer not printed; item D is garbled ('Gross Capital Employed' for Return on Total Assets). The explanation's matching gives (b) 4 1 2 3."
+  "c": "Book gives no single answer because item D should read 'Return on Total Assets/Capital Employed', not 'Gross Capital Employed'; otherwise its matching gives (b) 4 1 2 3."
  },
  "09-402": {
-  "r": "Auctions and dynamic (real-time) pricing markets → the book accepts both B2B and C2C commerce.",
-  "c": "Book prints two answers, (a) and (c)."
+  "r": "Auctions and dynamic (real-time) pricing markets → the book accepts both B2B and C2C commerce."
  },
  "09-403": {
   "r": "C2B (consumer-to-business) model → consumers fix their own price and the business accepts or declines; opposite of the traditional B2C model."
@@ -343,15 +342,15 @@
  },
  "10-012": {
   "r": "Old HDI → literacy rate, life expectancy at birth, GDP per head at real purchasing power; since 2010 → life expectancy, mean and expected years of schooling, income.",
-  "c": "Answer not printed; option (b), GDP per head at real purchasing power, fits the old HDI method."
+  "c": "Book gives no single answer: (b) GDP per head at real purchasing power was right when asked; since 2010 the HDI uses GNI per capita (PPP $)."
  },
  "10-013": {
   "r": "HDI life expectancy goalposts → 85 and 25 years before 2010; now 85 and 20 years (index = 1 at 85, 0 at 20).",
-  "c": "Answer not printed; option (c) 85 and 25 matches the pre-2010 values in the explanation."
+  "c": "Book gives no single answer: (c) 85 and 25 years were the goalposts before 2010, when this was asked; they are now 85 and 20 years."
  },
  "10-014": {
   "r": "HDI indicators → life expectancy at birth, education level, standard of living (GNI per capita PPP $); not included → social inequality, health and nutrition, urbanization.",
-  "c": "Answer not printed; explanation and 'Also asked' answer show (c) Social Inequality."
+  "c": "Book gives no single answer: social inequality (c) is not an HDI indicator, and adult literacy (d) was dropped in 2010, so both now fit."
  },
  "10-019": {
   "r": "HDI ranks for 2021 (HDR 2021/2022): Hong Kong 4th, Australia 5th, Japan 19th, Russia 52nd → descending order: Hong Kong, Australia, Japan, Russia."
@@ -365,13 +364,13 @@
  },
  "10-023": {
   "r": "HDR 2015 → India 130th; HDI uses life expectancy, education and per capita income; India lowest among BRICS. Book marks all three correct.",
-  "c": "Statement A says 183 countries but the explanation says 188; the book still marks it correct."
+  "c": "HDR 2015 ranked India 130th of 188 countries, not 183, so statement A is strictly wrong and (b) would fit; the book still marks (d)."
  },
  "10-024": {
   "r": "HDR 2018 → Norway ranked first in HDI (for 2017); HDR 2023/2024 → Switzerland 1st (0.967), Norway 2nd, for 2022."
  },
  "10-025": {
   "r": "HDR 2015 → India 130th of 188 (HDI for 2014), UPPSC's answer; HDR 2014 → 135th of 187 (for 2013); HDR 2023/2024 → 134th of 193.",
-  "c": "Answer not printed; UPPSC accepted 130th (HDR 2015). The question's '186 countries' matches neither report."
+  "c": "Book gives no single answer: UPPSC accepted 130th (HDR 2015, of 188); HDR 2014 gave 135th of 187. Neither report had 186 countries."
  }
 }

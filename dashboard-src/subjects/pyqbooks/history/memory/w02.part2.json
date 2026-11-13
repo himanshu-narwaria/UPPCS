@@ -1,239 +1,239 @@
 {
-  "09-098": {
-    "r": "Book answer: Pillar Edict V → many animals declared inviolable; fish not sold on fast days. Rock Edict I → no living being to be slaughtered or sacrificed.",
-    "c": "Explanation first quotes Rock Edict I (ban on sacrifice), which fits the question well, then picks Pillar Edict V as 'most suitable'; answer is debatable."
-  },
-  "09-099": {
-    "r": "Sohgaura copper plate (Gorakhpur, UP; Mauryan) → earliest royal order to store food-grains for famine; Mahasthan inscription (Bogura, Bangladesh) also records famine relief.",
-    "hi": [
-      "Famine (अकाल)"
-    ]
-  },
-  "09-100": {
-    "r": "Ashoka annexed Kalinga because it controlled land and sea routes to South India and overseas trade; A and R both true, R explains A."
-  },
-  "09-101": {
-    "r": "Mauryas gave no land grants on religious basis (A true); no peasant revolt against grants is recorded (R false). Earliest religious land-grant record → Satavahana inscription.",
-    "hi": [
-      "Land grant (भूमि अनुदान)"
-    ]
-  },
-  "09-102": {
-    "r": "Megasthenes → Greek ambassador of Seleucus Nicator at Chandragupta Maurya's court (fourth century BC); wrote 'Indica'."
-  },
-  "09-105": {
-    "r": "Megasthenes' Indica → Mauryan society in seven classes: philosophers, farmers, herdsmen, artisans-traders, soldiers, overseers (spies), councillors; also says India had no slavery.",
-    "t": "Seven classes is Megasthenes' view, not the four-varna system."
-  },
-  "09-109": {
-    "r": "Megasthenes (Indica) → Indian philosophers were of two kinds: Brahmins and Shramanas."
-  },
-  "09-110": {
-    "r": "Mauryan tax evasion → death penalty (Indica). Pataliputra had a 30-member council of six committees of five; the sixth collected sales tax."
-  },
-  "09-111": {
-    "r": "Megasthenes' Indica → describes Pataliputra's city administration: six committees of five members each; town officials called 'Astynomoi'.",
-    "h": "Six committees x five members ran Pataliputra."
-  },
-  "09-117": {
-    "r": "Registration of births and deaths → municipal function continuing since Mauryan times; Megasthenes' third city committee kept these records; city head 'Nagrak' or 'Purmukhya'.",
-    "hi": [
-      "Municipality (नगरपालिका)"
-    ]
-  },
-  "09-118": {
-    "r": "Kautilya's rural units, ascending → Samgrahana (10 villages), Karvatika (200), Dronamukha (400), Sthaniya (800).",
-    "c": "Answer not printed; book says the question is incorrect as no option gives this ascending order."
-  },
-  "09-119": {
-    "r": "Mauryas developed culture, art and literature, provincial divisions (five provinces in Ashoka's inscriptions) and rule up to the Hindukush; gold coins were regularised by Indo-Greek kings.",
-    "t": "Gold coins are not a Mauryan feature; credit Indo-Greeks (and later Kushanas)."
-  },
-  "09-120": {
-    "r": "Bhaga and Bali → sources of revenue; Bhaga = king's share of land produce (king owned the land, per Arthashastra).",
-    "hi": [
-      "Revenue (राजस्व)"
-    ]
-  },
-  "09-121": {
-    "r": "Sitadhyaksha → head of crown agricultural land, dealt with land revenue; Shulkadhyaksha → trade and service taxes; Akradhyaksha → mines; Agronomoi → district officers."
-  },
-  "09-122": {
-    "r": "Sita (Mauryan period) → revenue from crown land, managed by the Sitadhyaksha."
-  },
-  "09-123": {
-    "r": "Vivit (Vivita) → tax on pastures in Mauryan India; pasture-land officer = Vivitadhyaksha."
-  },
-  "09-124": {
-    "r": "Samaharta → revenue collection in the Mauryan ministerial council; Antapal → border forts; Pradeshtha → administrator of commissionaries."
-  },
-  "09-125": {
-    "r": "Pautavadhyaksha → weights and measures; Panyadhyaksha → commerce; Sitadhyaksha → agriculture; Sunadhyaksha → slaughterhouse."
-  },
-  "09-126": {
-    "r": "Agronomai (Mauryan) → construction of roads (UPPSC answer); they also collected revenue, watched irrigation and did legal work.",
-    "t": "Not weights and measures (that is Pautavadhyaksha)."
-  },
-  "09-127": {
-    "r": "Pankodakasannirodhe → Mauryan penalty for slushing the road (letting dirt, silt or water collect on roads)."
-  },
-  "09-128": {
-    "r": "Talar → officer of night guards; Pattakola → village tax collector; Sahsadhipati → officer for dacoity cases; Baladhip → guard of octroi."
-  },
-  "09-129": {
-    "r": "Taxila (now in Punjab, Pakistan) → most famous centre of learning in the Mauryan period; Nalanda grew in the Gupta period.",
-    "t": "Don't pick Nalanda: its first Buddhist temples came in Gupta times."
-  },
-  "09-130": {
-    "r": "Arthashastra's two courts → Dharmasthiya (civil cases) and Kantakshodhana (criminal cases).",
-    "h": "Kantak = thorn; 'removing thorns' (criminals) = criminal court.",
-    "hi": [
-      "Court (न्यायालय)"
-    ]
-  },
-  "09-131": {
-    "r": "Maagadha → professionals who memorised chronicles, dynastic histories and epic tales."
-  },
-  "09-132": {
-    "r": "Governing villages through autonomous elected panchayats → evolved by the Dravids (Cholas); base of village administration then.",
-    "hi": [
-      "Panchayat (पंचायत)"
-    ]
-  },
-  "09-133": {
-    "r": "Arthashastra → allows divorce and remarriage to a wife deserted by her husband; husband too could leave a barren or adulterous wife.",
-    "hi": [
-      "Divorce (विवाह-विच्छेद)"
-    ]
-  },
-  "09-134": {
-    "r": "Manusmriti → prohibits widow remarriage; a widower could remarry.",
-    "t": "Arthashastra, by contrast, allows divorce and remarriage."
-  },
-  "09-135": {
-    "r": "Manusmriti → foreigners (Shakas, Kushanas, Hunas) who did not follow priestly customs were called 'Fallen Kshatriyas'."
-  },
-  "09-136": {
-    "r": "Order of visits → Megasthenes (Chandragupta Maurya), Fa-Hien (Chandragupta II), Hiuen-Tsang (Harshavardhana), I-Tsing (7th century AD)."
-  },
-  "09-137": {
-    "r": "Chandragupta → Sandrocottus; Bindusara → Amitraghat (Amitrachates); Ashoka → Piyadasi; Chanakya → Vishnugupta.",
-    "h": "Amitraghat = 'slayer of foes', Bindusara's Greek-recorded title."
-  },
-  "09-138": {
-    "r": "Cholagangam Lake → Rajendra I; Dharma Mahamatras → Ashoka; Assembly at Prayag → Harshavardhana; Sudarshan Lake → Chandragupta Maurya."
-  },
-  "09-139": {
-    "r": "Last Mauryan emperor → Brihadratha, assassinated by his commander Pushyamitra Shunga in 185 BC, who founded the Shunga dynasty."
-  },
-  "09-140": {
-    "r": "Brihadratha (last Maurya) killed by commander Pushyamitra Shunga; last Shunga Devabhuti killed by minister Vasudeva Kanva; last Kanva Susharma deposed by Andhra Simuk. All correct.",
-    "h": "Maurya → Shunga → Kanva → Andhra: each was ended by its own servant."
-  },
-  "09-141": {
-    "r": "Pranayam (Pranay) → emergency tax in the Mauryan period.",
-    "hi": [
-      "Tax (कर)"
-    ]
-  },
-  "09-142": {
-    "r": "Girnar water management → Chandragupta Maurya (governor Pushyagupta built Sudarshan Lake) and Ashoka (governor Tushasp dug canals); both recorded in Rudradaman's Junagadh inscription.",
-    "t": "Rudradaman repaired the lake centuries later, not 'before the Christian era'."
-  },
-  "09-145": {
-    "r": "Junagadh rock (near Uparkot fort) → carries Ashoka's fourteen edicts, Rudradaman I's inscription and Skandagupta's inscription; tells the Sudarshan Lake story."
-  },
-  "09-146": {
-    "r": "Barabar caves (Jahanabad, Bihar) → four caves, Ashoka's inscriptions on three, given to Ajivakas (founded by Makkhali Gosala); Mauryan, not 6th century BC."
-  },
-  "09-147": {
-    "r": "Mauryan Manibhadra Yaksha idol → found at Parkham near Mathura; now in Mathura museum.",
-    "hi": [
-      "Yaksha (यक्ष)"
-    ]
-  },
-  "09-148": {
-    "r": "Correct: Lothal → ancient dockyard; Sarnath → Buddha's first sermon; Nalanda → Buddhist learning. Wrong: Ashoka's Lion Capital is at Sarnath, not Rajgir."
-  },
-  "09-149": {
-    "r": "Vishakhadatta's play Mudrarakshasa → court intrigues in the time of Chandragupta Maurya."
-  },
-  "10-001": {
-    "r": "Strato II (Indo-Greek ruler, c. 25 BC-10 AD) → issued lead coins."
-  },
-  "10-002": {
-    "r": "Agathocles (Greco-Bactrian, c. 190-180 BC) → silver coins showing Sankarshana (Balram) and Vasudeva; first bilingual coin legends (Greek and Brahmi)."
-  },
-  "10-003": {
-    "r": "Milinda (Menander, Indo-Greek) → not a contemporary; Bimbisara, Gautama Buddha and Prasenjit (Koshala) were contemporaries."
-  },
-  "10-004": {
-    "r": "Earliest specimen of Sanskrit Kavya style → Junagadh (Girnar) inscription of Rudradaman (130-150 AD), in Brahmi script, perfect Sanskrit.",
-    "hi": [
-      "Inscription (अभिलेख)"
-    ]
-  },
-  "10-005": {
-    "r": "Junagadh inscription (Sanskrit, c. 150 AD) → achievements of Rudradaman I: patron of arts and Sanskrit; repaired embankments of the Mauryan Sudarshana lake."
-  },
-  "10-006": {
-    "r": "Rudradaman I → renovated Sudarshan Lake without forced labour (Junagadh inscription); lake first built by Chandragupta Maurya's governor Pushyagupta.",
-    "hi": [
-      "Forced labour (बेगार)"
-    ]
-  },
-  "10-007": {
-    "r": "Junagadh Sanskrit inscription (second century CE) → Rudradaman I repaired Sudarshan Lake, an artificial reservoir built by Chandragupta Maurya."
-  },
-  "10-008": {
-    "r": "Kardamaka Kshatrapas → silver coins common, potin coins also; copper coins very rare (Chastana issued silver and copper)."
-  },
-  "10-009": {
-    "r": "Demetrius → Indo-Greek; Rudradaman → Scythian (Shaka); Gondophernes → Parthian; Vima → Kushana."
-  },
-  "10-010": {
-    "r": "Invaders of ancient India in order → Greeks, Sakas, Kushanas.",
-    "h": "GSK (like the drug company): Greeks, Sakas, Kushanas."
-  },
-  "10-011": {
-    "r": "Kushanas → issued the largest number of copper coins in north and north-west India and issued gold coins regularly; Indo-Greeks first issued gold coins there."
-  },
-  "10-013": {
-    "r": "Buddha is depicted on the coins of Kushana ruler Kanishka."
-  },
-  "10-014": {
-    "r": "Vima Kadphises → first Kushana ruler to issue gold coins (Indo-Greek rulers had made gold coins popular earlier)."
-  },
-  "10-015": {
-    "r": "Vima Kadphises (father of Kanishka I) → introduced gold coins for regular use, on a large scale; Kujul Kadphises circulated copper coins.",
-    "h": "Kujula = copper (first king), Vima = gold (second king)."
-  },
-  "10-017": {
-    "r": "Vima Kadphises (Kadphises II, father of Kanishka I) → took the title 'Sarvalokeshvara' (Lord of the Whole World)."
-  },
-  "10-018": {
-    "r": "Yaudheya copper coins → six-headed God Kartikeya standing, with a peacock."
-  },
-  "10-019": {
-    "r": "Kanishka's Sarnath Buddha image inscription → dated 81 AD, three years after his coronation (78 AD)."
-  },
-  "10-020": {
-    "r": "Kanishka's coronation → 78 AD, agreed at the London conference of 1960 (after 1913); start of Saka Samvat.",
-    "hi": [
-      "Saka era (शक संवत)"
-    ]
-  },
-  "10-021": {
-    "r": "Saka Samvat → began 78 AD; Sakas beat Vikramaditya's successor in 135 Vikrama Samvat (135 - 57 = 78); Kanishka generally credited as its founder."
-  },
-  "10-022": {
-    "r": "Difference between Vikrama Samvat (57 BC) and Saka Samvat (78 AD) → 135 years.",
-    "h": "57 + 78 = 135.",
-    "hi": [
-      "Vikram era (विक्रम संवत)"
-    ]
-  },
-  "10-023": {
-    "r": "Chaitra 1 of the Saka-based national calendar → 22 March (21 March in a leap year)."
-  }
+ "09-098": {
+  "r": "Rock Edict I → bans animal sacrifice and festive gatherings (samaja); fits this question, though the book prints Pillar Edict V, which lists protected animals.",
+  "c": "Rock Edict I bans animal sacrifice and festive gatherings (samaja), exactly what the question describes, as the book's own quote shows. So (a) is the better answer; Pillar Edict V lists protected animals."
+ },
+ "09-099": {
+  "r": "Sohgaura copper plate (Gorakhpur, UP; Mauryan) → earliest royal order to store food-grains for famine; Mahasthan inscription (Bogura, Bangladesh) also records famine relief.",
+  "hi": [
+   "Famine (अकाल)"
+  ]
+ },
+ "09-100": {
+  "r": "Ashoka annexed Kalinga because it controlled land and sea routes to South India and overseas trade; A and R both true, R explains A."
+ },
+ "09-101": {
+  "r": "Mauryas gave no land grants on religious basis (A true); no peasant revolt against grants is recorded (R false). Earliest religious land-grant record → Satavahana inscription.",
+  "hi": [
+   "Land grant (भूमि अनुदान)"
+  ]
+ },
+ "09-102": {
+  "r": "Megasthenes → Greek ambassador of Seleucus Nicator at Chandragupta Maurya's court (fourth century BC); wrote 'Indica'."
+ },
+ "09-105": {
+  "r": "Megasthenes' Indica → Mauryan society in seven classes: philosophers, farmers, herdsmen, artisans-traders, soldiers, overseers (spies), councillors; also says India had no slavery.",
+  "t": "Seven classes is Megasthenes' view, not the four-varna system."
+ },
+ "09-109": {
+  "r": "Megasthenes (Indica) → Indian philosophers were of two kinds: Brahmins and Shramanas."
+ },
+ "09-110": {
+  "r": "Mauryan tax evasion → death penalty (Indica). Pataliputra had a 30-member council of six committees of five; the sixth collected sales tax."
+ },
+ "09-111": {
+  "r": "Megasthenes' Indica → describes Pataliputra's city administration: six committees of five members each; town officials called 'Astynomoi'.",
+  "h": "Six committees x five members ran Pataliputra."
+ },
+ "09-117": {
+  "r": "Registration of births and deaths → municipal function continuing since Mauryan times; Megasthenes' third city committee kept these records; city head 'Nagrak' or 'Purmukhya'.",
+  "hi": [
+   "Municipality (नगरपालिका)"
+  ]
+ },
+ "09-118": {
+  "r": "Kautilya's rural units, ascending → Samgrahana (10 villages), Karvatika (200), Dronamukha (400), Sthaniya (800).",
+  "c": "Answer not printed; book says the question is incorrect as no option gives this ascending order."
+ },
+ "09-119": {
+  "r": "Mauryas developed culture, art and literature, provincial divisions (five provinces in Ashoka's inscriptions) and rule up to the Hindukush; gold coins were regularised by Indo-Greek kings.",
+  "t": "Gold coins are not a Mauryan feature; credit Indo-Greeks (and later Kushanas)."
+ },
+ "09-120": {
+  "r": "Bhaga and Bali → sources of revenue; Bhaga = king's share of land produce (king owned the land, per Arthashastra).",
+  "hi": [
+   "Revenue (राजस्व)"
+  ]
+ },
+ "09-121": {
+  "r": "Sitadhyaksha → head of crown agricultural land, dealt with land revenue; Shulkadhyaksha → trade and service taxes; Akradhyaksha → mines; Agronomoi → district officers."
+ },
+ "09-122": {
+  "r": "Sita (Mauryan period) → revenue from crown land, managed by the Sitadhyaksha."
+ },
+ "09-123": {
+  "r": "Vivit (Vivita) → tax on pastures in Mauryan India; pasture-land officer = Vivitadhyaksha."
+ },
+ "09-124": {
+  "r": "Samaharta → revenue collection in the Mauryan ministerial council; Antapal → border forts; Pradeshtha → administrator of commissionaries."
+ },
+ "09-125": {
+  "r": "Pautavadhyaksha → weights and measures; Panyadhyaksha → commerce; Sitadhyaksha → agriculture; Sunadhyaksha → slaughterhouse."
+ },
+ "09-126": {
+  "r": "Agronomai (Mauryan) → construction of roads (UPPSC answer); they also collected revenue, watched irrigation and did legal work.",
+  "t": "Not weights and measures (that is Pautavadhyaksha)."
+ },
+ "09-127": {
+  "r": "Pankodakasannirodhe → Mauryan penalty for slushing the road (letting dirt, silt or water collect on roads)."
+ },
+ "09-128": {
+  "r": "Talar → officer of night guards; Pattakola → village tax collector; Sahsadhipati → officer for dacoity cases; Baladhip → guard of octroi."
+ },
+ "09-129": {
+  "r": "Taxila (now in Punjab, Pakistan) → most famous centre of learning in the Mauryan period; Nalanda grew in the Gupta period.",
+  "t": "Don't pick Nalanda: its first Buddhist temples came in Gupta times."
+ },
+ "09-130": {
+  "r": "Arthashastra's two courts → Dharmasthiya (civil cases) and Kantakshodhana (criminal cases).",
+  "h": "Kantak = thorn; 'removing thorns' (criminals) = criminal court.",
+  "hi": [
+   "Court (न्यायालय)"
+  ]
+ },
+ "09-131": {
+  "r": "Maagadha → professionals who memorised chronicles, dynastic histories and epic tales."
+ },
+ "09-132": {
+  "r": "Governing villages through autonomous elected panchayats → evolved by the Dravids (Cholas); base of village administration then.",
+  "hi": [
+   "Panchayat (पंचायत)"
+  ]
+ },
+ "09-133": {
+  "r": "Arthashastra → allows divorce and remarriage to a wife deserted by her husband; husband too could leave a barren or adulterous wife.",
+  "hi": [
+   "Divorce (विवाह-विच्छेद)"
+  ]
+ },
+ "09-134": {
+  "r": "Manusmriti → prohibits widow remarriage; a widower could remarry.",
+  "t": "Arthashastra, by contrast, allows divorce and remarriage."
+ },
+ "09-135": {
+  "r": "Manusmriti → foreigners (Shakas, Kushanas, Hunas) who did not follow priestly customs were called 'Fallen Kshatriyas'."
+ },
+ "09-136": {
+  "r": "Order of visits → Megasthenes (Chandragupta Maurya), Fa-Hien (Chandragupta II), Hiuen-Tsang (Harshavardhana), I-Tsing (7th century AD)."
+ },
+ "09-137": {
+  "r": "Chandragupta → Sandrocottus; Bindusara → Amitraghat (Amitrachates); Ashoka → Piyadasi; Chanakya → Vishnugupta.",
+  "h": "Amitraghat = 'slayer of foes', Bindusara's Greek-recorded title."
+ },
+ "09-138": {
+  "r": "Cholagangam Lake → Rajendra I; Dharma Mahamatras → Ashoka; Assembly at Prayag → Harshavardhana; Sudarshan Lake → Chandragupta Maurya."
+ },
+ "09-139": {
+  "r": "Last Mauryan emperor → Brihadratha, assassinated by his commander Pushyamitra Shunga in 185 BC, who founded the Shunga dynasty."
+ },
+ "09-140": {
+  "r": "Brihadratha (last Maurya) killed by commander Pushyamitra Shunga; last Shunga Devabhuti killed by minister Vasudeva Kanva; last Kanva Susharma deposed by Andhra Simuk. All correct.",
+  "h": "Maurya → Shunga → Kanva → Andhra: each was ended by its own servant."
+ },
+ "09-141": {
+  "r": "Pranayam (Pranay) → emergency tax in the Mauryan period.",
+  "hi": [
+   "Tax (कर)"
+  ]
+ },
+ "09-142": {
+  "r": "Girnar water management → Chandragupta Maurya (governor Pushyagupta built Sudarshan Lake) and Ashoka (governor Tushasp dug canals); both recorded in Rudradaman's Junagadh inscription.",
+  "t": "Rudradaman repaired the lake centuries later, not 'before the Christian era'."
+ },
+ "09-145": {
+  "r": "Junagadh rock (near Uparkot fort) → carries Ashoka's fourteen edicts, Rudradaman I's inscription and Skandagupta's inscription; tells the Sudarshan Lake story."
+ },
+ "09-146": {
+  "r": "Barabar caves (Jahanabad, Bihar) → four caves, Ashoka's inscriptions on three, given to Ajivakas (founded by Makkhali Gosala); Mauryan, not 6th century BC."
+ },
+ "09-147": {
+  "r": "Mauryan Manibhadra Yaksha idol → found at Parkham near Mathura; now in Mathura museum.",
+  "hi": [
+   "Yaksha (यक्ष)"
+  ]
+ },
+ "09-148": {
+  "r": "Correct: Lothal → ancient dockyard; Sarnath → Buddha's first sermon; Nalanda → Buddhist learning. Wrong: Ashoka's Lion Capital is at Sarnath, not Rajgir."
+ },
+ "09-149": {
+  "r": "Vishakhadatta's play Mudrarakshasa → court intrigues in the time of Chandragupta Maurya."
+ },
+ "10-001": {
+  "r": "Strato II (Indo-Greek ruler, c. 25 BC-10 AD) → issued lead coins."
+ },
+ "10-002": {
+  "r": "Agathocles (Greco-Bactrian, c. 190-180 BC) → silver coins showing Sankarshana (Balram) and Vasudeva; first bilingual coin legends (Greek and Brahmi)."
+ },
+ "10-003": {
+  "r": "Milinda (Menander, Indo-Greek) → not a contemporary; Bimbisara, Gautama Buddha and Prasenjit (Koshala) were contemporaries."
+ },
+ "10-004": {
+  "r": "Earliest specimen of Sanskrit Kavya style → Junagadh (Girnar) inscription of Rudradaman (130-150 AD), in Brahmi script, perfect Sanskrit.",
+  "hi": [
+   "Inscription (अभिलेख)"
+  ]
+ },
+ "10-005": {
+  "r": "Junagadh inscription (Sanskrit, c. 150 AD) → achievements of Rudradaman I: patron of arts and Sanskrit; repaired embankments of the Mauryan Sudarshana lake."
+ },
+ "10-006": {
+  "r": "Rudradaman I → renovated Sudarshan Lake without forced labour (Junagadh inscription); lake first built by Chandragupta Maurya's governor Pushyagupta.",
+  "hi": [
+   "Forced labour (बेगार)"
+  ]
+ },
+ "10-007": {
+  "r": "Junagadh Sanskrit inscription (second century CE) → Rudradaman I repaired Sudarshan Lake, an artificial reservoir built by Chandragupta Maurya."
+ },
+ "10-008": {
+  "r": "Kardamaka Kshatrapas → silver coins common, potin coins also; copper coins very rare (Chastana issued silver and copper)."
+ },
+ "10-009": {
+  "r": "Demetrius → Indo-Greek; Rudradaman → Scythian (Shaka); Gondophernes → Parthian; Vima → Kushana."
+ },
+ "10-010": {
+  "r": "Invaders of ancient India in order → Greeks, Sakas, Kushanas.",
+  "h": "GSK (like the drug company): Greeks, Sakas, Kushanas."
+ },
+ "10-011": {
+  "r": "Kushanas → issued the largest number of copper coins in north and north-west India and issued gold coins regularly; Indo-Greeks first issued gold coins there."
+ },
+ "10-013": {
+  "r": "Buddha is depicted on the coins of Kushana ruler Kanishka."
+ },
+ "10-014": {
+  "r": "Vima Kadphises → first Kushana ruler to issue gold coins (Indo-Greek rulers had made gold coins popular earlier)."
+ },
+ "10-015": {
+  "r": "Vima Kadphises (father of Kanishka I) → introduced gold coins for regular use, on a large scale; Kujul Kadphises circulated copper coins.",
+  "h": "Kujula = copper (first king), Vima = gold (second king)."
+ },
+ "10-017": {
+  "r": "Vima Kadphises (Kadphises II, father of Kanishka I) → took the title 'Sarvalokeshvara' (Lord of the Whole World)."
+ },
+ "10-018": {
+  "r": "Yaudheya copper coins → six-headed God Kartikeya standing, with a peacock."
+ },
+ "10-019": {
+  "r": "Kanishka's Sarnath Buddha image inscription → dated 81 AD, three years after his coronation (78 AD)."
+ },
+ "10-020": {
+  "r": "Kanishka's coronation → 78 AD, agreed at the London conference of 1960 (after 1913); start of Saka Samvat.",
+  "hi": [
+   "Saka era (शक संवत)"
+  ]
+ },
+ "10-021": {
+  "r": "Saka Samvat → began 78 AD; Sakas beat Vikramaditya's successor in 135 Vikrama Samvat (135 - 57 = 78); Kanishka generally credited as its founder."
+ },
+ "10-022": {
+  "r": "Difference between Vikrama Samvat (57 BC) and Saka Samvat (78 AD) → 135 years.",
+  "h": "57 + 78 = 135.",
+  "hi": [
+   "Vikram era (विक्रम संवत)"
+  ]
+ },
+ "10-023": {
+  "r": "Chaitra 1 of the Saka-based national calendar → 22 March (21 March in a leap year)."
+ }
 }

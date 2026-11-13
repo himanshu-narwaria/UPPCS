@@ -1,0 +1,166 @@
+{
+ "13-369": {
+  "r": "MP Online → not an e-procurement portal; it is the Madhya Pradesh Government's online citizen-services (e-Governance) portal. MP Tenders, GeM, MP LUN are the e-procurement options."
+ },
+ "13-370": {
+  "r": "Cloud computing services → IaaS, PaaS and SaaS; allotment of electromagnetic spectrum is not a cloud service.",
+  "hi": [
+   "Cloud computing (क्लाउड कंप्यूटिंग)"
+  ]
+ },
+ "13-371": {
+  "r": "SaaS → buyers can customise user interface and data fields; data accessible on mobile devices; Outlook, Hotmail, Yahoo! Mail are SaaS → all three correct."
+ },
+ "13-372": {
+  "r": "PaaS = Platform as a Service → cloud platform to develop, deploy, run and manage apps without maintaining the OS, tools or hardware."
+ },
+ "13-373": {
+  "r": "Sky Drive → Microsoft's personal cloud storage service; now renamed One Drive."
+ },
+ "13-374": {
+  "r": "Virtual assistants → Alexa (Amazon), Cortana (Microsoft), Siri (Apple); 'Cortesa' is not one."
+ },
+ "13-375": {
+  "r": "Project Loon (Google X) → wireless communication: high-altitude balloons in the stratosphere (about 18 km) give internet to rural and remote areas."
+ },
+ "13-376": {
+  "r": "DACNET (dacnet.nic.in) → e-Agriculture portal of the Department of Agriculture, Cooperation and Farmers Welfare, run by the National Informatics Centre."
+ },
+ "13-377": {
+  "r": "IBM = International Business Machine → an American multinational IT corporation."
+ },
+ "13-378": {
+  "r": "HTTP (http) = Hypertext Transfer Protocol → the foundation of data communication for the World Wide Web."
+ },
+ "13-379": {
+  "r": "Protocol used for accessing the World Wide Web → HTTP (Hypertext Transfer Protocol)."
+ },
+ "13-380": {
+  "r": "HTML = Hyper Text Markup Language."
+ },
+ "13-381": {
+  "r": "XML = eXtensible Markup Language → stores and transmits data in a format both human-readable and machine-readable."
+ },
+ "13-382": {
+  "r": "URL = Uniform Resource Locator → the definite, unique address of every web page.",
+  "t": "It is Uniform, not Universal or Unique, Resource Locator."
+ },
+ "13-383": {
+  "r": "FTP = File Transfer Protocol → protocol for exchanging files over the Internet."
+ },
+ "13-384": {
+  "r": "SMPS = Switched Mode Power Supply → takes rectified AC input and converts it to the low-voltage DC a computer needs."
+ },
+ "13-385": {
+  "r": "UPS = Uninterrupted Power Supply → keeps the computer running for a short time after main power fails so it can be shut down properly."
+ },
+ "13-386": {
+  "r": "OR gate → output HIGH (1) when any one or more inputs is HIGH; output LOW only when all inputs are 0.",
+  "h": "OR: any one HIGH input is enough."
+ },
+ "13-387": {
+  "r": "Given logic circuit → output C = 1: A with input 1 gives 1, B with input 1 gives 1, and these two 1s give C = 1."
+ },
+ "13-388": {
+  "r": "NAND gate → Boolean expression (A.B)'; NAND = AND + NOT (NOT AND); a universal gate that can build any logic gate.",
+  "hi": [
+   "Logic gate (तर्क द्वार)"
+  ]
+ },
+ "13-389": {
+  "r": "Minimum NAND gates needed to implement an Ex-OR function → 4."
+ },
+ "13-390": {
+  "r": "World Computer Literacy Day → 2nd December."
+ },
+ "13-392": {
+  "r": "Aakash → claimed world's cheapest tablet PC, for education; launched 5 October 2011; made by Datawind to IIT Jodhpur specifications; Rs. 1100 after 50% subsidy."
+ },
+ "13-393": {
+  "r": "Enhancing use of IT for development → strategy of the Andhra Pradesh Government, under Chief Minister Chandrababu Naidu (1999-2004)."
+ },
+ "13-394": {
+  "r": "Information Technology (as the book defines it) → Connectivity + Hardware: network-connecting hardware for data acquisition, information, security and design."
+ },
+ "13-395": {
+  "r": "Social media optimization (SMO) → using social networks to create publicity and raise awareness of a product, service, brand or event."
+ },
+ "13-396": {
+  "r": "Collaborative Filtering → predicts a user's interests from collective preferences; used in recommender systems of Amazon, YouTube, Netflix."
+ },
+ "13-397": {
+  "r": "Wearable devices → identify location (GPS), monitor sleep and heart rate, and assist the hearing impaired (hearing aids) → all three."
+ },
+ "13-398": {
+  "r": "Smart home scenario (alarm starts geyser, fridge orders groceries, car warns of traffic) → Internet of Things (IoT): everyday objects with sensors, software and network connectivity."
+ },
+ "13-399": {
+  "r": "5G (Fifth Generation) → enables Internet of Things, Edge Computing and Network Slicing; faster speed, lower latency, many devices at once."
+ },
+ "13-400": {
+  "r": "Metaverse → interoperable network of 3D virtual worlds used simultaneously by millions, with property rights over virtual items (definition by Matthew Ball)."
+ },
+ "13-401": {
+  "r": "Vidya Vahini Project → takes computer education to government primary schools across the country."
+ },
+ "14-001": {
+  "r": "Father of the Indian Space Programme → Dr. Vikram Ambalal Sarabhai, physicist and astronomer who started space research in India.",
+  "hi": [
+   "Space programme (अंतरिक्ष कार्यक्रम)"
+  ]
+ },
+ "14-003": {
+  "r": "India's first satellite → Aryabhatta (360 kg), launched by the Soviet Union on 19 April 1975 from Kapustin Yar on a Cosmos 3M rocket; India entered the space age.",
+  "hi": [
+   "Satellite (उपग्रह)"
+  ]
+ },
+ "14-006": {
+  "r": "Prof. U.R. Rao → designed Aryabhatta (1975); set up satellite technology in India from 1972; ISRO Chairman 1984-1994."
+ },
+ "14-007": {
+  "r": "First animal in Earth orbit → Laika, a Soviet stray dog from Moscow, aboard Sputnik 2, launched 3 November 1957."
+ },
+ "14-008": {
+  "r": "3 November 1957 → dog Laika (Sputnik-2); 28 May 1959 → monkeys Able and Baker; 19 August 1960 → dog Belka (Sputnik-5).",
+  "t": "Don't confuse Laika (first, 1957) with Belka (1960) or Baker (a monkey, 1959)."
+ },
+ "14-009": {
+  "r": "First human in space → Yuri Gagarin, 12 April 1961, Vostok-1; Alan Shepard became first American in space less than a month later."
+ },
+ "14-010": {
+  "r": "First woman in space → Valentina Tereshkova (Russian), Vostok-6, 16 June 1963; spent almost three days and orbited Earth 48 times."
+ },
+ "14-011": {
+  "r": "First man on the Moon → Neil Armstrong (Apollo-11, lunar module 'Eagle', 20 July 1969); Buzz Aldrin joined him about 19 minutes later."
+ },
+ "14-012": {
+  "r": "Oleg Kononenko (Russia) → record for most cumulative time in space, 1110.6 days on ISS; broke Gennady Padalka's 878.5 days on 4 February 2024."
+ },
+ "14-013": {
+  "r": "NASA's longest single spaceflight → Frank Rubio, 370.9 days (returned 27 September 2023); before him Mark Vande Hei, 355.2 days (2022). The book gives no single answer (*)."
+ },
+ "14-014": {
+  "r": "Sunita Williams and Butch Wilmore → returned in SpaceX Crew Dragon 'Freedom' (Crew-9), splashing down off Florida on 18 March 2025 after a 286-day mission."
+ },
+ "14-015": {
+  "r": "Tim Peake → British astronaut of the European Space Agency (ESA), former ISS crew member and test pilot."
+ },
+ "14-016": {
+  "r": "Wrong pair: Atlantis – Space station; Atlantis was a NASA space shuttle, like Columbia, Challenger and Discovery. COBE → Cosmic Background Explorer satellite (1989–1993)."
+ },
+ "14-017": {
+  "r": "Curiosity Rover → Mars probe of USA; Messenger → Mercury probe of NASA; Rustam-1 → DRDO unmanned aerial vehicle; Akash-2 → Tablet."
+ },
+ "14-018": {
+  "r": "NASA's last Space Shuttle → Atlantis (launched 8 July, landed 21 July 2011); Columbia broke up during re-entry on 1 February 2003."
+ },
+ "14-019": {
+  "r": "DAVINCI+ and VERITAS → NASA Discovery Programme missions to Venus, its first since the 1990s; VERITAS launch tentatively 2031.",
+  "h": "V for VERITAS, V for Venus."
+ },
+ "14-020": {
+  "r": "Cassini-Huygens → Saturn and its rings; Juno → Jupiter; Artemis → human spaceflight, Moon to Mars; VERITAS → Venus.",
+  "h": "Juno–Jupiter (both J); VERITAS–Venus (both V)."
+ }
+}

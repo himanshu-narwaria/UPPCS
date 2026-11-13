@@ -207,7 +207,7 @@ Explanation: Section 12 - Presumption by courts in certain cases: Where any act 
 Q: Untouchability will not constitute an offence when -
 Options: (a) The act of accused with regard to the enjoyment of benefit under a charitable trust created for the benefit of any section of the general public (b) The act of accused is with regard to the use of finery (c) As accused is not being competent to commit an offence (d) The accused and complainant victim belong to the same social group
 Answer: (d) The accused and complainant victim belong to the same social group
-Explanation: Untouchability would not constitute an offence ifthe accused and the victim belong to the same social group.
+Explanation: Untouchability would not constitute an offence if the accused and the victim belong to the same social group.
 
 [26-014] Ch26 · Parliamentary Act · asked in 1 paper(s): M.P.P.C.S. (Pre) 2013
 Q: A court can presume that any act constituting offence was committed on the ground of untouchabilliy - if such offence is committed in relation to -
@@ -519,7 +519,7 @@ Explanation: A division bench of Madras High Court comprising Justices N. Paul V
 Q: Which one of the following is not basic element of the citizen charter?
 Options: (a) Description of services being provided by department of the agency (b) Promotion of various methods to get benefit from the services available (c) To expect any public record (d) Provision for the inspection of the agency's work
 Answer: (d) Provision for the inspection of the agency's work
-Explanation: The nine basic elements of the Citizen Charter are- / | • | Set standards of service. | / | • | Be open and provide full information. | / | • | Consult and involve. | / | • | Encourage access and the promotion of choice. | / | • | Treat all fairly. | / | • | Put things right when they go wrong. | / | • | Use resources effectively. | / | • | Innovate and improve. | / | • | Work with other providers. | / Hence option (4) is the correct … [shortened in this brief; the book continues]
+Explanation: The nine basic elements of the Citizen Charter are- / Set standards of service. / Be open and provide full information. / Consult and involve. / Encourage access and the promotion of choice. / Treat all fairly. / Put things right when they go wrong. / Use resources effectively. / Innovate and improve. / Work with other providers. / Hence option (4) is the correct answer.
 
 [26-066] Ch26 · Parliamentary Act · asked in 2 paper(s): (Recognition of Forest Rights) Act, 2006?; I.A.S. (Pre) 2021
 Q: At the national level, which ministry is the nodal agency to ensure effective implementation of the Scheduled Tribes and Other Traditional Fores t Dwellers
@@ -845,7 +845,7 @@ Q: Acting Chief Justice of the Supreme Court of India is appointed by-
 Options: (a) Chief Justice of the Supreme Court (b) Prime Minister (c) President (d) Law Minister
 Answer: (c) President
 Also asked: Acting Chief Justice of India is appointed by the – -> President
-Explanation: According to Article 126 of the Indian Constitution, the Acting Chief Justice of the Supreme Court is appointed by the President of India. It is done ifthe post of Chief Justice is vacant or if he is unable to discharge his duties. There is no provision for additional judges in the Supreme Court of India.
+Explanation: According to Article 126 of the Indian Constitution, the Acting Chief Justice of the Supreme Court is appointed by the President of India. It is done if the post of Chief Justice is vacant or if he is unable to discharge his duties. There is no provision for additional judges in the Supreme Court of India.
 
 [27-023] Ch27 · The Supreme Court · asked in 1 paper(s): Uttarakhand U.D.A./L.D.A. (Mains) 2006, 2007
 Q: The Judges of Supreme Court of India are appointed by the President –
@@ -975,7 +975,7 @@ Explanation: As per Section 2(b) of the Contempt of Courts Act, 1971 – wilful 
 
 [27-046] Ch27 · The Supreme Court · asked in 1 paper(s): U.P.P.C.S. (Spl) (Mains) 2008
 Q: The Supreme Court holds its meetings in New Delhi, but it can meet elsewhere –
-Options: (a) With the approval of President. (b) Ifthe majority of Judges of Supreme Court so decide. (c) With the approval of Parliament. (d) On the request of State Legislature.
+Options: (a) With the approval of President. (b) If the majority of Judges of Supreme Court so decide. (c) With the approval of Parliament. (d) On the request of State Legislature.
 Answer: (a) With the approval of President.
 Explanation: The Supreme Court shall sit in Delhi or such other place or places, as the Chief Justice of India may, with the approval of the President, from time to time, appoint (Art. 130).
 
@@ -1301,7 +1301,11 @@ Answer: (d) H.L. Dattu, T.S. Thakur, Jagdish Singh Khehar
 Explanation: According to the question, the correct sequence of Chief Justice of Supreme Court are - Justice S.R. Das (1.2.1956 to 30.9.1959), Justice B.P. Sinha (1.10.1959 to 31.01.1964), Justice P.B. Gajendragadkar (1.02.1964 to 15.03.1966), Justice K.G. Balakrishnan (14.01.2007 to 12.05.2010), Justice S.H. Kapadia (12.05.2010 to 28.09.2012), Justice H.L. Dattu (28.09.2014 to 02.12.2015), Justice T.S. Thakur (03.12.2015 to … [shortened in this brief; the book continues]
 
 [27-102] Ch27 · The Supreme Court · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre) 2021
-Q: Which of the following statements is/are true about previous Chief Justice of India, Yashwant Vishnu Chandrachud? Statement-I: He was 16th Chief Justice of India Statement-II: Till date, he is the longest serving Chief Justice of India Statement-III: He was appointed by Neelam Sanjiva Reddy From the statements given above, which is/are true?
+Q: Which of the following statements is/are true about previous Chief Justice of India, Yashwant Vishnu Chandrachud?
+   Statement-I: He was 16th Chief Justice of India
+   Statement-II: Till date, he is the longest serving Chief Justice of India
+   Statement-III: He was appointed by Neelam Sanjiva Reddy
+   From the statements given above, which is/are true?
 Options: (a) I, II and III (b) I and II (c) I and III (d) Only II
 Answer: (a) I, II and III
 Explanation: Justice Yashwant Vishnu Chandrachud was the 16th Chief Justice of India, serving from 22 February, 1978 to 11 July, 1985. To date he is the longest serving Chief Justice of India. He was appointed by Neelam Sanjiva Reddy.
@@ -1615,7 +1619,7 @@ Explanation: The Governor of a state can act according to his discretion in the 
 Q: Consider the following statements: I. The Constitution of India explicitly mentions that in certain spheres the Governor of a State acts in his/ her own discretion. II. The President of India can, of his/her own, reserve a bill passed by a State Legislature for his/ her consideration without it being forwarded by the Governor of the State concerned. Which of the statements given above is/are correct?
 Options: (a) I only (b) II only (c) Both I and II (d) Neither I nor II
 Answer: (a) I only
-Explanation: Article 163(1) of the Indian Constitution provides that the Governor shall act on the advice of the Council of Ministers headed by the Chief Minister; however, where the Governor is required by or under the Constitution to act in his/her discretion, the Governor is not bound by the advice of the Council of Ministers. This makes it clear that in some spheres the Governor acts in his/her discretion. Therefore, … [shortened in this brief; the book continues]
+Explanation: Article 163(1) of the Indian Constitution provides that the Governor shall act on the advice of the Council of Ministers headed by the Chief Minister; however, where the Governor is required by or under the Constitution to act in his/her discretion, the Governor is not bound by the advice of the Council of Ministers. This makes it clear that in some spheres the Governor acts in his/her discretion. … [shortened in this brief; the book continues]
 
 [28-029] Ch28 · The Governor · asked in 4 paper(s): 70th B.P.S.C. Pre-2024; U.P. Lower Sub. (Pre) 2004; Chhattishgarh P.C.S. (Pre) 2024; Chhattisgarh P.C.S. (Pre) 2015
 Q: By which time Governor has to return an ordinary bill to the concerned State Legislature for reconsideration?
@@ -1974,7 +1978,7 @@ Explanation: According to Article 192 of the Constitution, if any member of a st
 Q: If the Speaker of Legislative Assembly of a State wants to resign, he will give his resignation to –
 Options: (a) Chief Minister (b) Governor (c) Deputy Speaker (d) President of India
 Answer: (c) Deputy Speaker
-Explanation: According to Article 179(b), ifthe Speaker of the Legislative Assembly of a State wants to resign, he/she will give his resignation to the Deputy Speaker of that State’s Legislative Assembly.
+Explanation: According to Article 179(b), if the Speaker of the Legislative Assembly of a State wants to resign, he/she will give his resignation to the Deputy Speaker of that State’s Legislative Assembly.
 
 [29-041] Ch29 · The State Legislature · asked in 1 paper(s): I.A.S. (Pre.) 2018
 Q: Consider the following statements:
@@ -2191,7 +2195,7 @@ Q: Select the Constitutional Duties of the Chief Minister from the following by 
 Options: (a) (1) and (2) (b) (1) and (4) (c) (1), (2) and (3) (d) (1), (2) and (4)
 Answer: (d) (1), (2) and (4)
 Also asked: Which Article of the Constitution defines the duties of the Chief Minister? -> Article 167
-Explanation: According to Article 167, the duties of the Chief Minister of each State are to communicate to the Governor of the State all decisions of the Council of Ministers relating to the administration of the affairs of the State and proposals for legislation; to furnish such information relating to the administration of the affairs of the State and proposals for legislation as the Governor may call for; and ifthe Governor … [shortened in this brief; the book continues]
+Explanation: According to Article 167, the duties of the Chief Minister of each State are to communicate to the Governor of the State all decisions of the Council of Ministers relating to the administration of the affairs of the State and proposals for legislation; to furnish such information relating to the administration of the affairs of the State and proposals for legislation as the Governor may call for; and if the Governor … [shortened in this brief; the book continues]
 
 [29-074] Ch29 · The State Legislature · asked in 1 paper(s): Chhatisgarh P.C.S. (Pre) 2021
 Q: In the following questions, there are two statements. One is labelled as Assertion (A) and other is labelled as Reason (R):
@@ -2524,7 +2528,12 @@ Answer: (b) 2 only
 Explanation: The Advocates Act, 1961 contains rules and laws pertaining to advocates. The major goal of this act is to create a single class of legal practitioners known as 'advocates'. Government law officers, legal firms, corporate lawyers and patent attorneys are recognised as advocates. Thus statement (1) is incorrect. According to this act, there must be the establishment of autonomous Bar Councils, one for all of India and … [shortened in this brief; the book continues]
 
 [30-039] Ch30 · The High Court · asked in 1 paper(s): I.A.S. (Pre.) 2023
-Q: Consider the following statements: Statement-I: In India, prisons are managed by State Governments with their own rules and regulations for the day to-day administration of prisons. Statement-II: In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I:
+   In India, prisons are managed by State Governments with their own rules and regulations for the day to-day administration of prisons.
+   Statement-II:
+   In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
 Explanation: As per the provisions of the Constitution of India, ‘prisons’/ ‘persons detained therein’is a ‘State’subject under entry 4 of the State List. In India, prisons are governed by the Prisons Act, 1894 which vested the Provincial Governments (now States) with the power to make rules on prisons so the responsibility of prisons management and prisoners’administration solely vests with State Governments who alone are … [shortened in this brief; the book continues]

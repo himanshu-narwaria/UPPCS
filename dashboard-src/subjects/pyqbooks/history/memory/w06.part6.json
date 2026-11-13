@@ -1,237 +1,265 @@
 {
-  "54-082": {
-    "r": "Revolutionary bodies → Abhinav Bharat and Anushilan Samiti. United Indian Patriotic Association (Sir Syed Ahmed Khan, Raja Shiv Prasad, 1888) opposed Congress, not revolutionary."
-  },
-  "54-083": {
-    "r": "Doctrine of 'Passive Resistance' → propounded by Aurobindo Ghosh in his newspaper 'Vande Mataram'; Indians to keep protesting until the British left.",
-    "hi": ["Passive resistance (निष्क्रिय प्रतिरोध)"]
-  },
-  "54-084": {
-    "r": "Both correct: Subhash Chandra Bose quit as Congress President and formed the Forward Bloc (3 May 1939); Bhagat Singh was a founder member of HSRA (Delhi, 1928).",
-    "hi": ["Forward Bloc (फॉरवर्ड ब्लॉक)"]
-  },
-  "54-085": {
-    "r": "Kakori martyrs' jails → Ram Prasad Bismil: Gorakhpur; Rajendra Lahiri: Gonda; Roshan Singh: Allahabad (Prayagraj); Ashfaq Ullah: Faizabad (Ayodhya).",
-    "h": "B-G, L-G: Bismil–Gorakhpur, Lahiri–Gonda."
-  },
-  "54-086": {
-    "r": "Pt. Ram Prasad Bismil (main accused, Kakori case) → hanged in Gorakhpur jail on 19 December 1927."
-  },
-  "54-088": {
-    "r": "Gopinath Saha → tried to kill Calcutta Police Commissioner Charles Tegart (12 January 1924) but shot Ernest Day by mistake; hanged March 1924."
-  },
-  "54-089": {
-    "r": "Bina Das → fired at the English Governor while receiving her degree at convocation (February 1932). Shanti Ghosh and Suniti Chaudhary shot a district magistrate (December 1931).",
-    "t": "Don't mix Bina Das (convocation) with Shanti Ghosh–Suniti Chaudhary (magistrate)."
-  },
-  "54-090": {
-    "r": "\"Criticism and independent thought are the two characteristics of a revolutionary\" → Bhagat Singh."
-  },
-  "54-091": {
-    "r": "Bal Gangadhar Tilak → started Lathi Club, Hindu Akhada, Ganapati Mahotsava and Shivaji Mahotsava."
-  },
-  "54-092": {
-    "r": "True: Bhagat Singh founded Naujawan Bharat Sabha (March 1926). Others wrong: Anushilan Samiti → P. Mitra, Pulin Das; HRA (1924) → Sachindra Sanyal, Bismil; HSRA → Chandra Shekhar Azad."
-  },
-  "55-001": {
-    "r": "Indian Home Rule Society → founded February 1905 in London by Shyamji Krishna Verma; also India House hostel and monthly 'The Indian Sociologist' (January 1905).",
-    "hi": ["Home Rule (स्वशासन)"]
-  },
-  "55-006": {
-    "r": "Lala Har Dayal (revolutionary scholar) → got a post in California in 1911 to teach Indian philosophy and Sanskrit.",
-    "c": "Explanation is muddled: says 'Stanford University, located in California Berkeley' while the question says University of California."
-  },
-  "55-007": {
-    "r": "Ghadar Party → founded 1913 at San Francisco as 'Hindustan Association of the Pacific Coast' (Sohan Singh Bhakna); Lala Hardayal its founder member and torchbearer; named after paper 'Ghadar'.",
-    "hi": ["Ghadar Party (ग़दर पार्टी)"]
-  },
-  "55-012": {
-    "r": "First Chairman of the Ghadar Party (1913, USA and Canada) → Sohan Singh Bhakna; key members Lala Hardayal, Kartar Singh Sarabha, Rash Behari Bose.",
-    "t": "Hardayal = torchbearer/leader; Sohan Singh Bhakna = first Chairman (President)."
-  },
-  "55-013": {
-    "r": "Only Rash Behari Bose was active in the Ghadar Party; Barindra Kumar Ghosh → Alipore Bomb case; Jogesh Chandra Chatterjee → Kakori case."
-  },
-  "55-014": {
-    "r": "Khudiram Bose → not in Ghadar Party. Ghadar Party (21 April 1913, USA; HQ San Francisco) → Hardayal, Sohan Singh Bhakna (President), Pt. Ramchandra, Barkatullah, Rash Behari Bose."
-  },
-  "55-018": {
-    "r": "Ghadar → revolutionary association of expatriate Indians (Canada, America), headquarters San Francisco, founded 21 April 1913 to free India.",
-    "t": "Not Singapore, Berlin or Tashkent: Ghadar HQ = San Francisco."
-  },
-  "55-020": {
-    "r": "Ghadar revolutionaries in World War I → based in San Francisco, in the western USA (North America).",
-    "c": "Ambiguous: book takes (c) West America, but admits (b) North America is right by continent."
-  },
-  "55-021": {
-    "r": "Ghadar Revolution → sparked by the outbreak of World War I (1914): 'England's distress is India's opportunity'.",
-    "t": "Not the Komagata Maru incident; the trigger was the start of World War I."
-  },
-  "55-022": {
-    "r": "Raja Mahendra Pratap → set up first Provisional Government of India at Kabul, Afghanistan (1915), as President; Maulavi Barakatullah its Prime Minister; recognised by Germany and Russia.",
-    "hi": ["Provisional Government (अस्थायी सरकार)"]
-  },
-  "55-025": {
-    "r": "Bhikaiji Rustam Cama → 'Mother of Indian Revolution'; Parsi; first to hoist the Indian flag on foreign soil, International Socialist Congress, Stuttgart (Germany), 1907.",
-    "hi": ["Revolution (क्रांति)"]
-  },
-  "55-026": {
-    "r": "Madam Bhikaji Cama → Parsi (born 24 September 1861), Dadabhai Naoroji's private secretary; unfurled the flag at Stuttgart in 1907, not Paris (statement 1 wrong).",
-    "t": "Flag hoisted at Stuttgart, Germany, not Paris."
-  },
-  "55-031": {
-    "r": "Hanged for killing British officers in England → Madan Lal Dhingra (shot Curzon Wyllie, 1 July 1909) and Udham Singh (killed Michael O'Dwyer, London, March 1940).",
-    "h": "Udham Singh avenged Jallianwala: O'Dwyer had backed the massacre."
-  },
-  "55-034": {
-    "r": "Madam Bhikaji Cama, M. Barkatullah, V.V.S. Iyer and M.N. Roy → all prominent revolutionaries working for India's freedom from different foreign countries."
-  },
-  "55-035": {
-    "r": "V.D. Savarkar → extended Abhinav Bharat Society to London in 1906, when he went there to study law."
-  },
-  "55-036": {
-    "r": "Kamagatamaru → Japanese ship chartered by Gurdit Singh; sailed 1914 with 376 Indians to Vancouver, Canada, but they were refused entry.",
-    "hi": ["Komagata Maru (कामागाटा मारू)"]
-  },
-  "55-038": {
-    "r": "Kamagatamaru episode → Baba Gurdit Singh, the Punjabi businessman who chartered the ship.",
-    "c": "Option misprints Gurdit Singh as 'Gurdip Singh' (book notes the error)."
-  },
-  "55-040": {
-    "r": "Order: Ghadar Party (21 April 1913) → Indian Independence Committee, Berlin (WWI; renamed after 1915) → Central Assembly bomb (8 April 1929) → Chittagong Raid (18 April 1930)."
-  },
-  "55-041": {
-    "r": "Headquarters: Swadesh Sevak Home → Vancouver; United India House → Seattle; Yugantar Ashram → San Francisco; INA (Azad Hind Fauj) → Rangoon."
-  },
-  "55-042": {
-    "r": "Indian Independence League → Rash Behari Bose (Tokyo conference, 28-30 March 1942; structured at Bangkok Convention, June 1942).",
-    "t": "Rash Behari Bose (Japan) founded it, not Subhash Bose."
-  },
-  "56-001": {
-    "r": "Last of these: Partition of Bengal (1905). Earlier: Permanent Settlement (Cornwallis, 1793); Subsidiary Alliance (Wellesley); annexation policy/Doctrine of Lapse (Dalhousie, 1848-56)."
-  },
-  "56-002": {
-    "r": "Anti-partition (Swadeshi) movement → began 7 August 1905 at Calcutta Town Hall. Partition announced 20 July 1905; came into effect 16 October 1905.",
-    "h": "July announce → August protest → October partition."
-  },
-  "56-006": {
-    "r": "Bengal Partition → resolution signed 19 July 1905, announced 20 July 1905; BPSC accepted 19 July."
-  },
-  "56-007": {
-    "r": "Lord Curzon (Viceroy, 1899-1905) → partition of Bengal announced 20 July 1905, effective 16 October 1905; annulled at Delhi Durbar, 1911.",
-    "hi": ["Partition of Bengal (बंगाल विभाजन)"]
-  },
-  "56-010": {
-    "r": "Sir Andrew Fraser → Lieutenant Governor of Bengal (1903-1908) during the Partition; actively helped frame it."
-  },
-  "56-011": {
-    "r": "Surendranath Banerjee → led the agitation against the partition of Bengal (1905)."
-  },
-  "56-012": {
-    "r": "Surendra Nath Banerjee on Bengal Partition → \"The partition announcement fell like a bomb shell\" (Curzon's tenure)."
-  },
-  "56-013": {
-    "r": "R.N. Tagore → critic of the Swadeshi movement; pleaded for better East–West understanding; attacked it in his essay 'The Cult of the Chakra' (September 1925)."
-  },
-  "56-014": {
-    "r": "Krishna Kumar Mitra (Brahmo leader) → first suggested boycott of British goods in Bengal, in his weekly 'Sanjibani' (13 July 1905)."
-  },
-  "56-015": {
-    "r": "Boycott of British goods → adopted as national policy at the Calcutta Town Hall meeting, 7 August 1905 (Swadeshi Movement launched).",
-    "hi": ["Boycott (बहिष्कार)"]
-  },
-  "56-016": {
-    "r": "Abanindranath Tagore → painted 'Bharat Mata' (1905, Swadeshi Movement): four-armed goddess in a saffron sari, symbol of the nation.",
-    "hi": ["Bharat Mata (भारत माता)"]
-  },
-  "56-017": {
-    "r": "Partition of Bengal → main motive: weaken growing Bengali nationalism (Bengal = nerve-centre of nationalism); Curzon called it mere administrative readjustment.",
-    "t": "Official excuse was administrative convenience; real aim was to weaken nationalism."
-  },
-  "56-018": {
-    "r": "Anti-partition programmes → Boycott, Swadeshi and National Education. Non-cooperation was not among them."
-  },
-  "56-019": {
-    "r": "Swadeshi and Boycott → first adopted as methods of struggle in the agitation against the Partition of Bengal (effective 16 October 1905)."
-  },
-  "56-020": {
-    "r": "Swadeshi and Boycott → first used against the Partition of Bengal; Swadeshi Movement formally began 7 August 1905 with the Boycott resolution at Calcutta Town Hall."
-  },
-  "56-022": {
-    "r": "Both correct, II explains I: 7 August → National Handloom Day, marking the Swadeshi Movement launched on 7 August 1905.",
-    "hi": ["Handloom (हथकरघा)"]
-  },
-  "56-023": {
-    "r": "Swadeshi Movement → immediate cause: Lord Curzon's Partition of Bengal; championed by Aurobindo, Tilak, Bipin Chandra Pal, Lajpat Rai; Moderates opposed spreading it."
-  },
-  "56-025": {
-    "r": "Partition of Bengal annulled → 1911, by King George V at Delhi Durbar (12 December 1911); capital moved from Calcutta to Delhi; Bihar and Orissa separated."
-  },
-  "56-029": {
-    "r": "Swadeshi leaders: Madras → Chidambaram Pillai; Delhi → Syed Haider Raja; Bombay/Pune → Tilak; Punjab → Ajit Singh, Lala Lajpat Rai."
-  },
-  "56-031": {
-    "r": "Swadeshi Movement 1905 → farmers and Muslims mostly stayed away; women took active part.",
-    "t": "Women were very active; it was farmers and Muslims who were largely unaffected."
-  },
-  "56-032": {
-    "r": "Vande Mataram → became theme song of the national movement during the Swadeshi Movement; 16 October 1905 was a day of mourning with rakhis tied.",
-    "hi": ["Vande Mataram (वन्दे मातरम्)"]
-  },
-  "56-033": {
-    "r": "Not correct: Liyakat Hussain led Barisal's Muslim peasants (it was Ashwini Kumar Dutta). True: Bengal National College (1906), Aurobindo principal; Tagore's Atmasakti for village regeneration."
-  },
-  "56-034": {
-    "r": "Not correct: Swadeshi limited to Bengal (Lajpat Rai, Tilak, Aurobindo spread it countrywide). True: some Muslims joined; women active; Bengal farmers unaffected except Barisal."
-  },
-  "56-035": {
-    "r": "Both true: Swadeshi Movement revived indigenous artisan crafts and industries; National Council of Education was set up as part of it."
-  },
-  "56-036": {
-    "r": "H.W. Nevinson (British journalist) → linked with Swadeshi Movement; toured India four months reporting for Manchester Guardian, Glasgow Herald, Daily Chronicle."
-  },
-  "56-037": {
-    "r": "Abanindranath Tagore (with E.B. Havell) → founded 'Indian Society of Oriental Art' to revive ancient Indian art; exponent of Swadeshi values in art.",
-    "t": "Not Nand Lal Bose or Amrita Shergill."
-  },
-  "57-001": {
-    "r": "Gopal Krishna Gokhale (born 9 May 1866, Ratnagiri) → graduate at 18, Sudharak editor, Congress President at 39; Gandhi regarded him as master; protégé of Ranade.",
-    "hi": ["Political guru (राजनीतिक गुरु)"]
-  },
-  "57-002": {
-    "r": "Gopal Krishna Gokhale → presided over the Benaras session of INC, 1905; founded Servants of India Society the same year."
-  },
-  "57-004": {
-    "r": "Calcutta session 1906 → presided over by Dadabhai Naoroji, chosen by Moderates to stop an Extremist takeover and a split."
-  },
-  "57-005": {
-    "r": "Calcutta INC session 1906 → flag of Swaraj unfurled by its President Dadabhai Naoroji."
-  },
-  "57-006": {
-    "r": "Swaraj resolution → taken up at Benaras (1905), fully passed at Calcutta (1906); aim: self-rule, with boycott, Swadeshi and national education.",
-    "c": "No answer printed; explanation points to 'to secure self-rule' (b)."
-  },
-  "57-007": {
-    "r": "Swaraj as national demand → first made by Dadabhai Naoroji in his presidential address, Calcutta session, 1906."
-  },
-  "57-008": {
-    "r": "'Swaraj' first uttered in INC → Calcutta session, December 1906; Naoroji: goal is self-government like the United Kingdom.",
-    "t": "Not Benaras 1905 or Surat 1907: 'Swaraj' was first declared at Calcutta 1906."
-  },
-  "57-009": {
-    "r": "First to use 'Swaraj' → Dayanand Saraswati (per explanation); among options, Bal Gangadhar Tilak ('Swaraj is my birthright, I shall have it').",
-    "c": "Explanation says Dayanand Saraswati first used the word; Tilak is only the closest option."
-  },
-  "57-010": {
-    "r": "Dadabhai Naoroji → 'Grand Old Man of India'; first Indian elected to House of Commons (1892, Liberal, Central Finsbury); INC President 1886, 1893, 1906.",
-    "hi": ["Grand Old Man of India (भारत के वयोवृद्ध पुरुष)"]
-  },
-  "57-013": {
-    "r": "Not correct: Naoroji won a British Parliament seat as Conservative (he was Liberal Party). True: 'Poverty and Un-British Rule in India'; Gujarati professor, University College London.",
-    "t": "Liberal, not Conservative."
-  },
-  "57-014": {
-    "r": "Not correct: Naoroji presided INC four times; it was three (1886, 1893, 1906). True: Elphinstone College professor; MP 1892; Gujarati journal 'Rast Goftar'.",
-    "h": "Naoroji's three sessions: 1886, 1893, 1906."
-  }
+ "54-082": {
+  "r": "Revolutionary bodies → Abhinav Bharat and Anushilan Samiti. United Indian Patriotic Association (Sir Syed Ahmed Khan, Raja Shiv Prasad, 1888) opposed Congress, not revolutionary."
+ },
+ "54-083": {
+  "r": "Doctrine of 'Passive Resistance' → propounded by Aurobindo Ghosh in his newspaper 'Vande Mataram'; Indians to keep protesting until the British left.",
+  "hi": [
+   "Passive resistance (निष्क्रिय प्रतिरोध)"
+  ]
+ },
+ "54-084": {
+  "r": "Both correct: Subhash Chandra Bose quit as Congress President and formed the Forward Bloc (3 May 1939); Bhagat Singh was a founder member of HSRA (Delhi, 1928).",
+  "hi": [
+   "Forward Bloc (फॉरवर्ड ब्लॉक)"
+  ]
+ },
+ "54-085": {
+  "r": "Kakori martyrs' jails → Ram Prasad Bismil: Gorakhpur; Rajendra Lahiri: Gonda; Roshan Singh: Allahabad (Prayagraj); Ashfaq Ullah: Faizabad (Ayodhya).",
+  "h": "B-G, L-G: Bismil–Gorakhpur, Lahiri–Gonda."
+ },
+ "54-086": {
+  "r": "Pt. Ram Prasad Bismil (main accused, Kakori case) → hanged in Gorakhpur jail on 19 December 1927."
+ },
+ "54-088": {
+  "r": "Gopinath Saha → tried to kill Calcutta Police Commissioner Charles Tegart (12 January 1924) but shot Ernest Day by mistake; hanged March 1924."
+ },
+ "54-089": {
+  "r": "Bina Das → fired at the English Governor while receiving her degree at convocation (February 1932). Shanti Ghosh and Suniti Chaudhary shot a district magistrate (December 1931).",
+  "t": "Don't mix Bina Das (convocation) with Shanti Ghosh–Suniti Chaudhary (magistrate)."
+ },
+ "54-090": {
+  "r": "\"Criticism and independent thought are the two characteristics of a revolutionary\" → Bhagat Singh."
+ },
+ "54-091": {
+  "r": "Bal Gangadhar Tilak → started Lathi Club, Hindu Akhada, Ganapati Mahotsava and Shivaji Mahotsava."
+ },
+ "54-092": {
+  "r": "True: Bhagat Singh founded Naujawan Bharat Sabha (March 1926). Others wrong: Anushilan Samiti → P. Mitra, Pulin Das; HRA (1924) → Sachindra Sanyal, Bismil; HSRA → Chandra Shekhar Azad."
+ },
+ "55-001": {
+  "r": "Indian Home Rule Society → founded February 1905 in London by Shyamji Krishna Verma; also India House hostel and monthly 'The Indian Sociologist' (January 1905).",
+  "hi": [
+   "Home Rule (स्वशासन)"
+  ]
+ },
+ "55-006": {
+  "r": "Lala Har Dayal (revolutionary scholar) → got a post in California in 1911 to teach Indian philosophy and Sanskrit.",
+  "c": "Har Dayal lectured on Indian philosophy and Sanskrit at Stanford University, California; the book wrongly places Stanford in Berkeley, and the question says University of California. He is still the answer."
+ },
+ "55-007": {
+  "r": "Ghadar Party → founded 1913 at San Francisco as 'Hindustan Association of the Pacific Coast' (Sohan Singh Bhakna); Lala Hardayal its founder member and torchbearer; named after paper 'Ghadar'.",
+  "hi": [
+   "Ghadar Party (ग़दर पार्टी)"
+  ]
+ },
+ "55-012": {
+  "r": "First Chairman of the Ghadar Party (1913, USA and Canada) → Sohan Singh Bhakna; key members Lala Hardayal, Kartar Singh Sarabha, Rash Behari Bose.",
+  "t": "Hardayal = torchbearer/leader; Sohan Singh Bhakna = first Chairman (President)."
+ },
+ "55-013": {
+  "r": "Only Rash Behari Bose was active in the Ghadar Party; Barindra Kumar Ghosh → Alipore Bomb case; Jogesh Chandra Chatterjee → Kakori case."
+ },
+ "55-014": {
+  "r": "Khudiram Bose → not in Ghadar Party. Ghadar Party (21 April 1913, USA; HQ San Francisco) → Hardayal, Sohan Singh Bhakna (President), Pt. Ramchandra, Barkatullah, Rash Behari Bose."
+ },
+ "55-018": {
+  "r": "Ghadar → revolutionary association of expatriate Indians (Canada, America), headquarters San Francisco, founded 21 April 1913 to free India.",
+  "t": "Not Singapore, Berlin or Tashkent: Ghadar HQ = San Francisco."
+ },
+ "55-020": {
+  "r": "Ghadar revolutionaries in World War I → based in San Francisco, in the western USA (North America).",
+  "c": "Ambiguous: book takes (c) West America, but admits (b) North America is right by continent."
+ },
+ "55-021": {
+  "r": "Ghadar Revolution → sparked by the outbreak of World War I (1914): 'England's distress is India's opportunity'.",
+  "t": "Not the Komagata Maru incident; the trigger was the start of World War I."
+ },
+ "55-022": {
+  "r": "Raja Mahendra Pratap → set up first Provisional Government of India at Kabul, Afghanistan (1915), as President; Maulavi Barakatullah its Prime Minister; recognised by Germany and Russia.",
+  "hi": [
+   "Provisional Government (अस्थायी सरकार)"
+  ]
+ },
+ "55-025": {
+  "r": "Bhikaiji Rustam Cama → 'Mother of Indian Revolution'; Parsi; first to hoist the Indian flag on foreign soil, International Socialist Congress, Stuttgart (Germany), 1907.",
+  "hi": [
+   "Revolution (क्रांति)"
+  ]
+ },
+ "55-026": {
+  "r": "Madam Bhikaji Cama → Parsi (born 24 September 1861), Dadabhai Naoroji's private secretary; unfurled the flag at Stuttgart in 1907, not Paris (statement 1 wrong).",
+  "t": "Flag hoisted at Stuttgart, Germany, not Paris."
+ },
+ "55-031": {
+  "r": "Hanged for killing British officers in England → Madan Lal Dhingra (shot Curzon Wyllie, 1 July 1909) and Udham Singh (killed Michael O'Dwyer, London, March 1940).",
+  "h": "Udham Singh avenged Jallianwala: O'Dwyer had backed the massacre."
+ },
+ "55-034": {
+  "r": "Madam Bhikaji Cama, M. Barkatullah, V.V.S. Iyer and M.N. Roy → all prominent revolutionaries working for India's freedom from different foreign countries."
+ },
+ "55-035": {
+  "r": "V.D. Savarkar → extended Abhinav Bharat Society to London in 1906, when he went there to study law."
+ },
+ "55-036": {
+  "r": "Kamagatamaru → Japanese ship chartered by Gurdit Singh; sailed 1914 with 376 Indians to Vancouver, Canada, but they were refused entry.",
+  "hi": [
+   "Komagata Maru (कामागाटा मारू)"
+  ]
+ },
+ "55-038": {
+  "r": "Kamagatamaru episode → Baba Gurdit Singh, the Punjabi businessman who chartered the ship.",
+  "c": "Option misprints Gurdit Singh as 'Gurdip Singh' (book notes the error)."
+ },
+ "55-040": {
+  "r": "Order: Ghadar Party (21 April 1913) → Indian Independence Committee, Berlin (WWI; renamed after 1915) → Central Assembly bomb (8 April 1929) → Chittagong Raid (18 April 1930)."
+ },
+ "55-041": {
+  "r": "Headquarters: Swadesh Sevak Home → Vancouver; United India House → Seattle; Yugantar Ashram → San Francisco; INA (Azad Hind Fauj) → Rangoon."
+ },
+ "55-042": {
+  "r": "Indian Independence League → Rash Behari Bose (Tokyo conference, 28-30 March 1942; structured at Bangkok Convention, June 1942).",
+  "t": "Rash Behari Bose (Japan) founded it, not Subhash Bose."
+ },
+ "56-001": {
+  "r": "Last of these: Partition of Bengal (1905). Earlier: Permanent Settlement (Cornwallis, 1793); Subsidiary Alliance (Wellesley); annexation policy/Doctrine of Lapse (Dalhousie, 1848-56)."
+ },
+ "56-002": {
+  "r": "Anti-partition (Swadeshi) movement → began 7 August 1905 at Calcutta Town Hall. Partition announced 20 July 1905; came into effect 16 October 1905.",
+  "h": "July announce → August protest → October partition."
+ },
+ "56-006": {
+  "r": "Bengal Partition → resolution signed 19 July 1905, announced 20 July 1905; BPSC accepted 19 July."
+ },
+ "56-007": {
+  "r": "Lord Curzon (Viceroy, 1899-1905) → partition of Bengal announced 20 July 1905, effective 16 October 1905; annulled at Delhi Durbar, 1911.",
+  "hi": [
+   "Partition of Bengal (बंगाल विभाजन)"
+  ]
+ },
+ "56-010": {
+  "r": "Sir Andrew Fraser → Lieutenant Governor of Bengal (1903-1908) during the Partition; actively helped frame it."
+ },
+ "56-011": {
+  "r": "Surendranath Banerjee → led the agitation against the partition of Bengal (1905)."
+ },
+ "56-012": {
+  "r": "Surendra Nath Banerjee on Bengal Partition → \"The partition announcement fell like a bomb shell\" (Curzon's tenure)."
+ },
+ "56-013": {
+  "r": "R.N. Tagore → critic of the Swadeshi movement; pleaded for better East–West understanding; attacked it in his essay 'The Cult of the Chakra' (September 1925)."
+ },
+ "56-014": {
+  "r": "Krishna Kumar Mitra (Brahmo leader) → first suggested boycott of British goods in Bengal, in his weekly 'Sanjibani' (13 July 1905)."
+ },
+ "56-015": {
+  "r": "Boycott of British goods → adopted as national policy at the Calcutta Town Hall meeting, 7 August 1905 (Swadeshi Movement launched).",
+  "hi": [
+   "Boycott (बहिष्कार)"
+  ]
+ },
+ "56-016": {
+  "r": "Abanindranath Tagore → painted 'Bharat Mata' (1905, Swadeshi Movement): four-armed goddess in a saffron sari, symbol of the nation.",
+  "hi": [
+   "Bharat Mata (भारत माता)"
+  ]
+ },
+ "56-017": {
+  "r": "Partition of Bengal → main motive: weaken growing Bengali nationalism (Bengal = nerve-centre of nationalism); Curzon called it mere administrative readjustment.",
+  "t": "Official excuse was administrative convenience; real aim was to weaken nationalism."
+ },
+ "56-018": {
+  "r": "Anti-partition programmes → Boycott, Swadeshi and National Education. Non-cooperation was not among them."
+ },
+ "56-019": {
+  "r": "Swadeshi and Boycott → first adopted as methods of struggle in the agitation against the Partition of Bengal (effective 16 October 1905)."
+ },
+ "56-020": {
+  "r": "Swadeshi and Boycott → first used against the Partition of Bengal; Swadeshi Movement formally began 7 August 1905 with the Boycott resolution at Calcutta Town Hall."
+ },
+ "56-022": {
+  "r": "Both correct, II explains I: 7 August → National Handloom Day, marking the Swadeshi Movement launched on 7 August 1905.",
+  "hi": [
+   "Handloom (हथकरघा)"
+  ]
+ },
+ "56-023": {
+  "r": "Swadeshi Movement → immediate cause: Lord Curzon's Partition of Bengal; championed by Aurobindo, Tilak, Bipin Chandra Pal, Lajpat Rai; Moderates opposed spreading it."
+ },
+ "56-025": {
+  "r": "Partition of Bengal annulled → 1911, by King George V at Delhi Durbar (12 December 1911); capital moved from Calcutta to Delhi; Bihar and Orissa separated."
+ },
+ "56-029": {
+  "r": "Swadeshi leaders: Madras → Chidambaram Pillai; Delhi → Syed Haider Raja; Bombay/Pune → Tilak; Punjab → Ajit Singh, Lala Lajpat Rai."
+ },
+ "56-031": {
+  "r": "Swadeshi Movement 1905 → farmers and Muslims mostly stayed away; women took active part.",
+  "t": "Women were very active; it was farmers and Muslims who were largely unaffected."
+ },
+ "56-032": {
+  "r": "Vande Mataram → became theme song of the national movement during the Swadeshi Movement; 16 October 1905 was a day of mourning with rakhis tied.",
+  "hi": [
+   "Vande Mataram (वन्दे मातरम्)"
+  ]
+ },
+ "56-033": {
+  "r": "Not correct: Liyakat Hussain led Barisal's Muslim peasants (it was Ashwini Kumar Dutta). True: Bengal National College (1906), Aurobindo principal; Tagore's Atmasakti for village regeneration."
+ },
+ "56-034": {
+  "r": "Not correct: Swadeshi limited to Bengal (Lajpat Rai, Tilak, Aurobindo spread it countrywide). True: some Muslims joined; women active; Bengal farmers unaffected except Barisal."
+ },
+ "56-035": {
+  "r": "Both true: Swadeshi Movement revived indigenous artisan crafts and industries; National Council of Education was set up as part of it."
+ },
+ "56-036": {
+  "r": "H.W. Nevinson (British journalist) → linked with Swadeshi Movement; toured India four months reporting for Manchester Guardian, Glasgow Herald, Daily Chronicle."
+ },
+ "56-037": {
+  "r": "Abanindranath Tagore (with E.B. Havell) → founded 'Indian Society of Oriental Art' to revive ancient Indian art; exponent of Swadeshi values in art.",
+  "t": "Not Nand Lal Bose or Amrita Shergill."
+ },
+ "57-001": {
+  "r": "Gopal Krishna Gokhale (born 9 May 1866, Ratnagiri) → graduate at 18, Sudharak editor, Congress President at 39; Gandhi regarded him as master; protégé of Ranade.",
+  "hi": [
+   "Political guru (राजनीतिक गुरु)"
+  ]
+ },
+ "57-002": {
+  "r": "Gopal Krishna Gokhale → presided over the Benaras session of INC, 1905; founded Servants of India Society the same year."
+ },
+ "57-004": {
+  "r": "Calcutta session 1906 → presided over by Dadabhai Naoroji, chosen by Moderates to stop an Extremist takeover and a split."
+ },
+ "57-005": {
+  "r": "Calcutta INC session 1906 → flag of Swaraj unfurled by its President Dadabhai Naoroji."
+ },
+ "57-006": {
+  "r": "Swaraj resolution → taken up at Benaras (1905), fully passed at Calcutta (1906); aim: self-rule, with boycott, Swadeshi and national education.",
+  "c": "No answer printed; explanation points to 'to secure self-rule' (b)."
+ },
+ "57-007": {
+  "r": "Swaraj as national demand → first made by Dadabhai Naoroji in his presidential address, Calcutta session, 1906."
+ },
+ "57-008": {
+  "r": "'Swaraj' first uttered in INC → Calcutta session, December 1906; Naoroji: goal is self-government like the United Kingdom.",
+  "t": "Not Benaras 1905 or Surat 1907: 'Swaraj' was first declared at Calcutta 1906."
+ },
+ "57-009": {
+  "r": "First to use 'Swaraj' → Dayanand Saraswati (per explanation); among options, Bal Gangadhar Tilak ('Swaraj is my birthright, I shall have it').",
+  "c": "Explanation says Dayanand Saraswati first used the word; Tilak is only the closest option."
+ },
+ "57-010": {
+  "r": "Dadabhai Naoroji → 'Grand Old Man of India'; first Indian elected to House of Commons (1892, Liberal, Central Finsbury); INC President 1886, 1893, 1906.",
+  "hi": [
+   "Grand Old Man of India (भारत के वयोवृद्ध पुरुष)"
+  ]
+ },
+ "57-013": {
+  "r": "Not correct: Naoroji won a British Parliament seat as Conservative (he was Liberal Party). True: 'Poverty and Un-British Rule in India'; Gujarati professor, University College London.",
+  "t": "Liberal, not Conservative."
+ },
+ "57-014": {
+  "r": "Not correct: Naoroji presided INC four times; it was three (1886, 1893, 1906). True: Elphinstone College professor; MP 1892; Gujarati journal 'Rast Goftar'.",
+  "h": "Naoroji's three sessions: 1886, 1893, 1906."
+ }
 }

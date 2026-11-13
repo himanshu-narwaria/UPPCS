@@ -1,0 +1,581 @@
+{
+ "21-081": {
+  "r": "Baiga → primitive tribal group with the largest population in Chhattisgarh; a forest-dwelling primitive Dravidian tribe of central India.",
+  "hi": [
+   "Primitive Tribal Group (आदिम जनजाति समूह)"
+  ]
+ },
+ "21-082": {
+  "r": "Bilama dance → performed by the Baiga tribe.",
+  "hi": [
+   "Tribe (जनजाति)"
+  ]
+ },
+ "21-083": {
+  "r": "Ojha → the 'tattoo maker' (Godna) tribe; Ojha, Badni and Dewar women tattoo the Baiga, whose women are famous for tattoos.",
+  "hi": [
+   "Tattoo (गोदना)"
+  ]
+ },
+ "21-084": {
+  "r": "Wrong pairs: Bharia–Pateliya (Pateliya is a Bhil sub-caste) and Korku–Mahar (Mahar is a Scheduled Caste); correct: Gond–Agariya, Baiga–Bijhwar."
+ },
+ "21-085": {
+  "r": "Todas → Nilgiri mountains of Tamil Nadu and Karnataka, not Kerala; correct: Bhils–Gujarat, Gaddis–Himachal Pradesh, Kotas–Tamil Nadu."
+ },
+ "21-086": {
+  "r": "Bharmour tribal region → Himachal Pradesh; Bharmour was the ancient capital of Chamba district."
+ },
+ "21-087": {
+  "r": "Bhils → Rajasthan; Gonds → Chhattisgarh; Limboos → Sikkim; Konyak → Nagaland."
+ },
+ "21-088": {
+  "r": "Khas tribe → Uttarakhand, Himachal Pradesh, Jammu & Kashmir, not Arunachal Pradesh; correct: Angamis–Nagaland, Birhors–Jharkhand, Todas–Tamil Nadu."
+ },
+ "21-089": {
+  "r": "Tamaria tribe → Jharkhand (also Odisha); a sub-caste of the Bhumij; added to Jharkhand's ST list as synonym of Munda (8 April 2022)."
+ },
+ "21-090": {
+  "r": "Agaria (iron-making tribe of central India) → worship Lohasur, the god of iron (also Kalabhairao).",
+  "h": "Loha = iron: Lohasur is the god of the iron-smelting Agaria.",
+  "hi": [
+   "Iron (लोहा)"
+  ]
+ },
+ "21-091": {
+  "r": "Gahira Guru (Swami Rameshwar Kanwar) → Kanwar tribe; formed 'Sanatan Dharma Sant Samaj' at Gahira; meditated at Kailash Gupha, Samarbar."
+ },
+ "21-092": {
+  "r": "Kaathi (Kathi) → folk dance and folk theatre of the Balahi community, Nimar region (MP), to worship mother Parvati.",
+  "t": "Not a caste, tribe or wooden art."
+ },
+ "21-093": {
+  "r": "Kuki → northeast India, not UP; Yanadi → Andhra Pradesh, not Rajasthan; Kharia → Odisha; Paliyan (Palliyan) → Tamil Nadu's Palani hills, also Kerala.",
+  "c": "The book rejects every pair, partly on spelling (Keria vs Kharia, Paliyan vs Palliyan). The Paliyan do live in Tamil Nadu's Palani hills, so Paliyan–Tamil Nadu is commonly treated as correct."
+ },
+ "22-001": {
+  "r": "Halbi, Ho and Kui → tribal languages; Halbi spoken in Bastar (Chhattisgarh); Ho (Munda family) mainly in West Singhbhum (Jharkhand).",
+  "hi": [
+   "Tribal language (जनजातीय भाषा)"
+  ]
+ },
+ "22-002": {
+  "r": "Bengali → most spoken Indian language in the world after Hindi (Ethnologue 2025: 284.3 million users)."
+ },
+ "22-003": {
+  "r": "Bengali → most widely spoken language after Hindi, both in India and in the Indian subcontinent."
+ },
+ "22-005": {
+  "r": "Indo-Aryan → largest linguistic group of India (Hindi, Bengali, Gujarati, Marathi, Punjabi, Assamese, Odiya, Kashmiri, Urdu, Sanskrit).",
+  "hi": [
+   "Language family (भाषा परिवार)"
+  ]
+ },
+ "22-006": {
+  "r": "Austric (Austro-Asiatic) group → Khasi, Santhali, Mundari, Bhumij; languages spoken by Indian tribes."
+ },
+ "22-007": {
+  "r": "Map areas A, B, C, D → Brajbhasha, Awadhi, Bhojpuri, Maithili (D is North Bihar)."
+ },
+ "22-008": {
+  "r": "Classical language status → Tamil 2004, Sanskrit 2005, Telugu and Kannada 2008, Malayalam 2013, Odiya (sixth) 20 Feb 2014.",
+  "hi": [
+   "Classical language (शास्त्रीय भाषा)"
+  ]
+ },
+ "23-001": {
+  "r": "Ganga → example of antecedent drainage.",
+  "hi": [
+   "Antecedent drainage (पूर्ववर्ती अपवाह)"
+  ]
+ },
+ "23-002": {
+  "r": "Ganga in Bangladesh → Padma; enters via Farakka (West Bengal), merges with Brahmaputra, then Meghna, into the Bay of Bengal; Ganga's length 2525 km."
+ },
+ "23-003": {
+  "r": "Ganga's main branch in Bangladesh → Padma; joined by the Brahmaputra (called Jamuna there), then the Meghna, flowing into the Bay of Bengal.",
+  "t": "Don't confuse Jamuna (Brahmaputra in Bangladesh) with the Yamuna of India."
+ },
+ "23-005": {
+  "r": "Sunderban Delta (world's largest delta) → Ganga, Brahmaputra and Meghna; two-thirds in Bangladesh, the rest in India.",
+  "hi": [
+   "Delta (डेल्टा)"
+  ]
+ },
+ "23-006": {
+  "r": "A true, R false: Ganga is highly polluted because urban waste water with high organic load is dumped into it, not because of its holiness."
+ },
+ "23-007": {
+  "r": "Depth of Gangetic alluvium → about 4000–6000 m (Oldham), about 2000 m (Glany); exam answer: 6000 m.",
+  "hi": [
+   "Alluvial soil (जलोढ़ मृदा)"
+  ]
+ },
+ "23-008": {
+  "r": "True: Devprayag → Bhagirathi + Alaknanda; Rudraprayag → Mandakini + Alaknanda; Alaknanda flows from Badrinath. Statement 4 on Kedarnath is false."
+ },
+ "23-009": {
+  "r": "Rudraprayag → Mandakini–Alaknanda; Nandprayag → Nandakini–Alaknanda; Karnaprayag → Alaknanda–Pindar; Devprayag → Bhagirathi–Alaknanda.",
+  "c": "No code is fully right: Nandprayag is the Nandakini–Alaknanda meeting, not Vishnu Ganga–Mandakini as List-II says. Code (b) gets the other three right, and U.P.P.S.C. held (b) correct."
+ },
+ "23-010": {
+  "r": "Devprayag → Alaknanda + Bhagirathi; Rudraprayag → Alaknanda + Mandakini; Karnaprayag → Alaknanda + Pindar; Tehri → Bhagirathi + Bhilangna.",
+  "hi": [
+   "Confluence (संगम)"
+  ]
+ },
+ "23-012": {
+  "r": "Panchprayag on the Alaknanda → Vishnuprayag, Nandaprayag, Karnaprayag, Rudraprayag, Devprayag; at Devprayag Bhagirathi + Alaknanda flow on as the Ganga.",
+  "h": "V-N-K-R-D: 'Very Nice Kids Read Daily'."
+ },
+ "23-013": {
+  "r": "Devprayag (Tehri Garhwal, Uttarakhand) → Alaknanda + Bhagirathi form the Ganga; name means 'holy confluence'; on the Rishikesh–Badrinath route.",
+  "hi": [
+   "Confluence (संगम)"
+  ]
+ },
+ "23-014": {
+  "r": "Mandakini → rises at Chorabari Taal, fed by Vasukiganga/Son Ganga at Sonprayag, joins the Alaknanda at Rudraprayag."
+ },
+ "23-015": {
+  "r": "Eastern (Poorvi) Dhauliganga → tributary of the Kali; Kali rises at Kalapani near Lipulekh Pass (tributaries Gori, Saryu, Lohavati, Ladhiya).",
+  "t": "It joins the Kali, not the Alaknanda."
+ },
+ "23-016": {
+  "r": "Bhagirathi (from Gangotri glacier near Gaumukh, Uttarkashi) meets Alaknanda at Devprayag → thereafter called the Ganga."
+ },
+ "23-019": {
+  "r": "Mandakini → flows between Kedarnath and Rudraprayag; rises at Chorabari Taal near Kedarnath, joins the Alaknanda at Rudraprayag."
+ },
+ "23-020": {
+  "r": "Badrinath temple → bank of the Alaknanda; Kedarnath temple → bank of the Mandakini (Uttarakhand).",
+  "t": "Don't swap them: Badrinath–Alaknanda, Kedarnath–Mandakini."
+ },
+ "23-021": {
+  "r": "Lengths → Ganga 2525 km (longest), Godavari 1465 km, Narmada 1312 km, Mahanadi 851 km."
+ },
+ "23-022": {
+  "r": "Ganga → longest river in India (2525 km); rises in the Western Himalayas, Uttarakhand."
+ },
+ "23-023": {
+  "r": "Bhagirathi → rises at Gomukh of the Gangotri Glacier, 18 km from Shivalinga Peak.",
+  "t": "Answer is Gomukh, not Gangotri or Tapovan."
+ },
+ "23-024": {
+  "r": "Gomti → only Ganga tributary that rises in the plains; source Gomat Taal (Fulhar lake) near Pilibhit, Uttar Pradesh.",
+  "hi": [
+   "Tributary (सहायक नदी)"
+  ]
+ },
+ "23-025": {
+  "r": "Left-bank Himalayan rivers joining the Ganga below Prayagraj, west to east → Gomti, Ghaghara, Gandak, Kosi.",
+  "h": "Three G's then K: Go-Gha-Gan, then Kosi farthest east."
+ },
+ "23-026": {
+  "r": "A true, R false: Yamuna is 'dead' between Delhi and Agra due to domestic and industrial waste; Yamuna is a perennial river.",
+  "hi": [
+   "Perennial river (सदावाहिनी नदी)"
+  ]
+ },
+ "23-027": {
+  "r": "Ram Ganga → rises in Dudhatoli ranges (Pauri Garhwal), a tributary of the Ganga, not Yamuna; Chambal, Betwa, Ken → Yamuna."
+ },
+ "23-028": {
+  "r": "Yamuna → rises at Yamunotri Glacier near Bandar Poonch peak."
+ },
+ "23-029": {
+  "r": "Yamuna tributaries, west to east → Chambal, Sindh, Betwa, Ken; Chambal rises near Mhow (Dr. Ambedkar Nagar), Madhya Pradesh.",
+  "h": "C-S-B-K: 'Chalo Sab Bundelkhand Ke'."
+ },
+ "23-030": {
+  "r": "Son → tributary of the Ganga, not the Yamuna; Chambal, Betwa and Ken → Yamuna."
+ },
+ "23-031": {
+  "r": "Betwa → rises in the Vindhya Range, joins the Yamuna near Hamirpur (UP); it does not join the Chambal (Kshipra, Kali Sindh, Parvati do)."
+ },
+ "23-034": {
+  "r": "Son → rises near Amarkantak (MP), main right-bank Ganga tributary, flows north to join near Patna; Kosi, Ghaghra, Gandak are left-bank."
+ },
+ "23-035": {
+  "r": "Amarkantak, source of the Son → Maikal range; the Son does not join the Ganga from the left.",
+  "hi": [
+   "Maikal Range (मैकाल श्रेणी)"
+  ]
+ },
+ "23-037": {
+  "r": "Kaimur Range → water divide between the Yamuna and the Son; Son joins the Ganga near Patna.",
+  "hi": [
+   "Watershed (जल विभाजक)"
+  ]
+ },
+ "23-038": {
+  "r": "Largest catchment → Son (70,055 sq km) > Gandak (45,731) > Ramganga (30,811.48) > Mahananda (23,700).",
+  "hi": [
+   "Catchment area (जलग्रहण क्षेत्र)"
+  ]
+ },
+ "23-039": {
+  "r": "Gandak → called Gandaki and Narayani in Nepal; streams Kaligandak and Trishulganga; rises between Dhaulagiri and Mount Everest."
+ },
+ "23-040": {
+  "r": "Moribund Delta → sub-division of the Bengal Delta (SW Bangladesh, south of Ganges: silted tributaries, oxbow lakes; Jessore, Kushtia, Faridpur).",
+  "hi": [
+   "Oxbow lake (गोखुर झील)"
+  ]
+ },
+ "23-041": {
+  "r": "North Koel (Jharkhand) → right-bank tributary of the Son, so in the Ganga basin; South Koel joins the Sankh; answer (e).",
+  "t": "Don't confuse North Koel (Son, Ganga basin) with South Koel (joins Sankh)."
+ },
+ "23-042": {
+  "r": "Ganga flows past 12 districts of Bihar: Saran, Buxar, Bhojpur, Patna, Vaishali, Samastipur, Begusarai, Lakhisarai, Munger, Khagaria, Bhagalpur, Katihar."
+ },
+ "23-043": {
+  "r": "Longest Ganga stretch in Bihar → Patna (about 99 km), then Bhagalpur (about 97 km); Ganga crosses 12 Bihar districts."
+ },
+ "23-044": {
+  "r": "Karmanasa → rises in Kaimur Hills, Kaimur (Bhabhua) district, Bihar; forms part of the UP–Bihar border; joins the Ganga near Chausa (Buxar)."
+ },
+ "23-045": {
+  "r": "Jonk → tributary of the Mahanadi (Odisha, Chhattisgarh), not in the Ganga basin; Punpun, Ajoy, Jalangi are in the Ganga basin."
+ },
+ "23-046": {
+  "r": "Gandak → does not flow through UP: enters Bihar from Nepal, joins the Ganga near Sonpur (Patna); Son, Hindon, Sharda flow through UP."
+ },
+ "23-047": {
+  "r": "Punpun → rises on the Chota Nagpur Plateau (Jharkhand), enters Aurangabad (Bihar), joins the Ganga near Fatuha (Patna district)."
+ },
+ "23-048": {
+  "r": "Kosi Plain (Bihar) → average height about 30 m (30–40 m); apex at Birpur (54 m); slope northwest to southeast."
+ },
+ "23-049": {
+  "r": "Kosi Plain → average elevation about 30–40 m (answer 30 m); part of the lower Ganga Plain; slope northwest to southeast."
+ },
+ "23-050": {
+  "r": "Dendritic pattern → Ganga plains and Assam Valley (wide plains, gentle slopes, heavy rain, many tributaries); forms where rocks lack a specific structure.",
+  "hi": [
+   "Dendritic pattern (द्रुमाकृतिक प्रतिरूप)"
+  ]
+ },
+ "24-001": {
+  "r": "Brahmaputra's 'U' turn into India → syntaxial bending of the young Himalayas (hairpin bend at the eastern limit of Arunachal Pradesh)."
+ },
+ "24-002": {
+  "r": "Yarlung Zangbo (Tibet) → called the Brahmaputra in India; rises at Angsi glacier in western Tibet."
+ },
+ "24-003": {
+  "r": "Near Mansarovar Lake (Tibet) → sources of the Brahmaputra, Indus and Satluj (Sutlej).",
+  "h": "Mansarovar gives 'BIS': Brahmaputra, Indus, Satluj."
+ },
+ "24-004": {
+  "r": "Lohit and Subansiri → flow through Arunachal Pradesh; Barak rises in Manipur Hills and flows via Manipur–Nagaland and Assam, not Arunachal."
+ },
+ "24-005": {
+  "r": "Manas → tributary of the Brahmaputra; Brahmaputra is Tsangpo in Tibet, Dihang in Arunachal Pradesh, Brahmaputra in Assam, Jamuna in Bangladesh.",
+  "h": "T-D-B-J as it flows: Tibet, Arunachal, Assam, Bangladesh."
+ },
+ "24-007": {
+  "r": "Brahmaputra catchment → Tibet (China), Bangladesh, India (and Bhutan); Majuli, world's largest inhabited river island, is formed by it."
+ },
+ "24-009": {
+  "r": "Majuli (Brahmaputra, Assam) → world's largest river island (Guinness World Records).",
+  "hi": [
+   "River island (नदी द्वीप)"
+  ]
+ },
+ "24-010": {
+  "r": "Srikakulam (Andhra Pradesh) → not a Karnataka manganese area; Shimoga, Ballari, Chikkamagaluru are Karnataka's manganese areas.",
+  "hi": [
+   "Manganese (मैंगनीज)"
+  ]
+ },
+ "24-011": {
+  "r": "Brahmaputra tributaries → Dibang, Kameng (Jiabharali), Lohit, Sankosh, Manas, Burhi Dihing; so all three are correct."
+ },
+ "24-012": {
+  "r": "Only 2 true: Rangeet (from Sikkim) joins the Teesta. Teesta rises at Khangchung Chho lake, Sikkim (Brahmaputra: Angsi Glacier) and is a Brahmaputra tributary."
+ },
+ "24-013": {
+  "r": "Brahmaputra and Indus → almost the same source area, the Tibetan Plateau ('Roof of the World', average height over 4,500 m).",
+  "hi": [
+   "Tibetan Plateau (तिब्बत का पठार)"
+  ]
+ },
+ "24-014": {
+  "r": "A and R true, R explains A: Teesta, once a Ganga tributary, now joins the Brahmaputra → river capture, a major feature of Himalayan rivers.",
+  "hi": [
+   "River capture (नदी अपहरण)"
+  ]
+ },
+ "25-001": {
+  "r": "A and R true, R explains A: Western Ghats' west-flowing rivers form no delta → short, fast courses over hard rocks; east-flowing rivers form deltas."
+ },
+ "25-002": {
+  "r": "A and R true, R explains A: Narmada and Tapi flow west to the Arabian Sea as they run in rift valleys; other major peninsular rivers → Bay of Bengal.",
+  "hi": [
+   "Rift valley (भ्रंश घाटी)"
+  ]
+ },
+ "25-003": {
+  "r": "Narmada flows west because it occupies a linear rift valley between the Vindhyas and Satpuras; rises near Amarkantak (Maikal range), MP.",
+  "hi": [
+   "Rift valley (भ्रंश घाटी)"
+  ],
+  "c": "No option pairs statements 1 and 2, so the book calls (a) Only 1 the most appropriate answer, as in the UPSC key; the rift valley is the real reason for the westward flow."
+ },
+ "25-006": {
+  "r": "A false, R true: Narmada forms no delta because it flows through a rift valley (fault trough) and deposits no silt.",
+  "hi": [
+   "Rift valley (भ्रंश घाटी)"
+  ]
+ },
+ "25-010": {
+  "r": "Odd one → Narmada flows west to the Arabian Sea (rift valley between Satpura and Vindhya); Tungabhadra, Penganga, Mahanadi drain to the Bay of Bengal."
+ },
+ "25-011": {
+  "r": "Narmada → structural origin: it flows along a fault.",
+  "t": "Not volcanic, wind or glacial origin."
+ },
+ "25-012": {
+  "r": "Narmada and Tapi (west-flowing, rift valleys, fast flow, little silt) → form estuaries, not deltas; Tapi does not fall into the Bay of Bengal.",
+  "hi": [
+   "Estuary (ज्वारनदमुख)"
+  ],
+  "c": "The book gives no single answer (*): both Narmada and Tapi make no delta."
+ },
+ "25-016": {
+  "r": "Khartoum → capital of Sudan (White and Blue Nile meet there), not Ethiopia (capital Addis Ababa); Juba → South Sudan."
+ },
+ "25-017": {
+  "r": "Tapi → flows through a rift valley; rises at Multai (Betul district, Satpura Range, MP); flows through MP, Maharashtra, Gujarat to the Arabian Sea."
+ },
+ "25-018": {
+  "r": "Rajnandgaon (Chhattisgarh) → part of the Narmada basin (5.68% of the undivided district); Raipur, Korba and Bastar are not."
+ },
+ "25-019": {
+  "r": "Son and Narmada → rise at Amarkantak; Mahanadi → Sihawa Hills, Dhamtari (Chhattisgarh), part of the Maikal Range.",
+  "c": "The book gives no single answer (*): the Mahanadi does not rise at Amarkantak."
+ },
+ "25-022": {
+  "r": "Son's source is disputed (MP vs Chhattisgarh); book's answer → Son Bacharwar in Bilaspur district; MP claims Sonmuda (Anuppur, Amarkantak)."
+ },
+ "25-023": {
+  "r": "West-flowing → Narmada and Tapti (also Mahi); Rapti is a Ghaghara tributary flowing northwest to southeast.",
+  "t": "Don't confuse Rapti (Ghaghara tributary) with Tapti (west-flowing)."
+ },
+ "25-025": {
+  "r": "Tapti → rises in Central India (Betul district, MP), not the Western Ghats."
+ },
+ "25-026": {
+  "r": "Purna → one of the largest tributaries of the Tapi; Tapi rises at Multai hills (Satpura, Betul, MP), second largest west-flowing river."
+ },
+ "25-027": {
+  "r": "Tapti → falls into the Arabian Sea via the Gulf of Khambhat (about 724 km; rises near Multai, Betul); Godavari, Krishna, Mahanadi → Bay of Bengal."
+ },
+ "25-028": {
+  "r": "Cauvery → forms islands of Srirangapatnam, Sivasamudram, Srirangam; rises in Brahmagiri hills (Talakaveri, Kodagu, Karnataka); flows through Karnataka, Kerala, Tamil Nadu."
+ },
+ "25-031": {
+  "r": "Origins → Kaveri: Brahmagiri hills; Sabarmati: Mewad hills; Tapti: Satpura range; Damodar: Chota Nagpur Plateau."
+ },
+ "25-032": {
+  "r": "Cauvery → 'Ganga of the South' (rises in Brahmagiri hills, Talakaveri); Godavari → 'Vriddha (old) Ganga' or Dakshin Ganga.",
+  "t": "Exam answer for 'Ganga of the South' here is Cauvery, not Godavari."
+ },
+ "25-033": {
+  "r": "Krishna water dispute (since 1957) → Andhra Pradesh (now AP and Telangana), Karnataka, Maharashtra; tribunals under Justice R.S. Bachhawat and Brijesh Kumar.",
+  "c": "The book gives no single answer (*): the dispute involves three states; the commission first keyed (b), then dropped the question."
+ },
+ "25-034": {
+  "r": "Descending length → Godavari (1465 km) > Narmada (1312 km) > Mahanadi (851 km) > Tapi (724 km)."
+ },
+ "25-035": {
+  "r": "Descending length → Godavari (1465 km) > Krishna (1400 km) > Narmada (1312 km) > Mahanadi (851 km)."
+ },
+ "25-036": {
+  "r": "Kabini (Kapila) → major Cauvery tributary; forms from Panamaram + Mananthavady (Wayanad, Kerala), joins Cauvery at Tirumakudalu Narsipur (Karnataka)."
+ },
+ "25-037": {
+  "r": "Longest peninsular river → Godavari (about 1,465 km) > Krishna (1,400) > Narmada (1,312) > Cauvery (800)."
+ },
+ "25-038": {
+  "r": "Longest → Godavari 1465 km; then Krishna 1400, Narmada 1312, Kaveri 800 km."
+ },
+ "25-039": {
+  "r": "Godavari–Krishna link → completed 16 September 2015; River Linking Project proposes 16 peninsular and 14 Himalayan links.",
+  "hi": [
+   "River linking (नदी जोड़ो)"
+  ]
+ },
+ "25-040": {
+  "r": "East-flowing peninsular rivers, north to south → Subarnarekha, Mahanadi, Godavari, Krishna, Pennar, Cauvery, Vaigai.",
+  "h": "Initials S-M-G-K-P-C-V; Godavari comes before Krishna, Pennar before Cauvery."
+ },
+ "25-041": {
+  "r": "Krishna → rises in Western Ghats near Mahabaleshwar (about 1337 m), only about 64 km from the Arabian Sea, yet flows about 1400 km to the Bay of Bengal."
+ },
+ "25-042": {
+  "r": "South Indian rivers → mainly dendritic drainage pattern (like tree branches with many twigs).",
+  "hi": [
+   "Dendritic pattern (द्रुमाकृतिक प्रतिरूप)"
+  ]
+ },
+ "25-043": {
+  "r": "Wrong: Cauvery rises in Andhra Pradesh. Correct: Mahanadi → Sihawa hills, Dhamtari (Chhattisgarh); Godavari → Trimbakeshwar, Nasik (Maharashtra); Tapti → Madhya Pradesh."
+ },
+ "25-044": {
+  "r": "Mahanadi differs: delta in the Bay of Bengal (Narmada, Indus, Tapti → Arabian Sea); Indus differs: it rises outside India.",
+  "c": "The book gives no single answer (*): both (b) Indus and (d) Mahanadi fit."
+ },
+ "25-045": {
+  "r": "Mahanadi → forms a delta (near Paradeep, Bay of Bengal), not an estuary; rises near Sihawa hills, Dhamtari (Chhattisgarh); length 851 km."
+ },
+ "25-046": {
+  "r": "Tapti → forms an estuary (partly enclosed coastal water where rivers meet the open sea; tides and saline water mix with river water).",
+  "hi": [
+   "Estuary (ज्वारनदमुख)"
+  ]
+ },
+ "25-047": {
+  "r": "Mahanadi → forms its delta in Odisha near Paradeep (Bay of Bengal); rises in Sihawa hills (Chhattisgarh); flows over 851 km."
+ },
+ "25-048": {
+  "r": "Tel → main tributary of the Mahanadi (not Bagmati, Ghaghara, Gandak or Kamla); others: Seonath, Jonk, Hasdo, Mand, Ib, Ong."
+ },
+ "25-049": {
+  "r": "Mahanadi right-bank tributaries → Ong, Tel, Jonk; left-bank → Seonath (Shivnath), Hasdeo, Mand, Ebb (Ib).",
+  "h": "Right bank 'O-T-J': Ong, Tel, Jonk."
+ },
+ "25-050": {
+  "r": "Quays with water deficiency → Sabarmati and Tapti (Tapi)."
+ },
+ "25-051": {
+  "r": "Amarkantak (MP) → source of Narmada (flows west to the Arabian Sea) and Son (flows north to join the Ganga, which reaches the Bay of Bengal)."
+ },
+ "25-052": {
+  "r": "Both false: Kerala has three east-flowing rivers (Kabani, Bhavani, Pambar); Tapti, Mahi and Narmada rise in MP and flow west to the Arabian Sea."
+ },
+ "25-053": {
+  "r": "Largest catchment → Godavari (3,12,812 sq km) > Krishna (2,58,948) > Mahanadi (1,41,589) > Narmada (98,796)."
+ },
+ "25-054": {
+  "r": "Largest basin among options → Mahanadi (1,41,589 sq km) > Narmada (98,796) > Cauvery (81,155) > Tapti (65,145)."
+ },
+ "25-055": {
+  "r": "Godavari basin → second largest in India after the Ganga; rises at Trimbakeshwar; drains into the Bay of Bengal.",
+  "hi": [
+   "River basin (नदी द्रोणी)"
+  ]
+ },
+ "25-056": {
+  "r": "Godavari basin → largest in Peninsular India and second largest in India after the Ganga basin."
+ },
+ "25-057": {
+  "r": "Godavari → longest river of Peninsular India, called 'Dakshina Ganga'; its basin is second only to the Ganga's."
+ },
+ "25-058": {
+  "r": "Vaitarna → rises in Trimbak Hills, Nasik (Maharashtra); west-flowing (north of Mumbai, south of Tapi), about 171 km to the Arabian Sea."
+ },
+ "25-059": {
+  "r": "Godavari (1465 km) → longest river of Peninsular India, second longest in India after the Ganga; rises near Trimbakeshwar (Maharashtra)."
+ },
+ "25-060": {
+  "r": "Godavari → longest peninsular river (about 1465 km); rises at Trimbakeshwar near Nasik, flows into the Bay of Bengal."
+ },
+ "25-061": {
+  "r": "Godavari tributaries → Purna, Pranhita, Indravati, Sabari, Pravara, Manjra, Manair; Vansadhara and Pennar are not."
+ },
+ "25-062": {
+  "r": "Periyar (Kerala) → flows west via Vembanad Lake into the Arabian Sea; Pennar (Penna) and Palar flow east to the Bay of Bengal."
+ },
+ "25-063": {
+  "r": "Pranhita → tributary of the Godavari, not the Mahanadi; correct: Hemavathi–Kaveri, Malaprabha–Krishna, Manjra–Godavari."
+ },
+ "25-064": {
+  "r": "Chambal → known for deep ravines; rises near Mhow (Dr. Ambedkar Nagar), Malwa Plateau; Gandhisagar Dam (Mandsaur, MP) is on it.",
+  "hi": [
+   "Ravines (बीहड़)"
+  ]
+ },
+ "25-065": {
+  "r": "Eastern Ghats → source of Nagavali and Vamsadhara; Brahmani and Subarnarekha rise on the Ranchi Plateau."
+ },
+ "25-066": {
+  "r": "Subarnarekha → rises near Nagri village, Ranchi district (Jharkhand); main tributaries Kanchi, Kharkai, Karkari."
+ },
+ "25-067": {
+  "r": "Tropic of Cancer: Suwarnarekha crosses it twice; North Koel once; South Koel never; Damodar once (West Bengal).",
+  "c": "The book gives no single answer (*): no listed pair crosses the Tropic twice."
+ },
+ "25-068": {
+  "r": "Malger river → rises in Bailadila hills, flows to the south-east and joins the Shabri river."
+ },
+ "25-069": {
+  "r": "River origins (Chhattisgarh) → Mand: Mainpat; Banas: Devgarh hills; Jonk: Sonbera (Sunabera) plateau; Kelo: Ludeng hills."
+ },
+ "25-070": {
+  "r": "Tawa → longest tributary of the Narmada; rises in Mahadeo hills (Satpura), Chhindwara (MP); joins Narmada at Bandra Bhan (Narmadapuram)."
+ },
+ "25-071": {
+  "r": "Chandrahasini Devi temple (Chandrapur, Chhattisgarh) → at the confluence of Mand and Mahanadi; a Siddha Shakti Peetha of Maa Durga."
+ },
+ "25-072": {
+  "r": "S.P. Chatterjee's 8 divisions of the Peninsular Plateau → Mahanadi Basin falls in the North Deccan (Northern Deccan Plateau)."
+ },
+ "26-001": {
+  "r": "True: Himalayan rivers mostly perennial (glacier-fed), Peninsular mostly rain-fed; Himalayan gradient steeper. False: Peninsular rivers erode more (Himalayan rivers do).",
+  "hi": [
+   "Perennial river (सदावाहिनी नदी)"
+  ]
+ },
+ "26-002": {
+  "r": "Ravi and Jhelum → join the Chenab; Chenab → joins the Sutlej; Sutlej → joins the Indus directly."
+ },
+ "26-003": {
+  "r": "Indus Waters Treaty 1960 → eastern rivers to India: Ravi, Beas, Sutlej; western rivers mainly to Pakistan: Indus, Jhelum, Chenab.",
+  "h": "East 'RBS' for India; West 'IJC' for Pakistan.",
+  "hi": [
+   "Indus Waters Treaty (सिंधु जल संधि)"
+  ]
+ },
+ "26-004": {
+  "r": "Kabul River (from Afghanistan) → joins the Indus near Attock (Pakistan); principal river of Khyber Pakhtunkhwa and eastern Afghanistan."
+ },
+ "26-005": {
+  "r": "Chandra and Bhaga → flow in Lahaul Valley; Chandra from a glacier near Chandra Tal, Bhaga near Bara Lacha La; they meet at Tandi → Chandrabhaga/Chenab."
+ },
+ "26-006": {
+  "r": "Satluj (Sutlej) → Trans-Himalayan river cutting all Himalayan ranges; rises at Rakas Lake (Tibet), enters HP near Shipki La; Beas joins near Harike (Punjab)."
+ },
+ "26-008": {
+  "r": "Ravi → tributary of the Chenab, only a sub-tributary of the Sutlej; Baspa, Spiti and Beas are Sutlej tributaries."
+ },
+ "26-009": {
+  "r": "Doodh Ganga → flows in Jammu and Kashmir, Uttarakhand, Karnataka and Maharashtra; both (a) and (c) fit; UPPSC accepted (a)."
+ },
+ "26-010": {
+  "r": "Into Bay of Bengal → Ganga, Brahmaputra, Godavari, Mahanadi, Krishna, Cauvery, Pennar, Subarnarekha, Brahmani; into Arabian Sea → Narmada, Tapti, Sabarmati, Mahi."
+ },
+ "26-011": {
+  "r": "Tel → tributary of the Mahanadi, not the Krishna; Krishna tributaries → Koyna, Yerla, Varna, Panchganga, Ghataprabha, Bhima, Tungabhadra."
+ },
+ "26-012": {
+  "r": "Hagari (Vedavathi) → rises in Western Ghats, flows through Karnataka and Andhra Pradesh to join the Tungabhadra; Veda + Avathi meet at Pura."
+ },
+ "26-013": {
+  "r": "North to south → Kishanganga (Jhelum tributary, J&K), Ganga, Wainganga (Godavari tributary), Penganga (Wardha tributary)."
+ },
+ "26-014": {
+  "r": "Rivers through Himachal Pradesh → Beas, Chenab, Ravi, Sutlej and Yamuna."
+ },
+ "26-015": {
+  "r": "Map of rivers from Nepal: 1 → Kosi, 2 → Gomati, 3 → Ghaghara, 4 → Gandak."
+ },
+ "26-016": {
+  "r": "Doabs → Bist: Beas–Satluj; Bari: Ravi–Beas; Rachna: Ravi–Chenab; Chaj: Chenab–Jhelum.",
+  "h": "Names are river initials: Ba-Ri (Beas-Ravi), Ra-Chna (Ravi-Chenab), Cha-J (Chenab-Jhelum), Bi-St (Beas-Sutlej).",
+  "hi": [
+   "Doab (दोआब)"
+  ]
+ }
+}

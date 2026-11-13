@@ -1,0 +1,659 @@
+{
+ "39-033": {
+  "r": "Sea cow and sea lion → mammals; seahorse → a small marine bony fish.",
+  "t": "Don't let the 'sea' names mislead: seahorse is a fish, sea cow and sea lion are mammals.",
+  "hi": [
+   "Mammal (स्तनधारी)"
+  ]
+ },
+ "39-034": {
+  "r": "Dolphins → aquatic mammals (toothed whale family), carnivores eating fish and squid; Ganga Dolphin is India's national aquatic animal.",
+  "hi": [
+   "National aquatic animal (राष्ट्रीय जलीय जीव)"
+  ]
+ },
+ "39-035": {
+  "r": "Seal → semi-aquatic carnivorous mammal; group pinnipeds (= fin-footed); eats fish, crustaceans, shellfish."
+ },
+ "39-036": {
+  "r": "Gavialis (Gharial), family Gavialidae → mostly found in the Ganga river; breeding populations in Bangladesh, Nepal and India.",
+  "hi": [
+   "Gharial (घड़ियाल)"
+  ]
+ },
+ "39-037": {
+  "r": "Otter (subfamily Lutrinae, family Mustelidae) → the 'atrocious' animal among penguin, whale, otter and tortoise."
+ },
+ "39-038": {
+  "r": "Hedgehog and pangolin roll up into a ball to protect vulnerable parts from predators; marmot does not.",
+  "h": "Hedgehog's spines point outwards when rolled; pangolin's scales do the same job."
+ },
+ "39-039": {
+  "r": "Indian squirrels: build nests (dreys) in trees, not ground burrows (statement 1 wrong); store nuts and seeds in the ground; omnivorous → only two correct."
+ },
+ "39-040": {
+  "r": "Dingo (Canis lupus dingo, Australia) → cannot bark; it howls like a wolf."
+ },
+ "39-041": {
+  "r": "Bear seen performing on streets → Sloth bear.",
+  "hi": [
+   "Sloth bear (रीछ/भालू)"
+  ]
+ },
+ "39-042": {
+  "r": "Chimpanzee, parrot and dolphin have been taught to use language with some success; dog has not."
+ },
+ "39-043": {
+  "r": "Desire to learn (and ability to express) separates humans from apes."
+ },
+ "39-044": {
+  "r": "Langur → long-tailed Asian monkey (subfamily Colobinae), not an ape; apes (Hominoidea: gibbon, gorilla, orangutan, chimpanzee, humans) have no tail.",
+  "h": "Ape = no tail; monkey = tail."
+ },
+ "39-045": {
+  "r": "Smallest man-like ape → Gibbon ('lesser ape'); gorilla, chimpanzee and orangutan are the 'great apes'."
+ },
+ "39-046": {
+  "r": "Orangutan → uses a stick as a tool to scrape insects from tree holes and poke logs for honey."
+ },
+ "39-047": {
+  "r": "Panda → bear family (Ursidae)."
+ },
+ "39-048": {
+  "r": "Amphibians → live both in water and on land (Greek 'amphibios' = both kinds of life); cold-blooded ectotherms.",
+  "hi": [
+   "Amphibian (उभयचर)"
+  ]
+ },
+ "39-049": {
+  "r": "Frog → breathes through its thin, permeable skin rich in blood vessels (skin respiration); it is an amphibian.",
+  "hi": [
+   "Cutaneous respiration (त्वचीय श्वसन)"
+  ]
+ },
+ "39-050": {
+  "r": "Frogs are cold-blooded (True); so are snakes, lizards, fish and crocodiles.",
+  "hi": [
+   "Cold-blooded (असमतापी)"
+  ]
+ },
+ "39-051": {
+  "r": "Frog metamorphosis → intestine shortens; thyroid hormone controls remodelling of the tadpole intestine.",
+  "hi": [
+   "Metamorphosis (कायांतरण)"
+  ]
+ },
+ "39-052": {
+  "r": "Three-chambered heart (2 atria + 1 ventricle) → frog/amphibians and most reptiles; fish 2 chambers; monkey and crocodile 4.",
+  "t": "Crocodile is the reptile with a four-chambered heart.",
+  "hi": [
+   "Atrium (अलिंद)",
+   "Ventricle (निलय)"
+  ]
+ },
+ "39-054": {
+  "r": "A true: amphibians tolerate mixing of oxygenated and deoxygenated blood in their single ventricle. R false: two-chambered heart belongs to fishes; amphibians have three."
+ },
+ "39-055": {
+  "r": "No gallbladder in camel, giraffe, rat and some fish (also equines, elephants, rhinos, whales, doves, most deer) → book gives no single answer (*).",
+  "hi": [
+   "Gallbladder (पित्ताशय)"
+  ]
+ },
+ "39-056": {
+  "r": "Jackal (Canis aureus, family Canidae) → padded feet with nails, no hooves; deer, zebra and horse are hoofed.",
+  "hi": [
+   "Hoof (खुर)"
+  ]
+ },
+ "39-057": {
+  "r": "Nilgai → largest Asian antelope, of family Bovidae (cow family), not a true deer (Cervidae). Book's answer: deer family.",
+  "c": "Nilgai is an antelope of the family Bovidae, the cow family (same subfamily as cattle); deer are Cervidae. So (a) Cow is scientifically correct; the book keys (d) Deer.",
+  "hi": [
+   "Nilgai (नीलगाय)"
+  ]
+ },
+ "39-058": {
+  "r": "Asiatic wild ass → Equus hemionus; Barasingha → Cervus duvaucelii; Chinkara → Gazella bennettii; Nilgai → Boselaphus tragocamelus.",
+  "hi": [
+   "Barasingha (बारहसिंगा)"
+  ]
+ },
+ "39-059": {
+  "r": "Leopard → Panthera pardus; lion P. leo, tiger P. tigris, snow leopard P. uncia, jaguar P. onca.",
+  "hi": [
+   "Leopard (तेंदुआ)"
+  ]
+ },
+ "39-060": {
+  "r": "Correct: lions have no particular breeding season; cheetahs, unlike most big cats, do not roar (they growl). Wrong: statement that male leopards don't scent-mark territory."
+ },
+ "39-061": {
+  "r": "Marsupials (pouched mammals: kangaroo, koala, opossum, wombat) are not naturally found in India (I correct); 'thrive only in predator-free montane grasslands' is wrong (II).",
+  "hi": [
+   "Marsupial (शिशुधानी)"
+  ]
+ },
+ "39-062": {
+  "r": "Wingless insect → Silverfish; flightless bird → Kiwi; limbless reptile → Snake; lungless creature → Fish."
+ },
+ "39-063": {
+  "r": "Kiwi → flightless bird found only in New Zealand (genus Apteryx)."
+ },
+ "39-064": {
+  "r": "Coral → organic origin: marine Cnidaria polyps that secrete a calcium carbonate skeleton; emerald, ruby, topaz are not organic.",
+  "hi": [
+   "Coral (प्रवाल/मूंगा)"
+  ]
+ },
+ "39-065": {
+  "r": "Octopus → cephalopod mollusc (order Octopoda), also called devilfish; two eyes, four pairs of arms.",
+  "hi": [
+   "Mollusc (मोलस्क)"
+  ]
+ },
+ "39-066": {
+  "r": "Largest invertebrate → colossal squid (maximum size 12-14 metres).",
+  "hi": [
+   "Invertebrate (अकशेरुकी)"
+  ]
+ },
+ "39-067": {
+  "r": "Crab → class Malacostraca; mite, scorpion and spider → class Arachnida. So crab is the odd one."
+ },
+ "39-068": {
+  "r": "White Leghorn → a variety of fowl (chicken).",
+  "hi": [
+   "Fowl (मुर्गी)"
+  ]
+ },
+ "39-069": {
+  "r": "Ticks and mites → Arachnids (4 pairs of legs; abdomen not externally segmented)."
+ },
+ "39-070": {
+  "r": "Termites (eusocial insects, infraorder Isoptera) → also called 'white ants'.",
+  "hi": [
+   "Termite (दीमक)"
+  ]
+ },
+ "39-071": {
+  "r": "Glow-worm → a luminous insect (not a worm); its larva gives off light."
+ },
+ "39-072": {
+  "r": "Female Anopheles rests at an angle to the surface (abdomen up); female Culex rests parallel to it.",
+  "h": "Anopheles = Angle.",
+  "hi": [
+   "Mosquito (मच्छर)"
+  ]
+ },
+ "39-073": {
+  "r": "Peacock (Gooty) tarantula, Poecilotheria metallica → insectivorous, arboreal spider, not a crustacean; in India found only in some forest areas; Critically Endangered."
+ },
+ "39-074": {
+  "r": "Spider → arachnid (8 legs, 2 body segments, no wings or antennae), not an insect; bed bug, housefly, mosquito are insects with 6 legs.",
+  "h": "Spider 8 legs, insect 6 legs.",
+  "hi": [
+   "Insect (कीट)"
+  ]
+ },
+ "39-077": {
+  "r": "Spider silk (a protein fibre, both strong and elastic) → 'Gossamer silk'.",
+  "t": "Tussar, Munga and Ahimsa silk are not spider silk."
+ },
+ "39-078": {
+  "r": "Silkworm yields silk of commerce at the pupa stage, when it spins a cocoon of one continuous strand about 1.5 km long.",
+  "hi": [
+   "Cocoon (कोया)"
+  ]
+ },
+ "39-079": {
+  "r": "Silkworm (larva of silkmoth Bombyx mori) → grows on mulberry leaves.",
+  "hi": [
+   "Mulberry (शहतूत)"
+  ]
+ },
+ "39-080": {
+  "r": "Lac → resinous secretion of lac insects (Kerria lacca); used to make varnishes. Pearl, coral and gum are not insect secretions.",
+  "hi": [
+   "Lac (लाख)"
+  ]
+ },
+ "39-081": {
+  "r": "Pearl → made inside molluscs (pearl oysters Pinctada, freshwater mussels), not insects; silk, honey and lac come from insects.",
+  "hi": [
+   "Pearl (मोती)"
+  ]
+ },
+ "39-082": {
+  "r": "Helicoverpa armigera (cotton bollworm) → harmful pest of 100+ crops; beneficial: Bombyx mori (silk), Laccifer lacca (lac), Apis mellifera."
+ },
+ "39-083": {
+  "r": "Cockroach → white/colourless blood (no haemoglobin); oxygen reaches tissues through tubes called tracheae.",
+  "hi": [
+   "Haemoglobin (हीमोग्लोबिन)"
+  ]
+ },
+ "39-084": {
+  "r": "Earthworm → no red blood cells; blood is red due to haemoglobin (erythrocruorin) dissolved in plasma."
+ },
+ "39-085": {
+  "r": "Earthworms → farmers' friends, improve soil fertility (1 correct); they have about five pairs of heart-like aortic arches in segments 7-11, not two (2 wrong)."
+ },
+ "39-086": {
+  "r": "Dolphins and whales breathe air through a blowhole; earthworms breathe through their skin → both correct."
+ },
+ "39-087": {
+  "r": "Most insects respire through a tracheal system (a network of tubes), not lungs, gills or skin.",
+  "hi": [
+   "Trachea (श्वासनली)"
+  ]
+ },
+ "39-088": {
+  "r": "Cicada, froghopper and pond skater → insects; cicadas (order Hemiptera, true bugs) are 3,000+ species of sound-producing insects."
+ },
+ "39-089": {
+  "r": "Tapeworm → hermaphrodite; roundworm → separate sexes; filaria → caused by a nematode; guinea worm (Dracunculus medinensis) → a nematode, not an annelid.",
+  "hi": [
+   "Hermaphrodite (उभयलिंगी)"
+  ]
+ },
+ "39-090": {
+  "r": "Detritivores (eat dead or decaying matter) → earthworms, millipedes, woodlice; not jellyfish or seahorses.",
+  "hi": [
+   "Detritivore (अपरदाहारी)"
+  ]
+ },
+ "39-091": {
+  "r": "Oyster → filter feeder (strains food particles from water); filter feeders clarify water and are called ecosystem engineers."
+ },
+ "39-092": {
+  "r": "Parasitoid → lays eggs on or inside a host; larvae feed on it and finally kill it (endo- and ectoparasitoids); found in only three of the five groups."
+ },
+ "39-093": {
+  "r": "Nocturnal (active at night) → mosquito, bat, owl, kiwi.",
+  "hi": [
+   "Nocturnal (निशाचर)"
+  ]
+ },
+ "39-094": {
+  "r": "Lion-tailed macaque (Macaca silenus, endemic to Western Ghats) → diurnal, sleeps at night in trees; book counts only one of the three as nocturnal.",
+  "c": "UPSC's official key is (a) Only one, as printed: the sambar is treated as crepuscular (dawn and dusk) rather than mainly nocturnal, leaving only the Malabar civet."
+ },
+ "39-095": {
+  "r": "Largest brain in proportion to body size → ant. Largest brain overall → sperm whale (about 7 kg); human brain about 1.2 kg."
+ },
+ "39-096": {
+  "r": "Ant bite → injects formic acid (a simple carboxylic acid).",
+  "hi": [
+   "Formic acid (फॉर्मिक अम्ल)"
+  ]
+ },
+ "39-097": {
+  "r": "Ants (e.g. leafcutter ants, tribe Attini) → cultivate fungi as food, like humans farm crops (ant-fungus mutualism).",
+  "hi": [
+   "Symbiosis (सहजीविता)"
+  ]
+ },
+ "39-098": {
+  "r": "Only female mosquitoes suck blood (males feed on flower and fruit juices); females are larger, with bigger wings → statements 2 and 5."
+ },
+ "39-099": {
+  "r": "Camel ('Ship of the Desert') → stores water in its intestine; can drink more than 100 litres at once.",
+  "hi": [
+   "Camel (ऊँट)"
+  ]
+ },
+ "39-100": {
+  "r": "Kangaroo rat (North American desert rodent) → lives longest without drinking water; most concentrated, almost solid urine of all mammals."
+ },
+ "39-102": {
+  "r": "Spider → female often kills and eats the male before, during or after copulation (spider cannibalism)."
+ },
+ "39-103": {
+  "r": "King Cobra → only snake that builds a nest; oviparous female lays 20-40 eggs in a leaf mound and guards it until hatching.",
+  "hi": [
+   "Oviparous (अंडप्रजक)"
+  ]
+ },
+ "39-105": {
+  "r": "Cobra venom → mainly neurotoxic (affects nervous tissue); also has cardiotoxic compounds; toxins are proteins and polypeptides."
+ },
+ "39-106": {
+  "r": "King Cobra → diet mainly other snakes (rat snakes, small pythons, cobras, kraits)."
+ },
+ "39-107": {
+  "r": "Python (family Pythonidae) → non-venomous snake; cobra, viper and coral snake are venomous.",
+  "hi": [
+   "Python (अजगर)"
+  ]
+ },
+ "39-108": {
+  "r": "Snake venom glands → homologous to the salivary glands of vertebrates; venom is refined saliva.",
+  "hi": [
+   "Homologous (समजात)"
+  ]
+ },
+ "39-109": {
+  "r": "Snake's poison fangs → modified maxillary teeth of the upper jaw, attached to poison glands."
+ },
+ "39-110": {
+  "r": "Poisonous species exist among butterflies (e.g. Monarch, toxins from caterpillar food plants), fish and frogs → all three."
+ },
+ "39-111": {
+  "r": "All true: green sea turtle (herbivore), parrot fish (eats algae), dugong (herbivorous marine mammal), green anaconda (viviparous snake).",
+  "hi": [
+   "Viviparous (जरायुज)"
+  ]
+ },
+ "39-112": {
+  "r": "Dogs are not herbivores (False); evidence shows they are natural carnivores."
+ },
+ "39-113": {
+  "r": "Largest flower → Rafflesia (Rafflesia arnoldii; no leaves, roots or stem), described by Sir Stamford Raffles in 1818."
+ },
+ "39-114": {
+  "r": "Insectivorous plants grow in nitrogen-deficient soil; they trap insects to meet their nitrogen need.",
+  "hi": [
+   "Insectivorous plant (कीटभक्षी पौधा)"
+  ]
+ },
+ "39-115": {
+  "r": "Pitcher plant → insectivorous (carnivorous) plant; gets nitrogen from the insects it traps."
+ },
+ "39-116": {
+  "r": "Pitcher plant → its leaf is modified into the pitcher, a pitfall trap for prey."
+ },
+ "39-117": {
+  "r": "Wrong pair: Nepenthes – parasitic angiosperm; pitcher plant photosynthesises (autotroph) and digests insects for nitrogen. Correct: yeast–fermentation, casein–milk protein, Aloe vera–angiosperm.",
+  "hi": [
+   "Autotroph (स्वपोषी)"
+  ]
+ },
+ "39-118": {
+  "r": "Nepenthes → insectivorous pitcher plant, often in acidic soil; not Nyctanthes, Nelumbo or Nicotiana."
+ },
+ "39-119": {
+  "r": "Nepenthes khasiana (India's only pitcher plant) → Meghalaya: Garo, Khasi and Jaintia hills; named after the Khasi Hills."
+ },
+ "39-120": {
+  "r": "Turmeric (Curcuma longa, ginger family Zingiberaceae) → obtained from a modified underground stem, the rhizome.",
+  "hi": [
+   "Rhizome (प्रकंद)",
+   "Turmeric (हल्दी)"
+  ]
+ },
+ "39-124": {
+  "r": "Sweet potato (Ipomoea batatas, family Convolvulaceae) → a modified root, grown by vegetative propagation.",
+  "hi": [
+   "Sweet potato (शकरकंद)"
+  ]
+ },
+ "39-125": {
+  "r": "Sweet potato stores food in a root (developed from the radicle); sugarcane, potato and ginger store food in modified stems."
+ },
+ "39-126": {
+  "r": "Ginger → modified stem; turnip, carrot and sweet potato → modified roots.",
+  "hi": [
+   "Ginger (अदरक)"
+  ]
+ },
+ "39-127": {
+  "r": "Ginger is a stem, not root, because it has nodes and internodes (with scaly leaves); potato (tuber), garlic (bulb), yam (corm) are also stems."
+ },
+ "39-128": {
+  "r": "Rhizome → ginger; tuber → potato; bulb → garlic; corm → Jimikand (suran).",
+  "t": "Don't confuse corm (Jimikand, colocasia, crocus) with bulb (onion, garlic) or rhizome (ginger, turmeric, sugarcane)."
+ },
+ "39-129": {
+  "r": "Potato (Solanum tuberosum, nightshade family Solanaceae) → modified stem called a tuber, storing starch.",
+  "hi": [
+   "Tuber (कंद)"
+  ]
+ },
+ "39-131": {
+  "r": "Pea plant → dicot herbaceous annual (a herb), family Fabaceae (Leguminosae); prefers cool damp weather, 60-75 °F."
+ },
+ "39-132": {
+  "r": "Groundnut (Arachis hypogaea), horse-gram (kulthi) and soybean → all three in the pea family, Fabaceae (Leguminosae, legumes).",
+  "hi": [
+   "Horse-gram (कुलथी)"
+  ]
+ },
+ "39-133": {
+  "r": "Clove → aromatic closed, dried flower bud of Syzygium aromaticum (family Myrtaceae), native to Indonesia.",
+  "hi": [
+   "Clove (लौंग)"
+  ]
+ },
+ "39-139": {
+  "r": "Wrong pair: Saffron – Seed; saffron comes from styles and stigmas of the Crocus sativus flower. Correct: ginger–rhizome, opium–capsule, jute–stem.",
+  "hi": [
+   "Saffron (केसर)"
+  ]
+ },
+ "39-140": {
+  "r": "Saffron → dried stigmas and styles (gynoecium, the seed-forming parts) of the Crocus sativus flower.",
+  "hi": [
+   "Stigma (वर्तिकाग्र)"
+  ]
+ },
+ "39-141": {
+  "r": "Wrong pair: Potato – Roots; potato's edible part is a tuber (modified stem). Correct: ginger–rhizome, onion–fleshy leaves, coconut–endosperm.",
+  "hi": [
+   "Endosperm (भ्रूणपोष)"
+  ]
+ },
+ "39-143": {
+  "r": "Ladies finger (okra, Abelmoschus esculentus, mallow family) → a fruit (capsule up to 18 cm); potato is a tuber, radish and sweet potato are roots.",
+  "hi": [
+   "Ladies finger (भिंडी)"
+  ]
+ },
+ "39-144": {
+  "r": "Apple → false fruit (from ovary plus other flower parts), like cashew and pear; true fruits (from ovary only): grape, date, plum, mango.",
+  "hi": [
+   "False fruit (आभासी फल)"
+  ]
+ },
+ "39-145": {
+  "r": "Lychee (soapberry family) → a drupe, like plum, cherry and mango.",
+  "hi": [
+   "Lychee (लीची)"
+  ]
+ },
+ "39-146": {
+  "r": "Mango (a drupe) → edible part is the fleshy mesocarp; epicarp is the peel, endocarp the hard stone.",
+  "hi": [
+   "Mesocarp (मध्यफलभित्ति)"
+  ]
+ },
+ "39-147": {
+  "r": "Garlic's smell → sulphur compounds (allyl methyl sulphide).",
+  "hi": [
+   "Garlic (लहसुन)"
+  ]
+ },
+ "39-148": {
+  "r": "Onion makes you cry → it releases sulfenic acid, which irritates the lachrymal (tear) glands.",
+  "t": "Sulfenic acid, not sulphonic acid."
+ },
+ "39-149": {
+  "r": "Pungency of chillies → capsaicin, an alkaloid extracted from chillies and also used in medicine.",
+  "hi": [
+   "Chilli (मिर्च)"
+  ]
+ },
+ "39-150": {
+  "r": "Red chillies are hot → capsaicin; not ricin, arecoline or caffeol."
+ },
+ "39-151": {
+  "r": "Sweet taste of fruits → fructose ('fruit sugar'), a monosaccharide.",
+  "hi": [
+   "Fructose (फलशर्करा)"
+  ]
+ },
+ "39-152": {
+  "r": "Diatoms (photosynthetic algae of almost all waters) → used in forensics to diagnose death by drowning."
+ },
+ "39-153": {
+  "r": "Mulberry fruit → sorosis: a multiple fleshy fruit formed from ovaries of many flowers; pineapple is also a sorosis.",
+  "c": "The book also lists Ficus (fig) as a sorosis; a fig is a syconus (the other option here), not a sorosis."
+ },
+ "39-154": {
+  "r": "Cotton fibre → from the fruit (cotton bolls; lint and fuzz fibres); sunn, hemp and jute fibres come from stems."
+ },
+ "39-155": {
+  "r": "Triticale → first man-made cereal: wheat (Triticum) × rye (Secale); self-pollinating like wheat.",
+  "h": "TRITIcum + seCALE = Triticale."
+ },
+ "39-157": {
+  "r": "Surfaces without soil (rock) → only lichens and mosses survive (no true roots; mosses have rhizoids); not ferns or mushrooms."
+ },
+ "39-158": {
+  "r": "Eurythermal → tolerate a wide temperature range; stenothermal → narrow range; microthermal → low temperatures; hekistothermal → polar cold.",
+  "h": "Eury = wide, steno = narrow."
+ },
+ "39-159": {
+  "r": "Desert plants have long roots (A true) because roots grow in search of water, not because hot soil boosts growth (R false); such plants: phreatophytes."
+ },
+ "39-161": {
+  "r": "Phreatophytes → deep-rooted desert plants with long (20-30 ft) tap roots that reach the water table (phreatic zone)."
+ },
+ "39-162": {
+  "r": "Xerophytes → plants adapted to dry climate: cactus, opuntia, madar, nerium.",
+  "hi": [
+   "Xerophyte (मरुद्भिद्)"
+  ]
+ },
+ "39-163": {
+  "r": "Desert plants → generally succulent (store water for dry times).",
+  "hi": [
+   "Succulent (मांसल)"
+  ]
+ },
+ "39-164": {
+  "r": "Epiphytes grow on other plants (e.g. trees) only for mechanical support; they take moisture and nutrients from air, rain and debris.",
+  "hi": [
+   "Epiphyte (अधिपादप)"
+  ]
+ },
+ "39-165": {
+  "r": "Halophytes → salt-loving plants of saline soils (mangrove swamps, marshes, seashores); hydrophytes → aquatic plants.",
+  "hi": [
+   "Halophyte (लवणोद्भिद्)"
+  ]
+ },
+ "39-168": {
+  "r": "Lithophytes → plants growing in or on rocks (epipetric or epilithic plants)."
+ },
+ "39-169": {
+  "r": "Wrong pair: Nepenthes – hydrophyte; Nepenthes is a carnivorous tropical pitcher plant. Correct: Cuscuta–stem parasite, Chandan–root parasite, orchids–epiphyte.",
+  "hi": [
+   "Cuscuta (अमरबेल)"
+  ]
+ },
+ "39-170": {
+  "r": "Correct: weeping jelly from excess acid; cytokinin breaks dormancy. Wrong: sugarcane biofertilizer is Acetobacter diazotrophicus (not Rhizobium); salt-water plants are halophytes (not thallophytes)."
+ },
+ "39-171": {
+  "r": "Plants and animals living on land → terrestrial (habitats: forests, grasslands, deserts, mountains).",
+  "hi": [
+   "Terrestrial (स्थलीय)"
+  ]
+ },
+ "39-172": {
+  "r": "Producers (autotrophs) → intermediaries between biotic and abiotic components.",
+  "hi": [
+   "Producer (उत्पादक)"
+  ]
+ },
+ "39-173": {
+  "r": "Primary productivity → rate at which green plants store solar energy as food (biomass) by photosynthesis, measured e.g. as g/m²/year.",
+  "hi": [
+   "Primary productivity (प्राथमिक उत्पादकता)"
+  ]
+ },
+ "39-174": {
+  "r": "Decomposition → breakdown of dead organic matter into simple inorganic substances by microbes (bacteria, fungi = decomposers).",
+  "hi": [
+   "Decomposer (अपघटक)"
+  ]
+ },
+ "39-175": {
+  "r": "Wrong pair: Herbivore – secondary consumer; herbivores eat plants. Correct: autotroph–producer, heterotroph–consumer, saprotroph–decomposer.",
+  "hi": [
+   "Herbivore (शाकाहारी)"
+  ]
+ },
+ "39-176": {
+  "r": "Trophic level I → green plants (autotrophs) that make food using the sun's radiant energy.",
+  "hi": [
+   "Trophic level (पोषी स्तर)"
+  ]
+ },
+ "39-177": {
+  "r": "Primary producers in ocean food chains → cyanobacteria and diatoms; copepods are primary consumers (eat phytoplankton); foraminifera are not producers."
+ },
+ "39-178": {
+  "r": "Fish survive under a frozen lake because only the top layer freezes; water below stays liquid."
+ },
+ "39-179": {
+  "r": "Fish die out of water because they cannot breathe: gills absorb oxygen dissolved in water, not oxygen from air.",
+  "hi": [
+   "Gills (क्लोम/गलफड़े)"
+  ]
+ },
+ "39-181": {
+  "r": "Red colour of apple → anthocyanin pigment."
+ },
+ "39-182": {
+  "r": "Tomato red → lycopene (a carotenoid); apple red → anthocyanin; carrot red-orange → β-carotene.",
+  "h": "LYCOpene ← LYCOpersicon (tomato)."
+ },
+ "39-185": {
+  "r": "Yellow colour of papaya (Carica papaya) → caricaxanthin; its papain enzyme helps digest protein.",
+  "h": "CARICA papaya → CARICAxanthin."
+ },
+ "39-186": {
+  "r": "New banana species Musa indandamanensis (about 11 m tall, orange pulp) → found by BSI in Little Andaman's Krishna-Nalah forest."
+ },
+ "39-187": {
+  "r": "Chinese, Americans, Indians and Black Africans → one species, Homo sapiens; tigers/lions/cats etc. are different species.",
+  "hi": [
+   "Species (प्रजाति)"
+  ]
+ },
+ "39-188": {
+  "r": "Fungi lack chlorophyll, so they cannot photosynthesise; now a separate kingdom (earlier counted as plants).",
+  "hi": [
+   "Fungus (कवक)"
+  ]
+ },
+ "39-189": {
+  "r": "Yeast, moulds and mushrooms → fungi (no chlorophyll, no vascular bundle).",
+  "hi": [
+   "Yeast (खमीर)"
+  ]
+ },
+ "39-193": {
+  "r": "Gucchi (morel) → a costly fungus (family Morchellaceae) growing in some Himalayan forests; it cannot be cultivated commercially (statement 3 wrong)."
+ },
+ "39-194": {
+  "r": "Herpes simplex virus–human → parasitism, more exactly endoparasitism (it lives and multiplies inside human cells); the book accepts both (a) and (d)."
+ },
+ "39-195": {
+  "r": "Hyperparasitism → a parasite whose host is itself a parasite; common in wasps (Hymenoptera), true flies (Diptera) and beetles (Coleoptera)."
+ },
+ "39-196": {
+  "r": "Commensalism → one organism benefits, the other is neither harmed nor helped (+/0).",
+  "hi": [
+   "Commensalism (सहभोजिता)"
+  ]
+ },
+ "39-197": {
+  "r": "Fig → coevolved one-to-one mutualism with its partner fig wasp, its only pollinator.",
+  "hi": [
+   "Fig (अंजीर)"
+  ]
+ }
+}

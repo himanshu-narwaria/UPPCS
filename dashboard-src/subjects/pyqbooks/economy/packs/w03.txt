@@ -498,7 +498,7 @@ Explanation: The Tenth Five Year Plan (2002-07) had set ‘monitorable targets�
 Q: The Tenth Five Year Plan will end in year:
 Options: (a) 2005 (b) 2006 (c) 2007 (d) 2008
 Answer: (c) 2007
-Also asked: The period of Tenth Five Year Plan is: -> 2002-2007
+Also asked: The period ofTenth Five Year Plan is: -> 2002-2007
 Explanation: The 10th Five Year Plan period was from 1st April, 2002 to 31st March, 2007. Hence, the 10th plan ended in the year 2007.
 
 [08-088] Ch8 · Planning · asked in 1 paper(s): U.P.P.C.S. (Pre) 2005
@@ -924,7 +924,10 @@ Answer: (b) B.S. Minhas
 Explanation: B.S. Minhas is the author of the book ‘Planning and the Poor’.
 
 [09-001] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2023
-Q: Consider the following statements: Statement-I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable. Statement-II: InvITs are recognized as borrowers under the 'Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002'. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.
+   Statement-II: InvITs are recognized as borrowers under the 'Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002'.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (d) Statement-I is incorrect but Statement-II is correct
 Explanation: Infrastructure Investment Trusts (InvITs) are exchange traded investments that offer investors partial ownership in infrastructure projects. InvITs are similar to mutual funds. Like mutual funds, they pool small amounts from various individuals/institutional investors and invest in infrastructure projects. These trusts are governed by SEBI regulations. The dividend and interest income from the deposits in InvITs is … [shortened in this brief; the book continues]
@@ -1039,17 +1042,17 @@ Q: Consider the following:
    1. Currency with the public
    2. Demand deposits with banks
    3. Time deposits with banks
-   Which of these are included in Broad Money (M )in India?
+   Which of these are included in Broad Money (M₃)in India?
 Options: (a) 1 and 2 (b) 1 and 3 (c) 2 and 3 (d) 1, 2 and 3
 Answer: (d) 1, 2 and 3
 Also asked: The sum of which of the following constitutes Broad Money in India? -> 1, 2, 3 and 4
-Explanation: RBI publishes figures for four alternative measures of money supply, viz. M, M, M and M. M is known as Broad Money. M includes: / M = Currency with the public + Demand deposits with banks + Other deposits with RBI + Time deposits with banks / or M = M + Time deposits with banks
+Explanation: RBI publishes figures for four alternative measures of money supply, viz. M₀, M₁, M₂ and M₃. M₃ is known as Broad Money. M₃ includes: / M₃ = Currency with the public + Demand deposits with banks + Other deposits with RBI + Time deposits with banks / or M₃ = M₁ + Time deposits with banks
 
 [09-017] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2020
 Q: Ifyou withdraw Rs. 1,00,000 in cash from your Demand Deposit Account at your bank, the immediate effect on aggregate money supply in the economy will be:
 Options: (a) to reduce it by Rs. 1,00,000 (b) to increase it by Rs. 1,00,000 (c) to increase it by more than Rs. 1,00,000 (d) to leave it unchanged
 Answer: (d) to leave it unchanged
-Explanation: M = M (Currency with the public + Demand deposits with banks + Other deposits with RBI) + Time deposits with banks. M is the most commonly used measure of money supply. It is also known as aggregate money supply (Broad money). Now, ifwe withdraw Rs.1,00,000, Demand deposits component will fall by Rs. 1,00,000 and CU (Currency held by Public) will increase by Rs.1,00,000. It means, it leaves the money supply … [shortened in this brief; the book continues]
+Explanation: M₃ = M₁ (Currency with the public + Demand deposits with banks + Other deposits with RBI) + Time deposits with banks. M₃ is the most commonly used measure of money supply. It is also known as aggregate money supply (Broad money). Now, ifwe withdraw Rs.1,00,000, Demand deposits component will fall by Rs. 1,00,000 and CU (Currency held by Public) will increase by Rs.1,00,000. It means, it leaves the money supply … [shortened in this brief; the book continues]
 
 [09-018] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2013
 Q: Consider the following liquid assets:
@@ -1073,7 +1076,7 @@ Q: Money multiplier in India is defined as:
    Broad Money Broad Money
 Options: (a)  (b) Base Money Reserve Money Reserve Money Base Money (c)  (d) Base Money Reserve Money
 Answer: (b) Base Money Reserve Money Reserve Money Base Money
-Explanation: In India, we define money multiplier as the ratio of the stock of money or Broad Money (M) to the stock of high powered money or Reserve Money (Mor R ). So ifmoney multiplier is K, then K = M /Mor M /R.
+Explanation: In India, we define money multiplier as the ratio of the stock of money or Broad Money (M₃) to the stock of high powered money or Reserve Money (M₀ or R(m)). So ifmoney multiplier is K, then K = M₃/M₀ or M₃/R(m).
 
 [09-021] Ch9 · Money and Banking · asked in 1 paper(s): U.P. Lower Sub. (Spl.) (Pre) 2002, 2003
 Q: What is black money?
@@ -1123,7 +1126,7 @@ Q: Note issuing department of RBI should always possess the minimum gold stock o
 Options: (a) Rs 85 crore (b) Rs 115 crore (c) Rs 200 crore (d) None of the above
 Answer: (b) Rs 115 crore
 Also asked: In India ‘Currency Notes issue system’ is based on: -> Minimum reserve system
-Explanation: The system of note issue by the Reserve Bank of India was founded on the proportional reserve system which was replaced by a system of minimum holding offoreign securities (Minimum Reserve System) of Rs. 400 crore and gold coin and bullion of Rs. 115 crore or a total of Rs. 515 crore in 1956. Under the Reserve Bank (Second Amendment) Act, 1957, the aggregate value of gold coin, gold bullion and foreign securities in … [shortened in this brief; the book continues]
+Explanation: The system of note issue by the Reserve Bank of India was founded on the proportional reserve system which was replaced by a system of minimum holding of foreign securities (Minimum Reserve System) of Rs. 400 crore and gold coin and bullion of Rs. 115 crore or a total of Rs. 515 crore in 1956. Under the Reserve Bank (Second Amendment) Act, 1957, the aggregate value of gold coin, gold bullion and foreign securities … [shortened in this brief; the book continues]
 
 [09-031] Ch9 · Money and Banking · asked in 1 paper(s): M.P.P.C.S. (Pre) 2012
 Q: Reserve Bank of India issues currency notes against which of the following?
@@ -1294,7 +1297,7 @@ Explanation: Inflation is the rate at which the value of currency is falling and
 
 [09-059] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2020
 Q: Consider the following statements:
-   1. The weightage offood in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).
+   1. The weightage of food in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).
    2. The WPI does not capture changes in the prices of services, which CPI does.
    3. Reserve Bank of India has now adopted WPI as its key measure of Inflation and to decide on changing the key policy rates.
    Which of the statements given above is/are correct?
@@ -1405,7 +1408,10 @@ Answer: (a) Both (A) and (R) are true and (R) is the correct explanation of(A).
 Explanation: Cost push inflation is caused by shift or decrease in aggregate supply curve while increase in wages is the reason for shift (left side) or decrease in aggregate supply curve. Hence, both assertion and reason are true and reason is the correct explanation of assertion.
 
 [09-080] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2023
-Q: Consider the following statements: Statement-I: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes. Statement-II: Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes.
+   Statement-II: Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
 Explanation: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes to contain the post-pandemic inflation. A study by the World Bank, published in 2022, has revealed that with the Central Banks across the world simultaneously hiking interest rates in response to inflation, the world may be edging toward a global recession and a string of financial crises in emerging markets and … [shortened in this brief; the book continues]
@@ -1414,7 +1420,7 @@ Explanation: In the post-pandemic recent past, many Central Banks worldwide had 
 Q: Which one of the following is NOT a method to control inflation?
 Options: (a) Controlling the demand (b) Controlling the supply of money (c) Reducing the rate of interest (d) Rationing of commodities
 Answer: (c) Reducing the rate of interest
-Explanation: Reducing the rate of interest is a measure of expansionary monetary policy and it is not a method to control inflation. Inflation can be controlled by a contractionary monetary policy which is a common method of managing inflation. The aim ofcontractionary policy is to reduce the supply of money within the economy by lowering the prices of bonds and rising the interest rates. Thus consumption falls, prices fall and … [shortened in this brief; the book continues]
+Explanation: Reducing the rate of interest is a measure of expansionary monetary policy and it is not a method to control inflation. Inflation can be controlled by a contractionary monetary policy which is a common method of managing inflation. The aim of contractionary policy is to reduce the supply of money within the economy by lowering the prices of bonds and rising the interest rates. Thus consumption falls, prices fall and … [shortened in this brief; the book continues]
 
 [09-082] Ch9 · Money and Banking · asked in 1 paper(s): I.A. S. (Pre) 2015
 Q: With reference to inflation in India, which of the following statements is correct?
@@ -1459,7 +1465,7 @@ Explanation: All of the above can be considered as steps taken to achieve the �
 
 [09-087] Ch9 · Money and Banking · asked in 2 paper(s): I.A.S. (Pre) 2009; U.P.P.C.S (Mains) 2016
 Q: In the context of independent India’s economy, which one of the following was the earliest event to take place?
-Options: (a) Nationalization of insurance companies (b) Nationalization of State Bank of India (c) Enactment of Banking Regulation Act (d) Introduction offirst Five Year Plan
+Options: (a) Nationalization of insurance companies (b) Nationalization of State Bank of India (c) Enactment of Banking Regulation Act (d) Introduction of first Five Year Plan
 Answer: (c) Enactment of Banking Regulation Act
 Explanation: Life insurance companies were nationalized in 1956 and general insurance companies were nationalized in 1972. While State Bank of India was nationalized in July 1955 and Banking Regulation Act came into force on 10 March, 1949. The first Five Year Plan was commenced in 1951. Hence, option (c) is the correct answer.
 
@@ -1515,13 +1521,13 @@ Answer: (d) 1, 2, 3 and 4 all
 Explanation: In the biggest consolidation exercise in the banking space, the government in August, 2019 had announced the amalgamation of 10 public sector banks into 4 bigger and stronger banks. This merger came into effect from April 1, 2020. After this, the total number of public sector banks (including SBI) is reduced to 12. The amalgamation of public sector banks has following significant benefits: / Economies of … [shortened in this brief; the book continues]
 
 [09-095] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2018
-Q: With reference tothe governance ofpublic sector banking in India,consider the following statements:
+Q: With reference to the governance ofpublic sector banking in India,consider the following statements:
    1. Capital infusion into public sector banks by the Government of India has steadily increased in the last decade.
    2. To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected.
    Which of the statements given above is/are correct?
 Options: (a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2
 Answer: (b) 2 only
-Explanation: In the period between 2008-09 and 2016-17, Government of India infused cumulatively Rs. 1,18,724 crore in public sector banks. But yearwise capital infusion has not steadily increased in this period, there have been falls in between. Thus, statement 1 is incorrect. / Merger offive Associate Banks of SBI and Bharatiya Mahila Bank (BMB) in State Bank of India has been affected in 2017 to put the public sector banks in … [shortened in this brief; the book continues]
+Explanation: In the period between 2008-09 and 2016-17, Government of India infused cumulatively Rs. 1,18,724 crore in public sector banks. But yearwise capital infusion has not steadily increased in this period, there have been falls in between. Thus, statement 1 is incorrect. / Merger of five Associate Banks of SBI and Bharatiya Mahila Bank (BMB) in State Bank of India has been affected in 2017 to put the public sector banks in … [shortened in this brief; the book continues]
 
 [09-096] Ch9 · Money and Banking · asked in 1 paper(s): U.P. R.O./A.R.O. (Mains) 2021
 Q: With reference to ‘EASE-Index’, which of the following statements is/are correct?
@@ -1711,7 +1717,7 @@ Explanation: As per the RBI’s licensing guidelines for new Private Sector Bank
 Q: The percentage of rural branches of all kinds of private, public sector commercial Banks including Regional Rural Banks as on 30.06.2012, according to RBI, was approximately:
 Options: (a) 17% (b) 27% (c) 37% (d) 47%
 Answer: (c) 37%
-Explanation: As per RBI data, the percentage of rural branches of all types of private and public sector commercial banks including RRBs as on 30 June, 2012 was about 37%. On end-March, 2023, the total number of scheduled commercial bank branches is 126445 in which number of rural branches of public sector banks is 29006, while number of rural branches of private sector banks is 8417 and offoreign banks is 124. As on 31 March, … [shortened in this brief; the book continues]
+Explanation: As per RBI data, the percentage of rural branches of all types of private and public sector commercial banks including RRBs as on 30 June, 2012 was about 37%. On end-March, 2023, the total number of scheduled commercial bank branches is 126445 in which number of rural branches of public sector banks is 29006, while number of rural branches of private sector banks is 8417 and of foreign banks is 124. As on 31 March, … [shortened in this brief; the book continues]
 
 [09-125] Ch9 · Money and Banking · asked in 4 paper(s): U.P.P.C.S. (Spl.) (Mains) 2004; U.P. P.C.S. (Pre) 2022; U.P.P.C.S. (Mains) 2007; I.A.S. (Pre) 2012
 Q: The 'Lead Bank' Scheme was launched in:
@@ -1763,7 +1769,7 @@ Answer: (d) by all of the above.
 Explanation: ‘Financial Inclusion’ is a method of offering banking and financial services to individuals. It aims to include everybody in society by giving them basic financial services regardless of their income or savings. It focuses on providing financial solutions to the economically underprivileged. Hence, all of the given statements are correct and option (d) is the correct answer.
 
 [09-137] Ch9 · Money and Banking · asked in 1 paper(s): U.P.P.C.S. (Pre) 2016
-Q: Which one of the following is not the objective offinancial inclusion?
+Q: Which one of the following is not the objective of financial inclusion?
 Options: (a) To extend financial services to poor population. (b) To unlock the door of growth potential of weaker section. (c) Shrinking of banking infrastructure. (d) To extend financial sector into rural areas.
 Answer: (c) Shrinking of banking infrastructure.
 Explanation: Extending financial services to poor population, unlocking the door of growth potential of weaker section of the society and extending financial sector into rural areas are objectives of financial inclusion. The objective of financial inclusion includes expanding the banking infrastructure in underserved areas. Hence, option (c) is the correct answer.
@@ -1779,7 +1785,7 @@ Q: Who among the following was the Chairman of the ‘Committee on Financial Inc
 Options: (a) C. Rangarajan (b) D. Subbarao (c) M.S. Ahluwalia (d) Kamal Nath
 Answer: (a) C. Rangarajan
 Also asked: Which of the following committees has given its recommendations on ‘financial inclusion’? -> Rangarajan Committee
-Explanation: The Committee on Financial Inclusion was actually constituted by the Government of India (Chairman Dr. C. Rangarajan) on June 26, 2006 to prepare a strategy offinancial inclusion. The Committee submitted its final Report on January 4, 2008. The Report viewed financial inclusion as a comprehensive and holistic process of ensuring access to financial services and timely and adequate credit, particularly by vulnerable … [shortened in this brief; the book continues]
+Explanation: The Committee on Financial Inclusion was actually constituted by the Government of India (Chairman Dr. C. Rangarajan) on June 26, 2006 to prepare a strategy of financial inclusion. The Committee submitted its final Report on January 4, 2008. The Report viewed financial inclusion as a comprehensive and holistic process of ensuring access to financial services and timely and adequate credit, particularly by vulnerable … [shortened in this brief; the book continues]
 
 [09-141] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2017
 Q: What is the purpose of setting up of Small Finance Banks (SFBs) in India?
@@ -1960,7 +1966,7 @@ Explanation: The National Housing Bank (NHB) was set up on July 9, 1988, as the 
 Q: ‘Basel IIIAccord’ or simply ‘Basel III’, often seen in the news, seeks to:
 Options: (a) develop national strategies for the conservation and sustainable use of biological diversity. (b) improve banking sector’s ability to deal with financial and economic stress and improve risk management. (c) reduce the greenhouse gas emissions but places a heavier burden on developed countries. (d) transfer technology from developed countries to poor countries to enable them to replace the use of chlorofluorocarbons in refrigerations with harmless chemicals.
 Answer: (b) improve banking sector’s ability to deal with financial and economic stress and improve risk management.
-Explanation: The Basal Committee – initially named the Committee on Banking Regulations and Supervisory Practices – was established by the central bank Governors of the Group of Ten countries at the end of 1974 in the aftermath of serious disturbances in international currency and banking markets (notably the failure of Bankhaus Herstatt in West Germany). The Committee, headquartered at the Bank for International Settlements in … [shortened in this brief; the book continues]
+Explanation: The Basal Committee – initially named the Committee on Banking Regulations and Supervisory Practices – was established by the central bank Governors of the Group ofTen countries at the end of 1974 in the aftermath of serious disturbances in international currency and banking markets (notably the failure of Bankhaus Herstatt in West Germany). The Committee, headquartered at the Bank for International Settlements in … [shortened in this brief; the book continues]
 
 [09-166] Ch9 · Money and Banking · asked in 1 paper(s): U.P.P.C.S. (Pre) 2005
 Q: Basel II relates to which one of the following?
@@ -1970,7 +1976,7 @@ Explanation: In June 1999, the Basel Committee on Banking Supervision issued a p
 
 [09-167] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2018
 Q: Consider the following statements:
-   1. Capital Adequacy Ratio (CAR) is the amount that the banks have to maintain in the form of their own funds to offset any loss that banks incur ifthe account holder fail to repay any dues.
+   1. Capital Adequacy Ratio (CAR) is the amount that the banks have to maintain in the form of their own funds to offset any loss that banks incur if the account holder fail to repay any dues.
    2. CAR is decided by each individual bank.
    Which of the statements given above is/are correct?
 Options: (a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2
@@ -2102,7 +2108,7 @@ Explanation: Credit creation is the function of the commercial banks and RBI con
 Q: Which of the following is not a function of the Reserve Bank of India?
 Options: (a) Regulation of currency (b) Regulation of foreign trade (c) Regulation of credit (d) Custody and management of country's foreign exchange reserves.
 Answer: (b) Regulation of foreign trade
-Explanation: The main functions of the RBI are – (i) Issuer of currency notes (ii) Banker to banks (iii) Banker to the government (iv) Controller of credit (v) Exchange management and control. Regulation offoreign trade is not the function of the Reserve Bank of India. Foreign Trade is regulated by Ministry of Commerce and Industry.
+Explanation: The main functions of the RBI are – (i) Issuer of currency notes (ii) Banker to banks (iii) Banker to the government (iv) Controller of credit (v) Exchange management and control. Regulation of foreign trade is not the function of the Reserve Bank of India. Foreign Trade is regulated by Ministry of Commerce and Industry.
 
 [09-191] Ch9 · Money and Banking · asked in 2 paper(s): I.A.S. (Pre) 2012; M.P.P.C.S. (Pre) 2012
 Q: The Reserve Bank of India (RBI) acts as a bankers’ bank. This would imply which of the following?
@@ -2223,7 +2229,7 @@ Explanation: The steps generally taken by the RBI to tackle inflation include a 
 
 [09-211] Ch9 · Money and Banking · asked in 1 paper(s): I.A.S. (Pre) 2022
 Q: With reference to the Indian economy, consider the following statements:
-   1. Ifthe inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities.
+   1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities.
    2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market.
    3. Ifinterest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.
    Which of the statements given above are correct?
@@ -2253,7 +2259,7 @@ Q: When the Reserve Bank of India reduces the Statutory Liquidity Ratio by 50 ba
 Options: (a) India’s GDP growth rate increases drastically (b) Foreign Institutional Investors may bring more capital into our country. (c) Scheduled Commercial banks may cut their lending rates. (d) It may drastically reduce the liquidity to the banking system.
 Answer: (c) Scheduled Commercial banks may cut their lending rates.
 Also asked: The banks are required to maintain a certain ratio between their cash in hand and total assets. This is called: -> SLR (Statutory Liquid Ratio)
-Explanation: Statutory Liquidity Ratio (SLR) is a minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold or other securities. It is basically the reserve requirement that banks are expected to keep before offering credit to customers. Ifthe RBI reduces the SLR by 50 basis points, then commercial banks have more liquid cash to offer credit to customers. In this situation, commercial … [shortened in this brief; the book continues]
+Explanation: Statutory Liquidity Ratio (SLR) is a minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold or other securities. It is basically the reserve requirement that banks are expected to keep before offering credit to customers. If the RBI reduces the SLR by 50 basis points, then commercial banks have more liquid cash to offer credit to customers. In this situation, … [shortened in this brief; the book continues]
 
 [09-216] Ch9 · Money and Banking · asked in 1 paper(s): U.P.P.C.S. (Spl.) (Mains) 2008
 Q: Which of the following is not determined by Reserve bank of India?
@@ -2281,7 +2287,7 @@ Explanation: Statutory Liquidity Ratio (SLR) is a minimum percentage of deposits
 Q: If the interest rate is decreased in an economy, it will:
 Options: (a) decrease the consumption expenditure in the economy (b) increase the tax collection of the Government (c) increase the investment expenditure in the economy (d) increase the total savings in the economy
 Answer: (c) increase the investment expenditure in the economy
-Explanation: Ifthe interest rate is decreased in an economy, it will increase consumption and investment expenditure in the economy, because at low interest rate borrowing becomes easy and people tend towards investment and consumption expenditure. Hence, option (c) is the correct answer.
+Explanation: If the interest rate is decreased in an economy, it will increase consumption and investment expenditure in the economy, because at low interest rate borrowing becomes easy and people tend towards investment and consumption expenditure. Hence, option (c) is the correct answer.
 
 [09-220] Ch9 · Money and Banking · asked in 1 paper(s): 56th to 59th B. P. S.C. (Pre) 2015
 Q: Financial sector reforms in India consist of:
@@ -2311,7 +2317,7 @@ Explanation: The Reserve Bank of India mandates the commercial banks to hold a c
 Q: Lowering the Cash Reserve Ratio, it will have the following impact on the economy: I. Banks will have higher leverage to liquidity. II. The economy may see increased investment. III. Supply of currency in the economy may broaden. IV. Real investment rate may decline. Select the correct code:
 Options: (a) I only (b) Both I and II (c) I, II, III and IV (d) II, III and IV (e) None of the above / More than one of the above
 Answer: (e) None of the above / More than one of the above
-Also asked: Ifthe Cash Reserve Ratio is lowered by the RBI, it's impact on credit creation will be: -> Increase
+Also asked: If the Cash Reserve Ratio is lowered by the RBI, it's impact on credit creation will be: -> Increase
 Explanation: Cash Reserve Ratio (CRR) is described as a particular percentage of cash deposits that must be maintained by every bank in India as per the requirements of the RBI. IfRBI lowers the CRR, the banks will have higher leverage to liquidity because it increases the loanable funds with the bank. The banks in turn can sanction further loans to businesses and industry for different investment purposes and the economy may … [shortened in this brief; the book continues]
 
 [09-226] Ch9 · Money and Banking · asked in 3 paper(s): I.A.S. (Pre) 2010; Chhattisgarh P.C.S. (Pre) 2017; U.P.P.C.S. (Mains) 2004
@@ -2340,7 +2346,7 @@ Q: The interest rate at which the Reserve Bank of India lends to Commercial bank
 Options: (a) Interest Rate (b) Reverse Repo Rate (c) Bank Rate (d) Repo Rate
 Answer: (d) Repo Rate
 Also asked: The rate of interest at which Reserve Bank of India lends short term funds to the Commercial Banks is known as: -> Repo Rate
-Explanation: Repo Rate is the Rate at which the RBI lends money to commercial banks in the event of any shortfall offunds in the short term. It is the (fixed) interest rate at which the RBI provides overnight liquidity to banks against the collateral of government and other approved securities under the liquidity adjustment facility (LAF). Repo Rate is used by the RBI to control inflation.
+Explanation: Repo Rate is the Rate at which the RBI lends money to commercial banks in the event of any shortfall of funds in the short term. It is the (fixed) interest rate at which the RBI provides overnight liquidity to banks against the collateral of government and other approved securities under the liquidity adjustment facility (LAF). Repo Rate is used by the RBI to control inflation.
 
 [09-234] Ch9 · Money and Banking · asked in 1 paper(s): U.P.P.C.S. (Spl.) (Mains) 2008
 Q: The rate at which banks lend to Reserve Bank of India is known as:
@@ -2722,7 +2728,7 @@ Answer: (d) National Stock Exchange
 Explanation: The stock exchange which recorded highest turnover during the year 2000-01 was National Stock Exchange (NSE). It had turnover of 8.39 lakh crore in 2000-01. At present too, NSE has the highest turnover in India’s share markets.
 
 [09-300] Ch9 · Money and Banking · asked in 1 paper(s): R.A.S./R.T.S.(Pre) 2013
-Q: The volatility in the Indian share market is due to: A. Inflow and outflow offoreign funds B. Fluctuations in foreign capital markets C. Changes in the monetary policy Which of the above mentioned causes are correct?
+Q: The volatility in the Indian share market is due to: A. Inflow and outflow of foreign funds B. Fluctuations in foreign capital markets C. Changes in the monetary policy Which of the above mentioned causes are correct?
 Options: (a) A and B (b) A and C (c) A, B and C (d) B and C
 Answer: (c) A, B and C
 Explanation: The main reasons for the volatility in Indian share market are as follows: / 1. Inflow and outflow of foreign funds. / 2. Fluctuations in foreign capital markets. / 3. Changes in monetary policy. / 4. Availability of liquidity in the market. / 5. Political situations. / 6. Economic outlook. / 7. Corporate performances etc.

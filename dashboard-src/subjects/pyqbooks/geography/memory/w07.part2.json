@@ -1,0 +1,456 @@
+{
+  "135-001": {
+    "r": "Shatt-al-Arab → Basra; Paraguay river → Asuncion; Niger → Niamey; Danube → Vienna."
+  },
+  "135-002": {
+    "r": "Paris → Seine; Kinshasa → Zaire (Congo); Bangkok → Chao Phraya; Asuncion → Paraguay river."
+  },
+  "135-003": {
+    "r": "Wrong: Sydney – Seine (the Seine flows through Paris). Correct: Khartoum → Nile (White and Blue Nile meet); New York → Hudson; Berlin → Spree."
+  },
+  "135-004": {
+    "r": "Washington D.C. → Potomac; Berlin → Spree; Paris → Seine; Madrid → Manzanares."
+  },
+  "135-005": {
+    "r": "Paris → Seine. Belgrade → Danube and Sava; Lisbon → mouth of the Tagus; Budapest → Danube."
+  },
+  "135-008": {
+    "r": "Berlin → Spree; Lahore → Ravi; New York → Hudson; Rome → Tiber."
+  },
+  "135-009": {
+    "r": "Wrong: Berlin – Rhine; Berlin is on the Spree. Correct: London → Thames; New York → Hudson; Vienna → Danube."
+  },
+  "135-010": {
+    "r": "Wrong: Vienna – Volga; Vienna is on the Danube. Correct: Bonn → Rhine; Cairo → Nile; New York → Hudson."
+  },
+  "135-011": {
+    "r": "Correct pair: Budapest → Danube. Others: Paris → Seine; Perth → Swan; Cairo → Nile."
+  },
+  "135-012": {
+    "r": "Not matched: New Orleans is on the Mississippi (not Missouri); Hyderabad on the Musi (not Paleru). Budapest–Danube and Cologne–Rhine are correct."
+  },
+  "135-013": {
+    "r": "Correct: Hamburg → Elbe. Others: Belgrade → Danube (not Seine); Kiev → Dnieper (not Don); Lahore → Ravi (not Satluj)."
+  },
+  "135-014": {
+    "r": "Rome → Tiber, not the Danube. Capitals on the Danube: Vienna, Bratislava, Budapest, Belgrade.",
+    "h": "Danube capitals go V-B-B-B: Vienna, Bratislava, Budapest, Belgrade."
+  },
+  "135-015": {
+    "r": "Huangpu River (113 km) → flows through Shanghai, splitting Pudong (east) from Puxi (west); Shanghai also lies at the Yangtze mouth."
+  },
+  "135-016": {
+    "r": "Bangkok → Menam (Chao Phraya); Phnom Penh → Mekong; Hanoi → Red River; Yangon → Irrawaddy."
+  },
+  "135-017": {
+    "r": "Potomac → USA; Nile → Sudan; Tigris → Iraq; Thames → England."
+  },
+  "135-018": {
+    "r": "Wrong: Lisbon – Tiber; the Tiber (Italy's third longest) flows through Rome into the Tyrrhenian Sea. Belgrade–Danube, Warsaw–Vistula, Washington–Potomac are correct."
+  },
+  "135-019": {
+    "r": "London → Thames; Antwerp → Scheldt; Rotterdam → Rhine; Hamburg → Elbe."
+  },
+  "135-020": {
+    "r": "Rotterdam → Rhine; Paris → Seine; Budapest → Danube; Washington D.C. → Potomac."
+  },
+  "135-021": {
+    "r": "Khartoum → Nile (Blue and White Nile meet); Brazzaville → Zaire (Congo); Rotterdam → Rhine; Paris → Seine."
+  },
+  "135-022": {
+    "r": "Watershed (catchment area) → land unit that collects, stores and releases water, channelling rain and snowmelt to streams, rivers, reservoirs and the sea.",
+    "hi": ["Catchment area (जलग्रहण क्षेत्र)"]
+  },
+  "136-001": {
+    "r": "Delta formation depends on sea depth: deltas need heavy sediment, slow flow, a gentle sea floor and a shallow sea or shelf; a deep sea hinders them."
+  },
+  "136-002": {
+    "r": "World's greatest delta → Ganga-Brahmaputra (Sunderban) delta in Bangladesh and West Bengal; arcuate, triangular, about 105641 sq km."
+  },
+  "136-003": {
+    "r": "Bird's foot delta → Mississippi, at the Gulf of Mexico.",
+    "t": "Don't confuse: Mississippi = bird's foot delta; Nile = arcuate delta."
+  },
+  "136-004": {
+    "r": "Grand Canyon → a gorge cut by the Colorado River in Arizona, USA; about 446 km long and over 1.8 km deep.",
+    "hi": ["Gorge (महाखड्ड)"]
+  },
+  "136-005": {
+    "r": "Chisapani Gorge → Nepal, cut by the swift Karnali, Nepal's longest river (507 km)."
+  },
+  "136-006": {
+    "r": "Wrong: Inselberg is not a glacial landform. Correct: Canyon → river; Zeugen → wind; Moraine → glacier (its deposits)."
+  },
+  "136-007": {
+    "r": "Nobi and Kanto plains → Japan; Kanto (central Honshu, 17000 sq km, holds Tokyo) is Japan's largest lowland."
+  },
+  "137-001": {
+    "r": "Sheep Islands → Faroe Islands, a self-governing archipelago of Denmark with 18 rocky, volcanic islands."
+  },
+  "137-002": {
+    "r": "Area: NZ South Island (150436 sq km) > Java (138794) > NZ North Island (114687) > Newfoundland (111390)."
+  },
+  "137-003": {
+    "r": "World's largest island → Greenland (Denmark); then New Guinea, Borneo, Madagascar."
+  },
+  "137-004": {
+    "r": "Second largest island → New Guinea (785753 sq km, north of Australia), after Greenland. Madagascar → Africa's largest island."
+  },
+  "137-006": {
+    "r": "Greenland → world's largest island, belongs to Denmark (not USA); Nuuk is its capital and largest city, 1-3 m above sea level."
+  },
+  "137-008": {
+    "r": "Borneo → shared by three countries: Indonesia (73%), Malaysia (26%), Brunei (1%); world's third largest and Asia's largest island."
+  },
+  "137-009": {
+    "r": "Area: Borneo (751929 sq km) > Madagascar (587041) > Sumatra (472784) > Great Britain (209331)."
+  },
+  "137-010": {
+    "r": "Borneo → divided among Indonesia, Malaysia and Brunei; formed by volcanic deposition; third largest island after Greenland and New Guinea."
+  },
+  "137-011": {
+    "r": "Kalimantan → Indonesian part of Borneo, 73% of the island."
+  },
+  "137-012": {
+    "r": "Madagascar → largest island in the Indian Ocean (south-west); Mauritius to its east, Mozambique to its west."
+  },
+  "137-013": {
+    "r": "Indian Ocean map: Seychelles → 3; Chagos → 1; Mauritius → 4; Socotra → 2. Seychelles has 155 granite and coral islands."
+  },
+  "137-014": {
+    "r": "South Indian Ocean islands: Chagos, Mauritius and Seychelles; the book accepts all three.",
+    "c": "The book gives no single answer (*): Chagos, Mauritius and Seychelles all lie in the south Indian Ocean."
+  },
+  "137-015": {
+    "r": "Melanesia (western Pacific): Bismarck Archipelago, Fiji, New Caledonia, New Guinea, Solomon Islands, Vanuatu."
+  },
+  "137-016": {
+    "r": "Diego Garcia → Indian Ocean; named after a Portuguese explorer; under Mauritius 1814-1965, then UK, leased to USA as a strategic base."
+  },
+  "137-017": {
+    "r": "Indonesia → archipelago from Aceh (north-west) to Torres Strait (east); 17508 islands, about 1000 inhabited."
+  },
+  "137-018": {
+    "r": "Atlantic map 1-4: Azores (Portugal), Cape Verde, the Bahamas, Falkland (UK)."
+  },
+  "137-019": {
+    "r": "Falkland archipelago → South Atlantic (about 650 km east of South America), not Indian Ocean. Namibia → Africa; Nicaragua → Central America; Yemen → Asia."
+  },
+  "137-020": {
+    "r": "Fiji → South Pacific; 333 islands; Viti Levu and Vanua Levu hold 87% of people; neighbours Vanuatu, Tonga, Tuvalu."
+  },
+  "137-021": {
+    "r": "Galapagos Islands (Pacific) → volcanic in origin; belong to Ecuador, not Peru."
+  },
+  "137-022": {
+    "r": "Japan's largest island → Honshu (capital Tokyo); four main islands: Hokkaido, Honshu, Shikoku, Kyushu."
+  },
+  "137-024": {
+    "r": "Japan north to south: Hokkaido → Honshu → Shikoku → Kyushu; Tsugaru Strait (Seikan undersea rail tunnel) separates Hokkaido and Honshu.",
+    "h": "'Hot Honey Shakes Kids': Hokkaido, Honshu, Shikoku, Kyushu."
+  },
+  "137-026": {
+    "r": "Macau → transferred from Portugal to China in December 1999; lies about 64 km west of Hong Kong."
+  },
+  "137-027": {
+    "r": "Balearic Islands → Spain, western Mediterranean Sea; capital Palma de Mallorca; part of Spain since 1833, autonomous since 1983."
+  },
+  "137-028": {
+    "r": "World's largest river island → Majuli, in the Brahmaputra (Assam); first river island made a district in India."
+  },
+  "137-029": {
+    "r": "Island continent → Australia, the world's smallest continent."
+  },
+  "137-030": {
+    "r": "Grenada → three-island country in the south-east Caribbean Sea, 'Island of Spice', about 160 km north of Venezuela."
+  },
+  "137-031": {
+    "r": "Salt-pan resources → Saint-Martin Island; salt pans form in arid areas where water bodies dried up, leaving salt."
+  },
+  "137-032": {
+    "r": "Most islands among options → Indonesia (17508); in the whole world, Sweden has the most islands."
+  },
+  "137-033": {
+    "r": "Socotra → part of Yemen (not Oman), at the mouth of the Gulf of Aden; UNESCO World Natural Heritage Site in 2008."
+  },
+  "137-034": {
+    "r": "Indonesian islands, west to east: Sumatra → Java → Bali → Lombok."
+  },
+  "137-035": {
+    "r": "Madeira → not in the Caribbean Sea; Grenada, Montserrat and Anguilla are Caribbean islands."
+  },
+  "137-036": {
+    "r": "Polynesia includes Tonga, Tuvalu and Tahiti (French Polynesia); Tinian is not Polynesian."
+  },
+  "138-001": {
+    "r": "Lake Faguibine (Mali, West Africa) → dried up and turned into desert."
+  },
+  "138-002": {
+    "r": "Wrong: Baikal → Russia, not Ukraine. Correct: Balkhash → Kazakhstan; Titicaca → Bolivia-Peru; Erie → USA-Canada."
+  },
+  "138-003": {
+    "r": "Lake Balkhash → east-central Kazakhstan; largest lake in Central Asia."
+  },
+  "138-004": {
+    "r": "Niagara Falls → on the Niagara River between Lake Erie and Lake Ontario, on the USA-Canada border."
+  },
+  "138-005": {
+    "r": "Lake Tanganyika → second deepest lake (1470 m) after Baikal and the longest freshwater lake."
+  },
+  "138-006": {
+    "r": "Equator passes through none of Lake Tanganyika, Lake Tonle Sap and Patos Lagoon; all lie away from 0° latitude."
+  },
+  "138-007": {
+    "r": "Great Lakes: Superior, Michigan, Huron, Erie, Ontario; Bear Lake is not one of them.",
+    "h": "HOMES: Huron, Ontario, Michigan, Erie, Superior."
+  },
+  "138-008": {
+    "r": "Great Lakes east to west: Ontario → Erie → Huron → Michigan → Superior; Lake Michigan lies wholly in the USA.",
+    "h": "West to east 'Super Man Helps Every One': Superior, Michigan, Huron, Erie, Ontario."
+  },
+  "138-011": {
+    "r": "Lake area: Superior (82097 sq km) > Victoria (68870) > Baikal (31500) > Great Bear (31153)."
+  },
+  "138-012": {
+    "r": "Size order: Superior (≈82367 km²) > Victoria (≈58016 km²) > Michigan > Chilika."
+  },
+  "138-013": {
+    "r": "Largest freshwater lake (by area) → Lake Superior, one of the Great Lakes on the Canada-USA border."
+  },
+  "138-014": {
+    "r": "Oldest and deepest lake → Lake Baikal: maximum depth about 1642 m, over 25 million years old."
+  },
+  "138-015": {
+    "r": "Lake Baikal → world's oldest and deepest freshwater lake (1642 m deep, over 25 million years old)."
+  },
+  "138-016": {
+    "r": "Deepest lake → Baikal (Siberia, Russia; 1642 m). Titicaca 280 m; Victoria maximum 84 m."
+  },
+  "138-017": {
+    "r": "Largest lake by area and volume → Caspian Sea (Eurasia), a saltwater lake of about 371000 km²."
+  },
+  "138-018": {
+    "r": "Finger Lakes region → series of small lakes in north-west New York, USA."
+  },
+  "138-019": {
+    "r": "Garden of Lakes → Finland (about 187888 lakes, 178917 islands); its largest lake, Saimaa, is Europe's fourth largest."
+  },
+  "138-020": {
+    "r": "Land of a thousand lakes → Finland."
+  },
+  "138-021": {
+    "r": "Wrong: Five Flower Lake → Sichuan, China, not Mongolia. Correct: Boiling Lake → Dominica; Red Lagoon → Bolivia; Great Slave Lake → Canada."
+  },
+  "138-022": {
+    "r": "Duluth → on the shore of Lake Superior (second largest city on it)."
+  },
+  "138-023": {
+    "r": "Wrong: Reindeer Lake → Canada, not Russia. Correct: Titicaca → Bolivia-Peru; Urmia → Iran; Athabasca → Canada."
+  },
+  "138-024": {
+    "r": "Highest waterfall → Angel Falls (Salto Angel), Venezuela, 979 m, on Rio Churun (Orinoco system); Tugela Falls (South Africa) 948 m."
+  },
+  "138-026": {
+    "r": "Victoria Falls → Zambezi River, on the Zambia-Zimbabwe border."
+  },
+  "138-027": {
+    "r": "Lake Victoria → bordered by three countries (Tanzania, Uganda, Kenya), not four; lies between branches of the East African Rift, not in the rift valley."
+  },
+  "138-028": {
+    "r": "Lake Victoria: second (not third) largest freshwater lake by area; borders only Tanzania, Uganda, Kenya (not Rwanda); an African Great Lake; Nile outflow near Jinja."
+  },
+  "138-029": {
+    "r": "Plitvice Lakes (Croatia) → UNESCO World Heritage Site since 1979; sixteen lakes linked by waterfalls."
+  },
+  "138-030": {
+    "r": "Wrong: tallest waterfall is Angel Falls (Venezuela, 979 m), not Tugela (second, 948 m). Correct: Superior, Titicaca (highest navigable), Tanganyika (second deepest)."
+  },
+  "138-031": {
+    "r": "Wrong: Lake Malawi → Africa, not Asia. Correct: Baikal → Russia; Caspian → Asia-Europe; Tanganyika → Africa."
+  },
+  "138-032": {
+    "r": "Aral Sea → shrunk almost dry from human activity (NASA images 2014 vs 1989); Black Sea and Baikal shrank only slightly."
+  },
+  "138-033": {
+    "r": "Wrong: Lake Onega → north-west Russia (Europe's second largest after Ladoga), not Canada. Correct: Maracaibo → Venezuela; Michigan → USA; Baikal → Russia."
+  },
+  "139-001": {
+    "r": "Strait of Malacca (between Indonesia and Malaysia) → links Andaman Sea (Indian Ocean) with South China Sea.",
+    "hi": ["Strait (जलडमरूमध्य)"]
+  },
+  "139-002": {
+    "r": "India–East Asia sea route could be cut most by a new canal between the Gulf of Siam and the Andaman Sea, not by deepening Malacca Strait."
+  },
+  "139-003": {
+    "r": "Strait of Gibraltar → separates Europe from Africa; joins the Atlantic Ocean to the Mediterranean Sea."
+  },
+  "139-004": {
+    "r": "Strait of Hormuz → between the Persian Gulf and the Gulf of Oman."
+  },
+  "139-005": {
+    "r": "Strait of Hormuz → connects the Persian Gulf with the Gulf of Oman; vital oil route from West Asia."
+  },
+  "139-006": {
+    "r": "Bering Strait (85 km wide) → separates Asia (Russia) from North America (Alaska); links Chukchi Sea (Arctic) with Bering Sea (Pacific)."
+  },
+  "139-007": {
+    "r": "Suez Canal → greatest economic and strategic weight; cut Europe-India distance by 7000 km; about 12% of world trade. Bering Strait links Arctic and Pacific."
+  },
+  "139-009": {
+    "r": "Gibraltar → Africa-Europe; Malacca → Indonesia-Malaysia; Bering → Asia-North America; Hormuz → Persian Gulf-Gulf of Oman."
+  },
+  "139-010": {
+    "r": "Ten Degree Channel → separates the Andaman Islands from the Nicobar Islands (Bay of Bengal); named for the ten-degree north latitude."
+  },
+  "139-011": {
+    "r": "UK-France tunnel → under Strait of Dover, Folkestone (Kent) to Coquelles (France); Dover Strait joins English Channel and North Sea."
+  },
+  "139-013": {
+    "r": "Palk Strait → between Tamil Nadu (India) and Sri Lanka; Palk Bay lies between Gulf of Mannar and Bay of Bengal; named after Robert Palk."
+  },
+  "139-015": {
+    "r": "Persian Gulf countries: Iran, UAE, Saudi Arabia, Qatar, Bahrain, Kuwait, Iraq. Oman borders the Gulf of Oman and Arabian Sea instead."
+  },
+  "139-017": {
+    "r": "Correct: Gulf of Tonkin → Vietnam (and China). Gulf of Bothnia → Finland-Sweden; Baffin Bay → Canada-Greenland; Gulf of Carpentaria → northern Australia."
+  },
+  "139-018": {
+    "r": "Bab-el-Mandeb → links Red Sea with Indian Ocean (Gulf of Aden). Hormuz → Persian Gulf-Gulf of Oman; Bosphorus → Black Sea-Sea of Marmara."
+  },
+  "139-019": {
+    "r": "Lombok Strait → between Bali and Lombok (Indonesia); joins the Java Sea to the Indian Ocean."
+  },
+  "139-020": {
+    "r": "Devil's Neck → Kra Isthmus (southern Thailand and Myanmar), narrow land joining the Malay Peninsula to mainland South-East Asia.",
+    "hi": ["Isthmus (स्थलडमरूमध्य)"]
+  },
+  "139-021": {
+    "r": "Bass Strait (about 240-350 km wide) → separates Tasmania from mainland Australia (Victoria)."
+  },
+  "140-001": {
+    "r": "Suez Canal (Egypt, 193.30 km, opened 1869) → joins Mediterranean and Red Sea; Port Said (north), Suez (south); largest navigation canal; shortened India-West route."
+  },
+  "140-005": {
+    "r": "Suez Canal → directly joins the Red Sea and Mediterranean Sea (not the Atlantic or Indian Ocean); cut India-Europe sea distance by about 7,000 km."
+  },
+  "140-007": {
+    "r": "Bombay to Suez port needs no Suez Canal transit, since Suez port lies at the canal's southern end."
+  },
+  "140-008": {
+    "r": "Panama Canal → cut across the Isthmus of Panama; joins Atlantic and Pacific Oceans; shortened New York-San Francisco sea route."
+  },
+  "140-009": {
+    "r": "Soo Canal → joins Lake Superior and Lake Huron (Great Lakes of North America)."
+  },
+  "140-010": {
+    "r": "Nicaragua → planned a rival to the Panama Canal linking Atlantic and Pacific (announced October 4, 2006; about US$18 billion, about 12 years)."
+  },
+  "140-011": {
+    "r": "Kiel Canal (Germany) → joins the North Sea and Baltic Sea; one of the busiest artificial waterways."
+  },
+  "140-012": {
+    "r": "Locks raise and lower ships between water levels; the book names the Panama Canal and Danube River among lock-operated waterways in the options.",
+    "c": "The book gives no single answer (*): more than one option uses a lock system."
+  },
+  "140-013": {
+    "r": "Ludwigs Canal → inland waterway of southern Germany. Volga-Don Canal → Russia; White Sea Canal → White Sea to Lake Onega; Sault Ste. Marie → Canada."
+  },
+  "140-014": {
+    "r": "Kiel → Elbe estuary-Baltic Sea; Soo → Lake Superior-Lake Huron; Panama → Atlantic-Pacific; Suez → Mediterranean-Red Sea."
+  },
+  "140-015": {
+    "r": "Suez Canal lakes, north to south: Lake Manzala → Lake Timsah → Great Bitter Lake → Little Bitter Lake.",
+    "h": "'Many Tourists Get Lost': Manzala, Timsah, Great Bitter, Little Bitter."
+  },
+  "141-001": {
+    "r": "Itaipu Dam → on the Parana, joint project of Brazil and Paraguay; 196 m high, 7919 m long."
+  },
+  "141-002": {
+    "r": "Jiaozhou Bay Bridge (China) → among the world's longest sea bridges, 41.58 km, Qingdao to Huangdao; opened 30 June 2011."
+  },
+  "141-003": {
+    "r": "Colorado → Hoover Dam; Damodar → Panchet (Hill); Nile → Aswan; Zambezi → Kariba."
+  },
+  "141-004": {
+    "r": "Kariba Dam → Zambezi River, on the Zambia-Zimbabwe border."
+  },
+  "141-005": {
+    "r": "Aswan High Dam → Egypt, on the Nile; used for irrigation and hydropower; construction began in 1960."
+  },
+  "141-006": {
+    "r": "Zangmu Dam → China's gravity dam on the Yarlung Zangbo (Brahmaputra) in Tibet, begun Nov. 2010; may reduce the river's flow."
+  },
+  "141-007": {
+    "r": "Wrong: Hoover (Boulder) Dam → Colorado River (Nevada-Arizona), not Tennessee. Correct: Grand Coulee → Columbia; Nurek → Vakhsh; Cahora Bassa → Zambezi."
+  },
+  "142-001": {
+    "r": "Coral reefs → mostly in coastal waters between the Tropics of Cancer and Capricorn; cover 0.08-0.16% of oceans but hold 25% of marine species.",
+    "hi": ["Coral reef (प्रवाल भित्ति)"]
+  },
+  "142-002": {
+    "r": "Great Barrier Reef → world's largest coral reef, in the Pacific off Queensland (north-east Australia); about 2300 km long."
+  },
+  "142-003": {
+    "r": "Great Barrier Reef → north-east coast of Australia (Queensland), Pacific Ocean; about 2300 km long, so 'more than 2500 km' is wrong."
+  },
+  "142-007": {
+    "r": "Most coral reefs are tropical; over one-third lie in Australia, Indonesia and Philippines; reefs host more animal phyla than tropical rainforests. All three true."
+  },
+  "142-008": {
+    "r": "Addu Atoll → Indian Ocean; the southernmost atoll of the Maldives."
+  },
+  "142-009": {
+    "r": "Atoll → ring- or horseshoe-shaped coral reef island enclosing a lagoon; found in tropical and subtropical seas.",
+    "hi": ["Atoll (वलयाकार प्रवाल द्वीप)"]
+  },
+  "143-001": {
+    "r": "Dust is higher in subtropical and temperate areas than equatorial and polar ones because dry winds are more common there; so Statement II is false."
+  },
+  "143-002": {
+    "r": "Troposphere is much thicker at the equator than at the poles because strong convection carries heat high; both true, II explains I."
+  },
+  "143-003": {
+    "r": "Near-surface air is mainly nitrogen (78.084%) and oxygen (20.947%); the remaining 1% is argon, carbon dioxide, neon etc. Most abundant gas → nitrogen."
+  },
+  "143-005": {
+    "r": "Permanent gases (steady amount): nitrogen, oxygen, argon. Carbon dioxide, ozone and neon vary."
+  },
+  "143-006": {
+    "r": "Layers upward: Troposphere → Stratosphere → Mesosphere → Ionosphere (lower thermosphere) → Exosphere.",
+    "h": "'The Strong Man Is Energetic': Troposphere, Stratosphere, Mesosphere, Ionosphere, Exosphere."
+  },
+  "143-007": {
+    "r": "Lowest layer → troposphere (average height about 12-13 km); all weather such as rain, fog and hail occurs in it.",
+    "hi": ["Troposphere (क्षोभमंडल)"]
+  },
+  "143-011": {
+    "r": "Most weather occurs in the troposphere; its temperature falls 6.5°C per 1000 m (1 km) of height."
+  },
+  "143-013": {
+    "r": "Jets fly in the stratosphere because its dry air has almost no clouds or weather disturbances.",
+    "hi": ["Stratosphere (समतापमंडल)"]
+  },
+  "143-014": {
+    "r": "Ozone layer → lower stratosphere, mainly 15-35 km up (up to 55 km); absorbs harmful ultraviolet rays.",
+    "hi": ["Ozone layer (ओज़ोन परत)"]
+  },
+  "143-016": {
+    "r": "Ozone layer → blocks the Sun's ultraviolet rays; lies in the lower stratosphere, mainly 15-35 km up (also asked as 15-20 km); ozone = three oxygen atoms."
+  },
+  "143-020": {
+    "r": "Ionosphere → reflects (deflects) radio waves; cosmic rays are identified and auroras seen in this layer.",
+    "hi": ["Ionosphere (आयनमंडल)"]
+  },
+  "143-021": {
+    "r": "Aurora Borealis (north) and Aurora Australis (south) → in the ionosphere, 80-640 km up; light from charged solar particles hitting the atmosphere."
+  },
+  "143-022": {
+    "r": "Ionosphere's charged particles (ions) reflect radio waves back to Earth, enabling wireless communication and telecommunication."
+  },
+  "143-024": {
+    "r": "Communication (geostationary) satellites → about 36000 km up, in the exosphere (outer atmosphere above 640 km)."
+  },
+  "143-025": {
+    "r": "Correct: Troposphere → weather; Stratosphere → ozone layer; Ionosphere → reflects radio waves. Wrong: Mesosphere – aurorae (aurorae belong to the ionosphere)."
+  }
+}

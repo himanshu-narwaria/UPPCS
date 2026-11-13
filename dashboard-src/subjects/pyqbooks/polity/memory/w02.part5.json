@@ -1,165 +1,174 @@
 {
-  "15-060": {
-    "r": "NALSA (Legal Services Authorities Act 1987): free, competent legal services to weaker sections on equal opportunity; organises Lok Adalats; guides State legal services authorities.",
-    "hi": ["Lok Adalat (लोक अदालत)"]
-  },
-  "15-061": {
-    "r": "Free legal aid (Section 12, Legal Services Authorities Act): SC/ST, trafficking victims, women, children, disabled, industrial workmen, low-income persons; not all OBCs or all senior citizens.",
-    "t": "Senior citizens get free aid only within State income ceilings (Delhi: 2 lakh), not automatically."
-  },
-  "15-062": {
-    "r": "Right to Information is a legal right (RTI Act 2005), not a DPSP. DPSPs: equal pay (39(d)), adequate livelihood (39(a)), prohibition of liquor, right to work."
-  },
-  "15-063": {
-    "r": "Uniform Civil Code → DPSP, Article 44 (State shall endeavour to secure it throughout India). Press freedom, religious freedom, equality before law are Fundamental Rights.",
-    "hi": ["Uniform Civil Code (समान नागरिक संहिता)"]
-  },
-  "15-064": {
-    "r": "Only prohibition of liquor is a DPSP (Article 47). Bans on child labour in factories, begar or forced labour, and untouchability are Fundamental Rights."
-  },
-  "15-066": {
-    "r": "K.T. Shah: Directive Principles are 'a cheque payable at the bank's convenience'.",
-    "h": "Shah sounds like 'Sahukar' (moneylender): the cheque remark is his."
-  },
-  "15-067": {
-    "r": "National Social Assistance Programme (15 August 1995) → fulfils DPSP on right to work, education, public assistance; includes old age pension, family benefit, maternity benefit schemes."
-  },
-  "15-068": {
-    "r": "In Part IV: equal pay for equal work (39(d)), Uniform Civil Code (44). Not DPSP: small family norm; mother-tongue primary education → Article 350A."
-  },
-  "16-001": {
-    "r": "Fundamental Duties (Article 51-A, Part IV-A; 42nd Amendment 1976, Swaran Singh Committee) are non-justiciable: no legal process to enforce them; not correlative to legal duties.",
-    "hi": ["Fundamental Duties (मौलिक कर्तव्य)"]
-  },
-  "16-002": {
-    "r": "Fundamental Duties → Part IV-A, Article 51A, added by 42nd Amendment 1976 on Swaran Singh Committee's recommendation; originally 10, now 11.",
-    "h": "Swaran = gold: Swaran Singh gave the golden duties."
-  },
-  "16-004": {
-    "r": "Swaran Singh Committee recommended (1976) Fundamental Duties → 42nd Amendment Act 1976 inserted Article 51A (Part IV-A), in force 3 January 1977; 11th duty (k) added later."
-  },
-  "16-006": {
-    "r": "Article 51A(c), the third duty → uphold and protect the sovereignty, unity and integrity of India. Duties came via the 42nd Amendment."
-  },
-  "16-008": {
-    "r": "42nd Amendment (1976) inserted Article 51A in new Part IV-A → Fundamental Duties of citizens."
-  },
-  "16-013": {
-    "r": "Swaran Singh Committee (1976): 12 members incl. A.R. Antulay, S.S. Ray, C.M. Stephen; Haridev Joshi (Rajasthan CM) was not a member. 42nd Amendment added ten duties."
-  },
-  "16-021": {
-    "r": "Fundamental Duties cannot be enforced by writs; they are moral obligations (patriotism, unity of India), promoted by constitutional methods and usable to interpret ambiguous statutes."
-  },
-  "16-022": {
-    "r": "Voting in elections is not a Fundamental Duty; Article 51A has 11 duties incl. scientific temper, safeguarding public property, abiding by the Constitution."
-  },
-  "16-024": {
-    "r": "Article 51A(a) → abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem."
-  },
-  "16-025": {
-    "r": "Value and preserve the rich heritage of our composite culture → Fundamental Duty, Article 51A(f); separation of judiciary, free education, abolition of untouchability are not duties."
-  },
-  "16-026": {
-    "r": "Striving to abolish untouchability is not a Fundamental Duty; untouchability is dealt with by Article 17, a Fundamental Right (Part III)."
-  },
-  "16-027": {
-    "r": "Organising village panchayats is a DPSP (Article 40), not a Fundamental Duty. Duties: defend country and render national service (51-A(d)), composite culture, public property, abjure violence."
-  },
-  "16-029": {
-    "r": "Fundamental Duties include preserving composite culture, scientific temper and inquiry, striving towards excellence; 'protect weaker sections from social injustice' is not a duty."
-  },
-  "16-030": {
-    "r": "Article 51A(g) → protect and improve natural environment incl. forests, lakes, rivers, wildlife; compassion for living creatures. 51A(a) → respect the National Flag.",
-    "t": "The duty is to respect the National Flag, not 'protect' it; protection of wildlife is the duty asked."
-  },
-  "16-031": {
-    "r": "Citizen's duty to protect and improve the natural environment → Article 51A(g), Part IV-A. (Article 48-A is the State's DPSP on environment.)"
-  },
-  "16-032": {
-    "r": "Fundamental Duties are not part of Fundamental Rights; they form Part IV-A (Article 51A), added by 42nd Amendment 1976; now 11 duties."
-  },
-  "16-033": {
-    "r": "Protecting monuments and places of public importance is not in Article 51A; duties include respecting the National Anthem, safeguarding public property, protecting environment."
-  },
-  "16-034": {
-    "r": "Protecting monuments and places of national importance → DPSP, Article 49, not a Fundamental Duty.",
-    "t": "Don't confuse 'safeguard public property' (duty) with 'protect monuments' (DPSP, Article 49)."
-  },
-  "16-035": {
-    "r": "Respecting parents and teachers is not among the eleven Fundamental Duties; respecting the National Flag, brotherhood and composite culture are."
-  },
-  "16-036": {
-    "r": "Voting in public elections is not a Fundamental Duty. Scientific temper → 51A(h); safeguard public property → 51A(i); abide by Constitution → 51A(a)."
-  },
-  "16-037": {
-    "r": "Wrong pair: Fundamental Duties → Part IV-A (42nd Amendment), not Part V; Part V = Union Executive. Part II Citizenship, III Fundamental Rights, IV DPSP."
-  },
-  "16-038": {
-    "r": "All three correct: separation of judiciary → DPSP (Article 50); preserving composite culture → Fundamental Duty (51A(f)); child employment ban → Fundamental Right (Article 24)."
-  },
-  "16-039": {
-    "r": "Uphold and protect sovereignty, unity and integrity of India → Fundamental Duty, Article 51A(c). Duties added by 42nd and 86th Amendments; now 11."
-  },
-  "16-040": {
-    "r": "Eleven Fundamental Duties; originally 10; 11th (51A(k): parents/guardians give education opportunity to children aged 6 to 14) added by 86th Amendment Act 2002.",
-    "h": "86th gave the 11th: the education duty."
-  },
-  "16-041": {
-    "r": "Respect for international law → Article 51(c) (DPSP); compassion for living creatures → 51A(g); spirit of inquiry and reform → 51A(h); separate judiciary → Article 50.",
-    "t": "Article 51 (DPSP) and Article 51A (Duties) differ by one letter; don't mix them."
-  },
-  "17-001": {
-    "r": "Head of the Indian Republic (Head of State) → President of India; first President Dr. Rajendra Prasad (26 Jan 1950 to 13 May 1962).",
-    "hi": ["President (राष्ट्रपति)"]
-  },
-  "17-003": {
-    "r": "A true, R false: India's President is indirectly elected, unlike the hereditary British King; but not similar to the US President, who has more power."
-  },
-  "17-004": {
-    "r": "Article 53 → Union executive power vested in the President (A true); R false: he acts directly or through subordinate officers as per the Constitution, so his power is limited."
-  },
-  "17-005": {
-    "r": "Article 53(1) → President exercises Union executive power directly or through officers subordinate to him, per the Constitution. Article 52 → there shall be a President."
-  },
-  "17-006": {
-    "r": "Executive Head of State → President; Article 53 vests the executive power of the Union in the President."
-  },
-  "17-011": {
-    "r": "Both true, R explains A: Article 53 vests Union executive power in the President, who is the constitutional head of the State."
-  },
-  "17-012": {
-    "r": "Both true, R does not explain A: Article 53 vests executive power in the President; Article 77 → all executive action of Government of India taken in the President's name."
-  },
-  "17-013": {
-    "r": "Article 53(2) → supreme command of the Defence Forces vested in the President, but its exercise is regulated by law (not free of legislative control)."
-  },
-  "17-014": {
-    "r": "'Represents the nation but does not lead it' → President (Head of State); the Prime Minister holds real executive power and leads the nation."
-  },
-  "17-015": {
-    "r": "President elected indirectly (Article 54) by an electoral college, through proportional representation by single transferable vote, by secret ballot.",
-    "hi": ["Single transferable vote (एकल संक्रमणीय मत)"]
-  },
-  "17-027": {
-    "r": "Presidential election cannot be postponed because the electoral college is incomplete (e.g. a dissolved Assembly). Term five years; incumbent continues till successor enters office."
-  },
-  "17-028": {
-    "r": "Presidential nomination needs at least 50 electors as proposers and another 50 as seconders.",
-    "c": "No answer printed: the correct figure, 50, is not among the options."
-  },
-  "17-029": {
-    "r": "MLA vote value = State population ÷ elected MLAs ÷ one thousand (not ×100); MP vote value = total value of all MLAs' votes ÷ total elected MPs (Article 55)."
-  },
-  "17-030": {
-    "r": "MLA vote value varies by State (Arunachal Pradesh 8, Uttar Pradesh 208); every MP of Lok Sabha and Rajya Sabha has the same vote value."
-  },
-  "17-031": {
-    "r": "Incorrect: MLA votes = multiples of one thousand, not one hundred. Correct: 1971 census basis till first census after 2026 (84th Amendment 2001); PR by single transferable vote."
-  },
-  "17-032": {
-    "r": "2022 Presidential election: Rajasthan MLA vote value = 129 (1971 population 2,57,65,800 ÷ 200 MLAs ÷ 1000 = 128.82). Droupadi Murmu became 15th President."
-  },
-  "17-033": {
-    "r": "Only one correct: nominated members excluded from electoral college; more Assembly seats → lower MLA vote value; values: Madhya Pradesh 131, Kerala 152, Arunachal 8, Puducherry 16."
-  }
+ "15-060": {
+  "r": "NALSA (Legal Services Authorities Act 1987): free, competent legal services to weaker sections on equal opportunity; organises Lok Adalats; guides State legal services authorities.",
+  "hi": [
+   "Lok Adalat (लोक अदालत)"
+  ]
+ },
+ "15-061": {
+  "r": "Free legal aid (Section 12, Legal Services Authorities Act): SC/ST, trafficking victims, women, children, disabled, industrial workmen, low-income persons; not all OBCs or all senior citizens.",
+  "t": "Senior citizens get free aid only within State income ceilings (Delhi: 2 lakh), not automatically."
+ },
+ "15-062": {
+  "r": "Right to Information is a legal right (RTI Act 2005), not a DPSP. DPSPs: equal pay (39(d)), adequate livelihood (39(a)), prohibition of liquor, right to work."
+ },
+ "15-063": {
+  "r": "Uniform Civil Code → DPSP, Article 44 (State shall endeavour to secure it throughout India). Press freedom, religious freedom, equality before law are Fundamental Rights.",
+  "hi": [
+   "Uniform Civil Code (समान नागरिक संहिता)"
+  ]
+ },
+ "15-064": {
+  "r": "Only prohibition of liquor is a DPSP (Article 47). Bans on child labour in factories, begar or forced labour, and untouchability are Fundamental Rights."
+ },
+ "15-066": {
+  "r": "K.T. Shah: Directive Principles are 'a cheque payable at the bank's convenience'.",
+  "h": "Shah sounds like 'Sahukar' (moneylender): the cheque remark is his."
+ },
+ "15-067": {
+  "r": "National Social Assistance Programme (15 August 1995) → fulfils DPSP on right to work, education, public assistance; includes old age pension, family benefit, maternity benefit schemes."
+ },
+ "15-068": {
+  "r": "In Part IV: equal pay for equal work (39(d)), Uniform Civil Code (44). Not DPSP: small family norm; mother-tongue primary education → Article 350A."
+ },
+ "16-001": {
+  "r": "Fundamental Duties (Article 51-A, Part IV-A; 42nd Amendment 1976, Swaran Singh Committee) are non-justiciable: no legal process to enforce them; not correlative to legal duties.",
+  "hi": [
+   "Fundamental Duties (मौलिक कर्तव्य)"
+  ]
+ },
+ "16-002": {
+  "r": "Fundamental Duties → Part IV-A, Article 51A, added by 42nd Amendment 1976 on Swaran Singh Committee's recommendation; originally 10, now 11.",
+  "h": "Swaran = gold: Swaran Singh gave the golden duties."
+ },
+ "16-004": {
+  "r": "Swaran Singh Committee recommended (1976) Fundamental Duties → 42nd Amendment Act 1976 inserted Article 51A (Part IV-A), in force 3 January 1977; 11th duty (k) added later."
+ },
+ "16-006": {
+  "r": "Article 51A(c), the third duty → uphold and protect the sovereignty, unity and integrity of India. Duties came via the 42nd Amendment."
+ },
+ "16-008": {
+  "r": "42nd Amendment (1976) inserted Article 51A in new Part IV-A → Fundamental Duties of citizens."
+ },
+ "16-013": {
+  "r": "Swaran Singh Committee (1976): 12 members incl. A.R. Antulay, S.S. Ray, C.M. Stephen; Haridev Joshi (Rajasthan CM) was not a member. 42nd Amendment added ten duties."
+ },
+ "16-021": {
+  "r": "Fundamental Duties cannot be enforced by writs; they are moral obligations (patriotism, unity of India), promoted by constitutional methods and usable to interpret ambiguous statutes."
+ },
+ "16-022": {
+  "r": "Voting in elections is not a Fundamental Duty; Article 51A has 11 duties incl. scientific temper, safeguarding public property, abiding by the Constitution."
+ },
+ "16-024": {
+  "r": "Article 51A(a) → abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem."
+ },
+ "16-025": {
+  "r": "Value and preserve the rich heritage of our composite culture → Fundamental Duty, Article 51A(f); separation of judiciary, free education, abolition of untouchability are not duties."
+ },
+ "16-026": {
+  "r": "Striving to abolish untouchability is not a Fundamental Duty; untouchability is dealt with by Article 17, a Fundamental Right (Part III)."
+ },
+ "16-027": {
+  "r": "Organising village panchayats is a DPSP (Article 40), not a Fundamental Duty. Duties: defend country and render national service (51-A(d)), composite culture, public property, abjure violence."
+ },
+ "16-029": {
+  "r": "Fundamental Duties include preserving composite culture, scientific temper and inquiry, striving towards excellence; 'protect weaker sections from social injustice' is not a duty."
+ },
+ "16-030": {
+  "r": "Article 51A(g) → protect and improve natural environment incl. forests, lakes, rivers, wildlife; compassion for living creatures. 51A(a) → respect the National Flag.",
+  "t": "The duty is to respect the National Flag, not 'protect' it; protection of wildlife is the duty asked."
+ },
+ "16-031": {
+  "r": "Citizen's duty to protect and improve the natural environment → Article 51A(g), Part IV-A. (Article 48-A is the State's DPSP on environment.)"
+ },
+ "16-032": {
+  "r": "Fundamental Duties are not part of Fundamental Rights; they form Part IV-A (Article 51A), added by 42nd Amendment 1976; now 11 duties."
+ },
+ "16-033": {
+  "r": "Protecting monuments and places of public importance is not in Article 51A; duties include respecting the National Anthem, safeguarding public property, protecting environment."
+ },
+ "16-034": {
+  "r": "Protecting monuments and places of national importance → DPSP, Article 49, not a Fundamental Duty.",
+  "t": "Don't confuse 'safeguard public property' (duty) with 'protect monuments' (DPSP, Article 49)."
+ },
+ "16-035": {
+  "r": "Respecting parents and teachers is not among the eleven Fundamental Duties; respecting the National Flag, brotherhood and composite culture are."
+ },
+ "16-036": {
+  "r": "Voting in public elections is not a Fundamental Duty. Scientific temper → 51A(h); safeguard public property → 51A(i); abide by Constitution → 51A(a)."
+ },
+ "16-037": {
+  "r": "Wrong pair: Fundamental Duties → Part IV-A (42nd Amendment), not Part V; Part V = Union Executive. Part II Citizenship, III Fundamental Rights, IV DPSP."
+ },
+ "16-038": {
+  "r": "All three correct: separation of judiciary → DPSP (Article 50); preserving composite culture → Fundamental Duty (51A(f)); child employment ban → Fundamental Right (Article 24)."
+ },
+ "16-039": {
+  "r": "Uphold and protect sovereignty, unity and integrity of India → Fundamental Duty, Article 51A(c). Duties added by 42nd and 86th Amendments; now 11."
+ },
+ "16-040": {
+  "r": "Eleven Fundamental Duties; originally 10; 11th (51A(k): parents/guardians give education opportunity to children aged 6 to 14) added by 86th Amendment Act 2002.",
+  "h": "86th gave the 11th: the education duty."
+ },
+ "16-041": {
+  "r": "Respect for international law → Article 51(c) (DPSP); compassion for living creatures → 51A(g); spirit of inquiry and reform → 51A(h); separate judiciary → Article 50.",
+  "t": "Article 51 (DPSP) and Article 51A (Duties) differ by one letter; don't mix them."
+ },
+ "17-001": {
+  "r": "Head of the Indian Republic (Head of State) → President of India; first President Dr. Rajendra Prasad (26 Jan 1950 to 13 May 1962).",
+  "hi": [
+   "President (राष्ट्रपति)"
+  ]
+ },
+ "17-003": {
+  "r": "A true, R false: India's President is indirectly elected, unlike the hereditary British King; but not similar to the US President, who has more power."
+ },
+ "17-004": {
+  "r": "Article 53 → Union executive power vested in the President (A true); R false: he acts directly or through subordinate officers as per the Constitution, so his power is limited."
+ },
+ "17-005": {
+  "r": "Article 53(1) → President exercises Union executive power directly or through officers subordinate to him, per the Constitution. Article 52 → there shall be a President."
+ },
+ "17-006": {
+  "r": "Executive Head of State → President; Article 53 vests the executive power of the Union in the President."
+ },
+ "17-011": {
+  "r": "Both true, R explains A: Article 53 vests Union executive power in the President, who is the constitutional head of the State."
+ },
+ "17-012": {
+  "r": "Both true, R does not explain A: Article 53 vests executive power in the President; Article 77 → all executive action of Government of India taken in the President's name."
+ },
+ "17-013": {
+  "r": "Article 53(2) → supreme command of the Defence Forces vested in the President, but its exercise is regulated by law (not free of legislative control)."
+ },
+ "17-014": {
+  "r": "'Represents the nation but does not lead it' → President (Head of State); the Prime Minister holds real executive power and leads the nation."
+ },
+ "17-015": {
+  "r": "President elected indirectly (Article 54) by an electoral college, through proportional representation by single transferable vote, by secret ballot.",
+  "hi": [
+   "Single transferable vote (एकल संक्रमणीय मत)"
+  ]
+ },
+ "17-027": {
+  "r": "Presidential election cannot be postponed because the electoral college is incomplete (e.g. a dissolved Assembly). Term five years; incumbent continues till successor enters office."
+ },
+ "17-028": {
+  "r": "Presidential nomination needs at least 50 electors as proposers and another 50 as seconders."
+ },
+ "17-029": {
+  "r": "MLA vote value = State population ÷ elected MLAs ÷ one thousand (not ×100); MP vote value = total value of all MLAs' votes ÷ total elected MPs (Article 55)."
+ },
+ "17-030": {
+  "r": "MLA vote value varies by State (Arunachal Pradesh 8, Uttar Pradesh 208); every MP of Lok Sabha and Rajya Sabha has the same vote value."
+ },
+ "17-031": {
+  "r": "Incorrect: MLA votes = multiples of one thousand, not one hundred. Correct: 1971 census basis till first census after 2026 (84th Amendment 2001); PR by single transferable vote."
+ },
+ "17-032": {
+  "r": "2022 Presidential election: Rajasthan MLA vote value = 129 (1971 population 2,57,65,800 ÷ 200 MLAs ÷ 1000 = 128.82). Droupadi Murmu became 15th President."
+ },
+ "17-033": {
+  "r": "Only one correct: nominated members excluded from electoral college; more Assembly seats → lower MLA vote value; values: Madhya Pradesh 131, Kerala 152, Arunachal 8, Puducherry 16."
+ }
 }

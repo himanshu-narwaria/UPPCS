@@ -382,7 +382,9 @@ Also asked: Dr. Rajendra Prasad was elected the Chairman of the Constituent Asse
 Explanation: Dr. Sachchidanand Sinha temporarily chaired the first meeting of the Constituent Assembly, which was held on 9 December, 1946. The Constituent Assembly unanimously elected Dr. Rajendra Prasad as permanent Chairman on 11 December 1946. Dr. Rajendra Prasad’s name was proposed by J.B. Kripalani.
 
 [03-027] Ch3 · Constituent Assembly and making of the Constitution · asked in 3 paper(s): M.P.P.C.S. (Pre) 2025; Uttarakhand U.D.A./L.D.A. (Pre) 2007; M.P.P.C.S. (Pre) 2010
-Q: Statement I: The first meeting of the Constituent. Assembly was held on 9th December, 1946 in New Delhi. Statement II: Jawaharlal Nehru was not invited to the Constituent Assembly. Which of the following options is correct?
+Q: Statement I: The first meeting of the Constituent. Assembly was held on 9th December, 1946 in New Delhi.
+   Statement II: Jawaharlal Nehru was not invited to the Constituent Assembly.
+   Which of the following options is correct?
 Options: (a) Both Statement I and Statement II are true. (b) Both Statement I and Statement II are false. (c) Statement I is true, but Statement II is false. (d) Statement I is false, but Statement II is true.
 Answer: (c) Statement I is true, but Statement II is false.
 Also asked: Who was the Chairman of ‘Constituent Assembly’ of India? -> Dr. Rajendra Prasad
@@ -519,7 +521,12 @@ Answer: (b) 26th November
 Explanation: The Constitution Day of India is celebrated on 26th November since the new Constitution of India was adopted by the Constituent Assembly on 26th November, 1949 and signed by President Rajendra Prasad. Some of the provisions of the Constitution came into force at once, while the remaining provisions of the Constitution came into force on 26th January, 1950, the commencement date of the constitution.
 
 [03-059] Ch3 · Constituent Assembly and making of the Constitution · asked in 1 paper(s): I.A.S. (Pre.) 2023
-Q: Consider the following statements in respect of the Constitution Day: Statement-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens. Statement-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B. R. Ambedkar to prepare a Draft Constitution of India. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements in respect of the Constitution Day:
+   Statement-I:
+   The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens.
+   Statement-II:
+   On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B. R. Ambedkar to prepare a Draft Constitution of India.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (c) Statement-I is correct but Statement-II is incorrect
 Explanation: November 26 marks Constitution Day, also called "Samvidhan Divas," to remember the day on which the Indian Constitution was adopted. In an effort to encourage individuals to uphold the principles of the Constitution, the Indian government decided to declare November 26th as "Constitution Day," which was announced by the Ministry of Social Justice and Empowerment on November 19, 2015. / Among all the committees of the … [shortened in this brief; the book continues]
@@ -533,7 +540,13 @@ Also asked: The Constitution of India was adopted and enacted on – -> 26 Novem
 Explanation: It is explicitly mentioned in the Preamble itself that the Constitution was adopted and enacted by the Constituent Assembly (at its 11th session) on 26 November, 1949.
 
 [03-063] Ch3 · Constituent Assembly and making of the Constitution · asked in 1 paper(s): U.P.P.C.S. (Pre.) 2023
-Q: Consider the following events and arrange these in correct chronological order starting from the earliest to the last activity: (I) Appointment of the Drafting Committee (II) Indian Constitution was adopted and enacted (III) Date of commencement of Indian Constitution (IV) Constitution Assembly first met Select the correct answer from the code given below: Code:
+Q: Consider the following events and arrange these in correct chronological order starting from the earliest to the last activity:
+   (I) Appointment of the Drafting Committee
+   (II) Indian Constitution was adopted and enacted
+   (III) Date of commencement of Indian Constitution
+   (IV) Constitution Assembly first met
+   Select the correct answer from the code given below:
+   Code:
 Options: (a) IV, I, II, III (b) I, II, IV, III (c) IV, I, III, II (d) III, II, I, IV
 Answer: (a) IV, I, II, III
 Explanation: Appointment of the Drafting Committee- 29 August, 1947. The Indian Constitution was adopted and enacted- 26 November, 1949. / Date of commencement of Indian Constitution- 26 January, 1950 Constitution/Constituent Assembly first met- 9 December, 1946 Hence, option (a) is correct answer.
@@ -740,7 +753,7 @@ Explanation: Part IV of the Indian Constitution discusses the Directive Principl
 Q: In giving representation to talent, experience, and service in the composition of the Council of States, the Constitution makers of India were influenced by the example of -
 Options: (a) Irish Republic (b) Canada (c) U.S.A. (d) Australia
 Answer: (a) Irish Republic
-Explanation: The concept offormation of the Rajya Sabha by representation (through nomination) to talent, qualification, experience and service is influenced by the Irish Republic.
+Explanation: The concept of formation of the Rajya Sabha by representation (through nomination) to talent, qualification, experience and service is influenced by the Irish Republic.
 
 [05-017] Ch5 · Sources of the Constitution · asked in 1 paper(s): I.A.S. (Pre) 1993
 Q: Match List-I and List II and give correct answer by using the code given below-
@@ -1049,7 +1062,7 @@ Explanation: Special provision in regard to Financial Bills is provided in Artic
 Q: Which one of the following articles of the Indian Constitution provides for All-Indian Services?
 Options: (a) Article 310 (b) Article 311 (c) Article 312 (d) Article 313
 Answer: (c) Article 312
-Explanation: Article 312 of the Indian Constitution provides for “All India Services.” Ifthe Council of States had declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest for the creation of one or more “All India services,” Parliament may by law provide for one or more All India Services.
+Explanation: Article 312 of the Indian Constitution provides for “All India Services.” If the Council of States had declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest for the creation of one or more “All India services,” Parliament may by law provide for one or more All India Services.
 
 [07-010] Ch7 · Articles of the Constitution · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre) 2008
 Q: Which one of the following pairs (Institutions and Articles of the Constitution) is properly matched?
@@ -1728,7 +1741,7 @@ Explanation: The Preamble reflects the minds of the makers of the Constitution. 
 Q: How many types of justice, liberty, equality and fraternity in that order have been mentioned in the preamble of constitution of India?
 Options: (a) 3, 5, 2, 1 (b) 1, 3, 5, 2 (c) 2, 5, 3, 1 (d) 5, 2, 1, 3
 Answer: (a) 3, 5, 2, 1
-Explanation: The Preamble of the Constitution mentions 3 types of justice, 5 types of liberty, 2 types of equality and one Kind offraternity.
+Explanation: The Preamble of the Constitution mentions 3 types of justice, 5 types of liberty, 2 types of equality and one Kind of fraternity.
 
 [09-007] Ch9 · The Preamble · asked in 1 paper(s): 40thB.P.S.C. (Pre) 1995
 Q: In the context of the Preamble of Indian Constitution which of the following sequence is correct?
@@ -1885,7 +1898,7 @@ Q: Which part of the Indian Constitution has been described as the ‘Soul’ of
 Options: (a) Fundamental Rights (b) Directive Principles of State Policy (c) The Preamble (d) Right to Constitutional Remedies
 Answer: (c) The Preamble
 Also asked: Who among the following called the Preamble of Indian Constitution “the horoscope of our sovereign, democratic republic” -> K.M. Munshi
-Explanation: The Preamble of the Constitution is called the ‘Soul of the Constitution.’ K.M. Munshi, a member of the drafting committee, defined the Preamble as the “Horoscope of our sovereign democratic Republic.” Subhash Kashyap has mentioned that “If Constitution is the body then Preamble is the Soul, Ifthe Preamble is a foundation then Constitution is a structure or building standing on it. / Note: It is notable that Dr. B.R. … [shortened in this brief; the book continues]
+Explanation: The Preamble of the Constitution is called the ‘Soul of the Constitution.’ K.M. Munshi, a member of the drafting committee, defined the Preamble as the “Horoscope of our sovereign democratic Republic.” Subhash Kashyap has mentioned that “If Constitution is the body then Preamble is the Soul, If the Preamble is a foundation then Constitution is a structure or building standing on it. / Note: It is notable that Dr. B.R. … [shortened in this brief; the book continues]
 
 [09-040] Ch9 · The Preamble · asked in 1 paper(s): M.P.P.C.S. (Pre) 2015
 Q: Who has termed Constitution a sacred document?
@@ -2580,7 +2593,12 @@ Also asked: On which day the design of the National flag of India was adopted? -
 Explanation: The National Flag is rectangular and consists of three colours. The ratio of the length of the Flag to its width is 3:2. The constituent assembly adopted the National Flag's present design on 22nd July, 1947.
 
 [11-010] Ch11 · National Symbols · asked in 2 paper(s): I.A.S. (Pre.) 2023; Uttarakhand Lower Sub. (Pre) 2010
-Q: Consider the following statements in respect of the National Flag of India according to the Flag Code of India, 2002: Statement-I: One of the standard sizes of the National Flag of India is 600 mm × 400 mm. Statement-II: The ratio of the length to the height (width) of the Flag shall be 3:2. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements in respect of the National Flag of India according to the Flag Code of India, 2002:
+   Statement-I:
+   One of the standard sizes of the National Flag of India is 600 mm × 400 mm.
+   Statement-II:
+   The ratio of the length to the height (width) of the Flag shall be 3:2.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (d) Statement-I is incorrect but Statement-II is correct
 Also asked: The total number of spokes in the National Flag of India is – -> 24
@@ -2843,7 +2861,7 @@ Answer: (d) None of these
 Explanation: The power to form a new State, by the separation of territory from any State, has been given to the Parliament under Article 3 of the Constitution. Thus option (d) is correct.
 
 [12-041] Ch12 · States and the Union Territories · asked in 1 paper(s): U.P.P.C.S. (Pre) 2021
-Q: Consider the formation offollowing States and arrange these in chronological order:
+Q: Consider the formation of following States and arrange these in chronological order:
    | I. Goa | II. | Telangana |
    | III. Jharkhand | IV. Haryana |
    Select the correct answer from the codes given below:

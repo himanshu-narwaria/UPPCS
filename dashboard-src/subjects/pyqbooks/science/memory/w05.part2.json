@@ -1,0 +1,353 @@
+{
+ "30-001": {
+  "r": "Formic acid (HCOOH) is a stronger acid than acetic acid (CH3COOH): acetic acid's electron-donating methyl group makes losing H+ harder. Both are organic acids."
+ },
+ "30-002": {
+  "r": "HOOC–COOH → oxalic acid (ethanedioic acid), the simplest dicarboxylic acid; found in many vegetables and plants; stronger than acetic acid."
+ },
+ "30-003": {
+  "r": "Muscle fatigue after long hard work → accumulation of lactic acid in the muscles; rest (and massage) relieves it.",
+  "hi": [
+   "Lactic acid (लैक्टिक अम्ल)"
+  ]
+ },
+ "30-006": {
+  "r": "Lemon's sourness → citric acid (up to 8% of dry weight in lemons and limes). Vinegar → acetic acid; tamarind → tartaric acid.",
+  "hi": [
+   "Citric acid (साइट्रिक अम्ल)"
+  ]
+ },
+ "30-008": {
+  "r": "Lactic acid → milk; acetic acid → vinegar; citric acid → lemon; butyric acid → rancid butter."
+ },
+ "30-010": {
+  "r": "Not matched: acetic acid – potato (acetic acid → vinegar; potato has citric, oxalic, malic acids). Correct: lactic acid – curd; tartaric acid – grapes."
+ },
+ "30-011": {
+  "r": "Wrong pair: lactose – sour milk → sour milk has lactic acid (from fermented lactose, the milk sugar). Correct: carbonic acid – soda water; formic acid – red ants.",
+  "t": "Lactose (milk sugar) ≠ lactic acid (sour milk)."
+ },
+ "30-012": {
+  "r": "Wrong pair: acetic acid – curd → curd has lactic acid. Correct: ascorbic acid (vitamin C) – lemon; maltose – malt; formic acid – red ant (and bee stings)."
+ },
+ "30-013": {
+  "r": "Pickle → acetic acid; sour milk → lactic acid; apple → malic acid; cold drinks and soda water → carbonic acid."
+ },
+ "30-014": {
+  "r": "Vinegar → acetic acid; tamarind → tartaric acid; sour milk/curd → lactic acid; nettle sting → methanoic (formic) acid."
+ },
+ "30-015": {
+  "r": "Wrong pair: souring of milk – nitric acid → lactic acid sours milk. Correct: vinegar – acetic acid; bones – calcium phosphate; gastric juice – hydrochloric acid."
+ },
+ "30-016": {
+  "r": "Milk left open turns sour → lactic acid; lactobacillus bacteria ferment lactose (milk sugar) into lactic acid."
+ },
+ "30-018": {
+  "r": "Milk → curd: lactobacillus bacteria (at about 30-40°C) convert lactose into lactic acid, giving the sour taste; curd making is a bacterial biotechnological process.",
+  "hi": [
+   "Curd (दही)"
+  ]
+ },
+ "30-020": {
+  "r": "Predominant organic acid in grapes → tartaric acid, a white crystalline diprotic acid."
+ },
+ "30-021": {
+  "r": "Tomatoes → rich in citric acid (with malic acid); oxalic acid only in small amounts."
+ },
+ "30-022": {
+  "r": "Acid abundant in grapes, tamarind and banana → tartaric acid; used in food as regulator and antioxidant.",
+  "h": "Tartaric = Tamarind (both start with 'Ta')."
+ },
+ "30-023": {
+  "r": "Acid used in photography → oxalic acid. Formic acid → ants; citric acid → lemon; acetic acid → vinegar."
+ },
+ "30-024": {
+  "r": "Baking powder → tartaric acid combined with baking soda as a leavening agent; tartaric acid is also a main acid in wine."
+ },
+ "30-025": {
+  "r": "Odour of acetic acid (CH3COOH) → like vinegar; vinegar is mainly acetic acid and water."
+ },
+ "30-026": {
+  "r": "Vinegar → solution of acetic acid (ethanoic acid, CH3COOH), which gives its sour taste and pungent smell; made by fermenting ethanol.",
+  "hi": [
+   "Vinegar (सिरका)"
+  ]
+ },
+ "30-028": {
+  "r": "Vinegar → acetic acid (CH3COOH) + water; acetic acid bacteria ferment ethanol (from sugarcane juice, molasses); used in cooking and as a preservative."
+ },
+ "30-032": {
+  "r": "Glycine (NH2CH2COOH) → not optically active: its central carbon carries 2 hydrogen atoms, so no carbon has four different groups. Alanine and serine are optically active."
+ },
+ "31-001": {
+  "r": "Most explosions in mines → methane + air mixture; methane is explosive at about 5–15% in air.",
+  "hi": [
+   "Explosion (विस्फोट)"
+  ]
+ },
+ "31-002": {
+  "r": "Not an explosive → nitrochloroform (chloropicrin): a fungicide, herbicide, insecticide and tear gas (poison gas in World War I). TNT, trinitroglycerine and RDX are explosives."
+ },
+ "31-004": {
+  "r": "'Nobel oil' → trinitroglycerin (TNG), an explosive fluid (an organic nitrate)."
+ },
+ "31-005": {
+  "r": "RDX (Research Department Explosive, cyclonite) → discovered by George Friedrich Henning of Germany, patented 1898; used from World War II."
+ },
+ "31-006": {
+  "r": "Correct statement: RDX is an explosive → cyclotrimethylenetrinitramine, also called cyclonite, hexogen, T4; more powerful than TNT, widely used in World War II.",
+  "t": "TNT and RDX are explosives, not insecticides."
+ },
+ "31-008": {
+  "r": "HMX → High Melting Explosive (octogen), a powerful, relatively insensitive nitroamine explosive related to RDX.",
+  "c": "The book calls HMX a colourless liquid; HMX is a colourless crystalline solid."
+ },
+ "31-009": {
+  "r": "CL-20, HMX and LLM-105 → all explosives in military weapons; CL-20 and HMX are also rocket/missile propellants, LLM-105 purely a military explosive."
+ },
+ "31-010": {
+  "r": "Explosive → nitroglycerine: heavy, colourless, oily liquid; also called trinitroglycerol (TNG) or glyceryl trinitrate (GTN)."
+ },
+ "31-011": {
+  "r": "No nitroglycerine → amatol (ammonium nitrate + TNT); cordite, blasting gelatine and dynamite all contain nitroglycerine.",
+  "h": "AMATOL = AMmonium nitrate + TOL (trinitrotoluene)."
+ },
+ "31-012": {
+  "r": "Glycerol + conc. HNO3 + conc. H2SO4 → nitroglycerin (glyceryl trinitrate, Nobel's oil), used in explosives such as dynamite."
+ },
+ "32-001": {
+  "r": "Natural fuel → petroleum (formed from fossils inside the Earth); coke and tar come from destructive distillation, coal gas is made artificially."
+ },
+ "32-002": {
+  "r": "Cleanest fossil fuel → natural gas; gives less carbon and other emissions than coal and other fossil fuels."
+ },
+ "32-003": {
+  "r": "Fossil fuels → coal, oil and natural gas, formed from organic matter over millions of years; finite. Alcohol, ether and water gas are not fossil fuels.",
+  "hi": [
+   "Fossil fuel (जीवाश्म ईंधन)"
+  ]
+ },
+ "32-004": {
+  "r": "Highest fuel (calorific) value → hydrogen, about 150,000 kJ/kg; used as rocket fuel.",
+  "hi": [
+   "Calorific value (ऊष्मीय मान)"
+  ]
+ },
+ "32-005": {
+  "r": "Indian coal power plants: many coastal ones use seawater (e.g. Mundra, Gujarat); about 48% are in water-scarce districts (CSE 2021); private ones exist (Adani Power) → none correct."
+ },
+ "32-006": {
+  "r": "All correct: coal ash has arsenic, lead, mercury; coal plants emit sulfur dioxide and nitrogen oxides; Indian coal has high ash (25 to 45%, imported 10 to 20%)."
+ },
+ "32-007": {
+  "r": "Coal gasification (syngas) → can give ethanol and urea (via ammonia); not nitroglycerine, which comes from nitrating glycerin → only two.",
+  "hi": [
+   "Coal gasification (कोयला गैसीकरण)"
+  ]
+ },
+ "32-008": {
+  "r": "Copper smelting concerns → sulfur dioxide emission and slag that leaches heavy metals (arsenic, lead, cadmium, nickel); not lethal carbon monoxide → 2 and 3."
+ },
+ "32-009": {
+  "r": "Maximum indoor chemical pollution (among mosquito coil, coal, cooking gas, room spray) → burning coal."
+ },
+ "32-010": {
+  "r": "Coke in a blast furnace → fuel that supplies heat and reducing agent that removes oxygen from iron oxide (as CO and CO2) → statements 1, 3.",
+  "t": "Coke is a reducing agent, not an oxidizing agent."
+ },
+ "32-011": {
+  "r": "Furnace oil → residue of crude oil distillation (refinery product); used for power generation in boilers, ships, industry; its sulfur causes SOx emissions → all 3 correct."
+ },
+ "32-012": {
+  "r": "Both wrong: fuel from plastic waste has HIGH octane rating (lead-free 'green fuel'); HIGHER octane number = more compression withstood without detonating."
+ },
+ "32-013": {
+  "r": "Octane number → quality of petrol: antiknock quality compared with iso-octane; higher octane number = better anti-knocking.",
+  "t": "Octane number → petrol; cetane number → diesel."
+ },
+ "32-015": {
+  "r": "Octane booster → tetraethyl lead (reduced knocking); it is no longer added to normal motor petrol, unleaded octane-boosters are used now."
+ },
+ "32-016": {
+  "r": "Anti-knocking agent in petrol → tetraethyl lead (TEL); its lead forms lead oxide (PbO), stopping the fuel mixture from burning too quickly."
+ },
+ "32-018": {
+  "r": "Cetane number → quality parameter of diesel (as octane number is for petrol); diesel ignites by compression, no spark.",
+  "h": "Diesel–Cetane, Petrol–Octane."
+ },
+ "32-019": {
+  "r": "Diesel engine fuel → diesel vapour + air; ignition comes from the heat of highly compressed air, with no spark or carburettor.",
+  "c": "The book says the compressed air reaches about 80°F; that is roughly room temperature. Compression actually makes the air hot enough to ignite diesel."
+ },
+ "32-020": {
+  "r": "Cooking gas (as asked) → methane, the chief component of biogas (gobar gas) used at home."
+ },
+ "32-021": {
+  "r": "Fuel gas from a biogas plant → methane; methane is also the main component of natural gas."
+ },
+ "32-022": {
+  "r": "Biogas (anaerobic breakdown of organic matter) → mainly methane (about 50%-70%) and carbon dioxide (about 30%-50%); small hydrogen sulfide and moisture.",
+  "hi": [
+   "Biogas (जैव गैस)",
+   "Anaerobic (अवायवीय)"
+  ]
+ },
+ "32-027": {
+  "r": "Biogas (gobar gas) plant → works by fermentation of cattle dung and other wastes."
+ },
+ "32-028": {
+  "r": "The book gives no single answer (*): the first gobar gas pilot plant was designed by S.V. Desai at IARI, New Delhi, in 1941-42.",
+  "t": "The option names 'C.B. Desai'; the book's name is S.V. Desai."
+ },
+ "32-029": {
+  "r": "Gas from rice fields → methane (CH4), a potent greenhouse gas made by anaerobic bacteria in flooded soil; also small amounts of nitrous oxide."
+ },
+ "32-030": {
+  "r": "LPG (Liquefied Petroleum Gas) → hydrocarbons of 3-4 carbons: mainly butane (about 65%) and propane (about 35%), small ethane; main constituent butane.",
+  "hi": [
+   "Liquefied Petroleum Gas (द्रवित पेट्रोलियम गैस)"
+  ]
+ },
+ "32-035": {
+  "r": "Indane gas (LPG) → mixture of butane and propane."
+ },
+ "32-036": {
+  "r": "LPG leak smell → ethyl mercaptan, added because LPG (butane + propane) is itself odourless.",
+  "t": "The smell is not from butane or propane."
+ },
+ "32-037": {
+  "r": "CNG → methane, ethane; LPG → butane, propane; coal gas → hydrogen, methane, carbon monoxide; water gas → carbon monoxide + hydrogen."
+ },
+ "32-038": {
+  "r": "A false: LPG is mainly propane and butane, not methane. R true: methane (e.g. in biogas) can be burnt directly and piped to homes and factories."
+ },
+ "32-039": {
+  "r": "No pressure gauge on domestic LPG cylinders → gas is stored as a liquid, so a gauge cannot show the quantity left."
+ },
+ "32-041": {
+  "r": "Natural gas → mainly methane (CH4) with small amounts of higher alkanes; odourless; used as CNG and LNG."
+ },
+ "32-043": {
+  "r": "CNG → Compressed Natural Gas: natural gas compressed to less than 1% of its volume at standard atmospheric pressure; alternative to petrol."
+ },
+ "32-044": {
+  "r": "CNG (used in vehicles to cut pollution) → mainly methane (CH4), about 80% to 90%."
+ },
+ "32-047": {
+  "r": "Only 1 true: LNG is natural gas (mainly methane) liquefied by cooling to about –162°C for storage/transport. India's first LNG terminal → Dahej, Gujarat, not Hassan."
+ },
+ "32-048": {
+  "r": "Oxygen is absent in kerosene, a petroleum hydrocarbon mixture; glass, soil and cement contain oxygen."
+ },
+ "32-049": {
+  "r": "Gasohol → petrol (gasoline) + ethyl alcohol (ethanol); higher octane, burns slowly, coolly and completely."
+ },
+ "32-051": {
+  "r": "True: coal, petroleum, natural gas are fossil fuels; geothermal energy is non-conventional; gobar gas is mainly methane. False: gasohol is petrol + ethanol, not benzene."
+ },
+ "32-052": {
+  "r": "Anti-freeze in automobile engines → ethylene glycol; it lowers the freezing point (and raises the boiling point) of the coolant."
+ },
+ "32-053": {
+  "r": "Diesel in heavy vehicles → high power with economic saving; diesel engines are rugged, durable and fuel-efficient."
+ },
+ "32-054": {
+  "r": "Carburettor (mixes air and fuel) → used in petrol engines, not diesel; largely replaced by fuel injection since the 1990s."
+ },
+ "32-055": {
+  "r": "Catalytic converter catalysts → platinum, palladium and rhodium; they change harmful exhaust gases into less harmful ones."
+ },
+ "32-056": {
+  "r": "Book's key for fuel efficiency → radial tyres (less rolling resistance), multipoint fuel injection, catalytic converter → 1, 3, 4.",
+  "c": "Radial tyres, a streamlined body and fuel injection all save fuel, while a catalytic converter only cleans exhaust. No option gives 1, 2 and 3, so the book keeps (d) 'according to the options'."
+ },
+ "32-057": {
+  "r": "Sustainable Aviation Fuel (SAF, low-carbon biofuel) feedstock → all four: agricultural residues, corn grain, wastewater sludge, wood mill waste."
+ },
+ "32-058": {
+  "r": "Hydrogen fuel cell electric vehicles (FCEVs) → exhaust emits only water vapour (and warm air); no harmful tailpipe emissions."
+ },
+ "32-059": {
+  "r": "Hydrogen fuel for vehicles → stored by absorbing it in a hydride (palladium hydride) at very low temperature; released by exhaust heat."
+ },
+ "32-060": {
+  "r": "Petroleum refining by-product → asphalt (bitumen), sticky black viscous material; binder in road construction and used in waterproofing.",
+  "hi": [
+   "Bitumen (डामर)"
+  ]
+ },
+ "32-061": {
+  "r": "'Hydrocarbon Vision 2025' → storage of petroleum products and long-term energy security via self-reliance (more domestic production, equity oil abroad)."
+ },
+ "33-001": {
+  "r": "Wax emulsion on fruits and vegetables → extends storage life (about 10 to 12 days); carries sprout inhibitors, growth regulators and preservatives."
+ },
+ "33-002": {
+  "r": "Food (and fruit juice) preservative → sodium benzoate, sodium salt of benzoic acid, E number E211.",
+  "hi": [
+   "Preservative (परिरक्षक)"
+  ]
+ },
+ "33-006": {
+  "r": "Food preservation → benzoic acid (simple aromatic carboxylic acid); its salts such as sodium benzoate are food preservatives."
+ },
+ "33-007": {
+  "r": "Potato chips packed in nitrogen → prevents oxidation; without oxygen bacteria and moulds cannot grow, so shelf life is longer."
+ },
+ "33-008": {
+  "r": "MSG (monosodium glutamate, 'Ajinomoto', sodium salt of glutamic acid) → flavour enhancer (umami) and preserver; book accepts both (b) and (c)."
+ },
+ "33-009": {
+  "r": "Fruits last longer in cold storage → respiration rate falls, so less ethylene ('fruit-ripening hormone') and slower ripening."
+ },
+ "33-010": {
+  "r": "Refrigeration preserves food → slows biochemical reactions and the growth of microorganisms.",
+  "t": "Refrigeration slows germs down; it does not kill them."
+ },
+ "33-011": {
+  "r": "Domestic refrigerator refrigerant → Freon (DuPont trade name), a stable, mildly toxic halocarbon."
+ },
+ "33-012": {
+  "r": "Triclosan (antibacterial chemical) → found in toiletries: antibacterial soaps, body washes, toothpastes, cosmetics; US FDA banned it in consumer antiseptic washes (2016)."
+ },
+ "33-013": {
+  "r": "Decolourising raw sugar → animal (bone) charcoal, used in sugar refining for filtration, decolourising and de-ashing."
+ },
+ "33-014": {
+  "r": "Main component of honey → fructose (38.2%); glucose 31.3%, water 17.2%, maltose 7.1%, sucrose 1.3%."
+ },
+ "33-015": {
+  "r": "Sweetest natural sugar → fructose (140-170 on a scale where sucrose = 100); glucose 70-80, maltose 30-50, lactose 20.",
+  "hi": [
+   "Fructose (फ्रक्टोज़)"
+  ]
+ },
+ "33-016": {
+  "r": "Invert sugar (sucrose hydrolysed into glucose + fructose) is sweeter than sucrose because of free fructose → A and R true, R not the explanation."
+ },
+ "33-017": {
+  "r": "Grape sugar → glucose; fruit sugar → fructose; milk sugar → lactose; table sugar → sucrose; stevia → natural sweetener."
+ },
+ "33-018": {
+  "r": "All four correctly matched: beet → sugar; honey → glucose and fructose; cotton → cellulose; milk → lactose."
+ },
+ "33-019": {
+  "r": "Aspartame → about 200 times sweeter than sucrose; it gives four kcal per gram, but so little is needed that its calories are negligible."
+ },
+ "33-020": {
+  "r": "Sweetness vs sucrose → alitame 2000 times (highest); sucralose 600; saccharin 200-700; aspartame 200."
+ },
+ "33-021": {
+  "r": "Most useful classification of drugs in medicinal chemistry → by molecular targets (drug targets: carbohydrates, lipids, proteins, nucleic acids)."
+ },
+ "33-022": {
+  "r": "Aspirin (a salicylate) → book: obtained from a tree; reduces pain, fever and inflammation; used against heart attacks and strokes.",
+  "c": "Aspirin's tree link is willow bark, whose salicin led to it, not a 'latex tree'; aspirin itself is made by chemical synthesis from salicylic acid."
+ },
+ "33-023": {
+  "r": "Aspirin → antipyretic (lowers fever) and analgesic (relieves pain).",
+  "hi": [
+   "Antipyretic (ज्वरनाशी)"
+  ]
+ }
+}

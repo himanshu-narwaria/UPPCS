@@ -1483,7 +1483,7 @@ Explanation: The correctly matched list is as follows – / | Author | Book | / 
 Q: The famous book, "Das Capital" was written by:
 Options: (a) Amartya Sen (b) Karl Marx (c) Gandhiji (d) Jawaharlal Nehru
 Answer: (b) Karl Marx
-Explanation: Das Capital is one of the major works of the 19th-century economist and philosopher, Karl Marx in which he expounded his theory of the capitalist system, its dynamism, and its tendencies toward self-destruction. He described his purpose as to lay bare “the economic law ofmotion of modern society.” The second and third volumes were published posthumously, edited by his collaborator Friedrich Engels.
+Explanation: Das Capital is one of the major works of the 19th-century economist and philosopher, Karl Marx in which he expounded his theory of the capitalist system, its dynamism, and its tendencies toward self-destruction. He described his purpose as to lay bare “the economic law of motion of modern society.” The second and third volumes were published posthumously, edited by his collaborator Friedrich Engels.
 
 [93-071] Ch93 · Magazines, Books and Their Authors · asked in 1 paper(s): Jharkhand P.C.S. (Pre) 2023
 Q: Which of the following books has not been written by Dr. Ambedkar?
@@ -2591,7 +2591,7 @@ Explanation: Tabligi Ijtima is an important festival of Muslims in Bhopal.
 Q: "Navarathri" is celebrated as Saraswathi Pooja in the following state:
 Options: (a) Kerala (b) Karnataka (c) Tamil Nadu (d) Telangana
 Answer: *
-Explanation: Navarathri is celebrated as Saraswati Pooja in all 4 states of Kerala, Karnataka, Tamil Nadu & Telangana. In Tamil Nadu first three days offestival are dedicated to Goddess Lakshmi, next three days to Durga and last three to Saraswati. In Kerala Mahanavami is celebrated as Saraswati Pooja, same is the case with Telangana and Karnataka. However, Aayog has accepted (a) Kerala as right answer.
+Explanation: Navarathri is celebrated as Saraswati Pooja in all 4 states of Kerala, Karnataka, Tamil Nadu & Telangana. In Tamil Nadu first three days of festival are dedicated to Goddess Lakshmi, next three days to Durga and last three to Saraswati. In Kerala Mahanavami is celebrated as Saraswati Pooja, same is the case with Telangana and Karnataka. However, Aayog has accepted (a) Kerala as right answer.
 
 [94-027] Ch94 · Art and Culture · asked in 1 paper(s): M.P.P.C.S. (Pre) 2005
 Q: Who was the grandfather of Arjun, the hero of Mahabharata?
@@ -2752,7 +2752,7 @@ Q: With reference to Dhrupad, one of the major traditions of India that has been
    Select the correct answer using the codes given below:
 Options: (a) 1 and 2 (b) 2 and 3 (c) 1, 2 and 3 (d) None of these
 Answer: (b) 2 and 3
-Explanation: Dhrupad is the Indian classical music that traces its origin to the chanting of Vedic hymns and mantras. It was originated by King of Gwalior Man Singh Tomar (1486-1516). Hence, Dhrupad was originated way back before Mughal Period. Hence statement 1 is wrong. It is also primarily a form of worship, in which offerings are made to the divine through sound. Thus Statement 2 is correct. Dhrupad is performed in two … [shortened in this brief; the book continues]
+Explanation: Dhrupad is the Indian classical music that traces its origin to the chanting of Vedic hymns and mantras. It was originated by King of Gwalior Man Singh Tomar (1486-1516). Hence, Dhrupad was originated way back before Mughal Period. Hence statement 1 is wrong. It is also primarily a form of worship, in which offerings are made to the divine through sound. Thus / Statement 2 is correct. Dhrupad is performed in two … [shortened in this brief; the book continues]
 
 [94-049] Ch94 · Art and Culture · asked in 1 paper(s): I.A.S. (Pre) 2009
 Q: The brothers Umakant and Ramakant Gundecha are:
@@ -3319,7 +3319,7 @@ Explanation: A musical instrument called Sitar was invented by Amir Khusrau. It 
 Q: Which one of the following pairs of folk dance forms and States is not correctly matched?
 Options: (a) Korku - Maharashtra (b) Jhumar - Haryana (c) Thali - Himachal Pradesh (d) Mukna - Manipur
 Answer: (c) Thali - Himachal Pradesh
-Explanation: Korku and Jhumar are the folk dances of Maharashtra and Haryana respectively. Mukna is a form offolk wrestling from the northeastern Indian state of Manipur. Thali folk dance belongs to Uttarakhand, not Himachal Pradesh.
+Explanation: Korku and Jhumar are the folk dances of Maharashtra and Haryana respectively. Mukna is a form of folk wrestling from the northeastern Indian state of Manipur. Thali folk dance belongs to Uttarakhand, not Himachal Pradesh.
 
 [94-116] Ch94 · Art and Culture · asked in 2 paper(s): Uttaranchal P.C.S. (Pre) 2002; M.P.P.C.S. (Pre) 1995
 Q: Kuchipudi dance started in-
@@ -3828,7 +3828,7 @@ Explanation: J. R. D. Tata and Satyajit Ray were awarded ‘Bharat Ratna’ in 1
 
 [95-027] Ch95 · Award · asked in 1 paper(s): Uttarakhand P.C.S. (Pre) 2006
 Q: Who was the first woman recipient of Vyas Samman?
-Options: (a) Chitra Mudgal (b) Prabha Khetan (c) Malti Joshi (d) Mannu Bhandari
+Options: (a) Chitra Mudgal (b) Prabha(.) Khetan (c) Malti Joshi (d) Mannu Bhandari
 Answer: (a) Chitra Mudgal
 Explanation: Noted Hindi fiction writer, Chitra Mudgal has been awarded prestigious ‘Vyas Samman in 2003 for her novel ‘Avaan’. She was the first woman recipient of ‘Vyas Samman.’
 

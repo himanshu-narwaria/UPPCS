@@ -135,7 +135,7 @@ Explanation: The estimation of poverty at the National and State level had been 
 Q: Which of the following committees was set up in India for identification of BPL families in Urban Areas?
 Options: (a) Tendulkar Committee (b) Saxena Committee (c) Lakdawala Committee (d) Hashim Committee
 Answer: (d) Hashim Committee
-Explanation: The Planning Commission constituted an Expert Group in 2010 under the Chairmanship of Prof. S.R. Hashim for identification of BPL (Below Poverty Line) households in urban areas based on a threefold methodology ofresidential, social and occupational vulnerabilities.
+Explanation: The Planning Commission constituted an Expert Group in 2010 under the Chairmanship of Prof. S.R. Hashim for identification of BPL (Below Poverty Line) households in urban areas based on a threefold methodology of residential, social and occupational vulnerabilities.
 
 [12-034] Ch12 · Poverty & Unemployment · asked in 1 paper(s): U.P. Lower Sub. (Pre) 1998
 Q: Consider the following statements:
@@ -520,7 +520,7 @@ Answer: (a) Both (A) and (R) are true and (R) is the correct explanation of (A).
 Explanation: People tend to migrate from rural areas to urban areas in search of jobs. On the other hand, the level of education is normally low in rural areas, this is why the people migrated from rural to urban areas get poor jobs, where they remain poor and also increase the concentration of poverty in urban areas. Therefore, Assertion (A) and Reason (R) both are true and Reason explicitly explains Assertion.
 
 [12-094] Ch12 · Poverty & Unemployment · asked in 2 paper(s): U.P.P.C.S. (Pre) 2003; U.P.U.D.A./L.D.A.(Pre) 2001
-Q: As per the number of employed males per thousand in urban areas in year 1999-2000, put the name offollowing States in descending order: A. Meghalaya B. Nagaland C. Assam D. West Bengal Select the correct answer from the codes given below:
+Q: As per the number of employed males per thousand in urban areas in year 1999-2000, put the name of following States in descending order: A. Meghalaya B. Nagaland C. Assam D. West Bengal Select the correct answer from the codes given below:
 Options: (a) D, C, A, B (b) A, B, C, D (c) D, C, B, A (d) D,A, C, B
 Answer: (c) D, C, B, A
 Explanation: As per the question period, option (c) was the correct answer. In present scenario the data of the year 1999-2000 are unavailable and irrelevant. As per the updated data of PLFS Report for year 2022-23, Labour Force Participation Rate for age 15 years and above at Usual Status in urban areas of given States are as follows: / Labour Force Participation Rate (%): Urban State / | Male | Female | Persons | / | Assam | 75.6 | … [shortened in this brief; the book continues]
@@ -691,7 +691,10 @@ Answer: (c) 22 percent
 Explanation: The export of goods and services from India as a percentage of India's Gross Domestic Product in 2010-11 was about 22 percent. According to the World Bank data, the exports of goods and services from India as percentage of GDP is 21.9% and imports of goods and services by India as percentage of GDP is 24% in the year 2023, while they were at 23.2% and / 26.8% respectively in 2022.
 
 [13-012] Ch13 · International Trade · asked in 1 paper(s): I.A.S. (Pre) 2023
-Q: Consider the following statements: Statement-I: India accounts for 3.2% of global export of goods. Statement-II: Many local companies and some foreign companies operating in India have taken advantage of India's 'Production Linked Incentive' scheme. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I: India accounts for 3.2% of global export of goods.
+   Statement-II: Many local companies and some foreign companies operating in India have taken advantage of India's 'Production Linked Incentive' scheme.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (d) Statement-I is incorrect but Statement-II is correct
 Explanation: India accounts for 1.8% of global exports of goods in 2021 and also in 2022. Hence, Statement-I is incorrect. / The 'Production Linked Incentive' (PLI) scheme offers companies incentives on incremental sales from products manufactured in India. It aims to attract foreign companies to set up units in India while encouraging local companies to expand their manufacturing units, generate more employment, and reduce the … [shortened in this brief; the book continues]
@@ -752,7 +755,7 @@ Explanation: Major trading partners of India in the year 2006-07 were as follows
 Q: Which of the following countries is India'stop trading partner in 2019-20?
 Options: (a) USA (b) China (c) UAE (d) Saudi Arabia (e) None of the above/More than one of the above
 Answer: (a) USA
-Also asked: India has the maximum volume offoreign trade with: -> *
+Also asked: India has the maximum volume of foreign trade with: -> *
 Also asked: At present, which country of the following is the largest partner of India in total international trade? -> China
 Explanation: As per the data available on the website of Ministry of Commerce and Industry India'stop trading partner in 2019- 20 was USA, while China and UAE were at 2nd and 3rd place, respectively. In year 2021-22 and 2022-23, India'stop 3 trading partners were: 1. USA, 2. China, 3. UAE, while in 2023-24 China has taken top spot as India's largest trading partner. USA and UAE are at 2nd and 3rd place, respectively.
 
@@ -846,7 +849,7 @@ Explanation: The net export is the difference between the monetary value of a na
 
 [13-043] Ch13 · International Trade · asked in 1 paper(s): M.P.P.C.S. (Pre) 2015
 Q: The payment of foreign trade is related with:
-Options: (a) The merits of import (b) The merits of export (c) The multiplier offoreign trade (d) Balance of Payment
+Options: (a) The merits of import (b) The merits of export (c) The multiplier of foreign trade (d) Balance of Payment
 Answer: (d) Balance of Payment
 Explanation: Imports and Exports both are included in foreign trade. So that, Balance of Payment can't be related alone with 'the merits of imports' or 'the merits of exports'. While the multiplier of foreign trade defines the amount by which the national income of a country will be raised by a unit increase in exports. Balance of payment is a account of international transactions (in which foreign trade is included) of any … [shortened in this brief; the book continues]
 
@@ -868,7 +871,7 @@ Explanation: Balance of Payment (BoP) includes all of three: visible trade, invi
 Q: With reference to Balance of Payments, which of the following constitutes/constitute the Current Account?
    1. Balance of trade
    2. Foreign assets
-   3. Balance ofinvisibles
+   3. Balance of invisibles
    4. Special Drawing Rights
    Select the correct answer using the code given below.
 Options: (a) 1 only (b) 2 and 3 (c) 1 and 3 (d) 1, 2 and 4
@@ -897,7 +900,7 @@ Q: India spends the maximum foreign exchange on the import of which item?
 Options: (a) Petroleum products (b) Fertilizers (c) Armaments (d) Power house machinery
 Answer: (a) Petroleum products
 Also asked: Which of the following items is most significant item of Indian imports in terms of value at present? -> Petrol and petroleum products
-Explanation: As per the question period, and at present (According to the Ministry of Commerce and Industry, Government of India), India spends the largest amount offoreign exchange for import of petroleum products. In the year 2022-23, the import value of Petroleum, Crude and Products was at US $ 209418 million. India's import of Petroleum, Crude and Products during the year 2022-23 accounted for about 29.4% of India's total … [shortened in this brief; the book continues]
+Explanation: As per the question period, and at present (According to the Ministry of Commerce and Industry, Government of India), India spends the largest amount of foreign exchange for import of petroleum products. In the year 2022-23, the import value of Petroleum, Crude and Products was at US $ 209418 million. India's import of Petroleum, Crude and Products during the year 2022-23 accounted for about 29.4% of India's total … [shortened in this brief; the book continues]
 
 [13-054] Ch13 · International Trade · asked in 2 paper(s): U.P. Lower Sub. (Spl.) (Pre) 2004; U.P.P.C.S. (Spl.) (Mains) 2004
 Q: Which one of the following has been the most important item in the total imports of India in recent years?
@@ -1123,7 +1126,10 @@ Answer: (c) Kenya
 Explanation: As per the question period as well as at present, Kenya is the largest tea exporting country of the world. According to the data released by Tea Board of India, top four tea exporting countries in the years 2021 and 2022 are as follows: Kenya > China > Sri Lanka > India.
 
 [13-091] Ch13 · International Trade · asked in 1 paper(s): I.A.S. (Pre) 2023
-Q: Consider the following statements: Statement-I: Switzerland is one of the leading exporters of gold in terms of value. Statement-II: Switzerland has the second largest gold reserves in the world. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I: Switzerland is one of the leading exporters of gold in terms of value.
+   Statement-II: Switzerland has the second largest gold reserves in the world.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (c) Statement-I is correct but Statement-II is incorrect
 Explanation: As per the OEC (The Observatory of Economic Complexity) World data, in 2022, Switzerland exported USD 101 billion in gold, making it the largest exporter of gold in the world. Switzerland is consistently the world's leading gold exporting country based on value. Hence, Statement-I is correct. As per the data of Indian Minerals Yearbook, 2022 (based on USGS, Mineral Commodity Summaries, 2022), top 5 countries with … [shortened in this brief; the book continues]
@@ -1561,7 +1567,7 @@ Explanation: In January 2002, China and Bangladesh signed a bilateral Free Trade
 Q: Which country among the following used maximum number of anti-dumping measures during 1995-2005?
 Options: (a) USA (b) China (c) European Community Countries (d) India
 Answer: (d) India
-Explanation: Dumping is said to occur when the goods are exported by a country to another country at a price lower than its normal value. This is an unfair trade practice which can have a distortive effect on international trade. Anti-dumping is a measure to rectify the situation arising out of the dumping of goods and its trade distortive affect. The use of anti-dumping measure as an instrument offair competition is permitted … [shortened in this brief; the book continues]
+Explanation: Dumping is said to occur when the goods are exported by a country to another country at a price lower than its normal value. This is an unfair trade practice which can have a distortive effect on international trade. Anti-dumping is a measure to rectify the situation arising out of the dumping of goods and its trade distortive affect. The use of anti-dumping measure as an instrument of fair competition is permitted … [shortened in this brief; the book continues]
 
 [13-170] Ch13 · International Trade · asked in 1 paper(s): U.P.P.C.S. (Pre) 1993
 Q: Super '301' is related to:
@@ -1649,7 +1655,7 @@ Explanation: In terms of balance of payments foreign loans, foreign direct inves
 Q: Tarapore Committee was associated with which one of the following?
 Options: (a) Special Economic Zones (b) Fuller capital account convertibility (c) Foreign exchange reserves (d) Effect of oil-prices on the Indian economy
 Answer: (b) Fuller capital account convertibility
-Also asked: The question offull capital account convertibility of India was examined by the Committee known as: -> Tarapore Committee
+Also asked: The question of full capital account convertibility of India was examined by the Committee known as: -> Tarapore Committee
 Explanation: The first committee on capital account convertibility (CAC) under the chairmanship of S.S. Tarapore was constituted by the RBI for suggesting a roadmap on full convertibility of rupee on capital account. The committee submitted its report in May, 1997. Reserve Bank of India on 20 March, 2006 constituted a second, 6-member committee on fuller capital account convertibility (FCAC) of rupee under the chairmanship of S. … [shortened in this brief; the book continues]
 
 [14-015] Ch14 · Foreign Exchange, FDI & External Debt · asked in 5 paper(s): I.A.S. (Pre) 1994; U.P.P.C.S. (Pre) 1998; J.P.S.C. (Pre) 2006; U.P.P.C.S. (Pre) 1991, 1994; U.P.P.C.S. (Spl.) (Pre) 2008
@@ -1822,7 +1828,7 @@ Explanation: In Bihar, during April-June 2018, services sector attracted the hig
 Q: The maximum foreign exchange inflow came to India in the year 2005-06 through which of the following sources:
 Options: (a) N.R.I. Deposits (b) Portfolio investment (c) Loans taken by private sector (d) Grants to Government
 Answer: (b) Portfolio investment
-Explanation: Among the given options, the maximum foreign exchange inflow came to India through Portfolio investment in the year 2005-06. As per the data released by the RBI on 24 June, 2024, main sources ofvariation in Indian forex reserves in 2023-24 and 2022-23 are as follows: / US $ billion / | Items | 2023-24 | 2022-23 | / | Current Account Balance | – 23.3 | – 67.1 | / | Foreign Direct Investment (FDI) | 9.8 | 28.0 | / | Foreign … [shortened in this brief; the book continues]
+Explanation: Among the given options, the maximum foreign exchange inflow came to India through Portfolio investment in the year 2005-06. As per the data released by the RBI on 24 June, 2024, main sources of variation in Indian forex reserves in 2023-24 and 2022-23 are as follows: / US $ billion / | Items | 2023-24 | 2022-23 | / | Current Account Balance | – 23.3 | – 67.1 | / | Foreign Direct Investment (FDI) | 9.8 | 28.0 | / | Foreign … [shortened in this brief; the book continues]
 
 [14-047] Ch14 · Foreign Exchange, FDI & External Debt · asked in 1 paper(s): M.P.P.C.S. (Pre) 1998
 Q: The flow of foreign exchange in which of the following forms can be said to be most volatile in the Indian context?
@@ -1860,14 +1866,14 @@ Explanation: Foreign Direct Investments (FDI) means investment through capital i
 
 [14-052] Ch14 · Foreign Exchange, FDI & External Debt · asked in 1 paper(s): I.A.S. (Pre) 2012
 Q: Which of the following would include Foreign Direct Investment in India?
-   1. Subsidiaries offoreign companies in India
+   1. Subsidiaries of foreign companies in India
    2. Majority foreign equity holding in Indian companies
    3. Companies exclusively financed by foreign companies
    4. Portfolio investment
    Select the correct answer using the codes given below:
 Options: (a) 1, 2, 3 and 4 (b) 2 and 4 only (c) 1 and 3 only (d) 1, 2 and 3 only
 Answer: (d) 1, 2 and 3 only
-Explanation: Foreign investment has two components, namely, Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI). Foreign Direct Investment (FDI) is the investment through capital instruments by a person resident outside India (a) in an unlisted Indian company; or (b) in 10 percent or more of the post issue paid-up equity capital on a fully diluted basis of a listed Indian company. Subsidiaries offoreign … [shortened in this brief; the book continues]
+Explanation: Foreign investment has two components, namely, Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI). Foreign Direct Investment (FDI) is the investment through capital instruments by a person resident outside India (a) in an unlisted Indian company; or (b) in 10 percent or more of the post issue paid-up equity capital on a fully diluted basis of a listed Indian company. Subsidiaries of foreign … [shortened in this brief; the book continues]
 
 [14-053] Ch14 · Foreign Exchange, FDI & External Debt · asked in 1 paper(s): I.A.S. (Pre) 2021
 Q: Consider the following:
@@ -1889,7 +1895,7 @@ Q: As part of the liberalization programme and with a view to attract foreign ex
    Codes:
 Options: (a) 3 only (b) 1 and 2 (c) 1, 2 and 3 (d) 1, 2 and 4
 Answer: (d) 1, 2 and 4
-Explanation: All statements are correct except statement 3. Scheme FCNR (A) was launched in 1975 to encourage NRI deposits. The RBI guaranteed the exchange rate prevalent at the time of a deposit to eliminate risk to depositors. It was withdrawn in 1993. FCNR (B) was started in place of FCNR (A) on 15 May, 1993. At present, FCNR account stands for Foreign Currency Non-Resident Bank (B) Account. It is a kind offixed deposit … [shortened in this brief; the book continues]
+Explanation: All statements are correct except statement 3. Scheme FCNR (A) was launched in 1975 to encourage NRI deposits. The RBI guaranteed the exchange rate prevalent at the time of a deposit to eliminate risk to depositors. It was withdrawn in 1993. FCNR (B) was started in place of FCNR (A) on 15 May, 1993. At present, FCNR account stands for Foreign Currency Non-Resident Bank (B) Account. It is a kind of fixed deposit … [shortened in this brief; the book continues]
 
 [14-055] Ch14 · Foreign Exchange, FDI & External Debt · asked in 1 paper(s): I.A.S. (Pre) 2002
 Q: Global capital flows to developing countries increased significantly during the nineties. In view of the East Asian financial crisis and Latin American experience, which type of inflow is good for the host country?
@@ -1904,7 +1910,7 @@ Answer: (b) FII helps in increasing capital availability in general, while FDI o
 Explanation: Foreign Direct Investment is stable in nature as compared to investments by Foreign Institutional Investor (FII). FDI is helpful in bringing better Management skills and Technology transfer whereas FII brings only capital. FII functions primarily in secondary market. Thus option (a), (c) and (d) are incorrect. FIIs are conducive for increase in availability of foreign capital at comprehensive level, even though they … [shortened in this brief; the book continues]
 
 [14-057] Ch14 · Foreign Exchange, FDI & External Debt · asked in 1 paper(s): Uttarakhand P.C.S. (Pre) 2021
-Q: Which of the following is not an example offoreign direct investment?
+Q: Which of the following is not an example of foreign direct investment?
 Options: (a) The acquisition of existing textile mill overseas (b) The creation of a wholly owned business firm overseas (c) The purchase of bonds or stocks issued by Pharma Company overseas (d) The construction of a new steel plant overseas
 Answer: (c) The purchase of bonds or stocks issued by Pharma Company overseas
 Explanation: Among the given options, the purchase of bonds or stocks issued by Pharma Company overseas is not an example of foreign direct investment (FDI), while the other three are examples of FDI.
@@ -2113,7 +2119,7 @@ Explanation: On 21 October, 2000, ‘Indian Millennium Deposit’ (IMD) Scheme w
 Q: Resurgent India Bonds were issued in US dollar, Pound Sterling and:
 Options: (a) Japanese Yen (b) Deutsche Mark (c) Euro (d) French France
 Answer: (b) Deutsche Mark
-Explanation: On 5th August, 1998, the State Bank of India issued the 'Resurgent India Bond' in three different currencies-US dollar, Pound Sterling and Deutsche Mark for a period offive years.
+Explanation: On 5th August, 1998, the State Bank of India issued the 'Resurgent India Bond' in three different currencies-US dollar, Pound Sterling and Deutsche Mark for a period of five years.
 
 [14-091] Ch14 · Foreign Exchange, FDI & External Debt · asked in 1 paper(s): 60th to 62nd B.P.S.C. (Pre) 2016
 Q: Which of the following is a bond through which Indian entities can raise money from foreign markets in rupees, and not in foreign currency?
@@ -2342,8 +2348,8 @@ Explanation: The correctly matched lists are as follows: / | Country | Currency 
 
 [14-127] Ch14 · Foreign Exchange, FDI & External Debt · asked in 3 paper(s): I.A.S. (Pre) 2003; M.P.P.C.S. (Pre) 2006; U.P.P.C.S. (Mains) 2007
 Q: Which one of the following statements is correct with reference to FEMA in India?
-Options: (a) The Foreign Exchange Regulation Act (FERA) was replaced by Foreign Exchange Management Act (FEMA) in the year 2001. (b) FERA was given a sunset clause of one year till 31st May, 2002 to enable Enforcement Directorate to complete the investigation of pending issues. (c) Under FEMA, violation offoreign exchange rules has ceased to be a criminal offence. (d) As per the new dispensation, Enforcement Directorate can arrest and prosecute the people for the violation of foreign exchange rules.
-Answer: (c) Under FEMA, violation offoreign exchange rules has ceased to be a criminal offence.
+Options: (a) The Foreign Exchange Regulation Act (FERA) was replaced by Foreign Exchange Management Act (FEMA) in the year 2001. (b) FERA was given a sunset clause of one year till 31st May, 2002 to enable Enforcement Directorate to complete the investigation of pending issues. (c) Under FEMA, violation of foreign exchange rules has ceased to be a criminal offence. (d) As per the new dispensation, Enforcement Directorate can arrest and prosecute the people for the violation of foreign exchange rules.
+Answer: (c) Under FEMA, violation of foreign exchange rules has ceased to be a criminal offence.
 Also asked: From which year the FEMA came into force? -> 2000
 Also asked: The Government of India has replaced FERA by: -> The FEMA
 Explanation: The Foreign Exchange Regulation Act (FERA), 1973 was replaced by the Foreign Exchange Management Act (FEMA), 1999 on June 1, 2000. Under FEMA, violation of foreign exchange rules has ceased to be a criminal offence. If there was a violation of FEMA rules, then it is considered as civil offence instead of criminal offence as under FERAAct. Apart from removing criminal prosecution for non-compliance of foreign … [shortened in this brief; the book continues]
@@ -2470,7 +2476,7 @@ Explanation: According to the World Development Report 2000, Luxembourg had the 
 Q: Which one of the following is not a sub-index of the World Bank’s 'Ease of Doing Business Index'?
 Options: (a) Maintenance of law and order (b) Paying taxes (c) Registering property (d) Dealing with construction permits
 Answer: (a) Maintenance of law and order
-Explanation: World Banks’ ‘Ease of Doing Business Index’ was based on 10 sub-indicators: / | • | Starting a business | / | • | Dealing with construction permits | / | • | Getting electricity | / | • | Registering property | / | • | Getting credit | / | • | Protecting minority investors | / | • | Paying taxes | / | • | Trading across borders | / | • | Enforcing contracts | / | • | Resolving insolvency | / Clearly option (a) ‘maintenence of law and … [shortened in this brief; the book continues]
+Explanation: World Banks’ ‘Ease of Doing Business Index’ was based on 10 sub-indicators: / Starting a business / Dealing with construction permits / Getting electricity / Registering property / Getting credit / Protecting minority investors / Paying taxes / Trading across borders / Enforcing contracts / Resolving insolvency / Clearly option (a) ‘maintenence of law and order’ is not included in the above sub-indicators.
 
 [15-011] Ch15 · International Organizations · asked in 1 paper(s): U.P.P.S.C.(GIC) 2017
 Q: In ‘Ease of Doing Business Report’published by World Bank on 31th October, 2017, India has been placed at which rank?

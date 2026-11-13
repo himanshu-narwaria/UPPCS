@@ -1,0 +1,453 @@
+{
+  "80-016": {
+    "r": "SEB financial sickness, all four reasons true: power sold below cost to farm and domestic users; high T&D losses; no commercial autonomy; state social subsidy policies run through SEBs.",
+    "hi": ["State Electricity Board (राज्य विद्युत बोर्ड)"]
+  },
+  "80-017": {
+    "r": "Manikaran geothermal power plant → Parvati Valley on river Parvati, northeast of Bhuntar, Kullu district, Himachal Pradesh.",
+    "hi": ["Geothermal energy (भूतापीय ऊर्जा)"]
+  },
+  "80-018": {
+    "r": "Hot springs: Jwalamukhi → Kangra district, Himachal Pradesh (not Jammu and Kashmir); Manikaran → Himachal Pradesh; Anhoni → Madhya Pradesh; Tapta Pani → Odisha.",
+    "hi": ["Hot spring (गर्म जल स्रोत)"]
+  },
+  "80-019": {
+    "r": "Commercial (non-renewable, traditional) energy → coal, petroleum, natural gas, atomic energy; biogas/biomass, wind, solar, geothermal, tidal, hydro → non-commercial (renewable) sources.",
+    "hi": ["Commercial energy (वाणिज्यिक ऊर्जा)"]
+  },
+  "80-020": {
+    "r": "Energy of water, Sun, Earth (and wind) → all renewable, replenished by the environment in a short time; so 'None of the above' is the answer.",
+    "hi": ["Renewable resource (नवीकरणीय संसाधन)"]
+  },
+  "80-021": {
+    "r": "Urja Ganga → gas pipeline project; foundation stone laid by PM Modi at Varanasi on 24 October 2016; it does not run from Iran to India.",
+    "hi": ["Gas pipeline (गैस पाइपलाइन)"]
+  },
+  "80-022": {
+    "r": "Diu → first Union Territory of India to run 100% on solar energy (area about 40 sq km); merged with Daman and Dadra-Nagar Haveli from 26 January 2020."
+  },
+  "80-023": {
+    "r": "Rajasthan → leading solar power producing state of India (tops the list as on December 31, 2025).",
+    "hi": ["Solar energy (सौर ऊर्जा)"]
+  },
+  "80-024": {
+    "r": "Petroleum (crude oil) → non-renewable fossil fuel, formed like coal and natural gas from remains of ancient marine organisms; solar, wind, biogas are renewable.",
+    "hi": ["Fossil fuel (जीवाश्म ईंधन)"]
+  },
+  "81-001": {
+    "r": "Stainless steel → steel (iron + carbon) alloyed mainly with chromium and nickel (also molybdenum, silicon); chromium is the key metal added to iron.",
+    "hi": ["Alloy (मिश्रधातु)"]
+  },
+  "81-004": {
+    "r": "New iron-steel plants on west coast → high-grade iron ore in Goa and parts of Madhya Pradesh, plus sea ports for easy steel export."
+  },
+  "81-005": {
+    "r": "Indian steel industry imports coking coal (metallurgical coal), mainly from Australia; coke is made by heating coking coal.",
+    "hi": ["Coking coal (कोकिंग कोयला)"]
+  },
+  "81-006": {
+    "r": "VSL Bhadravati → only iron-steel plant outside coal areas; used charcoal from forest firewood, later electric furnaces powered by Mahatma Gandhi Hydel Power Station."
+  },
+  "81-007": {
+    "r": "Jamshedpur steel plant → neither on iron ore area nor on coalfield, but roughly midway between the two."
+  },
+  "81-008": {
+    "r": "TISCO (Tata Iron & Steel Company Ltd.) plant → near Tatanagar; established in 1907; a prime Indian steel company."
+  },
+  "81-009": {
+    "r": "Jamshedpur (Jharkhand) → 'Pittsburgh of India', famous for its iron and steel industry.",
+    "h": "Pittsburgh is the famous steel city of the USA; Jamshedpur is India's steel city."
+  },
+  "81-010": {
+    "r": "Wrong statement: Rourkela, India's first public-sector integrated steel plant, was built with Germany, not the Soviet Union. Salem → stainless steel; Visakhapatnam → RINL unit."
+  },
+  "81-011": {
+    "r": "Bhilai Steel Plant (Durg district, Chhattisgarh) → built with Russia (Soviet help), commissioned 1959; iron ore from Dalli Rajhara."
+  },
+  "81-012": {
+    "r": "Bokaro Steel Plant → fourth public-sector steel plant, built with Soviet (Russian) help, started 1965; called India's first Swadeshi steel plant; now part of SAIL."
+  },
+  "81-013": {
+    "r": "Among tea, jute, iron-steel and sugar, iron and steel earned India the most foreign exchange (correct when the question was asked)."
+  },
+  "81-014": {
+    "r": "Wrong pair: Bhilai – Madhya Pradesh (Bhilai is now in Chhattisgarh; Soviet help). Durgapur → West Bengal (UK help); Rourkela → Odisha (Germany); Jamshedpur → Jharkhand (private)."
+  },
+  "81-015": {
+    "r": "Rourkela Steel Plant (Sundergarh, Odisha; German firms Krupps and Demag; production 1959) → iron ore from Keonjhar, Mayurbhanj, Sundergarh; coal from Bokaro, Jharia."
+  },
+  "81-016": {
+    "r": "Post-independence steel plants (Second Five Year Plan) → Rourkela (Germany), Bhilai (Russia), Durgapur (United Kingdom).",
+    "h": "Rourkela–Rhine (Germany), Bhilai–Bolshevik (Russia), Durgapur–Dover (UK)."
+  },
+  "81-017": {
+    "r": "Bhadravati iron-steel plant → far from coal reserves; Bokaro, Durgapur and Kulti-Asansol lie near coalfields."
+  },
+  "81-018": {
+    "r": "Iron-steel raw materials: iron ore, coal, manganese, limestone, silica, chromite, feldspar; each listed plant lacks some of them nearby → the book gives no single answer (*)."
+  },
+  "81-019": {
+    "r": "China → world's top crude steel producer; India second (World Steel Association data, 2025)."
+  },
+  "82-001": {
+    "r": "Korba (Chhattisgarh) → aluminium industry; BALCO (Bharat Aluminium Company) plant is about 10 km from the main township."
+  },
+  "82-002": {
+    "r": "TELCO (Tata Engineering and Locomotive Co., now Tata Motors) → vehicles, not aluminium; BALCO, NALCO, HINDALCO → aluminium makers."
+  },
+  "82-003": {
+    "r": "Wrong pair: BALCO – Raipur; BALCO is at Korba (Chhattisgarh). HINDALCO → Pipari (Renukoot), Sonbhadra, UP; NALCO HQ → Bhubaneswar; HCL → Khetri, Rajasthan."
+  },
+  "82-004": {
+    "r": "Wrong pair: MALCO (Madras Aluminium) is at Mettur, Salem district, Tamil Nadu, not Chennai. INDAL → Hirakud; BALCO → Korba; HINDALCO → Renukoot.",
+    "t": "Don't go by the name: 'Madras' Aluminium is at Mettur (Salem), not in Chennai."
+  },
+  "82-005": {
+    "r": "Aluminium plants: BALCO → Korba; HINDALCO → Renukoot; INDAL (Indian Aluminium) → Hirakud; NALCO (National Aluminium) → Koraput."
+  },
+  "82-006": {
+    "r": "Aluminium plants: Alupuram → Kerala; Angul → Odisha; Belgaum → Karnataka; Korba → Chhattisgarh."
+  },
+  "82-007": {
+    "r": "Khetri (Jhunjhunu, Rajasthan) → copper industry (Hindustan Copper Ltd.); Tarapur → nuclear power; Titagarh → paper; Ranchi → engineering.",
+    "hi": ["Copper (तांबा)"]
+  },
+  "83-001": {
+    "r": "Headquarters: ONGC → New Delhi; Mineral Exploration Corporation (MECL) → Nagpur; NMDC → Hyderabad; National Aluminium Company → Bhubaneswar (Odisha)."
+  },
+  "83-002": {
+    "r": "India's first synthetic (artificial) rubber plant → Panipat (Haryana), founded by Indian Synthetic Rubber Private Limited.",
+    "hi": ["Synthetic rubber (कृत्रिम रबड़)"]
+  },
+  "83-003": {
+    "r": "Industrial centres: Kankinara → jute; Virudhnagar → cotton textile; Channapatna → silk; Bhadohi → carpet."
+  },
+  "83-004": {
+    "r": "Heavy Engineering → Ranchi; Machinery Instruments → Pinjore; Aluminium → Renukoot; Fertilizers → Sindri."
+  },
+  "83-005": {
+    "r": "Rock phosphate → fertilizer industry; source of phosphorus for SSP and DAP fertilizers (nitrogen, phosphorus, potassium are the three primary plant nutrients).",
+    "hi": ["Fertilizer (उर्वरक)"]
+  },
+  "83-006": {
+    "r": "True: Dredging Corporation of India HQ → Visakhapatnam; Narwapahar Mine → Uranium Corporation of India Ltd. False: Petronet LNG setting up another terminal at Mangalore."
+  },
+  "83-007": {
+    "r": "Handicraft centres: Mon → Nagaland (wooden architecture); Nalbari → Assam (bamboo); Pasighat → Arunachal Pradesh (oldest town); Tura → Meghalaya."
+  },
+  "83-008": {
+    "r": "Kakinada → bio-diesel plant; Dundigal → Indian Air Force Academy; Margao → Skybus Metro rail test-run; Bhadrachalam → ITC paper board unit."
+  },
+  "83-009": {
+    "r": "UP centres: Aonla → fertilizers; Modinagar → rubber; Barabanki → polyfibres; Kanpur → explosives."
+  },
+  "83-010": {
+    "r": "Cotton textile → an ancient industry of India (jute, tea and sugar are not).",
+    "hi": ["Cotton textile (सूती वस्त्र)"]
+  },
+  "83-011": {
+    "r": "Coimbatore → largest number of cotton mills in Tamil Nadu."
+  },
+  "83-012": {
+    "r": "MP crafts: Zari Batua → Bhopal; Bhairavgarh prints → Ujjain; Bagh handicrafts → Dhar; Chanderi sarees → Ashok Nagar."
+  },
+  "83-013": {
+    "r": "Masuria Sari → Kota (Rajasthan); the other pairs (Badla–Jaipur, Namda–Jodhpur, Marble carving–Tonk) are wrong."
+  },
+  "83-014": {
+    "r": "Wrong pair: Bharat Electronics Ltd. – Noida. Correct: Diesel Locomotive Works (now Banaras Locomotive Works) → Varanasi; ITI unit → Raebareli; oil refinery → Mathura."
+  },
+  "83-015": {
+    "r": "Chunar → renowned for cement industry."
+  },
+  "83-016": {
+    "r": "India → second in world cement production (China first); output 426.29 million tonnes in 2023-24 (DPIIT Annual Report 2024-25)."
+  },
+  "83-017": {
+    "r": "Rajasthan → largest cement producing state of India (2018-19 question; still top in 2023-24 data)."
+  },
+  "83-018": {
+    "r": "Limestone → main raw material of cement; cement units are located where limestone is abundant.",
+    "hi": ["Limestone (चूना पत्थर)"]
+  },
+  "83-019": {
+    "r": "Cement industry → uses limestone as its principal raw material."
+  },
+  "83-020": {
+    "r": "Dalmianagar (Bihar) → cement industry; one of India's oldest and biggest industrial towns."
+  },
+  "83-021": {
+    "r": "Bhopal (Madhya Pradesh) → known for pesticide industry."
+  },
+  "83-022": {
+    "r": "Visakhapatnam → ship-building; Muri → aluminium; Gurgaon → automobile; Panki → fertilizer."
+  },
+  "83-023": {
+    "r": "Wrong pair: Sugar – Silvassa (no sugar centre there). Correct: Cement – Porbandar; Petro – Nagthane; Iron and Steel – Rourkela."
+  },
+  "83-024": {
+    "r": "Rubber industry → Panjim (among Panjim, Bangalore, Puducherry, Aurangabad)."
+  },
+  "83-025": {
+    "r": "Wrong pair: Pipri – Pesticides; Pipri (UP) → hydroelectricity. Ramagundam (Telangana) → fertilizers; Chittaranjan (West Bengal) → locomotives; Korba (Chhattisgarh) → aluminium."
+  },
+  "83-026": {
+    "r": "India's first fertilizer production unit → Ranipet, Tamil Nadu, 1906; not among the options (Nangal, Sindri, Alwaye, Trombay), so the book gives no single answer (*)."
+  },
+  "83-027": {
+    "r": "Wrong pair: Sindri – Copper; Sindri (then Bihar, now Jharkhand) → fertilizer plant, called India's first. Aonla → fertilizer; Nepanagar → paper; Narora → atomic power.",
+    "t": "Elsewhere the book names Ranipet (Tamil Nadu) as India's first fertilizer unit; here it calls Sindri the first plant."
+  },
+  "83-028": {
+    "r": "Phulpur (Prayagraj, U.P.) → India's biggest fertilizer factory in the cooperative sector.",
+    "hi": ["Cooperative sector (सहकारी क्षेत्र)"]
+  },
+  "83-029": {
+    "r": "Brajraj Nagar (Odisha) → paper; Kaimur → cement; Haldia (West Bengal) → petrochemical; Phulpur (Uttar Pradesh) → fertilizers."
+  },
+  "83-030": {
+    "r": "India's largest petrochemical factory → in Gujarat."
+  },
+  "83-031": {
+    "r": "Largest petrochemical production centre → Jamnagar (Gujarat); not Ankleshwar, Nunmati or Trombay."
+  },
+  "83-032": {
+    "r": "SAIL set up in 1973 to manage Rourkela, Bhilai, Durgapur (earlier under Hindustan Steel Ltd.); 1973 is not an option → book gives no single answer (*)."
+  },
+  "83-033": {
+    "r": "Paper centres: Amlai → Madhya Pradesh (not Chhattisgarh); Ballarpur → Maharashtra; Brajrajnagar → Odisha; Rajahmundry → Andhra Pradesh."
+  },
+  "83-034": {
+    "r": "Paper mills: among the options Uttar Pradesh has the most; in all India Gujarat has the most (Indian Pulp & Paper Technical Association)."
+  },
+  "83-035": {
+    "r": "Nepanagar (Burhanpur district, Madhya Pradesh) → newsprint paper industry.",
+    "hi": ["Newsprint (अखबारी कागज़)"]
+  },
+  "83-036": {
+    "r": "Mumbai, not Ahmedabad, is India's largest cotton textile centre (A false); Ahmedabad lies in a major cotton-growing area, so no raw-material problem (R true)."
+  },
+  "83-037": {
+    "r": "Tamil Nadu leads in mill-made cotton yarn → many spinning mills, skilled labour, cheap hydroelectricity; not black cotton soil, which is not predominant there."
+  },
+  "83-038": {
+    "r": "Cotton textile industry spreads all over India though cotton grows in few areas → cotton is a pure raw material, losing no weight in manufacturing; A and R correct."
+  },
+  "83-039": {
+    "r": "India's first cotton mill → 1818 at Fort Gloster near Kolkata (Calcutta), West Bengal; it was a commercial failure."
+  },
+  "83-041": {
+    "r": "Silk textiles → Mysore (Karnataka); Petrochemicals → Jawahar Nagar (Gujarat); Fertilizers → Talcher (Odisha); Pharmaceuticals → Rishikesh (Uttarakhand)."
+  },
+  "83-042": {
+    "r": "Steel Authority of India → Delhi; Hindustan Zinc Ltd. → Udaipur; Heavy Engineering Corporation → Ranchi; Instrumentation Ltd. → Kota."
+  },
+  "83-043": {
+    "r": "Wrong pair: Nagapattinam is in Tamil Nadu, not Andhra Pradesh. Koyali → Gujarat; Numaligarh → Assam; Manali (Greater Chennai) → Tamil Nadu."
+  },
+  "83-044": {
+    "r": "Wrong pair: Dharmapuri is in Tamil Nadu, not Odisha. Muri → Jharkhand; Alwaye → Kerala; Koyali → Gujarat."
+  },
+  "83-045": {
+    "r": "Atlas Cycle → Sonepat; Bharat Earth Movers → Bangalore; Indian Farmers Fertilizers Co-operative → Kalol; National Aluminium Company → Bhubaneswar."
+  },
+  "83-046": {
+    "r": "Diamond Parks → industrial zones created to promote manufacture and export of diamonds, synthetic jewellery and ornaments."
+  },
+  "83-047": {
+    "r": "B.V. Rao → poultry farming; C.K. Prahlad → management science; John Kurien → fisheries economy; Kiran Karnik → information technology and software."
+  },
+  "83-048": {
+    "r": "At the time asked: V.R.S. Natrajan → Bharat Earth Movers; A.K. Puri → BHEL; V. Thulasidas → Air India; Jagdish Khattar → Maruti Udyog (heads have changed since)."
+  },
+  "83-049": {
+    "r": "At the time asked: C.P. Jain → NTPC; S. Ramadorai → TCS; Sunil Arora → Indian Airlines; Vivek Paul → Wipro Technologies (heads have changed since)."
+  },
+  "83-050": {
+    "r": "At the time asked: Amrita Patel → National Dairy Development Board; Anu Aga → Thermax; Mallika Srinivasan → Tractors and Farm Equipment; Priya Paul → Park Hotels."
+  },
+  "83-051": {
+    "r": "Ludhiana → hosiery industry; industrial capital of Punjab (ready-made garments, sewing machines, machine tools)."
+  },
+  "83-052": {
+    "r": "Thermal power industry → the maximum consumer of water in India."
+  },
+  "83-053": {
+    "r": "Paper → Titagarh; Cement → Lakheri; Iron & Steel → Bhilai; Mineral oil refinery → Ambala Mukul."
+  },
+  "83-054": {
+    "r": "Aluminium → J.K. Nagar; Copper → Malanjkhand; Zinc → Tundoo; Jute → Bhatpara."
+  },
+  "83-055": {
+    "r": "Fertilizer → Sriganganagar; Glass → Jaipur; Cement → Udaipur; Synthetic silk → Kota."
+  },
+  "83-056": {
+    "r": "Bengaluru → aircraft; Korba → aluminium; Jamshedpur → iron and steel; Malanjkhand → copper."
+  },
+  "83-057": {
+    "r": "Kankinara (printed here as 'Kakinada') → jute; Virudhnagar → cotton textile; Channapatna → silk; Bhadohi → carpet.",
+    "c": "The book prints 'Kakinada – Jute'. The jute centre in this standard list is Kankinara (West Bengal); Kakinada is a port town in Andhra Pradesh."
+  },
+  "83-058": {
+    "r": "Traditional sarees/fabric → Chanderi (Ashoknagar, Madhya Pradesh) and Kancheepuram (Tamil Nadu); not Bhadrachalam or Karnal."
+  },
+  "83-059": {
+    "r": "GI status → Banarasi silk/zari sarees and Tirupati Laddu; Rajasthani Daal-Bati-Churma has no GI tag.",
+    "hi": ["Geographical Indication (भौगोलिक संकेतक)"]
+  },
+  "83-060": {
+    "r": "Wrong pair: Sivakasi is not in Chhota Nagpur region; it is in the Bengaluru–Tamil Nadu region. Titagarh → Kolkata-Hugli; Ambernath → Mumbai-Pune; Bharuch → Ahmedabad-Vadodara."
+  },
+  "83-061": {
+    "r": "Sivakasi (Virudhunagar, Tamil Nadu) → Madurai-Coimbatore-Bengaluru industrial region; fireworks, matchbox, printing; Nehru called it 'Little Japan'."
+  },
+  "83-062": {
+    "r": "Pithampur (Dhar district, Madhya Pradesh) → automobile industry."
+  },
+  "83-063": {
+    "r": "JSMDC granite polishing industry → Tupudana (Ranchi); Bishrampur graphite project → Palamu."
+  },
+  "83-064": {
+    "r": "Nepanagar (Burhanpur district, Madhya Pradesh) → newsprint paper industry."
+  },
+  "83-065": {
+    "r": "Fertilizer raw materials → naphtha, gypsum, sulphur; caustic soda is not one."
+  },
+  "83-066": {
+    "r": "Rajasthan → sole producer of lead and zinc ores, wollastonite and selenite (copper ores are not in this list)."
+  },
+  "83-067": {
+    "r": "Diesel Locomotive Works, Varanasi (now Banaras Locomotive Works) → now makes electric engines."
+  },
+  "83-068": {
+    "r": "Only true: Rajasthan has iron ore mines. States do auction non-coal mines (MMDR Amendment Act 2015); Andhra Pradesh has gold-bearing quartz deposits (Kurnool)."
+  },
+  "83-069": {
+    "r": "India–Nepal cross-border oil pipeline (inaugurated by PM Modi, September 2019) → Motihari (India) to Amlekhganj (Nepal)."
+  },
+  "83-070": {
+    "r": "Sugar industry: weight-losing; Maharashtra is now the largest producer (as of April 2023), Uttar Pradesh second → more than one statement true."
+  },
+  "84-001": {
+    "r": "Central Drug Research Institute → Lucknow; National Atlas and Thematic Mapping Organisation → Kolkata; National Institute of Ocean Technology → Chennai; Temperate Forest Research Centre → Shimla."
+  },
+  "84-002": {
+    "r": "Maitri (India's second Antarctic station, 1988) → research in earth science, glaciology, atmospheric science, medicine, cold region engineering; book's answer: marine biology.",
+    "c": "The book answers (c) Marine Biology, but its own explanation lists earth science, glaciology, atmospheric science, medicine etc. and does not name marine biology."
+  },
+  "84-003": {
+    "r": "Bharati → India's 3rd research station in Antarctica, established 2012."
+  },
+  "84-004": {
+    "r": "Dakshin Gangotri → India's first Antarctic research base (1983-84 season; Antarctic Treaty signed 1983); Maitri second; Bharati third (2012).",
+    "h": "Order D-M-B: Dakshin Gangotri, Maitri, Bharati → 'Desh Mera Bharat'."
+  },
+  "84-006": {
+    "r": "ICRISAT (International Crops Research Institute for Semi-Arid Tropics) → headquarters at Patancheru near Hyderabad."
+  },
+  "84-007": {
+    "r": "Central Research Institute for Dryland Agriculture (CRIDA), an ICAR institute → Hyderabad.",
+    "hi": ["Dryland agriculture (शुष्क भूमि कृषि)"]
+  },
+  "84-010": {
+    "r": "Central Institute for Arid Horticulture (CIAH) headquarters → Bikaner, Rajasthan."
+  },
+  "84-011": {
+    "r": "National Academy of Agricultural Research Management (NAARM) → Hyderabad."
+  },
+  "84-012": {
+    "r": "National Institute of Agricultural Marketing (NIAM) → Jaipur."
+  },
+  "84-013": {
+    "r": "Central Food Technological Research Institute → Mysore."
+  },
+  "84-014": {
+    "r": "National Environment Engineering RI → Nagpur; Central Food Technology RI → Mysuru; Central Potato RI → Shimla; Central Tobacco RI → Rajahmundry."
+  },
+  "84-015": {
+    "r": "National Research Centre for Agro-Forestry → Jhansi."
+  },
+  "84-017": {
+    "r": "Central Institute of Agricultural Engineering (CIAE) → Bhopal; farm machinery R&D; set up 15 February 1976 in the Fifth Five Year Plan."
+  },
+  "84-018": {
+    "r": "National Rice Research Institute (est. 1946) → Cuttack, Odisha; Indian Institute of Rice Research (formerly Directorate of Rice Research) → Hyderabad; the book gives no single answer (*)."
+  },
+  "84-019": {
+    "r": "National Dairy Research Institute (NDRI) → Karnal, Haryana."
+  },
+  "84-021": {
+    "r": "National Dairy Research Institute → Karnal (Haryana); Deemed University status in 1989.",
+    "t": "Don't confuse with Anand (Gujarat), home of the National Dairy Development Board, not NDRI."
+  },
+  "84-022": {
+    "r": "Indian Institute of Pulses Research → Kanpur."
+  },
+  "84-023": {
+    "r": "Indian Institute of Vegetable Research → Varanasi; full-fledged institute set up in 1999 under DARE, Ministry of Agriculture."
+  },
+  "84-025": {
+    "r": "Central Institute for Subtropical Horticulture (formerly Central Mango Research Institute) → Lucknow."
+  },
+  "84-026": {
+    "r": "Indian Bureau of Mines (IBM), est. 1948 under the Ministry of Mines → headquarters at Nagpur."
+  },
+  "84-027": {
+    "r": "Central Institute of Mining and Fuel Research (CIMFR, formerly Central Mining Research Institute) → Dhanbad, Jharkhand."
+  },
+  "84-028": {
+    "r": "Indian Diamond Institute (est. 1978; diamonds, gems, jewellery) → Surat, Gujarat."
+  },
+  "84-029": {
+    "r": "National Dairy Development Board (NDDB) → Anand, Gujarat."
+  },
+  "84-030": {
+    "r": "Indian Grassland and Fodder Research Institute (est. 1962, under ICAR) → Jhansi, Uttar Pradesh.",
+    "h": "Jhansi holds two green institutes: Grassland-Fodder and Agro-Forestry research."
+  },
+  "84-032": {
+    "r": "Dr. Yashwant Singh Parmar University of Horticulture and Forestry → Solan, Himachal Pradesh."
+  },
+  "84-033": {
+    "r": "National Sugar Institute → Kanpur; Mishra Dhatu Nigam → Hyderabad; Institute of Military Law → Kamptee; Institute of National Integration → Pune."
+  },
+  "84-034": {
+    "r": "Indian Institute of Sugarcane Research (IISR, est. 1952) → Lucknow."
+  },
+  "84-035": {
+    "r": "Rice Research Institute → Cuttack; Directorate of Farming System Research → Meerut; Indian Institute of Soil Science → Bhopal; National Centre for Agro-Forestry Research → Jhansi."
+  },
+  "84-036": {
+    "r": "National Atlas and Thematic Mapping Organisation (NATMO) → Kolkata; began under Kolkata University Geography Dept (founder director S.P. Chatterjee); renamed 1978; under DST."
+  },
+  "84-037": {
+    "r": "National Museum of Natural History → New Delhi; regional museums → Mysuru, Bhopal, Sawai Madhopur, Bhubaneswar; none at Hyderabad."
+  },
+  "84-038": {
+    "r": "CSSRI → Karnal; CTCRI → Thiruvananthapuram (Trivandrum); IRRI → Manila; CAZRI → Jodhpur."
+  },
+  "84-039": {
+    "r": "Directorate of Plant Protection, Quarantine and Storage → Faridabad (Haryana)."
+  },
+  "84-040": {
+    "r": "Crop directorates: Rice (DRR) → Hyderabad; Wheat (DWR) → Karnal; Maize (DMR) → New Delhi; Pulses (DPR) → Kanpur."
+  },
+  "84-041": {
+    "r": "IISR → Lucknow; Plant Genetic Resources bureau → New Delhi; Plant Protection Training Institute → Hyderabad; Wheat Research → Karnal, not Kanpur → book gives no single answer (*)."
+  },
+  "84-042": {
+    "r": "National Centre of Organic Farming (NCOF) → Ghaziabad; renamed National Centre for Organic and Natural Farming (NCONF) in March 2022."
+  },
+  "84-043": {
+    "r": "Wrong pair: Central Institute for Subtropical Horticulture is at Lucknow, not Srinagar. Vegetable Research → Varanasi; Sugarcane Research → Lucknow; Pulses Research → Kanpur."
+  },
+  "84-044": {
+    "r": "India Meteorological Department: set up at Kolkata 1875 → Shimla 1905 → Pune 1928 → Delhi 1944.",
+    "h": "K-S-P-D: 'Kab Shimla Pahunche Dilli?'",
+    "hi": ["India Meteorological Department (भारत मौसम विज्ञान विभाग)"]
+  },
+  "84-045": {
+    "r": "International Solar Alliance (ISA) Secretariat → Gurugram; its 'Towards 1000' strategy aims to mobilise USD 1,000 billion of solar investment by 2030.",
+    "hi": ["International Solar Alliance (अंतर्राष्ट्रीय सौर गठबंधन)"]
+  }
+}

@@ -24,6 +24,10 @@ h1,h2,h3,h4{font-family:var(--head);font-weight:600;line-height:1.25;margin:0;te
 .side a.ok span{color:var(--ans);font-weight:700}
 .side a.ok span::after{content:" ✓"}
 .side .lb{margin:14px 10px 4px;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--soft)}
+.side .gp{margin:8px 10px 2px;font-weight:700;color:var(--ink)}
+.side a.in{padding-left:22px}
+ol.toc .tpart{margin:14px 0 2px;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--soft)}
+ol.toc .tgrp{margin:8px 0 0;font-weight:700}
 main{flex:1;min-width:0;max-width:820px;padding:26px 24px 80px}
 .view{display:none}
 .view.on{display:block}

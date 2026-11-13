@@ -1,0 +1,543 @@
+{
+ "152-022": {
+  "r": "Correct: China type climate → rain throughout the year; tropical highlands → vertical zonation of climates. Wrong: equatorial regions have four seasons (mainly two); Mediterranean gets summer rain (winter rain).",
+  "hi": [
+   "Vertical zonation (ऊर्ध्वाधर कटिबंधन)"
+  ]
+ },
+ "152-023": {
+  "r": "Mediterranean regions → rainy winters, because in winter pressure belts shift and they lie in the Westerlies belt (A and R true, R explains A); summers dry under subtropical high.",
+  "hi": [
+   "Westerlies (पछुआ पवनें)"
+  ]
+ },
+ "152-025": {
+  "r": "NW Europe ports open all year → warm North Atlantic flow stops the sea freezing; SW winds also blow all year but are not the reason (R not explanation).",
+  "t": "Westerlies explain the mild temperature and good rain of Western Europe, not the ice-free ports."
+ },
+ "152-026": {
+  "r": "Western European type climate → west edges of continents in the Westerlies belt; rain in all months and seasons, winter slightly more than summer. Both statements correct (UPPSC key).",
+  "hi": [
+   "Westerlies (पछुआ पवनें)"
+  ]
+ },
+ "152-027": {
+  "r": "Low annual and daily temperature range + precipitation all year (50–250 cm) → Marine West Coast climate (NW Europe, west coast of North America, southern Chile, New Zealand).",
+  "hi": [
+   "Marine West Coast climate (पश्चिमी यूरोपीय/समुद्री जलवायु)"
+  ]
+ },
+ "152-028": {
+  "r": "Data with mild, nearly even temperature (average 12.8°C), rain mostly in winter and dry June–August (54.9 cm a year) → Mediterranean region.",
+  "h": "Mediterranean = wet winter, dry summer; dashes in June–August rainfall give it away."
+ },
+ "152-029": {
+  "r": "Climates linked to shifting of pressure belts → Mediterranean and Monsoon (not Equatorial or Western European); monsoon winds emerge from shifting pressure belts.",
+  "hi": [
+   "Pressure belts (वायुदाब पेटियाँ)"
+  ]
+ },
+ "152-030": {
+  "r": "Zaire (DR Congo) to the Netherlands → Equatorial → Hot desert (Sahara) → Mediterranean → West European climate (code 1, 3, 2, 4)."
+ },
+ "152-031": {
+  "r": "World's wettest place → Mawsynram (Meghalaya), as per this book.",
+  "t": "Don't pick Cherrapunji here; in this question the answer is Mawsynram.",
+  "hi": [
+   "Wettest place (सर्वाधिक वर्षा वाला स्थान)"
+  ]
+ },
+ "152-032": {
+  "r": "Coldest place outside polar regions → Verkhoyansk, Siberia (record of 1933); world's lowest temperature → Vostok, Antarctica, 21 July 1983."
+ },
+ "152-033": {
+  "r": "Hottest → Sahara; coldest → Antarctica; wettest → Cherrapunji; driest → Chile (code 4 3 2 1)."
+ },
+ "152-034": {
+  "r": "Occasional weak Indian monsoon → El Nino and Southern Oscillation (ENSO); El Nino = warm current off Peru coast; La Nina = opposite, cooling of eastern equatorial Pacific.",
+  "hi": [
+   "El Nino (एल नीनो)"
+  ]
+ },
+ "152-035": {
+  "r": "El Nino and La Nina are both Pacific Ocean events (not Indian Ocean); El Nino weakens India's SW monsoon, La Nina strengthens it. Both statements wrong.",
+  "t": "La Nina does affect the monsoon: it activates it, while El Nino harms it."
+ },
+ "152-037": {
+  "r": "El Nino → warm current off Peru coast (eastern Pacific), every three to seven years; it raises water temperature by 10°C but reduces plankton and fish. Only statement 1 correct.",
+  "t": "El Nino lowers plankton, not raises it."
+ },
+ "152-039": {
+  "r": "Southern Oscillation → seesaw of air pressure, Tahiti (central Pacific) vs Port Darwin (Australia); with El Nino called ENSO.",
+  "c": "The book gives no single answer (*): it argues (d) (Pacific only) but accepts (b) Pacific and Indian Ocean, the commission's answer."
+ },
+ "152-040": {
+  "r": "El Nino and La Nina are climate patterns, not storms (incorrect statement). La Nina → stronger trade winds; El Nino → upwelling slows, fewer phytoplankton off the coast."
+ },
+ "152-041": {
+  "r": "Data with cool, even temperatures and rain in every month, less in summer than winter → Western European type climate (Northern Hemisphere)."
+ },
+ "152-042": {
+  "r": "Data with hot summer (27.8°C), cold winter and rain all year, more in summer → China type climate."
+ },
+ "152-043": {
+  "r": "Graph: temperature 15–25°C, heaviest rain in April, May, June (under 25 cm) → wet and dry tropical climate."
+ },
+ "152-044": {
+  "r": "Hekistotherms → plants of very low temperature areas (tundra, mountains, Alpine forests)."
+ },
+ "152-045": {
+  "r": "'Vegetation is the true index of climate' → Koppen (classification 1884; revised 1918, 1931, 1936), based on Candoll's five vegetation zones (1874).",
+  "hi": [
+   "Climate classification (जलवायु वर्गीकरण)"
+  ]
+ },
+ "152-046": {
+  "r": "No Mediterranean climate in the Pampas (temperate South American lowlands: Argentina, Uruguay); Central Chile, Cape Town and Adelaide have it."
+ },
+ "153-001": {
+  "r": "Correct order of agricultural practices → Soil preparation → Sowing → Irrigation → Harvesting."
+ },
+ "153-002": {
+  "r": "Water holding capacity (decreasing): Clay > Silt > Sand.",
+  "h": "Finer the particle, more water it holds."
+ },
+ "153-003": {
+  "r": "Capillary action is most effective in clayey soil (smallest pores): Clay > Silt > Loamy > Sandy.",
+  "h": "Smaller pore = stronger capillary pull."
+ },
+ "153-004": {
+  "r": "Soil conservation → protecting soil from harm: control erosion and keep land highly fertile (better land use).",
+  "hi": [
+   "Soil conservation (मृदा संरक्षण)"
+  ]
+ },
+ "153-005": {
+  "r": "Terra rossa → red clay soil formed by weathering of limestone and dolomite rocks."
+ },
+ "153-006": {
+  "r": "Soil leaching → major problem in tropical rainforests, due to heavy rain throughout the year.",
+  "hi": [
+   "Leaching (निक्षालन)"
+  ]
+ },
+ "153-007": {
+  "r": "Halophytes → saline soils; cryophytes → cold soil; lithophytes → rocks; xerophytes → deserts; hygrophytes → waterlogged areas; hydrophytes → water.",
+  "hi": [
+   "Saline soil (लवणीय मृदा)"
+  ]
+ },
+ "153-008": {
+  "r": "Nitrogen is added to soil by excretion of urea by animals and death of vegetation (decomposition, nitrogen cycle); not by burning coal.",
+  "hi": [
+   "Nitrogen cycle (नाइट्रोजन चक्र)"
+  ]
+ },
+ "153-009": {
+  "r": "Clay holds maximum water (A true) because its particles are small; its pores are small, not large (R false).",
+  "c": "The book prints (c) (both correct), but its own explanation says R is wrong; by that, (b) is the right answer."
+ },
+ "153-010": {
+  "r": "Contour bunding → used on mountain/hill slopes to slow rain runoff and check erosion; not desert margins, flood plains or scrublands → None of the above.",
+  "hi": [
+   "Contour bunding (समोच्च मेड़बंदी)"
+  ]
+ },
+ "153-011": {
+  "r": "Podzol → cold temperate; Chernozem → temperate cold steppe; Spodosols → humid cold temperate; Laterite → hot and humid."
+ },
+ "153-012": {
+  "r": "Earthworms are good for agriculture (A false): 'ecosystem engineers' that make pores, break soil into fine soft particles and act as decomposers (R true).",
+  "hi": [
+   "Earthworm (केंचुआ)"
+  ]
+ },
+ "153-013": {
+  "r": "Only 3 true: irrigation over time can salinise farmland. Wrong: organic matter raises (not reduces) water holding capacity; soil does play a role in the sulphur cycle.",
+  "hi": [
+   "Salinization (लवणीकरण)"
+  ]
+ },
+ "153-014": {
+  "r": "Edaphic factor → soil (its physical and chemical make-up); climatic, biotic and topographic are other factors.",
+  "hi": [
+   "Edaphic factor (मृदीय कारक)"
+  ]
+ },
+ "153-015": {
+  "r": "Oldest to latest: Sihawal (Lower Paleolithic) → Patpara (Middle Paleolithic) → Baghor (Upper Paleolithic) → Khetaurhi (Neolithic, Microlithic); code 4, 1, 3, 2."
+ },
+ "153-016": {
+  "r": "Geographical cycle of erosion → W.M. Davis; Walter Penck rejected it (morphological system); Holmes → convection currents; Kober → geosynclinal orogen theory.",
+  "hi": [
+   "Cycle of erosion (अपरदन चक्र)"
+  ]
+ },
+ "154-001": {
+  "r": "Nomadic herding → mostly in dry (arid) areas: steppes of Eurasia, Central Asia, Africa, South America.",
+  "hi": [
+   "Nomadic herding (चलवासी पशुचारण)"
+  ]
+ },
+ "154-002": {
+  "r": "Transhumance → seasonal movement of people and herds between valley/lowland and mountain pastures; in India, Himalayan Bhotiya, Bakarwal and Gaddi practise it.",
+  "hi": [
+   "Transhumance (ऋतु प्रवास)"
+  ]
+ },
+ "154-003": {
+  "r": "Most recent → Cro-Magnon humans: early Homo sapiens, about 40,000 to 10000 years ago; first remains found 1868, Dordogne, France.",
+  "t": "Heidelberg and Neanderthal humans are older."
+ },
+ "154-004": {
+  "r": "First bird → Archaeopteryx, about 150 million years ago."
+ },
+ "154-005": {
+  "r": "'Cradle of Mankind' → Africa."
+ },
+ "154-006": {
+  "r": "Afrikaners → white minority of South Africa, from Dutch, German and French (Huguenot) settlers; speak Afrikaans, which grew from Dutch."
+ },
+ "154-007": {
+  "r": "Largest racial group → Caucasoid (skull index over 80; Nordic, Alpine, Mediterranean types)."
+ },
+ "154-008": {
+  "r": "Jews → Israel; Teda → Libya; Beja → Egypt; Lur → Iran (code 4 3 1 2)."
+ },
+ "154-009": {
+  "r": "Original home of the Gypsies → India; believed to come from the 'Dom' caste."
+ },
+ "154-010": {
+  "r": "Pygmies → equatorial rainforest of the Congo River basin, Africa; hunter-gatherers living in leaf-and-branch huts called mongulus.",
+  "hi": [
+   "Equatorial forest (विषुवतीय वन)"
+  ]
+ },
+ "154-013": {
+  "r": "Pygmy house type → hut built in a tree, reached by a ladder (picture option a)."
+ },
+ "154-014": {
+  "r": "Not pastoral nomads → Pygmies (hunter-gatherers of Congo Basin); Kazaks, Masai and Lapps are pastoral nomads."
+ },
+ "154-015": {
+  "r": "Eskimo → Canada (also Alaska, Greenland, N Russia; Inuit and Yupik groups). Oraon and Gonds → India (Oraon: Chotanagpur); Lapps → European tundra."
+ },
+ "154-016": {
+  "r": "Bushman → Kalahari Desert (correct pair). Eskimo → Canada, Alaska, Greenland; Pygmy → Central Africa; Bundu → Western Africa."
+ },
+ "154-017": {
+  "r": "Eskimo → Canada (and Greenland); Maasai → Kenya; Bedouins → Saudi Arabia; Bushman → Botswana (Kalahari)."
+ },
+ "154-019": {
+  "r": "Khirghiz → Central Asia; Bushman → Kalahari; Ainu → Japan; Bedouin → Arab (code 3 4 1 2)."
+ },
+ "154-020": {
+  "r": "Kayak → narrow hunting boat; Umiak → boat for transport; Sledge → dog-pulled vehicle; Inuit (Eskimos) → snow house (igloo).",
+  "t": "Kayak is the narrow hunting boat; Umiak is the bigger transport boat."
+ },
+ "154-021": {
+  "r": "Bushman → Namibia; Bedouins → Saudi Arabia; Pygmies → Congo; Maasai → Kenya (code 2 3 1 4)."
+ },
+ "154-022": {
+  "r": "Wrong pair: Masai – West Africa; Masai live in East Africa. Correct: Bushman – Kalahari; Eskimo – Northern Canada; Pygmy – Congo Basin."
+ },
+ "154-023": {
+  "r": "Semang tribe → forests of the Malay Peninsula (Malaysia); Negrito race."
+ },
+ "154-024": {
+  "r": "Wrong pair: Semangs – Indonesia; Semang belong to Malaysia. Correct: Berber – Morocco; Inuits – Canada; Veddas – Sri Lanka."
+ },
+ "154-025": {
+  "r": "Zulu → South Africa; battle of Isandlwana, British vs Zulus, 1879."
+ },
+ "154-026": {
+  "r": "Bushmen → Kalahari Desert, most in Botswana; Ainu – Japan, Maasai – Kenya, Papuans – New Guinea are correct.",
+  "c": "The book gives no single answer (*): all pairs can pass, but it takes (b) Bushmen – Union of South Africa as the wrong one."
+ },
+ "154-028": {
+  "r": "Bushmen → Botswana (also Namibia, South Africa, Angola); hunter-gatherers of Southern Africa."
+ },
+ "154-029": {
+  "r": "Wrong pair: Congo basin – Negrito; Congo basin → Pygmy, Negrito → Southeast Asia. Correct: Alpine – Central Asia; Kalahari – Bushmen; Scandinavia – Nordic."
+ },
+ "154-030": {
+  "r": "Wrong pair: Maasai – Western Africa; Maasai are pastoral nomads of East Africa (Kenya, northern Tanzania, eastern Uganda)."
+ },
+ "154-031": {
+  "r": "Wrong pair: Maasai – Zambia; Maasai → Kenya, Tanzania, Uganda. Correct: Maori – New Zealand; Mayas – Guatemala; Bushman – Kalahari."
+ },
+ "154-032": {
+  "r": "Kurds live in Armenia, Georgia, Azerbaijan and Turkmenistan, all formed from the former Soviet Union.",
+  "c": "The book gives no single answer (*): it says all four options have Kurdish people."
+ },
+ "154-033": {
+  "r": "Inuit → Arctic regions of Greenland (Denmark), Canada, Russia and Alaska; not Sweden."
+ },
+ "154-034": {
+  "r": "Wrong pair: Bantu – Sahara; Bantu → East, Central and Southern Africa. Correct: Fulani – West Africa; Masai – East Africa; Nuba – Sudan."
+ },
+ "154-035": {
+  "r": "Lapps (Sami) → Scandinavia: Norway, Sweden, Finland and Russia's Kola Peninsula (Fenno-Scandinavian region)."
+ },
+ "154-036": {
+  "r": "Natives of North America → Mongoloid racial group."
+ },
+ "154-037": {
+  "r": "Wrong pair: Khirghiz – Sudan; Khirghiz live in Central Asia. Correct: Pygmy – Congo basin; Angami – Nagaland; Ainu – Japan."
+ },
+ "154-038": {
+  "r": "All pairs correct → (e): Masai – Central Eastern Africa; Sakai – Malaysia (and Indonesia); Bedouin – Arabian Peninsula; Kirghiz – Central Asia."
+ },
+ "154-039": {
+  "r": "Wrong pair: Alaska – Koryak; Koryak are a tribe of Russia (some in Ukraine). Correct: Borneo – Punan; Arab Desert – Ruwala; Sweden and Finland – Lapps."
+ },
+ "154-040": {
+  "r": "Keystone species → species that decide whether many other species can persist in a community.",
+  "hi": [
+   "Keystone species (कीस्टोन प्रजाति)"
+  ]
+ },
+ "154-041": {
+  "r": "China, Mongolia, Japan → Mongoloid race; Australoid → Melanesia, Australia; Negroid → Africa; Nordic → northern and north-western Europe."
+ },
+ "155-001": {
+  "r": "Esperanto → artificial international auxiliary language meant to serve as a world language; devised by Dr. Ludwik Lejzer Zamenhof."
+ },
+ "155-002": {
+  "r": "Most speakers when asked → Mandarin (Chinese); counting L1 (mother tongue) + L2 (second language), English is now spoken by the most people.",
+  "hi": [
+   "Mother tongue (मातृभाषा)"
+  ]
+ },
+ "155-004": {
+  "r": "Spanish is official in Chile, Colombia and Cuba; not in the Republic of Congo."
+ },
+ "155-005": {
+  "r": "Tamil → official language of Singapore (with Malay, English, Mandarin); Myanmar → Burmese; Indonesia → Indonesian; Mauritius → English, French."
+ },
+ "155-006": {
+  "r": "Map of the Americas: 1 → French (French Guiana); 2 → Portuguese (Brazil); 3 → Spanish (Argentina); 4 → English."
+ },
+ "155-007": {
+  "r": "Pakistan has more ethnic diversity than Bangladesh (A true); Pakistan's official languages → English and Urdu; Punjabi is most spoken but not official (R false)."
+ },
+ "155-008": {
+  "r": "Wrong pair: Bahasa – Thailand; Bahasa → Indonesia. Correct: Danish – Denmark; Dutch – Netherlands; Mandarin – China."
+ },
+ "156-001": {
+  "r": "Leading producer of both wheat and rice when asked → China. FAO 2024: wheat → China, India, Russia, USA; rice → India, China, Bangladesh, Indonesia."
+ },
+ "156-002": {
+  "r": "Rice production → India ranks first in the world (FAO 2024).",
+  "hi": [
+   "Rice (धान/चावल)"
+  ]
+ },
+ "156-003": {
+  "r": "Largest area under rice cultivation → India, then China (FAO 2024); Japan and Philippines far behind."
+ },
+ "156-004": {
+  "r": "Wheat production, descending (FAO 2024): China > India > Russia > USA (option a); when asked, USA was third (option b)."
+ },
+ "156-005": {
+  "r": "Largest wheat producer in the world → China (FAO 2024)."
+ },
+ "156-006": {
+  "r": "Highest rice productivity when asked → China. FAO 2024: Tajikistan tops (13385.8 kg/ha), then Australia; China 7149.5, Japan 6956.1, India 4313.2 kg/ha."
+ },
+ "156-007": {
+  "r": "Hybrid rice → most popular in China (on more than half its rice land)."
+ },
+ "156-008": {
+  "r": "World's Rice Gene Bank → International Rice Research Institute, Los Banos, Philippines."
+ },
+ "156-009": {
+  "r": "Rice share of total exports (FAO 2013): Thailand 14.09%, Myanmar 11.79%, Japan 0.60%, Indonesia 0.00%; commission chose Myanmar.",
+  "c": "No option earns two-thirds of its exports from rice (the commission took (c) Myanmar). Also note: India, not Cambodia or the USA, is the world's largest rice exporter by quantity and value."
+ },
+ "156-010": {
+  "r": "Largest sugarcane producer → Brazil, then India, China, Pakistan (FAO 2024)."
+ },
+ "156-011": {
+  "r": "Second largest sugarcane producer → India, after Brazil (FAO 2024)."
+ },
+ "156-012": {
+  "r": "Two largest sugar beet producers → France and Russia (when asked); FAO 2024 → Russia and Germany."
+ },
+ "156-013": {
+  "r": "Ukraine → makes almost all its sugar from sugar beet only."
+ },
+ "156-014": {
+  "r": "Largest cotton producer among options when asked → USA (after China). FAO 2023: India is the largest cottonseed producer, then China, Brazil, USA, Pakistan."
+ },
+ "156-015": {
+  "r": "Highest cotton yield per hectare (2014) among options → Australia. FAO 2024: China first (6588.5 kg/ha), then Australia, Turkiye."
+ },
+ "156-016": {
+  "r": "Highest cotton yield among USA, China, Pakistan, India → China (6588.5 kg/ha, FAO 2024)."
+ },
+ "156-017": {
+  "r": "Castor oilseeds → India was the largest producer and exporter when asked; the book cites FAO 2024 naming Ethiopia as largest exporter."
+ },
+ "156-018": {
+  "r": "Largest banana producer → India (37.61 million tonnes, FAO 2024), then China, Indonesia, Ecuador, Brazil."
+ },
+ "156-019": {
+  "r": "Largest coconut producer → Indonesia, then India, Philippines (FAO 2024)."
+ },
+ "156-020": {
+  "r": "Coconut and sugarcane farming in the Philippines → developed by the Spanish and Americans."
+ },
+ "156-021": {
+  "r": "India → second-largest fruit producer in the world, after China; first only in FAO's 'other fruits n.e.c.' group (FAOSTAT 2024).",
+  "c": "India is the world's second-largest fruit producer after China, so (d) Second is the standard answer; the book's 'first' uses only FAO's 'other fruits n.e.c.' group."
+ },
+ "156-022": {
+  "r": "Largest tobacco producer → China (2.26 million tonnes), then India, Brazil (FAO 2024)."
+ },
+ "156-023": {
+  "r": "Correct when asked: China → largest tobacco producer; India → largest jowar producer. Wrong: soybean (USA then, Brazil now); raw silk led by China, not Italy.",
+  "t": "Now (FAO 2024) USA leads sorghum (jowar), then Nigeria and India."
+ },
+ "156-024": {
+  "r": "Mauritius → exports the highest share of its sugar output; its economy rests on sugar exports and tourism."
+ },
+ "156-025": {
+  "r": "Largest natural rubber producer → Thailand, then Indonesia, Cote d'Ivoire, Vietnam, China (FAO 2024).",
+  "hi": [
+   "Natural rubber (प्राकृतिक रबड़)"
+  ]
+ },
+ "156-026": {
+  "r": "Two major natural rubber producers → Thailand and Indonesia (FAO 2024)."
+ },
+ "156-027": {
+  "r": "About one-third of world natural rubber → Thailand (FAO 2024)."
+ },
+ "156-028": {
+  "r": "Largest rubber cultivation among the options when asked → India; FAO 2024: Thailand, Indonesia and Cote d'Ivoire lead."
+ },
+ "156-029": {
+  "r": "Sri Lanka gave up coffee → leaf rust (fungus Hemileia vastatrix); the epidemic began in Sri Lanka in 1869 and hit British colonies from the 1860s."
+ },
+ "156-030": {
+  "r": "Two leading coffee producers → Brazil and Vietnam; then Colombia, Indonesia, Ethiopia, Uganda, India (FAO 2024)."
+ },
+ "156-031": {
+  "r": "Highest coffee producer → Brazil, then Vietnam, Colombia (FAO 2023)."
+ },
+ "156-032": {
+  "r": "Top share of world coffee production → Brazil (FAO 2024)."
+ },
+ "156-033": {
+  "r": "Second largest coffee exporter → Vietnam, after Brazil (FAO 2024, by quantity)."
+ },
+ "156-034": {
+  "r": "Robusta → coffee variety (Coffea canephora), native to Central and Western sub-Saharan Africa (Ethiopia, Uganda); also grown in India."
+ },
+ "156-035": {
+  "r": "Largest tea exporter when asked (FAO 2004) → Sri Lanka; FAO 2024 → Kenya by quantity, China by value."
+ },
+ "156-036": {
+  "r": "Largest tea exporter when asked (2015) → China; FAO 2024 → Kenya by quantity, China by value.",
+  "t": "Kenya leads tea exports by quantity, China by value."
+ },
+ "156-037": {
+  "r": "Largest tea exporter by value in 2016-17 → China (also in 2024); India 4th by value (2024)."
+ },
+ "156-038": {
+  "r": "Coffee → Sao Paulo Plateau; Jute → Ganges delta; Rice → Yangtze plains; Wheat → Prairies plains (code 3 4 2 1)."
+ },
+ "156-039": {
+  "r": "Coffee → Sao Paulo; Rice → Yangzi Jiang basin; Wheat → Huang He basin (winter wheat); Tea → Candy (Kandy) basin, Sri Lanka (code 2 1 4 3)."
+ },
+ "156-040": {
+  "r": "Cocoa → Ghana; Coffee → Ivory Coast; Tea → Kenya; Sugarcane → South Africa (code 4 1 2 3)."
+ },
+ "156-041": {
+  "r": "Coffee-growing US state → Hawaii (famous Kona coffee)."
+ },
+ "156-042": {
+  "r": "Not tropical → Apple: grown in temperate and subtropical regions, as its flowering needs cold conditions.",
+  "c": "Walnut is also a temperate, not tropical, fruit, so option (a) fits too; the book's answer is Apple."
+ },
+ "156-043": {
+  "r": "Large labour on small holdings → commercial horticulture (fruits, vegetables, flowers; also tea, coffee, sugarcane, rubber), as crops need continuous supervision."
+ },
+ "156-044": {
+  "r": "Rubber → Malaysia; Coffee → Colombia; Olive → Italy; Sugarcane → Mauritius (code 4 3 2 1)."
+ },
+ "156-045": {
+  "r": "China → iron ore; India → milk; Saudi Arabia → petroleum (now USA, 2023); Thailand → natural rubber (code 3 2 4 1)."
+ },
+ "156-046": {
+  "r": "Tropical plantations → bunched along sea coasts (true); Amazon Basin suits rubber but lacks workers (true); not mainly lowlands, they need well-drained hill slopes (false).",
+  "hi": [
+   "Plantation agriculture (बागानी कृषि)"
+  ]
+ },
+ "156-047": {
+  "r": "Plantation crops → coffee, rubber, coconut and spices are all plantation crops (with tea, cocoa, arecanut, cashew), per Agriculture and Commerce Ministries.",
+  "c": "No option lists all four. By the Commerce Ministry's list (tea, coffee, rubber, spices), (d) 1, 2 and 4 fits; coconut counts as a plantation crop only under the Agriculture Ministry."
+ },
+ "156-048": {
+  "r": "Crops grown in alleys between rows of planted trees → alley cropping; intercropping is the wider term (includes relay, mixed and alley cropping).",
+  "hi": [
+   "Intercropping (अंतःफसल)"
+  ]
+ },
+ "156-049": {
+  "r": "Monoculture → distinct feature of commercial grain farming.",
+  "hi": [
+   "Monoculture (एकल फसल कृषि)"
+  ]
+ },
+ "156-050": {
+  "r": "Not shifting cultivation → Fazenda (plantations of Brazil); Chena, Jhooming and Milpa are types of shifting cultivation.",
+  "hi": [
+   "Shifting cultivation (स्थानांतरी कृषि)"
+  ]
+ },
+ "156-051": {
+  "r": "Taungya → villagers grow farm crops in the early stage of a forest plantation; mainly in Myanmar."
+ },
+ "156-052": {
+  "r": "Ladang → shifting agriculture; local name used mainly in Malaysia and Indonesia.",
+  "hi": [
+   "Shifting cultivation (स्थानांतरी कृषि)"
+  ]
+ },
+ "156-053": {
+  "r": "Correct: Jhumming → South-East Asia; Milpa → Mexico and Central America. Wrong: Ladang → Indonesia, not Sri Lanka. All are slash-and-burn farming."
+ },
+ "156-054": {
+  "r": "Nitrogen deficiency → stunted growth, pale green-yellow leaves (less chlorophyll), because nitrogen drives green leaf growth (A and R true, R explains A).",
+  "hi": [
+   "Chlorophyll (पर्णहरित)"
+  ]
+ },
+ "156-055": {
+  "r": "Only Nostoc → biofertilizer: a blue-green alga (cyanobacteria, like Anabaena) that fixes atmospheric nitrogen for paddy; Agaricus and Spirogyra are not.",
+  "hi": [
+   "Biofertilizer (जैव उर्वरक)"
+  ]
+ },
+ "156-056": {
+  "r": "Azolla-Anabaena biofertilizer → used for rice; Azolla itself is a biofertilizer.",
+  "hi": [
+   "Biofertilizer (जैव उर्वरक)"
+  ]
+ },
+ "156-058": {
+  "r": "Blue-green algae biofertilizer → boosts rice (paddy) production.",
+  "hi": [
+   "Blue-green algae (नील-हरित शैवाल)"
+  ]
+ },
+ "156-059": {
+  "r": "Alfalfa (Medicago sativa) → a kind of grass, native to Asia; rich in vitamins A, C, E, K, B and minerals."
+ },
+ "156-060": {
+  "r": "Africa has tea (A false): first grown at Durban Botanical Garden, 1850; Kenya, Tanzania, Uganda are major producers. Tea needs fertile, humus-rich soil (R true)."
+ }
+}

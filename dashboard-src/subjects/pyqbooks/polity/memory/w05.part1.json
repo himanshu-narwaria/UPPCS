@@ -323,7 +323,7 @@
  },
  "33-022": {
   "r": "Finance Commission chairmen: 13th → Vijay Kelkar; 14th → Y.V. Reddy (formed January 2013); 15th → N.K. Singh (constituted 27 November 2017).",
-  "c": "No answer printed; the count of Commissions changes over time and the explanation gives none matching the options (10, 8, 9, 12)."
+  "c": "The explanation stops at the 15th Commission; a sixteenth (chair Arvind Panagariya) has since been set up. The count keeps rising, so none of the options fits now."
  },
  "33-025": {
   "r": "15th Finance Commission → Chairman N.K. Singh; constituted 27 November 2017 under Art 280; two reports: for 2020-21 and for 2021-26."
@@ -468,7 +468,7 @@
  },
  "35-018": {
   "r": "Uttar Pradesh Lokayukta tenure → 5 years or age 70, whichever earlier, from 26 February 2024 (amended Act of 1975); earlier it was 8 years.",
-  "c": "Printed answer (5 years) reflects the 2024 amendment; the explanation says the tenure was 8 years when the question was asked."
+  "c": "Printed (a) 5 years follows the February 2024 amendment; when asked (2017) the tenure was 8 years, option (d)."
  },
  "35-019": {
   "r": "First state to pass the Lokayukta Bill in 2011 → Uttarakhand (1 November 2011)."
@@ -530,8 +530,8 @@
   "r": "Concept of Human Rights → mainly emphasises dignity of man as a human being (UDHR Preamble: dignity and justice for all)."
  },
  "35-037": {
-  "r": "UDHR (10 December 1948) lists freedom and equality, right to life and liberty, right to education; the book's answer: right to privacy is not listed.",
-  "c": "Doubtful key: the UDHR does protect against arbitrary interference with privacy, so 'right to privacy' being absent looks wrong."
+  "r": "UDHR (10 December 1948) covers freedom and equality, life and liberty, education, and also privacy (no arbitrary interference); the exam key still marked right to privacy.",
+  "c": "The book is wrong: the UDHR does protect privacy (no arbitrary interference with privacy, family, home or correspondence). All four options are in the UDHR; (d) is just the exam key."
  },
  "35-038": {
   "r": "UDHR (10 December 1948; 30 Articles; not legally binding) → no right to Universal Basic Income. Includes life, liberty, security (Art 3), adequate standard of living (Art 25)."

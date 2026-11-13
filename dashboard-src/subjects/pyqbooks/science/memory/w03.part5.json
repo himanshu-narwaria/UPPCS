@@ -1,0 +1,117 @@
+{
+  "14-069": {
+    "r": "MF band → not used in INSAT/GSAT satellite communication; bands used in India: S, C, Upper Extended C, Ku and Ka."
+  },
+  "14-070": {
+    "r": "Television transmission → simplex communication: one-way only, information travels in one direction."
+  },
+  "14-071": {
+    "r": "India's first remote sensing satellite IRS-1A → launched 17 March 1988 from Baikonur Cosmodrome, Soviet Union."
+  },
+  "14-072": {
+    "r": "IRS (Indian Remote Sensing) satellites → used for crop productivity, locating groundwater, mineral exploration; not telecommunications or traffic studies.",
+    "hi": ["Remote sensing (सुदूर संवेदन)"]
+  },
+  "14-073": {
+    "r": "Satellite/remote sensing data estimate → chlorophyll in vegetation, greenhouse gas from rice paddies, land surface temperature → all three."
+  },
+  "14-074": {
+    "r": "INSAT-3C → launched by Arianespace's Ariane-4 from Kourou, French Guiana (South America)."
+  },
+  "14-075": {
+    "r": "22 December 2005 → ISRO launched INSAT-4A (first of INSAT-4 series, 3081 kg) from Kourou, French Guiana, on an Ariane-5 vehicle."
+  },
+  "14-076": {
+    "r": "PSLV-C37 (39th PSLV flight, 15 February 2017) → 104 satellites in one flight: Cartosat-2 series plus 103 co-passengers, total 1378 kg, from Sriharikota."
+  },
+  "14-078": {
+    "r": "Last PSLV mission of 2022 → PSLV-C54/EOS-06, launched 26 November 2022 from Sriharikota."
+  },
+  "14-079": {
+    "r": "Chandrayaan-3 → 14 July 2023 (LVM3-M4); Aditya-L1 → 2 September 2023 (PSLV-C57); INSAT-3DS → 17 February 2024 (GSLV-F14); RLV-LEX-01 → 2 April 2023."
+  },
+  "14-080": {
+    "r": "PSLV-C55 (57th PSLV mission) → launched TeLEOS-2 (primary) and Lumelite-4 on 22 April 2023 from Sriharikota; commercial mission through NSIL."
+  },
+  "14-081": {
+    "r": "XPoSat (X-ray Polarimeter Satellite, PSLV-C58, 1 January 2024) → India's first dedicated polarimetry mission for bright X-ray sources; two payloads in low earth orbit → both true."
+  },
+  "14-082": {
+    "r": "POEM-4 (PSLV Orbital Experimental Module) → controlled re-entry, hit Indian Ocean on 4 April 2025; part of PSLV-C60/SpaDeX mission (launched 30 December 2024)."
+  },
+  "14-083": {
+    "r": "Chronological order: SITE (1975, NASA–ISRO) → STEP (1977) → APPLE (19 June 1981) → IGMD programme (DRDO, 1983).",
+    "h": "S-S-A-I: two satellite experiments (SITE, STEP), then APPLE, then missiles."
+  },
+  "14-084": {
+    "r": "APPLE (Ariane Passenger Payload Experiment) → India's first experimental geostationary communication satellite; launched 19 June 1981 by Ariane from Kourou, French Guiana."
+  },
+  "14-086": {
+    "r": "INSAT-1D → launched 12 June 1990; multipurpose satellite for telephone, television and weather observation.",
+    "t": "Options differ only by day (10, 12, 13, 15 June 1990): it is the 12th."
+  },
+  "14-087": {
+    "r": "INSAT-2A → launched 10 July 1992 from Kourou, French Guiana.",
+    "c": "The book calls INSAT-2A India's first indigenously built satellite; Aryabhatta (April 19th, 1975, an option here) was built in India earlier. INSAT-2A was the first home-built INSAT."
+  },
+  "14-088": {
+    "r": "INSAT-4C (2168 kg, Rs. 350 crore) → lost when its GSLV exploded 60 seconds after lift-off, 10 July 2006; heaviest ISRO satellite now GSAT-11 (5854 kg)."
+  },
+  "14-089": {
+    "r": "IRNSS-1A, India's first dedicated navigation satellite → launched by PSLV-C22 on 1 July 2013 from Satish Dhawan Space Centre, Sriharikota."
+  },
+  "14-090": {
+    "r": "IRNSS (NavIC = Navigation with Indian Constellation) → seven satellites: three geostationary, four geosynchronous; covers India and 1500 km around (not 5500 sq. km); regional, not global."
+  },
+  "14-092": {
+    "r": "GSLV-F15 (29 January 2025) → carried NVS-02 navigation satellite; ISRO's 100th launch from Sriharikota; 17th GSLV flight → more than one option true."
+  },
+  "14-093": {
+    "r": "Own satellite navigation: global → GPS (USA), GLONASS (Russia), Galileo (EU), BeiDou (China); regional → NavIC (India), QZSS/Michibiki (Japan)."
+  },
+  "14-094": {
+    "r": "Galileo → European Union's global multi-satellite navigation system (through ESA), live in 2016; civilian-controlled, inter-operable with GPS and GLONASS."
+  },
+  "14-095": {
+    "r": "GPS = Global Positioning System → space-based navigation system by the U.S. Department of Defence; fully operational from 27 April 1995."
+  },
+  "14-096": {
+    "r": "GPS technology is used in → mobile phone operations, banking (precise timing) and controlling power grids → all three."
+  },
+  "14-097": {
+    "r": "GAGAN (ISRO + Airports Authority of India) → satellite-based augmentation system; extra accuracy and integrity, uniform air traffic management; benefits not limited to aviation."
+  },
+  "14-098": {
+    "r": "Launch vehicle order: SLV (10 August 1979) → ASLV (24 March 1987) → PSLV (20 September 1993) → GSLV (18 April 2001).",
+    "h": "S-A-P-G: SLV, Augmented, Polar, Geosynchronous; vehicles grow in size."
+  },
+  "14-099": {
+    "r": "SLV-3 → Rohini (RS-1, 18 July 1980); ASLV → SROSS-C; PSLV → Chandrayaan-1; GSLV → EDUSAT."
+  },
+  "14-100": {
+    "r": "ISRO → Bengaluru; IIRS → Dehradun; NRSA (now NRSC) → Hyderabad; SAC (Space Applications Centre) → Ahmedabad."
+  },
+  "14-101": {
+    "r": "ISRO Master Control Facility → Hassan, Karnataka (set up 1982) to control geostationary and geosynchronous satellites; another MCF at Bhopal (2005)."
+  },
+  "14-102": {
+    "r": "ISRO → Bengaluru; IUCA (astronomy and astrophysics) → Pune; IUAC (accelerator centre) → New Delhi; VSSC → Thiruvananthapuram.",
+    "t": "Don't mix IUCA (Pune, astronomy) with IUAC (New Delhi, accelerator)."
+  },
+  "14-103": {
+    "r": "Wrong pair: ISRO Satellite Centre – Sriharikota; it is at Bengaluru (set up 1972 as ISSP; renamed UR Rao Satellite Centre in 2018). Other pairs correct."
+  },
+  "14-104": {
+    "r": "Correct pair: Space Applications Centre – Ahmedabad. ISRO Satellite Centre (URSC) → Bengaluru; VSSC → Thiruvananthapuram; SHAR Centre → Sriharikota."
+  },
+  "14-105": {
+    "r": "Correct: VSSC → Trivandrum; URSC → Bengaluru. Swapped: NRSC → Hyderabad (not Dehradun); IIRS → Dehradun (not Hyderabad).",
+    "t": "Remote Sensing Centre (NRSC) is Hyderabad; Remote Sensing Institute (IIRS) is Dehradun."
+  },
+  "14-107": {
+    "r": "VSSC, Trivandrum → research in rocket propellants and development of satellite launch vehicles; ISRO itself was established in 1969."
+  },
+  "14-108": {
+    "r": "PraVaHa → ISRO's Computational Fluid Dynamics software, made by VSSC, Thiruvananthapuram, for aerodynamic design of launch and re-entry vehicles → both statements correct."
+  }
+}

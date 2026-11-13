@@ -1,0 +1,576 @@
+{
+ "08-010": {
+  "r": "Sound cannot travel in vacuum: it is a mechanical wave needing a medium (solid, liquid or gas); light, heat and electromagnetic waves can cross vacuum.",
+  "hi": [
+   "Vacuum (निर्वात)"
+  ]
+ },
+ "08-011": {
+  "r": "Radio waves are electromagnetic (R true), so they are generally unaffected by magnetic and electric fields; they do not bend in a magnetic field (A false).",
+  "hi": [
+   "Electromagnetic waves (विद्युत चुंबकीय तरंगें)"
+  ]
+ },
+ "08-012": {
+  "r": "Cosmic rays → very high-energy charged particles moving near light speed, from the Sun or outside the solar system; they are not electromagnetic waves.",
+  "hi": [
+   "Cosmic rays (ब्रह्मांडीय किरणें)"
+  ]
+ },
+ "08-014": {
+  "r": "Radiation needs no medium (radio waves, microwaves, infrared, light, X-rays, gamma rays); conduction and convection need a medium.",
+  "hi": [
+   "Radiation (विकिरण)",
+   "Convection (संवहन)"
+  ]
+ },
+ "08-015": {
+  "r": "Albedo → reflecting power: fraction of light reflected by a surface; fresh snow up to 95% (0.95), water as low as 3% (0.03).",
+  "hi": [
+   "Reflecting power (परावर्तन क्षमता)"
+  ]
+ },
+ "08-016": {
+  "r": "Statement-I false: atmosphere is heated more by terrestrial (long-wave) radiation than by incoming solar radiation. Statement-II true: CO2 and greenhouse gases absorb long-wave radiation well.",
+  "hi": [
+   "Insolation (सूर्यातप)"
+  ]
+ },
+ "08-017": {
+  "r": "Atmosphere is heated mainly by long-wave terrestrial radiation; short-wave insolation heats Earth's surface (about 51% absorbed), which then radiates heat to the air.",
+  "h": "Sun heats the ground, the ground heats the air.",
+  "hi": [
+   "Terrestrial radiation (पार्थिव विकिरण)"
+  ]
+ },
+ "08-019": {
+  "r": "Clouds and gases reflect about one-fourth of incoming solar radiation (true); Earth's surface re-emits heat as infrared, not ultraviolet (false).",
+  "t": "Don't confuse: Earth re-emits infrared (long-wave) radiation, not ultraviolet."
+ },
+ "08-020": {
+  "r": "True: heat trapped by the atmosphere keeps Earth's average temperature; CO2-like gases trap radiation well. False: no atmosphere → below freezing everywhere (only the average, about –18°C).",
+  "hi": [
+   "Greenhouse gases (ग्रीनहाउस गैसें)"
+  ]
+ },
+ "08-021": {
+  "r": "Distance between two successive crests or two successive troughs → wavelength.",
+  "hi": [
+   "Wavelength (तरंगदैर्ध्य)"
+  ]
+ },
+ "08-022": {
+  "r": "All electromagnetic waves travel at the speed of light in vacuum, about 3 lakh km per second (option a).",
+  "hi": [
+   "Speed of light (प्रकाश की चाल)"
+  ]
+ },
+ "08-023": {
+  "r": "X-rays are uncharged electromagnetic waves → not deflected by electric or magnetic fields; they can be diffracted or scattered by matter (basis of X-ray diffraction)."
+ },
+ "08-024": {
+  "r": "Supersonic waves are not electromagnetic (supersonic = faster than sound); gamma rays, X-rays and ultraviolet rays are electromagnetic waves.",
+  "c": "The book's explanation says γ-rays, X-rays and UV rays are 'examples of supersonic waves'; it means electromagnetic waves. The answer (d) is right."
+ },
+ "08-025": {
+  "r": "Longest wavelength → radio waves. Order: radio > microwave > infrared > visible > ultraviolet > X-rays > gamma rays (shortest).",
+  "h": "Radio to gamma: \"Raging Martians Invaded Venus Using X-ray Guns\"; wavelength falls along it."
+ },
+ "08-026": {
+  "r": "Shorter wavelength → higher frequency and energy. Energy: radio < microwave < infrared < visible < UV < X-rays < gamma; among options X-rays have maximum energy."
+ },
+ "08-027": {
+  "r": "Decreasing frequency: gamma rays > X-rays > ultraviolet > radio waves (code 1, 4, 2, 3)."
+ },
+ "08-028": {
+  "r": "Increasing frequency: radio waves < infrared < visible < X-rays (IV, III, II, I)."
+ },
+ "08-029": {
+  "r": "Microwaves → wavelength about 1 m to 1 mm, frequency about 300 MHz–300 GHz; best option: 1 GHz–300 GHz.",
+  "hi": [
+   "Microwaves (सूक्ष्म तरंगें)"
+  ]
+ },
+ "08-030": {
+  "r": "Crystal structure is found with X-rays (X-ray diffraction); crystallography also uses neutron and electron diffraction."
+ },
+ "08-031": {
+  "r": "Radar uses radio waves to find the range, angle or velocity of objects such as enemy aircraft, ships and vehicles.",
+  "hi": [
+   "Radio waves (रेडियो तरंगें)"
+  ]
+ },
+ "08-032": {
+  "r": "Remote sensing uses electromagnetic waves: it records electromagnetic energy reflected or emitted by Earth's surface, usually from a satellite or aircraft.",
+  "hi": [
+   "Remote sensing (सुदूर संवेदन)"
+  ]
+ },
+ "08-033": {
+  "r": "Ozone depletion lets more ultraviolet reach Earth; UV wavelength is about 10⁻⁷ m (UV-A 320–400 nm; UV-B 280–320 nm, mostly absorbed by ozone).",
+  "hi": [
+   "Ozone layer (ओज़ोन परत)"
+  ]
+ },
+ "08-034": {
+  "r": "Night vision apparatus uses infrared waves (longer wavelength than visible light); soldiers use it to find targets and intruders at night.",
+  "hi": [
+   "Infrared (अवरक्त)"
+  ]
+ },
+ "08-035": {
+  "r": "TV remote control uses infrared rays (infrared electromagnetic radiation).",
+  "t": "Remote → infrared; if infrared is not an option, choose radio waves (some remotes use them)."
+ },
+ "08-038": {
+  "r": "TV remote control: most use infrared waves, some use radio waves; with no infrared option, answer radio waves.",
+  "t": "Don't pick microwaves or sound waves; both infrared and radio waves are electromagnetic."
+ },
+ "08-039": {
+  "r": "Telecommunication → microwaves (300 MHz–300 GHz): carry thousands of channels; used for point-to-point links, terrestrial relays and satellite communication."
+ },
+ "08-040": {
+  "r": "Superimposing information (audio or video) on carrier radio waves → modulation.",
+  "hi": [
+   "Modulation (मॉडुलन)"
+  ]
+ },
+ "08-041": {
+  "r": "Not true: 'FM's frequency range is lower than AM's'. FM was invented by Edwin Armstrong (paper 1935) and needs wider bandwidth than AM.",
+  "hi": [
+   "Frequency modulation (आवृत्ति मॉडुलन)"
+  ]
+ },
+ "08-042": {
+  "r": "FM suits medium-speed communication of 1200–2400 bits per second; FM broadcast band 88–108 MHz; AM radio 530–1710 kHz (max 1200 bits per second)."
+ },
+ "08-044": {
+  "r": "Frequency = speed of light ÷ wavelength (ν = c/λ): 3 × 10⁸ m/s ÷ 30 m = 10 MHz.",
+  "h": "Use c = ν × λ: divide light speed by wavelength."
+ },
+ "08-045": {
+  "r": "Ionosphere helps radio communication because of its electrically charged ions, not ozone; long wavelength of radio waves is not the reason (neither statement accepted).",
+  "hi": [
+   "Ionosphere (आयनमंडल)"
+  ]
+ },
+ "08-046": {
+  "r": "Dish TV fails in rain: raindrops absorb radio-wave energy (turning it to heat) and scatter it from its direction; weak signals miss small antennas (all three correct)."
+ },
+ "08-047": {
+  "r": "X-rays (electromagnetic radiation) are used to diagnose intestinal diseases.",
+  "t": "Don't confuse X-rays with α, β, γ rays from radioactive decay."
+ },
+ "08-048": {
+  "r": "CT scan (computed tomography) → X-rays plus a computer give cross-sectional images of the body.",
+  "hi": [
+   "Computed tomography (संगणित टोमोग्राफी)"
+  ]
+ },
+ "08-049": {
+  "r": "X-rays (X-ray machine) → discovered by Wilhelm Rontgen; wavelength about 0.01 to 10 nanometres; used in medicine and industry."
+ },
+ "09-001": {
+  "r": "Speed of sound, ascending: nitrogen (gas) < water (liquid) < steel (solid) → III, I, II."
+ },
+ "09-002": {
+  "r": "Sound is fastest in solids (steel/metal), slower in liquids, slowest in gases; in air about 330 m/s (344 m/s at 22°C); iron 5950 m/s.",
+  "h": "Solid > Liquid > Gas: tighter particles, faster sound.",
+  "hi": [
+   "Velocity of sound (ध्वनि का वेग)"
+  ]
+ },
+ "09-005": {
+  "r": "Speed of sound: air < water < steel (Va < Vw < Vs)."
+ },
+ "09-006": {
+  "r": "At about 20°C, sound is fastest in iron (among air, granite, water, iron); speed depends on elasticity and density of the medium."
+ },
+ "09-007": {
+  "r": "Speed of sound at 25°C: air 346 m/s, hydrogen 1284 m/s, water 1498 m/s, steel 5960 m/s → fastest in steel."
+ },
+ "09-008": {
+  "r": "Sound waves travel through solids, liquids and gases (fastest in solids), but not through vacuum."
+ },
+ "09-009": {
+  "r": "Sound (a mechanical wave) is fastest in solids, then liquids, then gases; it cannot travel through vacuum.",
+  "hi": [
+   "Mechanical wave (यांत्रिक तरंग)"
+  ]
+ },
+ "09-012": {
+  "r": "Walls of a music concert hall should absorb sound (soft surfaces) so that reflected sound does not create echoes."
+ },
+ "09-013": {
+  "r": "Echo → reflection of sound from a hard, flat surface back to the listener.",
+  "hi": [
+   "Echo (प्रतिध्वनि)"
+  ]
+ },
+ "09-014": {
+  "r": "Clear echo → minimum distance about 16.5 m (about 17 m) between the observer/sound source and the reflecting surface."
+ },
+ "09-016": {
+  "r": "Speed = frequency × wavelength = 4 kHz × 0.35 m = 1.4 km/s; time for 3 km = 3 ÷ 1.4 ≈ 2.14 s."
+ },
+ "09-017": {
+  "r": "Pitch depends on frequency: high pitch = high frequency; low pitch = low frequency.",
+  "hi": [
+   "Pitch (तारत्व)"
+  ]
+ },
+ "09-018": {
+  "r": "Shrillness depends on frequency; frequency and wavelength are inversely related (v = frequency × wavelength), so book answers wavelength: shorter wavelength → shriller sound.",
+  "t": "Don't confuse: loudness depends on amplitude; shrillness (pitch) on frequency/wavelength."
+ },
+ "09-019": {
+  "r": "No atmosphere (vacuum) on the Moon → no medium for sound, so astronauts cannot hear each other directly."
+ },
+ "09-021": {
+  "r": "Both false: a shorter flute gives higher frequency (shorter wavelength); in solids like rocks sound travels as both longitudinal and transverse waves, not longitudinal only."
+ },
+ "09-022": {
+  "r": "Both true: P waves reach a seismograph before S waves; P waves → particles vibrate along the direction of travel; S waves → at right angles (up and down).",
+  "h": "P = Primary (arrives first), S = Secondary (second).",
+  "hi": [
+   "Seismograph (भूकंपलेखी)"
+  ]
+ },
+ "09-023": {
+  "r": "Ultrasonic waves (above 20,000 Hz) can kill insects, clean clothes, treat diseases, control automatic doors, detect submarines and find sea depth (all correct).",
+  "hi": [
+   "Ultrasonic waves (पराश्रव्य तरंगें)"
+  ]
+ },
+ "09-025": {
+  "r": "Human audible range → 20 Hz to 20,000 Hz.",
+  "h": "Below 20 Hz infrasonic; 20–20,000 Hz audible; above 20,000 Hz ultrasonic.",
+  "hi": [
+   "Audible range (श्रव्य परास)"
+  ]
+ },
+ "09-026": {
+  "r": "All three false: audible range is 20 Hz–20 kHz (not 10 kHz); ultrasound is above 20 kHz; earthquakes produce infrasound (below 20 Hz) before main shocks.",
+  "hi": [
+   "Infrasonic (अवश्रव्य)"
+  ]
+ },
+ "09-027": {
+  "r": "Sonography (ultrasonography) uses ultrasonic waves; used to check growth of the foetus in the womb and the mother's health.",
+  "hi": [
+   "Sonography (सोनोग्राफी)"
+  ]
+ },
+ "09-029": {
+  "r": "Bats emit ultrasonic sounds and use the returning echoes to fly and catch prey in the dark → echolocation.",
+  "hi": [
+   "Echolocation (प्रतिध्वनि निर्धारण)"
+  ]
+ },
+ "09-030": {
+  "r": "Correct: heart vibrates at infrasonic; Mach number compares an object's speed with sound's speed; ultrasonic > 20,000 Hz. Wrong: sound is fastest in solids, not gases."
+ },
+ "09-031": {
+  "r": "Stethoscope → heartbeat sound reaches the doctor's ears by multiple reflection of sound inside its tube."
+ },
+ "09-032": {
+  "r": "Supersonic jets (faster than sound) fly at stratosphere height and emit nitrogen oxide, which depletes the ozone layer.",
+  "hi": [
+   "Supersonic (पराध्वनिक)"
+  ]
+ },
+ "09-033": {
+  "r": "Speed of sound rises with temperature; at 15 km altitude it is colder, so sound (and Mach 1) is slower than at sea level (A false, R true).",
+  "hi": [
+   "Mach number (मैक संख्या)"
+  ]
+ },
+ "09-034": {
+  "r": "Decibel (dB) measures the intensity (sound-pressure level) of sound/noise in the atmosphere.",
+  "hi": [
+   "Decibel (डेसिबल)"
+  ]
+ },
+ "09-037": {
+  "r": "Normal conversation → about 30–60 dB (answer: about 30 dB); whisper 15–20 dB; machine shop 100–110 dB; jet plane 140–150 dB."
+ },
+ "09-039": {
+  "r": "Rustling of tree leaves → about 20 dB; decibel = 1/10 bel, named after Alexander Graham Bell."
+ },
+ "09-040": {
+  "r": "WHO safe noise level for a city → 45 dB."
+ },
+ "09-041": {
+  "r": "Noise Rules 2000, day/night dB: silent zone 50/40, residential 55/45, commercial 65/55, industrial 75/70 (answer pairs industrial with 70).",
+  "hi": [
+   "Silent zone (शांत क्षेत्र)"
+  ]
+ },
+ "09-042": {
+  "r": "Tolerable noise limit for humans → about 85 dB (book: continuous 80 dB is harmful, 90 dB is the maximum); normal conversation 30–60 dB; 50 dB can wake a sleeper."
+ },
+ "09-043": {
+  "r": "Sound above 80 dB → hazardous noise pollution; noise is measured in decibels.",
+  "hi": [
+   "Noise pollution (ध्वनि प्रदूषण)"
+  ]
+ },
+ "09-045": {
+  "r": "Optimum sound level for humans → about 60 dB (normal conversation); above 80 dB can damage ear cells."
+ },
+ "09-046": {
+  "r": "Loudness depends on amplitude: larger amplitude → more energy → louder sound.",
+  "t": "Don't confuse loudness (amplitude) with pitch (frequency).",
+  "hi": [
+   "Amplitude (आयाम)"
+  ]
+ },
+ "09-047": {
+  "r": "Boy hears the blow twice: sound reaches first through the steel rail (faster) and then through air."
+ },
+ "09-048": {
+  "r": "Only I true: sound slows from solid to gas. False: lower temperature raises speed (it lowers it); sound is slower in aluminium than glass (it is slower in glass)."
+ },
+ "09-049": {
+  "r": "Sound passing into another medium → frequency stays the same; speed and wavelength change (amplitude also falls with distance)."
+ },
+ "09-050": {
+  "r": "Sitarist adjusting tension tunes the string's frequency to match other instruments; string frequency depends on length, diameter, density and tension."
+ },
+ "09-051": {
+  "r": "Same note on sitar and flute is told apart by quality (timbre) only; it separates sounds of equal pitch and loudness.",
+  "hi": [
+   "Quality / timbre (गुणता)"
+  ]
+ },
+ "09-052": {
+  "r": "Basic (smallest) unit of sound in a language → phoneme; it can change meaning but has no meaning by itself.",
+  "hi": [
+   "Phoneme (स्वनिम)"
+  ]
+ },
+ "09-053": {
+  "r": "Reverberation (felt in large churches and buildings) → multiple reflections from walls, roof and ground (A and R true, R explains A).",
+  "hi": [
+   "Reverberation (अनुरणन)"
+  ]
+ },
+ "09-054": {
+  "r": "Diatonic scale has eight notes (octave; last:first = 2:1), not seven. If Sa = 256 Hz, Ni = 480 Hz and upper Sa = 512 Hz (both false).",
+  "h": "Octave = eight notes; upper Sa is double the lower Sa."
+ },
+ "09-055": {
+  "r": "TV signals cannot be received beyond a certain distance because Earth's surface is curved."
+ },
+ "09-056": {
+  "r": "Switching on a (modern) TV → audio and video start together (audio synchronizer); old sets showed video late because of warm-up time."
+ },
+ "09-057": {
+  "r": "TV broadcast: picture (video) signals → amplitude modulation; sound (audio) signals → frequency modulation.",
+  "t": "Don't swap them: TV picture → AM, TV sound → FM."
+ },
+ "09-058": {
+  "r": "TV audio signals are sent by frequency modulation (FM): larger bandwidth, little noise or interference.",
+  "h": "Picture = AM, Sound = FM."
+ },
+ "10-001": {
+  "r": "Current density → current per unit cross-section area (A/m²); a vector quantity, direction of positive charge motion.",
+  "hi": [
+   "Current density (धारा घनत्व)"
+  ]
+ },
+ "10-002": {
+  "r": "Dielectric constant (relative permittivity) → dimensionless, M⁰L⁰T⁰; measures a material's ability to store electrical energy.",
+  "hi": [
+   "Dielectric constant (परावैद्युत स्थिरांक)"
+  ]
+ },
+ "10-003": {
+  "r": "Charge e moving through potential difference V gains energy E = eV joules (e = 1.602 × 10⁻¹⁹ C; 1 eV = 1.602 × 10⁻¹⁹ J)."
+ },
+ "10-004": {
+  "r": "100 W bulb × 10 hours = 1000 Wh = 1 kWh = 1 unit; at Rs 5 per unit → Rs 5.",
+  "h": "Units = watts × hours ÷ 1000.",
+  "hi": [
+   "Kilowatt hour (किलोवाट घंटा)"
+  ]
+ },
+ "10-006": {
+  "r": "One 200 W bulb for 24 h = 200 × 24 ÷ 1000 = 4.8 units; 15 bulbs → 15 × 4.8 = 72 units."
+ },
+ "10-007": {
+  "r": "One 100 W bulb for twenty hours = 2 kWh = 2 units; five bulbs → 2 × 5 = 10 units."
+ },
+ "10-008": {
+  "r": "1 kWh = 1000 J/s × 3600 s = 36 lakh joules = 3.6 million J (option a)."
+ },
+ "10-009": {
+  "r": "100 W bulb for 4 hours = 400 Wh = 0.4 kWh = 0.4 unit."
+ },
+ "10-010": {
+  "r": "Electricity bill is based on energy in kilowatt hour (watt-based; 1 unit = 1000 W for 1 hour), not volt, ohm or ampere."
+ },
+ "10-011": {
+  "r": "Units = watt × hour ÷ 1000: 60 W × 5 h × 30 days ÷ 1000 = 9 units."
+ },
+ "10-012": {
+  "r": "1 unit = 1 kWh = 1000 J/s × 3600 s = 3,600,000 J; 250 units = 900 million joules (option c)."
+ },
+ "10-013": {
+  "r": "Electric power P = VI = I²R = V²/R (watt); IR² (I × R²) is not a power formula."
+ },
+ "10-014": {
+  "r": "Power P = VI = 220 V × 0.5 A = 110 W."
+ },
+ "10-015": {
+  "r": "Ohm's law: resistance R = V/I (voltage ÷ current), at constant temperature.",
+  "hi": [
+   "Resistance (प्रतिरोध)"
+  ]
+ },
+ "10-016": {
+  "r": "At the same voltage, P = V²/R → power ∝ 1/R; so the dim bulb has larger resistance, the bright bulb smaller."
+ },
+ "10-018": {
+  "r": "Two identical bulbs glow brighter in parallel: each gets full circuit voltage (P = V²/R); in series their resistances add up.",
+  "hi": [
+   "Parallel connection (समानांतर क्रम)"
+  ]
+ },
+ "10-019": {
+  "r": "Parallel resistors: 1/R = 1/R1 + 1/R2 → 1/1.403 = 1/2.0 + 1/R2 → R2 ≈ 4.70 kilo-ohm."
+ },
+ "10-020": {
+  "r": "Colour code: brown 1, green 5, black 0 (multiplier 1) → 15 Ω; current I = V/R = 15 V ÷ 15 Ω = 1 A."
+ },
+ "10-021": {
+  "r": "Capacitive reactance X = 1/(2πfC) → inversely proportional to frequency; inductive reactance X = 2πfL → directly proportional.",
+  "t": "Don't confuse capacitor (X ∝ 1/f) with inductor (X ∝ f)."
+ },
+ "10-022": {
+  "r": "Dynamo (generator) does not create charge; it is a converter of energy → mechanical rotation into electric current (Faraday's law)."
+ },
+ "10-023": {
+  "r": "Dynamo → converts mechanical energy into electrical energy (gives direct current via a commutator); turbines and dynamos turn mechanical energy into electricity.",
+  "hi": [
+   "Dynamo (डायनेमो)"
+  ]
+ },
+ "10-026": {
+  "r": "Book: when electrical energy is converted into motion, there is no heat loss.",
+  "c": "Real motors always lose some energy as heat; the book's answer 'no heat loss' is the ideal case."
+ },
+ "10-027": {
+  "r": "Electric motor → converts electrical energy into mechanical energy (rotating coils driven by magnetic force).",
+  "t": "Don't confuse motor (electrical → mechanical) with dynamo (mechanical → electrical)."
+ },
+ "10-029": {
+  "r": "Book's two answers: dynamo and electric motor both work on electromagnetic induction (dynamo: mechanical → electrical; motor: electrical → mechanical).",
+  "hi": [
+   "Electromagnetic induction (विद्युत चुंबकीय प्रेरण)"
+  ]
+ },
+ "10-030": {
+  "r": "Battery → converts stored chemical energy into electrical energy; parts: positive electrode, negative electrode, electrolyte."
+ },
+ "10-031": {
+  "r": "Electric motors at low voltage burn out because they draw more current (current inversely proportional to voltage)."
+ },
+ "10-032": {
+  "r": "Faraday constant F → electric charge per mole of electrons; a universal constant, F = 96485.332123 C/mol."
+ },
+ "10-033": {
+  "r": "Car battery: about 12 V (six 2 V cells in series); capacity in ampere-hour. Electrolyte is about 35% sulphuric acid (not HCl); electrodes lead and lead dioxide (not copper).",
+  "hi": [
+   "Ampere-hour (एम्पियर-घंटा)"
+  ]
+ },
+ "10-034": {
+  "r": "Ni-Cd (rechargeable) battery: nickel oxide hydroxide and cadmium electrodes, potassium hydroxide electrolyte; used in calculators, cordless appliances, transistors (all)."
+ },
+ "10-035": {
+  "r": "Electric bulb filament → tungsten; tungsten was first isolated in 1783 by Juan Jose and Fausto Elhuyar.",
+  "hi": [
+   "Filament (तंतु)"
+  ]
+ },
+ "10-038": {
+  "r": "Ordinary bulb has short life: filament wire not uniform, bulb cannot be fully evacuated, supporting wires melt at high temperature (all three)."
+ },
+ "10-039": {
+  "r": "Lit bulb's tungsten filament → about 2000–2500°C (book: up to 1500–2500°C); bulbs turn only 5–10% of electric energy into light."
+ },
+ "10-040": {
+  "r": "Lightning can burn a tree because it carries a huge amount of electrical energy (electric discharge between clouds and ground)."
+ },
+ "10-041": {
+  "r": "Lightning conductor: metal rod on top of a building, wired to the ground, carries the charge to earth instead of through the structure (A and R true, R explains A).",
+  "hi": [
+   "Lightning conductor (तड़ित चालक)"
+  ]
+ },
+ "10-042": {
+  "r": "Three-pin plug: longest pin → earth (ground) terminal; it connects first and disconnects last; earthing is for safety.",
+  "hi": [
+   "Earthing (भू-संपर्कन)"
+  ]
+ },
+ "10-044": {
+  "r": "No current flows between two charged bodies at the same potential; current needs a potential difference.",
+  "hi": [
+   "Potential difference (विभवांतर)"
+  ]
+ },
+ "10-045": {
+  "r": "Fuse → safety device in series; its thin wire melts on overload or short circuit and breaks the circuit, protecting appliances.",
+  "hi": [
+   "Fuse (फ्यूज़)"
+  ]
+ },
+ "10-046": {
+  "r": "Fuse wire must have a low melting point; fuse works on the heating effect of electric current and melts when current exceeds a limit."
+ },
+ "10-048": {
+  "r": "Fuse wire → high resistance and low melting point.",
+  "h": "Fuse: high R, low melt; it heats fast and melts fast."
+ },
+ "10-050": {
+  "r": "Fuse wire: usually tin–lead alloy (about 63% tin, 37% lead), melting point about 183°C, far lower than copper (1085°C) and aluminium; A true, R false."
+ },
+ "10-051": {
+  "r": "Short circuit → resistance falls near zero, so current rises very high (I = V/R), causing heat and fire risk."
+ },
+ "10-052": {
+  "r": "Halogen lamp → tungsten filament inside a bulb of halogen gas (iodine or bromine), giving white light. The book's 'alloy of tungsten and sodium' is wrong.",
+  "c": "A halogen lamp has a plain tungsten filament in a bulb filled with halogen gas (iodine or bromine) and gives white light, so 'tungsten and sodium' is wrong; (a) tungsten and iodine is the usual answer."
+ },
+ "10-053": {
+  "r": "Wire heats up because moving electrons collide with the conductor's atoms and pass on energy (A true); not because metal atoms collide with each other (R false)."
+ },
+ "10-054": {
+  "r": "Domestic wiring → parallel connection: if one bulb or branch is removed, current still flows in other branches and they keep working.",
+  "c": "The book says each parallel branch gets equal current; in fact each branch gets the same voltage, and current depends on the appliance."
+ },
+ "10-055": {
+  "r": "House wiring colour code: live → red, neutral → black, earth → green.",
+  "h": "Red = live danger; Black = neutral; Green = ground (earth)."
+ },
+ "10-056": {
+  "r": "Dry human body resistance → about 10,000 ohm (option b), may reach 100,000 ohm; wet or broken skin can drop it to 1000 ohm or less."
+ },
+ "10-057": {
+  "r": "CFL → Compact Fluorescent Lamp; uses about 75% less energy than traditional bulbs."
+ },
+ "10-058": {
+  "r": "LED works on electroluminescence: a semiconductor emits light when current passes (electrons and holes recombine, releasing photons).",
+  "hi": [
+   "Electroluminescence (विद्युत संदीप्ति)"
+  ]
+ },
+ "10-059": {
+  "r": "LED lamps last longer than CFLs (A) because they use less energy (R explains A); LED uses gallium arsenide to emit light."
+ },
+ "10-060": {
+  "r": "CFL → mercury vapour + phosphor; LED → semiconductor. CFL is less efficient and shorter-lived (about 6000–15,000 hours), so 'CFL lasts longer' is false."
+ }
+}

@@ -1,0 +1,387 @@
+{
+ "01-001": {
+  "r": "India → about 2.4% of world area; 7th largest (3.28 million sq km), not 6th; Tropic of Cancer divides it into two halves, so it is not wholly tropical.",
+  "hi": [
+   "Tropic of Cancer (कर्क रेखा)"
+  ]
+ },
+ "01-002": {
+  "r": "India → 7th largest by area (after Russia, Canada, USA, China, Brazil, Australia); about 2.4% of world land area; IST meridian 82°30'E; not wholly in the torrid zone.",
+  "h": "Six bigger countries: 'RCU-CBA' = Russia, Canada, USA, China, Brazil, Australia; India is 7th.",
+  "hi": [
+   "Torrid zone (उष्ण कटिबंध)"
+  ]
+ },
+ "01-005": {
+  "r": "India → about 2.4% of world area but about 17% of world population (16.7% in Census 2001; 17.5% in Census 2011)."
+ },
+ "01-006": {
+  "r": "Villages in India (Census 2011) → 6,40,932; so 5 lakh, 6 lakh 30 thousand and 8 lakh are all wrong (None of these).",
+  "hi": [
+   "Census (जनगणना)"
+  ]
+ },
+ "01-007": {
+  "r": "Wrong pair: 'states in India – 26'; India has 28 states and 8 UTs. Correct: area 3.28 million sq km; 8°4'N–37°6'N; 68°7'E–97°25'E.",
+  "hi": [
+   "Union Territory (केंद्र शासित प्रदेश)"
+  ]
+ },
+ "01-008": {
+  "r": "Mainland India's latitudinal extent → 8°4'N to 37°6'N; it lies wholly in the Northern Hemisphere.",
+  "hi": [
+   "Latitude (अक्षांश)"
+  ]
+ },
+ "01-009": {
+  "r": "Wrong: earliest sunrise in Mizoram; India's first sunrise is in Arunachal Pradesh. True: 7th largest by area; land boundary about 15,200 km; most populous (UNFPA 2023)."
+ },
+ "02-001": {
+  "r": "India extends 8°4'N–37°6'N and 68°7'E–97°25'E; Tropic of Cancer passes almost through its middle. Options with 37°17'53'' N are wrong → None of the above."
+ },
+ "02-002": {
+  "r": "The latitude passing through Sikkim also passes through Rajasthan."
+ },
+ "02-003": {
+  "r": "Longitude seventy degrees East → passes through Jaisalmer (Rajasthan).",
+  "hi": [
+   "Longitude (देशांतर)"
+  ]
+ },
+ "03-001": {
+  "r": "Tropic of Cancer → 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. 'Bihar' accepted only because Jharkhand was then part of Bihar."
+ },
+ "03-002": {
+  "r": "Tropic of Cancer → 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram; before 2000 that stretch was in Bihar (now Jharkhand); not Odisha, UP, Meghalaya.",
+  "h": "West to east: 'GRaM ChhaJ WaT Mizo' = Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram.",
+  "hi": [
+   "Tropic of Cancer (कर्क रेखा)"
+  ]
+ },
+ "03-008": {
+  "r": "Town nearest the Tropic of Cancer (23°30'N) → Gandhinagar (23°19'N, only 11' away); Agartala (23°50'N) is 20' away; Jabalpur and Ujjain farther."
+ },
+ "03-009": {
+  "r": "City nearest the Tropic of Cancer (23°30'N) among Delhi, Kolkata, Jodhpur, Nagpur → Kolkata (about 22°30'–22°37'N)."
+ },
+ "03-010": {
+  "r": "23°30' North latitude (Tropic of Cancer) divides India into almost two equal parts.",
+  "t": "Don't pick 23°30' South; the line dividing India is 23°30' North."
+ },
+ "03-011": {
+  "r": "True: Tropic of Cancer splits India into two halves; line joining easternmost and westernmost points lies north of it. False: it halves the border; widest E-W extent lies along it."
+ },
+ "03-012": {
+  "r": "Manipur lies wholly north of the Tropic of Cancer; the Tropic crosses Jharkhand, Mizoram and Tripura."
+ },
+ "03-013": {
+  "r": "Around 21 June (summer solstice) days grow longer as you go north → Delhi (most northerly option) has a longer day than Bhopal, Hyderabad, Chennai."
+ },
+ "03-014": {
+  "r": "City nearest the Tropic of Cancer among Jabalpur, Ahmedabad, Ujjain, Varanasi → Jabalpur (smallest latitude gap); Varanasi lies well north of it."
+ },
+ "03-015": {
+  "r": "Mahi river → crosses the Tropic of Cancer twice; rises in MP, flows through Rajasthan and Gujarat into the Gulf of Khambhat (Arabian Sea).",
+  "hi": [
+   "Gulf of Khambhat (खंभात की खाड़ी)"
+  ]
+ },
+ "04-001": {
+  "r": "True: mainland India spans about thirty degrees of latitude and longitude; Standard Meridian (eighty-two and a half degrees East) time is IST. False: 2½-hour Gujarat–Arunachal lag (it is 2)."
+ },
+ "04-002": {
+  "r": "Midnight at IST meridian (82°30'E), 6 a.m. at a place → it is 90° east (15° = 1 hour) → 172°30'E.",
+  "h": "Sun rises in the east: a place ahead in time lies to the east."
+ },
+ "04-003": {
+  "r": "Westernmost Gujarat village to Walong (easternmost Arunachal) → about 29°26' of longitude × 4 minutes ≈ 2 hours time difference.",
+  "h": "1° of longitude = 4 minutes of time."
+ },
+ "04-004": {
+  "r": "Correct: Aurangabad's latitude lies between Vadodara and Pune; Bengaluru lies south of Chennai. Wrong: Jabalpur's longitude lies east of both Indore and Bhopal, not between them."
+ },
+ "04-005": {
+  "r": "IST meridian (82°30'E; IST = GMT + 5:30) passes Mirzapur district (UP); nearest city among options → Rewa (81°02'–82°20'E); Ujjain is farthest."
+ },
+ "04-006": {
+  "r": "10:00 a.m. IST → Shillong (92°E): 92 − 82.5 = 9.5° × 4 minutes = 38 minutes ahead → local time 10:38 a.m.",
+  "h": "Each 1° of longitude = 4 minutes; places east of 82.5°E are ahead of IST."
+ },
+ "04-007": {
+  "r": "Noon at IST meridian (82°30'E) → at 120°E: 37°30' × 4 = 150 minutes (2 h 30 min) ahead → 14:30."
+ },
+ "04-008": {
+  "r": "IST meridian → passes through UP, MP, Chhattisgarh, Odisha and Andhra Pradesh; not Maharashtra.",
+  "h": "North to south 'U-M-C-O-A': UP, MP, Chhattisgarh, Odisha, Andhra."
+ },
+ "04-009": {
+  "r": "Standard Meridian 82°30'E → passes Mirzapur district (near Prayagraj), UP; IST = GMT + 5 hours 30 minutes.",
+  "t": "Don't pick Allahabad/Prayagraj: the meridian passes Mirzapur district nearby. The book gives no single answer (*).",
+  "hi": [
+   "Indian Standard Time (भारतीय मानक समय)"
+  ]
+ },
+ "04-013": {
+  "r": "Tirap (Arunachal, 95°31'E) and Kandla (Gujarat, 70°11'E) → about 2 hours apart; sunrise 5:00 a.m. at Tirap → about 7:00 a.m. at Kandla."
+ },
+ "04-014": {
+  "r": "City on a longitude closest to Delhi's → Bengaluru (77°19'–77°50'E); Hyderabad, Nagpur and Pune lie farther east or west."
+ },
+ "04-015": {
+  "r": "Tropic of Cancer and IST meridian intersect in Koria district, Chhattisgarh → Baghelkhand plateau.",
+  "hi": [
+   "Plateau (पठार)"
+  ]
+ },
+ "05-001": {
+  "r": "Southernmost point of India → Indira Point, Great Nicobar (Nicobar district, A&N Islands); mainland's southernmost point → Kanyakumari, Tamil Nadu (8°4'N).",
+  "t": "Don't confuse Indira Point (south, Great Nicobar) with the northernmost point near Siachen Glacier."
+ },
+ "05-004": {
+  "r": "Easternmost state → Arunachal Pradesh; westernmost state → Gujarat."
+ },
+ "05-005": {
+  "r": "Westernmost point of India → west of Guhar Moti in Kutch, Gujarat; longitude 68°7' East (not West)."
+ },
+ "05-006": {
+  "r": "Most eastward among Hyderabad, Bhopal, Lucknow, Bengaluru → Lucknow (80°34'–81°12'E); Bhopal is the most westward."
+ },
+ "05-007": {
+  "r": "Kanyakumari (Tamil Nadu), southernmost point of the mainland → where the Bay of Bengal, Arabian Sea and Indian Ocean meet."
+ },
+ "06-001": {
+  "r": "All correct: Assam borders Bhutan and Bangladesh; West Bengal borders Bhutan, Nepal (and Bangladesh); Mizoram borders Bangladesh and Myanmar."
+ },
+ "06-002": {
+  "r": "Mizoram → borders Bangladesh (west) and Myanmar (east)."
+ },
+ "06-003": {
+  "r": "States bordering Bangladesh → West Bengal, Assam, Meghalaya, Tripura, Mizoram; not Manipur (borders Myanmar) or Nagaland.",
+  "h": "'MATM + WB': Meghalaya, Assam, Tripura, Mizoram and West Bengal."
+ },
+ "06-006": {
+  "r": "States bordering Bhutan → West Bengal, Sikkim, Assam, Arunachal Pradesh; not Meghalaya (borders Bangladesh) or Bihar.",
+  "h": "Bhutan's neighbours 'SAWA': Sikkim, Arunachal, West Bengal, Assam."
+ },
+ "06-008": {
+  "r": "Composite Dialogue (November 1998) map → A Sir Creek: boundary dispute; B LOC region: troop disengagement; C: river-water sharing (Wullar Barrage/Tulbul project)."
+ },
+ "06-009": {
+  "r": "Longest border with Myanmar → Arunachal Pradesh; Myanmar-border states → Arunachal Pradesh, Nagaland, Manipur, Mizoram.",
+  "h": "North to south 'ANMM': Arunachal, Nagaland, Manipur, Mizoram."
+ },
+ "06-011": {
+  "r": "Assam has no border with Myanmar (it borders Bangladesh and Bhutan); Myanmar touches Arunachal Pradesh, Nagaland, Manipur, Mizoram."
+ },
+ "06-012": {
+  "r": "States/UTs bordering Pakistan → Ladakh, Jammu and Kashmir, Punjab, Rajasthan, Gujarat; not Himachal Pradesh or Haryana."
+ },
+ "06-013": {
+  "r": "States bordering Nepal → Uttarakhand, Uttar Pradesh, Bihar, West Bengal, Sikkim; so the pair is Sikkim–Bihar.",
+  "h": "West to east 'U-U-B-W-S': Uttarakhand, UP, Bihar, WB, Sikkim."
+ },
+ "06-014": {
+  "r": "Longest land frontier with India → Bangladesh (4096.7 km); bordered by Mizoram, Tripura, Assam, Meghalaya, West Bengal."
+ },
+ "06-015": {
+  "r": "India–Pakistan boundary → Radcliffe Line (also India–Bangladesh); Durand Line → Afghanistan; McMahon Line → China; Maginot Line → France–Germany."
+ },
+ "06-016": {
+  "r": "Radcliffe Line → India–Pakistan (and India–Bangladesh) boundary; Durand Line → boundary with Afghanistan.",
+  "t": "Don't confuse Radcliffe (Pakistan) with Durand (Afghanistan) or McMahon (China)."
+ },
+ "06-018": {
+  "r": "India–Pakistan boundary (Radcliffe Line, 1947) → superimposed boundary: one imposed on an area by an outsider or conquering power.",
+  "hi": [
+   "Superimposed boundary (अध्यारोपित सीमा)"
+  ]
+ },
+ "06-019": {
+  "r": "McMahon Line → India–China boundary; result of the Shimla Treaty of 1914; named after Sir Henry McMahon."
+ },
+ "06-020": {
+  "r": "India–China boundary line → McMahon Line, drawn by Sir Henry McMahon.",
+  "t": "Radcliffe Line → Pakistan; Durand Line → Afghanistan; Indira Point is a place, not a line."
+ },
+ "06-021": {
+  "r": "McMahon Line (Simla Convention, 3 July 1914) → boundary between Arunachal Pradesh and south-eastern China."
+ },
+ "06-024": {
+  "r": "India and Sri Lanka are separated by the Palk Strait and the Gulf of Mannar.",
+  "hi": [
+   "Strait (जलडमरूमध्य)"
+  ]
+ },
+ "06-025": {
+  "r": "Sikkim → borders three countries: Nepal, Bhutan and China."
+ },
+ "06-026": {
+  "r": "Tripura → international border (Bangladesh) on three sides: north, west, south; Assam and Mizoram lie to its east."
+ },
+ "06-027": {
+  "r": "Land border: Bangladesh 4096.7 km > China 3488 > Pakistan 3323 > Nepal 1751 > Myanmar 1643 > Bhutan 699 > Afghanistan 106 (total 15,106.7).",
+  "h": "Ascending order asked: Nepal < Pakistan < China < Bangladesh."
+ },
+ "06-028": {
+  "r": "India's territorial sea → 12 nautical miles (about 22.2 km) from the coast.",
+  "hi": [
+   "Territorial waters (प्रादेशिक जल)"
+  ]
+ },
+ "06-029": {
+  "r": "Uttarakhand districts on the Tibet border → Uttarkashi, Chamoli, Pithoragarh; Almora is not."
+ },
+ "07-001": {
+  "r": "Paleomagnetic results (record of Earth's magnetic field in rocks) → the Indian landmass has moved northward.",
+  "hi": [
+   "Palaeomagnetism (पुराचुंबकत्व)"
+  ]
+ },
+ "07-002": {
+  "r": "Indian subcontinent was part of Gondwana, which broke up about 200 million years ago → Africa, South America, Australia, Antarctica, Peninsular India, Arabia.",
+  "hi": [
+   "Gondwana land (गोंडवाना लैंड)"
+  ]
+ },
+ "07-003": {
+  "r": "India → 4 natural regions: Northern Mountains, Northern Plains, Peninsular Plateau, Coasts and Islands; split further into 6 (adds Indian Desert; coasts and islands separate)."
+ },
+ "07-004": {
+  "r": "Deccan Traps: lower trap about 150 m, middle about 1200 m, upper about 450 m deep. Wrong pair: intertrappean beds – fossils of sea plants and animals."
+ },
+ "07-005": {
+  "r": "Artesian well (water rises without a pump, by aquifer pressure) → in Uttarakhand found mostly in the Tarai region.",
+  "hi": [
+   "Artesian well (पातालतोड़ कुआँ)"
+  ]
+ },
+ "07-006": {
+  "r": "True: Meghalaya plateau extends the Peninsular plateau; Kashmir valley formed in a synclinorium; Ganga plain in a foredeep. False: Himalayas from Indian–European–Chinese plate triple convergence."
+ },
+ "07-007": {
+  "r": "Wrong: west coast formed by river deposits (it formed by submergence and emergence of land). True: Peninsula is oldest; Himalaya youngest fold mountains; Gondwana rocks hold most coal."
+ },
+ "07-008": {
+  "r": "Deccan Traps → Cretaceous-Eocene; Western Ghats → Late Cenozoic; Aravalli → Pre-Cambrian; Narmada-Tapti alluvium → Pleistocene."
+ },
+ "07-009": {
+  "r": "Kuttanad (Kerala) → lowest-altitude region of India, farmed 1.2–3.0 m below sea level; 'Rice Bowl of Kerala'; FAO Agricultural Heritage System."
+ },
+ "07-010": {
+  "r": "Desert region among the options → Sindhu (Indus Valley) area, in north-western Punjab Province (Pakistan)."
+ },
+ "07-011": {
+  "r": "Dharwar rocks in Bihar → Munger, Nawada, Jamui (south-east Bihar); Rohtas (south-west, Kaimur–Son valley) has Vindhyan formations, not Dharwar."
+ },
+ "07-012": {
+  "r": "Youngest rock system among Dharwar, Cuddapah, Vindhyan, Gondwana → Gondwana; Dharwar formed from Archean rocks, Cuddapah after Dharwar.",
+  "h": "Old to young 'D-C-V-G': Dharwar, Cuddapah, Vindhyan, Gondwana.",
+  "hi": [
+   "Rock system (शैल क्रम)"
+  ]
+ },
+ "07-013": {
+  "r": "Statement I false: J.D. Dana's Manual of Geology covers America (he coined 'Archaean'). II true: T.S. Holland split Indian rocks into Archaean, Purana, Dravidian, Aryan."
+ },
+ "07-014": {
+  "r": "Ganga Plain → described as a geosyncline (trough where sediment piles up); peneplain = level erosion surface; pediplain = joined pediments.",
+  "hi": [
+   "Geosyncline (भू-अभिनति)"
+  ]
+ },
+ "07-015": {
+  "r": "Indian (Thar) desert → lies west of the Aravallis; rainfall below 150 mm a year; Luni is its only large river. All statements correct."
+ },
+ "08-001": {
+  "r": "A true: Himalayan rivers are perennial (glacier-fed). R true: Himalaya gets most rain from the south-west monsoon. But R does not explain A.",
+  "hi": [
+   "Perennial river (सदावाहिनी नदी)"
+  ]
+ },
+ "08-002": {
+  "r": "Only statement 1 is correct: the Himalayan region has huge hydroelectric potential (perennial rivers, steep gradients, narrow valleys). Statement 2 about eastern UP and Bihar is wrong."
+ },
+ "08-003": {
+  "r": "Himalayas are still rising (about 5 mm a year) because the Indian plate is colliding with the Eurasian plate → A and R true; R explains A."
+ },
+ "08-005": {
+  "r": "Himalayas are the source of large perennial rivers because their higher ranges stay snow-covered all year → A and R true; R explains A."
+ },
+ "08-006": {
+  "r": "Oldest Himalayan range → Great Himalaya (Oligocene, 37–24 million years ago); then Middle Himalaya (Miocene); Shiwalik (Pliocene) youngest.",
+  "h": "Age falls going south: Great → Middle → Shiwalik."
+ },
+ "08-007": {
+  "r": "Without the Himalayas → Siberian cold waves over India; Indo-Gangetic plain without vast alluvium; a different monsoon pattern. All three correct."
+ },
+ "08-008": {
+  "r": "Bhabar → flat pebbly belt (8–16 km wide) along the Shiwalik foothills; so porous that streams vanish underground.",
+  "t": "Don't confuse Bhabar (pebble belt at foothills) with Tarai, Doon or Khadar.",
+  "hi": [
+   "Bhabar (भाबर)"
+  ]
+ },
+ "08-009": {
+  "r": "Shiwalik range → mainly unconsolidated sediments: river-borne pebbles, gravel, alluvium, sand and clay."
+ },
+ "08-010": {
+  "r": "Foothills of the Himalayas → Shiwalik, the outermost range; 10–50 km wide, 900–1100 m high."
+ },
+ "08-012": {
+  "r": "Shiwalik (outer Himalaya, outermost range) → formed about 2–5 million years ago in the Pliocene epoch, Cenozoic era."
+ },
+ "08-015": {
+  "r": "Shiwalik range (about 2500 km long) → average height 900–1100 m, varying by region. The book gives no single answer (*)."
+ },
+ "08-016": {
+  "r": "Kumaon Himalaya → between Satluj and Kali; Punjab Himalaya: Indus–Satluj; Nepal Himalaya: Kali–Teesta; Assam Himalaya: Teesta–Dihang.",
+  "h": "West to east 'P-K-N-A': Punjab, Kumaon, Nepal, Assam."
+ },
+ "08-017": {
+  "r": "Bhabar (8–16 km belt of boulders south of Shiwalik) → example of a piedmont situation; Tarai (15–30 km wide) lies south of it.",
+  "hi": [
+   "Piedmont (गिरिपद)"
+  ]
+ },
+ "08-018": {
+  "r": "North-Western Himalaya → Zanskar; Himachal–Uttarakhand Himalaya → Shivalik Range; Darjeeling–Sikkim Himalaya → Lepcha tribe; Arunachal Himalaya → Namcha Barwa."
+ },
+ "08-019": {
+  "r": "Evidence that the Himalayas are young fold mountains → deep gorges, U-turn river courses, parallel ranges, steep slopes with landslides (all four)."
+ },
+ "08-020": {
+  "r": "Jammu and Kashmir map, ranges 1 to 4 → Karakoram, Ladakh, Zanskar, Pir Panjal (north to south)."
+ },
+ "08-021": {
+  "r": "Ranges north to south → Karakoram, Ladakh, Zanskar, Shiwalik.",
+  "h": "K-L-Z run in alphabet order from north to south; Shiwalik at the foothills."
+ },
+ "08-022": {
+  "r": "Lesser (Middle) Himalaya, also called Himachal → between the Shiwalik (south) and Great Himalaya (north); average width about 50 km."
+ },
+ "08-023": {
+  "r": "Western Himalaya, south to north → Shiwalik → Lesser Himalaya → Great Himalaya."
+ },
+ "08-024": {
+  "r": "Youngest mountain chain → Shiwaliks (outer Himalaya, formed last); Vindhyas, Aravalli and Annamalai are much older."
+ },
+ "08-025": {
+  "r": "South to north → Dhauladhar (Lesser Himalaya), Zanskar, Ladakh, Karakoram (last three are Trans-Himalaya).",
+  "h": "Going north after Dhauladhar: Z, L, K (alphabet in reverse)."
+ },
+ "08-026": {
+  "r": "Northward sequence → Pir Panjal (Middle Himalaya), Zanskar, Ladakh, Karakoram (Trans-Himalaya)."
+ },
+ "08-027": {
+  "r": "Peaks east to west → Kanchenjunga, Everest, Annapurna, Dhaulagiri; Kanchenjunga (world's third tallest) lies on the Sikkim–Nepal border."
+ },
+ "08-028": {
+  "r": "Youngest range among the options → Patkai range (Tertiary era); Ajanta, Palkonda and Kaimur are old ranges of South and Central India."
+ },
+ "08-029": {
+  "r": "Patkai hills (India–Myanmar border) → Assam, Manipur, Meghalaya, Mizoram, Nagaland; not Tripura (it has the Mizo hills)."
+ },
+ "08-030": {
+  "r": "Pir Panjal Range → Middle Himalaya, in Himachal Pradesh and Jammu and Kashmir (south-east to north-west)."
+ }
+}

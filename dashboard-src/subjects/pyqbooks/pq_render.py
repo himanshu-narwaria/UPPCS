@@ -173,6 +173,10 @@ class Model:
             keys = sorted(q["options"])
             if len(keys) < 2 or not letters or any(l not in q["options"] for l in letters):
                 continue
+            # options that are pictures (blank) or read the same as the answer cannot be scored
+            texts = {k: re.sub(r"\s+", " ", text(v)).strip().lower() for k, v in q["options"].items()}
+            if any(not t for t in texts.values()) or any(texts[k] == texts[a] for a in letters for k in keys if k not in letters):
+                continue
             cl = self.cl_of[q["id"]]
             pid = f"p{len(self.pq) + 1:05d}"
             ch = self.chapters[q["ch"] - 1]
@@ -245,11 +249,36 @@ def tail(model, with_q):
     return "\n".join(out)
 
 
+def grouping(model):
+    """For each chapter: (book part heading to show before it, main-chapter heading to show before
+    it, short title inside its group). Geography and Science split a main chapter into sub-topic
+    units ("Climate · Rainfall"); the menus show "Climate" once and the units under it."""
+    # a main chapter counts within its book part: "Miscellaneous" in Physics is not the one in Biology
+    size = Counter((c.get("book_part"), c.get("group")) for c in model.chapters if c.get("group"))
+    part = grp = None
+    out = []
+    for c in model.chapters:
+        p_head = c["book_part"] if c.get("book_part") and c["book_part"] != part else None
+        part = c.get("book_part") or part
+        g = c.get("group")
+        multi = bool(g) and size[(c.get("book_part"), g)] > 1
+        g_head = g if multi and (g != grp or p_head) else None
+        grp = g
+        short = c["title"][len(g) + 3:] if multi and c["title"].startswith(g + " · ") else c["title"]
+        out.append((p_head, g_head, short if multi else None))
+    return out
+
+
 def toc(model):
     items = []
-    for c in model.chapters:
+    for c, (p_head, g_head, _) in zip(model.chapters, grouping(model)):
         n = c["num"]
+        if p_head:
+            items.append(f'<li class="tpart">{E(p_head)}</li>')
+        if g_head:
+            items.append(f'<li class="tgrp">{E(g_head)}</li>')
         up = sum(1 for q in model.qs if q["ch"] == n and q["up"])
+        # the full title stays here: the dashboard matches plan hours to these names
         items.append(f'<li><a href="#c{n}"><span class="no">{n}</span><span class="nm">{E(c["title"])}</span>'
                      f'<span class="p up">{up} from UP papers</span>'
                      f'<span class="q">{model.ch_count.get(f"c{n}", 0)} past-paper questions</span></a></li>')
@@ -259,8 +288,16 @@ def toc(model):
 def side_nav(model, extra):
     out = ['<nav class="side" id="side" aria-label="Contents"><a href="#home" data-v="home">Start here</a>']
     out += [f'<a href="#{v}" data-v="{v}">{E(t)}</a>' for v, t in extra]
-    out.append('<div class="lb">Chapters</div>')
-    out += [f'<a href="#c{c["num"]}" data-v="c{c["num"]}"><span>{c["num"]}</span>{E(c["title"])}</a>' for c in model.chapters]
+    groups = grouping(model)
+    if not any(p for p, _, _ in groups):
+        out.append('<div class="lb">Chapters</div>')
+    for c, (p_head, g_head, short) in zip(model.chapters, groups):
+        if p_head:
+            out.append(f'<div class="lb">{E(p_head)}</div>')
+        if g_head:
+            out.append(f'<div class="gp">{E(g_head)}</div>')
+        cls = ' class="in"' if short else ""
+        out.append(f'<a href="#c{c["num"]}" data-v="c{c["num"]}"{cls}><span>{c["num"]}</span>{E(short or c["title"])}</a>')
     out.append("</nav><main>")
     return "".join(out)
 
@@ -274,7 +311,10 @@ def clean_card(m):
     for k, lab in (("t", r"don'?t confuse"), ("h", r"memory aid"), ("r", r"remember")):
         if m.get(k):
             m[k] = re.sub(rf"^\s*{lab}\s*[:\-–]?\s*", "", m[k], flags=re.I).strip()
-            m[k] = m[k][:1].upper() + m[k][1:]
+            # capitalise an ordinary first word only: "g = GM/R²", "pH", "mRNA" stay as written
+            first = m[k].split(" ", 1)[0]
+            if len(first) > 1 and first.isalpha() and first.islower():
+                m[k] = m[k][:1].upper() + m[k][1:]
     return m
 
 
@@ -316,6 +356,15 @@ def question_html(model, q, with_ids=True):
         out.append(f'<ol class="opts">{opts}</ol>')
     if q.get("opt_note"):
         out.append(f'<p class="same">{E(q["opt_note"])}</p>')
+    shown = [re.sub(r"\s+", " ", text(v)).strip().lower() for v in q["options"].values()]
+    if letters and (not q["options"] or any(not t for t in shown)):
+        out.append(f'<p class="same">The options of this question are pictures or diagrams in the book; see PDF p. {q["page"]}.</p>')
+    elif len(set(shown)) < len(shown):
+        out.append(f'<p class="same">Two options read the same here: either they are formulas the page text cannot show, '
+                   f'or the book repeats an option. See PDF p. {q["page"]}.</p>')
+    if q.get("printed_num"):
+        out.append(f'<p class="same">The book prints this question’s number as {q["printed_num"]}, the same as the one before; '
+                   f'it is numbered {q["num"]} here.</p>')
     out.append(f'<p class="ans pt">Answer: <span class="a">{E(ans)}</span></p>')
     if cl["head"] == q["id"]:
         out.append(card_html(model, cl))

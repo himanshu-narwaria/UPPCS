@@ -1,0 +1,275 @@
+{
+  "60-019": {
+    "r": "Sleeping sickness (human African trypanosomiasis) → protozoan Trypanosoma brucei (gambiense, rhodesiense); spread by bite of tse-tse fly (Glossina).",
+    "hi": ["Sleeping sickness (निद्रा रोग)"]
+  },
+  "60-020": {
+    "r": "Sleeping sickness is NOT mosquito-borne (spread by tse-tse fly); dengue, filariasis, malaria, Zika, chikungunya are mosquito-borne.",
+    "hi": ["Mosquito (मच्छर)"]
+  },
+  "60-021": {
+    "r": "Unsafe drinking water + poor sanitation → three main communicable diseases of developing countries: malaria, acute diarrhoea, schistosomiasis."
+  },
+  "60-022": {
+    "r": "Taeniasis → intestinal tapeworm infection by Taenia solium (pork), T. saginata (beef), T. asiatica (Asian); cysts in brain → neurocysticercosis (NCC). Both statements true.",
+    "hi": ["Tapeworm (फीताकृमि)"]
+  },
+  "60-023": {
+    "r": "Leander Paes, 2003 → a cyst found in his brain (cysticercus granuloma, caused by tapeworm larva), not a tumour."
+  },
+  "61-001": {
+    "r": "Night blindness is NOT genetic (vitamin A deficiency); albinism, haemophilia and colour blindness are genetic diseases.",
+    "hi": ["Night blindness (रतौंधी)"]
+  },
+  "61-002": {
+    "r": "Phenylketonuria (PKU) → inborn error of metabolism = inherited lack of enzyme phenylalanine hydroxylase (phenylalanine → tyrosine); recessive trait; causes mental idiocy."
+  },
+  "61-004": {
+    "r": "Bubble Baby Disease = SCID (severe combined immunodeficiency), rare genetic disorder of T and B cells; baby is kept in a germ-free plastic bubble."
+  },
+  "61-005": {
+    "r": "Haemophilia → hereditary sex-linked disease; women carry it, men suffer; blood does not clot (lack of thromboplastin); bleeder's disease, 'royal disease' (Queen Victoria).",
+    "h": "Queen Victoria carried it to royal families: women carry, men bleed.",
+    "hi": ["Hereditary disease (आनुवंशिक रोग)"]
+  },
+  "61-010": {
+    "r": "Irritable Bowel Syndrome (IBS) → common gut disorder, NOT genetic; Down syndrome, haemophilia, sickle cell anaemia are hereditary."
+  },
+  "61-011": {
+    "r": "Trisomy 21 (extra copy of chromosome 21) → Down syndrome (Mongolian idiocy)."
+  },
+  "61-014": {
+    "r": "Down syndrome → change in the NUMBER of chromosomes: chromosome 21 has 3 copies instead of 2, total 47 (2x + 1).",
+    "t": "Number change (Down syndrome), not a change in chromosome structure or DNA structure."
+  },
+  "61-015": {
+    "r": "Muscular dystrophy → X-linked hereditary disease caused by a recessive gene on the sex (X) chromosome."
+  },
+  "61-016": {
+    "r": "Haemophilia → genetic disease; Diabetes → hormonal disorder; Rickets → deficiency disease; Ringworm → fungal infection."
+  },
+  "61-017": {
+    "r": "Hereditary: colour blindness, haemophilia, sickle cell anaemia. Bacterial: diphtheria, pneumonia, leprosy, syphilis, gonorrhoea, plague. Viral: AIDS, polio, Japanese B encephalitis."
+  },
+  "61-018": {
+    "r": "Men get colour blindness more → X-linked recessive; men have only one X-chromosome, so one faulty gene is enough; women have two.",
+    "hi": ["Colour blindness (वर्णांधता)"]
+  },
+  "61-019": {
+    "r": "Wrong pair: Vitamin A – colour blindness. Vitamin A lack → night blindness; colour blindness is genetic. Thiamine–beriberi, ascorbic acid–scurvy, vitamin K–clotting are correct."
+  },
+  "61-020": {
+    "r": "Colour-blind man × normal woman → normal sons, carrier daughters (0% colour-blind children); disease shows in sons of daughters (about 50%).",
+    "h": "Skips a generation: grandfather → carrier daughter → grandson."
+  },
+  "61-022": {
+    "r": "Colour-blind woman × normal man → sons colour blind; daughters only carriers (not affected)."
+  },
+  "61-023": {
+    "r": "Thalassemia → hereditary blood disorder; body cannot make enough haemoglobin → severe anaemia.",
+    "hi": ["Haemoglobin (हीमोग्लोबिन)"]
+  },
+  "62-001": {
+    "r": "Muscle fatigue → build-up of lactic acid (by-product of anaerobic metabolism) in muscles.",
+    "hi": ["Lactic acid (लैक्टिक अम्ल)"]
+  },
+  "62-002": {
+    "r": "Arthritis (gout) → deposition of uric acid crystals (monosodium urate) in joints.",
+    "hi": ["Uric acid (यूरिक अम्ल)"]
+  },
+  "62-003": {
+    "r": "High uric acid in blood (hyperuricemia) → gout: sudden burning pain, stiffness and swelling in a joint."
+  },
+  "62-004": {
+    "r": "Dropsy (body swelling) → mustard oil adulterated with argemone oil (also cyanide parts, white colour); rice husk in oil is NOT a cause."
+  },
+  "62-005": {
+    "r": "Argemone mexicana (poppy family Papaveraceae) seeds look like mustard (Brassica nigra) → common adulterant; about 1% causes disease; last major Indian outbreak 1998."
+  },
+  "62-006": {
+    "r": "Cancer → abnormal cell growth beginning from a single cell that can invade or spread; benign tumours do not spread."
+  },
+  "62-007": {
+    "r": "Carcinogens → physical, chemical or biological agents that turn normal cells into cancerous (neoplastic) cells by causing DNA mutations.",
+    "t": "Carcinogen = cause of cancer; metastasis = spread of cancer.",
+    "hi": ["Carcinogen (कैंसरजन)"]
+  },
+  "62-008": {
+    "r": "Anthophobia → fear of flowers (Greek anthos = flower, phobos = fear).",
+    "h": "Anthos = flower, as in 'anther' of a flower."
+  },
+  "62-009": {
+    "r": "Hysteria → mainly in young (unmarried) women; symptoms: anxiety, discomfort, faintness."
+  },
+  "62-010": {
+    "r": "Silicosis → lung disease from inhaling tiny bits of silica (found in sand, rock, quartz).",
+    "hi": ["Lung (फेफड़ा)"]
+  },
+  "62-011": {
+    "r": "Thyroid malfunction → iodine deficiency; goitre = enlarged thyroid; less thyroxine and triiodothyronine made.",
+    "hi": ["Goitre (घेंघा)"]
+  },
+  "62-012": {
+    "r": "Anaemia → iron deficiency; Goitre → iodine deficiency; Night blindness → vitamin A deficiency; Beri-beri → vitamin B deficiency.",
+    "hi": ["Anaemia (रक्ताल्पता)", "Goitre (घेंघा)"]
+  },
+  "62-016": {
+    "r": "Polished rice diet → beriberi (thiamine, vitamin B1 deficiency), since milling and polishing remove husk, bran and germ.",
+    "hi": ["Beriberi (बेरी-बेरी)"]
+  },
+  "62-019": {
+    "r": "Blue baby syndrome → excess nitrate in drinking water; nitrate → nitrite → methemoglobin in blood, which cannot carry oxygen.",
+    "t": "Nitrate = blue baby; fluoride = fluorosis; arsenic and chloride are distractors."
+  },
+  "62-022": {
+    "r": "Heart attack sequence: plaque (fibrous tissue + cholesterol) → clots carried into coronary arteries → vessel narrows → too little blood and oxygen (2, 4, 1, 3)."
+  },
+  "62-023": {
+    "r": "Golden Hour → critical first one hour after onset of a heart attack; most deaths occur in it if untreated."
+  },
+  "62-024": {
+    "r": "Beta-blockers (beta-adrenoceptor blocking agents) → used for heart attack, hypertension, angina, abnormal heart rhythms."
+  },
+  "62-025": {
+    "r": "Potassium (K) → essential to regulate heartbeat; also helps muscles, nerves and kidney filtering.",
+    "hi": ["Potassium (पोटैशियम)"]
+  },
+  "62-026": {
+    "r": "Potassium deficiency → low blood pressure (sources: flesh, milk, cereals, fruits, vegetables)."
+  },
+  "62-027": {
+    "r": "Albumin (plasma protein) in urine → kidney failure risk. Urine ≈ 91-96% water, about 2.6% urea, 0.3% creatinine.",
+    "hi": ["Kidney (वृक्क)"]
+  },
+  "62-028": {
+    "r": "Long fasting → kidneys are affected most."
+  },
+  "62-029": {
+    "r": "Nuclear medicines → radioisotopes (radioactive isotopes) used to study organ function and treat diseases.",
+    "hi": ["Radioisotope (रेडियोसमस्थानिक)"]
+  },
+  "62-030": {
+    "r": "Arsenic-74 → tumour; Cobalt-60 → cancer; Iodine-131 → thyroid activity; Sodium-24 → blood disorder.",
+    "h": "Iodine → thyroid (iodine also prevents goitre)."
+  },
+  "62-031": {
+    "r": "Wrong pair: Gold-198 – retinal disorders; Gold-198 treats cancer. Correct: Cobalt-60 internal neoplasm, Iodine-131 thyroid neoplasm, Phosphorus-32 leukaemia."
+  },
+  "62-032": {
+    "r": "Radio-sodium → measures speed of blood flow in the human body."
+  },
+  "62-033": {
+    "r": "Leukaemia → blood cancer starting in bone marrow; abnormal increase in white blood cells.",
+    "hi": ["White blood cells (श्वेत रक्त कणिकाएँ)"]
+  },
+  "62-034": {
+    "r": "Blood cancer (leukaemia) control → Phosphorus-32 and Cobalt-60 both used; book gives both (c) and (d), so 'more than one' in BPSC form."
+  },
+  "62-036": {
+    "r": "Cobalt-60 (synthetic isotope) → used in radiation treatment because it emits gamma (γ) rays.",
+    "hi": ["Gamma rays (गामा किरणें)"]
+  },
+  "62-037": {
+    "r": "Arsenic-74 → detects tumours; Sodium-24 → blood clots; Iodine-131 → thyroid activity; Cobalt-60 → treats cancer; Carbon-14 → dating organic material.",
+    "t": "Detect tumour = Arsenic-74; treat cancer = Cobalt-60."
+  },
+  "62-039": {
+    "r": "Muscle ache treatment → infrared radiation (heat therapy; helps cells repair; eases muscle and joint pain, spasm, stiffness).",
+    "hi": ["Infrared rays (अवरक्त किरणें)"]
+  },
+  "62-040": {
+    "r": "Oncogene → abnormal gene that makes cells turn cancerous; first identified SRC (sarcoma) in 1970, from Rous sarcoma virus of chickens."
+  },
+  "62-041": {
+    "r": "Cancer → uncontrolled multiplication of cells; they take nutrients from normal cells, which die, finally causing death."
+  },
+  "62-042": {
+    "r": "Metastasis → spread of cancer cells through blood or lymphatic system to other organs (local invasion → intravasation → circulation)."
+  },
+  "62-043": {
+    "r": "Ionised radiation → can both cause and cure cancer, depending on intensity and use (photon and particle radiation used in therapy)."
+  },
+  "62-044": {
+    "r": "Harmful radiation → affects eyes most, brain least (brain is least susceptible)."
+  },
+  "62-045": {
+    "r": "Relief from body aches → infrared radiation (thermal therapy: warms tissues, raises blood flow, relaxes muscles); wavelength longer than visible light."
+  },
+  "62-046": {
+    "r": "Book's answer: Intensity Modulated Radiotherapy (IMRT) → most recent cancer therapy; precise radiation dose to target, used for nearly every solid tumour."
+  },
+  "62-047": {
+    "r": "Interferons (IFNs) → signalling proteins released by host cells against viruses, bacteria, tumour cells; used to control cancer (IFN alpha 2 for blood cancer)."
+  },
+  "62-048": {
+    "r": "Carcinoma (cancer of epithelial tissue) → treated with platinum compounds: cisplatin, carboplatin, oxaliplatin."
+  },
+  "62-049": {
+    "r": "Cerebral palsy → brain disorder that appears in infancy or early childhood, permanently affecting body movement and muscle co-ordination."
+  },
+  "62-050": {
+    "r": "Alzheimer's disease → affects the brain: nerve cell death and tissue loss; brain shrinks.",
+    "hi": ["Brain (मस्तिष्क)"]
+  },
+  "62-051": {
+    "r": "Alzheimer's disease → linked to β-amyloid precursor protein."
+  },
+  "62-052": {
+    "r": "Arvid Carlsson (Swedish) → dopamine work led to Parkinson's disease drugs; Nobel Prize (Physiology or Medicine) 2000 with Eric Kandel, Paul Greengard."
+  },
+  "62-053": {
+    "r": "Scratching eases itching → stimulates nerves that make the brain raise antihistaminic chemicals (they block histamine of allergic reactions)."
+  },
+  "62-054": {
+    "r": "Anosmia → loss of the sense of smell (from nasal congestion, cold, allergy, sinus infection)."
+  },
+  "62-055": {
+    "r": "Correct: Dyspnoea → shortness of breath; Anosmia → loss of smell. Swapped: Anorexia = eating disorder, Insomnia = sleep disorder."
+  },
+  "62-056": {
+    "r": "Bulimia (bulimia nervosa) → eating disorder: secret binge eating then purging; person does not know when to stop eating.",
+    "t": "Don't confuse bulimia (over-eating) with anorexia nervosa (opposite)."
+  },
+  "62-057": {
+    "r": "Sleep apnea → breathing briefly and repeatedly stops (or becomes shallow) during sleep."
+  },
+  "62-058": {
+    "r": "Khaira → zinc deficiency; Anaemia → iron deficiency; Goitre → iodine deficiency; Scurvy → vitamin C deficiency.",
+    "hi": ["Zinc (जस्ता)"]
+  },
+  "62-059": {
+    "r": "Knock-knee syndrome (genu valgum: knees bend in and touch) → fluoride pollution (fluoride toxicity)."
+  },
+  "62-061": {
+    "r": "Wrong pair: Fluoride ion – indigestion; excess fluoride → fluorosis (yellow teeth, enamel damage). Correct: mercury–Minamata, cadmium–Itai-Itai, nitrate–blue baby syndrome.",
+    "h": "M–M: Minamata = Mercury."
+  },
+  "62-062": {
+    "r": "Minamata disease (Minamata city, Kumamoto, Japan; found 1956) → methyl mercury from Chisso factory wastewater, eaten in fish and shellfish.",
+    "h": "M–M: Minamata = Mercury."
+  },
+  "62-066": {
+    "r": "Itai-Itai disease → chronic cadmium poisoning (Toyama Prefecture, Japan; mass poisoning 1950, first reported 1912)."
+  },
+  "62-068": {
+    "r": "Asthma → caused by allergy (immune reaction to pollen, dust mites, mould spores, medicines).",
+    "hi": ["Asthma (दमा)"]
+  },
+  "62-069": {
+    "r": "Diet of only milk, egg and bread → no vitamin C → scurvy (spongy bleeding gums, loose teeth)."
+  },
+  "62-070": {
+    "r": "Scurvy → vitamin C deficiency; Indian gooseberry (amla), the best vitamin C source, helps treat it.",
+    "hi": ["Gooseberry (आंवला)"]
+  },
+  "62-073": {
+    "r": "Lukoskin (DRDO herbal ointment and oral liquid) → treatment of leucoderma.",
+    "hi": ["Leucoderma (सफेद दाग)"]
+  },
+  "62-074": {
+    "r": "DRDO polyherbal products: Amtooth (toothache), Lukoskin (leucoderma), Eczit (eczema). Nocdurna is NOT from DRDO (a prescription medicine)."
+  },
+  "62-075": {
+    "r": "Malaria → blood cells; Filaria → lymph node; Encephalitis → brain; Leukaemia → bone marrow."
+  }
+}

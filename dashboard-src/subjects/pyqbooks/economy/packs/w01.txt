@@ -42,7 +42,7 @@ Q: Which of the following features indicates that Indian economy is in a develop
 Options: (a) I & II only (b) I & IV (c) II & III only (d) I, II & III
 Answer: (d) I, II & III
 Also asked: The Indian Economy can be described as: -> A developing economy
-Explanation: Indian economy is characterised as a developing economy. The following features indicates that Indian economy is in a developing category– / | • | Low per capita income; | / | • | Excessive dependence on agriculture (Occupation is | / mainly agriculture); / | • | High rate of population growth and over population; | / | • | Existence of chronic unemployment and disguised | / unemployment; / | • | Poor rate of capital formation; … [shortened in this brief; the book continues]
+Explanation: Indian economy is characterised as a developing economy. The following features indicates that Indian economy is in a developing category– / Low per capita income; / Excessive dependence on agriculture (Occupation is mainly agriculture); / High rate of population growth and over population; / Existence of chronic unemployment and disguised unemployment; / Poor rate of capital formation; / Low level of technology; / Poor quality … [shortened in this brief; the book continues]
 
 [01-012] Ch1 · Nature of Indian Economy · asked in 1 paper(s): U.P. Lower Sub. (Spl.) (Pre) 2004
 Q: The Indian Economy is characterised by:
@@ -95,9 +95,9 @@ Q: The term National Income represents:
 Options: (a) Gross National Product at market prices minus depreciation (b) Gross National Product at market prices minus depreciation plus net factor income from abroad (c) Gross National Product at market prices minus depreciation and indirect taxes plus subsidies (d) Gross National Product at market prices minus net factor income from abroad
 Answer: (c) Gross National Product at market prices minus depreciation and indirect taxes plus subsidies
 Also asked: National Income is: -> Net National Product at factor cost
-Also asked: The Net National Product at Market Price (N.N.P.) is: -> Gross National Product at Market Price – Depreciation
+Also asked: The Net National Product at Market Price (N.N.P.(MP)) is: -> Gross National Product at Market Price – Depreciation
 Also asked: National Income (NI) is: -> NI = NNP at Market Price – (Indirect taxes – Subsidies)
-Explanation: The term National Income (NI) represents Gross National Product at market prices (GNP) minus depreciation and indirect taxes plus subsidies. Net National Product at Factor Cost (NNP) is known as National Income (NI). / NNP = GNP – Depreciation / NNI (NI) = NNP – Indirect Taxes + Subsidies / | NNP | – Net Product Taxes – Net Production Taxes | / | NI = GNP | – Depreciation – Indirect Taxes + Subsidies | / The relation between … [shortened in this brief; the book continues]
+Explanation: The term National Income (NI) represents Gross National Product at market prices (GNP(MP)) minus depreciation and indirect taxes plus subsidies. Net National Product at Factor Cost (NNP(FC)) is known as National Income (NI). / NNP(MP) = GNP(MP) – Depreciation / NNI(FC)(NI) = NNP(MP) – Indirect Taxes + Subsidies / NNP(MP) – Net Product Taxes – Net Production Taxes / NI = GNP(MP) – Depreciation – Indirect Taxes + Subsidies … [shortened in this brief; the book continues]
 
 [02-005] Ch2 · National Income & Gross Domestic Product · asked in 1 paper(s): Uttarakhand P.C.S. (Pre) 2021
 Q: Which of the following statement is correct?
@@ -142,7 +142,10 @@ Answer: (d) non-organized sector
 Explanation: Non-organized sector is one of the main problems in calculating National Income in India. Quite often, the unorganized sector, i.e., small scale units, agriculture sector, etc., do not keep proper records relating to workers and other factors of production for various reasons. Other main problems in calculating National Income in India includes: / Inadequate and unreliable data, problem of double counting, … [shortened in this brief; the book continues]
 
 [02-012] Ch2 · National Income & Gross Domestic Product · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre) 2020
-Q: Read the following statements and choose the correct option: Statement I: Net Domestic Product = Gross Domestic Product + Depreciation. Statement II: Per Capita Income = Net Domestic Product/ Total Population of the Nation. Statement III: Net Domestic Product is the better metrics than Gross Domestic Product for comparing the economies of the world.
+Q: Read the following statements and choose the correct option:
+   Statement I: Net Domestic Product = Gross Domestic Product + Depreciation.
+   Statement II: Per Capita Income = Net Domestic Product/ Total Population of the Nation.
+   Statement III: Net Domestic Product is the better metrics than Gross Domestic Product for comparing the economies of the world.
 Options: (a) Statement I, II and III all are true (b) Only Statement I and II are true (c) Only Statement II and III are true (d) None of the above options is true
 Answer: (d) None of the above options is true
 Explanation: Net Domestic Product (NDP) is an annual measure of the economic output of a nation that is calculated by subtracting depreciation from Gross Domestic Product (GDP). It means, Net Domestic Product = Gross Domestic Product – Depreciation. Hence, Statement I is incorrect while Statement II is also not true. Per Capita Income is the average income earned per person in a nation or geographic region in a specified year. … [shortened in this brief; the book continues]
@@ -601,7 +604,7 @@ Explanation: Capital formation is a term used to describe the net capital accumu
 
 [02-086] Ch2 · National Income & Gross Domestic Product · asked in 1 paper(s): I.A.S. (Pre) 1995
 Q: The main reason for low growth rate in India, inspite of high rate of savings and capital formation is:
-Options: (a) high birth rate (b) low level offoreign aid (c) low capital-output ratio (d) high capital-output ratio
+Options: (a) high birth rate (b) low level of foreign aid (c) low capital-output ratio (d) high capital-output ratio
 Answer: (d) high capital-output ratio
 Explanation: Capital required for one unit of production is known as capital-output ratio. The lower the capital-output ratio, higher the productivity of capital and the economic growth rate of that country. The underdeveloped and developing economies have high capital-output ratio and that is why their economic growth rate has been low. One of the most important reason for India not attaining the expected growth rate is its … [shortened in this brief; the book continues]
 
@@ -651,12 +654,12 @@ Q: Which of the following reasons are mainly responsible for slow growth of Real
    1. Rapid increase in population
    2. High increase in prices
    3. Slow growth in agriculture and industrial sectors
-   4. Unavailablity offoreign exchange
+   4. Unavailablity of foreign exchange
    Find the correct answer using following codes -
    Codes:
 Options: (a) 1 and 2 only (b) 1, 2 and 3 only (c) 1 and 4 only (d) All of the above
 Answer: (b) 1, 2 and 3 only
-Explanation: All the factors mentioned in the above question were responsible for slow growth in Real Per Capita Income of India during the question period. But at present there is sufficient availability offoreign exchange in India. Thus, in the current scenario option (b) will be the correct answer.
+Explanation: All the factors mentioned in the above question were responsible for slow growth in Real Per Capita Income of India during the question period. But at present there is sufficient availability of foreign exchange in India. Thus, in the current scenario option (b) will be the correct answer.
 
 [02-093] Ch2 · National Income & Gross Domestic Product · asked in 1 paper(s): U.P.P.C.S. (Mains) 2009
 Q: In the 2001-2010 decade, the highest rate of gross domestic savings was achieved in the year –
@@ -690,7 +693,7 @@ Explanation: Household sector contributes the most in savings in India.As per Ec
 
 [02-098] Ch2 · National Income & Gross Domestic Product · asked in 1 paper(s): U.P.P.C.S. (Spl.) (Mains) 2004
 Q: In the context of share in savings in India in the last four years, which one of the following statements is correct?
-Options: (a) Household savings in the form offinancial assets has increased (b) Share of public sector in savings has increased (c) Share of corporate sector in savings has increased (d) Household savings in the form offinancial assets has declined
+Options: (a) Household savings in the form of financial assets has increased (b) Share of public sector in savings has increased (c) Share of corporate sector in savings has increased (d) Household savings in the form of financial assets has declined
 Answer: (c) Share of corporate sector in savings has increased
 Explanation: In the context of the time period in which the question was asked, the share of private corporate sector in savings in the previous four years had increased (from 3.4% in 2001-02 to / 8.7% in 2004-05 and 10.2% in 2005-06). At present, in the last many years the share of household sector, private corporate sector and public sector in gross domestic savings had a tendency of slight fluctuations, but more or less their … [shortened in this brief; the book continues]
 
@@ -830,7 +833,7 @@ Answer: (d) Sustainable development
 Explanation: Balancing the need to use resources and also conserve them for the future is called sustainable development. In the year 1987, The World Commission on Environment and Development (WCED) released its report. 'Our Common Future', known also as the 'Brundtland Report' that gave the definition of sustainable development. As per this report, sustainable development is development that meets the needs of the present … [shortened in this brief; the book continues]
 
 [03-021] Ch3 · Sustainable Economic Development · asked in 1 paper(s): I.A.S. (Pre) 2010
-Q: Sustainable development is described as the development that meets the needs of the present without compromising the ability offuture generations to meet their own needs. In this perspective, inherently the concept of sustainable development is intertwined with which of the following concepts?
+Q: Sustainable development is described as the development that meets the needs of the present without compromising the ability of future generations to meet their own needs. In this perspective, inherently the concept of sustainable development is intertwined with which of the following concepts?
 Options: (a) Social justice and empowerment (b) Inclusive Growth (c) Globalization (d) Carrying capacity
 Answer: (d) Carrying capacity
 Explanation: Inherently the concept of sustainable development is intertwined with the concept of carrying capacity. Carrying capacity is the maximum number, density, or biomass of a population that a specific area can support sustainably. In other words, the carrying capacity of an environment is the maximum population size of a biological species that can be sustained by that specific environment, given the food, habitat, … [shortened in this brief; the book continues]
@@ -951,7 +954,7 @@ Explanation: For the first time a new chapter on sustainable development and cli
 Q: ‘Kisan Divas’ is celebrated on:
 Options: (a) October 23 (b) November 23 (c) December 23 (d) September 23
 Answer: (c) December 23
-Explanation: ‘Kisan Divas’ is celebrated in India every year on 23 December, the birth anniversary offormer Prime Minister of India Chaudhary Charan Singh.
+Explanation: ‘Kisan Divas’ is celebrated in India every year on 23 December, the birth anniversary of former Prime Minister of India Chaudhary Charan Singh.
 
 [04-002] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): U.P. R.O./A.R.O. (Pre) 2021
 Q: Which of the following is not mentioned in the 'Farmers' Produce, Trade and Commerce Bill 2020' of India?
@@ -977,9 +980,9 @@ Explanation: Genetic industries are engaged in re-production and multiplication 
 
 [04-005] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): 66th B.P.S.C. (Pre) 2020
 Q: Which one among the followings is not an objective of food management in India?
-Options: (a) Distribution of food grains (b) Procurement of food grains (c) Maintenance of food grains buffer stock (d) Export offood grains (e) None of the above / More than one of the above
-Answer: (d) Export offood grains
-Explanation: Procurement and distribution offood grains and maintenance of food grains buffer stock are main objectives of food management in India, while export of food grains is not an objective of food management in India.
+Options: (a) Distribution of food grains (b) Procurement of food grains (c) Maintenance of food grains buffer stock (d) Export of food grains (e) None of the above / More than one of the above
+Answer: (d) Export of food grains
+Explanation: Procurement and distribution of food grains and maintenance of food grains buffer stock are main objectives of food management in India, while export of food grains is not an objective of food management in India.
 
 [04-006] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): 68th B.P.S.C. (Pre) 2022
 Q: What is the policy measure adopted by the Government of India to improve the system of agricultural marketing?
@@ -1150,7 +1153,7 @@ Explanation: In the beginning of Planning era i.e. in 1950-51, the share of agri
 
 [04-030] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): Chhattisgarh P.C.S. (Pre) 2021
 Q: What is/are true in reference to Agriculture Census (2015-16)?
-   (i) Small and marginal farmers are 86.2% of total farmers whereas they hold only 47.3% offarm land (out of total farm land).
+   (i) Small and marginal farmers are 86.2% of total farmers whereas they hold only 47.3% of farm land (out of total farm land).
    (ii) Statewise, based on total number of farmers, Maharashtra is at third position.
    (iii) Statewise, based on total farmed land area, Rajasthan is at first position.
 Options: (a) (i), (ii) and (iii) (b) (i) and (iii) (c) (i) and (ii) (d) Only (i)
@@ -1235,7 +1238,7 @@ Explanation: As per the figures of 2009-10, India's average cropping intensity w
 Q: In which of the following years, foodgrain production had a negative growth rate?
 Options: (a) 2001-02 (b) 2003-04 (c) 2004-05 (d) 2005-06
 Answer: (c) 2004-05
-Explanation: Among the given years, in 2004-05 the foodgrain production had a negative growth rate. As per the 2nd Advance Estimates of production offoodgrains for 2023-24 and previous estimates, in last 15 years the total foodgrain production has recorded negative growth in the year 2009-10, 2012-13, 2014-15 and 2015-16.
+Explanation: Among the given years, in 2004-05 the foodgrain production had a negative growth rate. As per the 2nd Advance Estimates of production of foodgrains for 2023-24 and previous estimates, in last 15 years the total foodgrain production has recorded negative growth in the year 2009-10, 2012-13, 2014-15 and 2015-16.
 
 [04-044] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): U.P.P.C.S. (Mains) 2017
 Q: In which of the following years, growth rate in agriculture and allied sector was negative?
@@ -1262,12 +1265,12 @@ Answer: (a) Third
 Explanation: Agriculture demonstrated negative growth in the Third Five Year Plan. During the years 1961-65, the growth rate of agriculture was recorded at (–) 1.0%.
 
 [04-048] Ch4 · Agriculture and Allied Sectors · asked in 2 paper(s): U.P.U.D.A./L.D.A. (Pre) 2002*; U.P.P.C.S. (Pre) 2003
-Q: Assertion (A): Near self -sufficiency has been achieved in India in the production offoodgrains.
+Q: Assertion (A): Near self -sufficiency has been achieved in India in the production of foodgrains.
    Reason (R): India no longer imports foodgrains in bulk quantity.
    In the context of above statements, which of the following is correct:
 Options: (a) Both (A) and (R) are true and (R) is the correct explanation of(A). (b) Both (A) and (R) are true but (R) is not the correct explanation of(A). (c) (A) is true but (R) is false. (d) (A) is false but (R) is true.
 Answer: (a) Both (A) and (R) are true and (R) is the correct explanation of(A).
-Explanation: After the green revolution there has been multifold increase in the production of foodgrains in the country. The production offoodgrains increased from 50.8 million tonnes in 1950-51 to 211.9 million tonnes in 2001-02. Thus, in this period production of foodgrains increased more than four times and near self-sufficiency has been achieved in India. Indian import offoodgrains was only 4.5% of the total import value in … [shortened in this brief; the book continues]
+Explanation: After the green revolution there has been multifold increase in the production of foodgrains in the country. The production of foodgrains increased from 50.8 million tonnes in 1950-51 to 211.9 million tonnes in 2001-02. Thus, in this period production of foodgrains increased more than four times and near self-sufficiency has been achieved in India. Indian import of foodgrains was only 4.5% of the total import value … [shortened in this brief; the book continues]
 
 [04-049] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): U.P.P.C.S. (Spl.) (Mains) 2008
 Q: What do we mean by the statement "India has achieved national food security but has not secured household security"?
@@ -1301,7 +1304,7 @@ Explanation: China is the largest producer of vegetables and fruits in the world
 Q: The amount of onion exported from India in 2015-16 was about:
 Options: (a) 7 lakh tonnes (b) 9 lakh tonnes (c) 10 lakh tonnes (d) 12 lakh tonnes
 Answer: (d) 12 lakh tonnes
-Explanation: According to the data of Agricultural and Processed Food Products Export Development Authority (APEDA), in the year 2015-16 India exported a total of 12,01,245.29 metric tonnes of onions, the total value of which was Rs. 2747.41 crore. The country has exported 25,25,258.38 metric tonnes offresh onion to the world for the worth of Rs. 561.37 million US dollar during the year 2022-23.
+Explanation: According to the data of Agricultural and Processed Food Products Export Development Authority (APEDA), in the year 2015-16 India exported a total of 12,01,245.29 metric tonnes of onions, the total value of which was Rs. 2747.41 crore. The country has exported 25,25,258.38 metric tonnes of fresh onion to the world for the worth of Rs. 561.37 million US dollar during the year 2022-23.
 
 [04-054] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): U.P. R.O./A.R.O. (Pre) 2021
 Q: 'Kashi Lalima' is the variety of which of the following crops?
@@ -1649,7 +1652,7 @@ Q: Which of the following is not correctly matched?
    Animal Breed
 Options: (a) Buffalo – Bhadawari (b) Cow – Sindhi (c) Goat – Jamunapari (d) Sheep – Tharparkar
 Answer: (d) Sheep – Tharparkar
-Explanation: Bhadawari is a breed ofbuffalo. They are basically found in Uttar Pradesh and Madhya Pradesh. Sindhi (Red Sindhi) is a breed of cow originating from Sindh province of Pakistan. In India, it is found in Punjab, Haryana, Karnataka, Tamil Nadu, Kerala and Odisha. Jamunapari is an Indian breed of domestic goat originating in Uttar Pradesh. Tharparkar is a breed of cow found in Gujarat and Rajasthan. Hence, option (d) is … [shortened in this brief; the book continues]
+Explanation: Bhadawari is a breed of buffalo. They are basically found in Uttar Pradesh and Madhya Pradesh. Sindhi (Red Sindhi) is a breed of cow originating from Sindh province of Pakistan. In India, it is found in Punjab, Haryana, Karnataka, Tamil Nadu, Kerala and Odisha. Jamunapari is an Indian breed of domestic goat originating in Uttar Pradesh. Tharparkar is a breed of cow found in Gujarat and Rajasthan. Hence, option (d) … [shortened in this brief; the book continues]
 
 [04-115] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): U.P. R.O./A.R.O. (Pre) 2023
 Q: With reference to the Marine Products Export Development Authority (MPEDA), which of the following statement/s is/are correct?
@@ -1744,9 +1747,9 @@ Answer: (d) Seed-fertilizer-Water technology
 Explanation: Among the given options, Seed-Fertilizer-Water technology most appropriately describes the nature of Green Revolution in India which was initiated in late sixties of20th century. By using seeds with improved genetics (high-yielding variety seeds), fertilizers, water for irrigation, agricultural machinery, pesticides etc., the Green Revolution changed India's status from a food-deficient country to one of the world's … [shortened in this brief; the book continues]
 
 [04-129] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): I.A.S. (Pre) 1994
-Q: Self-sufficiency in food, in the true sense offreedom from hunger, has not been achieved in India inspite of a more than three-fold rise in foodgrains production over 1950- 1990. Which of the following are the reasons for it?
+Q: Self-sufficiency in food, in the true sense of freedom from hunger, has not been achieved in India inspite of a more than three-fold rise in foodgrains production over 1950- 1990. Which of the following are the reasons for it?
    1. The green revolution has been restricted to small pockets of the country.
-   2. The cost offood is too high compared to the earnings of the poor.
+   2. The cost of food is too high compared to the earnings of the poor.
    3. Toomuchemphasisislaid on wheatandpaddycompared to the coarse grains.
    4. The gains of the green revolution have largely accrued to the cash crop rather than food crops.
    Select the correct answer from the codes given below –
@@ -1825,7 +1828,7 @@ Options: (a) 1997 (b) 1998 (c) 1999 (d) 2000
 Answer: (c) 1999
 Also asked: National Agricultural Insurance Scheme was launched in the year: -> 1999-2000
 Also asked: In which financial year, the Union Budget proposed to extend the National Agriculture Insurance Scheme to Kharif crop as -> 2004-05
-Explanation: The Union Ministry of Agriculture launched the National Agricultural Insurance Scheme (NAIS) from the Rabi, 1999- 2000 season in place of Comprehensive Crop Insurance Scheme which was started on April 1, 1985. NAIS was launched as part of risk management in agriculture with the objective of providing financial support to the farmers in the event offailure of crops as a result of natural calamities, pests and … [shortened in this brief; the book continues]
+Explanation: The Union Ministry of Agriculture launched the National Agricultural Insurance Scheme (NAIS) from the Rabi, 1999- 2000 season in place of Comprehensive Crop Insurance Scheme which was started on April 1, 1985. NAIS was launched as part of risk management in agriculture with the objective of providing financial support to the farmers in the event of failure of crops as a result of natural calamities, pests and … [shortened in this brief; the book continues]
 
 [04-142] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): U.P.U.D.A./ L.D.A. (Mains) 2010
 Q: Weather Based Crop Insurance scheme was first implemented in:
@@ -1875,7 +1878,7 @@ Explanation: The 'Vishesh Krishi Upaj Yojna' is related to increase in export of
 
 [04-150] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): 66th B.P.S.C. (Pre) 2020
 Q: The objective of PM-KUSUM Scheme is:
-Options: (a) to reduce farmers' dependence on monsoon for irrigation (b) to reduce farmers' dependence on money-lenders for credit (c) promotion offloriculture in India (d) to remove farmers' dependence on diesel and kerosene and to link pump sets to solar energy (e) None of the above / More than one of the above
+Options: (a) to reduce farmers' dependence on monsoon for irrigation (b) to reduce farmers' dependence on money-lenders for credit (c) promotion of floriculture in India (d) to remove farmers' dependence on diesel and kerosene and to link pump sets to solar energy (e) None of the above / More than one of the above
 Answer: (d) to remove farmers' dependence on diesel and kerosene and to link pump sets to solar energy
 Explanation: PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyaan) Scheme is aimed at ensuring energy security for farmers in India, along with honouring India's commitment to increase the share of installed capacity of electric power from non-fossil fuel sources to 40% by 2030 as part of Intended Nationally Determined Contributions (INDCs). The PM-KUSUM Scheme was launched in 2019. To remove farmers' dependence … [shortened in this brief; the book continues]
 
@@ -2078,7 +2081,7 @@ Answer: (a) Cabinet Committee on Economic Affairs
 Explanation: The Cabinet Committee on Economic Affairs (CCEA) approves the Fair and Remunerative Price (FRP) of the sugarcane on the basis of the recommendations of the Commission for Agricultural Costs and Prices (CACP) in consultation with the State Governments and after taking feedback from the associations of sugar industry.
 
 [04-184] Ch4 · Agriculture and Allied Sectors · asked in 1 paper(s): I.A.S. (Pre.) 2019
-Q: The economic cost offoodgrains to the Food Corporation of India is Minimum Support Price and bonus (ifany) paid to the farmers plus
+Q: The economic cost of foodgrains to the Food Corporation of India is Minimum Support Price and bonus (ifany) paid to the farmers plus
 Options: (a) transportation cost only (b) interest cost only (c) procurement incidentals and distribution cost (d) procurement incidentals and charges for godowns
 Answer: (c) procurement incidentals and distribution cost
 Explanation: The economic cost of foodgrains to the Food Corporation of India (FCI) is a total of acquisition cost (Minimum Support Price with bonus paid to the farmers and procurement incidentals) plus distribution cost. / Economic cost of foodgrains / to the FCI / Acquisition Cost + Distribution Cost / MSP and bonus (if any) / Procurement incidentals paid to the farmers
@@ -2116,7 +2119,7 @@ Explanation: One of the 14 kharifcrops for which the Government of India provide
 Q: Since 1997-98, which statement is correct regarding Minimum Support Price (MSP)?
 Options: (a) MSP = C2 costs (b) MSP > C2 costs (c) MSP < C2 costs (d) MSP is independent to C2 cost.
 Answer: (b) MSP > C2 costs
-Explanation: CACP recommends that MSP should be considered on the basis of C2 costs. C2 cost includes all actual expenses in cash and kind incurred in production by actual owner plus rent paid for leased land plus imputed value offamily labour plus interest on the value of owned capital assets (excluding land) plus rental value of owned land (net of land revenue). Since 1997-98, the Minimum Support Prices (MSPs) for major crops … [shortened in this brief; the book continues]
+Explanation: CACP recommends that MSP should be considered on the basis of C2 costs. C2 cost includes all actual expenses in cash and kind incurred in production by actual owner plus rent paid for leased land plus imputed value of family labour plus interest on the value of owned capital assets (excluding land) plus rental value of owned land (net of land revenue). Since 1997-98, the Minimum Support Prices (MSPs) for major crops … [shortened in this brief; the book continues]
 
 [04-190] Ch4 · Agriculture and Allied Sectors · asked in 6 paper(s): 65th B.P.S.C. (Pre) 2019; U.P.P.C.S. (Mains) 2002; U.P.P.C.S. (Spl.) (Pre) 2008; U.P.P.C.S. (Pre) (Re. Exam.) 2015; M.P.P.C.S. (Pre) 1990; M.P.P.C.S. (Pre) 1992
 Q: Who determines the minimum support price in India?
@@ -2255,7 +2258,7 @@ Q: Under the Kisan Credit Card scheme, short-term credit support is given to far
    2. Purchase of combine harvesters, tractors and mini trucks
    3. Consumption requirements of farm households
    4. Post-harvest expenses
-   5. Construction offamily house and setting up of village cold storage facility
+   5. Construction of family house and setting up of village cold storage facility
    Select the correct answer using the code given below:
 Options: (a) 1, 2 and 5 only (b) 1, 3 and 4 only (c) 2, 3, 4 and 5 only (d) 1, 2, 3, 4 and 5
 Answer: (b) 1, 3 and 4 only
@@ -2595,7 +2598,7 @@ Q: Consider the following statements:
    Which of the above statements is/are correct?
 Options: (a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2
 Answer: (b) 2 only
-Explanation: The Factories Act, 1881 was passed with a view to improve working conditions of labour in British India. The Act prohibited the employment of children under the age of seven, limited the number of working hours for children below the age of twelve and required the proper fencing of dangerous machinery. It had not provisions of fixing the wages or formation of trade unions. Hence, statement 1 is incorrect. Statement … [shortened in this brief; the book continues]
+Explanation: The Factories Act, 1881 was passed with a view to improve working conditions of labour in British India. The Act prohibited the employment of children under the age of seven, limited the number of working hours for children below the age of twelve and required the proper fencing of dangerous machinery. It had not provisions of fixing the wages or formation of trade unions. Hence, statement 1 is incorrect. / Statement … [shortened in this brief; the book continues]
 
 [05-047] Ch5 · Industrial Sector · asked in 1 paper(s): U.P.P.C.S. (Pre) 2021
 Q: Which of the following labour related Acts have been amalgamated into the 'Code on Wages, 2019'? I. Minimum Wages Act II. Payment of Bonus Act III. The Contract Labour Act IV. Equal RemunerationAct Select the correct answer using the codes given below. Codes:

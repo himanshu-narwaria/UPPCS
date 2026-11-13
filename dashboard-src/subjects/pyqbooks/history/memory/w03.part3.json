@@ -1,294 +1,327 @@
 {
-  "21-038": {
-    "r": "When Raja Wodeyar founded Mysore (1612 A.D.), Vijayanagara ruler → Venkata II (Aravidu, capital Chandragiri); Aravidu began when Tirumala ousted Sadasiva (1570 AD)."
-  },
-  "21-039": {
-    "r": "Chief feature of Vijayanagara finance → land revenue, fixed after measuring and grading land; tax 'Shist' (Rai Rekha); revenue department 'Athavane'.",
-    "hi": ["Land revenue (भू-राजस्व)"]
-  },
-  "21-040": {
-    "r": "Both correct: Krishna Deva's land tax varied with land quality (wet, dry, orchards, woods); private workshop owners paid an industry tax."
-  },
-  "21-041": {
-    "r": "Ruins of the old Vijayanagara capital → Hampi (central Karnataka); Virupaksha temple; UNESCO World Heritage Site."
-  },
-  "21-043": {
-    "r": "Vijayanagara capital Hampi → on the southern bank of the Tungabhadra (now Vijayanagara district, Karnataka).",
-    "hi": ["River bank (नदी तट)"]
-  },
-  "21-044": {
-    "r": "Vijayanagara ruler who sent an embassy to the Chinese emperor → Bukka I (1356-77 AD), in 1374 AD."
-  },
-  "21-045": {
-    "r": "Telugu poet Srinath (1365-1441 AD) → court of Deva Raya II; also served Reddy ruler Pedakomati Vema of Kondavidu.",
-    "c": "Book notes CGPSC deleted this question in its revised answer key."
-  },
-  "21-046": {
-    "r": "Kalyana Mandapas (halls for divine weddings) → notable feature of Vijayanagara temples.",
-    "t": "Don't pick Chalukya, Chandela or Rashtrakuta; Kalyana Mandapa is a Vijayanagara hallmark."
-  },
-  "21-047": {
-    "r": "Vijaya Vitthala temple with 56 musical pillars → Hampi; built by Krishnadeva Raya (1509-29 AD), continued under Achyutaraya."
-  },
-  "21-048": {
-    "r": "Dance tradition first developed under Vijayanagara → Yakshagana, folk dance of coastal Karnataka on mythological stories.",
-    "hi": ["Folk dance (लोक नृत्य)"]
-  },
-  "22-001": {
-    "r": "Barani did not call the Sultanate truly Islamic because the majority of the population did not follow Islam."
-  },
-  "22-002": {
-    "r": "Most Sultans and amirs of the Sultanate period → Turkish; amirs grew powerful when the Sultan was weak or a child.",
-    "hi": ["Nobles (अमीर)"]
-  },
-  "22-003": {
-    "r": "Only 1 correct: Amil collected revenue in a Pargana. Wrong: Iqta was not indigenous; Mir Bakshi was a Mughal office, not Khalji."
-  },
-  "22-004": {
-    "r": "Not true of Iqta: revenue went straight to the Sultan. Muqti kept it for administration and troops; Iqta introduced by Iltutmish; Siyasatnama a source.",
-    "hi": ["Iqta (इक्ता)"]
-  },
-  "22-005": {
-    "r": "A true: Sultanate land = Khalisa and Jagirs (Iqta). R false: Khalisa was under direct state control; a Jagir was a revenue assignment, not state-held land.",
-    "t": "Khalisa = crown land; Jagir/Iqta = assigned land. Don't swap them."
-  },
-  "22-006": {
-    "r": "Ascending size: Pargana (Shiqdar) < Sarkar (Faujdar) < Suba (Subedar); villages lay under the Pargana.",
-    "h": "P-S-S: Pargana → Sarkar → Suba, small to big."
-  },
-  "22-007": {
-    "r": "Diwan-i-Arz (military department) → Balban (1266-1286 A.D.), separated from Diwan-i-Wizarat (finance).",
-    "hi": ["Military department (सैन्य विभाग)"]
-  },
-  "22-008": {
-    "r": "Wrong pair: Diwan-i-Riyasat–Balban; it was Alauddin's market-control department. Correct: Mustakhraj–Alauddin; Amir-i-Kohi–Muhammad bin Tughluq; Khairat–Firuz Tughluq."
-  },
-  "22-009": {
-    "r": "Correct: Diwan-i-Bandagan (slaves) → Firuz Shah Tughluq. Mustakhraj → Alauddin Khalji; Amir-i-Kohi → Muhammad bin Tughluq; Arz → Balban."
-  },
-  "22-010": {
-    "r": "Diwan-i-Amir-i-Kohi → agriculture department of Muhammad bin Tughlaq, giving direct aid to farmers to bring more land under cultivation."
-  },
-  "22-012": {
-    "r": "Diwan-i-Arz → military; Diwan-i-Risalat → religious (and foreign) matters; Diwan-i-Insha → state correspondence; Diwan-i-Wizarat → finance."
-  },
-  "22-014": {
-    "r": "Heyday of the Wizarat → Tughluq era; Wazir (prime minister) headed Diwan-i-Wizarat (finance); first Wazir in India: Abbas Fazal-bin-Ahmad under Mahmud Ghaznavi.",
-    "hi": ["Prime minister (वज़ीर)"]
-  },
-  "22-015": {
-    "r": "Medieval government → a fusion of Perso-Arabic, Turko-Mongol (Central Asian) and Indian elements."
-  },
-  "22-016": {
-    "r": "Taxes on land produce → Kharaj, Ushr, Muktai; Khums is one-fifth of war booty, not a land tax."
-  },
-  "22-017": {
-    "r": "Iqta system introduced in the Delhi Sultanate → Iltutmish; Iqta = land given to officers in lieu of salary (Caliphate practice from the 9th century)."
-  },
-  "22-018": {
-    "r": "Iqta → land revenue (assignment); Mahrousa → protected town; Khalisa → land under state administration; Shiq → a portion of land."
-  },
-  "22-019": {
-    "r": "Muqaddam or Chaudhari → village headman, the highest revenue authority in the village.",
-    "hi": ["Village headman (ग्राम प्रधान/मुखिया)"]
-  },
-  "22-021": {
-    "r": "Supreme rural land-revenue official in the Sultanate → Chaudhary (village headman), used to collect revenue as Rais' influence was cut."
-  },
-  "22-022": {
-    "r": "'Sharb' (Haqq-i-Sharb) → irrigation tax, 10% of yield, levied by Firuz Tughluq; he kept four Quranic taxes (Kharaj, Jizya, Khums, Zakat) and abolished 21 others.",
-    "hi": ["Irrigation tax (सिंचाई कर)"]
-  },
-  "22-023": {
-    "r": "Zawabits → state laws (Sultan's own regulations) in the Sultanate period."
-  },
-  "22-024": {
-    "r": "Hadis (Hadith) → source of Islamic law: reports of Prophet Muhammad's sayings, customs and deeds."
-  },
-  "22-025": {
-    "r": "Khareetadar → despatcher of royal decrees."
-  },
-  "22-026": {
-    "r": "Fawazil → excess (surplus) revenue paid by Iqtadars to the exchequer."
-  },
-  "22-027": {
-    "r": "Two main Sultanate coins → Tanka (silver) and Jital (copper), both started by Iltutmish.",
-    "t": "Dam and Rupiya are later coins (Akbar, Sher Shah), not the Sultanate's main pair.",
-    "hi": ["Coin (सिक्का)"]
-  },
-  "22-030": {
-    "r": "Tanka and Shashgani → silver; Jital → copper; regular currency first issued by Iltutmish; Tanka : Jital = 1:48."
-  },
-  "22-031": {
-    "r": "Last Baghdad Caliph Al-Mustasim's name first on coins of → Alauddin Masud Shah (1242-1246 A.D.); Iltutmish's coins carried Caliph Mustansir's name."
-  },
-  "23-001": {
-    "r": "Paper in India → used from about 7th-8th century CE; paper documents by 11th century; royal use 12-13th century; so none of the given centuries.",
-    "c": "Book's answer (e) differs from BPSC's key, which gave (a) 12th century CE."
-  },
-  "23-002": {
-    "r": "Alai Darwaza → Alauddin Khalji; domed red sandstone gateway with white marble, completed 1311 AD; early Indo-Islamic building."
-  },
-  "23-003": {
-    "r": "Horse-shoe arch first used → Alai Darwaza, built by Alauddin Khalji.",
-    "t": "Don't confuse: first true arch = Balban's tomb; horse-shoe arch = Alai Darwaza."
-  },
-  "23-004": {
-    "r": "No role in Qutub Minar → Alauddin Khalji. Aybak built the base, Iltutmish completed it, Firuz Shah Tughluq restored the fourth and added the fifth storey."
-  },
-  "23-006": {
-    "r": "Only 2 correct: Chand Minar (fifteenth century) is 210 ft, four storeys. Qutub Minar (thirteenth century, five storeys) is 238 ft (72.5 m), not 180 ft."
-  },
-  "23-007": {
-    "r": "India's first tomb in Indo-Islamic style (per book) → Balban's tomb, Mehrauli, New Delhi; built 1287 AD in rubble masonry."
-  },
-  "23-008": {
-    "r": "First true arch in a Sultanate monument → Tomb of Balban, Mehrauli, New Delhi.",
-    "h": "Balban = first 'B'ow (true arch); Alai Darwaza = horse-shoe arch."
-  },
-  "23-009": {
-    "r": "Order: Qutub Minar (Aybak, Iltutmish) → Tughluqabad fort (Ghiyasuddin Tughluq, 1320-1325) → Lodi Garden (Lodis, 1451-1526) → Fatehpur Sikri (Akbar)."
-  },
-  "23-010": {
-    "r": "Sultan Garhi → Iltutmish; Red Palace → Balban; Jamat Khana Masjid (Nizamuddin dargah) → Khizr Khan, Alauddin's son; Adhai Din ka Jhopra → Qutbuddin Aybak.",
-    "c": "No answer printed; Jamat Khana Masjid's builder (Khizr Khan) is not in List-II, so no code fits exactly."
-  },
-  "23-011": {
-    "r": "Wrong pair: Hindola Mahal–Hoshang Shah; built by Ghiyas-ud-din Khalji (also Jahaz Mahal). Correct: Lal Mahal–Balban; Lal Darwaja Mosque–Bibi Raje."
-  },
-  "23-012": {
-    "r": "Kirti Stambha Prashasti → composed by Atri Kavi (with Mahesh); tower built by Rana Kumbha after victory over Malwa, under supervision of Jaita."
-  },
-  "23-013": {
-    "r": "Kirti Stambha, Chittor → Rana Kumbha, to mark his victory over Mahmud Khalji of Malwa.",
-    "hi": ["Tower of Fame (कीर्ति स्तंभ)"]
-  },
-  "23-014": {
-    "r": "Wrong pair: Ajmer–Quwwat-ul-Islam; it is in Delhi. Correct: Jaunpur–Atala Masjid; Malwa–Jahaz Mahal; Gulbarga–Jama Masjid."
-  },
-  "23-015": {
-    "r": "'Lotus bud' fringe under arch → Khaljis; octagonal tomb → Tughluqs; Bodegoi in pillars → Vijayanagara; massive gate with inclined walls → Sharqis."
-  },
-  "24-001": {
-    "r": "Kitab-ul-Hind → Al-Biruni (real name Abu Rehan); studied India as a scientist: religion, literature, social and political life."
-  },
-  "24-002": {
-    "r": "Tahqiq-i-Hind → Al-Biruni (10-11th century scholar); detailed account of India's history, geography and culture.",
-    "t": "Don't confuse with Abdur Razzaq (Vijayanagara) or Barani (Tarikh-i-Firuzshahi)."
-  },
-  "24-003": {
-    "r": "Amir Khusrau → born 1253 A.D. at Patiyali, Etah district (now Kasganj); 'Tuti-i-Hind' (Parrot of India); first historical Masnavi Qiran-us-Sadain.",
-    "hi": ["Parrot of India (तूती-ए-हिंद)"]
-  },
-  "24-006": {
-    "r": "Amir Khusrau → pioneer of Khari Boli; loved Hindavi; called himself a 'Turkish-Indian'.",
-    "hi": ["Khari Boli (खड़ी बोली)"]
-  },
-  "24-007": {
-    "r": "Both Amir Khusrau and Shaikh Nizamuddin Auliya saw the reigns of more than seven Delhi Sultans.",
-    "c": "No answer printed; the book says both (a) and (b) fit."
-  },
-  "24-008": {
-    "r": "Amir Khusrau served many Delhi rulers: Balban, Kaiqubad, Jalaluddin and Alauddin Khalji, Mubarak Shah, Ghiyasuddin and Muhammad-bin-Tughluq; disciple of Nizamuddin Auliya."
-  },
-  "24-012": {
-    "r": "Amir Khusrau → poet, historian and musician (all); 'Tuti-i-Hind'; promoter of Khari Boli Hindi."
-  },
-  "24-013": {
-    "r": "Father of the Persian 'Sabak-i-Hindi' (Hindustani style) → Amir Khusrau; said Hindi words are no less than Persian."
-  },
-  "24-014": {
-    "r": "Father of Hindi Khari Boli → Amir Khusrau; promoter of the 'Sabak-i-Hindi' poetic style."
-  },
-  "24-015": {
-    "r": "Scholar of both Hindi (Hindavi) and Persian → Amir Khusrau."
-  },
-  "24-016": {
-    "r": "First Persian poet to depict the Indian environment in poetry → Amir Khusrau, who served at the courts of more than seven Delhi Sultans."
-  },
-  "24-017": {
-    "r": "Amir Khusrau wrote all four: Khazain-ul-Futuh, Nuh Sipihr, Miftah-ul-Futuh, Qiran-us-Sadain."
-  },
-  "24-018": {
-    "r": "Both correct: Kitab-i-Nauras (songs on Hindu deities and Muslim saints) → Ibrahim Adil Shah II of Bijapur (capital Nauraspur); Amir Khusrau began early Qawwali.",
-    "hi": ["Qawwali (क़व्वाली)"]
-  },
-  "24-019": {
-    "r": "Tabaqat-i-Nasiri → Minhaj-us-Siraj, dedicated to Sultan Nasiruddin Mahmud; 23 volumes; English by H.G. Raverty; covers Ghori's conquest."
-  },
-  "24-020": {
-    "r": "Order: Kitab-ul-Hind (Al-Biruni) → Prithviraja Raso (Chand Bardai) → Tabaqat-i-Nasiri (Minhaj-i-Siraj) → Fatawa-i-Jahandari (Barani)."
-  },
-  "24-021": {
-    "r": "Ziauddin Barani → Fatwa-i-Jahandari (political ideals for Muslim rulers) and Tarikh-i-Firuzshahi (history of the Sultanate)."
-  },
-  "24-022": {
-    "r": "Earliest account of Bakhtiyar Khalji's invasion of Bihar → Tabaqat-i-Nasiri by Minhaj-us-Siraj; records Nalanda's sack (1193)."
-  },
-  "24-023": {
-    "r": "Language patronised by Delhi Sultans → Persian, made the official language after the Sultanate's founding.",
-    "hi": ["Official language (राजभाषा)"]
-  },
-  "24-024": {
-    "r": "'Apabhramsa' in medieval Sanskrit texts → early forms of modern Indian languages; Hindi dialects, Punjabi, Sindhi, Marathi etc. grew from it."
-  },
-  "24-025": {
-    "r": "Barani → Tarikh-i-Firuzshahi; Hasan Nizami → Taj-ul-Maasir; Minhaj-us-Siraj → Tabaqat-i-Nasiri; Yahia-bin-Ahmad → Tarikh-i-Mubarakshahi."
-  },
-  "24-026": {
-    "r": "Mirat-e-Sikandari → Gujarat; Burhan-e-Masir → Bahmanis of Ahmadnagar; Riyaz-us-Salatin → Bengal; Riyaz-ul-Insha → Mahmud Gawan's letters."
-  },
-  "24-027": {
-    "r": "Futuh-us-Salatin → Isami; Futuhat-i-Firuz Shahi → Firuz Shah Tughlaq; Tarikh-i-Firuz Shahi → Barani; Khazain-ul-Futuh → Amir Khusrau."
-  },
-  "24-028": {
-    "r": "Tarikh-i-Firuz Shahi (on Firuz Shah Tughlaq's reign) → Shams Siraj Afif; Ziauddin Barani also wrote a Tughlaq history of the same name."
-  },
-  "24-029": {
-    "r": "Taj-ul-Maasir → Hasan Nizami; Khazain-ul-Futuh → Amir Khusrau; Tarikh-i-Mubarakshahi → Yahia bin Ahmad Sarhindi; Fatwa-i-Jahandari → Barani."
-  },
-  "24-031": {
-    "r": "'Tarikh-i-Firozshahi' → two different books by Ziauddin Barani and Shams-i-Siraj Afif, same title, different content.",
-    "c": "Book accepts two answers, (a) and (b)."
-  },
-  "24-032": {
-    "r": "Tarikh-i-Hind → Al-Biruni; Tarikh-i-Delhi → Khusrau; Rihla → Ibn Battuta; Tabaqat-i-Nasiri → Minhaj-us-Siraj."
-  },
-  "24-033": {
-    "r": "Haqaiq-i-Hindi → Abdul Wahid Bilgrami; Tahdhibul Akhlaq → Ibn Miskawayh; Kunzal Tijar → Bailaq al-Qabayaki; Jawamiul Hikayat → Sadruddin Muhammad 'Aufi'."
-  },
-  "24-034": {
-    "r": "Fawaid-ul-Fuad (Nizamuddin Auliya's conversations) → compiled by Amir Hasan Sijzi.",
-    "t": "Not Amir Khusrau, though both were Nizamuddin's disciples."
-  },
-  "24-035": {
-    "r": "Finest Hindu-Muslim harmony in instruments → Sitar; credited to Amir Khusrau, mixing the Iranian Tambura and Indian Veena; he added melodies Iman, Zilf, Sajgari."
-  },
-  "24-036": {
-    "r": "Tabla (and Sitar) → credited to Amir Khusrau (13th/14th century); first author to use Hindavi words.",
-    "hi": ["Musical instrument (वाद्य यंत्र)"]
-  },
-  "24-037": {
-    "r": "Tutinama (Persian version of Chintamani Bhatt's Suka Saptati) → Khwaja Ziya-uddin Nakhshabi, 14th-century physician and Sufi of Badayun."
-  },
-  "24-038": {
-    "r": "Rajput ruler who wrote on music → Rana Kumbha (Sangeet Raj, also called Sangeet Mimansa); built Kirti Stambha after beating Mahmud Khalji (1440-1448 AD)."
-  },
-  "24-039": {
-    "r": "Correct pair: Pundrik Vitthal–Raagmala. Bhavbhatta → Anup Sangeet Ratnakar; Kumbha → Sangitraja; Chand Khan → Delhi gharana of khayal."
-  },
-  "24-040": {
-    "r": "Ragamala → Pundrik Vitthal; Rasa Kaumudi → Sri Kantha; Raga Vibodh → Somanath; Chaturdandi Prakashika → Venkatamakhin.",
-    "c": "No answer printed; question names Venkatraman instead of Venkatamakhin; otherwise code (a) 3 4 1 2 fits."
-  },
-  "24-041": {
-    "r": "Ras Panchadhyayi → Nand Das (Braj); Chaitanya Bhagavata → Vrindavan Das (Bengali); Chaitanya Mangal → Jayananda; Bhakti Ratnakara → Narahari Chakravarti."
-  },
-  "24-042": {
-    "r": "Delhi Sultan who wrote his memoirs → Firuz Tughluq, 'Futuhat-i-Firuz Shahi', to present himself as an ideal Muslim ruler.",
-    "hi": ["Memoirs (संस्मरण)"]
-  },
-  "24-043": {
-    "r": "Mirat-e-Sikandari: both true; describes the prosperity of Sultan Mahmud Begada's Gujarat and the safety of trade routes for merchants."
-  }
+ "21-038": {
+  "r": "When Raja Wodeyar founded Mysore (1612 A.D.), Vijayanagara ruler → Venkata II (Aravidu, capital Chandragiri); Aravidu began when Tirumala ousted Sadasiva (1570 AD)."
+ },
+ "21-039": {
+  "r": "Chief feature of Vijayanagara finance → land revenue, fixed after measuring and grading land; tax 'Shist' (Rai Rekha); revenue department 'Athavane'.",
+  "hi": [
+   "Land revenue (भू-राजस्व)"
+  ]
+ },
+ "21-040": {
+  "r": "Both correct: Krishna Deva's land tax varied with land quality (wet, dry, orchards, woods); private workshop owners paid an industry tax."
+ },
+ "21-041": {
+  "r": "Ruins of the old Vijayanagara capital → Hampi (central Karnataka); Virupaksha temple; UNESCO World Heritage Site."
+ },
+ "21-043": {
+  "r": "Vijayanagara capital Hampi → on the southern bank of the Tungabhadra (now Vijayanagara district, Karnataka).",
+  "hi": [
+   "River bank (नदी तट)"
+  ]
+ },
+ "21-044": {
+  "r": "Vijayanagara ruler who sent an embassy to the Chinese emperor → Bukka I (1356-77 AD), in 1374 AD."
+ },
+ "21-045": {
+  "r": "Telugu poet Srinath (1365-1441 AD) → court of Deva Raya II; also served Reddy ruler Pedakomati Vema of Kondavidu.",
+  "c": "Book notes CGPSC deleted this question in its revised answer key."
+ },
+ "21-046": {
+  "r": "Kalyana Mandapas (halls for divine weddings) → notable feature of Vijayanagara temples.",
+  "t": "Don't pick Chalukya, Chandela or Rashtrakuta; Kalyana Mandapa is a Vijayanagara hallmark."
+ },
+ "21-047": {
+  "r": "Vijaya Vitthala temple with 56 musical pillars → Hampi; built by Krishnadeva Raya (1509-29 AD), continued under Achyutaraya."
+ },
+ "21-048": {
+  "r": "Dance tradition first developed under Vijayanagara → Yakshagana, folk dance of coastal Karnataka on mythological stories.",
+  "hi": [
+   "Folk dance (लोक नृत्य)"
+  ]
+ },
+ "22-001": {
+  "r": "Barani did not call the Sultanate truly Islamic because the majority of the population did not follow Islam."
+ },
+ "22-002": {
+  "r": "Most Sultans and amirs of the Sultanate period → Turkish; amirs grew powerful when the Sultan was weak or a child.",
+  "hi": [
+   "Nobles (अमीर)"
+  ]
+ },
+ "22-003": {
+  "r": "Only 1 correct: Amil collected revenue in a Pargana. Wrong: Iqta was not indigenous; Mir Bakshi was a Mughal office, not Khalji."
+ },
+ "22-004": {
+  "r": "Not true of Iqta: revenue went straight to the Sultan. Muqti kept it for administration and troops; Iqta introduced by Iltutmish; Siyasatnama a source.",
+  "hi": [
+   "Iqta (इक्ता)"
+  ]
+ },
+ "22-005": {
+  "r": "A true: Sultanate land = Khalisa and Jagirs (Iqta). R false: Khalisa was under direct state control; a Jagir was a revenue assignment, not state-held land.",
+  "t": "Khalisa = crown land; Jagir/Iqta = assigned land. Don't swap them."
+ },
+ "22-006": {
+  "r": "Ascending size: Pargana (Shiqdar) < Sarkar (Faujdar) < Suba (Subedar); villages lay under the Pargana.",
+  "h": "P-S-S: Pargana → Sarkar → Suba, small to big."
+ },
+ "22-007": {
+  "r": "Diwan-i-Arz (military department) → Balban (1266-1286 A.D.), separated from Diwan-i-Wizarat (finance).",
+  "hi": [
+   "Military department (सैन्य विभाग)"
+  ]
+ },
+ "22-008": {
+  "r": "Wrong pair: Diwan-i-Riyasat–Balban; it was Alauddin's market-control department. Correct: Mustakhraj–Alauddin; Amir-i-Kohi–Muhammad bin Tughluq; Khairat–Firuz Tughluq."
+ },
+ "22-009": {
+  "r": "Correct: Diwan-i-Bandagan (slaves) → Firuz Shah Tughluq. Mustakhraj → Alauddin Khalji; Amir-i-Kohi → Muhammad bin Tughluq; Arz → Balban."
+ },
+ "22-010": {
+  "r": "Diwan-i-Amir-i-Kohi → agriculture department of Muhammad bin Tughlaq, giving direct aid to farmers to bring more land under cultivation."
+ },
+ "22-012": {
+  "r": "Diwan-i-Arz → military; Diwan-i-Risalat → religious (and foreign) matters; Diwan-i-Insha → state correspondence; Diwan-i-Wizarat → finance."
+ },
+ "22-014": {
+  "r": "Heyday of the Wizarat → Tughluq era; Wazir (prime minister) headed Diwan-i-Wizarat (finance); first Wazir in India: Abbas Fazal-bin-Ahmad under Mahmud Ghaznavi.",
+  "hi": [
+   "Prime minister (वज़ीर)"
+  ]
+ },
+ "22-015": {
+  "r": "Medieval government → a fusion of Perso-Arabic, Turko-Mongol (Central Asian) and Indian elements."
+ },
+ "22-016": {
+  "r": "Taxes on land produce → Kharaj, Ushr, Muktai; Khums is one-fifth of war booty, not a land tax."
+ },
+ "22-017": {
+  "r": "Iqta system introduced in the Delhi Sultanate → Iltutmish; Iqta = land given to officers in lieu of salary (Caliphate practice from the 9th century)."
+ },
+ "22-018": {
+  "r": "Iqta → land revenue (assignment); Mahrousa → protected town; Khalisa → land under state administration; Shiq → a portion of land."
+ },
+ "22-019": {
+  "r": "Muqaddam or Chaudhari → village headman, the highest revenue authority in the village.",
+  "hi": [
+   "Village headman (ग्राम प्रधान/मुखिया)"
+  ]
+ },
+ "22-021": {
+  "r": "Supreme rural land-revenue official in the Sultanate → Chaudhary (village headman), used to collect revenue as Rais' influence was cut."
+ },
+ "22-022": {
+  "r": "'Sharb' (Haqq-i-Sharb) → irrigation tax, 10% of yield, levied by Firuz Tughluq; he kept four Quranic taxes (Kharaj, Jizya, Khums, Zakat) and abolished 21 others.",
+  "hi": [
+   "Irrigation tax (सिंचाई कर)"
+  ]
+ },
+ "22-023": {
+  "r": "Zawabits → state laws (Sultan's own regulations) in the Sultanate period."
+ },
+ "22-024": {
+  "r": "Hadis (Hadith) → source of Islamic law: reports of Prophet Muhammad's sayings, customs and deeds."
+ },
+ "22-025": {
+  "r": "Khareetadar → despatcher of royal decrees."
+ },
+ "22-026": {
+  "r": "Fawazil → excess (surplus) revenue paid by Iqtadars to the exchequer."
+ },
+ "22-027": {
+  "r": "Two main Sultanate coins → Tanka (silver) and Jital (copper), both started by Iltutmish.",
+  "t": "Dam and Rupiya are later coins (Akbar, Sher Shah), not the Sultanate's main pair.",
+  "hi": [
+   "Coin (सिक्का)"
+  ]
+ },
+ "22-030": {
+  "r": "Tanka and Shashgani → silver; Jital → copper; regular currency first issued by Iltutmish; Tanka : Jital = 1:48."
+ },
+ "22-031": {
+  "r": "Last Baghdad Caliph Al-Mustasim's name first on coins of → Alauddin Masud Shah (1242-1246 A.D.); Iltutmish's coins carried Caliph Mustansir's name."
+ },
+ "23-001": {
+  "r": "Paper in India → used from about 7th-8th century CE; paper documents by 11th century; royal use 12-13th century; so none of the given centuries.",
+  "c": "Book's answer (e) differs from BPSC's key, which gave (a) 12th century CE."
+ },
+ "23-002": {
+  "r": "Alai Darwaza → Alauddin Khalji; domed red sandstone gateway with white marble, completed 1311 AD; early Indo-Islamic building."
+ },
+ "23-003": {
+  "r": "Horse-shoe arch first used → Alai Darwaza, built by Alauddin Khalji.",
+  "t": "Don't confuse: first true arch = Balban's tomb; horse-shoe arch = Alai Darwaza."
+ },
+ "23-004": {
+  "r": "No role in Qutub Minar → Alauddin Khalji. Aybak built the base, Iltutmish completed it, Firuz Shah Tughluq restored the fourth and added the fifth storey."
+ },
+ "23-006": {
+  "r": "Only 2 correct: Chand Minar (fifteenth century) is 210 ft, four storeys. Qutub Minar (thirteenth century, five storeys) is 238 ft (72.5 m), not 180 ft."
+ },
+ "23-007": {
+  "r": "India's first tomb in Indo-Islamic style (per book) → Balban's tomb, Mehrauli, New Delhi; built 1287 AD in rubble masonry."
+ },
+ "23-008": {
+  "r": "First true arch in a Sultanate monument → Tomb of Balban, Mehrauli, New Delhi.",
+  "h": "Balban = first 'B'ow (true arch); Alai Darwaza = horse-shoe arch."
+ },
+ "23-009": {
+  "r": "Order: Qutub Minar (Aybak, Iltutmish) → Tughluqabad fort (Ghiyasuddin Tughluq, 1320-1325) → Lodi Garden (Lodis, 1451-1526) → Fatehpur Sikri (Akbar)."
+ },
+ "23-010": {
+  "r": "Sultan Garhi → Iltutmish; Red Palace → Balban; Jamat Khana Masjid (Nizamuddin dargah) → Khizr Khan, Alauddin's son; Adhai Din ka Jhopra → Qutbuddin Aybak.",
+  "c": "No exact code: the book says Khizr Khan, Alauddin Khalji's son, built Jamat Khana Masjid. Only code (c) 3 4 1 2 gets the other three pairs right, linking it to Alauddin."
+ },
+ "23-011": {
+  "r": "Wrong pair: Hindola Mahal–Hoshang Shah; built by Ghiyas-ud-din Khalji (also Jahaz Mahal). Correct: Lal Mahal–Balban; Lal Darwaja Mosque–Bibi Raje."
+ },
+ "23-012": {
+  "r": "Kirti Stambha Prashasti → composed by Atri Kavi (with Mahesh); tower built by Rana Kumbha after victory over Malwa, under supervision of Jaita."
+ },
+ "23-013": {
+  "r": "Kirti Stambha, Chittor → Rana Kumbha, to mark his victory over Mahmud Khalji of Malwa.",
+  "hi": [
+   "Tower of Fame (कीर्ति स्तंभ)"
+  ]
+ },
+ "23-014": {
+  "r": "Wrong pair: Ajmer–Quwwat-ul-Islam; it is in Delhi. Correct: Jaunpur–Atala Masjid; Malwa–Jahaz Mahal; Gulbarga–Jama Masjid."
+ },
+ "23-015": {
+  "r": "'Lotus bud' fringe under arch → Khaljis; octagonal tomb → Tughluqs; Bodegoi in pillars → Vijayanagara; massive gate with inclined walls → Sharqis."
+ },
+ "24-001": {
+  "r": "Kitab-ul-Hind → Al-Biruni (real name Abu Rehan); studied India as a scientist: religion, literature, social and political life."
+ },
+ "24-002": {
+  "r": "Tahqiq-i-Hind → Al-Biruni (10-11th century scholar); detailed account of India's history, geography and culture.",
+  "t": "Don't confuse with Abdur Razzaq (Vijayanagara) or Barani (Tarikh-i-Firuzshahi)."
+ },
+ "24-003": {
+  "r": "Amir Khusrau → born 1253 A.D. at Patiyali, Etah district (now Kasganj); 'Tuti-i-Hind' (Parrot of India); first historical Masnavi Qiran-us-Sadain.",
+  "hi": [
+   "Parrot of India (तूती-ए-हिंद)"
+  ]
+ },
+ "24-006": {
+  "r": "Amir Khusrau → pioneer of Khari Boli; loved Hindavi; called himself a 'Turkish-Indian'.",
+  "hi": [
+   "Khari Boli (खड़ी बोली)"
+  ]
+ },
+ "24-007": {
+  "r": "Both Amir Khusrau and Shaikh Nizamuddin Auliya saw the reigns of more than seven Delhi Sultans.",
+  "c": "No answer printed; the book says both (a) and (b) fit."
+ },
+ "24-008": {
+  "r": "Amir Khusrau served many Delhi rulers: Balban, Kaiqubad, Jalaluddin and Alauddin Khalji, Mubarak Shah, Ghiyasuddin and Muhammad-bin-Tughluq; disciple of Nizamuddin Auliya."
+ },
+ "24-012": {
+  "r": "Amir Khusrau → poet, historian and musician (all); 'Tuti-i-Hind'; promoter of Khari Boli Hindi."
+ },
+ "24-013": {
+  "r": "Father of the Persian 'Sabak-i-Hindi' (Hindustani style) → Amir Khusrau; said Hindi words are no less than Persian."
+ },
+ "24-014": {
+  "r": "Father of Hindi Khari Boli → Amir Khusrau; promoter of the 'Sabak-i-Hindi' poetic style."
+ },
+ "24-015": {
+  "r": "Scholar of both Hindi (Hindavi) and Persian → Amir Khusrau."
+ },
+ "24-016": {
+  "r": "First Persian poet to depict the Indian environment in poetry → Amir Khusrau, who served at the courts of more than seven Delhi Sultans."
+ },
+ "24-017": {
+  "r": "Amir Khusrau wrote all four: Khazain-ul-Futuh, Nuh Sipihr, Miftah-ul-Futuh, Qiran-us-Sadain."
+ },
+ "24-018": {
+  "r": "Both correct: Kitab-i-Nauras (songs on Hindu deities and Muslim saints) → Ibrahim Adil Shah II of Bijapur (capital Nauraspur); Amir Khusrau began early Qawwali.",
+  "hi": [
+   "Qawwali (क़व्वाली)"
+  ]
+ },
+ "24-019": {
+  "r": "Tabaqat-i-Nasiri → Minhaj-us-Siraj, dedicated to Sultan Nasiruddin Mahmud; 23 volumes; English by H.G. Raverty; covers Ghori's conquest."
+ },
+ "24-020": {
+  "r": "Order: Kitab-ul-Hind (Al-Biruni) → Prithviraja Raso (Chand Bardai) → Tabaqat-i-Nasiri (Minhaj-i-Siraj) → Fatawa-i-Jahandari (Barani)."
+ },
+ "24-021": {
+  "r": "Ziauddin Barani → Fatwa-i-Jahandari (political ideals for Muslim rulers) and Tarikh-i-Firuzshahi (history of the Sultanate)."
+ },
+ "24-022": {
+  "r": "Earliest account of Bakhtiyar Khalji's invasion of Bihar → Tabaqat-i-Nasiri by Minhaj-us-Siraj; records Nalanda's sack (1193)."
+ },
+ "24-023": {
+  "r": "Language patronised by Delhi Sultans → Persian, made the official language after the Sultanate's founding.",
+  "hi": [
+   "Official language (राजभाषा)"
+  ]
+ },
+ "24-024": {
+  "r": "'Apabhramsa' in medieval Sanskrit texts → early forms of modern Indian languages; Hindi dialects, Punjabi, Sindhi, Marathi etc. grew from it."
+ },
+ "24-025": {
+  "r": "Barani → Tarikh-i-Firuzshahi; Hasan Nizami → Taj-ul-Maasir; Minhaj-us-Siraj → Tabaqat-i-Nasiri; Yahia-bin-Ahmad → Tarikh-i-Mubarakshahi."
+ },
+ "24-026": {
+  "r": "Mirat-e-Sikandari → Gujarat; Burhan-e-Masir → Bahmanis of Ahmadnagar; Riyaz-us-Salatin → Bengal; Riyaz-ul-Insha → Mahmud Gawan's letters."
+ },
+ "24-027": {
+  "r": "Futuh-us-Salatin → Isami; Futuhat-i-Firuz Shahi → Firuz Shah Tughlaq; Tarikh-i-Firuz Shahi → Barani; Khazain-ul-Futuh → Amir Khusrau."
+ },
+ "24-028": {
+  "r": "Tarikh-i-Firuz Shahi (on Firuz Shah Tughlaq's reign) → Shams Siraj Afif; Ziauddin Barani also wrote a Tughlaq history of the same name."
+ },
+ "24-029": {
+  "r": "Taj-ul-Maasir → Hasan Nizami; Khazain-ul-Futuh → Amir Khusrau; Tarikh-i-Mubarakshahi → Yahia bin Ahmad Sarhindi; Fatwa-i-Jahandari → Barani."
+ },
+ "24-031": {
+  "r": "'Tarikh-i-Firozshahi' → two different books by Ziauddin Barani and Shams-i-Siraj Afif, same title, different content."
+ },
+ "24-032": {
+  "r": "Tarikh-i-Hind → Al-Biruni; Tarikh-i-Delhi → Khusrau; Rihla → Ibn Battuta; Tabaqat-i-Nasiri → Minhaj-us-Siraj."
+ },
+ "24-033": {
+  "r": "Haqaiq-i-Hindi → Abdul Wahid Bilgrami; Tahdhibul Akhlaq → Ibn Miskawayh; Kunzal Tijar → Bailaq al-Qabayaki; Jawamiul Hikayat → Sadruddin Muhammad 'Aufi'."
+ },
+ "24-034": {
+  "r": "Fawaid-ul-Fuad (Nizamuddin Auliya's conversations) → compiled by Amir Hasan Sijzi.",
+  "t": "Not Amir Khusrau, though both were Nizamuddin's disciples."
+ },
+ "24-035": {
+  "r": "Finest Hindu-Muslim harmony in instruments → Sitar; credited to Amir Khusrau, mixing the Iranian Tambura and Indian Veena; he added melodies Iman, Zilf, Sajgari."
+ },
+ "24-036": {
+  "r": "Tabla (and Sitar) → credited to Amir Khusrau (13th/14th century); first author to use Hindavi words.",
+  "hi": [
+   "Musical instrument (वाद्य यंत्र)"
+  ]
+ },
+ "24-037": {
+  "r": "Tutinama (Persian version of Chintamani Bhatt's Suka Saptati) → Khwaja Ziya-uddin Nakhshabi, 14th-century physician and Sufi of Badayun."
+ },
+ "24-038": {
+  "r": "Rajput ruler who wrote on music → Rana Kumbha (Sangeet Raj, also called Sangeet Mimansa); built Kirti Stambha after beating Mahmud Khalji (1440-1448 AD)."
+ },
+ "24-039": {
+  "r": "Correct pair: Pundrik Vitthal–Raagmala. Bhavbhatta → Anup Sangeet Ratnakar; Kumbha → Sangitraja; Chand Khan → Delhi gharana of khayal."
+ },
+ "24-040": {
+  "r": "Ragamala → Pundrik Vitthal; Rasa Kaumudi → Sri Kantha; Raga Vibodh → Somanath; Chaturdandi Prakashika → Venkatamakhin.",
+  "c": "No answer printed; question names Venkatraman instead of Venkatamakhin; otherwise code (a) 3 4 1 2 fits."
+ },
+ "24-041": {
+  "r": "Ras Panchadhyayi → Nand Das (Braj); Chaitanya Bhagavata → Vrindavan Das (Bengali); Chaitanya Mangal → Jayananda; Bhakti Ratnakara → Narahari Chakravarti."
+ },
+ "24-042": {
+  "r": "Delhi Sultan who wrote his memoirs → Firuz Tughluq, 'Futuhat-i-Firuz Shahi', to present himself as an ideal Muslim ruler.",
+  "hi": [
+   "Memoirs (संस्मरण)"
+  ]
+ },
+ "24-043": {
+  "r": "Mirat-e-Sikandari: both true; describes the prosperity of Sultan Mahmud Begada's Gujarat and the safety of trade routes for merchants."
+ }
 }

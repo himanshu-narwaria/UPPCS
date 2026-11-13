@@ -1,0 +1,520 @@
+{
+ "46-007": {
+  "r": "ATP → ADP (ATP hydrolysis) gives the body maximum energy; ATP is the high-energy molecule that stores energy for muscle work and biosynthesis.",
+  "hi": [
+   "Adenosine triphosphate (एडिनोसिन ट्राइफॉस्फेट)"
+  ]
+ },
+ "46-008": {
+  "r": "Respiration converts biochemical energy from nutrients into ATP (Adenosine Triphosphate) and releases waste products.",
+  "hi": [
+   "Respiration (श्वसन)"
+  ]
+ },
+ "46-009": {
+  "r": "Aerobic respiration → complete breakdown of glucose with oxygen into CO2 and H2O, releasing a large amount of energy; goes on all the time in plant and animal cells.",
+  "hi": [
+   "Aerobic respiration (वायवीय श्वसन)"
+  ]
+ },
+ "46-010": {
+  "r": "Glycolysis in cytoplasm: glucose → pyruvate (three carbons, not four). No oxygen → lactic acid (in muscles) or CO2 + ethanol. True: (ii) and (iii).",
+  "t": "Pyruvate has three carbon atoms; statement (i) wrongly says four."
+ },
+ "46-011": {
+  "r": "Book's answer: lungs maintain body temperature – breathing exhales CO2 and vaporises body water, while food oxidation in tissues produces energy."
+ },
+ "47-001": {
+  "r": "Normal heart rate ≈ 72-75 beats per minute; during sleep a slow rate of 40-50 BPM is common.",
+  "hi": [
+   "Heartbeat (हृदय गति)"
+  ]
+ },
+ "47-002": {
+  "r": "Heart rests between two beats: each beat = contraction (pumps blood out) + relaxation (draws blood in)."
+ },
+ "47-003": {
+  "r": "Heart attack (myocardial infarction) signs: chest pain, pain in arms, back, neck, jaw; shortness of breath, cold sweat, nausea. Leg pain is not a symptom.",
+  "hi": [
+   "Heart attack (दिल का दौरा)"
+  ]
+ },
+ "47-005": {
+  "r": "Heart has four chambers: upper left and right atria + lower left and right ventricles (in humans, other mammals and birds); valves stop backflow.",
+  "hi": [
+   "Atrium (अलिंद)",
+   "Ventricle (निलय)"
+  ]
+ },
+ "47-006": {
+  "r": "Human heart = only four chambers: right and left atria (upper) receive blood; more muscular right and left ventricles (lower) pump it out."
+ },
+ "47-007": {
+  "r": "Heartbeat starts in the heart itself: the sinus node in the right atrium sends electrical signals, acting as a natural pacemaker."
+ },
+ "47-008": {
+  "r": "Wrist pulse beats at the same rate as the heart; pulse rate = number of heartbeats per minute (bpm).",
+  "hi": [
+   "Pulse (नाड़ी)"
+  ]
+ },
+ "47-009": {
+  "r": "First heart transplant → Dr. Christian Barnard (Bernard), South Africa; on Louis Washkansky, 3 December 1967, Groote Schuur Hospital, Cape Town."
+ },
+ "47-012": {
+  "r": "Jarvik-7 → first successful permanent artificial heart, invented by Robert Jarvik; first implanted in Barney Clark in 1982."
+ },
+ "47-013": {
+  "r": "Pacemaker → small device placed in chest or abdomen; its electrical pulses keep the heart beating at a normal rate (regulates heartbeat)."
+ },
+ "47-014": {
+  "r": "SA (sino-atrial) node = natural pacemaker of the heart; lies in the right atrium and starts each heartbeat.",
+  "t": "Don't confuse the SA node (pacemaker) with the AV node or Bundle of His given in the options."
+ },
+ "47-015": {
+  "r": "Pulmonary vein → only vein with oxygenated blood (lungs → left atrium); pulmonary artery → only artery with oxygen-poor blood.",
+  "h": "Pulmonary vessels break the rule: vein carries pure blood, artery carries impure blood.",
+  "hi": [
+   "Pulmonary vein (फुफ्फुसीय शिरा)"
+  ]
+ },
+ "47-016": {
+  "r": "Total blood volume of a normal 70 kg adult → 5-6 litres.",
+  "hi": [
+   "Blood (रक्त)"
+  ]
+ },
+ "47-018": {
+  "r": "Blood → fluid connective tissue: matrix is plasma, no fibres; carries oxygen from lungs to tissues and CO2 back to lungs.",
+  "hi": [
+   "Connective tissue (संयोजी ऊतक)"
+  ]
+ },
+ "47-020": {
+  "r": "Erythrocytes (RBCs) help blood circulation: their haemoglobin carries oxygen from lungs to all tissues and brings CO2 back to the lungs.",
+  "hi": [
+   "Red blood cells (लाल रक्त कणिकाएँ)"
+  ]
+ },
+ "47-021": {
+  "r": "Plasma → straw-coloured fluid part of blood; blood ≈ 55% plasma + 45% cells; plasma is over 90% water.",
+  "hi": [
+   "Plasma (प्लाज्मा)"
+  ]
+ },
+ "47-022": {
+  "r": "Both true: blood = plasma (about 55%) + formed elements (45%: RBCs, WBCs, platelets); haemoglobin in RBCs makes blood red."
+ },
+ "47-023": {
+  "r": "Haemoglobin → protein in red blood cells (found in human blood); carries oxygen from lungs to tissues and CO2 back to lungs.",
+  "hi": [
+   "Haemoglobin (हीमोग्लोबिन)"
+  ]
+ },
+ "47-024": {
+  "r": "Haemoglobin is slightly alkaline, not acidic (solution pH 7.1-7.4); red, iron-containing protein; 12-16 g per 100 ml of blood."
+ },
+ "47-025": {
+  "r": "RBCs (erythrocytes): contain iron (haemoglobin), give blood its red colour, carry oxygen; they do not give immunity. Haemoglobin's job → transport of oxygen."
+ },
+ "47-028": {
+  "r": "Myoglobin → oxygen-binding heme protein of skeletal muscle; contains iron (Fe); higher oxygen affinity than haemoglobin."
+ },
+ "47-030": {
+  "r": "Earthworm (phylum Annelida) → haemoglobin dissolved in plasma; it has a closed circulatory system."
+ },
+ "47-031": {
+  "r": "Blood (and RBCs) are red due to haemoglobin combined with oxygen; RBCs (erythrocytes) have no nucleus and occur only in vertebrates."
+ },
+ "47-033": {
+  "r": "Blood's key function → takes oxygen (bound to haemoglobin in red cells) to all parts; also carries nutrients like glucose, amino acids, fatty acids."
+ },
+ "47-034": {
+  "r": "Normal average blood pressure → 120/80 mm Hg (systolic 120, diastolic 80).",
+  "hi": [
+   "Blood pressure (रक्तचाप)"
+  ]
+ },
+ "47-036": {
+  "r": "Sphygmomanometer → measures blood pressure (inflatable cuff + mercury or mechanical manometer, used with a stethoscope).",
+  "t": "Don't confuse sphygmomanometer with the look-alike options spherometer and anemometer."
+ },
+ "47-038": {
+  "r": "In 'BP 140 mm Hg', Hg = mercury; blood pressure is measured in millimetres of mercury (mmHg); normal 120/80 mmHg."
+ },
+ "47-039": {
+  "r": "Blood pressure generally increases with age; other factors: smoking, obesity, too much salt or alcohol, stress, family history, kidney disease."
+ },
+ "47-040": {
+  "r": "Normal BP 120/80 → Mr. Y; Mrs. X (90/60) is below normal; Mr. X (160/120) and Mrs. Y (140/100) are above normal."
+ },
+ "47-041": {
+  "r": "Blood pressure is greater than atmospheric pressure: the 120 mm Hg reading is the excess over atmospheric pressure (760 mm Hg)."
+ },
+ "47-042": {
+  "r": "Blood groups discovered by Karl Landsteiner (Austrian) in 1900; with Alexander Wiener he found the Rh factor (1937), named after the rhesus monkey.",
+  "hi": [
+   "Blood group (रक्त समूह)"
+  ]
+ },
+ "47-044": {
+  "r": "Blood group is set by antigens on the RBC surface (ABO and Rh systems), not haemoglobin, RBC shape or WBC-RBC mix → 'None of the above'."
+ },
+ "47-045": {
+  "r": "Blood group O RBCs carry neither agglutinogen (antigen) A nor B; group A carries A, group B carries B."
+ },
+ "47-046": {
+  "r": "Universal donor → blood group O: its RBCs have neither A nor B antigens, so it can be given to any group.",
+  "hi": [
+   "Universal donor (सर्वदाता)"
+  ]
+ },
+ "47-049": {
+  "r": "AB = universal recipient: RBCs have both A and B antigens (so the Reason is false) but plasma has no antibodies; accepts blood from any group.",
+  "hi": [
+   "Universal recipient (सर्वग्राही)"
+  ]
+ },
+ "47-053": {
+  "r": "Group A can receive only from A or O → wife (O), son (A) and daughter (O) can donate; brother (AB) cannot."
+ },
+ "47-054": {
+  "r": "Emergency transfusion, group unknown → give O negative (O, Rh–): group O RBCs have no A or B antigens.",
+  "hi": [
+   "Blood transfusion (रक्ताधान)"
+  ]
+ },
+ "47-056": {
+  "r": "Couple AB+ and O– → their twins are A+ and B+; so the adopted son is the O+ one."
+ },
+ "47-057": {
+  "r": "Father A × mother O → child O or A (book's answer: O); Bernstein (1924) showed ABO groups follow Mendel's laws."
+ },
+ "47-058": {
+  "r": "Transfusion blood must match in ABO type and Rh factor; Rh antigen (like rhesus monkey's) is on RBCs of nearly 80% of humans (Rh+ve)."
+ },
+ "47-059": {
+  "r": "Rh incompatibility (erythroblastosis fetalis) → Rh-negative mother carrying an Rh-positive foetus; baby may get severe anaemia.",
+  "h": "Danger = negative mother, positive baby."
+ },
+ "47-060": {
+  "r": "Normal blood pH ≈ 7.4 (range 7.35-7.45) → slightly basic (alkaline).",
+  "hi": [
+   "Alkaline (क्षारीय)"
+  ]
+ },
+ "47-063": {
+  "r": "Antigen → foreign substance (usually protein, sometimes polysaccharide) that triggers the immune system and stimulates formation of specific antibodies.",
+  "hi": [
+   "Antigen (प्रतिजन)",
+   "Antibody (प्रतिरक्षी)"
+  ]
+ },
+ "47-066": {
+  "r": "WBCs (white blood corpuscles) protect from infection and build disease resistance: they reach the infected site and destroy bacteria and viruses.",
+  "hi": [
+   "White blood cells (श्वेत रक्त कणिकाएँ)"
+  ]
+ },
+ "47-068": {
+  "r": "Lymphocytes → form antibodies in plasma; most important immunity cells; about 20-25% of WBCs; include T cells, B cells, natural killer cells.",
+  "hi": [
+   "Lymphocyte (लसीकाणु)"
+  ]
+ },
+ "47-071": {
+  "r": "IgM → first antibody produced in a new (primary) infection; five classes of immunoglobulins: IgG, IgM, IgA, IgE, IgD."
+ },
+ "47-072": {
+  "r": "B cells and T cells (lymphocytes of adaptive immunity) → protect the body from diseases caused by pathogens."
+ },
+ "47-073": {
+  "r": "Vaccination → antibodies are made only by B cells (B lymphocytes); T cells destroy pathogens and coordinate the immune response.",
+  "hi": [
+   "Vaccination (टीकाकरण)"
+  ]
+ },
+ "47-074": {
+  "r": "Viscosity of blood → mainly due to proteins in plasma (and hematocrit); plasma viscosity depends on water and protein content."
+ },
+ "47-075": {
+  "r": "WBC diameter ≈ 0.007 mm; normal WBC count 4,000-11,000 per microlitre (about 1% of blood volume); excess = leukocytosis, shortage = leukopenia."
+ },
+ "47-076": {
+  "r": "Leukemia → cancer starting in bone marrow; very high numbers of abnormal, immature WBCs (blasts).",
+  "t": "Don't confuse leukemia (excess abnormal WBCs) with anaemia, anoxia or septicemia.",
+  "hi": [
+   "Leukemia (रक्त कैंसर)"
+  ]
+ },
+ "47-077": {
+  "r": "RBCs are formed in red bone marrow (erythropoiesis, about 2 million per second); in the embryo the liver is the main site.",
+  "hi": [
+   "Bone marrow (अस्थि मज्जा)"
+  ]
+ },
+ "47-078": {
+  "r": "Spleen → forms WBCs (lymphocytes) and destroys old RBCs (RBC life 100-120 days); acts as a blood filter. Lymphocytes also form elsewhere ('more than one').",
+  "hi": [
+   "Spleen (प्लीहा)"
+  ]
+ },
+ "47-081": {
+  "r": "Coronary arteries → supply oxygen-rich blood to heart muscle (myocardium); cardiac veins remove its deoxygenated blood.",
+  "hi": [
+   "Coronary artery (कोरोनरी धमनी)"
+  ]
+ },
+ "47-082": {
+  "r": "Thrombin → enzyme of blood clotting; converts fibrinogen → fibrin; formed from prothrombin (coagulation factor II).",
+  "hi": [
+   "Blood clotting (रक्त का थक्का जमना)"
+  ]
+ },
+ "47-084": {
+  "r": "Plasma ≈ 91-92% water (answer 90%); plasma ≈ 55% of blood volume; contains albumin, fibrinogen, globulins."
+ },
+ "47-085": {
+  "r": "Blood has more platelets (150,000-350,000 per microlitre) than WBCs; platelets help clotting and are only about 20% of RBC diameter.",
+  "hi": [
+   "Platelets (बिंबाणु)"
+  ]
+ },
+ "47-086": {
+  "r": "Nitric oxide (NO) → made in the body from L-arginine by NO synthase, mainly in blood-vessel lining (endothelium); dilates vessels, increases blood flow.",
+  "t": "Don't confuse nitric oxide (NO) with nitrous oxide or nitrogen dioxide in the options."
+ },
+ "47-087": {
+  "r": "Alum stops bleeding from cuts: blood is a colloid and alum's aluminium ions have high coagulating power → A and R true, R explains A.",
+  "hi": [
+   "Alum (फिटकरी)"
+  ]
+ },
+ "47-088": {
+  "r": "Artificial 'plastic blood' usable for any blood group → University of Sheffield, Britain; light, needs no cooling, keeps longer."
+ },
+ "48-001": {
+  "r": "Liver → detoxifies alcohol and other harmful substances through complex chemical reactions.",
+  "hi": [
+   "Liver (यकृत)"
+  ]
+ },
+ "48-002": {
+  "r": "Healthy adult excretes about 1.5 litres of urine per day (24 hours); urine is 91-96% water."
+ },
+ "48-003": {
+  "r": "Yellow colour of urine → pigment urochrome (also called urobilin).",
+  "hi": [
+   "Urine (मूत्र)"
+  ]
+ },
+ "48-004": {
+  "r": "Only 2 true: filtrate from Bowman's capsule passes tubules that reabsorb glucose; cleaner blood leaves by the renal vein, not renal artery.",
+  "t": "Renal artery brings waste-laden blood to the kidney; renal vein takes cleaned blood away."
+ },
+ "48-005": {
+  "r": "Dialysis → artificial blood purification (removes waste and excess water) that replaces lost kidney function in kidney failure.",
+  "hi": [
+   "Kidney (वृक्क)"
+  ]
+ },
+ "48-007": {
+  "r": "Dialyzer = artificial kidney: moves solutes and water across a semipermeable membrane between blood and dialysate. Kidney failure options: peritoneal dialysis, hemodialysis, transplant."
+ },
+ "48-008": {
+  "r": "All the body's blood is filtered through the kidneys: they remove water-soluble wastes (urea, ammonium) and reabsorb water, glucose, amino acids."
+ },
+ "48-009": {
+  "r": "Urea is separated from blood in the kidney (ultrafiltration in the renal capsule), forming dilute urine."
+ },
+ "48-010": {
+  "r": "Kidneys → main organs of the excretory system; they filter blood and remove waste products.",
+  "hi": [
+   "Excretion (उत्सर्जन)"
+  ]
+ },
+ "48-011": {
+  "r": "About 1200 ml (cc) of blood flows through both kidneys per minute, forming about 1 ml urine; daily ≈ 1500 litres blood purified, 1.5 litres urine."
+ },
+ "48-012": {
+  "r": "Kidney failure → nitrogenous wastes (ammonia, urea, uric acid) accumulate in the blood."
+ },
+ "48-013": {
+  "r": "Blood sugar regulation is the pancreas's job (insulin), not the kidney's; kidneys regulate blood water, filter urea and secrete hormones."
+ },
+ "48-014": {
+  "r": "Main compound of human kidney stones → calcium oxalate (forms envelope-shaped crystals; called raphides in plants).",
+  "hi": [
+   "Kidney stone (गुर्दे की पथरी)"
+  ]
+ },
+ "48-015": {
+  "r": "Kidney stones form by crystallisation of oxalates; most common = calcium oxalate. Four types: calcium oxalate, uric acid, struvite, cystine."
+ },
+ "48-018": {
+  "r": "Sweat excretes many elements – sodium, potassium, calcium, magnesium and traces of zinc, copper, iron – so the answer is 'more than one'.",
+  "hi": [
+   "Sweat (पसीना)"
+  ]
+ },
+ "48-019": {
+  "r": "Kidney transplant immunosuppressant (anti-rejection) → monoclonal antibodies (mAbs), used as induction therapy."
+ },
+ "49-001": {
+  "r": "Humans have 12 pairs of cranial nerves; they exit the cranium from the ventral (bottom) surface of the brain.",
+  "hi": [
+   "Cranial nerves (कपाल तंत्रिकाएँ)"
+  ]
+ },
+ "49-002": {
+  "r": "Spinal nerves → 31 pairs (mixed nerves: motor, sensory, autonomic); grouped as cervical, thoracic, lumbar, sacral, coccygeal.",
+  "hi": [
+   "Spinal cord (मेरुरज्जु)"
+  ]
+ },
+ "49-003": {
+  "r": "Input and output nerves meet in the central nervous system, especially the spinal cord, where reflex arcs form."
+ },
+ "49-004": {
+  "r": "Brain does all three: cerebrum → thinking, speech, learning; cerebellum → balance and posture; brainstem → automatic functions like heartbeat."
+ },
+ "49-006": {
+  "r": "Reflex action is governed by the spinal cord: sensory neurons synapse there, so reflexes skip the brain and act quickly.",
+  "hi": [
+   "Reflex action (प्रतिवर्ती क्रिया)"
+  ]
+ },
+ "49-007": {
+  "r": "Brain feels no pain when pricked by a needle – it has no pain or touch receptors of its own."
+ },
+ "49-008": {
+  "r": "Memory, thinking, feeling, movement → cerebrum (largest part of brain); cerebellum (smaller, at back) → coordination.",
+  "hi": [
+   "Cerebrum (प्रमस्तिष्क)"
+  ]
+ },
+ "49-009": {
+  "r": "Cerebellum = 'little brain'; lies below cerebral hemispheres, behind pons-medulla; controls balance, coordination, muscle tone, motor learning.",
+  "hi": [
+   "Cerebellum (अनुमस्तिष्क)"
+  ]
+ },
+ "49-010": {
+  "r": "Satiety and thirst centres → hypothalamus; it also governs body temperature, hunger, sleep, circadian rhythm, moods and hormone release.",
+  "hi": [
+   "Hypothalamus (हाइपोथैलेमस)"
+  ]
+ },
+ "49-011": {
+  "r": "Hypothalamus regulates body temperature (normal 98.6°F); also hunger, thirst, fatigue, sleep, circadian rhythms.",
+  "t": "Don't confuse hypothalamus with thalamus (option a)."
+ },
+ "49-012": {
+  "r": "Body temperature stays constant (98.6°F / 37°C) in winter and summer; the hypothalamus acts as the body's thermostat."
+ },
+ "49-013": {
+  "r": "Normal body temperature = 98.6°F = 37°C = 310 K; options 98.4, 98, 98.8°F are wrong → 'None of the above'."
+ },
+ "49-015": {
+  "r": "Medulla oblongata (about three cm) → reflex centre for swallowing, vomiting, coughing, sneezing; links brain to spinal cord.",
+  "hi": [
+   "Medulla oblongata (मेरुशीर्ष)"
+  ]
+ },
+ "50-001": {
+  "r": "Endocrine glands = ductless glands; secrete hormones directly into blood (pineal, pituitary, thymus, thyroid, parathyroid, adrenal).",
+  "hi": [
+   "Endocrine gland (अंतःस्रावी ग्रंथि)"
+  ]
+ },
+ "50-002": {
+  "r": "Hormones (chemical messengers) → secreted by endocrine glands; control growth, metabolism, reproduction, water balance, blood pressure.",
+  "hi": [
+   "Hormone (हार्मोन)"
+  ]
+ },
+ "50-003": {
+  "r": "Pituitary → smallest endocrine gland among options: about 0.5 g, 10 mm (pea-sized), in sella turcica at base of brain; called 'Master gland'.",
+  "hi": [
+   "Pituitary gland (पीयूष ग्रंथि)"
+  ]
+ },
+ "50-005": {
+  "r": "Pancreas = mixed gland: endocrine (insulin, glucagon, somatostatin) + exocrine (pancreatic juice into duodenum via pancreatic duct).",
+  "hi": [
+   "Pancreas (अग्न्याशय)"
+  ]
+ },
+ "50-006": {
+  "r": "Corpus luteum → temporary endocrine structure in the ovary; forms from follicle after ovulation; makes progesterone (high), estradiol, inhibin A.",
+  "hi": [
+   "Corpus luteum (पीत पिंड)"
+  ]
+ },
+ "50-007": {
+  "r": "Androgens (mainly testosterone) → secreted by Leydig (interstitial) cells next to the seminiferous tubules of the testis.",
+  "t": "Don't confuse Leydig cells (androgen) with Sertoli cells (option a)."
+ },
+ "50-008": {
+  "r": "Gonads → progesterone; pituitary → growth hormone; pancreas → insulin; adrenal → cortisol."
+ },
+ "50-009": {
+  "r": "ADH (antidiuretic hormone) from the pituitary controls the amount of urine from the kidney.",
+  "h": "Anti-diuretic = against (excess) urine flow."
+ },
+ "50-010": {
+  "r": "Progesterone → ovaries; testosterone → testes; thyroxine → thyroid; insulin → pancreas."
+ },
+ "50-011": {
+  "r": "Blood sugar stays constant despite a carbohydrate-rich diet → insulin from pancreas beta cells; lack of insulin → diabetes, excess → hypoglycemia.",
+  "hi": [
+   "Diabetes (मधुमेह)"
+  ]
+ },
+ "50-012": {
+  "r": "Defective pancreas → insulin (beta cells) and glucagon (alpha cells) not formed; delta cells of islets of Langerhans make somatostatin."
+ },
+ "50-013": {
+  "r": "Secretin (peptide hormone from S cells of duodenum) → stimulates pancreas to make digestive juice; also inhibits gastric acid."
+ },
+ "50-014": {
+  "r": "Insulin = protein (peptide hormone) of 51 amino acids from beta cells of islets of Langerhans; main anabolic hormone.",
+  "hi": [
+   "Insulin (इंसुलिन)"
+  ]
+ },
+ "50-015": {
+  "r": "Beta cells of islets of Langerhans (pancreas) → insulin; it moves glucose from blood into liver, fat and muscle cells."
+ },
+ "50-016": {
+  "r": "Insulin controls metabolism of carbohydrates, fats and proteins → 'more than one' (BPSC key said only carbohydrates); insulin = peptide protein from islets of Langerhans."
+ },
+ "50-023": {
+  "r": "Metal ion present in insulin → zinc."
+ },
+ "50-024": {
+  "r": "Dahlia roots store inulin (a carbohydrate), not insulin; insulin comes from beta (β) cells of the pancreas. Exam answer: roots of dahlia (an inulin-insulin mix-up).",
+  "c": "Dahlia roots store inulin, a carbohydrate, not the hormone insulin; the exam's answer (b) rests on this inulin-insulin mix-up."
+ },
+ "50-025": {
+  "r": "Wrong pair: gastrin – blood pressure; gastrin stimulates gastric acid. Correct: insulin – blood glucose; melatonin – sleep; oxytocin – milk release."
+ },
+ "50-026": {
+  "r": "Mother hugging or nursing her baby → oxytocin ('love' or 'cuddle' hormone); it also causes uterine contractions in childbirth."
+ },
+ "50-027": {
+  "r": "Oxytocin → release of milk from mammary glands; targets uterus and breast; stretches cervix and uterus during labour."
+ },
+ "50-028": {
+  "r": "Oxytocin is misused to raise milk yield in cattle, to enlarge vegetables and fruits (pumpkins, watermelons) and to speed up labour."
+ },
+ "50-029": {
+  "r": "Oxytocin is a peptide hormone (neuropeptide), not a protein; keratin (hair, nails), fibroin (silk) and collagen are proteins."
+ },
+ "50-030": {
+  "r": "Oxytocin (brand Pitocin) is injected into cows and buffaloes to make milk descend to the udders."
+ },
+ "50-031": {
+  "r": "Oxytocin → made in hypothalamus (supraoptic and paraventricular nuclei), released by the posterior pituitary gland."
+ }
+}

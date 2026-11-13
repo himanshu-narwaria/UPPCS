@@ -1,0 +1,408 @@
+{
+  "119-007": {
+    "r": "Pampas → main cultivation region of Argentina: fertile deep soil and temperate climate suit crops and grasses. A and R true, R explains A."
+  },
+  "119-008": {
+    "r": "Wide treeless grassy plains of South America → Pampas: very fertile, from the Atlantic Ocean to the Andes (Argentina, Brazil, Uruguay)."
+  },
+  "119-009": {
+    "r": "Correct pair → Llanos – Venezuela (also Colombia). Campos → south-east Brazil; Pampas → Argentina; Selvas → tropical evergreen rainforests of the Amazon Basin."
+  },
+  "119-010": {
+    "r": "Wrong pair → Downs – Tropical grassland: Downs are temperate. Tropical: Llanos, Campos, Savanna. Temperate: Prairies, Pampas, Steppes, Veld, Downs. Selva → tropical forest.",
+    "t": "Savanna is a tropical grassland, not a temperate one."
+  },
+  "119-012": {
+    "r": "Pampas grasslands → mainly Argentina; some portions in Uruguay and Brazil."
+  },
+  "119-014": {
+    "r": "Temperate grassland of Eurasia → Steppes.",
+    "hi": ["Steppes (स्टेपी)"]
+  },
+  "119-015": {
+    "r": "'Land of Big Games' → Tropical Savanna region: herbivores (zebra, antelope, giraffe, elephant) and carnivores (lion, leopard, hyena), hunted by people from all over the world."
+  },
+  "119-016": {
+    "r": "Forest growth in savanna is checked by fire, grazing herbivores and seasonal rainfall (2, 3, 4): everything dries up in summer."
+  },
+  "119-017": {
+    "r": "Pampas → Argentina; Pustaz → Hungary; Veld → South Africa; Downs → Australia."
+  },
+  "120-001": {
+    "r": "Largest country: by area Russia, then Canada, USA, China; by population China (when asked). Question unclear, so the book accepts both (c) China and (d) U.S.A."
+  },
+  "120-002": {
+    "r": "Area, descending: Canada > U.S.A. > China > Brazil."
+  },
+  "120-003": {
+    "r": "Area, ascending: Argentina (2796427 sq km) < India (3287263) < Australia (7692024) < Brazil (8510417)."
+  },
+  "120-004": {
+    "r": "USA–Mexico border rivers → Rio Grande and Colorado (waters shared under the 1944 Water Treaty, run by the IBWC); the book accepts both."
+  },
+  "120-005": {
+    "r": "India is the seventh largest country by area; the six larger are Russia, Canada, USA, China, Brazil, Australia. France is smaller than India."
+  },
+  "120-006": {
+    "r": "Gaza Strip → thin strip on the Mediterranean between Egypt and Israel (borders both); about 360 sq km; ruled by Hamas since 2007."
+  },
+  "120-007": {
+    "r": "Smallest South Asian country → Maldives (298 sq km); Bhutan 38,394; Sri Lanka 65,610; Bangladesh 147570 sq km."
+  },
+  "120-008": {
+    "r": "Arabian Peninsula → Saudi Arabia, Yemen, Oman, UAE, Bahrain, Qatar, Kuwait and part of Iraq; Syria is not part of it."
+  },
+  "120-009": {
+    "r": "Longest coastline → Canada (202,080 km); then Norway (83281 km), Indonesia (54,716 km), Greenland, Russia, Philippines."
+  },
+  "120-011": {
+    "r": "Longest land border with India → Bangladesh (4096.7 km)."
+  },
+  "120-012": {
+    "r": "Ex-Soviet Central Asia map: 1 Kazakhstan, 2 Turkmenistan (Turkmenia), 3 Uzbekistan, 4 Kyrgyzstan (Kirgizia), 5 Tajikistan."
+  },
+  "120-013": {
+    "r": "Caspian Sea (371000 sq km, world's largest lake) → bordered by Azerbaijan, Kazakhstan, Iran, Russia, Turkmenistan; not Armenia or Iraq.",
+    "h": "Caspian shores 'AKIRT': Azerbaijan, Kazakhstan, Iran, Russia, Turkmenistan."
+  },
+  "120-015": {
+    "r": "Dead Sea → landlocked salt lake between Israel, the West Bank and Jordan; Lebanon does not touch it. The book's answer is (e) 'more than one of the above'.",
+    "c": "The book prints (e), but its own explanation (shores: Israel, West Bank, Jordan) leaves only Lebanon without a border, i.e. (a), if the West Bank counts as Palestine."
+  },
+  "120-016": {
+    "r": "Middle East map: A → Iraq (Tigris, Euphrates), B → Syria, C → Saudi Arabia, D → Jordan."
+  },
+  "120-017": {
+    "r": "Israel's land borders → Lebanon (north), Syria (north-east), Jordan (east), Egypt (south-west); Mediterranean Sea on the west."
+  },
+  "120-018": {
+    "r": "China's neighbours (book): India, Afghanistan, Tajikistan, Kyrgyzstan, Kazakhstan, Mongolia, Russia, North Korea, Vietnam, Laos, Myanmar, Bhutan, Nepal. Not Bulgaria; the book also accepts Pakistan."
+  },
+  "120-019": {
+    "r": "African map: 1 → Libya, 2 → Somalia, 3 → Nigeria, 4 → Namibia."
+  },
+  "120-020": {
+    "r": "Horn of Africa (Somali Peninsula, East Africa) → Djibouti, Ethiopia, Eritrea, Somalia; not Sudan."
+  },
+  "120-022": {
+    "r": "Zambia (landlocked) borders DR Congo, Tanzania, Malawi, Mozambique, Zimbabwe, Botswana, Namibia, Angola. All four options border it, so the book gives no single answer (*)."
+  },
+  "120-023": {
+    "r": "Adriatic Sea coast → Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Albania, Italy. Serbia and North Macedonia are landlocked."
+  },
+  "120-024": {
+    "r": "North Sea borders → Great Britain, Norway, Denmark, Germany, Netherlands, Belgium, France. Of Finland, Germany, Norway, Russia → only two (Germany, Norway)."
+  },
+  "120-025": {
+    "r": "Balkan countries → Albania, Bosnia and Herzegovina, Bulgaria, Greece, Croatia, Serbia, Slovenia, Romania; Austria is not a Balkan state."
+  },
+  "120-026": {
+    "r": "Sierra Leone → West Africa (Guinea to the north, Liberia south-east), not Central America; Panama, Honduras, Guatemala are Central American."
+  },
+  "120-027": {
+    "r": "Lithuania's neighbours → Belarus (640 km), Latvia (544 km), Russia-Kaliningrad (261 km), Poland (100 km); not Ukraine. Capital Vilnius; coast on the Baltic Sea."
+  },
+  "120-028": {
+    "r": "Great Britain → England, Wales, Scotland; adding Northern Ireland makes the United Kingdom. England is about 53% of the UK (243,610 sq km). Only statement 2 true.",
+    "t": "Great Britain is not the United Kingdom: Northern Ireland is only in the UK."
+  },
+  "120-029": {
+    "r": "Oceania → 14 countries in three groups: Melanesia, Micronesia, Polynesia; Australia is the biggest. Indonesia is not part of Oceania."
+  },
+  "120-030": {
+    "r": "Scandinavia (geographically) → Norway, Sweden, Denmark; Finland and Iceland are included only as a cultural-historical region. So the answer is Finland."
+  },
+  "120-031": {
+    "r": "Afghanistan's neighbours → Turkmenistan, Uzbekistan, Tajikistan (north), China (north-east), India (south-east), Pakistan (east, south), Iran (west); not Russia."
+  },
+  "120-032": {
+    "r": "Afghanistan borders Tajikistan, Turkmenistan, Uzbekistan (3, 4, 5); not Azerbaijan or Kyrgyzstan."
+  },
+  "120-033": {
+    "r": "Myanmar's neighbours → Bangladesh (271 km), China (2129 km), India (1468 km), Laos (238 km), Thailand (2416 km); sea: Andaman Sea, Bay of Bengal."
+  },
+  "120-034": {
+    "r": "Mediterranean coast → Lebanon and Syria (3, 4), not Jordan or Iraq. Gibraltar links it to the Atlantic, Bosporus to the Black Sea, Suez Canal to the Red Sea."
+  },
+  "120-035": {
+    "r": "Guyana → South America; Gabon, Guinea and Guinea Bissau → Africa."
+  },
+  "120-036": {
+    "r": "Not on Africa's west coast → Botswana (landlocked, southern Africa); Gabon, Liberia and Angola lie on the west coast."
+  },
+  "120-037": {
+    "r": "Largest country without land borders (of the options) → Japan (377915 sq km); Philippines 3,00,000; New Zealand 2,68,838; Cuba 110,860 sq km."
+  },
+  "120-038": {
+    "r": "Longest north-south (latitudinal) extent among the options → Chile, on the western seaboard of South America (book's answer here)."
+  },
+  "120-039": {
+    "r": "Indonesia's land borders → Malaysia (Borneo, Sebatic Island), Papua New Guinea (New Guinea), Timor-Leste (Timor). Not Brunei."
+  },
+  "120-040": {
+    "r": "Famine and starvation from war/conflict → Yemen (food imports blocked by Saudi Arabia and the USA) and South Sudan (political instability)."
+  },
+  "120-041": {
+    "r": "UAE's seven emirates → Abu Dhabi (capital), Dubai, Sharjah, Ajman, Umm Al-Quwain, Fujairah (federation, December 1971) + Ras Al Khaimah (joined 1972)."
+  },
+  "120-042": {
+    "r": "Ukraine's land neighbours → Belarus, Russia, Moldova, Romania, Hungary, Slovakia, Poland. From the list only Hungary and Romania: two."
+  },
+  "121-001": {
+    "r": "Australia → Christmas Island; Denmark → Greenland; France → Martinique; Spain → Santa Cruz (Canary Islands). That code is not offered, so the book gives no single answer (*)."
+  },
+  "121-002": {
+    "r": "Landlocked → Bolivia (west-central South America; neighbours Brazil, Paraguay, Argentina, Chile, Peru)."
+  },
+  "121-003": {
+    "r": "Greenland → geographically North America, politically Europe (Denmark); world's largest island, about 80% covered with snow."
+  },
+  "121-004": {
+    "r": "Chechnya → autonomous republic of Russia in the northern Caucasus; capital Grozny."
+  },
+  "121-005": {
+    "r": "Aleutian Islands → U.S.A.; Bear Island → Norway; Greenland → Denmark; Franz Josef Island → Russia."
+  },
+  "121-006": {
+    "r": "Correct: Catalonia – Spain; Mindanao – Philippines (its second largest island). Wrong: Crimea is claimed by Russia and Ukraine, not Hungary; Oromia is in Ethiopia, not Nigeria."
+  },
+  "121-007": {
+    "r": "None correct: Mallorca → Spain; Normandy → France; Sardinia → Italy."
+  },
+  "122-001": {
+    "r": "Not landlocked → Liberia. The world has 45 landlocked countries, e.g. Afghanistan, Laos, Luxembourg; Chad is a landlocked African country.",
+    "hi": ["Landlocked country (स्थलरुद्ध देश)"]
+  },
+  "122-003": {
+    "r": "Only landlocked country of Southeast Asia → Laos (borders Myanmar, China, Vietnam, Cambodia, Thailand)."
+  },
+  "122-004": {
+    "r": "Not landlocked → Thailand. Landlocked Asian countries include Afghanistan, Armenia, Bhutan, Nepal, Mongolia."
+  },
+  "122-005": {
+    "r": "Landlocked country of South America → Bolivia (Peru, Suriname, Uruguay have coasts)."
+  },
+  "122-006": {
+    "r": "Continent with no landlocked country → North America (USA, Canada, Mexico etc. all have coastlines)."
+  },
+  "122-007": {
+    "r": "Landlocked → Afghanistan, Hungary, Switzerland (1, 2, 4); Malaysia has an extensive coastline."
+  },
+  "122-008": {
+    "r": "South Sudan → landlocked; main river White Nile; capital Juba (not Akoba); main religion Christianity (not Islam). I and III true."
+  },
+  "122-009": {
+    "r": "Trans-continental (spanning Asia and Europe) → Georgia and Turkey; Laos and Tunisia are not."
+  },
+  "122-010": {
+    "r": "Not landlocked → Azerbaijan (Baku on the Caspian Sea, world's largest lake). Kyrgyzstan, Tajikistan fully landlocked; Uzbekistan touches only the dried-up Aral Sea."
+  },
+  "122-011": {
+    "r": "Maginot Line → France's line of fortifications on its eastern border facing Germany, built before the Second World War."
+  },
+  "122-012": {
+    "r": "Landlocked → Hungary; Belgium, Romania and Ukraine have coastlines."
+  },
+  "122-013": {
+    "r": "Landlocked → Armenia, Botswana, Ethiopia (1, 3, 4); that code is not offered, so the book gives no single answer (*). Montenegro is not landlocked."
+  },
+  "123-001": {
+    "r": "Siam → Thailand; Formosa → Taiwan; Mesopotamia → Iraq; Burma → Myanmar."
+  },
+  "123-002": {
+    "r": "Wrong pair → Ghana – Dutch Guiana: Ghana was Gold Coast (independent March 6, 1957); Dutch Guiana is Suriname. Correct: Harare–Salisbury, Ethiopia–Abyssinia, Kinshasa–Leopoldville."
+  },
+  "123-003": {
+    "r": "Zimbabwe → earlier Southern Rhodesia (a British colony); its capital Harare was earlier Salisbury."
+  },
+  "124-001": {
+    "r": "Wrong pair → Durand Line – Bangladesh and India: Durand Line is Afghanistan–Pakistan (and India). Radcliffe → India–Pakistan/Bangladesh; Maginot → France–Germany; Hindenburg → Germany, Belgium, France."
+  },
+  "124-002": {
+    "r": "Border rivers → Rio Grande (USA–Mexico, identified 1845) and Rhine (France–Germany). Two options fit, so the book gives no single answer (*)."
+  },
+  "124-004": {
+    "r": "Lake Victoria (Victoria Nyanza; world's second largest freshwater lake by area) → border of Uganda–Tanzania, Uganda–Kenya and Kenya–Tanzania."
+  },
+  "124-005": {
+    "r": "Dotted line on the map between Pakistan and Afghanistan → Durand Line.",
+    "hi": ["Durand Line (डूरंड रेखा)"]
+  },
+  "124-006": {
+    "r": "McMahon Line → India–China boundary; agreed under the Shimla Accord, 1914 (Britain–Tibet); named after Sir Henry McMahon."
+  },
+  "124-007": {
+    "r": "Radcliffe Line → India–Pakistan (and India–Bangladesh). 38th parallel → North–South Korea; 49th parallel → USA–Canada; McMahon Line → India–China."
+  },
+  "124-008": {
+    "r": "38th parallel (38° N) → North Korea–South Korea. Oder-Neisse → Poland–Germany; Durand → Pakistan–Afghanistan; Radcliffe → India–Pakistan/Bangladesh; McMahon → India–China."
+  },
+  "124-010": {
+    "r": "Maginot Line → France–Germany border fortifications, built by France after World War I (concrete, 1930-35); the France–Italy part is the Alpine Line."
+  },
+  "124-011": {
+    "r": "Longest international border → Canada–USA (8,891 km); Russia–Kazakhstan 6,846 km; Chile–Argentina 5,308 km; India–China 3,488 km."
+  },
+  "124-012": {
+    "r": "Canada–Alaska boundary → 141st meridian west (141° W), set under the Convention of April 1906; from the Arctic Ocean to Mount Saint Elias, about 647 miles."
+  },
+  "125-001": {
+    "r": "Myanmar → Nay Pyi Taw (not Yangon); Cambodia → Phnom Penh; Vietnam → Hanoi; Laos → Vientiane. No code fits, so the book gives no single answer (*)."
+  },
+  "125-002": {
+    "r": "Wrong pair → Slovenia – Bratislava: Slovenia's capital is Ljubljana; Bratislava is Slovakia's. Correct: Seychelles – Victoria; Sierra Leone – Freetown; Uzbekistan – Tashkent.",
+    "t": "Don't confuse Slovenia (Ljubljana) with Slovakia (Bratislava)."
+  },
+  "125-003": {
+    "r": "Not a former capital → Brisbane; Australia's former capital was Melbourne (now Canberra). Former capitals: Karachi (Pakistan), Auckland (New Zealand), Kyoto (Japan)."
+  },
+  "125-004": {
+    "r": "Myanmar's new administrative capital → near Pyinmana (moved 6 November 2005), named Nay Pyi Taw on 27 March 2006; 320 km north of old capital Yangon."
+  },
+  "125-005": {
+    "r": "Wrong pair → Nicaragua – Balmopan: Nicaragua's capital is Managua; Belmopan is Belize's. Correct: Bahamas – Nassau; Costa Rica – San Jose; Dominican Republic – Santo Domingo."
+  },
+  "125-006": {
+    "r": "Capital of Peru → Lima. Lisbon → Portugal; Madrid → Spain; Caracas → Venezuela."
+  },
+  "125-007": {
+    "r": "Vienna → capital of Austria; headquarters of the International Atomic Energy Agency (I.A.E.A.)."
+  },
+  "125-008": {
+    "r": "Wrong pair → North Korea – Seoul: North Korea's capital is Pyongyang; Seoul is South Korea's. Santiago (Chile), Buenos Aires (Argentina), Addis Ababa (Ethiopia) are correct."
+  },
+  "125-009": {
+    "r": "Wrong pair → Japan – Kyoto: Japan's capital is Tokyo. Beijing (China), Vienna (Austria), Madrid (Spain) are correct."
+  },
+  "125-010": {
+    "r": "Wrong pair → Nigeria – Rabat: Nigeria's capital is Abuja. Accra (Ghana), Nairobi (Kenya), Windhoek (Namibia) are correct."
+  },
+  "125-011": {
+    "r": "Pisa (leaning tower) → Italy; on the Arno River, which flows into the Ligurian Sea."
+  },
+  "125-012": {
+    "r": "Windhoek → Namibia; Accra → Ghana; Nairobi → Kenya; Lusaka → Zambia."
+  },
+  "125-013": {
+    "r": "Kenya → Nairobi; Uganda → Kampala; Uzbekistan → Tashkent; Ukraine → Kyiv."
+  },
+  "125-014": {
+    "r": "Kampala → Uganda; Kigali → Rwanda; Kinshasa → Democratic Republic of the Congo; Khartoum → Sudan."
+  },
+  "125-015": {
+    "r": "Copenhagen–Denmark, Berlin–Germany, Paris–France, Oslo–Norway are all true capitals; the book picks Berlin because it is also one of Germany's states.",
+    "c": "Every pair is a correct capital match; the book's answer (b) rests only on Berlin also being a German state, so the question is flawed."
+  },
+  "125-016": {
+    "r": "Wrong pair → Bishkek – Tajikistan: Bishkek is Kyrgyzstan's capital. Amman → Jordan; Ulan Bator → Mongolia; Sana'a → Yemen."
+  },
+  "125-017": {
+    "r": "Bulgaria → Sofia; Georgia → Tbilisi; Iceland → Reykjavik; Norway → Oslo."
+  },
+  "125-018": {
+    "r": "Correct pair → Lebanon – Beirut. Cyprus → Nicosia; Turkey → Ankara; Ukraine → Kyiv; Baghdad → Iraq; Ashgabat → Turkmenistan."
+  },
+  "125-019": {
+    "r": "Wrong pair → China – Shanghai: China's capital is Beijing. Ottawa (Canada), Canberra (Australia), Moscow (Russia) are correct."
+  },
+  "125-020": {
+    "r": "Burundi → Bujumbura (now Gitega); Kazakhstan → Astana; Laos → Vientiane; Mali → Bamako."
+  },
+  "125-021": {
+    "r": "Wrong pair → Ethiopia – Lusaka: Ethiopia's capital is Addis Ababa. Helsinki (Finland), La Paz (Bolivia), Kiev (Ukraine) are correct."
+  },
+  "125-022": {
+    "r": "Azerbaijan → Baku; Gambia → Banjul; Kazakhstan → Astana; Latvia → Riga."
+  },
+  "125-023": {
+    "r": "Wrong pair → Christchurch – New Zealand: New Zealand's capital is Wellington. Budapest → Hungary; Kinshasa → Zaire (now DR Congo); Nairobi → Kenya."
+  },
+  "125-024": {
+    "r": "Not national capitals → Bonn (West Germany's capital before 1990; Germany's now Berlin) and New York (USA's is Washington D.C.); the book accepts both."
+  },
+  "125-025": {
+    "r": "Not a capital → Sydney (a port city of Australia). Canberra → Australia; Wellington → New Zealand; Riyadh → Saudi Arabia."
+  },
+  "125-026": {
+    "r": "Helsinki → Finland. Copenhagen → Denmark; Oslo → Norway; Stockholm → Sweden."
+  },
+  "125-027": {
+    "r": "Brazil → Brasilia; Cuba → Havana; Kenya → Nairobi; Zambia → Lusaka."
+  },
+  "125-028": {
+    "r": "Brazil → Rio-De-Janeiro (one of its main cities); Costa Rica → San Jose; Peru → Lima; Ivory Coast → Yamoussoukro."
+  },
+  "125-029": {
+    "r": "Wrong pair → Finland – Oslo: Oslo is Norway's capital; Finland's is Helsinki. Suva (Fiji), George Town (Guyana), Beirut (Lebanon) are correct."
+  },
+  "125-030": {
+    "r": "Sri Lanka → Colombo (now Sri Jayawardenepura Kotte); Maldives → Male; Burma → Rangoon (former capital); Zimbabwe → Harare; Mauritius → Port Louis."
+  },
+  "125-031": {
+    "r": "Australia → Canberra; Tajikistan → Dushanbe; Tanzania → Dodoma; Switzerland → Bern."
+  },
+  "125-032": {
+    "r": "Correct pair → Cyprus – Nicosia. Caracas → Venezuela; Bogota → Colombia; Wellington → New Zealand."
+  },
+  "125-033": {
+    "r": "Wrong pair → Maldives – Malabo: Maldives' capital is Male; Malabo is Equatorial Guinea's. Bissau (Guinea Bissau), Taipei (Taiwan), Managua (Nicaragua) are correct."
+  },
+  "125-034": {
+    "r": "Paraguay (landlocked, central South America) → capital Asuncion; Vice President M. Venkaiah Naidu visited 5-7 March 2019, India's first high-level visit there."
+  },
+  "125-035": {
+    "r": "Uzbekistan → Tashkent; Tajikistan → Dushanbe; Kyrgyzstan → Bishkek; Turkmenistan → Ashgabat."
+  },
+  "125-036": {
+    "r": "Wrong pair → Cape Verde – Bamako: Cape Verde's capital is Praia. Rabat → Morocco; Tunis → Tunisia; Algiers → Algeria."
+  },
+  "125-037": {
+    "r": "Wrong pair → Dominica – Santo Domingo: Dominica's capital is Roseau. Saint John's → Antigua and Barbuda; San Salvador → El Salvador; Nassau → Bahamas."
+  },
+  "125-038": {
+    "r": "Australian state capitals: New South Wales → Sydney; Queensland → Brisbane; Victoria → Melbourne; Western Australia → Perth."
+  },
+  "126-001": {
+    "r": "Most mega cities lie in coastal areas because they are gateways to international ocean routes: A and R true, R explains A."
+  },
+  "126-002": {
+    "r": "Great Lakes cities: Erie → Detroit; Michigan → Gary; Ontario → Hamilton; Superior → Duluth."
+  },
+  "126-003": {
+    "r": "Central Asian capitals: Ashgabat (Turkmenistan), Tashkent (Uzbekistan), Bishkek (Kyrgyzstan), Dushanbe (Tajikistan)."
+  },
+  "126-004": {
+    "r": "Palestine → Ramallah; Kosovo → Pristina; Turkish Cyprus → Nicosia; Taiwan → Taipei."
+  },
+  "126-005": {
+    "r": "Air-route map: A → Darwin (North Australia), B → Kuala Lumpur (Malaysia), C → Nairobi (Kenya), D → Lagos (Nigeria)."
+  },
+  "126-006": {
+    "r": "Northern Sri Lanka map: A → Chavakachcheri, B → Point Pedro, C → Kankesanturai, D → Jaffna."
+  },
+  "126-007": {
+    "r": "Alaska → north-western state of the USA, bought from the Russian Empire (treaty March 30, 1867; formally transferred 18 October 1867)."
+  },
+  "126-009": {
+    "r": "Not in Silicon Valley → Santa Rosa (county seat of Sonoma County, California); Campbell, Palo Alto and Santa Clara are in it."
+  },
+  "126-010": {
+    "r": "South Africa: Cape Town → legislative capital (Parliament); Pretoria → administrative capital; Bloemfontein → judicial capital.",
+    "h": "Cape makes the laws, Pretoria runs the government, Bloemfontein judges."
+  },
+  "126-011": {
+    "r": "Pakistan towns, north to south: Peshawar → Islamabad → Gujranwala → Multan."
+  },
+  "126-012": {
+    "r": "Kandahar → southern Afghanistan's chief commercial city, on a plain by the Tarnak River at about 1000 m."
+  },
+  "126-013": {
+    "r": "West to east: Lisbon → London → Frankfurt → Beirut."
+  },
+  "126-014": {
+    "r": "Highest altitude → Lhasa (Tibet, 3650 m); Thimphu 2248-2648 m; Gartola 1733 m; Kathmandu 1350 m."
+  },
+  "126-015": {
+    "r": "Baikonur – Ukraine is wrong: Baikonur Cosmodrome (oldest, biggest space launch site) is in Kazakhstan, east of the Aral Sea. Auroville → Puducherry; Bandung → Indonesia; Batticaloa → Sri Lanka."
+  }
+}

@@ -1,0 +1,278 @@
+{
+ "06-061": {
+  "r": "VIBGYOR is the order of increasing wavelength (violet shortest, red longest) and decreasing frequency; so red's wavelength is more than violet's.",
+  "hi": [
+   "Wavelength (तरंगदैर्ध्य)"
+  ]
+ },
+ "06-065": {
+  "r": "Light's energy ∝ 1/wavelength: among blue, green, yellow and red, blue has the highest energy and red the lowest."
+ },
+ "06-066": {
+  "r": "A glass prism deviates violet most and red least: red travels fastest in glass, so glass has its lowest refractive index for red.",
+  "hi": [
+   "Dispersion (वर्ण विक्षेपण)"
+  ]
+ },
+ "06-067": {
+  "r": "A false: red (≈ 700 nm, 1.77 eV) has less energy than green (≈ 530 nm, 2.34 eV). R true: red's wavelength is longer."
+ },
+ "06-068": {
+  "r": "The Sun is seen a few minutes before actual sunrise (and after sunset) because of refraction of light in the atmosphere."
+ },
+ "06-069": {
+  "r": "The Sun and Moon look elliptical near the horizon because of refraction."
+ },
+ "06-070": {
+  "r": "Stars twinkle due to atmospheric refraction: starlight passes through layers of changing refractive index, so its apparent position keeps shifting."
+ },
+ "06-071": {
+  "r": "Red is used in traffic signals because it has the longest wavelength, is scattered least and is seen clearly from far away."
+ },
+ "06-072": {
+  "r": "Danger signals are red because red light (longest wavelength) is scattered least by air molecules and is seen from far: A and R true, R explains A."
+ },
+ "06-074": {
+  "r": "The sky looks blue because blue (short-wavelength) light is scattered most by air molecules (Rayleigh scattering).",
+  "hi": [
+   "Scattering (प्रकीर्णन)"
+  ],
+  "h": "Short waves scatter most (blue sky); long red waves scatter least (red danger signals)."
+ },
+ "06-078": {
+  "r": "True: blue sky and red Sun at sunrise/sunset are due to scattering (statements 1 and 3). False: rainbow colours are not caused by scattering."
+ },
+ "06-080": {
+  "r": "Sky looks dark at very high altitudes because the air is very rare and scattering is not prominent: both true, (ii) explains (i)."
+ },
+ "06-081": {
+  "r": "An astronaut sees the sky black: space has no atmosphere, so there is no scattering of sunlight (from a very high plane it also looks black)."
+ },
+ "06-083": {
+  "r": "The sea looks blue due to reflection of the sky and scattering of light by water; blue light (short wavelength) scatters most easily."
+ },
+ "06-084": {
+  "r": "Grass looks green because it reflects green light and absorbs all other colours; a black surface reflects none, a white one reflects all."
+ },
+ "06-085": {
+  "r": "Colours of a soap film on water in daylight → interference of light reflected from its outer and inner surfaces.",
+  "hi": [
+   "Interference (व्यतिकरण)"
+  ]
+ },
+ "06-086": {
+  "r": "Rocket moving away from Earth at 2/10 the speed of light: its blue light (450–490 nm) shifts to longer wavelength → looks yellow-orange from Earth."
+ },
+ "06-087": {
+  "r": "Convex mirror, object anywhere between infinity and pole → image between pole and focus behind the mirror: virtual, erect and diminished."
+ },
+ "06-088": {
+  "r": "Black strips painted on a convex lens only block part of the light: the image is still a full horse, just less bright."
+ },
+ "06-089": {
+  "r": "Rear-view mirror in vehicles → convex mirror: always an erect, diminished image with a wider field of view.",
+  "hi": [
+   "Convex mirror (उत्तल दर्पण)"
+  ],
+  "h": "Convex = see more: wider field of view for traffic behind."
+ },
+ "06-092": {
+  "r": "Concave mirror gives a real, inverted, same-size image when the object is at the centre of curvature."
+ },
+ "06-093": {
+  "r": "Image larger than oneself → concave mirror (surface curved inwards); used in torches, searchlights, headlights and as shaving mirrors.",
+  "hi": [
+   "Concave mirror (अवतल दर्पण)"
+  ]
+ },
+ "06-094": {
+  "r": "Shaving mirror → concave (large focal length): a face between focus and pole gives an enlarged, erect, virtual image."
+ },
+ "06-095": {
+  "r": "Searchlights and car headlights → concave mirror: a bulb near the focus gives a parallel beam that lights far ahead."
+ },
+ "06-097": {
+  "r": "Dentist's mirror → concave mirror: an object closer than the focal length gives a magnified, upright image of the tooth."
+ },
+ "06-100": {
+  "r": "Umbrella against sunlight: white on top (reflects most radiation), black underneath (absorbs whatever passes through)."
+ },
+ "06-101": {
+  "r": "Astronomical telescope (two convex lenses: objective and eyepiece) forms a final image that is inverted, virtual and highly magnified."
+ },
+ "06-102": {
+  "r": "A larger objective lens diameter gathers more light → the telescope's resolution (resolving power) increases."
+ },
+ "06-103": {
+  "r": "A plane mirror is a spherical mirror with infinite radius of curvature → its focal length is infinite and its power zero."
+ },
+ "06-104": {
+  "r": "An object between two parallel plane mirrors forms infinite images (each image is the image of another image)."
+ },
+ "06-106": {
+  "r": "Rotating a plane mirror by angle θ turns the reflected ray by 2θ."
+ },
+ "06-107": {
+  "r": "Glass beads on traffic signals glow by total internal reflection (light in denser glass beyond the critical angle): A and R true, R explains A."
+ },
+ "06-108": {
+  "r": "The seven colours of white light are separated by a prism: each colour (wavelength) is refracted by a different amount."
+ },
+ "06-109": {
+  "r": "Rainbow order VIBGYOR: violet, indigo, blue, green, yellow, orange, red → 'blue, green, yellow' is in correct order."
+ },
+ "06-110": {
+  "r": "Rainbow → dispersion, refraction and internal reflection of sunlight in raindrops (all three); it appears opposite the Sun.",
+  "hi": [
+   "Rainbow (इंद्रधनुष)"
+  ]
+ },
+ "06-111": {
+  "r": "Dispersion (splitting white light into its component colours) is done by a prism."
+ },
+ "06-112": {
+  "r": "Middle colour of the rainbow (fourth of the seven in VIBGYOR) → green."
+ },
+ "06-113": {
+  "r": "The end colour bands of a rainbow → violet and red."
+ },
+ "06-114": {
+  "r": "A rainbow forms opposite the Sun, so at 12 noon (Sun overhead) it cannot be seen."
+ },
+ "06-115": {
+  "r": "Shadows form due to rectilinear (straight-line) propagation of light blocked by an opaque object."
+ },
+ "06-116": {
+  "r": "A swimming pool looks shallower than it is due to refraction: light from the bottom bends away from the normal going from water to air."
+ },
+ "06-117": {
+  "r": "A slanting stick in water looks short and bent due to refraction, not scattering: A true, R false."
+ },
+ "06-118": {
+  "r": "Both true (refraction): a coin in water looks closer than it is; a coin above water, seen from under water, looks higher than it is."
+ },
+ "06-119": {
+  "r": "An air bubble in water acts as a concave (diverging) lens, because air's refractive index is lower than water's.",
+  "t": "The bubble's surface is convex, yet it behaves as a concave lens."
+ },
+ "06-121": {
+  "r": "Convex and concave lenses of the same focal length in contact → combined focal length infinite → act as a plane glass sheet."
+ },
+ "06-122": {
+  "r": "Minimum height of a plane mirror to see one's full image = half the person's height (angle of incidence = angle of reflection)."
+ },
+ "06-123": {
+  "r": "Full-length image needs a mirror half the person's height: 1.50 m ÷ 2 = 0.75 m."
+ },
+ "06-124": {
+  "r": "Radius of curvature of a plane mirror is infinite (it is a spherical mirror of infinite radius; image as far behind as the object in front)."
+ },
+ "06-125": {
+  "r": "Magnifying glass → convex lens (makes objects look larger).",
+  "hi": [
+   "Convex lens (उत्तल लेंस)"
+  ]
+ },
+ "06-126": {
+  "r": "Long-sightedness (hypermetropia: far objects clear, near ones blurred) is corrected with a convex lens.",
+  "hi": [
+   "Hypermetropia (दूर-दृष्टि दोष)"
+  ]
+ },
+ "06-127": {
+  "r": "Not true for hypermetropia: 'a concave lens corrects it' (a convex lens does). Far objects clear; near-object image forms behind the retina; eyeball is shorter."
+ },
+ "06-128": {
+  "r": "Reading glasses → convex (converging) lens, thicker in the middle; it also corrects far-sightedness."
+ },
+ "06-129": {
+  "r": "Myopia is reduced with a concave lens.",
+  "hi": [
+   "Myopia (निकट-दृष्टि दोष)"
+  ]
+ },
+ "06-130": {
+  "r": "Myopia (near-sightedness: near objects clear, distant ones blurred) is corrected by a concave lens."
+ },
+ "06-133": {
+  "r": "Myopia → concave lens; hypermetropia → convex lens.",
+  "h": "MyoCAVE: Myopia → conCAVE; the other one (hypermetropia) gets convex."
+ },
+ "06-134": {
+  "r": "Dark adaptation: bright light bleaches rhodopsin in the rods; sight in the dark returns as rhodopsin re-forms (minutes), helped by the pupil widening.",
+  "c": "The book accepts (a), (c) and (d). The slow part of dark adaptation, taking minutes, is the rebuilding of bleached rhodopsin in the rods, option (c); the pupil widens within seconds."
+ },
+ "06-135": {
+  "r": "The eye focuses by changing the convexity (shape) of its lens; the bending power of cornea and humour stays constant."
+ },
+ "06-136": {
+  "r": "Ciliary muscles change the eye lens's curvature and so its focal length; relaxed → thin lens, longer focal length for distant objects.",
+  "hi": [
+   "Ciliary muscles (पक्ष्माभी पेशियाँ)"
+  ]
+ },
+ "06-137": {
+  "r": "Not correct: ENT doctors use a concave head mirror (small central hole), not convex. Mirage – total internal reflection; searchlight – concave; summer – light-coloured clothes."
+ },
+ "06-138": {
+  "r": "Least distance of distinct vision (near point) for a normal eye ≈ 25 cm, denoted D."
+ },
+ "06-141": {
+  "r": "Power of a lens is measured in dioptre: P = 1/f (f in metres); converging lens positive, diverging lens negative.",
+  "hi": [
+   "Dioptre (डायोप्टर)"
+  ]
+ },
+ "06-143": {
+  "r": "Focal length f (cm) = 100 ÷ power (dioptre) → a +2 dioptre lens has focal length 100/2 = 50 cm."
+ },
+ "06-144": {
+  "r": "Sunglasses have zero power (0 dioptre)."
+ },
+ "06-145": {
+  "r": "Young's double slit: fringe width β = λD/d = 500 nm × 1 m ÷ 1 mm = 0.5 mm."
+ },
+ "06-146": {
+  "r": "Exposure ∝ (1/f-number)² × time: f-8 at 1/250 s gives the most (≈ 0.000062), more than f-22 1/60, f-16 1/125, f-5.6 1/1000."
+ },
+ "06-147": {
+  "r": "The retina works like the film of a traditional camera; its nerve cells turn light into electrical impulses sent via the optic nerve."
+ },
+ "06-148": {
+  "r": "The human eye forms the image of an object on the retina; the optic nerve carries it to the brain (the eye works like a camera).",
+  "hi": [
+   "Retina (दृष्टिपटल)"
+  ]
+ },
+ "06-150": {
+  "r": "Long-sightedness (hypermetropia): image of a near object forms behind the retina (eyeball too short); corrected by a convex lens."
+ },
+ "06-151": {
+  "r": "An opaque object's colour = the colour of light it reflects (the rest is absorbed)."
+ },
+ "06-152": {
+  "r": "Colour TV makes all colours from three basic colours: red, green and blue (phosphor 'triads' in the CRT)."
+ },
+ "06-154": {
+  "r": "Red, green and blue lights on the same spot (equal proportions) give white light: they are the additive primary colours."
+ },
+ "06-155": {
+  "r": "Black is not a primary colour. Primary colours of light: red, green, blue; in painting: red, yellow, blue.",
+  "t": "Don't confuse light primaries (red, green, blue) with painting primaries (red, yellow, blue)."
+ },
+ "06-157": {
+  "r": "Pigment primaries cyan, magenta, yellow: magenta + yellow → red; cyan + magenta → blue (both statements true)."
+ },
+ "06-158": {
+  "r": "Magenta → red + blue; teal → blue, green, white; mauve → blue, red, white; cyan → green + blue."
+ },
+ "06-159": {
+  "r": "Sunlight (white light) has seven colours, VIBGYOR; splitting it with a prism is called dispersion."
+ },
+ "06-160": {
+  "r": "Odd one out: brown, which is not among the seven VIBGYOR colours of white light."
+ },
+ "06-161": {
+  "r": "Optical illusions: size of the Sun at dusk, colour of the Sun at dawn, twinkling of stars (1, 2, 4); not the Moon at dawn or the Pole Star."
+ }
+}

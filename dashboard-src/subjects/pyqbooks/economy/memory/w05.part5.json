@@ -1,197 +1,210 @@
 {
-  "14-039": {
-    "r": "Largest FDI inflow in 2007-08 (and over the last decade) → services sector."
-  },
-  "14-041": {
-    "r": "Largest FDI share in 1997-2000 → services sector; in the last 3 years (2021-2024) Computer Software and Hardware led, then services."
-  },
-  "14-042": {
-    "r": "India attracted large foreign investment in life insurance, banking and automobiles; services (incl. banking, insurance) got 16.13% of FDI, April 2000 to March 2024."
-  },
-  "14-043": {
-    "r": "Foreign exchange earning opportunities in India → tourism, medical care, garments and leather goods: all four."
-  },
-  "14-044": {
-    "r": "FDI equity inflow April-September 2022 → Karnataka highest among options (5329 million USD); Maharashtra highest overall (8000 million USD)."
-  },
-  "14-045": {
-    "r": "Bihar, April-June 2018 → service sector attracted the highest FDI equity inflow."
-  },
-  "14-046": {
-    "r": "Largest foreign exchange inflow to India in 2005-06 (among options) → portfolio investment."
-  },
-  "14-047": {
-    "r": "Most volatile foreign exchange flows → NRI deposits and foreign portfolio investment; they chase interest rate gaps and leave when rates turn unfavourable."
-  },
-  "14-048": {
-    "r": "Hot currency (hot money) → foreign currency that moves quickly between markets chasing the highest short-term interest rates.",
-    "hi": ["Hot money (गर्म मुद्रा)"]
-  },
-  "14-049": {
-    "r": "Tight US Fed policy can cause capital flight; capital flight can raise interest cost of firms with ECBs; devaluation increases (not decreases) ECB currency risk."
-  },
-  "14-050": {
-    "r": "Tobin Tax (after economist James Tobin) → tax on foreign exchange (spot currency conversion) transactions to curb short-term currency speculation."
-  },
-  "14-051": {
-    "r": "FDI → largely non-debt creating capital flow; investment in an unlisted Indian company, or ten percent or more of a listed company's equity."
-  },
-  "14-052": {
-    "r": "FDI includes subsidiaries of foreign companies, majority foreign equity in Indian firms and firms fully financed by foreign companies; portfolio investment is not FDI."
-  },
-  "14-053": {
-    "r": "Counted as FDI → FCCBs, foreign institutional investment with conditions, GDRs/ADRs; non-resident external deposits are debt-creating inflows, not FDI."
-  },
-  "14-054": {
-    "r": "FCNR(A) → 1975, RBI bore exchange rate risk, withdrawn 1993; FCNR(B) from 15 May 1993, banks bear the risk; only scheme A withdrawn."
-  },
-  "14-055": {
-    "r": "Lesson of East Asian and Latin American crises → FDI is the best inflow (stable); excess volatile portfolio investment caused the crises."
-  },
-  "14-056": {
-    "r": "FDI vs FII: FII raises capital availability in general (short-term, secondary market); FDI targets specific sectors, is more stable, brings technology and management."
-  },
-  "14-057": {
-    "r": "Buying bonds or stocks of an overseas pharma company → portfolio investment, not FDI; acquiring a mill, a wholly owned firm or a new plant abroad are FDI."
-  },
-  "14-058": {
-    "r": "Participatory Notes (P-Notes) → issued by registered FIIs to overseas investors who invest in Indian stocks without registering with SEBI (started 2000)."
-  },
-  "14-059": {
-    "r": "Participatory Note → issued by SEBI-registered foreign portfolio investors to overseas investors wanting Indian stocks without direct registration (overseas derivative instrument).",
-    "hi": ["Participatory Note (सहभागिता पत्र)"]
-  },
-  "14-060": {
-    "r": "Union Budget 2020-21 → FPI limit in outstanding corporate bonds raised from 9% to 15%."
-  },
-  "14-061": {
-    "r": "Largest FDI equity source: Mauritius in the question period and cumulative; Singapore in recent years (US$ 11,774 million in 2023-24), then Mauritius, USA.",
-    "c": "Printed answer (b) Singapore uses recent data; the explanation says Mauritius (d) was correct for the question period."
-  },
-  "14-063": {
-    "r": "Largest FDI sources to India in 1991-95 → USA and Japan."
-  },
-  "14-064": {
-    "r": "Top FDI equity sources in 2016-17 → Mauritius > Singapore > Japan; in 2023-24 → Singapore > Mauritius > USA > Netherlands > Japan."
-  },
-  "14-065": {
-    "r": "Large FDI from Mauritius → India's Double Taxation Avoidance Agreement (DTAA) with Mauritius; investors route capital via Mauritius to pay less tax.",
-    "hi": ["Double taxation (दोहरा कराधान)"]
-  },
-  "14-066": {
-    "r": "Economic Survey 2022-23: FDI fell in the first half of FY23 due to weak global economy, though still above pre-pandemic levels; only statement 4."
-  },
-  "14-067": {
-    "r": "FATCA (US law, 2010) → India-US IGA signed 9 July 2015, operational from 30 September 2015; shares offshore account information against tax evasion."
-  },
-  "14-068": {
-    "r": "FDI 2001-02: tea sector foreign firm to disinvest 26% (not 33%) within 5 years; print media foreign capital max 26%, largest Indian shareholder above 26%."
-  },
-  "14-069": {
-    "r": "Calendar year 2005 → foreign institutional investors invested about US$ 10.7 billion in Indian companies."
-  },
-  "14-070": {
-    "r": "FIPB moved to Department of Economic Affairs, Ministry of Finance in January 2003; abolished in 2017 (approvals now by administrative ministries).",
-    "c": "Options are misprinted (two '(b)' labels); the answer (d) stands for Ministry of Finance."
-  },
-  "14-071": {
-    "r": "FDI opened in retail trade: single-brand 51% (2006), multi-brand 51% (2012); 100% single-brand with 30% local sourcing."
-  },
-  "14-072": {
-    "r": "Foreign-owned e-commerce: 100% FDI only in marketplace model; cannot sell own inventory; vendor deemed controlled if over 25% of its purchases come from the marketplace."
-  },
-  "14-073": {
-    "r": "FDI in insurance: proposal on 4 October 2012 to raise it from 26% to 49%; Budget 2021-22 raised it from 49% to 74% (effective 19 May 2021)."
-  },
-  "14-075": {
-    "r": "Foreign equity in small scale units, 1995-96 → up to 24%; above 24% of paid-up capital the unit lost its SSI status."
-  },
-  "14-076": {
-    "r": "Debt trap → a country must take new loans just to pay interest on old loans.",
-    "hi": ["Debt trap (ऋण जाल)"]
-  },
-  "14-077": {
-    "r": "India's external debt crossed US$ 300 billion by end-2010; US$ 624.7 billion at end-March 2023; US$ 648.2 billion at end-December 2023."
-  },
-  "14-078": {
-    "r": "India's external debt is mostly non-government (US$ 506.0 billion of US$ 648.2 billion, end-December 2023) and not all in US dollars: both statements false."
-  },
-  "14-079": {
-    "r": "Major component of India's external debt → commercial borrowings (about 38% in 2017; 33.2% at end-December 2023)."
-  },
-  "14-080": {
-    "r": "India's external debt rose from US$ 98,158 million (March 2000) to US$ 100,225 million (March 2001) due to commercial borrowings and NRI deposits."
-  },
-  "14-081": {
-    "r": "External Commercial Borrowings (ECBs) → regulated by the Reserve Bank of India (eligible borrowers, end use, maturity, all-in-cost ceiling)."
-  },
-  "14-082": {
-    "r": "World Bank Global Development Finance 2010 → most indebted: Russia, China, Turkey, Brazil, India; end-December 2022: China, Brazil, India, Mexico, Turkey."
-  },
-  "14-083": {
-    "r": "Largest external debt → USA (US$ 24.5 trillion, 26.3% of global debt, end-December 2022), then UK, France, Germany, Japan."
-  },
-  "14-084": {
-    "r": "World Bank classifies India as a less indebted country; external debt-to-GDP 18.7% at end-December 2023."
-  },
-  "14-085": {
-    "r": "Largest World Bank borrower after India (till June 2010) → Mexico; in 2022 India had the highest IBRD/IDA debt stock (US$ 38.26 billion)."
-  },
-  "14-086": {
-    "r": "May 2001 → India gave Tajikistan a US$ 5 million grant to tackle drought."
-  },
-  "14-087": {
-    "r": "October 2001 → Germany granted a US$ 32 million credit for the Tehri dam project (Uttarakhand)."
-  },
-  "14-088": {
-    "r": "Green bonds → fixed-income, low-cost loans with long (not short) maturities for climate projects; first issued by European Investment Bank in 2007; World Bank in 2008.",
-    "t": "The first green bond came from the European Investment Bank ('Climate Awareness Bond'), not a 'Fund' as option (b) says."
-  },
-  "14-089": {
-    "r": "India Millennium Deposit scheme → launched 21 October 2000 by SBI for NRIs (not residents); five-year deposits at 8.5%; raised $ 5.5 billion."
-  },
-  "14-090": {
-    "r": "Resurgent India Bonds (SBI, 5 August 1998) → issued in US dollar, Pound Sterling and Deutsche Mark for five years.",
-    "t": "Don't confuse: Resurgent India Bonds → Deutsche Mark; India Millennium Deposits → euro."
-  },
-  "14-091": {
-    "r": "Masala Bonds → rupee-denominated bonds issued abroad by Indian entities, so the issuer is shielded from currency risk; fund infrastructure and internationalise the rupee.",
-    "hi": ["Masala Bond (मसाला बॉन्ड)"]
-  },
-  "14-092": {
-    "r": "IFC (World Bank arm) issued the first Masala bond in November 2014; rupee-denominated debt for public and private sector; RBI allowed corporates on 29 September 2015."
-  },
-  "14-093": {
-    "r": "Oil-Pool Account closed with abolition of the Administered Price Mechanism (APM) in oil on 1-4-2002 (Finance Minister Yashwant Sinha)."
-  },
-  "14-094": {
-    "r": "Import cover → number of months of imports a country's international reserves can pay for; 11 months at end-December 2023."
-  },
-  "14-095": {
-    "r": "India's forex reserves, 2018-19 (end-March 2019) → Rs. 28,55,882 crore; 29 March 2024 → Rs. 53,84,281 crore (US$ 645.58 billion)."
-  },
-  "14-096": {
-    "r": "RBI: forex reserves in 2018-19 (end-March 2019) → US$ 412871 million; on 29 March 2024 → US$ 645.58 billion."
-  },
-  "14-097": {
-    "r": "India's forex reserves (held by RBI) → foreign currency assets, gold, SDRs and reserve tranche position in IMF; so 'SDRs not included' is false."
-  },
-  "14-098": {
-    "r": "Largest share in India's forex reserves → foreign currency assets (US$ 570618 million on 29 March 2024), then gold, SDRs, IMF reserve position."
-  },
-  "14-099": {
-    "r": "India's forex reserves → foreign currency assets, RBI gold, SDRs and IMF reserve tranche; loans from World Bank or foreign countries are not included.",
-    "h": "FGSR: Foreign currency, Gold, SDRs, Reserve tranche.",
-    "hi": ["Foreign exchange reserves (विदेशी मुद्रा भंडार)"]
-  },
-  "14-101": {
-    "r": "Forex reserves were US$ 129.7 billion on 10 December 2004 (above 125 billion); WPI series from April 2000 had base 1993-94; current base 2011-12."
-  },
-  "14-102": {
-    "r": "NEER rise → rupee appreciation; REER rise → loss (not gain) of trade competitiveness; higher domestic inflation than abroad widens the NEER–REER gap.",
-    "hi": ["Exchange rate (विनिमय दर)"]
-  },
-  "14-103": {
-    "r": "A currency's price in the international market → set by demand for the country's goods/services and its government's stability; the World Bank has no role."
-  }
+ "14-039": {
+  "r": "Largest FDI inflow in 2007-08 (and over the last decade) → services sector."
+ },
+ "14-041": {
+  "r": "Largest FDI share in 1997-2000 → services sector; in the last 3 years (2021-2024) Computer Software and Hardware led, then services."
+ },
+ "14-042": {
+  "r": "India attracted large foreign investment in life insurance, banking and automobiles; services (incl. banking, insurance) got 16.13% of FDI, April 2000 to March 2024."
+ },
+ "14-043": {
+  "r": "Foreign exchange earning opportunities in India → tourism, medical care, garments and leather goods: all four."
+ },
+ "14-044": {
+  "r": "FDI equity inflow April-September 2022 → Karnataka highest among options (5329 million USD); Maharashtra highest overall (8000 million USD)."
+ },
+ "14-045": {
+  "r": "Bihar, April-June 2018 → service sector attracted the highest FDI equity inflow."
+ },
+ "14-046": {
+  "r": "Largest foreign exchange inflow to India in 2005-06 (among options) → portfolio investment."
+ },
+ "14-047": {
+  "r": "Most volatile foreign exchange flows → NRI deposits and foreign portfolio investment; they chase interest rate gaps and leave when rates turn unfavourable."
+ },
+ "14-048": {
+  "r": "Hot currency (hot money) → foreign currency that moves quickly between markets chasing the highest short-term interest rates.",
+  "hi": [
+   "Hot money (गर्म मुद्रा)"
+  ]
+ },
+ "14-049": {
+  "r": "Tight US Fed policy can cause capital flight; capital flight can raise interest cost of firms with ECBs; devaluation increases (not decreases) ECB currency risk."
+ },
+ "14-050": {
+  "r": "Tobin Tax (after economist James Tobin) → tax on foreign exchange (spot currency conversion) transactions to curb short-term currency speculation."
+ },
+ "14-051": {
+  "r": "FDI → largely non-debt creating capital flow; investment in an unlisted Indian company, or ten percent or more of a listed company's equity."
+ },
+ "14-052": {
+  "r": "FDI includes subsidiaries of foreign companies, majority foreign equity in Indian firms and firms fully financed by foreign companies; portfolio investment is not FDI."
+ },
+ "14-053": {
+  "r": "Counted as FDI → FCCBs, foreign institutional investment with conditions, GDRs/ADRs; non-resident external deposits are debt-creating inflows, not FDI."
+ },
+ "14-054": {
+  "r": "FCNR(A) → 1975, RBI bore exchange rate risk, withdrawn 1993; FCNR(B) from 15 May 1993, banks bear the risk; only scheme A withdrawn."
+ },
+ "14-055": {
+  "r": "Lesson of East Asian and Latin American crises → FDI is the best inflow (stable); excess volatile portfolio investment caused the crises."
+ },
+ "14-056": {
+  "r": "FDI vs FII: FII raises capital availability in general (short-term, secondary market); FDI targets specific sectors, is more stable, brings technology and management."
+ },
+ "14-057": {
+  "r": "Buying bonds or stocks of an overseas pharma company → portfolio investment, not FDI; acquiring a mill, a wholly owned firm or a new plant abroad are FDI."
+ },
+ "14-058": {
+  "r": "Participatory Notes (P-Notes) → issued by registered FIIs to overseas investors who invest in Indian stocks without registering with SEBI (started 2000)."
+ },
+ "14-059": {
+  "r": "Participatory Note → issued by SEBI-registered foreign portfolio investors to overseas investors wanting Indian stocks without direct registration (overseas derivative instrument).",
+  "hi": [
+   "Participatory Note (सहभागिता पत्र)"
+  ]
+ },
+ "14-060": {
+  "r": "Union Budget 2020-21 → FPI limit in outstanding corporate bonds raised from 9% to 15%."
+ },
+ "14-061": {
+  "r": "Largest FDI equity source: Mauritius in the question period and cumulative; Singapore in recent years (US$ 11,774 million in 2023-24), then Mauritius, USA.",
+  "c": "Book says (d) Mauritius was right when asked, and it still leads cumulative FDI (April 2000 to March 2024); printed (b) Singapore leads only yearly inflows in recent years."
+ },
+ "14-063": {
+  "r": "Largest FDI sources to India in 1991-95 → USA and Japan."
+ },
+ "14-064": {
+  "r": "Top FDI equity sources in 2016-17 → Mauritius > Singapore > Japan; in 2023-24 → Singapore > Mauritius > USA > Netherlands > Japan."
+ },
+ "14-065": {
+  "r": "Large FDI from Mauritius → India's Double Taxation Avoidance Agreement (DTAA) with Mauritius; investors route capital via Mauritius to pay less tax.",
+  "hi": [
+   "Double taxation (दोहरा कराधान)"
+  ]
+ },
+ "14-066": {
+  "r": "Economic Survey 2022-23: FDI fell in the first half of FY23 due to weak global economy, though still above pre-pandemic levels; only statement 4."
+ },
+ "14-067": {
+  "r": "FATCA (US law, 2010) → India-US IGA signed 9 July 2015, operational from 30 September 2015; shares offshore account information against tax evasion."
+ },
+ "14-068": {
+  "r": "FDI 2001-02: tea sector foreign firm to disinvest 26% (not 33%) within 5 years; print media foreign capital max 26%, largest Indian shareholder above 26%."
+ },
+ "14-069": {
+  "r": "Calendar year 2005 → foreign institutional investors invested about US$ 10.7 billion in Indian companies."
+ },
+ "14-070": {
+  "r": "FIPB moved to Department of Economic Affairs, Ministry of Finance in January 2003; abolished in 2017 (approvals now by administrative ministries)."
+ },
+ "14-071": {
+  "r": "FDI opened in retail trade: single-brand 51% (2006), multi-brand 51% (2012); 100% single-brand with 30% local sourcing."
+ },
+ "14-072": {
+  "r": "Foreign-owned e-commerce: 100% FDI only in marketplace model; cannot sell own inventory; vendor deemed controlled if over 25% of its purchases come from the marketplace."
+ },
+ "14-073": {
+  "r": "FDI in insurance: proposal on 4 October 2012 to raise it from 26% to 49%; Budget 2021-22 raised it from 49% to 74% (effective 19 May 2021)."
+ },
+ "14-075": {
+  "r": "Foreign equity in small scale units, 1995-96 → up to 24%; above 24% of paid-up capital the unit lost its SSI status."
+ },
+ "14-076": {
+  "r": "Debt trap → a country must take new loans just to pay interest on old loans.",
+  "hi": [
+   "Debt trap (ऋण जाल)"
+  ]
+ },
+ "14-077": {
+  "r": "India's external debt crossed US$ 300 billion by end-2010; US$ 624.7 billion at end-March 2023; US$ 648.2 billion at end-December 2023."
+ },
+ "14-078": {
+  "r": "India's external debt is mostly non-government (US$ 506.0 billion of US$ 648.2 billion, end-December 2023) and not all in US dollars: both statements false."
+ },
+ "14-079": {
+  "r": "Major component of India's external debt → commercial borrowings (about 38% in 2017; 33.2% at end-December 2023)."
+ },
+ "14-080": {
+  "r": "India's external debt rose from US$ 98,158 million (March 2000) to US$ 100,225 million (March 2001) due to commercial borrowings and NRI deposits."
+ },
+ "14-081": {
+  "r": "External Commercial Borrowings (ECBs) → regulated by the Reserve Bank of India (eligible borrowers, end use, maturity, all-in-cost ceiling)."
+ },
+ "14-082": {
+  "r": "World Bank Global Development Finance 2010 → most indebted: Russia, China, Turkey, Brazil, India; end-December 2022: China, Brazil, India, Mexico, Turkey."
+ },
+ "14-083": {
+  "r": "Largest external debt → USA (US$ 24.5 trillion, 26.3% of global debt, end-December 2022), then UK, France, Germany, Japan."
+ },
+ "14-084": {
+  "r": "World Bank classifies India as a less indebted country; external debt-to-GDP 18.7% at end-December 2023."
+ },
+ "14-085": {
+  "r": "Largest World Bank borrower after India (till June 2010) → Mexico; in 2022 India had the highest IBRD/IDA debt stock (US$ 38.26 billion)."
+ },
+ "14-086": {
+  "r": "May 2001 → India gave Tajikistan a US$ 5 million grant to tackle drought."
+ },
+ "14-087": {
+  "r": "October 2001 → Germany granted a US$ 32 million credit for the Tehri dam project (Uttarakhand)."
+ },
+ "14-088": {
+  "r": "Green bonds → fixed-income, low-cost loans with long (not short) maturities for climate projects; first issued by European Investment Bank in 2007; World Bank in 2008.",
+  "t": "The first green bond came from the European Investment Bank ('Climate Awareness Bond'), not a 'Fund' as option (b) says."
+ },
+ "14-089": {
+  "r": "India Millennium Deposit scheme → launched 21 October 2000 by SBI for NRIs (not residents); five-year deposits at 8.5%; raised $ 5.5 billion."
+ },
+ "14-090": {
+  "r": "Resurgent India Bonds (SBI, 5 August 1998) → issued in US dollar, Pound Sterling and Deutsche Mark for five years.",
+  "t": "Don't confuse: Resurgent India Bonds → Deutsche Mark; India Millennium Deposits → euro."
+ },
+ "14-091": {
+  "r": "Masala Bonds → rupee-denominated bonds issued abroad by Indian entities, so the issuer is shielded from currency risk; fund infrastructure and internationalise the rupee.",
+  "hi": [
+   "Masala Bond (मसाला बॉन्ड)"
+  ]
+ },
+ "14-092": {
+  "r": "IFC (World Bank arm) issued the first Masala bond in November 2014; rupee-denominated debt for public and private sector; RBI allowed corporates on 29 September 2015."
+ },
+ "14-093": {
+  "r": "Oil-Pool Account closed with abolition of the Administered Price Mechanism (APM) in oil on 1-4-2002 (Finance Minister Yashwant Sinha)."
+ },
+ "14-094": {
+  "r": "Import cover → number of months of imports a country's international reserves can pay for; 11 months at end-December 2023."
+ },
+ "14-095": {
+  "r": "India's forex reserves, 2018-19 (end-March 2019) → Rs. 28,55,882 crore; 29 March 2024 → Rs. 53,84,281 crore (US$ 645.58 billion)."
+ },
+ "14-096": {
+  "r": "RBI: forex reserves in 2018-19 (end-March 2019) → US$ 412871 million; on 29 March 2024 → US$ 645.58 billion."
+ },
+ "14-097": {
+  "r": "India's forex reserves (held by RBI) → foreign currency assets, gold, SDRs and reserve tranche position in IMF; so 'SDRs not included' is false."
+ },
+ "14-098": {
+  "r": "Largest share in India's forex reserves → foreign currency assets (US$ 570618 million on 29 March 2024), then gold, SDRs, IMF reserve position."
+ },
+ "14-099": {
+  "r": "India's forex reserves → foreign currency assets, RBI gold, SDRs and IMF reserve tranche; loans from World Bank or foreign countries are not included.",
+  "h": "FGSR: Foreign currency, Gold, SDRs, Reserve tranche.",
+  "hi": [
+   "Foreign exchange reserves (विदेशी मुद्रा भंडार)"
+  ]
+ },
+ "14-101": {
+  "r": "Forex reserves were US$ 129.7 billion on 10 December 2004 (above 125 billion); WPI series from April 2000 had base 1993-94; current base 2011-12."
+ },
+ "14-102": {
+  "r": "NEER rise → rupee appreciation; REER rise → loss (not gain) of trade competitiveness; higher domestic inflation than abroad widens the NEER–REER gap.",
+  "hi": [
+   "Exchange rate (विनिमय दर)"
+  ]
+ },
+ "14-103": {
+  "r": "A currency's price in the international market → set by demand for the country's goods/services and its government's stability; the World Bank has no role."
+ }
 }

@@ -1,4 +1,4 @@
-"""Check the rebuilt subjects (Current Affairs, Polity, History, Economy), their dashboard, links and scripts.
+"""Check the rebuilt subjects (Current Affairs, Polity, History, Economy, Geography, Science), their dashboard, links and scripts.
 
 Run after build_dashboard.py. This is static verification, not browser UI testing.
 """
@@ -14,7 +14,7 @@ import build_dashboard as dashboard
 import security
 
 ROOT = Path(__file__).resolve().parent.parent
-SUBJECTS = [s for s in dashboard.SUBJECTS if s["key"] in {"current", "polity", "history", "economy"}]
+SUBJECTS = [s for s in dashboard.SUBJECTS if s["key"] in {"current", "polity", "history", "economy", "geography", "science"}]
 
 
 def main():

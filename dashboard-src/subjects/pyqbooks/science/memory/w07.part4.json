@@ -1,0 +1,204 @@
+{
+ "58-002": {
+  "r": "Botulism (food poisoning) → toxin of Clostridium botulinum bacteria growing in improperly canned or preserved food; can also enter through wounds."
+ },
+ "58-003": {
+  "r": "Botulism → food-borne intoxication: Clostridium botulinum toxin attacks nerves → breathing difficulty, muscle paralysis, death; bacteria thrive in low-oxygen home-canned food.",
+  "t": "Intoxication (toxin already in food), not infection."
+ },
+ "58-004": {
+  "r": "Splenic fever = anthrax, a bacterial infection that enlarges the spleen; affects livestock and can pass to humans."
+ },
+ "58-005": {
+  "r": "Diphtheria (Corynebacterium diphtheriae) vaccine → toxoid vaccine; it cut cases by more than 90% between 1980 and 2000."
+ },
+ "58-006": {
+  "r": "DPT (triple antigen) → diphtheria, pertussis (whooping cough) and tetanus, all bacterial; not used for polio."
+ },
+ "58-011": {
+  "r": "Haemophilus influenzae (a bacterium) causes meningitis in young children and pneumonia – book gives two answers, (a) and (d); flu itself is caused by influenza viruses."
+ },
+ "58-012": {
+  "r": "Pneumococcal conjugate vaccines (Streptococcus pneumoniae) → at least 80% effective against pneumonia, meningitis, sepsis; reduce antibiotic-resistant disease (1, 2 true); 'no side effects' is false."
+ },
+ "58-013": {
+  "r": "Tuberculosis → bacterial (Mycobacterium tuberculosis), generally affects lungs; measles, rabies, polio are viral."
+ },
+ "58-014": {
+  "r": "Rifampicin treats both tuberculosis (Mycobacterium tuberculosis) and leprosy (Mycobacterium leprae, in multidrug therapy); the book prints P-amino salicylic acid, a TB-only drug.",
+  "c": "Rifampicin, option (d), is the standard drug for both TB and leprosy (part of leprosy multidrug therapy); PAS is a TB drug, not used for leprosy."
+ },
+ "58-015": {
+  "r": "WHO: tuberculosis kills the most people (outside the COVID-19 period) – 1.25 million deaths in 2023, including 3.23 lakh in India.",
+  "hi": [
+   "Tuberculosis (क्षय रोग)"
+  ]
+ },
+ "58-017": {
+  "r": "Wrong pair: tuberculosis – genetic disease (TB is bacterial, Mycobacterium tuberculosis). Correct: rheumatoid arthritis – autoimmune; scabies – mite; schizophrenia – mental."
+ },
+ "58-020": {
+  "r": "Mantoux (book: Montoux) tuberculin skin test → detects tuberculosis; tuberculin is injected into the skin of the lower arm."
+ },
+ "58-021": {
+  "r": "BCG (Bacillus Calmette-Guerin) vaccine → prevents tuberculosis; given just after birth."
+ },
+ "58-022": {
+  "r": "BCG vaccine (against T.B.) should be given just after birth; it can be given up to 12 months of age, but works less if late."
+ },
+ "58-024": {
+  "r": "Correct pair: malaria – chloroquine. Wrong: scurvy is vitamin C lack (thiamine is vitamin B); BCG → TB; ATS (tetanus antitoxin) → tetanus."
+ },
+ "58-025": {
+  "r": "Tetanus = 'lockjaw': Clostridium tetani toxin from a wound tightens neck and jaw muscles, making it hard to open the mouth or swallow."
+ },
+ "58-026": {
+  "r": "Plague → bacterium Yersinia pestis, spread among rodents and to humans by fleas, not mosquitoes; yellow fever, malaria, dengue are mosquito-borne.",
+  "hi": [
+   "Plague (प्लेग)"
+  ]
+ },
+ "58-027": {
+  "r": "By air → T.B.; by water → cholera; by contact → syphilis; by wound → tetanus."
+ },
+ "58-028": {
+  "r": "Tuberculosis : lungs :: typhoid : intestines (especially the small intestine)."
+ },
+ "58-029": {
+  "r": "Plague → flea bites; filaria → mosquitoes; beri-beri → vitamin B deficiency; typhoid → affects the intestines."
+ },
+ "58-030": {
+  "r": "Tooth decay (dental caries) → bacteria acting on carbohydrate food particles; needs tooth surface, bacteria, fermentable carbohydrates (e.g. sucrose) and time.",
+  "hi": [
+   "Dental caries (दंत क्षय)"
+  ]
+ },
+ "58-032": {
+  "r": "Shallow handpump water → cholera, typhoid, jaundice (microbes); fluorosis comes from excess fluoride, not microbes."
+ },
+ "58-033": {
+  "r": "Cholera → waterborne diarrhoeal illness caused by Vibrio cholerae, from contaminated water or food.",
+  "hi": [
+   "Cholera (हैजा)"
+  ]
+ },
+ "58-034": {
+  "r": "Typhoid and cholera → waterborne diseases; prevented by proper treatment of drinking water; about 4 million die yearly from water-related diseases."
+ },
+ "58-035": {
+  "r": "Leprosy (Hansen's disease) → long-term infection by bacteria Mycobacterium leprae or Mycobacterium lepromatosis.",
+  "hi": [
+   "Leprosy (कुष्ठ रोग)"
+  ]
+ },
+ "58-036": {
+  "r": "Typhoid → Salmonella typhi bacteria; jaundice, influenza and mumps are viral (per book)."
+ },
+ "58-037": {
+  "r": "Term 'antibiotic' coined by Selman Waksman in 1942; he also discovered streptomycin.",
+  "hi": [
+   "Antibiotic (प्रतिजैविक)"
+  ]
+ },
+ "58-038": {
+  "r": "Antibiotics among options: chloramphenicol and sulphaguanidine (a sulphonamide) → 'more than one' (e)."
+ },
+ "58-039": {
+  "r": "Antibiotics among options: penicillin and sulphadiazine (a sulphonamide) → 'more than one' (e)."
+ },
+ "58-041": {
+  "r": "Penicillin → discovered by Alexander Fleming in 1928: the mould Penicillium notatum inhibited bacterial growth."
+ },
+ "58-042": {
+  "r": "Broad-spectrum antibiotic → chloramphenicol (chloronitromycin): acts on both Gram-positive and Gram-negative bacteria."
+ },
+ "58-043": {
+  "r": "Sulfa drugs (from sulfanilamide) → synthetic antibacterials for bacterial infections, largely replaced by antibiotics; e.g. sulfadiazine, sulfacetamide."
+ },
+ "58-045": {
+  "r": "Cibazole → short-acting sulpha drug, effective on Gram-positive and Gram-negative microbes; no longer used in humans but used in cattle."
+ },
+ "58-046": {
+  "r": "Multi-drug resistance in India (DBT report, November 2017): incorrect antibiotic doses and antibiotics in livestock farming (2, 3); not genetics or chronic diseases."
+ },
+ "59-001": {
+  "r": "Mucormycosis (zygomycosis) → rare fungal infection, not zoonotic; rabies, plague and SARS are zoonotic (pathogen jumps from animal to human).",
+  "hi": [
+   "Zoonotic disease (पशुजन्य रोग)"
+  ]
+ },
+ "59-002": {
+  "r": "Ergotism → eating grains (rye, other cereals) contaminated by alkaloids of the fungus Claviceps purpurea."
+ },
+ "59-003": {
+  "r": "Athlete's foot (Tinea pedis) → fungal infection between the toes (Trichophyton, Epidermophyton, Microsporum).",
+  "hi": [
+   "Fungus (कवक)"
+  ]
+ },
+ "59-004": {
+  "r": "True: femur is the longest bone; cholera is bacterial (Vibrio cholerae). False: athlete's foot is fungal, not viral."
+ },
+ "59-005": {
+  "r": "Seborrheic dermatitis → fungal inflammatory skin disorder of scalp, face, torso; polio is viral, cholera bacterial."
+ },
+ "59-006": {
+  "r": "Among options, baldness → fungal disease (book); AIDS → HIV virus; colour blindness → genetic disorder.",
+  "c": "Common baldness is mainly hereditary or hormonal; only patchy hair loss from fungal scalp infection (ringworm) is fungal, which is what the answer intends."
+ },
+ "59-007": {
+  "r": "Aflatoxins (from fungi Aspergillus and Penicillium) make food toxic and mainly damage the liver."
+ },
+ "60-001": {
+  "r": "Malaria → Plasmodium parasite carried by female Anopheles mosquito; most affected organ is the spleen (enlarges); quinine is the traditional drug.",
+  "hi": [
+   "Spleen (प्लीहा)"
+  ]
+ },
+ "60-004": {
+  "r": "Anopheles mosquitoes, besides malaria, carry encephalitis (JEV, e.g. Anopheles subpictus; Culex is the main vector) and filariasis."
+ },
+ "60-005": {
+  "r": "Malignant (most severe) malaria → Plasmodium falciparum; higher risk of death.",
+  "h": "Falciparum = Fatal."
+ },
+ "60-007": {
+  "r": "Malaria and dengue differ in mosquito species: malaria → female Anopheles; dengue → female Aedes aegypti."
+ },
+ "60-008": {
+  "r": "Malaria → caused by the protozoan Plasmodium; female Anopheles mosquito is its carrier (secondary host).",
+  "hi": [
+   "Protozoa (प्रोटोजोआ)"
+  ]
+ },
+ "60-010": {
+  "r": "Not true: 'malaria is caused by an insect parasite' – Plasmodium is a protozoan. True: spread by mosquitoes, common in swampy areas, treated with chloroquine."
+ },
+ "60-011": {
+  "r": "P. vivax → about 65% of malaria cases in India (also Asia, South America); most widespread cause of recurring malaria; one of five malaria parasites."
+ },
+ "60-012": {
+  "r": "Sir Ronald Ross (British Indian Army doctor) found Plasmodium oocysts in the female Anopheles mosquito; Nobel prize 1902."
+ },
+ "60-013": {
+  "r": "R21/Matrix-M → malaria vaccine by Oxford's Jenner Institute and Serum Institute of India; second malaria vaccine for children; WHO-recommended October 2023."
+ },
+ "60-014": {
+  "r": "Filaria (filariasis) → thread-like nematodes (roundworms, Filarioidea) spread by female Culex mosquito; edema is a common symptom.",
+  "hi": [
+   "Filariasis (फ़ाइलेरिया)"
+  ]
+ },
+ "60-015": {
+  "r": "Wrong set: Aedes – chikungunya – bacteria; chikungunya is viral (CHIKV, RNA alphavirus). Correct: Culex – filariasis – parasite; Anopheles – malaria; Aedes – dengue – virus."
+ },
+ "60-016": {
+  "r": "Malaria → protozoan; poliomyelitis → virus; tuberculosis → bacteria; ringworm → fungi."
+ },
+ "60-017": {
+  "r": "Plague → bacteria; AIDS → virus; baldness → fungus; malaria → protozoa."
+ },
+ "60-018": {
+  "r": "Peptic ulcers → bacteria; dengue → virus; elephant foot (filaria) → worm; malaria → protozoa."
+ }
+}

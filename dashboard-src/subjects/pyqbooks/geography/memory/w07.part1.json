@@ -1,0 +1,435 @@
+{
+  "126-016": {
+    "r": "Tasmania → island state of Australia (across Bass Strait), not Uganda. Correct: Sicily → Italy; Newfoundland → Canada; Durban → South Africa."
+  },
+  "126-018": {
+    "r": "Iceland lies south of the Arctic Circle; the Arctic Circle passes through Finland, Norway and Sweden."
+  },
+  "126-019": {
+    "r": "Sun City → North-West province of South Africa, between the Elands River and the Pilanesberg mountains."
+  },
+  "126-020": {
+    "r": "Largest cities: Canada → Toronto; Greece → Athens; Nigeria → Lagos; Syria → Damascus (book notes Aleppo is now Syria's most populous)."
+  },
+  "126-021": {
+    "r": "Davos → Switzerland; Barcelona → Spain; Auckland → New Zealand; Kandy → Sri Lanka."
+  },
+  "126-022": {
+    "r": "Kanto plain → Japan; a highly developed, urbanised and industrial plain."
+  },
+  "126-023": {
+    "r": "Mexico → North American continent; third largest there after Canada and USA; USA to its north, Guatemala and Belize to its south."
+  },
+  "126-024": {
+    "r": "Congo (DR Congo) → Africa, on the Equator; Africa's second largest country after Algeria. The Equator also crosses the Republic of Congo."
+  },
+  "126-025": {
+    "r": "Malta → small island country of southern Europe in the Mediterranean Sea."
+  },
+  "126-026": {
+    "r": "South to north: Jakarta (6°S) → Singapore (1.3°N) → Bangkok (13°N) → Hanoi (21°N).",
+    "h": "Only Jakarta is south of the Equator, so it comes first; Singapore sits just north of it."
+  },
+  "126-027": {
+    "r": "Aleppo → Syria; Mazar-i-Sharif → Afghanistan; Kirkuk and Mosul → Iraq (not Yemen or Palestine)."
+  },
+  "126-028": {
+    "r": "Ghazni and Kandahar → Afghanistan; Fergana and Samarkand → Uzbekistan, so they are not in Afghanistan."
+  },
+  "126-029": {
+    "r": "Ground Zero → site of the World Trade Center Twin Towers, New York, destroyed in the 11 September 2001 attacks; complex now rebuilt."
+  },
+  "127-001": {
+    "r": "Venice of the North → St. Petersburg (Russia, on the Neva River); title shared with Amsterdam, Bruges, Copenhagen, Hamburg, Manchester, Stockholm."
+  },
+  "127-002": {
+    "r": "Midnight sun → north of the Arctic Circle and south of the Antarctic Circle, so at both North and South Poles; Norway = land of the midnight sun."
+  },
+  "127-003": {
+    "r": "Continent of Birds → South America (about 3402 of the world's 11000 bird species)."
+  },
+  "127-004": {
+    "r": "Niagara Falls → New York State; land of thousand lakes → Finland; Eiffel Tower → Paris; Roof of the World → Pamir."
+  },
+  "127-005": {
+    "r": "Dark Continent → Africa; Roof of the World → Pamir; Country of thousand lakes → Finland; Pearls Island → Bahrain."
+  },
+  "127-006": {
+    "r": "City of smoke → Chicago."
+  },
+  "127-007": {
+    "r": "Mistress of the Eastern Sea (also Pearl of the Indian Ocean) → Sri Lanka. Ninety East Ridge → Indian Ocean."
+  },
+  "127-009": {
+    "r": "Paris of (South) America → Buenos Aires, capital and largest city of Argentina, known for its wide roads."
+  },
+  "127-010": {
+    "r": "Blue Grass State → Kentucky (East South-Central USA)."
+  },
+  "127-011": {
+    "r": "Gateway to the West → Istanbul (Turkey), bounded by the Sea of Marmara, Bosporus Strait and Golden Horn."
+  },
+  "127-012": {
+    "r": "Land of White Elephants → Thailand (the white elephant is holy there)."
+  },
+  "127-013": {
+    "r": "Land of the Rising Sun → Japan ('Nippon' means land of the rising sun)."
+  },
+  "127-014": {
+    "r": "Garden of Lakes / Land of a Thousand Lakes → Finland (more than one lakh lakes)."
+  },
+  "127-015": {
+    "r": "City of canals → Venice, also called 'Queen of the Adriatic'."
+  },
+  "127-016": {
+    "r": "City of the Golden Gate → San Francisco (Golden Gate Bridge across San Francisco Bay)."
+  },
+  "127-017": {
+    "r": "Manchester of the East → Osaka (Kansai region, Japan); historically also called 'Nation's Kitchen'."
+  },
+  "127-018": {
+    "r": "Pearl of Siberia → Lake Baikal, world's oldest and deepest freshwater lake."
+  },
+  "127-019": {
+    "r": "Land of Morning Calm → Korea (South Korea)."
+  },
+  "127-020": {
+    "r": "Oil Capital of Europe → Aberdeen, which grew with North Sea oil.",
+    "c": "The book dates the North Sea oil finds to the mid-nineteenth century; they were made in the second half of the twentieth century."
+  },
+  "127-021": {
+    "r": "Land of Promise → Mindanao, an island of the Philippines."
+  },
+  "128-001": {
+    "r": "OMT is measured to the 26°C isotherm, at 59 m (not 129 m) in SW Indian Ocean in Jan-Mar; Jan-Mar OMT helps predict monsoon rainfall vs long-term mean."
+  },
+  "128-002": {
+    "r": "Water covers about 71% (70.9%) of Earth's surface, i.e. over two-thirds; land is about 29%.",
+    "hi": ["Hydrosphere (जलमंडल)"]
+  },
+  "128-003": {
+    "r": "Nearest sea-level point to Earth's centre → North Pole region (Arctic Ocean), about 6353 km from the centre."
+  },
+  "128-004": {
+    "r": "Datum line → horizontal line at sea level from which all heights and depths are measured.",
+    "hi": ["Datum line (आधार रेखा)"]
+  },
+  "128-005": {
+    "r": "Largest part of the hydrosphere → Pacific Ocean; order by area: Pacific > Atlantic > Indian > Southern > Arctic."
+  },
+  "128-006": {
+    "r": "Mid-Oceanic Ridge → about 64000-65000 km long, through Atlantic, Indian and Pacific oceans; single largest geological feature on Earth's surface.",
+    "hi": ["Mid-Oceanic Ridge (मध्य महासागरीय कटक)"]
+  },
+  "128-007": {
+    "r": "Ninety East Ridge → Indian Ocean, along 90°E; about 5000 km long, from 34°S to 10°N."
+  },
+  "128-008": {
+    "r": "Gravitational water fills large soil pores and drains down by gravity; its tension is zero or below 1/3 atmosphere."
+  },
+  "128-009": {
+    "r": "Earth's water: 96.5% salt; 2.5% fresh, mostly in glaciers and polar ice (68.7%, not 95%); usable fresh water under 1%; next largest store is groundwater."
+  },
+  "128-013": {
+    "r": "World water, descending: oceans (96.5%) > polar ice and glaciers (1.74%) > groundwater (1.7%) > rivers (0.0002%)."
+  },
+  "128-014": {
+    "r": "Most extensive ocean-floor zone → deep sea (abyssal) plains, 3000-6000 m deep, over 76% of ocean basin area.",
+    "hi": ["Deep sea plain (गंभीर सागरीय मैदान)"]
+  },
+  "128-015": {
+    "r": "Red Sea → example of an axial trough, between Africa and Arabia; a magnetic anomaly is found there.",
+    "hi": ["Axial trough (अक्षीय द्रोणी)"]
+  },
+  "128-016": {
+    "r": "Telegraph Plateau → Atlantic Ocean, not Indian. Correct: Cocoa Ridge → Pacific; Walvis Ridge → Atlantic; Agulhas Basin → Indian Ocean."
+  },
+  "128-017": {
+    "r": "Indian Ocean → ancient Greeks' 'Erythraean Sea'; spreads on both sides of the Equator (about 30°N to 60°S)."
+  },
+  "129-001": {
+    "r": "Baku, capital of Azerbaijan → on the Caspian Sea coast; the Caspian is the largest saltwater lake."
+  },
+  "129-002": {
+    "r": "Black Sea → north of Turkey. Turkey's seas: Black (north), Aegean (west), Marmara (north-west), Mediterranean (south)."
+  },
+  "129-003": {
+    "r": "Turkey (Turkiye) → between the Black Sea (north) and Mediterranean Sea (south); Aegean to the west, Sea of Marmara to the north-west."
+  },
+  "129-004": {
+    "r": "Seas from west to east: Mediterranean → Black Sea → Caspian Sea → Aral Sea.",
+    "h": "'My Big Cat Ate': Mediterranean, Black, Caspian, Aral."
+  },
+  "129-005": {
+    "r": "Inland sea → Caspian Sea, world's largest inland sea and largest lake (about 371000 sq km).",
+    "hi": ["Inland sea (अंतर्देशीय सागर)"]
+  },
+  "129-006": {
+    "r": "Sargasso Sea → North Atlantic Ocean, named after the sargassum seaweed found there."
+  },
+  "129-007": {
+    "r": "Sargasso Sea → North Atlantic Ocean; the only sea without a land boundary."
+  },
+  "129-008": {
+    "r": "Sargasso Sea → part of the North Atlantic; marked by typical marine vegetation (sargassum seaweed)."
+  },
+  "129-010": {
+    "r": "Sargasso Sea has no coastline: a mid-North Atlantic sea bounded only by currents (Gulf Stream, North Atlantic Drift, Canary, North Equatorial)."
+  },
+  "129-011": {
+    "r": "Tyrrhenian Sea → bounded by the Italian peninsula, Sicily, Sardinia and Corsica."
+  },
+  "129-012": {
+    "r": "Aral Sea (Central Asian lake) → bordered by Kazakhstan and Uzbekistan."
+  },
+  "129-013": {
+    "r": "Chad is landlocked, so no Mediterranean coast; Algeria, Morocco, Tunisia, Libya and Egypt border the Mediterranean."
+  },
+  "129-014": {
+    "r": "Jordan has no Mediterranean coast (Dead Sea to west, Red Sea to south-west; capital Amman); Syria, Lebanon, Israel open to it."
+  },
+  "129-015": {
+    "r": "Gaza Strip → on the Mediterranean Sea, between Egypt and Israel; governed by Hamas since 2007."
+  },
+  "129-016": {
+    "r": "Deepest of these seas → South China Sea (about 5560 m); Mediterranean 5267 m, Sea of Japan 3742 m, Bering Sea 3500 m."
+  },
+  "129-017": {
+    "r": "Correct: Adriatic–Albania, Caspian–Kazakhstan, Mediterranean–Morocco. Wrong: Black Sea–Croatia, Red Sea–Syria (Red Sea: Saudi Arabia, Yemen, Egypt, Sudan, Eritrea, Djibouti)."
+  },
+  "129-018": {
+    "r": "Black Sea's six countries: Russia, Ukraine, Romania, Bulgaria, Turkiye, Georgia. Syria lies on the Mediterranean, not the Black Sea."
+  },
+  "129-019": {
+    "r": "Red Sea → axial trough between Africa and Arabia, with magnetic anomalies; key trade link after the Suez Canal opened."
+  },
+  "129-020": {
+    "r": "Mediterranean borders Lebanon and Syria, not Jordan or Iraq; joined to the Atlantic by Gibraltar Strait, to the Red Sea by Suez Canal."
+  },
+  "129-021": {
+    "r": "Baltic Sea's 9 coastal countries: Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden. Norway is not one."
+  },
+  "129-022": {
+    "r": "Red Sea: very little precipitation and no river inflow; opens to the Indian Ocean via Bab-el-Mandeb Strait and Gulf of Aden."
+  },
+  "130-001": {
+    "r": "Ocean currents are driven by Earth's rotation, wind and air pressure, and density (temperature, salinity) differences; not by Earth's revolution.",
+    "hi": ["Ocean current (महासागरीय धारा)"]
+  },
+  "130-002": {
+    "r": "Ocean currents: slow surface flows, set mainly by prevailing winds, help Earth's heat balance, shaped by ocean configuration; all four statements true."
+  },
+  "130-003": {
+    "r": "North Indian Ocean currents reverse twice a year with NE and SW monsoon winds (monsoon drift); South Indian Ocean currents keep a fixed pattern."
+  },
+  "130-004": {
+    "r": "Agulhas → warm (not cold) current of the South Indian Ocean; formed by Madagascar and Mozambique currents, later joins the West Wind Drift.",
+    "hi": ["Warm current (गर्म जलधारा)"]
+  },
+  "130-007": {
+    "r": "North Atlantic Drift carries warm Gulf Stream water to Europe; sub-polar Norway benefits most, as the warm water checks ice cover."
+  },
+  "130-008": {
+    "r": "Benguela → only cold current of the South Atlantic; flows north along the west coast of southern Africa, joins South Equatorial current. Brazil current is warm."
+  },
+  "130-009": {
+    "r": "Benguela → cold South Atlantic current (west coast of Africa), not Indian Ocean. Agulhas, Mozambique, South Indian Ocean currents → Indian Ocean."
+  },
+  "130-010": {
+    "r": "Warm: Agulhas, Brazil currents. Cold: Humboldt (Peru), California currents."
+  },
+  "130-011": {
+    "r": "South Atlantic circuit: South Equatorial → Brazil → West Wind Drift → Benguela; the Canary current is not part of it."
+  },
+  "130-012": {
+    "r": "Benguela → cold current of the South Atlantic. Gulf Stream, Norwegian and Florida → warm currents of the North Atlantic."
+  },
+  "130-013": {
+    "r": "Peruvian (Humboldt) → cold SE Pacific current off west South America; Benguela, Brazilian, South Equatorial → Atlantic circuit."
+  },
+  "130-014": {
+    "r": "Ocean salinity peaks near the Tropics of Cancer and Capricorn (low rain, high evaporation). Benguela is not Pacific; cold Humboldt (Peruvian) is not North Pacific."
+  },
+  "130-017": {
+    "r": "Gulf Stream → powerful warm current of the North Atlantic; starts in the Gulf of Mexico as Florida current; found by Ponce de Leon in 1513."
+  },
+  "130-018": {
+    "r": "Map pair → Benguela Current (cold, flowing south to north) and Guinea Current (flowing north to south)."
+  },
+  "130-019": {
+    "r": "Gulf Stream → warm current; West Wind Drift → slow eastward flow in westerly zone; Peru Current → Pacific; West Australian Current → Indian Ocean."
+  },
+  "130-020": {
+    "r": "Equatorial counter-current flows west to east between North and South Equatorial currents, from water piling up where they converge. Canaries current → not Pacific."
+  },
+  "130-022": {
+    "r": "Benguela → Atlantic (north along the south-west African coast). Humboldt (Peru), California and Alaska currents → Pacific."
+  },
+  "130-023": {
+    "r": "Warm: Brazil, Gulf Stream, Kuroshio. Cold: Falkland, Labrador, Canary.",
+    "h": "Cold trio 'FLC': Falkland, Labrador, Canary."
+  },
+  "131-001": {
+    "r": "Halocline → zone where salinity changes rapidly with depth (the salinity gradient).",
+    "h": "Halo = salt (as in halite).",
+    "hi": ["Salinity (लवणता)"]
+  },
+  "131-002": {
+    "r": "Main source of sea salinity → land (rivers carry its salts); average sea salinity is about 35‰."
+  },
+  "131-003": {
+    "r": "Sodium chloride → largest share of sea salts (77.8%), then magnesium chloride (10.9%); Dittmar's 1884 Challenger report: 47 salts, 7 main."
+  },
+  "131-004": {
+    "r": "Salinity per book: Lake Van (Turkey) 330‰ > Dead Sea 238‰ > Great Salt Lake 220‰ > Red Sea 36-41‰; when Van is absent, answer Dead Sea.",
+    "c": "Lake Van's 330‰ is an old textbook figure that exam keys follow; measured salinity of Lake Van is far lower than the Dead Sea's."
+  },
+  "131-008": {
+    "r": "Red Sea (36-41‰) is the saltiest true sea here; Mediterranean 37-39‰; Dead Sea and Caspian are lakes, though the Dead Sea is saltiest overall.",
+    "c": "The book gives no single answer (*): Red Sea if only true seas count, Dead Sea if all options are taken as seas."
+  },
+  "131-009": {
+    "r": "Higher sea-water density means higher salinity; no fixed law links salinity with depth, it varies with depth from place to place.",
+    "c": "The book gives no single answer (*): density rises with salinity, but depth does not change in a fixed way."
+  },
+  "131-010": {
+    "r": "Great Salt Lake → Utah, USA; salinity 220‰."
+  },
+  "131-011": {
+    "r": "Arabian Sea salinity about 36‰ (nearest option 35 ppt); Bay of Bengal about 30‰; Indian Ocean at 0-10° latitude 35.14‰."
+  },
+  "131-012": {
+    "r": "Highest average salinity among these seas → Dead Sea (238‰); world's highest → Lake Assal (348‰)."
+  },
+  "132-001": {
+    "r": "Tides → Moon's gravitational pull plus centripetal and centrifugal forces; the indirect high tide (side away from the Moon) → Earth's centrifugal force.",
+    "hi": ["Tide (ज्वार-भाटा)"]
+  },
+  "132-004": {
+    "r": "Neap tide → high tide below normal (about 20% less), low tide above normal; comes on 7th-8th day after new or full moon, not at new moon.",
+    "hi": ["Neap tide (लघु ज्वार)"]
+  },
+  "132-005": {
+    "r": "Highest tide (spring tide) → Sun, Earth and Moon in a straight line (syzygy) at full and new moon; perigean spring tide when the Moon is closest.",
+    "hi": ["Spring tide (दीर्घ ज्वार)"]
+  },
+  "132-007": {
+    "r": "High tides are caused mainly by the Moon; its tide-producing power is 2.17 times the Sun's. Spring tide at full/new moon; neap tide on 7th-8th day."
+  },
+  "133-001": {
+    "r": "Aleutian Trench → North Pacific; Kermadec → South Pacific; Sunda (Java) → Indian Ocean; South Sandwich → South Atlantic."
+  },
+  "133-002": {
+    "r": "World's deepest trench → Mariana Trench (Pacific); its Challenger Deep, named after HMS Challenger, is the deepest point of the oceans.",
+    "hi": ["Trench (गर्त)"]
+  },
+  "133-004": {
+    "r": "Diamantina Trench (Diamantina Fracture Zone) → Indian Ocean, about 1125 km south-west of the Perth Basin."
+  },
+  "133-005": {
+    "r": "Deepest points: Pacific → Mariana Trench; Atlantic → Puerto Rico Trench; Indian → Java (Sunda) Trench; Arctic → Eurasian Basin."
+  },
+  "133-006": {
+    "r": "Sunda Trench → eastern Indian Ocean, a 3200 km arc running parallel to both Sumatra and Java; hence 'more than one of the above'."
+  },
+  "133-007": {
+    "r": "Deepest points: Pacific → Mariana Trench; Arctic → Molloy Deep; Indian → Sunda Trench; Atlantic → Puerto Rico Trench."
+  },
+  "134-001": {
+    "r": "Correct: Volga → Caspian Sea; Zambezi → Indian Ocean. Wrong: Thames → North Sea (not Irish Sea); Mekong → South China Sea (not Andaman Sea)."
+  },
+  "134-002": {
+    "r": "Largest river by drainage area and flow → Amazon (basin about 70 lakh sq km; about 6437 km long); longest → Nile (6695 km).",
+    "t": "Don't confuse largest (Amazon, by basin and volume) with longest (Nile)."
+  },
+  "134-003": {
+    "r": "Second longest river → Amazon (after the Nile); the largest river, its basin covers Brazil, Peru, Bolivia, Colombia and others."
+  },
+  "134-004": {
+    "r": "Congo (Zaire) River → crosses the Equator twice."
+  },
+  "134-005": {
+    "r": "Congo Basin (WWF) → six countries: Cameroon, Central African Republic, DR Congo, Republic of Congo, Equatorial Guinea, Gabon."
+  },
+  "134-006": {
+    "r": "Longest rivers: Nile 6695 km > Amazon 6437 km > Yangtze 6300 km; Amazon is longer than Amur, Congo and Lena."
+  },
+  "134-007": {
+    "r": "Longest river of South America → Amazon (about 6437 km; ships sail about 1600 km up it). World's longest → Nile (6695 km)."
+  },
+  "134-008": {
+    "r": "Chad is outside the Nile basin. Nile basin: Burundi, Rwanda, DR Congo, Ethiopia, Sudan, South Sudan, Tanzania, Kenya, Eritrea, Uganda, Egypt."
+  },
+  "134-009": {
+    "r": "Blue Nile → rises from Lake Tana, Ethiopia; called the Abbay in its upper course."
+  },
+  "134-010": {
+    "r": "Egypt = 'Gift of the Nile': Nile water and fertile land make it an oasis in the Sahara; A and R true, R explains A."
+  },
+  "134-011": {
+    "r": "Salween → flows north to south in eastern Myanmar; rises on the Tibetan Plateau, 2815 km long, falls into the Andaman Sea."
+  },
+  "134-012": {
+    "r": "Salween flows south; Amur flows north-east; Lena and Ob flow north."
+  },
+  "134-013": {
+    "r": "Wrong: Mekong flows south-east (not south-west) to the South China Sea. Amur → north-east; Syr Darya → north-west (Aral Sea); Angara → north."
+  },
+  "134-014": {
+    "r": "Longest river of Asia → Yangtze (6300 km, China, into East China Sea); Hwang Ho 5464 km, Brahmaputra 2900 km, Indus 2880 km."
+  },
+  "134-015": {
+    "r": "Map basins: A → Parana (South America); B → Ganga-Brahmaputra; C → Zambezi (Africa); D → Indus."
+  },
+  "134-016": {
+    "r": "Map rivers: A → Yukon (Alaska, NW Canada); B → Mackenzie (Canada, into Beaufort Sea); C → St. Lawrence; D → Orinoco."
+  },
+  "134-017": {
+    "r": "Amu Darya and Syr Darya (Central Asia) → flow into the Aral Sea."
+  },
+  "134-018": {
+    "r": "Into the Black Sea: Dnieper and Danube (Europe's second longest). Volga, Europe's longest, flows into the Caspian Sea."
+  },
+  "134-020": {
+    "r": "Lena → Arctic Ocean; Amur → Pacific Ocean; Tigris → Persian Gulf; Mahi → Arabian Sea."
+  },
+  "134-021": {
+    "r": "Rhine → flows through a rift valley; rises in the Swiss Alps, enters the North Sea; Bonn lies on it.",
+    "hi": ["Rift valley (भ्रंश घाटी)"]
+  },
+  "134-022": {
+    "r": "Elbe and Rhine → both drain into the North Sea; Elbe basin about 1.5 lakh km²."
+  },
+  "134-023": {
+    "r": "Niger → Africa (Fouta Djallon Highlands to Gulf of Guinea), not Asia. Lop Nor (saline lake, China), Amur, Tigris → Asia."
+  },
+  "134-024": {
+    "r": "Limpopo (Africa) → crosses the Tropic of Capricorn twice."
+  },
+  "134-025": {
+    "r": "Best radial drainage → Sri Lanka: rivers rise in the central highlands (about 1500 m) and flow outward to the sea.",
+    "hi": ["Radial drainage (अरीय अपवाह)"]
+  },
+  "134-026": {
+    "r": "Mahaweli Ganga → Sri Lanka's longest river (335 km), from the Hatton plateau to the Bay of Bengal."
+  },
+  "134-027": {
+    "r": "Wrong: Rhone is not Spain's; it flows past Geneva (Switzerland) into the Bay of Lions, Mediterranean. Correct: Dnieper–Ukraine, Po–Italy, Rhine–Germany."
+  },
+  "134-028": {
+    "r": "Mekong flows through China, Myanmar, Laos, Thailand, Cambodia and Vietnam to the South China Sea; not through Malaysia or Bangladesh."
+  },
+  "134-030": {
+    "r": "Lake Itasca (glacial lake) → source of the Mississippi, which flows into the Gulf of Mexico; Ohio, Arkansas, Red River are tributaries."
+  },
+  "134-031": {
+    "r": "Mekong rises on the Tibetan Plateau, flows 4909 km to the South China Sea; its delta is in southern Vietnam (and Cambodia), not southern Cambodia."
+  },
+  "134-032": {
+    "r": "Bird's foot delta → mouth of the Mississippi River.",
+    "hi": ["Delta (डेल्टा)"]
+  },
+  "134-033": {
+    "r": "Grand Canyon (Arizona, USA) → cut by the Colorado River, mainly in the last 5-6 million years."
+  }
+}

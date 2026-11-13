@@ -49,9 +49,22 @@ def page_title(path):
     return html.unescape(m.group(1)).strip() if m else os.path.basename(path)
 
 
+def page_desc(path):
+    with open(path, encoding="utf-8") as f:
+        head = f.read(20000)
+    m = re.search(r'<meta name="description" content="([^"]*)"', head)
+    return html.unescape(m.group(1)).strip() if m else ""
+
+
+# "UPPCS Plus" pages in a subject folder ("Polity-UPPCS.html", "History-UPPCS-Plus.html"): fact lists
+# with recall mode, flashcards and quizzes, made beside the full notes / quick notes / 72h plan
+PLUS_RE = re.compile(r"UPPCS")
+
+
 def site_map():
-    """Subjects with their files, chapters and hours, plus every other page as 'Other notes'."""
-    subjects, assigned = [], {HOME}
+    """Subjects with their files, chapters and hours; each subject's 'UPPCS Plus' pages; and every
+    other page as 'Other notes'."""
+    subjects, assigned, plus = [], {HOME}, []
     for sub in bd.SUBJECTS:
         folder = sub["folder"]
         full = bd.find_one(folder, ["*-uppsc-notes.html", "*-full-notes.html"])
@@ -75,6 +88,11 @@ def site_map():
                     print(f"sitenav warning: {sub['name']} chapter {n} differs between full and quick notes; no cross-link made")
         folder_html = {rootrel(x) for x in all_pages() if rootrel(x).startswith(folder + "/") and rootrel(x).count("/") == folder.count("/") + 1}
         for extra in sorted(folder_html - set(files.values())):
+            if PLUS_RE.search(os.path.basename(extra)):
+                p = os.path.join(bd.ROOT, extra)
+                plus.append({"path": extra, "t": page_title(p), "desc": page_desc(p), "subject": sub["key"], "name": sub["name"]})
+                assigned.add(extra)
+                continue
             print(f"sitenav warning: {extra} is in the {sub['name']} folder but is not its full notes, quick notes or 72h plan; it is listed under Other notes")
         assigned.update(files.values())
         subjects.append({
@@ -94,13 +112,15 @@ def site_map():
         if titles.count(t) > 1:
             label = f"{t} ({os.path.splitext(os.path.basename(p))[0]})"
         archive.append({"path": rootrel(p), "t": label, "dir": os.path.dirname(rootrel(p)) or "project folder"})
-    return {"home": HOME, "subjects": subjects, "archive": archive}
+    return {"home": HOME, "subjects": subjects, "plus": plus, "archive": archive}
 
 
 def context_for(path, smap):
     rp = rootrel(path)
     if rp == HOME:
         return {"kind": "home", "subject": None}
+    if any(p["path"] == rp for p in smap.get("plus", [])):
+        return {"kind": "plus", "subject": None}
     for s in smap["subjects"]:
         for kind, fp in s["files"].items():
             if fp == rp:
@@ -169,8 +189,10 @@ var cols=S.map(function(s){
   if(!p)return '<li><span>'+FL[k]+' (not made yet)</span></li>';
   return '<li><a href="'+L(p)+'"'+(p===C.file?' aria-current="page"':"")+'>'+FL[k]+'</a></li>'}).join("");
  return '<div class="sx-col"><h4><a href="'+L(D.home,s.key)+'">'+esc(s.name)+'<small>'+esc(s.hindi)+'</small></a></h4><ul>'+li+'</ul></div>'}).join("");
+var P=D.plus||[];
+var plus=P.length?'<div class="sx-col sx-arch"><h4><a href="'+L(D.home,"plus")+'">UPPCS Plus<small>प्लस नोट्स</small></a></h4><ul>'+P.map(function(a){return '<li><a href="'+L(a.path)+'"'+(a.path===C.file?' aria-current="page"':"")+'>'+esc(a.t)+' <small>· '+esc(a.name)+'</small></a></li>'}).join("")+'</ul></div>':"";
 var arch=D.archive.length?'<div class="sx-col sx-arch"><h4>Other notes</h4><ul>'+D.archive.map(function(a){return '<li><a href="'+L(a.path)+'"'+(a.path===C.file?' aria-current="page"':"")+'>'+esc(a.t)+' <small>· '+esc(a.dir)+'</small></a></li>'}).join("")+'</ul></div>':"";
-panel.innerHTML='<div class="sx-top"><a href="'+L(D.home)+'">⌂ Study dashboard</a><small>Esc to close</small></div><div class="sx-cols">'+cols+arch+'</div>';
+panel.innerHTML='<div class="sx-top"><a href="'+L(D.home)+'">⌂ Study dashboard</a><small>Esc to close</small></div><div class="sx-cols">'+cols+plus+arch+'</div>';
 document.body.appendChild(panel);
 var bar=document.createElement("span");bar.className="sx-nav";
 bar.innerHTML=(C.kind==="home"?"":'<a href="'+L(D.home)+'" title="Study dashboard" aria-label="Study dashboard home">⌂<span class="sx-lbl">Home</span></a>')+
@@ -192,8 +214,9 @@ panel.addEventListener("keydown",function(e){if(e.key!=="Tab")return;var a=panel
 window.addEventListener("resize",function(){if(!panel.hidden)place()});
 
 /* 2. breadcrumbs */
-var pageName=document.title;D.archive.forEach(function(a){if(a.path===C.file)pageName=a.t});
-var head=C.kind==="archive"?'<a href="'+L(D.home)+'">Home</a>'+SEP+'<a href="'+L(D.home,"others")+'">Other notes</a>'+SEP:
+var pageName=document.title;D.archive.concat(P).forEach(function(a){if(a.path===C.file)pageName=a.t});
+var head=C.kind==="plus"?'<a href="'+L(D.home)+'">Home</a>'+SEP+'<a href="'+L(D.home,"plus")+'">UPPCS Plus</a>'+SEP:
+ C.kind==="archive"?'<a href="'+L(D.home)+'">Home</a>'+SEP+'<a href="'+L(D.home,"others")+'">Other notes</a>'+SEP:
  sub?'<a href="'+L(D.home)+'">Home</a>'+SEP+'<a href="'+L(D.home,sub.key)+'">'+esc(sub.name)+'</a>'+SEP:"";
 var shellCrumbs=document.getElementById("crumbs");
 if(C.kind!=="home"&&shellCrumbs&&shellCrumbs.classList.contains("crumbs")){
@@ -232,7 +255,7 @@ function chapterRel(n,except){var c=null;sub.chapters.forEach(function(x){if(x.n
  if(except!=="plan"&&c.h.length)r.push(["72-hour plan: "+(c.h.length===1?"hour "+c.h[0]:"hours "+c.h[0]+"–"+c.h[c.h.length-1]),L(sub.files.plan,"h"+c.h[0])]);
  return r}
 function common(){var r=[];if(sub){r.push([sub.revisionLabel+" in "+sub.name,L(sub.files.full,sub.repeated)]);r.push([sub.name+" on the dashboard",L(D.home,sub.key)])}else r.push(["Study dashboard",L(D.home)]);return r}
-if(C.kind==="full"||C.kind==="quick"||C.kind==="archive"){
+if(C.kind==="full"||C.kind==="quick"||C.kind==="archive"||C.kind==="plus"){
  var secs=[].slice.call(document.querySelectorAll("section.chapter[id]"));
  if(secs.length){secs.forEach(function(sec,i){var m=/^c(\d+)$/.exec(sec.id),rel=(m&&sub)?chapterRel(+m[1],C.kind):[];
   if(m||i===secs.length-1)rel=rel.concat(common());
@@ -268,7 +291,7 @@ def inject(path, smap):
     rp = rootrel(path)
     depth = rp.count("/")
     data = {"ctx": dict(ctx, file=rp), "base": "../" * depth, "home": smap["home"],
-            "subjects": smap["subjects"], "archive": smap["archive"]}
+            "subjects": smap["subjects"], "plus": smap["plus"], "archive": smap["archive"]}
     payload = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     style = f'<style id="sx-style">{CSS.strip()}</style>\n'
     block = f'<!--sx:start-->\n<script type="application/json" id="sx-data">{payload}</script>\n<script>{JS.strip()}</script>\n<!--sx:end-->\n'

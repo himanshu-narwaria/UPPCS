@@ -1,0 +1,338 @@
+{
+ "13-202": {
+  "r": "Computer chips (integrated circuits / IC chips) → made of Silicon, the substance the book names as newest in chip production; store more data in small space.",
+  "hi": [
+   "Integrated Circuit (एकीकृत परिपथ)"
+  ]
+ },
+ "13-203": {
+  "r": "ICs are classified by number of transistors: SSI 3–30, MSI 30–300, LSI 300–3,000, VLSI more than 3000.",
+  "h": "S, M, L, VL: add one zero at each step (3, 30, 300, 3000)."
+ },
+ "13-204": {
+  "r": "Modem = Modulator/Demodulator → converts digital signal to analog and analog to digital; it is hardware, not software, an OS or a voltage stabilizer."
+ },
+ "13-205": {
+  "r": "Modem → sends and receives data over telephone lines by modulation and demodulation; connects a microcomputer with the telephone.",
+  "h": "MO-DEM = MOdulator + DEModulator."
+ },
+ "13-212": {
+  "r": "Fax and email sent through phone lines → use both analog and digital signals."
+ },
+ "13-213": {
+  "r": "Decoding → the process by which the receiver interprets the symbols used by the source of the message.",
+  "hi": [
+   "Decoding (विकोडन)"
+  ]
+ },
+ "13-214": {
+  "r": "Router, Hub and Switch → all are connecting devices; MPPSC treated the question as a bonus. The book gives no single answer (*)."
+ },
+ "13-215": {
+  "r": "Router → forwards data packets between computer networks; Switch → connects devices within one network (LAN). The book gives no single answer (*).",
+  "c": "No single answer: routers, brouters and gateways can all pass packets between networks, as the explanation shows; the router, option (b), is the standard textbook answer."
+ },
+ "13-216": {
+  "r": "Repeater → amplifies the signal to extend the length of a network without loss of signal strength."
+ },
+ "13-217": {
+  "r": "Celeron, Pentium and Core series → computer processors (not RAM or microchips)."
+ },
+ "13-218": {
+  "r": "ROM = Read-Only Memory → data can only be read; non-volatile (keeps contents when computer is off), whereas RAM is volatile.",
+  "t": "Don't confuse non-volatile ROM with volatile RAM (Random-Access Memory)."
+ },
+ "13-219": {
+  "r": "Permanent memory of computer → ROM; its data is not erased even after the computer is turned off."
+ },
+ "13-220": {
+  "r": "Non-volatile memory (keeps data when power goes off) → ROM; also flash memory (SSDs, USB drives) and hard disk drives."
+ },
+ "13-221": {
+  "r": "Address → the means of specifying the location of data in memory."
+ },
+ "13-222": {
+  "r": "CD-ROM = Compact Disc Read-Only Memory → an optical disc; holds up to 700 MB; data cannot be erased and refilled."
+ },
+ "13-223": {
+  "r": "RAM = Random Access Memory → temporary, short-term memory; all its data is lost when the computer is switched off."
+ },
+ "13-225": {
+  "r": "RAM is NOT like hard disc storage; RAM → temporary, volatile, primary memory, much faster than secondary storage like HDDs."
+ },
+ "13-226": {
+  "r": "RAM → primary (internal) memory; Solid State Drive, Hard Disk and USB Pen Drive → secondary (external) memory.",
+  "hi": [
+   "Secondary memory (द्वितीयक स्मृति)"
+  ]
+ },
+ "13-228": {
+  "r": "Cache memory → extremely fast, small memory between CPU and main memory; stores data often used by the CPU."
+ },
+ "13-229": {
+  "r": "Cache memory (CPU memory) → shortest access time (latency) and highest bandwidth of all storage levels; faster than regular RAM."
+ },
+ "13-230": {
+  "r": "Cache memory → fastest memory in a computer; speeds up computer processing; built into the CPU."
+ },
+ "13-232": {
+  "r": "Flash memory (pen drive, camera, memory card) → uses less power but is NOT cheaper than mechanical hard drives; costlier per unit storage."
+ },
+ "13-233": {
+  "r": "COBOL = Common Business Oriented Language → a computer language.",
+  "h": "CO-B-O-L: the B-O is Business Oriented."
+ },
+ "13-234": {
+  "r": "ORACLE → database software (DBMS), produced and marketed by Oracle Corporation."
+ },
+ "13-235": {
+  "r": "FAST → not a computer language; BASIC (Beginner's All Purpose Symbolic Instruction Code), FORTRAN (Formula Translation) and C are languages."
+ },
+ "13-236": {
+  "r": "ROM (Read-Only Memory) → a computer memory, not a language; JAVA, C++ and PASCAL are computer languages."
+ },
+ "13-237": {
+  "r": "Paint brush → not a computer language; Basic, C++ and Java are computer languages."
+ },
+ "13-238": {
+  "r": "Cobra, Python, Squirrel and Java → all four are computer (programming) languages; Squirrel is Lua-like with C-like syntax; Java created in 1995."
+ },
+ "13-239": {
+  "r": "COBOL, PASCAL and BASIC → all high-level programming languages; others: FORTRAN, Java, Python, Visual Basic."
+ },
+ "13-240": {
+  "r": "Scientific computer language → FORTRAN (Formula Translation), a high-level language developed by IBM.",
+  "h": "FORTRAN = FORmula TRANslation, so it suits scientific formulas."
+ },
+ "13-241": {
+  "r": "BASIC → a procedural language; other procedural languages: C, FORTRAN, PASCAL."
+ },
+ "13-242": {
+  "r": "Fifth-generation languages (5GL) → focus on AI and logic programming; examples: Prolog, OPS5, Mercury."
+ },
+ "13-243": {
+  "r": "JSP = Java Server Pages → builds dynamic web pages; released 1999 by Sun Microsystems; similar to PHP and ASP."
+ },
+ "13-244": {
+  "r": "Assembler → converts assembly language into machine language."
+ },
+ "13-245": {
+  "r": "Machine language → the only language a computer understands and executes directly; uses only 0 and 1; needs no translator; also called machine code.",
+  "hi": [
+   "Machine language (मशीनी भाषा)"
+  ]
+ },
+ "13-246": {
+  "r": "Machine language of computer → based on Boolean Algebra, which works with binary digits (bits) 0 and 1."
+ },
+ "13-247": {
+  "r": "Digital computer works on the logical principle → binary 1 and 0 plus Boolean logic (AND, OR, NOT) set out by George Boole in the 1850s."
+ },
+ "13-248": {
+  "r": ".edu.us domain → an educational institution in the USA (.edu = education, .us = United States)."
+ },
+ "13-249": {
+  "r": ".com in a website address → Commercial; it is a top-level domain (TLD) in the Domain Name System."
+ },
+ "13-250": {
+  "r": ".com, .gov and .net → all valid top-level domain extensions; others: .edu, .org, .info."
+ },
+ "13-251": {
+  "r": "Proxy server → intermediary that forwards client requests to other servers; it does NOT provide TCP/IP address (only statement 2 correct)."
+ },
+ "13-252": {
+  "r": "LTE is marketed as 4G and VoLTE as advanced 4G (not 3G); LTE is not data-only, VoLTE not voice-only → neither statement correct."
+ },
+ "13-253": {
+  "r": "VLC (Visible Light Communication) → wavelengths 375–780 nm; sends large data faster than Bluetooth; no electromagnetic interference; NOT long-range."
+ },
+ "13-254": {
+  "r": "NFC → contactless, uses electromagnetic radio fields; can use encryption for sensitive data; works at 4 cm or less, not a metre."
+ },
+ "13-255": {
+  "r": "Short-Range Devices (SRD) → low-power radio devices; include Closed-circuit TV, RFID and Wireless LAN (all three)."
+ },
+ "13-256": {
+  "r": "AR → adds digital content to the real world via smartphone/PC camera; VR → shuts out the physical world, complete immersion. Statements 1 and 2 swap them.",
+  "t": "Don't swap them: AR keeps the real world, VR replaces it."
+ },
+ "13-257": {
+  "r": "Father of Artificial Intelligence → John McCarthy; he coined the term 'Artificial Intelligence' in the 1950s.",
+  "hi": [
+   "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)"
+  ]
+ },
+ "13-258": {
+  "r": "'Imitation Game' → original name Alan Turing gave to the Turing Test, which checks if a machine can think like a human."
+ },
+ "13-259": {
+  "r": "Machine learning is a subset of AI; reinforcement learning → trial and error with rewards; supervised learning uses labelled input data (statement B wrong)."
+ },
+ "13-260": {
+  "r": "Machine Learning → a branch of AI; lets machines imitate human learning and improve accuracy with experience and more data."
+ },
+ "13-261": {
+  "r": "Majorana 1 → quantum chip by Microsoft (19 February 2025), not AWS (AWS chip: Ocelot); deep learning is a subset of machine learning."
+ },
+ "13-262": {
+  "r": "Sources of AI bias → data, algorithms and people (human interpretation); 'Ability' is not a source."
+ },
+ "13-263": {
+  "r": "AI can now effectively → cut electricity use in industrial units, diagnose disease, convert text to speech; not write meaningful stories/songs or transmit electricity wirelessly."
+ },
+ "13-264": {
+  "r": "FPGA = Field Programmable Gate Array → an IC that can be reconfigured after manufacturing; used to deploy AI (inference, edge)."
+ },
+ "13-265": {
+  "r": "'Maharaja' → Air India's Generative AI virtual agent (2023), powered by Microsoft's Azure OpenAI service; first airline in the world to deploy one."
+ },
+ "13-266": {
+  "r": "ChatGPT (Chat Generative Pre-trained Transformer) → AI chatbot by OpenAI, launched November 30, 2022; based on a large language model."
+ },
+ "13-267": {
+  "r": "AI Action Summit → Paris (Grand Palais), 10-11 February 2025; co-chaired by India and France; built on Bletchley Park (2023) and Seoul (2024); US, UK did not sign."
+ },
+ "13-269": {
+  "r": "Upgraded mobile app 'Suvidha 2.0' → Election Commission of India (October 2024), for candidates and parties to seek campaign permissions."
+ },
+ "13-270": {
+  "r": "USB = Universal Serial Bus → most popular connection for digital cameras, printers, scanners and external hard drives."
+ },
+ "13-271": {
+  "r": "Port → place on the motherboard where accessories (monitor, keyboard, mouse) connect; interface between computer and peripherals."
+ },
+ "13-272": {
+  "r": "Password → protects the computer system from unauthorized access."
+ },
+ "13-273": {
+  "r": "'Finger' protocol → used to find out a user's e-mail address."
+ },
+ "13-274": {
+  "r": "Public Key Infrastructure (PKI) → digital security infrastructure; creates, manages and revokes digital certificates and manages public-key encryption."
+ },
+ "13-275": {
+  "r": "Digital signature → electronic way of signing a document that authenticates the signer and keeps content unchanged; statements 1 and 2 describe a digital signature certificate.",
+  "hi": [
+   "Digital Signature (डिजिटल हस्ताक्षर)"
+  ]
+ },
+ "13-276": {
+  "r": "IT Act, 2000 (Section 2 definitions) → Electronic Record, Digital Signature and Certifying Authority (all of the above)."
+ },
+ "13-277": {
+  "r": "BHIM (NPCI, UPI-based, December 2016) → transfers money to anyone with a UPI-enabled bank account; it has three factors of authentication, not two."
+ },
+ "13-278": {
+  "r": "Digital India (launched 1 July 2015) → connect villages to Internet, Wi-Fi in schools, public places, tourist centres; not own Internet companies or MNC data-centre policy."
+ },
+ "13-279": {
+  "r": "Aarogya Setu, CoWIN, DigiLocker and DIKSHA → all built on open-source digital platforms (source code open to edit and reuse)."
+ },
+ "13-280": {
+  "r": "Aadhaar (12-digit UIDAI number for residents) → not proof of citizenship or domicile (Section 9, Aadhaar Act 2016); it can be deactivated or omitted by the Issuing Authority."
+ },
+ "13-281": {
+  "r": "Aadhaar open APIs → can be integrated into any electronic device; allow online authentication using fingerprint or iris → both correct."
+ },
+ "13-282": {
+  "r": "Blockchain → public ledger everyone can inspect but no single user controls; apps can be built without anybody's permission; data is NOT only about cryptocurrency."
+ },
+ "13-283": {
+  "r": "Web 3.0 → people control their own data; blockchain-based social networks possible; run collectively by users, not a corporation → all three correct."
+ },
+ "13-284": {
+  "r": "Correct pair: Blockchain → Digital/Cryptocurrency. Belle II → particle physics (B mesons), not AI; CRISPR-Cas9 → genome editing, not particle physics."
+ },
+ "13-285": {
+  "r": "Blowfish → symmetric encryption algorithm by Bruce Schneier (1993), alternative to DES; faster, patent-free block cipher."
+ },
+ "13-286": {
+  "r": "A computer does input, processing, computing and outputting; it cannot do 'understanding'."
+ },
+ "13-287": {
+  "r": "Bug → an error, flaw or fault in a computer program that gives incorrect or unexpected results."
+ },
+ "13-288": {
+  "r": "MICR (Magnetic Ink Character Recognition) → mainly used by banks to process cheques (special font printed at the bottom of cheques)."
+ },
+ "13-289": {
+  "r": "OMR = Optical Mark Reader → reads pen or pencil marks on forms; used to check objective-type answer sheets."
+ },
+ "13-291": {
+  "r": "IRC = Internet Relay Chat → application layer protocol for real-time text-based chat."
+ },
+ "13-292": {
+  "r": "'G' in 2G Spectrum → Generation (2G = 2nd Generation wireless telephone technology)."
+ },
+ "13-293": {
+  "r": "CAD = Computer Aided Design → software for precision 2D drawings and 3D models (architects, engineers, artists)."
+ },
+ "13-294": {
+  "r": "GIF = Graphics Interchange Format → file format for images and simple animation; developed by CompuServe in the late 1980s."
+ },
+ "13-295": {
+  "r": "3D printing → used in confectionery, bionic ears, automotive industry, reconstructive surgery and data processing → all five."
+ },
+ "13-296": {
+  "r": "E-governance → technology-driven governance: using ICTs (Wide Area Networks, Internet, mobile computing) in government to enhance governance."
+ },
+ "13-297": {
+  "r": "Use of computers in governance to deliver government services → E-Governance.",
+  "hi": [
+   "E-Governance (ई-शासन)"
+  ]
+ },
+ "13-298": {
+  "r": "Four pillars of e-governance → People, Process, Technology, Resources.",
+  "h": "Think 'PPT + R': People, Process, Technology, Resources."
+ },
+ "13-299": {
+  "r": "Gartner's 4-phase e-governance model → Information → Interaction → Transaction → Transformation.",
+  "h": "I-I-T-T: two I's, then two T's."
+ },
+ "13-300": {
+  "r": "ICT e-governance → reduces cost of government and increases citizens' input; it does not reduce transparency or increase red tapism."
+ },
+ "13-301": {
+  "r": "A computer's strength → its speed, accuracy and memory (all of the above)."
+ },
+ "13-302": {
+  "r": "Multimedia → graphics, animation, video, music and voice integrated digitally with text."
+ },
+ "13-303": {
+  "r": "Multimedia → using more than one type of medium in a computer at the same time."
+ },
+ "13-304": {
+  "r": "Multitasking → ability of an operating system to run more than one application at a time."
+ },
+ "13-305": {
+  "r": "Telefax → sends text and graphics over telephone lines; fax invented by Scottish inventor Alexander Bain in 1842."
+ },
+ "13-306": {
+  "r": "Video mail → can send graphics, video clips and video messages (all of these)."
+ },
+ "13-307": {
+  "r": "Video conferencing → Internet service for audio and video conversation between participants at different sites."
+ },
+ "13-308": {
+  "r": "Video conferencing → video calls using telecommunication technologies; simultaneous two-way video and audio between locations."
+ },
+ "13-309": {
+  "r": "Compulsory device for video conferencing → webcam / video camera (input); output via monitor, television or projector."
+ },
+ "13-310": {
+  "r": "Video conferencing essentials → video camera, display device, microphone; a telephone is not required."
+ },
+ "13-311": {
+  "r": "E-mail = Electronic Mail → sending and receiving digital messages over a computer network."
+ },
+ "13-312": {
+  "r": "Two parts of an e-mail address → user name and domain name (username@domainname.extension)."
+ },
+ "13-313": {
+  "r": "E-mail address: left of @ = username, right of @ = domain name; in mark.sttol@ITdesk.info the domain name is ITdesk.info."
+ },
+ "13-314": {
+  "r": "Hotmail, Rediffmail, Yahoo, Gmail → all free e-mail service providers."
+ }
+}

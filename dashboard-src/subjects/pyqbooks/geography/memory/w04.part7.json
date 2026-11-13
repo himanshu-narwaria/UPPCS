@@ -1,0 +1,151 @@
+{
+ "77-019": {
+  "r": "Bokaro Thermal Power Station → Bokaro district, Jharkhand."
+ },
+ "77-020": {
+  "r": "Integrated steel plant at Kalinganagar, Jajpur (Odisha) → run by Tata Steel, not Steel Authority of India (per the book's explanation).",
+  "c": "The book prints (a) as correctly matched, but its own explanation says the Jajpur plant is Tata Steel's, not SAIL's; Kayamkulam is an NTPC plant, which fits (d)."
+ },
+ "77-021": {
+  "r": "Barh Super Thermal Power Station → Patna district, Bihar; approved capacity 3300 MW, installed 1320 MW; Unit 4 in 2014, Unit 5 in 2016."
+ },
+ "77-022": {
+  "r": "Wrong pair: Korba–Wind; Korba is a thermal power station. Correct: Patratu–thermal, Jhakri–hydroelectric, Kalpakkam–nuclear."
+ },
+ "78-001": {
+  "r": "India's first nuclear power station → Tarapur (near Boisar, Thane district, Maharashtra); commercial operation from 1969.",
+  "hi": [
+   "Nuclear power (परमाणु ऊर्जा)"
+  ]
+ },
+ "78-002": {
+  "r": "Nuclear share of power in 2006-2007 →between 3 and 4% (about 3%). Now (31 December 2025): 8780 MW, only 1.71% of installed capacity (513729.69 MW)."
+ },
+ "78-004": {
+  "r": "India is self-sufficient in thorium, extracted mostly from monazite; uranium is the main nuclear fuel."
+ },
+ "78-005": {
+  "r": "Nuclear stations: Kota (Rawatbhata) → Rajasthan; Tarapur → Maharashtra; Kakrapara → Gujarat; Narora → Uttar Pradesh."
+ },
+ "78-007": {
+  "r": "Commissioning years: Kota 1973, Kalpakkam 1984, Kakrapara 1993, Kaiga 2000 → every printed pair is wrong; the book gives no single answer (*)."
+ },
+ "78-008": {
+  "r": "Nuclear energy → promising for future demand (A true). But nuclear minerals aren't everywhere: uranium is scarce and imported; thorium is abundant but localised (R false).",
+  "hi": [
+   "Nuclear minerals (परमाणु खनिज)"
+  ]
+ },
+ "78-009": {
+  "r": "Thal → Maharashtra; Manuguru → Andhra Pradesh (now Telangana); Kakrapara → Gujarat; Kaiga → Karnataka."
+ },
+ "78-010": {
+  "r": "Wrong pair: Ennore–Meghalaya; Ennore is in Tamil Nadu. Correct: Kaiga–Karnataka, Rawatbhata–Rajasthan, Muppandal–Tamil Nadu."
+ },
+ "78-011": {
+  "r": "Kudankulam (Tirunelveli district, Tamil Nadu) → site for two 1000 MW nuclear plants; marked B on the map."
+ },
+ "78-013": {
+  "r": "Kudankulam (Tamil Nadu) → Russia agreed to six reactor units (answer); the first Inter-Government Agreement (1988, Gorbachev) was for two reactors."
+ },
+ "78-014": {
+  "r": "India's 25th nuclear plant → Rawatbhata, Rajasthan (construction began July 2011)."
+ },
+ "78-015": {
+  "r": "India's twentieth nuclear power station → Kaiga, Karnataka."
+ },
+ "78-016": {
+  "r": "Kalpakkam has no heavy water plant. Heavy water plants: Hazira, Vadodara (Gujarat), Kota (Rajasthan), Manuguru (Telangana), Talcher (Odisha), Thal (Maharashtra), Tuticorin (Tamil Nadu).",
+  "hi": [
+   "Heavy water (भारी जल)"
+  ]
+ },
+ "78-017": {
+  "r": "Mithivirdi nuclear plant (Talaja, Bhavnagar, Gujarat) → with the USA, under the Indo-US nuclear deal of 2008."
+ },
+ "78-018": {
+  "r": "Anushakti Vidyut Nigam Ltd → joint venture of NPCIL (51%) and NTPC (49%); incorporated 27 January 2011."
+ },
+ "78-019": {
+  "r": "Wrong pair: Haripur–Haryana; Haripur is in West Bengal. Correct: Jaitapur–Maharashtra, Mithi Virdi–Gujarat, Kovvada–Andhra Pradesh."
+ },
+ "78-020": {
+  "r": "Two wrong pairs, so the book gives (a) and (b): Kaiga is in Karnataka, Kalpakkam in Tamil Nadu. Correct: Kakrapar–Gujarat, Kudankulam–Tamil Nadu."
+ },
+ "78-021": {
+  "r": "Installed nuclear capacity (book): Kakrapar 1840 MW, Tarapur 1400, Kaiga 880, Narora 440; the book's answer is Tarapur.",
+  "c": "Tarapur (1400 MW) was right when asked in 2021; with its two new large units now running, Kakrapar (1840 MW) has the bigger installed capacity today."
+ },
+ "79-001": {
+  "r": "Koyna (Maharashtra) → hydroelectric project on the Koyna river, run by the Maharashtra State Electricity Board.",
+  "hi": [
+   "Hydroelectricity (जलविद्युत)"
+  ]
+ },
+ "79-002": {
+  "r": "Rana Pratap Sagar hydel power station → Rawatbhata, beside the Rana Pratap Sagar Dam; built with Canada's help."
+ },
+ "79-003": {
+  "r": "Jawahar Sagar hydroelectric project → Chambal river, Rajasthan; part of the Chambal Valley development plan."
+ },
+ "79-004": {
+  "r": "Rana Pratap Sagar Dam → gravity masonry dam on the Chambal at Rawatbhata, Rajasthan."
+ },
+ "79-005": {
+  "r": "Hydro share of electricity → about 10% (10.6% in 2016-17). Installed capacity, 31 December 2025: hydro 50914.66 MW of 513729.69 MW."
+ },
+ "80-001": {
+  "r": "Pavagada (Karnataka) → solar; Tattapani (Chhattisgarh) → geothermal; Muppandal (Tamil Nadu) → wind; Kakrapar (Gujarat) → atomic."
+ },
+ "80-002": {
+  "r": "Highest solar energy potential → Rajasthan (MNRE, as of 31 December 2025).",
+  "hi": [
+   "Solar energy (सौर ऊर्जा)"
+  ]
+ },
+ "80-003": {
+  "r": "Chamera (Ravi river, Chamba, HP) → hydro; Gwal Pahari (Gurugram, Haryana) → solar; Kudankulam (Tamil Nadu) → atomic; Patratu (Ramgarh, Jharkhand) → thermal."
+ },
+ "80-004": {
+  "r": "Satara (Maharashtra) → known for the Chalkewadi wind energy project."
+ },
+ "80-005": {
+  "r": "Wind potential (GW, 120 m / 150 m): Gujarat 142.56 / 180.8, Rajasthan 127.75 / 284.2, Tamil Nadu 68.75 / 95.1; India 695.50 / 1163.9 → Tamil Nadu and Gujarat.",
+  "hi": [
+   "Wind energy (पवन ऊर्जा)"
+  ]
+ },
+ "80-006": {
+  "r": "Wind power capacity (31 December 2025): Gujarat 1st, Tamil Nadu 2nd."
+ },
+ "80-007": {
+  "r": "Wrong statement: non-conventional sources give less than 1% of commercial energy; they actually give more than 1%."
+ },
+ "80-008": {
+  "r": "Asia's biggest wind project when asked → Muppandal, Tamil Nadu (150 MW)."
+ },
+ "80-009": {
+  "r": "Largest tidal energy area in India → Khambhat (Cambay) coast.",
+  "hi": [
+   "Tidal energy (ज्वारीय ऊर्जा)"
+  ]
+ },
+ "80-010": {
+  "r": "Main tidal energy area → Gulf of Khambhat (Cambay); India's gulfs and estuaries have tides strong enough to turn turbines."
+ },
+ "80-011": {
+  "r": "Most tidal potential → Bhavnagar (answer). Best sites: Gulf of Cambay and Gulf of Kutch (west coast), Ganges delta–Sundarbans (east); Cambay and Kutch most attractive."
+ },
+ "80-012": {
+  "r": "NHPC (National Hydroelectric Power Corporation, set up 1975) → electricity generation: hydropower, later geothermal, tidal, wind."
+ },
+ "80-013": {
+  "r": "Gujarat → first in installed capacity and generation of electricity (when asked); still 1st in gross installed capacity (31 December 2025)."
+ },
+ "80-014": {
+  "r": "India's per capita energy use, 1994 → about 243 kg oil equivalent (book: 244 kg), far below the world's 1471 kg."
+ },
+ "80-015": {
+  "r": "Rampura → first Indian village with its own solar power plant, in Uttar Pradesh."
+ }
+}

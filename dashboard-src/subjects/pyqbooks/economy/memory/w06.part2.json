@@ -1,11 +1,11 @@
 {
  "15-182": {
   "r": "India was only an observer in SCO in 2010; it became a full SCO member in 2017.",
-  "c": "Answer not printed (*): when asked (2010) the answer was (b) India; today all four options are SCO members."
+  "c": "Book gives no single answer: (b) India was right in 2010, when it was only an observer; it became a full SCO member in 2017."
  },
  "15-183": {
   "r": "India is a full member of BASIC, G-4 and BRICS; it joined SCO only in 2017, so it was not an SCO member in 2013.",
-  "c": "Answer not printed (*): in 2013 the answer was (d) SCO; today India belongs to all four."
+  "c": "Book gives no single answer: (d) SCO was right in 2013; India became a full SCO member in 2017 and now belongs to all four."
  },
  "15-184": {
   "r": "Gulf Cooperation Council (1981, HQ Riyadh) → Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, UAE; Iran is not a member."
@@ -122,7 +122,7 @@
  },
  "16-014": {
   "r": "A social network can be represented as a Graph (and also as a Tree, per MPPSC key).",
-  "c": "Book prints two answers, (a) Graph and (b) Tree, following the MPPSC key."
+  "c": "Graph (a) is the standard answer: a tree is a graph with no cycles, and real social networks have cycles. MPPSC's key accepted both."
  },
  "16-015": {
   "r": "Hansa Mehta → first Indian member of UN Human Rights Commission (1947-48); its Vice-Chairperson in 1950; Vijaya Laxmi Pandit served later (1979)."
@@ -136,7 +136,7 @@
  },
  "16-018": {
   "r": "CCI Chairperson → Ravneet Kaur (appointed May 2023); Ashok Chawla was an earlier Chairman.",
-  "c": "Explanation says Ashok Chawla (option a) was Chairman in the question period, yet the printed answer is (d) None of the above."
+  "c": "(d) fits 2010: Dhanendra Kumar chaired the CCI then; Ashok Chawla took charge only later, so the explanation's remark that Chawla was chairman in the question period looks wrong."
  },
  "16-019": {
   "r": "7th Central Pay Commission (constituted February 2014) → Chairman Justice Ashok Kumar Mathur."
@@ -188,7 +188,7 @@
  },
  "16-034": {
   "r": "Tendulkar Committee → poverty estimation; Chelliah → tax reforms; Narasimham → banking sector reforms; Chakravarty → financial sector reforms (book's pairing).",
-  "c": "Answer not printed (*): the book's pairing fits no option; elsewhere the book links Chakravarty Committee to monetary policy."
+  "c": "Book gives no single answer: its pairing (A-iv, B-iii, C-ii, D-i) is in no option. Strictly, the Chakravarty Committee reviewed the monetary system; Narasimham chaired both financial-system and banking-reform committees."
  },
  "16-035": {
   "r": "Taxation → Parthsarthi Shome (TARC chairman); Agriculture → Ashok Gulati (ex-CACP); Monetary policy → C. Rangarajan; Planning → Arvind Panagariya; Fiscal policy → M. Govinda Rao."
@@ -230,8 +230,8 @@
   ]
  },
  "16-047": {
-  "r": "Chairman of PM's Economic Advisory Council → Dr. C. Rangarajan at question time; now Dr. Bibek Debroy.",
-  "c": "Answer not printed (*): the explanation points to (b) Dr. C. Rangarajan for the question period."
+  "r": "Chairman of PM's Economic Advisory Council → Dr. C. Rangarajan at question time; later Dr. Bibek Debroy (until his death); now Prof. S. Mahendra Dev.",
+  "c": "Book gives no single answer: (b) Dr. C. Rangarajan chaired the Council when asked; the chair has changed several times since."
  },
  "16-048": {
   "r": "Nicholas Stern → British economist, World Bank Chief Economist 2000-2003, not construction technology; Dickson → motion picture; Babbage → programmable computer; Brian Greene → string theory."
@@ -244,7 +244,7 @@
  },
  "16-051": {
   "r": "CII President → R. Seshasayee at question time; Sanjiv Puri (ITC) for 2024-25.",
-  "c": "Answer not printed (*): the explanation points to (c) R. Seshasayee for the question period."
+  "c": "Book gives no single answer: (c) R. Seshasayee was CII President when asked; the post changes every year."
  },
  "16-052": {
   "r": "'The Rich Report 2004' (The Mail on Sunday) → Lakshmi Niwas Mittal, richest person of Asia."
@@ -345,7 +345,7 @@
  },
  "16-082": {
   "r": "'Energy Statistics' → published annually by Central Statistical Office, now National Statistical Office (NSO, after NSSO-CSO merger), MoSPI.",
-  "c": "Answer not printed (*), though the explanation supports option (d) Central Statistical Organization."
+  "c": "Book gives no single answer only because CSO is now part of the National Statistical Office; (d) Central Statistical Organization was right when asked."
  },
  "16-083": {
   "r": "CAG report 2000 → lowest per capita kerosene allocation: Odisha (7.56 kg, lowest), then Bihar, MP, Rajasthan, UP."
@@ -361,7 +361,7 @@
  },
  "16-087": {
   "r": "Indian Institute of Carpet Technology (IICT; Ministry of Textiles, since 2001; only one in Asia) → Bhadohi district, Uttar Pradesh.",
-  "c": "Answer not printed (*): Bhadohi is not among the options."
+  "c": "Book gives no single answer: IICT is in Bhadohi district, which is not among the options."
  },
  "16-088": {
   "r": "V.V. Giri National Labour Institute (1974, Ministry of Labour and Employment) → Noida, Uttar Pradesh."
@@ -383,7 +383,7 @@
  },
  "16-094": {
   "r": "National Water Development Agency (NWDA) → set up 1982, now under Ministry of Jal Shakti, for the National Perspective Plan for water resources.",
-  "c": "Answer not printed (*): 1982 is not among the options."
+  "c": "Book gives no single answer: NWDA was set up in 1982, which is not among the options."
  },
  "16-095": {
   "r": "Entrepreneurship Development Institute of India (EDII, 1983) → Ahmedabad, Gujarat."

@@ -92,7 +92,7 @@ Explanation: According to the 'Micro, Small and Medium Enterprises Development (
 Q: As on March 31, 2011, which one of the following States had the largest number of registered factories?
 Options: (a) Andhra Pradesh (b) Gujarat (c) Maharashtra (d) Tamil Nadu
 Answer: (d) Tamil Nadu
-Explanation: As per the question year and at present, option (d) is the correct answer.According to the 'Annual Survey of Industries, 2021-22', top five States where maximum number offactories registered (in ASI Frame), are as follows: / | States | Number offactories | / | Tamil Nadu | – | 39667 | / | Gujarat | – | 29868 | / | Maharashtra | – | 26527 | / | Uttar Pradesh | – | 17645 | / | Andhra Pradesh | – | 17012 | / In 2021-22, the number … [shortened in this brief; the book continues]
+Explanation: As per the question year and at present, option (d) is the correct answer.According to the 'Annual Survey of Industries, 2021-22', top five States where maximum number of factories registered (in ASI Frame), are as follows: / | States | Number of factories | / | Tamil Nadu | – | 39667 | / | Gujarat | – | 29868 | / | Maharashtra | – | 26527 | / | Uttar Pradesh | – | 17645 | / | Andhra Pradesh | – | 17012 | / In 2021-22, the number … [shortened in this brief; the book continues]
 
 [05-076] Ch5 · Industrial Sector · asked in 1 paper(s): I.A.S. (Pre) 1999
 Q: Consider the following statements: Small-scale industries are, in most cases, not as efficient and competitive as the large-scale ones. Yet the Government provides preferential treatment and reservations in a range of products to the small firms because small-scale industries:
@@ -201,7 +201,7 @@ Explanation: Tamil Nadu has the largest number of operational non-small scale in
 Q: In India, the highest production of mill-made cotton cloth comes from:
 Options: (a) Gujarat (b) Maharashtra (c) Punjab (d) Tamil Nadu
 Answer: (a) Gujarat
-Explanation: The largest producer of mill-made cotton cloth among all States in India, is Gujarat. As per the latest available data, top 3 States in production of mill-made cotton cloth are as follows: / States Mill-made Cotton cloth Production (in thousand m2) 2016-17 / | Gujarat | – | 489712 | / | Maharashtra | – | 270531 | / | Madhya Pradesh – | 167818 |
+Explanation: The largest producer of mill-made cotton cloth among all States in India, is Gujarat. As per the latest available data, top 3 States in production of mill-made cotton cloth are as follows: / States Mill-made Cotton cloth Production (in thousand m²) 2016-17 / | Gujarat | – | 489712 | / | Maharashtra | – | 270531 | / | Madhya Pradesh – | 167818 |
 
 [05-095] Ch5 · Industrial Sector · asked in 1 paper(s): Uttarakhand P.C.S. (Pre) 2002
 Q: The oldest large scale industry of India is:
@@ -299,7 +299,7 @@ Explanation: The functions and objectives of Public Sector in India includes –
 Q: Read the following statements carefully:
    1. In the public sector of India, there are basic and heavy industries.
    2. All industries of the public sector are profit-oriented.
-   3. Jobs are secured in the industries of the public sector. Answer on the basis offollowing codes:
+   3. Jobs are secured in the industries of the public sector. Answer on the basis of following codes:
 Options: (a) 1, 2 and 3 are true (b) 1 and 3 are true (c) 1 and 2 are true (d) 2 and 3 are true
 Answer: (b) 1 and 3 are true
 Explanation: After the independence of India, there was a need of large amount of investment in infrastructure and heavy and basic industries for economic development. At that time, private sector did not have the capacity to invest such a huge amount. Thus, the government played a leading role to provide the basic framework of heavy industries and infrastructure through public sector. Hence, statement 1 is correct. As far as … [shortened in this brief; the book continues]
@@ -984,7 +984,7 @@ Answer: (c) Madras Aluminium Company – Chennai Limited (MALCO)
 Explanation: The Madras Aluminium Company Limited (MALCO) is situated at Mettur (Dist. Salem), Tamil Nadu. The other pairs are correctly matched. At present, INDAL is a part of HINDALCO.
 
 [05-213] Ch5 · Industrial Sector · asked in 1 paper(s): U.P.P.C.S. (Pre) 2002*
-Q: Which one of the following States enjoys ideal conditions for the development ofpetrochemical industries:
+Q: Which one of the following States enjoys ideal conditions for the development of petrochemical industries:
 Options: (a) Gujarat (b) Maharashtra (c) Tamil Nadu (d) Uttar Pradesh
 Answer: (a) Gujarat
 Explanation: Gujarat’s chemicals and petrochemicals industry is one of the fastest growing sectors in the State’s economy and is the leader in the production of chemical and allied products in India. Government support, world class infrastructure, strategic location, availability of skilled workforce and raw material makes Gujarat a preferred location for petrochemical industries. Gujarat's chemical and petrochemical industry … [shortened in this brief; the book continues]
@@ -1542,7 +1542,7 @@ Explanation: Taxation, public expenditure and public debt are the important inst
 Q: Which of the following is NOT a tool of fiscal policy?
 Options: (a) Public expenditure (b) Interest rate (c) Deficit financing (d) Taxation
 Answer: (b) Interest rate
-Explanation: Among the given options, public expenditure, deficit financing and taxation are tools offiscal policy, while interest rate is an instrument of monetary policy.
+Explanation: Among the given options, public expenditure, deficit financing and taxation are tools of fiscal policy, while interest rate is an instrument of monetary policy.
 
 [07-036] Ch7 · Fiscal Policy & Revenue · asked in 1 paper(s): Uttarakhand P.C.S. (Pre) 2012
 Q: Which of the following economists, introduced fiscal policy as a tool to rectify the Great Depression of 1929- 30?
@@ -1802,10 +1802,10 @@ Q: Fiscal deficit/GDP ratio has been maximumin the financial year:
 Options: (a) 2014-2015 (b) 2013-2014 (c) 2012-2013 (d) 2011-2012
 Answer: (d) 2011-2012
 Also asked: Fiscal deficit stood at what percentage of GDP in the year 1990-91? -> 8.4
-Explanation: Among the given financial years, fiscal deficit/GDP ratio had been maximum in the year 2011-12 (5.9%). Fiscal deficit was at 9.2 percent of the GDP in 2020-21 which is the highest level offiscal deficit for the Centre since 8.4 percent reported in financial year 1990-91.
+Explanation: Among the given financial years, fiscal deficit/GDP ratio had been maximum in the year 2011-12 (5.9%). Fiscal deficit was at 9.2 percent of the GDP in 2020-21 which is the highest level of fiscal deficit for the Centre since 8.4 percent reported in financial year 1990-91.
 
 [07-084] Ch7 · Fiscal Policy & Revenue · asked in 1 paper(s): U.P.P.C.S. (Pre) 1996*
-Q: In the Union Budget of 1996-97, the target level offiscal deficit is:
+Q: In the Union Budget of 1996-97, the target level of fiscal deficit is:
 Options: (a) 5.0 percent of GDP (b) 5.9 percent GDP (c) 6.8 percent of GDP (d) 7.5 percent GDP
 Answer: (a) 5.0 percent of GDP
 Explanation: The fiscal deficit in the Union Budget 1996-97 was targeted at 5.0% of Gross Domestic Product (GDP). In the Interim Union Budget 2024-25, fiscal deficit is targeted at 5.1 percent, whereas in the revised estimates of2023-24 fiscal deficit is at 5.8 percent of the GDP.
@@ -1932,7 +1932,7 @@ Explanation: The borrowing requirment of the government includes interest obliga
 Q: Ifprimary deficit is zero, then the amount of borrowing will be:
 Options: (a) more than interest payment (b) less than interest payment (c) just equal to the interest payment (d) None of these
 Answer: (c) just equal to the interest payment
-Explanation: Ifthe primary deficit is zero, the fiscal deficit becomes equivalent to the interest liabilities. This implies that the government has resorted to borrowings just to pay off the interest payments and the amount of borrowing will be just equal to the interest payments.
+Explanation: If the primary deficit is zero, the fiscal deficit becomes equivalent to the interest liabilities. This implies that the government has resorted to borrowings just to pay off the interest payments and the amount of borrowing will be just equal to the interest payments.
 
 [07-106] Ch7 · Fiscal Policy & Revenue · asked in 1 paper(s): U.P.P.C.S. (Mains) 2009*
 Q: Primary deficit in the Union Budget for2010-11 is estimated at:
@@ -1999,8 +1999,8 @@ Explanation: As per the question year, option (b) was the correct answer. In the
 
 [07-118] Ch7 · Fiscal Policy & Revenue · asked in 1 paper(s): U.P.P.C.S. (Mains) 2002
 Q: Statement (A): Abig source of deficit in the Government’s budget is the financial subsidy.
-   Reason (R): The level offinancial subsidy is much higher in Indian agriculture than in developed countries.
-   Select the correct answer with the help offollowing code:
+   Reason (R): The level of financial subsidy is much higher in Indian agriculture than in developed countries.
+   Select the correct answer with the help of following code:
 Options: (a) A and R both are true and R is the correct explanation of A. (b) A and R both are true, but R is not the correct explanation of A. (c) A is true, but R is false (d) A is false, but R is true
 Answer: (c) A is true, but R is false
 Explanation: Statement (A) is correct, because during the question period India was providing about 12 percent of its expenditure as financial subsidy (in Interim Union Budget 2024-25 total subsidies are about 8.6% of total expenditure), which was a major source of budget deficit. Reason (R) is incorrect, because western countries provide much higher financial aid to their agriculture sector than India.
@@ -2154,7 +2154,7 @@ Explanation: Equalization tax is a levy imposed on certain specified digital ser
 Q: Tax on sale of inherited property is:
 Options: (a) Capital Gain Tax (b) Land Tax (c) Wealth Tax (d) Income Tax
 Answer: (a) Capital Gain Tax
-Explanation: Tax on sale of inherited property is called 'Capital Gain Tax'. Any profit or gain that arises from the sale of a 'capital asset' is a capital gain. Capital gains are not applicable to an inherited property as there is no sale, only a transfer of ownership. Under Section 56 (ii) of the Income Tax Act, there is no inheritance tax applicable in India irrespective of the cost of the inherited property. However, ifthe … [shortened in this brief; the book continues]
+Explanation: Tax on sale of inherited property is called 'Capital Gain Tax'. Any profit or gain that arises from the sale of a 'capital asset' is a capital gain. Capital gains are not applicable to an inherited property as there is no sale, only a transfer of ownership. Under Section 56 (ii) of the Income Tax Act, there is no inheritance tax applicable in India irrespective of the cost of the inherited property. However, if the … [shortened in this brief; the book continues]
 
 [07-144] Ch7 · Fiscal Policy & Revenue · asked in 1 paper(s): I.A.S. (Pre) 2012
 Q: Under which of the following circumstances may ‘capital gains’ arise?
@@ -2198,7 +2198,7 @@ Q: A decrease in tax to-GDP ratio of a country indicates which of the following?
    Select the correct answer using the code given below:
 Options: (a) 1 only (b) 2 only (c) Both 1 and 2 (d) Neither 1 nor 2
 Answer: (d) Neither 1 nor 2
-Explanation: A tax-to-GDP ratio is a gauge of a nation's tax revenue relative to the size of its economy as measured by gross domestic product (GDP). Slowing economic growth rate may result in lower tax collection but it does not necessarily mean decrease in tax-GDP ratio. Whether the fall in tax collection is proportionate to the fall in GDP cannot be known without knowing the all indices. Hence, statement 1 is incorrect. Ifthe … [shortened in this brief; the book continues]
+Explanation: A tax-to-GDP ratio is a gauge of a nation's tax revenue relative to the size of its economy as measured by gross domestic product (GDP). Slowing economic growth rate may result in lower tax collection but it does not necessarily mean decrease in tax-GDP ratio. Whether the fall in tax collection is proportionate to the fall in GDP cannot be known without knowing the all indices. Hence, statement 1 is incorrect. If … [shortened in this brief; the book continues]
 
 [07-151] Ch7 · Fiscal Policy & Revenue · asked in 1 paper(s): I.A.S. (Pre) 1996
 Q: A redistribution of income in a country can be best brought about through:
@@ -2228,7 +2228,7 @@ Explanation: Income tax is a direct tax. Income tax in India is a tax paid by th
 Q: According to the Union Budget 2016-17, a surcharge of 15% is payable if the income is:
 Options: (a) Rs. 50 lakh (b) Above Rs. 1 Crore (c) Rs. 75 lakh (d) Rs. 1 Crore
 Answer: (b) Above Rs. 1 Crore
-Explanation: Income tax surcharge is an additional charge payable on income tax. It is an added tax on the taxpayers having a higher income inflow during a particular financial year. According to the Union Budget 2016-17, surcharge shall be levied at the rate of fifteen percent, ifthe individual's income is above Rs. one crore. At present (for Assessment Year 2024-25/FY 2023-24), surcharge rates (for individuals) on different … [shortened in this brief; the book continues]
+Explanation: Income tax surcharge is an additional charge payable on income tax. It is an added tax on the taxpayers having a higher income inflow during a particular financial year. According to the Union Budget 2016-17, surcharge shall be levied at the rate of fifteen percent, if the individual's income is above Rs. one crore. At present (for Assessment Year 2024-25/FY 2023-24), surcharge rates (for individuals) on different … [shortened in this brief; the book continues]
 
 [07-156] Ch7 · Fiscal Policy & Revenue · asked in 1 paper(s): U.P.P.C.S. (Mains) 2010
 Q: In the Central Government budget 2011-12, a new category of 'Very Senior Citizens' has been created for the purpose of Income Tax. This category covers the persons of age

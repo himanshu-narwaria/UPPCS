@@ -1,0 +1,495 @@
+{
+ "97-004": {
+  "r": "Revolution periods: Jupiter 11.86 years (longest of these); Mars 686.98 days; Earth 365.25 days; Venus 224.70 days.",
+  "hi": [
+   "Revolution (परिक्रमण)"
+  ]
+ },
+ "97-005": {
+  "r": "Jupiter's rings ('Jovian rings') → made of silicates and dust; first found by Voyager 1 in 1979; faint and almost transparent."
+ },
+ "97-006": {
+  "r": "Most moons → now Saturn (274); Jupiter, the largest planet, has 97 (as of 27 January 2026) and was the answer when asked.",
+  "c": "The book prints (a) Jupiter, correct when the question was set; its own explanation says Saturn now has the most moons, i.e. (c)."
+ },
+ "98-001": {
+  "r": "Saturn → one revolution around the Sun in about 29.5 years (29.456 years)."
+ },
+ "98-002": {
+  "r": "Saturn → famous for its rings (seven found; A, B, D, E visible from Earth; looks yellow). Jupiter, Uranus and Neptune also have rings.",
+  "hi": [
+   "Saturn (शनि)"
+  ]
+ },
+ "98-003": {
+  "r": "Cassini spacecraft → launched October 15, 1997; began revolving around Saturn in June 2004."
+ },
+ "98-004": {
+  "r": "Saturn is warmer than Neptune (closer to the Sun). Exception to the distance rule: Venus is hotter than Mercury due to CO2 in its atmosphere.",
+  "h": "Planet order: 'My Very Educated Mother Just Served Us Noodles' (Mercury to Neptune)."
+ },
+ "98-005": {
+  "r": "Titan → largest moon of Saturn (diameter 5,150 km); Rhea is Saturn's second largest (about 1,528 km)."
+ },
+ "99-001": {
+  "r": "True: Phobos and Deimos are Mars's moons; Neptune has sub-zero methane gas rings. False: hottest planet is Venus, not Mercury; Ganymede (largest moon) is Jupiter's, not Saturn's."
+ },
+ "99-002": {
+  "r": "Uranus → 84 years for one revolution around the Sun; a Uranus day is about 17 hours 14 minutes."
+ },
+ "99-003": {
+  "r": "Longest year → Pluto (farthest from the Sun among the options): 247.9 Earth years per revolution."
+ },
+ "99-004": {
+  "r": "Longest revolution among planets → Neptune (164.9 years). Pluto takes 247.9 years but is not a planet since 2006. Uranus 83.7, Jupiter 11.86 years.",
+  "c": "The book prints (d) Pluto, the answer when asked; its own explanation says Pluto lost planet status in 2006, so Neptune (c) is right now."
+ },
+ "99-005": {
+  "r": "Neptune → about 165 Earth years per revolution (longest of the planets); eighth and farthest planet; an ice giant with 16 known satellites."
+ },
+ "99-006": {
+  "r": "IAU 26th General Assembly (14-25 August 2006) → Pluto removed from the planets and made a dwarf planet.",
+  "hi": [
+   "Dwarf planet (बौना ग्रह)"
+  ]
+ },
+ "99-007": {
+  "r": "Smallest planet now → Mercury (4,879 km diameter). Pluto (2376 km) was earlier called the smallest planet.",
+  "c": "The book prints (a) Pluto, the old answer; its own explanation says Mercury is now the smallest planet, i.e. (d)."
+ },
+ "99-008": {
+  "r": "Coldest planet → Neptune (farthest from the Sun); surface about –200 °C; atmosphere of hydrogen, helium and methane."
+ },
+ "99-009": {
+  "r": "Pluto's elliptical orbit dips inside Neptune's, so Neptune was farthest 1979–1999, otherwise Pluto. Since Pluto became a dwarf planet (2006), Neptune is the farthest planet.",
+  "c": "The book prints (c) 'sometimes Neptune, sometimes Pluto', true when asked; its own explanation says Neptune is now the correct answer."
+ },
+ "99-011": {
+  "r": "Pluto (dwarf planet) has five moons, inner to outer: Charon (biggest), Styx, Nix, Kerberos, Hydra."
+ },
+ "100-001": {
+  "r": "First manned Moon landing → 20 July 1969, Apollo-11, on the 'Sea of Tranquility'; Neil Armstrong and Edwin Aldrin walked, Michael Collins was the third crew member."
+ },
+ "100-002": {
+  "r": "'Sea of Tranquility' → a dark patch (lunar mare) on the Moon where Apollo-11 landed in 1969; Neil Armstrong stepped out first, then Edwin Aldrin."
+ },
+ "100-003": {
+  "r": "Same face of the Moon always faces Earth (A true). But the Moon rotates once in 27 days 7 hours 43 minutes, not 23½ days (R false).",
+  "t": "The Moon's rotation and revolution both take 27 days 7 hours 43 minutes; 23½ days is wrong."
+ },
+ "100-004": {
+  "r": "Only one Moon face is seen from Earth: its rotation and revolution take the same time (27 days, 7 hrs, 43 minutes). A and R true, R explains A."
+ },
+ "100-005": {
+  "r": "Two people on the Moon cannot hear each other → no atmosphere there; sound needs a material medium.",
+  "hi": [
+   "Atmosphere (वायुमंडल)"
+  ]
+ },
+ "100-006": {
+  "r": "Lunar eclipse → Earth comes between the Sun and the Moon; it happens only on a full moon day.",
+  "hi": [
+   "Lunar eclipse (चंद्र ग्रहण)"
+  ]
+ },
+ "100-009": {
+  "r": "Extra-bright full moon of 22 December 1999 → Moon at perigee (its closest point to Earth).",
+  "hi": [
+   "Perigee (उपभू)"
+  ]
+ },
+ "100-010": {
+  "r": "Half moon → angle between Sun, Earth and Moon is 90°."
+ },
+ "100-011": {
+  "r": "Odd one out → Moon: a natural satellite revolving around Earth; Mars, Mercury and Earth are planets revolving around the Sun.",
+  "hi": [
+   "Satellite (उपग्रह)"
+  ]
+ },
+ "100-013": {
+  "r": "Planet → Uranus; Satellite → Moon; Comet → Halley (seen 1835, 1910, 1986); Artificial spacecraft → Mariner (Mariner-9 sent to Mars, 30 May 1971)."
+ },
+ "100-014": {
+  "r": "Blue moon → two full moons in the same month; a full moon comes every 29.5 days, so an extra one builds up about every 2.7154 years."
+ },
+ "100-015": {
+  "r": "Object taken from Earth to the Moon → its weight falls to 1/6 (Moon's gravity is 1/6th of Earth's); weight = mass × gravitational acceleration."
+ },
+ "100-016": {
+  "r": "Moon–Earth distance → average 384400 km (minimum 363300 km, maximum 405500 km); the nearest option was 364 thousand km."
+ },
+ "100-017": {
+  "r": "SELENE ('Kaguya') → Japan's Moon orbiter (14 September 2007), making Japan the first Asian country to put a craft in lunar orbit; it ended at Gill Crater."
+ },
+ "101-001": {
+  "r": "Asteroids → small rocky bodies orbiting the Sun between Mars and Jupiter (not Jupiter and Saturn); most are small, some up to 1000 km across.",
+  "hi": [
+   "Asteroid (क्षुद्रग्रह)"
+  ]
+ },
+ "101-004": {
+  "r": "Asteroids: rocky-metallic, no tail, mostly between Mars and Jupiter. Comets: frozen gases/ice with rock, glowing tail near the Sun, from Kuiper Belt and Oort Cloud.",
+  "t": "Comets are not found mostly between Venus and Mercury; that statement (2) is false."
+ },
+ "102-001": {
+  "r": "Comet's tail points away from the Sun → the Sun's radiation pressure pushes the coma's gas and dust outward.",
+  "hi": [
+   "Comet (धूमकेतु)"
+  ]
+ },
+ "102-002": {
+  "r": "Hale-Bopp → a long-period comet discovered in 1995 by Alan Hale and Thomas Bopp, named after both."
+ },
+ "102-003": {
+  "r": "Comet Shoemaker-Levy-9 → collided with Jupiter during 16-22 July 1994 (found 24 March 1993); first collision of two solar-system bodies seen from Earth."
+ },
+ "102-004": {
+  "r": "Meteor ('shooting star') → a small piece of rock from space that glows and burns by air friction on entering Earth's atmosphere; not a star.",
+  "hi": [
+   "Meteor (उल्का)"
+  ]
+ },
+ "103-001": {
+  "r": "Latitude is only North or South of the Equator and ends at the Poles (ninety degrees). So 'forty-five degrees South' is valid; East/West values are longitudes."
+ },
+ "103-002": {
+  "r": "Great circle → divides the globe into two halves: the Equator and all meridians (Prime Meridian, any East longitude). No other parallel, e.g. sixty degrees North, is one.",
+  "hi": [
+   "Great circle (वृहत् वृत्त)"
+  ]
+ },
+ "103-003": {
+  "r": "0° latitude meets 0° longitude (Equator × Prime Meridian) → in the Gulf of Guinea, Atlantic Ocean."
+ },
+ "103-005": {
+  "r": "Point near 50°30' N latitude and 5° E longitude → Belgium, so the region is Europe."
+ },
+ "103-006": {
+  "r": "Opposite end of the Earth from 30°N, fifty degrees E → 30°S, 130°W (latitude switches N to S; longitude switches E to W)."
+ },
+ "103-007": {
+  "r": "Northernmost of the four → Rome (highest latitude). North to south: Rome, New York, Beijing, New Delhi.",
+  "t": "Don't assume New York lies north of Rome; Rome's latitude is higher."
+ },
+ "103-008": {
+  "r": "Longest north-south extent → Chile (continuous mainland) or Russia (if islands are included), so the answer was 'more than one of the above'."
+ },
+ "103-009": {
+  "r": "Parallels drawn at 1° interval → 89 in each hemisphere + the Equator = 179."
+ },
+ "104-001": {
+  "r": "Cairo, 2 hours ahead of Greenwich → about 30° E longitude (1° = 4 minutes; 120 minutes ÷ 4 = 30°).",
+  "h": "Time to longitude: minutes of time ÷ 4 = degrees of longitude."
+ },
+ "104-002": {
+  "r": "Noon at eighty-two and a half degrees E (IST meridian) = 6:30 a.m. at 0° (Prime Meridian): the 5 hours 30 minutes gap equals that whole longitude."
+ },
+ "104-003": {
+  "r": "90° difference in longitude → 6 hours time difference (90 × 4 = 360 minutes)."
+ },
+ "104-004": {
+  "r": "Mid-day at Greenwich and 5 p.m. at a place → 5 hours (300 minutes) ahead, so it lies east: 300 ÷ 4 = seventy-five degrees East."
+ },
+ "104-005": {
+  "r": "Prime Meridian (0°, Greenwich; accepted 1884) + the 180° meridian (International Date Line) together form one great circle."
+ },
+ "104-006": {
+  "r": "First sunrise of the New Millennium in India → Katchal Island (Andaman and Nicobar), about 1600 km from the mainland and 418 km from Port Blair."
+ },
+ "104-007": {
+  "r": "Standard time base → Prime Meridian (0°, Greenwich). It crosses UK, France, Spain, Algeria, Mali, Burkina-Faso, Togo, Ghana; not Niger, Nigeria or Portugal.",
+  "hi": [
+   "Prime Meridian (प्रधान मध्याह्न रेखा)"
+  ]
+ },
+ "104-010": {
+  "r": "GMT time is used in Accra (Ghana), Dublin (Ireland) and Lisbon (Portugal); not in Madrid (Spain)."
+ },
+ "104-011": {
+  "r": "London, Lisbon and Accra share GMT; Addis Ababa (Ethiopia) is the odd one: its standard time is 3 hours ahead of GMT."
+ },
+ "104-012": {
+  "r": "Ahead to behind GMT: Japan +9, Iraq +3, Greece +2, Cuba –5, Costa Rica –6 hours (order 5, 3, 2, 1, 4)."
+ },
+ "104-013": {
+  "r": "Noon on the IST meridian, 6 a.m. tea elsewhere → 6 hours = 90° west of IST → the place is at 7°30' W."
+ },
+ "104-014": {
+  "r": "Telegram sent at noon from Greenwich, 12 minutes in transit, arrives 6 p.m. → 348 minutes of time gap ÷ 4 = 87° E."
+ },
+ "104-015": {
+  "r": "International Date Line → runs through the Pacific Ocean, opposite Greenwich; separates two calendar days and bends where land falls in its way.",
+  "hi": [
+   "International Date Line (अंतर्राष्ट्रीय तिथि रेखा)"
+  ]
+ },
+ "104-016": {
+  "r": "Date Line lies on the meridian opposite Greenwich → 12 hours (720 minutes) time gap from Greenwich: A and R both true, R explains A."
+ },
+ "104-017": {
+  "r": "No 'minimum distance' between two places → along the International Date Line, because it is bent (turned at 8 places, e.g. near Alaska)."
+ },
+ "104-018": {
+  "r": "Rotation reversed → IST = GMT – 5:30. Noon at the Date Line = midnight GMT, so IST = 6:30 p.m. (18.30 hrs).",
+  "c": "The book prints (a) 06.30 hrs, but its own working gives 6:30 pm, which is option (c) 18.30 hrs."
+ },
+ "104-019": {
+  "r": "Strait nearest the International Date Line → Bering Strait; Malacca, Florida and Gibraltar straits lie far from it."
+ },
+ "104-020": {
+  "r": "Ship crossing the 180 meridian (Aleutians to Dutch Harbour) at 23:30, 1 January 1999 → logs 00:30, 2 January: the Date Line bends around them, so no date change."
+ },
+ "104-021": {
+  "r": "Ship sailing west at Earth's rotation speed, 10:00 Monday at 90° W → still 10:00 Monday on reaching the Date Line; 10:00 Tuesday after crossing it."
+ },
+ "104-022": {
+  "r": "Anadyr (Siberia) and Nome (Alaska), about 800 km apart across the Date Line → breakfasts fall on different days; Nome is same day or behind, never ahead. Only I correct."
+ },
+ "104-023": {
+  "r": "Least-time route for a ship between two places → along the Meridian (book's answer; not sea currents or sea-breeze)."
+ },
+ "104-024": {
+  "r": "Local time 6:00 AM when GMT is 3:00 AM → 3 hours ahead → 15 × 3 = 45° East.",
+  "h": "1 hour = 15° of longitude; 1° = 4 minutes; east is ahead, west is behind."
+ },
+ "104-025": {
+  "r": "Thimphu (Bhutan, 90° E) when Greenwich is 12 noon → 90 × 4 = 360 minutes = 6 hours ahead → 6:00 p.m."
+ },
+ "104-026": {
+  "r": "Standard time is man-made (e.g. India uses the 82½° E line), not a natural unit; tropical year, lunar month and day are natural units of time."
+ },
+ "104-027": {
+  "r": "More than four time zones (with dependencies) → UK 9, Denmark 6 (with Greenland, Faroe), New Zealand 5, Australia 9; Brazil only four. So four countries."
+ },
+ "105-001": {
+  "r": "Equator length → about 40,000 km (40090 km); 78.7% of it passes over water, 21.3% over land."
+ },
+ "105-002": {
+  "r": "Equator's 13 countries: Brazil, Colombia, Ecuador, Gabon, both Congos, Sao Tome, Uganda, Kenya, Somalia, Maldives, Indonesia, Kiribati. Not: Mexico, Venezuela, Brunei, Rwanda, Equatorial Guinea.",
+  "t": "Don't be misled by the name: the Equator does not pass through Equatorial Guinea.",
+  "hi": [
+   "Equator (विषुवत रेखा)"
+  ]
+ },
+ "105-008": {
+  "r": "Minimum annual range of temperature → at the Equator (Sun's rays almost vertical all year; no winter season).",
+  "hi": [
+   "Annual range of temperature (वार्षिक तापांतर)"
+  ]
+ },
+ "105-009": {
+  "r": "City nearest the Equator → Singapore (about 1°21' N, only 137 km away); Colombo, Jakarta and Manila lie farther."
+ },
+ "105-010": {
+  "r": "Equator, Tropic of Cancer and Tropic of Capricorn all pass through Africa; South America has only the Equator and Tropic of Capricorn."
+ },
+ "105-011": {
+  "r": "Intertropical Convergence Zone (ITCZ) → a low-pressure zone at the Equator.",
+  "hi": [
+   "Intertropical Convergence Zone (अंतर-उष्णकटिबंधीय अभिसरण क्षेत्र)"
+  ]
+ },
+ "106-001": {
+  "r": "Winter solstice (about 22 December): Sun overhead at the Tropic of Capricorn; noon Sun's altitude at the Tropic of Cancer = 43.0° (the tropics are 47° apart)."
+ },
+ "106-002": {
+  "r": "Tropic of Cancer does not pass through Iran. It crosses Mexico, Bahamas, Western Sahara, Mauritania, Mali, Algeria, Niger, Libya, Egypt, Saudi Arabia, UAE, Oman, India, Bangladesh, Myanmar, China, Taiwan."
+ },
+ "107-001": {
+  "r": "Both statements false: day and night come from Earth's rotation; seasons come from the tilt of Earth's axis.",
+  "hi": [
+   "Rotation (घूर्णन)"
+  ]
+ },
+ "107-002": {
+  "r": "Tropic of Capricorn crosses Brazil, Paraguay, Argentina, Chile, Namibia, Botswana, South Africa, Mozambique, Madagascar, Australia (also French Polynesia, Tonga); not Bolivia."
+ },
+ "107-004": {
+  "r": "Sun overhead at the Tropic of Capricorn (winter) → North-West India gets colder than the Arabian Sea → high pressure over North-West India."
+ },
+ "108-001": {
+  "r": "Equal day and night → equinoxes: 20/21 March and 22/23 September, when the Sun is overhead at the Equator.",
+  "hi": [
+   "Equinox (विषुव)"
+  ]
+ },
+ "108-003": {
+  "r": "Day and night equal (12 hours each) throughout the year → at the Equator."
+ },
+ "108-004": {
+  "r": "At the summer solstice (June) the day is still about 12 hours at the Equator; Northern Hemisphere has its longest day, Southern its shortest."
+ },
+ "108-005": {
+  "r": "Longest day in the Northern Hemisphere → second half of June (20 or 21 June); in the Southern Hemisphere, second half of December."
+ },
+ "108-006": {
+  "r": "Northern Hemisphere: shortest day 21/22 December (winter solstice), longest 20/21 June (summer solstice). Southern Hemisphere: the reverse, longest day 21/22 December.",
+  "hi": [
+   "Solstice (अयनांत)"
+  ]
+ },
+ "108-010": {
+  "r": "Smallest noon shadow → 21 June (summer solstice), when the Sun is vertically overhead at the Tropic of Cancer."
+ },
+ "108-012": {
+  "r": "21 June (summer solstice) → the Sun does not set at the Arctic Circle; the Sun is overhead at the Equator only at the equinoxes."
+ },
+ "108-013": {
+  "r": "21 June → over 12 hours of sunlight at the Tropic of Cancer and the Arctic Circle (Northern Hemisphere); the Southern Hemisphere has winter with longer nights."
+ },
+ "108-014": {
+  "r": "Earth's axis is shifting (I), explained by melting polar ice moving water toward the Equator (III). Solar flares/CMEs (II) are true but affect only the upper atmosphere."
+ },
+ "109-001": {
+  "r": "Gas and dust (interstellar dust) hypothesis of Earth's origin → Otto Schmidt. Tidal → James Jeans, Harold Jeffreys. Nova → F. Hoyle, Littleton."
+ },
+ "109-002": {
+  "r": "Age of the Earth → found by the uranium dating method."
+ },
+ "110-001": {
+  "r": "'Great Ice Age' → Pleistocene Epoch, from about 2 million to about ten thousand years ago.",
+  "hi": [
+   "Ice Age (हिमयुग)"
+  ]
+ },
+ "110-002": {
+  "r": "Little Ice Age → about 1300 to 1870 A.D. (option 1650–1870 A.D.); Europe and North America had much colder winters than in the 20th century."
+ },
+ "110-003": {
+  "r": "Dinosaurs → Jurassic Period (20.8 to 14.4 crore years ago), the 'Age of Dinosaurs'; option: eighteen crore years ago. Remains at Raiyali (Gujarat), Jabalpur (M.P.)."
+ },
+ "110-004": {
+  "r": "Continents drifted apart → tectonic activities: continents rest on tectonic plates that keep moving."
+ },
+ "110-005": {
+  "r": "Gondwana Land (southern part of Pangaea) → South America, Africa, Madagascar, Australia, Antarctica, Arabian Peninsula, Peninsular India; not North America."
+ },
+ "110-007": {
+  "r": "Pangaea (Carboniferous, ringed by ocean Panthalassa) split → Laurasia (north) and Gondwanaland (south: South America, Africa, Australia, Antarctica, Madagascar, Arabia, Peninsular India)."
+ },
+ "110-008": {
+  "r": "Cocos Plate → lies between Central America and the Pacific Plate."
+ },
+ "110-009": {
+  "r": "Earth's original single landmass → Pangaea, a supercontinent (not Panthalassa, Laurasia or Gondwanaland)."
+ },
+ "110-010": {
+  "r": "First fossil evidence of life → about 3.5 billion years ago (Archean Eon); no option fits, so the book gives no single answer (*)."
+ },
+ "110-011": {
+  "r": "Evolution of organisms was influenced by both continental drift and glacial cycles (Savindra Singh, 'Bhautik Bhugol Ka Swarup')."
+ },
+ "110-012": {
+  "r": "Plate tectonics → crust pieces move slowly, driven by the mantle. Seven major plates: Eurasian, African, Indo-Australian, Pacific, North American, South American, Antarctic.",
+  "hi": [
+   "Plate tectonics (प्लेट विवर्तनिकी)"
+  ]
+ },
+ "110-013": {
+  "r": "Continental drift evidence (all three): matching ancient rocks (about 2,000 million years) of Brazil and West Africa; Ghana gold from Brazil plateau rocks; Gondwana sediments on six southern landmasses."
+ },
+ "110-014": {
+  "r": "New crust is added by seafloor spreading; old crust is destroyed by subduction; the two balance, so Earth's size stays the same."
+ },
+ "110-015": {
+  "r": "Folding (mountain building) → orogenic force, from interaction of tectonic plates.",
+  "hi": [
+   "Orogenic force (पर्वत निर्माणकारी बल)"
+  ]
+ },
+ "110-016": {
+  "r": "Diastrophism → slow or sudden movements of the crust by internal forces (e.g. earthquakes); heterogenic processes do not come under it.",
+  "c": "The book gives no single answer (*), though its own explanation names heterogenic processes, option (b), as outside diastrophism."
+ },
+ "110-017": {
+  "r": "Dynamic changes on Earth's surface → all six: electromagnetic radiation, geothermal energy, gravitational force, plate movements, rotation and revolution of the Earth."
+ },
+ "110-018": {
+  "r": "Chronological order: Sihawal (Lower Palaeolithic) → Patpara (Middle Palaeolithic) → Baghor (Upper Palaeolithic) → Khetaunhi (Neolithic, Microlithic). Code 4, 1, 3, 2.",
+  "h": "S-P-B-K: 'Some People Build Kingdoms'."
+ },
+ "110-019": {
+  "r": "Order of origin: shelled animals (Cambrian) → first insects → first reptiles → first mammals, i.e. 3 2 1 4 (option c). The book's own order differs.",
+  "c": "The standard order is shelled animals → first insects → first reptiles → first mammals, i.e. option (c) 3 2 1 4; the book puts shelled animals too late."
+ },
+ "110-020": {
+  "r": "Thar (Rajasthan) desert → Pleistocene and recent deposits; began forming about 70,000 years ago. Pleistocene: 2 million to 10,000 years ago (NCERT)."
+ },
+ "111-001": {
+  "r": "Igneous rock → cooling and solidification of magma/lava. Extrusive (on the surface, e.g. basalt); intrusive (inside the crust, e.g. granite).",
+  "hi": [
+   "Igneous rock (आग्नेय शैल)"
+  ]
+ },
+ "111-002": {
+  "r": "Sedimentary rocks → formed at the surface from weathered older rocks and remains; contain fossils; occur in layers (strata). All four statements true.",
+  "hi": [
+   "Sedimentary rock (अवसादी शैल)"
+  ]
+ },
+ "111-004": {
+  "r": "Sandstone is layered ('flaky') because it forms underwater (sea or low-lying areas); a sedimentary rock that changes into quartzite."
+ },
+ "111-005": {
+  "r": "Chalk → porous and permeable (II true, explains I). Clay → highly porous but least permeable, so 'clay is not at all porous' (III) is false."
+ },
+ "111-006": {
+  "r": "Igneous rocks → both crystalline and non-crystalline; made of silicate minerals; no fossils or layers; supply little water."
+ },
+ "111-007": {
+  "r": "Granite (igneous, plutonic/intrusive) does not contain fossils; conglomerate, sandstone and shale are sedimentary rocks, which contain fossils."
+ },
+ "111-008": {
+  "r": "Metamorphic rocks → formed from either igneous or sedimentary rocks by heat and pressure ('metamorphism' = change of form, Greek).",
+  "hi": [
+   "Metamorphic rock (कायांतरित शैल)"
+  ]
+ },
+ "111-009": {
+  "r": "Granite is igneous, not metamorphic. Metamorphic pairs: granite → gneiss; basalt → schist/amphibolite; shale → slate; limestone → marble; sandstone → quartzite."
+ },
+ "111-010": {
+  "r": "Odd one out → gneiss (metamorphic, usually from granite); sandstone, limestone and shale are sedimentary."
+ },
+ "111-011": {
+  "r": "Rainfall weathers rock: dissolved CO2 forms carbonic acid (carbonation, active in limestone) and dissolved oxygen causes oxidation (rust). II and III true, both explain I."
+ },
+ "112-001": {
+  "r": "Volcanic products → lava, pyroclastic debris, volcanic bombs, ash and dust, gases (nitrogen and sulphur compounds; a little chlorine, hydrogen, argon). All four listed are."
+ },
+ "112-002": {
+  "r": "Basic landform → volcanic cone (lava piled around the vent); residual mountains, monadnocks and erosional waterfalls are products of erosion."
+ },
+ "112-003": {
+  "r": "Most abundant volcanic gas → water vapour (H2O); next CO2 and SO2; also H2S, H2, CO, HCl, HF, He."
+ },
+ "112-004": {
+  "r": "Highest volcano among the options → Mount Cotopaxi (5911 m); Kilimanjaro 5881 m, Pinatubo 1486 m, Tall 311 m (Philippines)."
+ },
+ "112-005": {
+  "r": "Most volcanic eruptions → Circum-Pacific belt ('Ring of Fire'): about 75 percent of active volcanoes and most earthquakes.",
+  "hi": [
+   "Ring of Fire (अग्नि वलय)"
+  ]
+ },
+ "112-006": {
+  "r": "Molten rock inside the Earth → magma (not lava, basalt or obsidian), so 'None of the above'. Ejected magma = lava; acidic lava is viscous, basic lava fluid.",
+  "t": "Magma is inside the Earth; the same material is called lava once it comes out."
+ },
+ "112-007": {
+  "r": "Magma solidified deep below the surface → plutonic rocks (slow cooling, large crystals); hypabyssal rocks form at intermediate depth."
+ },
+ "112-008": {
+  "r": "No volcanic eruptions in the Baltic Sea (not at a plate edge); volcanoes occur at converging or diverging plate edges."
+ },
+ "112-009": {
+  "r": "Mount Etna → active volcano on the east coast of Sicily, Italy (about 3357 m)."
+ },
+ "112-010": {
+  "r": "Mount Saint Helens → active strato-volcano in Washington, USA (Pacific North West); called the 'Fujiyama of America'."
+ },
+ "112-011": {
+  "r": "Mauna Loa ('Long Mountain') → active volcano covering half of Hawaii Island, USA; first well-documented eruption in 1843."
+ }
+}

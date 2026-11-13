@@ -1,0 +1,409 @@
+{
+ "144-001": {
+  "r": "Atmosphere is heated mostly indirectly: Earth absorbs short-wave solar energy and gives out long-wave radiation, absorbed by carbon dioxide and greenhouse gases; A and R true, R explains A.",
+  "hi": [
+   "Insolation (सूर्यातप)"
+  ]
+ },
+ "144-002": {
+  "r": "Temperature falls with height because the atmosphere is heated upward from Earth's surface and upper air is less dense; upper air is not moister."
+ },
+ "144-003": {
+  "r": "Fresh snow reflects most sunlight → albedo 75-95%; Earth's average albedo 30%; sand desert 20-30%; paddy cropland 3-15%.",
+  "hi": [
+   "Albedo (एल्बिडो)"
+  ]
+ },
+ "144-004": {
+  "r": "Tropical cyclones weaken away from the sea: their energy is latent heat from condensing ocean moisture, which falls inland; both true, 2 explains 1."
+ },
+ "144-005": {
+  "r": "Albedo → reflecting power of a surface; ice has a high albedo, forests and green plains a low one."
+ },
+ "144-006": {
+  "r": "Bigger oceans have smaller annual temperature range, so the Atlantic's range exceeds the Pacific's; Northern Hemisphere's annual range exceeds the Southern's."
+ },
+ "144-007": {
+  "r": "January isotherms bend north over oceans and south over continents; Gulf Stream and North Atlantic Drift are warm, not cold, currents, so statement 2 is wrong.",
+  "hi": [
+   "Isotherm (समताप रेखा)"
+  ]
+ },
+ "144-008": {
+  "r": "January, Northern Hemisphere: isotherms bend equatorward over land and poleward over oceans, because oceans are then warmer than land; both true, II explains I."
+ },
+ "144-009": {
+  "r": "Highest temperatures are recorded near 20°N, not at the Equator. True: water vapour varies a lot in lower air; frigid zones lie between polar circles and poles."
+ },
+ "144-011": {
+  "r": "Clear nights are cooler due to radiation: Earth's heat escapes freely to space, while clouds trap it and send it back on cloudy nights."
+ },
+ "144-012": {
+  "r": "Infrared waves are largely absorbed by water vapour concentrated in the lower atmosphere; short-wave solar energy passes through the atmosphere easily."
+ },
+ "144-013": {
+  "r": "Urban heat island → city hotter than nearby rural areas, due to concrete, asphalt, little vegetation, less evapotranspiration, and heat from vehicles and industry.",
+  "hi": [
+   "Urban heat island (नगरीय ऊष्मा द्वीप)"
+  ]
+ },
+ "145-001": {
+  "r": "Only some cyclones develop an eye (true). Jet streams blow in both hemispheres, about 8-15 km up, west to east; the eye being 10°C cooler is false."
+ },
+ "145-002": {
+  "r": "In a cyclone, surface winds spiral inward to a low-pressure centre and air descends at the centre; A and R true, R explains A.",
+  "hi": [
+   "Cyclone (चक्रवात)"
+  ]
+ },
+ "145-003": {
+  "r": "Cyclone figure: area D (cold front) gets heavy, short, torrential rain with thunderstorms; ahead of the warm front (A) clouds bring steady precipitation.",
+  "hi": [
+   "Cold front (शीत वाताग्र)"
+  ]
+ },
+ "145-004": {
+  "r": "Tornadoes → small, very powerful funnel-shaped storms born from thunderstorms, most frequent in the USA; exam keys link them with the Caribbean Sea.",
+  "c": "The book calls tornadoes tropical cyclones; they are short-lived funnel storms born from thunderstorms, most common over the USA plains, not true tropical cyclones."
+ },
+ "145-006": {
+  "r": "Tornado Alley → plains of mid-USA (Mississippi plains): Texas, Oklahoma, Kansas, Nebraska, Mississippi and Missouri valleys, where polar cold air meets warm humid air."
+ },
+ "145-007": {
+  "r": "Tornado intensity → Fujita (Fujita-Pearson) scale, the F-scale, named after Ted Fujita.",
+  "t": "Don't confuse with the Saffir-Simpson scale, which rates hurricanes."
+ },
+ "145-008": {
+  "r": "Typhoons → mature tropical cyclones of the China Sea, northern hemisphere, between 100°-180°E."
+ },
+ "145-009": {
+  "r": "Tropical cyclone names: Australia → Willy-Willy (north and north-west Australia); China → Typhoon; India → Cyclone; USA → Hurricane.",
+  "hi": [
+   "Tropical cyclone (उष्णकटिबंधीय चक्रवात)"
+  ]
+ },
+ "145-011": {
+  "r": "Willy-Willy → Australia; Hurricane → USA; Typhoon → China; Baguio → Philippines."
+ },
+ "145-013": {
+  "r": "Willy-Willies → Australia; Taifu → Japan; Baguio → Philippines; Hurricanes → USA."
+ },
+ "145-014": {
+  "r": "Hurricane damage → Saffir-Simpson Scale: rates wind speed on 1-5 to estimate property damage and coastal flooding."
+ },
+ "145-015": {
+  "r": "Sudden fall of mercury in a barometer → stormy weather (a violent storm is coming)."
+ },
+ "145-016": {
+  "r": "Cyclone Nargis hit Myanmar, not India; cyclones Aila, Thane and Neelam affected India."
+ },
+ "145-017": {
+  "r": "No tropical cyclones form in the South Atlantic and south-east Pacific tropics because sea surface temperatures there are low."
+ },
+ "145-018": {
+  "r": "Global warming (IPCC) → cyclones, storms and hurricanes all grow more frequent and severe; also glacier melt, sea-level rise, worse floods and droughts."
+ },
+ "145-019": {
+  "r": "2019 storms: Dorian → Bahamas; Hagibis → Japan; Lekima → China; Mitag → Jeju, South Korea."
+ },
+ "146-001": {
+  "r": "Air moisture falls with latitude (tropics 2.6%, down to 0.2% at high latitudes) because warmer air holds more water vapour; A and R true, R explains A."
+ },
+ "146-002": {
+  "r": "Humid summer heat → muggy weather. Absolute humidity = weight of water vapour per unit volume of air.",
+  "hi": [
+   "Humidity (आर्द्रता)"
+  ]
+ },
+ "146-003": {
+  "r": "Humidity → presence of moisture (water vapour) in the air."
+ },
+ "146-004": {
+  "r": "No dew on cloudy nights: clouds reflect Earth's radiation back, so surfaces do not cool below dew point. Dew → condensation on surfaces colder than dew point."
+ },
+ "147-001": {
+  "r": "Sub-polar low-pressure belt lies at 60°-65° latitude in both hemispheres; low-pressure areas are steadier over oceans; both true, but R does not explain A."
+ },
+ "147-002": {
+  "r": "Horse latitudes → about 30°-35° N and S: the subtropical high-pressure belts, where rising equatorial air, deflected poleward, sinks.",
+  "hi": [
+   "Horse latitudes (अश्व अक्षांश)"
+  ]
+ },
+ "147-004": {
+  "r": "Air pressure is lowest in summer: pressure is inversely related to temperature. Pressure also falls with altitude."
+ },
+ "148-001": {
+  "r": "Clouds → condensation of water vapour into tiny water droplets or ice crystals.",
+  "hi": [
+   "Condensation (संघनन)"
+  ]
+ },
+ "148-002": {
+  "r": "Cumulonimbus → dense clouds giving heavy, short-lived rain, hail and thunderstorms.",
+  "hi": [
+   "Cumulonimbus (कपासी वर्षा मेघ)"
+  ]
+ },
+ "148-003": {
+  "r": "Highest clouds among options → cirrostratus, formed above about 18000 feet."
+ },
+ "148-004": {
+  "r": "Thunderclouds develop from condensation, high temperature and humidity, and strong vertical (upward) winds; orography is not among the key's causes."
+ },
+ "148-005": {
+  "r": "Thunder → sound of lightning: lightning heats the air in its channel, which expands supersonically as a shockwave; none of the listed causes is right."
+ },
+ "148-006": {
+  "r": "Cirrus cloud thinning and stratospheric sulphate aerosol injection → climate-engineering ideas for reducing global warming."
+ },
+ "148-007": {
+  "r": "No dew on cloudy nights: clouds reflect Earth's radiation back, keeping the surface warm. Dew needs clear sky, calm air, high humidity, long cool nights."
+ },
+ "149-001": {
+  "r": "Coriolis force → increases with wind speed; maximum at the poles, absent at the Equator; deflects winds right in the north, left in the south.",
+  "hi": [
+   "Coriolis force (कोरिऑलिस बल)"
+  ]
+ },
+ "149-002": {
+  "r": "Tropics: trade winds (east to west) make western parts of oceans warmer; temperate zone: westerlies make eastern parts warmer. Both true.",
+  "h": "Wind pushes warm water to the side it blows towards."
+ },
+ "149-003": {
+  "r": "Coriolis effect deflects winds right (clockwise) in the Northern and left (anti-clockwise) in the Southern Hemisphere; A and R true. The reversed assertion is false."
+ },
+ "149-005": {
+  "r": "Winds deflect left in the Southern Hemisphere due to the Coriolis force (Ferrel's law: right in the north, left in the south)."
+ },
+ "149-006": {
+  "r": "Southern Hemisphere westerlies are stronger and steadier because it has less landmass; the Coriolis force is not higher there."
+ },
+ "149-007": {
+  "r": "Coriolis force balanced by pressure-gradient force → geostrophic winds, blowing parallel to isobars aloft. Roaring forties etc. → Southern Hemisphere westerlies.",
+  "hi": [
+   "Geostrophic wind (भूविक्षेपी पवन)"
+  ]
+ },
+ "149-009": {
+  "r": "Roaring forties, furious fifties, shrieking sixties → Southern Hemisphere westerlies, named for their intensity.",
+  "h": "Forties roar, fifties rage, sixties shriek: wilder towards the South Pole."
+ },
+ "149-010": {
+  "r": "Roaring Forties → strong, constant westerlies of the Southern Hemisphere (40-60 degrees south), north-west to east, with overcast skies, rain, raw weather; not in the north."
+ },
+ "149-013": {
+  "r": "Winds deflect left in the Southern Hemisphere because of the Coriolis force, which arises from Earth's rotation."
+ },
+ "149-014": {
+  "r": "The Mediterranean lies in the subtropical high-pressure belt: trade winds blow there in summer and westerlies (anti-trades) in winter.",
+  "c": "The book gives no single answer (*): both trade winds and westerlies blow from these latitudes."
+ },
+ "149-015": {
+  "r": "Seasonal reversal of winds → monsoon climate: winds blow sea to land in summer and land to sea in winter.",
+  "hi": [
+   "Monsoon (मानसून)"
+  ]
+ },
+ "149-016": {
+  "r": "Chinook ('snow-eater') → warm wind down the eastern Rockies in winter and early spring; quickly raises winter temperature, melts snow, frees pasture."
+ },
+ "150-001": {
+  "r": "Foehn → Alps (Switzerland); Simoom → Arabia and Kurdistan deserts; Santa Ana → southern California; Zonda → Argentina (east Andes).",
+  "hi": [
+   "Local wind (स्थानीय पवन)"
+  ]
+ },
+ "150-003": {
+  "r": "Wrong: Bora → cold dry wind of the eastern Adriatic coast (affects northern Italy), not Poland. Foehn → Alps; Khamsin → Egypt.",
+  "c": "The Mistral blows down the Rhône valley in France, not the Rhine; unless 'Rhine' is a misprint for Rhône, (c) is also a wrong pair alongside (b)."
+ },
+ "150-004": {
+  "r": "Wrong: Blizzard (strong snowstorm) → South Pole, Siberia, Canada etc., not Chile. Correct: Chinook → USA; Sirocco → Sicily; Norwesters → India."
+ },
+ "150-005": {
+  "r": "Blood rain → Italy: the Sirocco from the Sahara carries red sand, which falls with raindrops."
+ },
+ "150-006": {
+  "r": "Wrong: Sirocco is not France's; it carries Saharan dust from Libya to Malta, Italy, Croatia, Greece etc. Correct: Bora → Italy; Blizzard → Canada."
+ },
+ "150-007": {
+  "r": "Chinook ('snow eater') → warm dry wind down the eastern Rockies (Colorado to British Columbia); raises winter temperature, melts snow, frees pasture for cattle."
+ },
+ "150-008": {
+  "r": "Wrong: Mistral → France and Spain, not Australia. Correct: Santa Ana → California; Haboob → Sudan; Yamo → Japan."
+ },
+ "150-009": {
+  "r": "Wrong: Shamal → hot dry dusty wind of Iraq, Iran and Arabian Peninsula (June-August), not Austria. Correct: Leveche → Spain; Brickfielder → Australia; Black roller → North America."
+ },
+ "150-010": {
+  "r": "Harmattan → cool, dry north-east/east wind blowing west across the Sahara; called 'Doctor Wind' for its invigorating dryness."
+ },
+ "151-001": {
+  "r": "Selva → broad-leaf evergreen equatorial forests of the Amazon basin (Brazil); high temperature and rainfall above 200 cm all year.",
+  "hi": [
+   "Evergreen forest (सदाबहार वन)"
+  ]
+ },
+ "151-002": {
+  "r": "Selvas → Brazil's equatorial rainforests (true). Terra Roxa → fertile dark-purple soil from limestone and dolomite in south and south-east Brazil, not 'dark black'."
+ },
+ "151-003": {
+  "r": "Altitude 400 m, maximum 28-31°C and minimum 20-21°C all year, rain every month → tropical rain forest."
+ },
+ "151-004": {
+  "r": "Largest share of world forest area → temperate coniferous forests, mainly in high latitudes."
+ },
+ "151-005": {
+  "r": "Bhutan's constitution requires 60% of its area under forest; forest cover is now (2025) 70.13%."
+ },
+ "151-006": {
+  "r": "Evergreen rainforests → near the Equator, hot with rain all year and no dry season: Amazon basin (Brazil), Congo Basin etc."
+ },
+ "151-010": {
+  "r": "Taiga (coniferous or boreal forest) → temperate region; northernmost temperate biome across North America and Eurasia; short summers.",
+  "hi": [
+   "Coniferous forest (शंकुधारी वन)"
+  ]
+ },
+ "151-011": {
+  "r": "Largest and densest forest → Amazon basin rainforest (Brazil); the basin covers 60% of South America."
+ },
+ "151-012": {
+  "r": "Forest share of land (World Bank 2023): Japan 68.4% > Indonesia 47.7% > India 24.5% > China 24.0%."
+ },
+ "151-013": {
+  "r": "Coniferous forests (50°-60°N, between tundra and deciduous forest) → Canada, Scandinavia, Finland; not Amazonia, which has tropical evergreen forest."
+ },
+ "151-014": {
+  "r": "Coniferous forests → mainly in temperate regions."
+ },
+ "151-015": {
+  "r": "Dense, hot, humid forests in Africa → Ivory Coast, on the Gulf of Guinea coast."
+ },
+ "151-016": {
+  "r": "Cleared tropical rainforest does not give lasting farmland, temperate forest does (A false); rainforest primary productivity is very high, 2200 g/m²/year (R true)."
+ },
+ "151-017": {
+  "r": "Tropical rainforest regenerates slowly after clearing because its soil is poor in nutrients."
+ },
+ "151-018": {
+  "r": "Rainforest soil is poor in nutrients (Statement I false); heat and moisture decompose dead matter quickly (Statement II true).",
+  "t": "Don't confuse rich vegetation with rich soil."
+ },
+ "151-019": {
+  "r": "Cedar → Canada; Douglas Fir → Mexico; Mahogany → Honduras; Teak → Myanmar."
+ },
+ "151-020": {
+  "r": "Monsoon forest → teak, sal; Equatorial → mahogany, rosewood; Mediterranean → plum, olive; Coniferous → pine, spruce."
+ },
+ "151-021": {
+  "r": "Softwood and wood pulp → Canada led when asked; FAO 2025 yearbook: USA now tops wood pulp (2023), then Brazil and China."
+ },
+ "151-022": {
+  "r": "Largest fuelwood producer → India (FAO 2025 yearbook, data 2023), then China, then Brazil."
+ },
+ "151-023": {
+  "r": "Dalbergia → rosewood genus (Sheesham, kingwood, tulipwood); trees of the Americas, Africa, Madagascar and tropical South Asia.",
+  "hi": [
+   "Rosewood (शीशम)"
+  ]
+ },
+ "151-024": {
+  "r": "Desert plants cut water loss with hard waxy leaves, tiny leaves and thorns instead of leaves; also long roots and thick bark.",
+  "hi": [
+   "Xerophyte (मरुद्भिद)"
+  ]
+ },
+ "151-025": {
+  "r": "Maquis → Mediterranean coast; Fynbos → South Africa; Chaparral → California; Matorral → Chile."
+ },
+ "151-026": {
+  "r": "Epiphytes → Equatorial; Acacia → Sahara; Baobab → Savanna; Cedars → Mediterranean."
+ },
+ "151-027": {
+  "r": "Fast leaf-litter decay, bare soil surface, climbers and epiphytes reaching the canopy → tropical rain forest.",
+  "hi": [
+   "Epiphyte (अधिपादप)"
+  ]
+ },
+ "151-028": {
+  "r": "Highest deforestation → tropical forest zone; forests covered about 4.1 billion ha (31%) of land in 2020, largest share tropical (SOFO 2024)."
+ },
+ "151-029": {
+  "r": "Mahua and Teak → deciduous; Jackfruit → evergreen (about 25 m tall, yields latex). So only two are deciduous."
+ },
+ "151-030": {
+  "r": "World's largest tropical peatland → Congo Basin; its peat swamp forests store about 29 billion tonnes of carbon, about three years of global emissions."
+ },
+ "151-031": {
+  "r": "Forests control the hydrological cycle: canopy intercepts rain, high transpiration, deep roots lift soil water, rich soils hold water and recharge groundwater.",
+  "hi": [
+   "Hydrological cycle (जल चक्र)"
+  ]
+ },
+ "152-001": {
+  "r": "Seasonal change in day and night length comes from Earth's revolution around the Sun on a tilted axis; without the tilt, days and nights would be equal everywhere.",
+  "c": "The book keys '2 and 4'; the cause is revolution with a tilted axis (statement 4). The elliptical shape of the orbit (statement 2) is not the reason."
+ },
+ "152-002": {
+  "r": "Continental interiors have a high annual temperature range due to the land-water thermal difference: land heats and cools fast, water slowly."
+ },
+ "152-003": {
+  "r": "Main factor deciding the climate of an area → latitude; major climate belts follow latitudes."
+ },
+ "152-004": {
+  "r": "Largest share of Earth's surface → arid regions, about one-third."
+ },
+ "152-005": {
+  "r": "Equatorial belt → high heat and rain all year; high temperature and humidity give convectional rain, mostly after noon; A and R true, R explains A."
+ },
+ "152-007": {
+  "r": "Asia → has all climate types (tropical, temperate, cold), as it stretches from the equatorial region to the North Pole."
+ },
+ "152-008": {
+  "r": "Ethiopia → not equatorial climate; Congo, Gabon and Zaire (DR Congo) lie on the Equator."
+ },
+ "152-009": {
+  "r": "Warm dry summers, mild wet winters and evergreen oak trees → Mediterranean region."
+ },
+ "152-010": {
+  "r": "Tropical savannah → a definite dry and wet season, high temperatures all year, rainfall 500-2000 mm.",
+  "hi": [
+   "Savannah (सवाना)"
+  ]
+ },
+ "152-011": {
+  "r": "Equatorial regions suit plants (evergreen forests), not humans (humid, disease-prone); low annual temperature range is true but not the reason."
+ },
+ "152-012": {
+  "r": "Mediterranean climate → west sides of continents: Rome, Los Angeles (south California), central Chile, Cape Town, south Australia; not New York (east coast USA)."
+ },
+ "152-013": {
+  "r": "Mediterranean climate: winter rain and dry summer under offshore (terrestrial) trade winds; both true, but the real cause is the seasonal shift of pressure and wind belts."
+ },
+ "152-014": {
+  "r": "Mediterranean climate → rain in winter, dry summers; at winter solstice the pressure belts shift south. Both true; climate comes from seasonal belt shifts."
+ },
+ "152-015": {
+  "r": "Extreme climate, scanty rain, nomadic herders → Central Asian Steppe."
+ },
+ "152-016": {
+  "r": "Correct: Equatorial zone → convectional rain with thunder around noon. Mediterranean → winter rain; monsoon → rain from monsoon winds; deserts → negligible rain."
+ },
+ "152-017": {
+  "r": "Map area 1 (California) → Mediterranean climate: hot dry summer, mild moist winter, seasonal reversal of winds."
+ },
+ "152-018": {
+  "r": "Norway → West European climate with ample rain all year, including winter; China-type climate has a relatively dry winter."
+ },
+ "152-019": {
+  "r": "Wet winter, dry summer → Italy (Mediterranean). Sudan → tropical, desert parts very dry; Iran → hot, dry; northern Chile → hot, dry desert."
+ },
+ "152-020": {
+  "r": "California → Mediterranean; West Australia → Hot Desert; Bangladesh → Tropical Monsoon; Siberia → Cold Temperate."
+ },
+ "152-021": {
+  "r": "Equatorial → Congo; Mediterranean → California; Monsoon → Bangladesh; Savannah → Sudan."
+ }
+}

@@ -1,513 +1,589 @@
 {
-  "05-062": {
-    "r": "Manufacturing sector includes large, small scale, micro and medium industries; construction industry is not part of the manufacturing sector.",
-    "hi": ["Manufacturing sector (विनिर्माण क्षेत्र)"]
-  },
-  "05-063": {
-    "r": "MSME revised definition: announced in Atmanirbhar Bharat Package 13th May 2020; notified 1st June 2020; effective 1st July 2020; one composite formula for manufacturing and service units.",
-    "t": "Don't confuse notification date (1st June 2020) with the date it came into effect (1st July 2020).",
-    "hi": ["Micro, Small and Medium Enterprises (सूक्ष्म, लघु एवं मध्यम उद्यम)"]
-  },
-  "05-065": {
-    "r": "1991 Policy: SSI limit Rs. 60 lakh (was 35), ancillary Rs. 75 lakh (was 45); MSMED Act 2006; micro now: investment ≤ Rs. 1 crore, turnover ≤ Rs. 5 crore.",
-    "h": "60-75: small 60, ancillary 75 in 1991.",
-    "hi": ["Ancillary unit (सहायक इकाई)"]
-  },
-  "05-070": {
-    "r": "MSMED Act 2006, old manufacturing limits (plant and machinery): micro up to Rs. 25 lakh; small Rs. 25 lakh to 5 crore; medium Rs. 5 to 10 crore.",
-    "t": "These are the old 2006 limits; the revised definition uses a composite investment-plus-turnover formula."
-  },
-  "05-074": {
-    "r": "Medium enterprise (w.e.f. 1st July 2020): investment up to Rs. 50 crore, turnover up to Rs. 250 crore (not Rs. 15-25 crore); all MSME bank loans are priority sector.",
-    "hi": ["Priority Sector Lending (प्राथमिकता क्षेत्र ऋण)"]
-  },
-  "05-075": {
-    "r": "Most registered factories → Tamil Nadu (ASI 2021-22: 39667), then Gujarat, Maharashtra, Uttar Pradesh, Andhra Pradesh."
-  },
-  "05-076": {
-    "r": "SSIs get preference and reservation because they give higher employment per unit of capital and promote regional dispersion of industries.",
-    "hi": ["Small-scale industries (लघु उद्योग)"]
-  },
-  "05-077": {
-    "r": "Small scale and cottage industries are encouraged in India mainly because they generate large employment opportunities.",
-    "hi": ["Cottage industry (कुटीर उद्योग)"]
-  },
-  "05-078": {
-    "r": "Small scale and cottage industries are important because they provide more employment."
-  },
-  "05-079": {
-    "r": "Most important small scale industry of India → Handloom (unorganised sector); fourth Handloom Census 2019-20: about 35.23 lakh workers.",
-    "hi": ["Handloom (हथकरघा)"]
-  },
-  "05-080": {
-    "r": "Largest industry of Uttar Pradesh by employment → Handloom (not cotton mills, leather or cement)."
-  },
-  "05-081": {
-    "r": "SSI problems: lack of capital, marketing experience and raw material; also old technology, power shortage, labour problems and industrial sickness."
-  },
-  "05-082": {
-    "r": "Strikes and lockouts are a problem of large scale industries, not SSIs; SSIs face finance (working capital), marketing and raw material problems.",
-    "hi": ["Lockout (तालाबंदी)"]
-  },
-  "05-083": {
-    "r": "SSI committees in order: Karve 1955 → Nayak 1991 → Abid Hussain 1995 → S.S. Kohli 2000 (order IV, I, II, III).",
-    "h": "K-N-A-K: Karve, Nayak, Abid, Kohli.",
-    "c": "Correct order IV, I, II, III is in no option; book says UPPSC key's option (c) is wrong."
-  },
-  "05-084": {
-    "r": "Nayak Committee (RBI, 9 December 1991, P.R. Nayak) → finance problems of small scale industries; report September 1992.",
-    "t": "Don't confuse with P.J. Nayak Committee (RBI, January 2014) on governance of bank boards."
-  },
-  "05-085": {
-    "r": "Abid Hussain Committee (Expert Committee on Small Enterprises, 1995) → total abolition of reservation of items for small scale industries; report 1997.",
-    "hi": ["Reservation of items (वस्तुओं का आरक्षण)"]
-  },
-  "05-087": {
-    "r": "Small scale sector's share in manufacturing gross turnover (since 1992) → about 40%; MSME share in manufacturing GVA 40.83% in 2021-22."
-  },
-  "05-088": {
-    "r": "Cotton textile → high growth in cooperative units (14.8% yearly growth, 1999-2000 to 2005-06)."
-  },
-  "05-089": {
-    "r": "Textile industry → largest employer after agriculture: about 45 million direct and 60 million indirect jobs.",
-    "hi": ["Textile industry (वस्त्र उद्योग)"]
-  },
-  "05-091": {
-    "r": "Largest quantity of cotton textile in India is produced by the powerloom sector (not mill, handloom or hosiery).",
-    "hi": ["Powerloom (विद्युत करघा)"]
-  },
-  "05-092": {
-    "r": "Largest textile centre in India (among Ahmedabad, Kanpur, Mumbai, Surat) → Mumbai."
-  },
-  "05-093": {
-    "r": "Most cotton textile mills → Tamil Nadu (then Maharashtra, Andhra Pradesh); Tamil Nadu has almost half of India's cotton spinning capacity.",
-    "t": "Most mills = Tamil Nadu; most mill-made cotton cloth = Gujarat."
-  },
-  "05-094": {
-    "r": "Highest mill-made cotton cloth production → Gujarat (2016-17), then Maharashtra and Madhya Pradesh."
-  },
-  "05-095": {
-    "r": "Oldest large scale industry of India → cotton textiles; first cotton mill set up in 1818 at Fort Gloster near Kolkata."
-  },
-  "05-096": {
-    "r": "First industry to develop in India → cottage industry (since ancient times; declined under British rule)."
-  },
-  "05-097": {
-    "r": "Iron and steel → most basic industry of modern civilisation; backbone of the modern industrial economy.",
-    "hi": ["Iron and steel (लौह एवं इस्पात)"]
-  },
-  "05-098": {
-    "r": "Nepanagar (Burhanpur, Madhya Pradesh) → newsprint paper; Nepa Mills pioneered newsprint in India, production from April 1956."
-  },
-  "05-099": {
-    "r": "Paper industry centres: Yamunanagar (Haryana), Guwahati (Assam), Ballarpur (Maharashtra); Shahabad is not known for paper."
-  },
-  "05-100": {
-    "r": "Hazira (Surat, Gujarat) KRIBHCO fertilizer complex → based on natural gas.",
-    "hi": ["Fertilizer (उर्वरक)"]
-  },
-  "05-101": {
-    "r": "India not self-reliant in fertilizers: urea above 85%, phosphatic above 50% self-sufficient, potash fully imported; India is second in nitrogenous fertilizers; fertilizer is second industry after iron and steel.",
-    "t": "At question time only (c) was wrong; by present data (b) 'third largest in nitrogen' is also wrong (India is second)."
-  },
-  "05-102": {
-    "r": "Unused natural gas → best used for fertilizers; natural gas is main feedstock for ammonia (Haber process)."
-  },
-  "05-103": {
-    "r": "ONGC → set up 14 August 1956 as a Commission; statutory body October 1959; became Corporation in 1994.",
-    "t": "Don't confuse 1956 (set up) with 1959 (statutory body by Act)."
-  },
-  "05-104": {
-    "r": "Oil India Limited (OIL) → exploration, development and production of crude oil and natural gas (not import or marketing)."
-  },
-  "05-105": {
-    "r": "MMTC → largest non-oil importer; PEC Ltd (STC subsidiary, 1971) → Ministry of Commerce & Industry; enforcing quality control is not an ECGC objective."
-  },
-  "05-106": {
-    "r": "MMTC → India's largest international trading organisation and government trading company; Neelachal Ispat Nigam (1982, Kalinga Nagar, Odisha) promoted by MMTC with Odisha government (IPICOL)."
-  },
-  "05-108": {
-    "r": "Public sector functions: provide public utilities, build social and economic overhead capital, ensure balanced regional and sectoral growth, pursue egalitarian goals.",
-    "hi": ["Public sector (सार्वजनिक क्षेत्र)"]
-  },
-  "05-109": {
-    "r": "Public sector in India has basic and heavy industries and secure jobs; not all its industries are profit-oriented."
-  },
-  "05-110": {
-    "r": "Public sector employment growth became sluggish because the NEP 1991 reassessed the State's role in development (A and R true; R explains A)."
-  },
-  "05-111": {
-    "r": "Public sector is most dominant in commercial banking in India (among steel, term-lending institutions and transport)."
-  },
-  "05-112": {
-    "r": "TISCO (Tata Steel, Jamshedpur, 1907) → private sector; NTPC, SAIL and BHEL → Maharatna CPSEs.",
-    "hi": ["Maharatna (महारत्न)"]
-  },
-  "05-113": {
-    "r": "Not a public enterprise → Leather Factory, Gwalior; BHEL Bhopal, Ordnance Factory Jabalpur and Alkaloid Factory Neemuch are public enterprises."
-  },
-  "05-114": {
-    "r": "Odd one out → Essar Oil (private; now Nayara Energy); SAIL, BHEL and ONGC are public sector undertakings."
-  },
-  "05-115": {
-    "r": "Government holding in BPCL → between 50% and 60% (present 52.98%; it was 66.2% in the question period).",
-    "c": "At question time holding was 66.2% (option b); book's answer (c) fits only present data."
-  },
-  "05-116": {
-    "r": "Balmer Lawrie (Ministry of Petroleum) and EdCIL (Ministry of Education) → Miniratna-I PSUs; Dredging Corporation (1976) handed to 4 major ports in 2018, so now only 1 and 3.",
-    "hi": ["Public sector undertaking (सार्वजनिक क्षेत्र उपक्रम)"]
-  },
-  "05-117": {
-    "r": "Private sector refinery now → Essar Oil (Nayara Energy); Bongaigaon, Haldia and Mangalore (MRPL, ONGC subsidiary since March 2003) are public sector.",
-    "c": "Answer not printed; book says option (c) 2 and 4 fit the question period, but now only Essar Oil is private."
-  },
-  "05-118": {
-    "r": "Digboi, Barauni, Noonmati and Mathura refineries → all public sector; India has 23 refineries: 19 public, 3 private, 1 joint venture.",
-    "c": "No option is correct: all four refineries are in the public sector."
-  },
-  "05-119": {
-    "r": "HAL (Bengaluru) → aircraft; founded 23 December 1940 as Hindustan Aircraft Ltd by Walchand Hirachand; management passed to Government of India in 1947."
-  },
-  "05-120": {
-    "r": "Electricity generation → NHPC (erstwhile National Hydroelectric Corporation), Miniratna Category-I CPSE and India's largest hydropower organisation."
-  },
-  "05-121": {
-    "r": "Tourism and hotel industry development → ITDC (India Tourism Development Corporation, October 1966); Government holds 87.03%."
-  },
-  "05-122": {
-    "r": "BSNL → formed in 2000 by corporatisation of the Department of Telecom Services."
-  },
-  "05-123": {
-    "r": "100% Government of India owned enterprise (among BSNL, NTPC, BHEL, SBI) → BSNL."
-  },
-  "05-124": {
-    "r": "Loss-making CPSE among ONGC, NTPC, IOC and BSNL → BSNL (in 2013-14 and also in 2022-23)."
-  },
-  "05-125": {
-    "r": "Top loss-making CPSEs 2014-15: BSNL, Air India, MTNL; in 2022-23 the top loss-maker was HPCL, then BSNL."
-  },
-  "05-126": {
-    "r": "GAIL (2009) planned Rs. 8000 crore, 1,100 km gas pipeline from Vijayawada (Andhra Pradesh) to Vijaipur (Madhya Pradesh)."
-  },
-  "05-127": {
-    "r": "Petrol and diesel prices → decided by oil marketing companies; market-determined from 26 June 2010 (petrol) and 19 October 2014 (diesel).",
-    "t": "Petrol was freed first (2010); diesel later (2014)."
-  },
-  "05-128": {
-    "r": "Navratna → status for selected Central Public Sector Enterprises; first given to 9 CPSEs in 1997; three categories: Maharatna, Navratna, Miniratna.",
-    "hi": ["Navratna (नवरत्न)"]
-  },
-  "05-129": {
-    "r": "Not Maharatna (February 2013) → Oil India (then Navratna; Maharatna in 2023) and BEL; Maharatna scheme 2010-11; now 13 Maharatna, 20 Navratna, 65 Miniratna.",
-    "h": "13-20-65 = Maha, Nav, Mini (as on 30 April 2024).",
-    "hi": ["Maharatna (महारत्न)"]
-  },
-  "05-133": {
-    "r": "BHEL → got Maharatna status in 2013."
-  },
-  "05-134": {
-    "r": "Maharatna companies → 10 in October 2019; 13 as on 30 April 2024."
-  },
-  "05-135": {
-    "r": "Navratna (among Coal India, BHEL, BEL, GAIL) → Bharat Electronics Ltd; other Navratnas include CONCOR, EIL, HAL, MTNL, NALCO, NBCC, NMDC."
-  },
-  "05-136": {
-    "r": "MTNL → Navratna; SAIL and GAIL → Maharatna."
-  },
-  "05-137": {
-    "r": "Not Navratna → Indian Aluminium Company (private, not a CPSE); SAIL, Power Grid and REC were Navratna then, now Maharatna.",
-    "t": "Don't confuse private Indian Aluminium Company with NALCO, the Navratna aluminium CPSE."
-  },
-  "05-138": {
-    "r": "NALCO (1981, Bhubaneswar, Ministry of Mines) → Navratna aluminium company; Government holds 51.28% (not BALCO, HINDALCO or MALCO)."
-  },
-  "05-139": {
-    "r": "Miniratna Category-I → investment autonomy up to Rs. 500 crore or net worth, whichever lower; needs three years' profit, Rs.30 crore pre-tax profit once, positive net worth.",
-    "hi": ["Miniratna (मिनीरत्न)"]
-  },
-  "05-140": {
-    "r": "Miniratna (19 September 2006) to six CPSEs: BSNL, BEML, Hindustan Latex, Engineering Projects, Rashtriya Ispat, Garden Reach; Indian Telephone Industries not included."
-  },
-  "05-141": {
-    "r": "Rajasthan policies: IT Policy → 2000; Mineral Policy → 2011; Hotel Policy → 2006; Industrial & Investment Promotion Policy → 2010."
-  },
-  "05-142": {
-    "r": "Udyami Helpline → call centre of Ministry of MSME; inaugurated 21st August 2010 by Dr. Manmohan Singh; toll-free 1800-180-6763."
-  },
-  "05-143": {
-    "r": "Madhya Pradesh Financial Corporation (1955) → headquarters at Indore; finances small and medium industries.",
-    "t": "Headquarters is Indore, not the capital Bhopal."
-  },
-  "05-144": {
-    "r": "Long-term credit to small and medium enterprises in UP → UP Small Industries Corporation, UPSIDC (now UPSIDA) and UP Financial Corporation: all of these."
-  },
-  "05-145": {
-    "r": "UP Financial Corporation (1954, under SFCs Act 1951) → does not finance tourism related industries."
-  },
-  "05-146": {
-    "r": "Udyog Bandhu (now Invest UP) → UP government society that facilitates investment and solves establishment and investment problems of industrial units."
-  },
-  "05-147": {
-    "r": "Most industrially developed region of Uttar Pradesh → Western UP (more urbanised, more workers in registered factories)."
-  },
-  "05-148": {
-    "r": "BIFR (Board for Industrial and Financial Reconstruction, Ministry of Finance) → revival or closure of sick industrial units; dissolved 1 December 2016, cases sent to NCLT/NCLAT under IBC.",
-    "hi": ["Sick industrial unit (रुग्ण औद्योगिक इकाई)"]
-  },
-  "05-149": {
-    "r": "Mega Food Parks → better infrastructure for food processing; cluster approach linking farmers, processors and retailers to cut wastage and raise farmers' income.",
-    "hi": ["Food processing (खाद्य प्रसंस्करण)"]
-  },
-  "05-151": {
-    "r": "Benefit of industrial development and foreign trade → increased competition (also more goods, higher growth, lower unemployment)."
-  },
-  "05-152": {
-    "r": "Social objective of business → employment generation (also supply of quality goods); profit earning is an economic objective."
-  },
-  "05-153": {
-    "r": "Business process re-engineering with technology: rising customer demands, IT gives competitive edge at lower cost, faster change after liberalisation → all of these."
-  },
-  "05-154": {
-    "r": "Sole trader → unlimited liability; Partnership → contractual relationship; Co-operatives → betterment of weaker sections; Public Limited Company → large number of risk bearers."
-  },
-  "05-155": {
-    "r": "Acquiring new technology → capital expenditure (buy, upgrade or extend life of assets); debt and equity financing are both capital receipts, not capital vs revenue expenditure.",
-    "hi": ["Capital expenditure (पूंजीगत व्यय)"]
-  },
-  "05-156": {
-    "r": "Venture capital → long-term start-up capital (private equity) for new entrepreneurs and small businesses with growth potential.",
-    "hi": ["Venture capital (उद्यम पूंजी)"]
-  },
-  "05-157": {
-    "r": "First Industrial Policy of free India → April 1948, by Dr. Shyama Prasad Mukherjee (Industry Minister); set a mixed economy model."
-  },
-  "05-158": {
-    "r": "Joint Sector concept → Industrial Policy Resolution 1956 (second policy, placed by Nehru, April 1956; expand public and co-operative sectors).",
-    "t": "1948 = first policy (mixed economy); 1956 = Industrial Policy Resolution; 1991 = liberalised policy."
-  },
-  "05-160": {
-    "r": "Industrial licensing policy drew strength from the Industries (Development and Regulation) Act, 1951.",
-    "hi": ["Industrial licensing (औद्योगिक लाइसेंसिंग)"]
-  },
-  "05-161": {
-    "r": "Liberal Industrial Policy adopted → 1991 (amid severe economic instability) to raise efficiency and growth."
-  },
-  "05-162": {
-    "r": "Many Indian firms got ISO 9001/9002 certification (BIS) and licensing was liberalised (24 July 1991), but liberalisation does not explain ISO certification."
-  },
-  "05-163": {
-    "r": "1991 Industrial Policy (24 July 1991, P.V. Narasimha Rao) → licence needed only for 18 industries; now only four need compulsory licensing.",
-    "h": "18 in 1991 → four today."
-  },
-  "05-164": {
-    "r": "Industries needing compulsory licence: 15 at question time (option a); now only four (environmental, safety and strategic reasons)."
-  },
-  "05-165": {
-    "r": "LPG New Economic Policy (liberalisation, privatisation, globalisation) → announced in 1991 under PM P.V. Narasimha Rao.",
-    "hi": ["Liberalisation (उदारीकरण)"]
-  },
-  "05-166": {
-    "r": "Criticisms of Industrial Policy 1991: erratic growth, threat from foreign competition, misplaced faith in foreign investment; neglect of agriculture was not one."
-  },
-  "05-167": {
-    "r": "White goods → home appliances (AC, refrigerator, washing machine) bought as conspicuous consumption items; industry delicensed in 1993."
-  },
-  "05-168": {
-    "r": "Not correct: 'IPCL is India's largest petrochemicals company' (second in 2002-03; merged with RIL in 2007); MTNL listed on NYSE November 2001."
-  },
-  "05-169": {
-    "r": "FMCG = quick-selling, low-cost non-durable goods (toiletries, dairy, bakery); automobiles (car, motorcycle) are not FMCG."
-  },
-  "05-170": {
-    "r": "Pearl fishing → Tuticorin; Automobiles → Pune; Shipbuilding → Mormugao; Engineering goods → Pinjore."
-  },
-  "05-171": {
-    "r": "Most complete mode of privatisation → transfer of ownership and management to the private sector (divestment)."
-  },
-  "05-172": {
-    "r": "Disinvestment aims: citizen participation, better governance, lower fiscal burden; Government keeps management control (at least 51%); not mainly to repay external debt."
-  },
-  "05-173": {
-    "r": "National Investment Fund (November 2005, disinvestment proceeds) → managed by UTI, SBI and LIC mutual funds; 75% income for social sector schemes, 25% for CPSE capital; a Public Account.",
-    "t": "NIF is a Public Account, not part of the Consolidated Fund; it is not managed by the Finance Ministry."
-  },
-  "05-174": {
-    "r": "Disinvestment is integral to liberalisation (cuts fiscal burden); proceeds used as per stated policy (NIF, November 2005), but R does not explain A."
-  },
-  "05-175": {
-    "r": "Disinvestment is done to cut fiscal burden and revenue shortfall, not because PSUs failed to create jobs (A true, R false)."
-  },
-  "05-176": {
-    "r": "Disinvestment began in 1991-92: minority stakes in 31 PSUs sold for Rs. 3038 crore.",
-    "hi": ["Disinvestment (विनिवेश)"]
-  },
-  "05-177": {
-    "r": "Steel plant not on a riverside → Bhilai (USSR help, 1959; about 40 km west of Raipur); Bokaro, Jamshedpur, Bhadravati are riverside."
-  },
-  "05-178": {
-    "r": "Bhilai Steel Plant (public sector, SAIL) → set up with USSR (Russia) help in Second Five Year Plan; first blast furnace 4th February 1959; about 40 km west of Raipur.",
-    "hi": ["Steel plant (इस्पात संयंत्र)"]
-  },
-  "05-180": {
-    "r": "Rourkela Steel Plant → German (West Germany) collaboration; first integrated public sector steel plant; first blast furnace 3rd February 1959; run by SAIL."
-  },
-  "05-181": {
-    "r": "Not correct: 'Rourkela set up with Soviet help' (it was German); Salem → stainless steel; Visakhapatnam → RINL; Maharashtra Electrosmelt merged with SAIL in 2011."
-  },
-  "05-182": {
-    "r": "Bokaro Steel Plant → Soviet Union (USSR) help; fourth integrated public sector plant; incorporated 29th January 1964, took shape from 1965; later merged with SAIL."
-  },
-  "05-183": {
-    "r": "Steel plant collaborations: Rourkela → Germany; Bhilai → USSR; Durgapur → UK; Bokaro → USSR, not USA.",
-    "h": "Both 'B' plants (Bhilai, Bokaro) → USSR; D for Durgapur, D for 'Dear old Britain'."
-  },
-  "05-184": {
-    "r": "Bhilai → Chhattisgarh; Bokaro → Jharkhand; Durgapur → West Bengal; Rourkela → Odisha."
-  },
-  "05-185": {
-    "r": "Jajpur (Odisha) integrated steel plant → Neelachal Ispat Nigam (NINL), not SAIL; Nabinagar (Bihar) → NTPC–Indian Railways joint venture; Jamnagar → Essar Power; Kayamkulam → NTPC."
-  },
-  "05-186": {
-    "r": "Indian Diamond Institute (1978) → Surat, Gujarat (diamonds, gems and jewellery)."
-  },
-  "05-187": {
-    "r": "Cement centres: Katni (Madhya Pradesh), Tirunelveli (Tamil Nadu), Sikka (Gujarat), Churk (Uttar Pradesh).",
-    "hi": ["Cement industry (सीमेंट उद्योग)"]
-  },
-  "05-188": {
-    "r": "Visakhapatnam → shipbuilding; Muri (Jharkhand) → aluminium; Gurgaon → automobiles; Panki (UP) → fertilizers."
-  },
-  "05-189": {
-    "r": "UP centres: Aonla → fertilizers; Modinagar → rubber; Barabanki → polyfibre; Kanpur → explosives."
-  },
-  "05-190": {
-    "r": "Coimbatore → cotton textiles; Rourkela → iron and steel; Kapurthala → rail coach; Barauni → petroleum refining."
-  },
-  "05-191": {
-    "r": "Singrauli → coal; Kajarhat (UP) → cement; Koyali (Gujarat) → oil refinery; Anand (Gujarat) → milk."
-  },
-  "05-192": {
-    "r": "Tronica City → Ghaziabad, not Noida; Bio-technology Park → Lucknow; Plastic City → Kanpur; Leather Technology Park → Unnao."
-  },
-  "05-193": {
-    "r": "National Renewal Fund (February 1992) → safety net for workers hit by modernisation, restructuring or closure of sick units; funded VRS and retraining; not for refugees.",
-    "hi": ["National Renewal Fund (राष्ट्रीय नवीकरण कोष)"]
-  },
-  "05-198": {
-    "r": "Golden Handshake → Voluntary Retirement Scheme (VRS), used to cut surplus staff in public and private companies.",
-    "hi": ["Voluntary Retirement Scheme (स्वैच्छिक सेवानिवृत्ति योजना)"]
-  },
-  "05-200": {
-    "r": "POSCO (South Korea, steel) → MoU with Odisha on June 22, 2005 for a 12 billion USD (Rs. 52,000 crore) plant near Paradip."
-  },
-  "05-201": {
-    "r": "Kandla (Gulf of Kutch) → Asia's first Export Processing Zone, 1965; now India's largest multi-product SEZ (KASEZ).",
-    "hi": ["Special Economic Zone (विशेष आर्थिक क्षेत्र)"]
-  },
-  "05-202": {
-    "r": "Industrial development constrained by: lack of savings to invest, lack of technology, skills and infrastructure, low purchasing power of masses; not lack of entrepreneurship."
-  },
-  "05-203": {
-    "r": "Labour intensive industry → employs more hands (labour costs outweigh capital costs), e.g. hotels, agriculture, mining.",
-    "hi": ["Labour intensive (श्रम प्रधान)"]
-  },
-  "05-204": {
-    "r": "Co-partners of industrial relations: workers, managers and Central/State Governments (with their organisations); consumers are not co-partners.",
-    "hi": ["Industrial relations (औद्योगिक संबंध)"]
-  },
-  "05-205": {
-    "r": "Largest sugar producer → Uttar Pradesh (119.9 lakh tonnes, 2023-24, ISMA), then Maharashtra (99.9) and Karnataka (49.7)."
-  },
-  "05-206": {
-    "r": "Sugar industry began in UP (first mill Pratappur, Deoria, 1903); low cane yield, short crushing season, poor location caused problems; UP lost lead to Maharashtra in 1960s."
-  },
-  "05-207": {
-    "r": "Sugar industry most developed → Uttar Pradesh (leading sugarcane and sugar producing State)."
-  },
-  "05-208": {
-    "r": "Sugar de-regulation committee → Dr. C. Rangarajan; levy obligation ended for sugar after September 2012, regulated release abolished; 2013-14 a watershed.",
-    "t": "Cane area reservation, minimum distance and cane price formula were left to State Governments."
-  },
-  "05-209": {
-    "r": "Not matched: Katni – Paper; Katni (MP) is known for cement, limestone and fireclay; Surat → cotton textiles; Churk → cement; Ludhiana → hosiery."
-  },
-  "05-211": {
-    "r": "HINDALCO Renukoot (1962) sited for abundant electricity: Renusagar captive power plant (840 MW, 1967), first for aluminium in India.",
-    "hi": ["Captive power plant (कैप्टिव विद्युत संयंत्र)"]
-  },
-  "05-212": {
-    "r": "MALCO → Mettur (Salem, Tamil Nadu), not Chennai; BALCO → Korba; INDAL → Hirakud (now part of HINDALCO); HINDALCO → Renukoot."
-  },
-  "05-213": {
-    "r": "Ideal for petrochemicals → Gujarat (infrastructure, strategic location, skilled labour, raw material; leader in chemicals)."
-  },
-  "05-214": {
-    "r": "Coastal Gujarat → 'industrial workshop' because it is dotted with textile, pharmaceutical and petrochemical units (A and R true; R explains A)."
-  },
-  "05-215": {
-    "r": "Workers' participation in management → participation of non-managerial employees in policy decision-making.",
-    "hi": ["Workers' participation in management (प्रबंधन में श्रमिक भागीदारी)"]
-  },
-  "05-216": {
-    "r": "Industrial town on the Chota Nagpur plateau ('Ruhr of India') → Ranchi (HEC, mineral based industries)."
-  },
-  "05-217": {
-    "r": "Dewas (Madhya Pradesh) → Government currency note printing press."
-  },
-  "05-218": {
-    "r": "Nature and size of an industry → capital investment, labour force and power consumption (book: turnover also counts today)."
-  },
-  "05-219": {
-    "r": "First machine-made paper → 1870, Bally near Calcutta; first cement factory → 1904 near Madras; first cotton mill → 1818 Fort Gloster, not 1854 Bombay (second)."
-  },
-  "05-220": {
-    "r": "First steel attempt Porto Novo (J.M. Heath) 1830; first Bombay textile mill (Davar) 7 July 1854; first jute mill Rishra 1855; first sugar mill Pratappur 1903.",
-    "c": "Book's answer (a) I, II, IV, III is latest-first (descending) order; earliest-first would be III, IV, II, I."
-  },
-  "05-221": {
-    "r": "Mundra SEZ → Adani; CMC Ltd → Tata; IPCL → Reliance; VSNL → Tata (Tata Communications, February 2008), not Bharti."
-  },
-  "05-222": {
-    "r": "Multinationals in India (book): Samsung and LG; Hindustan Unilever is an Indian subsidiary of Unilever and GKW is not a multinational."
-  },
-  "05-223": {
-    "r": "Renault SA → France; Volkswagen AG → Germany; BMW AG → Munich, Germany (not USA); Daimler AG → not Sweden.",
-    "c": "Book gives Daimler AG's HQ as Coventry, UK; Daimler AG is a German company. Answer (b) still right."
-  },
-  "05-224": {
-    "r": "All India Khadi and Village Industries Board → January 1953 (First Plan, 1951-56); KVIC statutory body under KVIC Act 1956, took over in April 1957."
-  },
-  "05-225": {
-    "r": "KVIC (statutory commission, Ministry of MSME) → head office at Mumbai.",
-    "hi": ["Khadi and Village Industries Commission (खादी और ग्रामोद्योग आयोग)"]
-  },
-  "05-226": {
-    "r": "Not matched: Tarapore Committee → full capital account convertibility of rupee, not bank customer services; Goswami → industrial sickness; Janakiraman → share scam; Malhotra → insurance reforms."
-  },
-  "05-227": {
-    "r": "Meera Seth Committee (12 members, 1995) → handloom development; recommended National Handloom Fund of Rs. 500 crore."
-  },
-  "05-228": {
-    "r": "Sathyam Committee (July 1998, report August 1999) → textile policy; basis of National Textile Policy 2000."
-  },
-  "05-229": {
-    "r": "National Commission for Enterprises in the Unorganised Sector (NCEUS) → chairman Dr. Arjun Sengupta; set up 20.09.2004; term ended 30.04.2009.",
-    "hi": ["Unorganised sector (असंगठित क्षेत्र)"]
-  },
-  "05-230": {
-    "r": "RIICO (Rajasthan; began 28th March 1969 as RSIMDC, split 1st January 1980) → sets up industrial areas, social infrastructure, project reports and managerial services: all these."
-  },
-  "05-231": {
-    "r": "RIICO signed MoU with JETRO (Japan External Trade Organization) in July 2008 to bring Japanese units to Neemrana Industrial Area."
-  },
-  "05-232": {
-    "r": "State Finance Corporations → mainly finance medium and small scale industries (supplementing Industrial Finance Corporation, IFC Act 1948).",
-    "hi": ["State Financial Corporation (राज्य वित्तीय निगम)"]
-  },
-  "05-233": {
-    "r": "Not matched: Wipro – R. Krishnamurthy; Wipro's founder chairman is Azim Premji (Rishad Premji chairman from 2019); Reliance – Mukesh Ambani; Airtel – Bharti Mittal."
-  },
-  "05-234": {
-    "r": "e-Biz portal (Ministry of Commerce and Industry, 28.01.2013) → single window for business access to government services (ease of doing business)."
-  }
+ "05-062": {
+  "r": "Manufacturing sector includes large, small scale, micro and medium industries; construction industry is not part of the manufacturing sector.",
+  "hi": [
+   "Manufacturing sector (विनिर्माण क्षेत्र)"
+  ]
+ },
+ "05-063": {
+  "r": "MSME revised definition: announced in Atmanirbhar Bharat Package 13th May 2020; notified 1st June 2020; effective 1st July 2020; one composite formula for manufacturing and service units.",
+  "t": "Don't confuse notification date (1st June 2020) with the date it came into effect (1st July 2020).",
+  "hi": [
+   "Micro, Small and Medium Enterprises (सूक्ष्म, लघु एवं मध्यम उद्यम)"
+  ]
+ },
+ "05-065": {
+  "r": "1991 Policy: SSI limit Rs. 60 lakh (was 35), ancillary Rs. 75 lakh (was 45); MSMED Act 2006; micro now: investment ≤ Rs. 1 crore, turnover ≤ Rs. 5 crore.",
+  "h": "60-75: small 60, ancillary 75 in 1991.",
+  "hi": [
+   "Ancillary unit (सहायक इकाई)"
+  ]
+ },
+ "05-070": {
+  "r": "MSMED Act 2006, old manufacturing limits (plant and machinery): micro up to Rs. 25 lakh; small Rs. 25 lakh to 5 crore; medium Rs. 5 to 10 crore.",
+  "t": "These are the old 2006 limits; the revised definition uses a composite investment-plus-turnover formula."
+ },
+ "05-074": {
+  "r": "Medium enterprise (w.e.f. 1st July 2020): investment up to Rs. 50 crore, turnover up to Rs. 250 crore (not Rs. 15-25 crore); all MSME bank loans are priority sector.",
+  "hi": [
+   "Priority Sector Lending (प्राथमिकता क्षेत्र ऋण)"
+  ]
+ },
+ "05-075": {
+  "r": "Most registered factories → Tamil Nadu (ASI 2021-22: 39667), then Gujarat, Maharashtra, Uttar Pradesh, Andhra Pradesh."
+ },
+ "05-076": {
+  "r": "SSIs get preference and reservation because they give higher employment per unit of capital and promote regional dispersion of industries.",
+  "hi": [
+   "Small-scale industries (लघु उद्योग)"
+  ]
+ },
+ "05-077": {
+  "r": "Small scale and cottage industries are encouraged in India mainly because they generate large employment opportunities.",
+  "hi": [
+   "Cottage industry (कुटीर उद्योग)"
+  ]
+ },
+ "05-078": {
+  "r": "Small scale and cottage industries are important because they provide more employment."
+ },
+ "05-079": {
+  "r": "Most important small scale industry of India → Handloom (unorganised sector); fourth Handloom Census 2019-20: about 35.23 lakh workers.",
+  "hi": [
+   "Handloom (हथकरघा)"
+  ]
+ },
+ "05-080": {
+  "r": "Largest industry of Uttar Pradesh by employment → Handloom (not cotton mills, leather or cement)."
+ },
+ "05-081": {
+  "r": "SSI problems: lack of capital, marketing experience and raw material; also old technology, power shortage, labour problems and industrial sickness."
+ },
+ "05-082": {
+  "r": "Strikes and lockouts are a problem of large scale industries, not SSIs; SSIs face finance (working capital), marketing and raw material problems.",
+  "hi": [
+   "Lockout (तालाबंदी)"
+  ]
+ },
+ "05-083": {
+  "r": "SSI committees in order: Karve 1955 → Nayak 1991 → Abid Hussain 1995 → S.S. Kohli 2000 (order IV, I, II, III).",
+  "h": "K-N-A-K: Karve, Nayak, Abid, Kohli.",
+  "c": "Correct order IV, I, II, III is in no option; book says UPPSC key's option (c) is wrong."
+ },
+ "05-084": {
+  "r": "Nayak Committee (RBI, 9 December 1991, P.R. Nayak) → finance problems of small scale industries; report September 1992.",
+  "t": "Don't confuse with P.J. Nayak Committee (RBI, January 2014) on governance of bank boards."
+ },
+ "05-085": {
+  "r": "Abid Hussain Committee (Expert Committee on Small Enterprises, 1995) → total abolition of reservation of items for small scale industries; report 1997.",
+  "hi": [
+   "Reservation of items (वस्तुओं का आरक्षण)"
+  ]
+ },
+ "05-087": {
+  "r": "Small scale sector's share in manufacturing gross turnover (since 1992) → about 40%; MSME share in manufacturing GVA 40.83% in 2021-22."
+ },
+ "05-088": {
+  "r": "Cotton textile → high growth in cooperative units (14.8% yearly growth, 1999-2000 to 2005-06)."
+ },
+ "05-089": {
+  "r": "Textile industry → largest employer after agriculture: about 45 million direct and 60 million indirect jobs.",
+  "hi": [
+   "Textile industry (वस्त्र उद्योग)"
+  ]
+ },
+ "05-091": {
+  "r": "Largest quantity of cotton textile in India is produced by the powerloom sector (not mill, handloom or hosiery).",
+  "hi": [
+   "Powerloom (विद्युत करघा)"
+  ]
+ },
+ "05-092": {
+  "r": "Largest textile centre in India (among Ahmedabad, Kanpur, Mumbai, Surat) → Mumbai."
+ },
+ "05-093": {
+  "r": "Most cotton textile mills → Tamil Nadu (then Maharashtra, Andhra Pradesh); Tamil Nadu has almost half of India's cotton spinning capacity.",
+  "t": "Most mills = Tamil Nadu; most mill-made cotton cloth = Gujarat."
+ },
+ "05-094": {
+  "r": "Highest mill-made cotton cloth production → Gujarat (2016-17), then Maharashtra and Madhya Pradesh."
+ },
+ "05-095": {
+  "r": "Oldest large scale industry of India → cotton textiles; first cotton mill set up in 1818 at Fort Gloster near Kolkata."
+ },
+ "05-096": {
+  "r": "First industry to develop in India → cottage industry (since ancient times; declined under British rule)."
+ },
+ "05-097": {
+  "r": "Iron and steel → most basic industry of modern civilisation; backbone of the modern industrial economy.",
+  "hi": [
+   "Iron and steel (लौह एवं इस्पात)"
+  ]
+ },
+ "05-098": {
+  "r": "Nepanagar (Burhanpur, Madhya Pradesh) → newsprint paper; Nepa Mills pioneered newsprint in India, production from April 1956."
+ },
+ "05-099": {
+  "r": "Paper industry centres: Yamunanagar (Haryana), Guwahati (Assam), Ballarpur (Maharashtra); Shahabad is not known for paper."
+ },
+ "05-100": {
+  "r": "Hazira (Surat, Gujarat) KRIBHCO fertilizer complex → based on natural gas.",
+  "hi": [
+   "Fertilizer (उर्वरक)"
+  ]
+ },
+ "05-101": {
+  "r": "India not self-reliant in fertilizers: urea above 85%, phosphatic above 50% self-sufficient, potash fully imported; India is second in nitrogenous fertilizers; fertilizer is second industry after iron and steel.",
+  "t": "At question time only (c) was wrong; by present data (b) 'third largest in nitrogen' is also wrong (India is second)."
+ },
+ "05-102": {
+  "r": "Unused natural gas → best used for fertilizers; natural gas is main feedstock for ammonia (Haber process)."
+ },
+ "05-103": {
+  "r": "ONGC → set up 14 August 1956 as a Commission; statutory body October 1959; became Corporation in 1994.",
+  "t": "Don't confuse 1956 (set up) with 1959 (statutory body by Act)."
+ },
+ "05-104": {
+  "r": "Oil India Limited (OIL) → exploration, development and production of crude oil and natural gas (not import or marketing)."
+ },
+ "05-105": {
+  "r": "MMTC → largest non-oil importer; PEC Ltd (STC subsidiary, 1971) → Ministry of Commerce & Industry; enforcing quality control is not an ECGC objective."
+ },
+ "05-106": {
+  "r": "MMTC → India's largest international trading organisation and government trading company; Neelachal Ispat Nigam (1982, Kalinga Nagar, Odisha) promoted by MMTC with Odisha government (IPICOL)."
+ },
+ "05-108": {
+  "r": "Public sector functions: provide public utilities, build social and economic overhead capital, ensure balanced regional and sectoral growth, pursue egalitarian goals.",
+  "hi": [
+   "Public sector (सार्वजनिक क्षेत्र)"
+  ]
+ },
+ "05-109": {
+  "r": "Public sector in India has basic and heavy industries and secure jobs; not all its industries are profit-oriented."
+ },
+ "05-110": {
+  "r": "Public sector employment growth became sluggish because the NEP 1991 reassessed the State's role in development (A and R true; R explains A)."
+ },
+ "05-111": {
+  "r": "Public sector is most dominant in commercial banking in India (among steel, term-lending institutions and transport)."
+ },
+ "05-112": {
+  "r": "TISCO (Tata Steel, Jamshedpur, 1907) → private sector; NTPC, SAIL and BHEL → Maharatna CPSEs.",
+  "hi": [
+   "Maharatna (महारत्न)"
+  ]
+ },
+ "05-113": {
+  "r": "Not a public enterprise → Leather Factory, Gwalior; BHEL Bhopal, Ordnance Factory Jabalpur and Alkaloid Factory Neemuch are public enterprises."
+ },
+ "05-114": {
+  "r": "Odd one out → Essar Oil (private; now Nayara Energy); SAIL, BHEL and ONGC are public sector undertakings."
+ },
+ "05-115": {
+  "r": "Government holding in BPCL → between 50% and 60% (present 52.98%; it was 66.2% in the question period).",
+  "c": "At question time holding was 66.2% (option b); book's answer (c) fits only present data."
+ },
+ "05-116": {
+  "r": "Balmer Lawrie (Ministry of Petroleum) and EdCIL (Ministry of Education) → Miniratna-I PSUs; Dredging Corporation (1976) handed to 4 major ports in 2018, so now only 1 and 3.",
+  "hi": [
+   "Public sector undertaking (सार्वजनिक क्षेत्र उपक्रम)"
+  ]
+ },
+ "05-117": {
+  "r": "Private sector refinery now → Essar Oil (Nayara Energy); Bongaigaon, Haldia and Mangalore (MRPL, ONGC subsidiary since March 2003) are public sector.",
+  "c": "Book gives no single answer: (c) 2 and 4 fitted the question period, but now only Essar Oil (Nayara Energy) is private; MRPL is an ONGC subsidiary."
+ },
+ "05-118": {
+  "r": "Digboi, Barauni, Noonmati and Mathura refineries → all public sector; India has 23 refineries: 19 public, 3 private, 1 joint venture.",
+  "c": "No option is correct: all four refineries are in the public sector."
+ },
+ "05-119": {
+  "r": "HAL (Bengaluru) → aircraft; founded 23 December 1940 as Hindustan Aircraft Ltd by Walchand Hirachand; management passed to Government of India in 1947."
+ },
+ "05-120": {
+  "r": "Electricity generation → NHPC (erstwhile National Hydroelectric Corporation), Miniratna Category-I CPSE and India's largest hydropower organisation."
+ },
+ "05-121": {
+  "r": "Tourism and hotel industry development → ITDC (India Tourism Development Corporation, October 1966); Government holds 87.03%."
+ },
+ "05-122": {
+  "r": "BSNL → formed in 2000 by corporatisation of the Department of Telecom Services."
+ },
+ "05-123": {
+  "r": "100% Government of India owned enterprise (among BSNL, NTPC, BHEL, SBI) → BSNL."
+ },
+ "05-124": {
+  "r": "Loss-making CPSE among ONGC, NTPC, IOC and BSNL → BSNL (in 2013-14 and also in 2022-23)."
+ },
+ "05-125": {
+  "r": "Top loss-making CPSEs 2014-15: BSNL, Air India, MTNL; in 2022-23 the top loss-maker was HPCL, then BSNL."
+ },
+ "05-126": {
+  "r": "GAIL (2009) planned Rs. 8000 crore, 1,100 km gas pipeline from Vijayawada (Andhra Pradesh) to Vijaipur (Madhya Pradesh)."
+ },
+ "05-127": {
+  "r": "Petrol and diesel prices → decided by oil marketing companies; market-determined from 26 June 2010 (petrol) and 19 October 2014 (diesel).",
+  "t": "Petrol was freed first (2010); diesel later (2014)."
+ },
+ "05-128": {
+  "r": "Navratna → status for selected Central Public Sector Enterprises; first given to 9 CPSEs in 1997; three categories: Maharatna, Navratna, Miniratna.",
+  "hi": [
+   "Navratna (नवरत्न)"
+  ]
+ },
+ "05-129": {
+  "r": "Not Maharatna (February 2013) → Oil India (then Navratna; Maharatna in 2023) and BEL; Maharatna scheme 2010-11; now 13 Maharatna, 20 Navratna, 65 Miniratna.",
+  "h": "13-20-65 = Maha, Nav, Mini (as on 30 April 2024).",
+  "hi": [
+   "Maharatna (महारत्न)"
+  ]
+ },
+ "05-133": {
+  "r": "BHEL → got Maharatna status in 2013."
+ },
+ "05-134": {
+  "r": "Maharatna companies → 10 in October 2019; 13 as on 30 April 2024."
+ },
+ "05-135": {
+  "r": "Navratna (among Coal India, BHEL, BEL, GAIL) → Bharat Electronics Ltd; other Navratnas include CONCOR, EIL, HAL, MTNL, NALCO, NBCC, NMDC."
+ },
+ "05-136": {
+  "r": "MTNL → Navratna; SAIL and GAIL → Maharatna."
+ },
+ "05-137": {
+  "r": "Not Navratna → Indian Aluminium Company (private, not a CPSE); SAIL, Power Grid and REC were Navratna then, now Maharatna.",
+  "t": "Don't confuse private Indian Aluminium Company with NALCO, the Navratna aluminium CPSE."
+ },
+ "05-138": {
+  "r": "NALCO (1981, Bhubaneswar, Ministry of Mines) → Navratna aluminium company; Government holds 51.28% (not BALCO, HINDALCO or MALCO)."
+ },
+ "05-139": {
+  "r": "Miniratna Category-I → investment autonomy up to Rs. 500 crore or net worth, whichever lower; needs three years' profit, Rs.30 crore pre-tax profit once, positive net worth.",
+  "hi": [
+   "Miniratna (मिनीरत्न)"
+  ]
+ },
+ "05-140": {
+  "r": "Miniratna (19 September 2006) to six CPSEs: BSNL, BEML, Hindustan Latex, Engineering Projects, Rashtriya Ispat, Garden Reach; Indian Telephone Industries not included."
+ },
+ "05-141": {
+  "r": "Rajasthan policies: IT Policy → 2000; Mineral Policy → 2011; Hotel Policy → 2006; Industrial & Investment Promotion Policy → 2010."
+ },
+ "05-142": {
+  "r": "Udyami Helpline → call centre of Ministry of MSME; inaugurated 21st August 2010 by Dr. Manmohan Singh; toll-free 1800-180-6763."
+ },
+ "05-143": {
+  "r": "Madhya Pradesh Financial Corporation (1955) → headquarters at Indore; finances small and medium industries.",
+  "t": "Headquarters is Indore, not the capital Bhopal."
+ },
+ "05-144": {
+  "r": "Long-term credit to small and medium enterprises in UP → UP Small Industries Corporation, UPSIDC (now UPSIDA) and UP Financial Corporation: all of these."
+ },
+ "05-145": {
+  "r": "UP Financial Corporation (1954, under SFCs Act 1951) → does not finance tourism related industries."
+ },
+ "05-146": {
+  "r": "Udyog Bandhu (now Invest UP) → UP government society that facilitates investment and solves establishment and investment problems of industrial units."
+ },
+ "05-147": {
+  "r": "Most industrially developed region of Uttar Pradesh → Western UP (more urbanised, more workers in registered factories)."
+ },
+ "05-148": {
+  "r": "BIFR (Board for Industrial and Financial Reconstruction, Ministry of Finance) → revival or closure of sick industrial units; dissolved 1 December 2016, cases sent to NCLT/NCLAT under IBC.",
+  "hi": [
+   "Sick industrial unit (रुग्ण औद्योगिक इकाई)"
+  ]
+ },
+ "05-149": {
+  "r": "Mega Food Parks → better infrastructure for food processing; cluster approach linking farmers, processors and retailers to cut wastage and raise farmers' income.",
+  "hi": [
+   "Food processing (खाद्य प्रसंस्करण)"
+  ]
+ },
+ "05-151": {
+  "r": "Benefit of industrial development and foreign trade → increased competition (also more goods, higher growth, lower unemployment)."
+ },
+ "05-152": {
+  "r": "Social objective of business → employment generation (also supply of quality goods); profit earning is an economic objective."
+ },
+ "05-153": {
+  "r": "Business process re-engineering with technology: rising customer demands, IT gives competitive edge at lower cost, faster change after liberalisation → all of these."
+ },
+ "05-154": {
+  "r": "Sole trader → unlimited liability; Partnership → contractual relationship; Co-operatives → betterment of weaker sections; Public Limited Company → large number of risk bearers."
+ },
+ "05-155": {
+  "r": "Acquiring new technology → capital expenditure (buy, upgrade or extend life of assets); debt and equity financing are both capital receipts, not capital vs revenue expenditure.",
+  "hi": [
+   "Capital expenditure (पूंजीगत व्यय)"
+  ]
+ },
+ "05-156": {
+  "r": "Venture capital → long-term start-up capital (private equity) for new entrepreneurs and small businesses with growth potential.",
+  "hi": [
+   "Venture capital (उद्यम पूंजी)"
+  ]
+ },
+ "05-157": {
+  "r": "First Industrial Policy of free India → April 1948, by Dr. Shyama Prasad Mukherjee (Industry Minister); set a mixed economy model."
+ },
+ "05-158": {
+  "r": "Joint Sector concept → Industrial Policy Resolution 1956 (second policy, placed by Nehru, April 1956; expand public and co-operative sectors).",
+  "t": "1948 = first policy (mixed economy); 1956 = Industrial Policy Resolution; 1991 = liberalised policy."
+ },
+ "05-160": {
+  "r": "Industrial licensing policy drew strength from the Industries (Development and Regulation) Act, 1951.",
+  "hi": [
+   "Industrial licensing (औद्योगिक लाइसेंसिंग)"
+  ]
+ },
+ "05-161": {
+  "r": "Liberal Industrial Policy adopted → 1991 (amid severe economic instability) to raise efficiency and growth."
+ },
+ "05-162": {
+  "r": "Many Indian firms got ISO 9001/9002 certification (BIS) and licensing was liberalised (24 July 1991), but liberalisation does not explain ISO certification."
+ },
+ "05-163": {
+  "r": "1991 Industrial Policy (24 July 1991, P.V. Narasimha Rao) → licence needed only for 18 industries; now only four need compulsory licensing.",
+  "h": "18 in 1991 → four today."
+ },
+ "05-164": {
+  "r": "Industries needing compulsory licence: 15 at question time (option a); now only four (environmental, safety and strategic reasons)."
+ },
+ "05-165": {
+  "r": "LPG New Economic Policy (liberalisation, privatisation, globalisation) → announced in 1991 under PM P.V. Narasimha Rao.",
+  "hi": [
+   "Liberalisation (उदारीकरण)"
+  ]
+ },
+ "05-166": {
+  "r": "Criticisms of Industrial Policy 1991: erratic growth, threat from foreign competition, misplaced faith in foreign investment; neglect of agriculture was not one."
+ },
+ "05-167": {
+  "r": "White goods → home appliances (AC, refrigerator, washing machine) bought as conspicuous consumption items; industry delicensed in 1993."
+ },
+ "05-168": {
+  "r": "Not correct: 'IPCL is India's largest petrochemicals company' (second in 2002-03; merged with RIL in 2007); MTNL listed on NYSE November 2001."
+ },
+ "05-169": {
+  "r": "FMCG = quick-selling, low-cost non-durable goods (toiletries, dairy, bakery); automobiles (car, motorcycle) are not FMCG."
+ },
+ "05-170": {
+  "r": "Pearl fishing → Tuticorin; Automobiles → Pune; Shipbuilding → Mormugao; Engineering goods → Pinjore."
+ },
+ "05-171": {
+  "r": "Most complete mode of privatisation → transfer of ownership and management to the private sector (divestment)."
+ },
+ "05-172": {
+  "r": "Disinvestment aims: citizen participation, better governance, lower fiscal burden; Government keeps management control (at least 51%); not mainly to repay external debt."
+ },
+ "05-173": {
+  "r": "National Investment Fund (November 2005, disinvestment proceeds) → managed by UTI, SBI and LIC mutual funds; 75% income for social sector schemes, 25% for CPSE capital; a Public Account.",
+  "t": "NIF is a Public Account, not part of the Consolidated Fund; it is not managed by the Finance Ministry."
+ },
+ "05-174": {
+  "r": "Disinvestment is integral to liberalisation (cuts fiscal burden); proceeds used as per stated policy (NIF, November 2005), but R does not explain A."
+ },
+ "05-175": {
+  "r": "Disinvestment is done to cut fiscal burden and revenue shortfall, not because PSUs failed to create jobs (A true, R false)."
+ },
+ "05-176": {
+  "r": "Disinvestment began in 1991-92: minority stakes in 31 PSUs sold for Rs. 3038 crore.",
+  "hi": [
+   "Disinvestment (विनिवेश)"
+  ]
+ },
+ "05-177": {
+  "r": "Steel plant not on a riverside → Bhilai (USSR help, 1959; about 40 km west of Raipur); Bokaro, Jamshedpur, Bhadravati are riverside."
+ },
+ "05-178": {
+  "r": "Bhilai Steel Plant (public sector, SAIL) → set up with USSR (Russia) help in Second Five Year Plan; first blast furnace 4th February 1959; about 40 km west of Raipur.",
+  "hi": [
+   "Steel plant (इस्पात संयंत्र)"
+  ]
+ },
+ "05-180": {
+  "r": "Rourkela Steel Plant → German (West Germany) collaboration; first integrated public sector steel plant; first blast furnace 3rd February 1959; run by SAIL."
+ },
+ "05-181": {
+  "r": "Not correct: 'Rourkela set up with Soviet help' (it was German); Salem → stainless steel; Visakhapatnam → RINL; Maharashtra Electrosmelt merged with SAIL in 2011."
+ },
+ "05-182": {
+  "r": "Bokaro Steel Plant → Soviet Union (USSR) help; fourth integrated public sector plant; incorporated 29th January 1964, took shape from 1965; later merged with SAIL."
+ },
+ "05-183": {
+  "r": "Steel plant collaborations: Rourkela → Germany; Bhilai → USSR; Durgapur → UK; Bokaro → USSR, not USA.",
+  "h": "Both 'B' plants (Bhilai, Bokaro) → USSR; D for Durgapur, D for 'Dear old Britain'."
+ },
+ "05-184": {
+  "r": "Bhilai → Chhattisgarh; Bokaro → Jharkhand; Durgapur → West Bengal; Rourkela → Odisha."
+ },
+ "05-185": {
+  "r": "Jajpur (Odisha) integrated steel plant → Neelachal Ispat Nigam (NINL), not SAIL; Nabinagar (Bihar) → NTPC–Indian Railways joint venture; Jamnagar → Essar Power; Kayamkulam → NTPC."
+ },
+ "05-186": {
+  "r": "Indian Diamond Institute (1978) → Surat, Gujarat (diamonds, gems and jewellery)."
+ },
+ "05-187": {
+  "r": "Cement centres: Katni (Madhya Pradesh), Tirunelveli (Tamil Nadu), Sikka (Gujarat), Churk (Uttar Pradesh).",
+  "hi": [
+   "Cement industry (सीमेंट उद्योग)"
+  ]
+ },
+ "05-188": {
+  "r": "Visakhapatnam → shipbuilding; Muri (Jharkhand) → aluminium; Gurgaon → automobiles; Panki (UP) → fertilizers."
+ },
+ "05-189": {
+  "r": "UP centres: Aonla → fertilizers; Modinagar → rubber; Barabanki → polyfibre; Kanpur → explosives."
+ },
+ "05-190": {
+  "r": "Coimbatore → cotton textiles; Rourkela → iron and steel; Kapurthala → rail coach; Barauni → petroleum refining."
+ },
+ "05-191": {
+  "r": "Singrauli → coal; Kajarhat (UP) → cement; Koyali (Gujarat) → oil refinery; Anand (Gujarat) → milk."
+ },
+ "05-192": {
+  "r": "Tronica City → Ghaziabad, not Noida; Bio-technology Park → Lucknow; Plastic City → Kanpur; Leather Technology Park → Unnao."
+ },
+ "05-193": {
+  "r": "National Renewal Fund (February 1992) → safety net for workers hit by modernisation, restructuring or closure of sick units; funded VRS and retraining; not for refugees.",
+  "hi": [
+   "National Renewal Fund (राष्ट्रीय नवीकरण कोष)"
+  ]
+ },
+ "05-198": {
+  "r": "Golden Handshake → Voluntary Retirement Scheme (VRS), used to cut surplus staff in public and private companies.",
+  "hi": [
+   "Voluntary Retirement Scheme (स्वैच्छिक सेवानिवृत्ति योजना)"
+  ]
+ },
+ "05-200": {
+  "r": "POSCO (South Korea, steel) → MoU with Odisha on June 22, 2005 for a 12 billion USD (Rs. 52,000 crore) plant near Paradip."
+ },
+ "05-201": {
+  "r": "Kandla (Gulf of Kutch) → Asia's first Export Processing Zone, 1965; now India's largest multi-product SEZ (KASEZ).",
+  "hi": [
+   "Special Economic Zone (विशेष आर्थिक क्षेत्र)"
+  ]
+ },
+ "05-202": {
+  "r": "Industrial development constrained by: lack of savings to invest, lack of technology, skills and infrastructure, low purchasing power of masses; not lack of entrepreneurship."
+ },
+ "05-203": {
+  "r": "Labour intensive industry → employs more hands (labour costs outweigh capital costs), e.g. hotels, agriculture, mining.",
+  "hi": [
+   "Labour intensive (श्रम प्रधान)"
+  ]
+ },
+ "05-204": {
+  "r": "Co-partners of industrial relations: workers, managers and Central/State Governments (with their organisations); consumers are not co-partners.",
+  "hi": [
+   "Industrial relations (औद्योगिक संबंध)"
+  ]
+ },
+ "05-205": {
+  "r": "Largest sugar producer → Uttar Pradesh (119.9 lakh tonnes, 2023-24, ISMA), then Maharashtra (99.9) and Karnataka (49.7)."
+ },
+ "05-206": {
+  "r": "Sugar industry began in UP (first mill Pratappur, Deoria, 1903); low cane yield, short crushing season, poor location caused problems; UP lost lead to Maharashtra in 1960s."
+ },
+ "05-207": {
+  "r": "Sugar industry most developed → Uttar Pradesh (leading sugarcane and sugar producing State)."
+ },
+ "05-208": {
+  "r": "Sugar de-regulation committee → Dr. C. Rangarajan; levy obligation ended for sugar after September 2012, regulated release abolished; 2013-14 a watershed.",
+  "t": "Cane area reservation, minimum distance and cane price formula were left to State Governments."
+ },
+ "05-209": {
+  "r": "Not matched: Katni – Paper; Katni (MP) is known for cement, limestone and fireclay; Surat → cotton textiles; Churk → cement; Ludhiana → hosiery."
+ },
+ "05-211": {
+  "r": "HINDALCO Renukoot (1962) sited for abundant electricity: Renusagar captive power plant (840 MW, 1967), first for aluminium in India.",
+  "hi": [
+   "Captive power plant (कैप्टिव विद्युत संयंत्र)"
+  ]
+ },
+ "05-212": {
+  "r": "MALCO → Mettur (Salem, Tamil Nadu), not Chennai; BALCO → Korba; INDAL → Hirakud (now part of HINDALCO); HINDALCO → Renukoot."
+ },
+ "05-213": {
+  "r": "Ideal for petrochemicals → Gujarat (infrastructure, strategic location, skilled labour, raw material; leader in chemicals)."
+ },
+ "05-214": {
+  "r": "Coastal Gujarat → 'industrial workshop' because it is dotted with textile, pharmaceutical and petrochemical units (A and R true; R explains A)."
+ },
+ "05-215": {
+  "r": "Workers' participation in management → participation of non-managerial employees in policy decision-making.",
+  "hi": [
+   "Workers' participation in management (प्रबंधन में श्रमिक भागीदारी)"
+  ]
+ },
+ "05-216": {
+  "r": "Industrial town on the Chota Nagpur plateau ('Ruhr of India') → Ranchi (HEC, mineral based industries)."
+ },
+ "05-217": {
+  "r": "Dewas (Madhya Pradesh) → Government currency note printing press."
+ },
+ "05-218": {
+  "r": "Nature and size of an industry → capital investment, labour force and power consumption (book: turnover also counts today)."
+ },
+ "05-219": {
+  "r": "First machine-made paper → 1870, Bally near Calcutta; first cement factory → 1904 near Madras; first cotton mill → 1818 Fort Gloster, not 1854 Bombay (second)."
+ },
+ "05-220": {
+  "r": "First steel attempt Porto Novo (J.M. Heath) 1830; first Bombay textile mill (Davar) 7 July 1854; first jute mill Rishra 1855; first sugar mill Pratappur 1903.",
+  "c": "Book's (a) is latest-first by its own dates. Read earliest-first on standard dates (Bombay mill, Rishra jute mill, Tata's first steel, sugar growth around 1930), the order is IV, II, III, I: option (b)."
+ },
+ "05-221": {
+  "r": "Mundra SEZ → Adani; CMC Ltd → Tata; IPCL → Reliance; VSNL → Tata (Tata Communications, February 2008), not Bharti."
+ },
+ "05-222": {
+  "r": "Multinationals in India (book): Samsung and LG; Hindustan Unilever is an Indian subsidiary of Unilever and GKW is not a multinational."
+ },
+ "05-223": {
+  "r": "Renault SA → France; Volkswagen AG → Germany; BMW AG → Munich, Germany (not USA); Daimler AG → not Sweden.",
+  "c": "The book wrongly places Daimler AG in Coventry, UK; Daimler AG (now Mercedes-Benz Group) is headquartered in Stuttgart, Germany. Answer (b) is still right."
+ },
+ "05-224": {
+  "r": "All India Khadi and Village Industries Board → January 1953 (First Plan, 1951-56); KVIC statutory body under KVIC Act 1956, took over in April 1957."
+ },
+ "05-225": {
+  "r": "KVIC (statutory commission, Ministry of MSME) → head office at Mumbai.",
+  "hi": [
+   "Khadi and Village Industries Commission (खादी और ग्रामोद्योग आयोग)"
+  ]
+ },
+ "05-226": {
+  "r": "Not matched: Tarapore Committee → full capital account convertibility of rupee, not bank customer services; Goswami → industrial sickness; Janakiraman → share scam; Malhotra → insurance reforms."
+ },
+ "05-227": {
+  "r": "Meera Seth Committee (12 members, 1995) → handloom development; recommended National Handloom Fund of Rs. 500 crore."
+ },
+ "05-228": {
+  "r": "Sathyam Committee (July 1998, report August 1999) → textile policy; basis of National Textile Policy 2000."
+ },
+ "05-229": {
+  "r": "National Commission for Enterprises in the Unorganised Sector (NCEUS) → chairman Dr. Arjun Sengupta; set up 20.09.2004; term ended 30.04.2009.",
+  "hi": [
+   "Unorganised sector (असंगठित क्षेत्र)"
+  ]
+ },
+ "05-230": {
+  "r": "RIICO (Rajasthan; began 28th March 1969 as RSIMDC, split 1st January 1980) → sets up industrial areas, social infrastructure, project reports and managerial services: all these."
+ },
+ "05-231": {
+  "r": "RIICO signed MoU with JETRO (Japan External Trade Organization) in July 2008 to bring Japanese units to Neemrana Industrial Area."
+ },
+ "05-232": {
+  "r": "State Finance Corporations → mainly finance medium and small scale industries (supplementing Industrial Finance Corporation, IFC Act 1948).",
+  "hi": [
+   "State Financial Corporation (राज्य वित्तीय निगम)"
+  ]
+ },
+ "05-233": {
+  "r": "Not matched: Wipro – R. Krishnamurthy; Wipro's founder chairman is Azim Premji (Rishad Premji chairman from 2019); Reliance – Mukesh Ambani; Airtel – Bharti Mittal."
+ },
+ "05-234": {
+  "r": "e-Biz portal (Ministry of Commerce and Industry, 28.01.2013) → single window for business access to government services (ease of doing business)."
+ }
 }

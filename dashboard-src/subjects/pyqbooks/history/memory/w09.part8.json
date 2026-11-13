@@ -1,241 +1,253 @@
 {
-  "94-085": {
-    "r": "Khayal → Suraj Khan; Pakhawaj → Pt. Ayodhya Prasad; Veena Vadan → Sadiq Ali Khan; Tabla → Veeru Mishra."
-  },
-  "94-086": {
-    "r": "Pt. Shiv Kumar Sharma → Santoor; Pt. Mallikarjun Mansur → Hindustani music; V.G. Jog → Violin; Ali Akbar Khan → Sarod."
-  },
-  "94-087": {
-    "r": "Ravi Shankar → Sitar; Hari Prasad Chaurasia → Flute; Omkar Nath Thakur → Violin (as per book); Bismillah Khan → Shehnai.",
-    "c": "Omkar Nath Thakur is better known as a Hindustani vocalist; 'Violin' fits only by elimination."
-  },
-  "94-088": {
-    "r": "Kishan Maharaj → Tabla; Hari Prasad Chaurasia → Bansuri; Pt. Gopalji Mishra → Sarangi; Kudak Singh → Pakhawaj."
-  },
-  "94-089": {
-    "r": "Birju Maharaj → excellent Kathak dancer."
-  },
-  "94-090": {
-    "r": "Not Kathak: Pt. Dhruvtara Joshi (Indian classical music). Bindadin, Shambhu Maharaj and Lachhu Maharaj → Kathak."
-  },
-  "94-091": {
-    "r": "Not a Kathak artist: Kishan Maharaj (1923-2008), a Tabla player. Birju Maharaj, Lachchhu Maharaj, Sitara Devi → Kathak dancers.",
-    "t": "Kishan Maharaj (Tabla) vs Birju Maharaj (Kathak): same 'Maharaj', different art."
-  },
-  "94-092": {
-    "r": "Madhubani folk art → Bihar; belongs to the Mithila region of Bihar and Nepal."
-  },
-  "94-093": {
-    "r": "Kalaripayattu → ancient martial art, a living tradition in parts of South India, mostly Kerala.",
-    "hi": ["Martial Art (युद्ध कला)"]
-  },
-  "94-094": {
-    "r": "Folk culture → cultural practices of common people (localised, tradition-bound groups).",
-    "hi": ["Folk Culture (लोक संस्कृति)"]
-  },
-  "94-095": {
-    "r": "Kalamkari → hand-painted cotton textile of South India (Andhra Pradesh); from Persian 'kalam' (pen) + 'kari' (craftsmanship).",
-    "h": "Kalam = pen: Kalamkari is drawing with a pen on cloth."
-  },
-  "94-096": {
-    "r": "Rukmani Devi → Bharatnatyam; Kumar Gandharva → classical singing; Birju Maharaj → Kathak; Rakesh Sharma → astronaut."
-  },
-  "94-097": {
-    "r": "Folk songs matter most for preserving traditions, passed from generation to generation (intangible heritage).",
-    "hi": ["Folk Song (लोकगीत)"]
-  },
-  "94-098": {
-    "r": "True: Tyagaraja created several new ragas; Annamacharya's kirtanas praise Lord Venkateshwara. False: Tyagaraja's kritis praise Rama, not Krishna; Annamacharya (15th century) was not his contemporary."
-  },
-  "94-099": {
-    "r": "Not classical: Garba (folk dance). Kathak, Kuchipudi, Odissi are classical dances."
-  },
-  "94-100": {
-    "r": "Correct: Hari Prasad Chaurasia → Flute. Bismillah Khan → Shehnai; Zakir Hussain and Alla Rakha Khan → Tabla."
-  },
-  "94-101": {
-    "r": "Wrong pair: M.S. Subbalakshmi → classical singer (Bharat Ratna 1998), not flute. Correct: Bhimsen Joshi → classical vocal; Alla Rakha → Tabla; Debu Chaudhari → Sitar."
-  },
-  "94-102": {
-    "r": "Balamurali Krishna → Carnatic vocal; Mita Pandit → Hindustani vocal; Kanyakumari → Violin; Nikhil Banerjee → Sitar."
-  },
-  "94-103": {
-    "r": "Kavalam Narayana Panikkar → Theatre; Sharmila Tagore → Cinema; Balamurali Krishna → Carnatic vocal; Sonal Man Singh → Dance (Bharatnatyam, Odissi)."
-  },
-  "94-104": {
-    "r": "Pandit Durga Lal → Dance; Lalgudi Jayaraman → Instrumental music; Balamurali Krishna → Vocal music; Amrita Shergil → Painting."
-  },
-  "94-105": {
-    "r": "Mandakini Amte → social service and community leadership; Neelam Mansingh Chowdhry → theatre direction; Romila Thapar → history writing; Vanashree Rao → dance."
-  },
-  "94-106": {
-    "r": "Amrita Shergil, Bikas Bhattacharjee, N.S. Bendre and Subodh Gupta → all well-known artists (painters)."
-  },
-  "94-107": {
-    "r": "Amrita Shergil → Painter; Bhimsen Joshi → Singer; Rukmini Devi Arundale → Dancer; Suryakant Tripathi 'Nirala' → Poet."
-  },
-  "94-108": {
-    "r": "Sangeet Natak Akademi → National Academy of music, dance and drama; first national arts academy of the Republic; inaugurated 28 Jan 1953.",
-    "hi": ["Sangeet Natak Akademi (संगीत नाटक अकादमी)"]
-  },
-  "94-109": {
-    "r": "Ronu Majumdar (Rajendranath Majumdar, born 22 June 1963, Varanasi) → Hindustani classical flute player."
-  },
-  "94-110": {
-    "r": "Taslima Nasrin → Lajja; Salman Rushdie → Satanic Verses; M.F. Hussain → Painter; Rukmini Arundale → Dance."
-  },
-  "94-111": {
-    "r": "Ustad Amjad Ali Khan → Sarod."
-  },
-  "94-112": {
-    "r": "Wrong pair: Zakir Hussain → Tabla, not Harmonium. Correct: Birju Maharaj → Kathak; Bismillah Khan → Shahnai; Amjad Ali Khan → Sarod."
-  },
-  "94-113": {
-    "r": "Most ancient instrument (of options) → Veena; India's national instrument, traced to the Vedic period; played by goddess Saraswati."
-  },
-  "94-114": {
-    "r": "Sitar → invented by Amir Khusrau, combining the Indian Veena and the Iranian Tambura.",
-    "h": "Sitar = Veena (India) + Tambura (Iran), joined by Khusrau."
-  },
-  "94-115": {
-    "r": "Wrong pair: Thali folk dance → Uttarakhand, not Himachal Pradesh. Correct: Korku → Maharashtra; Jhumar → Haryana; Mukna (folk wrestling) → Manipur."
-  },
-  "94-116": {
-    "r": "Kuchipudi → classical dance from Kuchipudi (Kuchelapuram) village, Krishna district, Andhra Pradesh."
-  },
-  "94-118": {
-    "r": "Kuchipudi → Andhra Pradesh; Bharatnatyam → Tamil Nadu; Kathak → Uttar Pradesh; Odissi → Odisha."
-  },
-  "94-119": {
-    "r": "Hornbill Festival → Nagaland; Sangai Festival → Manipur; Flamingo Festival → Andhra Pradesh; Hemis Festival → Ladakh."
-  },
-  "94-120": {
-    "r": "Loho (Laho) → folk dance of Meghalaya; Nati → Himachal Pradesh; Bamboo and Khantum dances → Mizoram."
-  },
-  "94-121": {
-    "r": "'Surkhi' in Indian architecture → introduced by the Kushans; evidence at Mathura in the third and fifth excavation stages."
-  },
-  "94-122": {
-    "r": "Not a factor of 'Cultural Lag' (book): Politics. Ogburn: non-material culture takes time to catch up with fast-changing material culture and technology."
-  },
-  "94-123": {
-    "r": "Kathakali → traditionally performed only by males; revived by Vallathol Narayana Menon, founder of Kerala Kalamandalam."
-  },
-  "94-124": {
-    "r": "Mask dance → Kathakali (Kerala): actors wear elaborate masks, colourful costumes and painted faces."
-  },
-  "94-125": {
-    "r": "Vishnu Digambar Paluskar → music for 'Vande Mataram'; Venkatamahi → Raga classification scheme; Shyama Shastri → Carnatic music; Amir Khusrau → Khayal form."
-  },
-  "94-126": {
-    "r": "Raas → traditional folk dance of Gujarat (traditionally by males; Garba by females)."
-  },
-  "94-127": {
-    "r": "Wrong pair: Meena Kumari never got Bharat Ratna (singer Lata Mangeshkar did, 2001). Correct: first technicolour → Jhansi Ki Rani; first 3-D → My Dear Kuttichathan; first insured → Taal."
-  },
-  "94-128": {
-    "r": "Lead role in 'Bandit Queen' (on Phoolan Devi, dir. Shekhar Kapur) → Seema Biswas."
-  },
-  "94-129": {
-    "r": "TV serial 'Ramayan' → written and produced by Ramanand Sagar.",
-    "t": "Ramayan → Ramanand Sagar; Mahabharat → B.R. Chopra."
-  },
-  "94-130": {
-    "r": "Film 'The Making of the Mahatma' → directed by Shyam Benegal."
-  },
-  "94-131": {
-    "r": "Film 'Gandhi' (1982) → Ben Kingsley as Gandhi; produced and directed by Richard Attenborough; written by John Briley."
-  },
-  "94-133": {
-    "r": "First Indian talkie → Alam Ara (1931), directed by Ardeshir Irani; premiered at Majestic Cinema, Bombay, 14 March 1931."
-  },
-  "94-134": {
-    "r": "Actress Devika Rani (1908-1994) → married Himanshu Rai (1929), then Russian painter Svetoslav Roerich (1945)."
-  },
-  "94-135": {
-    "r": "TV serial 'Mahabharat' → produced by B.R. Chopra, directed by his son Ravi Chopra; B.R. Chopra got Dada Saheb Phalke Award 1998."
-  },
-  "94-136": {
-    "r": "Vidushaka, the king's dear companion in Sanskrit drama → always a Brahmana; used by Kalidasa, Bhasa and others."
-  },
-  "94-137": {
-    "r": "K. Shankar Pillai ('Shankar', 1902-1989) → cartoonist; Padma Vibhushan 1976.",
-    "hi": ["Cartoonist (व्यंग्यचित्रकार)"]
-  },
-  "94-138": {
-    "r": "Raghu Rai → photographer and photojournalist."
-  },
-  "94-139": {
-    "r": "Bhanu Bharti → theatre director; Mike Pandey → wildlife filmmaker; Mohd. Zahur Khayyam → music composer; Vinda Karandikar → Marathi poet and litterateur."
-  },
-  "94-140": {
-    "r": "Raja Ravi Varma, famous modern painter → born 1848 at Kilimanoor Palace, Travancore (Kerala)."
-  },
-  "94-141": {
-    "r": "Abanindranath Tagore ('father of modern Indian painting') → his paintings are classified as revivalist."
-  },
-  "94-142": {
-    "r": "Indian Society of Oriental Art (Kolkata, 1907) → founded by Abanindranath Tagore to revive ancient Indian art traditions."
-  },
-  "94-143": {
-    "r": "Nandalal Bose → became Principal of Kala Bhavan, Shantiniketan, in 1922; Kala Bhavan founded 1919 by Rabindranath Tagore."
-  },
-  "94-144": {
-    "r": "Vishnu Chinchalkar → painter (Chitrakar); college-mate of M.F. Husain and N.S. Bendre."
-  },
-  "94-145": {
-    "r": "Monalisa → famous painting by Italian painter Leonardo da Vinci."
-  },
-  "94-146": {
-    "r": "'Mera piya ghar aaya' → sung by Pakistani singer Nusrat Fateh Ali Khan."
-  },
-  "94-147": {
-    "r": "Jamini Roy → famous painter."
-  },
-  "94-148": {
-    "r": "Gangasagar Mela → West Bengal, held on Makar Sankranti."
-  },
-  "94-149": {
-    "r": "Britney Spears → American singer and actress (born 2 Dec 1981, Mississippi)."
-  },
-  "94-150": {
-    "r": "Thadingyut → three-day festival of lights of Myanmar, marking the full moon of the lunar month Thadingyut."
-  },
-  "94-151": {
-    "r": "'Tagore of Punjabi language' → Puran Singh."
-  },
-  "94-152": {
-    "r": "Painting 'Satyam Shivam Sundaram' → Shivnandan Nautiyal."
-  },
-  "94-153": {
-    "r": "Hindi Literature → Ras Khan; Urdu → Gyan Chandra Jain; Music and Dance → Savita Devi; Painting → Satish Chandra."
-  },
-  "94-154": {
-    "r": "Santosh Yadav → mountaineer; Oprah Winfrey → TV host; Oscar Wilde → dramatist and author; P. Sainath → journalist."
-  },
-  "94-155": {
-    "r": "First Indian woman to reach the summit of Mount Everest → Bachendri Pal (1984)."
-  },
-  "94-156": {
-    "r": "Saraswati Mahal Library → Thanjavur; Library of Tibetan Works and Archives → Dharamsala; Raza Library → Rampur; Khuda Baksh Oriental Public Library → Patna."
-  },
-  "94-157": {
-    "r": "Wrong pair: Mundu → Kerala (garment worn around the waist), not Chhattisgarh. Correct: Boku → Sikkim; Mekhala → Assam; Pheran → Kashmir."
-  },
-  "94-158": {
-    "r": "Phulkari → Punjab; Dharaniya → Gujarat; Kasuti → Karnataka; Karchobi → Rajasthan.",
-    "hi": ["Embroidery (कढ़ाई)"]
-  },
-  "94-159": {
-    "r": "Shantiniketan → small town near Bolpur, Birbhum district, West Bengal (Visva Bharati)."
-  },
-  "94-160": {
-    "r": "Lalit Kala Akademi → 1954; Sangeet Natak Akademi → 1952 (its website says 1953); National School of Drama → 1959; CCRT → 1979."
-  },
-  "94-161": {
-    "r": "Gateway of India → Mumbai; Victoria Memorial → Kolkata; India Gate → New Delhi; Char Minar → Hyderabad."
-  },
-  "94-162": {
-    "r": "Sriharikota → Andhra Pradesh; Sanchi Stupa → Raisen; Gujari Mahal → Gwalior; Taj-ul-Masjid → Bhopal."
-  }
+ "94-085": {
+  "r": "Khayal → Suraj Khan; Pakhawaj → Pt. Ayodhya Prasad; Veena Vadan → Sadiq Ali Khan; Tabla → Veeru Mishra."
+ },
+ "94-086": {
+  "r": "Pt. Shiv Kumar Sharma → Santoor; Pt. Mallikarjun Mansur → Hindustani music; V.G. Jog → Violin; Ali Akbar Khan → Sarod."
+ },
+ "94-087": {
+  "r": "Ravi Shankar → Sitar; Hari Prasad Chaurasia → Flute; Bismillah Khan → Shehnai; Omkar Nath Thakur, a Hindustani vocalist, gets 'Violin' only by elimination.",
+  "c": "Omkar Nath Thakur is better known as a Hindustani vocalist; 'Violin' fits only by elimination."
+ },
+ "94-088": {
+  "r": "Kishan Maharaj → Tabla; Hari Prasad Chaurasia → Bansuri; Pt. Gopalji Mishra → Sarangi; Kudak Singh → Pakhawaj."
+ },
+ "94-089": {
+  "r": "Birju Maharaj → excellent Kathak dancer."
+ },
+ "94-090": {
+  "r": "Not Kathak: Pt. Dhruvtara Joshi (Indian classical music). Bindadin, Shambhu Maharaj and Lachhu Maharaj → Kathak."
+ },
+ "94-091": {
+  "r": "Not a Kathak artist: Kishan Maharaj (1923-2008), a Tabla player. Birju Maharaj, Lachchhu Maharaj, Sitara Devi → Kathak dancers.",
+  "t": "Kishan Maharaj (Tabla) vs Birju Maharaj (Kathak): same 'Maharaj', different art."
+ },
+ "94-092": {
+  "r": "Madhubani folk art → Bihar; belongs to the Mithila region of Bihar and Nepal."
+ },
+ "94-093": {
+  "r": "Kalaripayattu → ancient martial art, a living tradition in parts of South India, mostly Kerala.",
+  "hi": [
+   "Martial Art (युद्ध कला)"
+  ]
+ },
+ "94-094": {
+  "r": "Folk culture → cultural practices of common people (localised, tradition-bound groups).",
+  "hi": [
+   "Folk Culture (लोक संस्कृति)"
+  ]
+ },
+ "94-095": {
+  "r": "Kalamkari → hand-painted cotton textile of South India (Andhra Pradesh); from Persian 'kalam' (pen) + 'kari' (craftsmanship).",
+  "h": "Kalam = pen: Kalamkari is drawing with a pen on cloth."
+ },
+ "94-096": {
+  "r": "Rukmani Devi → Bharatnatyam; Kumar Gandharva → classical singing; Birju Maharaj → Kathak; Rakesh Sharma → astronaut."
+ },
+ "94-097": {
+  "r": "Folk songs matter most for preserving traditions, passed from generation to generation (intangible heritage).",
+  "hi": [
+   "Folk Song (लोकगीत)"
+  ]
+ },
+ "94-098": {
+  "r": "True: Tyagaraja created several new ragas; Annamacharya's kirtanas praise Lord Venkateshwara. False: Tyagaraja's kritis praise Rama, not Krishna; Annamacharya (15th century) was not his contemporary."
+ },
+ "94-099": {
+  "r": "Not classical: Garba (folk dance). Kathak, Kuchipudi, Odissi are classical dances."
+ },
+ "94-100": {
+  "r": "Correct: Hari Prasad Chaurasia → Flute. Bismillah Khan → Shehnai; Zakir Hussain and Alla Rakha Khan → Tabla."
+ },
+ "94-101": {
+  "r": "Wrong pair: M.S. Subbalakshmi → classical singer (Bharat Ratna 1998), not flute. Correct: Bhimsen Joshi → classical vocal; Alla Rakha → Tabla; Debu Chaudhari → Sitar."
+ },
+ "94-102": {
+  "r": "Balamurali Krishna → Carnatic vocal; Mita Pandit → Hindustani vocal; Kanyakumari → Violin; Nikhil Banerjee → Sitar."
+ },
+ "94-103": {
+  "r": "Kavalam Narayana Panikkar → Theatre; Sharmila Tagore → Cinema; Balamurali Krishna → Carnatic vocal; Sonal Man Singh → Dance (Bharatnatyam, Odissi)."
+ },
+ "94-104": {
+  "r": "Pandit Durga Lal → Dance; Lalgudi Jayaraman → Instrumental music; Balamurali Krishna → Vocal music; Amrita Shergil → Painting."
+ },
+ "94-105": {
+  "r": "Mandakini Amte → social service and community leadership; Neelam Mansingh Chowdhry → theatre direction; Romila Thapar → history writing; Vanashree Rao → dance."
+ },
+ "94-106": {
+  "r": "Amrita Shergil, Bikas Bhattacharjee, N.S. Bendre and Subodh Gupta → all well-known artists (painters)."
+ },
+ "94-107": {
+  "r": "Amrita Shergil → Painter; Bhimsen Joshi → Singer; Rukmini Devi Arundale → Dancer; Suryakant Tripathi 'Nirala' → Poet."
+ },
+ "94-108": {
+  "r": "Sangeet Natak Akademi → National Academy of music, dance and drama; first national arts academy of the Republic; inaugurated 28 Jan 1953.",
+  "hi": [
+   "Sangeet Natak Akademi (संगीत नाटक अकादमी)"
+  ]
+ },
+ "94-109": {
+  "r": "Ronu Majumdar (Rajendranath Majumdar, born 22 June 1963, Varanasi) → Hindustani classical flute player."
+ },
+ "94-110": {
+  "r": "Taslima Nasrin → Lajja; Salman Rushdie → Satanic Verses; M.F. Hussain → Painter; Rukmini Arundale → Dance."
+ },
+ "94-111": {
+  "r": "Ustad Amjad Ali Khan → Sarod."
+ },
+ "94-112": {
+  "r": "Wrong pair: Zakir Hussain → Tabla, not Harmonium. Correct: Birju Maharaj → Kathak; Bismillah Khan → Shahnai; Amjad Ali Khan → Sarod."
+ },
+ "94-113": {
+  "r": "Most ancient instrument (of options) → Veena; India's national instrument, traced to the Vedic period; played by goddess Saraswati."
+ },
+ "94-114": {
+  "r": "Sitar → invented by Amir Khusrau, combining the Indian Veena and the Iranian Tambura.",
+  "h": "Sitar = Veena (India) + Tambura (Iran), joined by Khusrau."
+ },
+ "94-115": {
+  "r": "Wrong pair: Thali folk dance → Uttarakhand, not Himachal Pradesh. Correct: Korku → Maharashtra; Jhumar → Haryana; Mukna (folk wrestling) → Manipur."
+ },
+ "94-116": {
+  "r": "Kuchipudi → classical dance from Kuchipudi (Kuchelapuram) village, Krishna district, Andhra Pradesh."
+ },
+ "94-118": {
+  "r": "Kuchipudi → Andhra Pradesh; Bharatnatyam → Tamil Nadu; Kathak → Uttar Pradesh; Odissi → Odisha."
+ },
+ "94-119": {
+  "r": "Hornbill Festival → Nagaland; Sangai Festival → Manipur; Flamingo Festival → Andhra Pradesh; Hemis Festival → Ladakh."
+ },
+ "94-120": {
+  "r": "Loho (Laho) → folk dance of Meghalaya; Nati → Himachal Pradesh; Bamboo and Khantum dances → Mizoram."
+ },
+ "94-121": {
+  "r": "'Surkhi' in Indian architecture → introduced by the Kushans; evidence at Mathura in the third and fifth excavation stages."
+ },
+ "94-122": {
+  "r": "Not a factor of 'Cultural Lag' (book): Politics. Ogburn: non-material culture takes time to catch up with fast-changing material culture and technology."
+ },
+ "94-123": {
+  "r": "Kathakali → traditionally performed only by males; revived by Vallathol Narayana Menon, founder of Kerala Kalamandalam."
+ },
+ "94-124": {
+  "r": "Mask dance → Kathakali (Kerala): actors wear elaborate masks, colourful costumes and painted faces."
+ },
+ "94-125": {
+  "r": "Vishnu Digambar Paluskar → music for 'Vande Mataram'; Venkatamahi → Raga classification scheme; Shyama Shastri → Carnatic music; Amir Khusrau → Khayal form."
+ },
+ "94-126": {
+  "r": "Raas → traditional folk dance of Gujarat (traditionally by males; Garba by females)."
+ },
+ "94-127": {
+  "r": "Wrong pair: Meena Kumari never got Bharat Ratna (singer Lata Mangeshkar did, 2001). Correct: first technicolour → Jhansi Ki Rani; first 3-D → My Dear Kuttichathan; first insured → Taal."
+ },
+ "94-128": {
+  "r": "Lead role in 'Bandit Queen' (on Phoolan Devi, dir. Shekhar Kapur) → Seema Biswas."
+ },
+ "94-129": {
+  "r": "TV serial 'Ramayan' → written and produced by Ramanand Sagar.",
+  "t": "Ramayan → Ramanand Sagar; Mahabharat → B.R. Chopra."
+ },
+ "94-130": {
+  "r": "Film 'The Making of the Mahatma' → directed by Shyam Benegal."
+ },
+ "94-131": {
+  "r": "Film 'Gandhi' (1982) → Ben Kingsley as Gandhi; produced and directed by Richard Attenborough; written by John Briley."
+ },
+ "94-133": {
+  "r": "First Indian talkie → Alam Ara (1931), directed by Ardeshir Irani; premiered at Majestic Cinema, Bombay, 14 March 1931."
+ },
+ "94-134": {
+  "r": "Actress Devika Rani (1908-1994) → married Himanshu Rai (1929), then Russian painter Svetoslav Roerich (1945)."
+ },
+ "94-135": {
+  "r": "TV serial 'Mahabharat' → produced by B.R. Chopra, directed by his son Ravi Chopra; B.R. Chopra got Dada Saheb Phalke Award 1998."
+ },
+ "94-136": {
+  "r": "Vidushaka, the king's dear companion in Sanskrit drama → always a Brahmana; used by Kalidasa, Bhasa and others."
+ },
+ "94-137": {
+  "r": "K. Shankar Pillai ('Shankar', 1902-1989) → cartoonist; Padma Vibhushan 1976.",
+  "hi": [
+   "Cartoonist (व्यंग्यचित्रकार)"
+  ]
+ },
+ "94-138": {
+  "r": "Raghu Rai → photographer and photojournalist."
+ },
+ "94-139": {
+  "r": "Bhanu Bharti → theatre director; Mike Pandey → wildlife filmmaker; Mohd. Zahur Khayyam → music composer; Vinda Karandikar → Marathi poet and litterateur."
+ },
+ "94-140": {
+  "r": "Raja Ravi Varma, famous modern painter → born 1848 at Kilimanoor Palace, Travancore (Kerala)."
+ },
+ "94-141": {
+  "r": "Abanindranath Tagore ('father of modern Indian painting') → his paintings are classified as revivalist."
+ },
+ "94-142": {
+  "r": "Indian Society of Oriental Art (Kolkata, 1907) → founded by Abanindranath Tagore to revive ancient Indian art traditions."
+ },
+ "94-143": {
+  "r": "Nandalal Bose → became Principal of Kala Bhavan, Shantiniketan, in 1922; Kala Bhavan founded 1919 by Rabindranath Tagore."
+ },
+ "94-144": {
+  "r": "Vishnu Chinchalkar → painter (Chitrakar); college-mate of M.F. Husain and N.S. Bendre."
+ },
+ "94-145": {
+  "r": "Monalisa → famous painting by Italian painter Leonardo da Vinci."
+ },
+ "94-146": {
+  "r": "'Mera piya ghar aaya' → sung by Pakistani singer Nusrat Fateh Ali Khan."
+ },
+ "94-147": {
+  "r": "Jamini Roy → famous painter."
+ },
+ "94-148": {
+  "r": "Gangasagar Mela → West Bengal, held on Makar Sankranti."
+ },
+ "94-149": {
+  "r": "Britney Spears → American singer and actress (born 2 Dec 1981, Mississippi)."
+ },
+ "94-150": {
+  "r": "Thadingyut → three-day festival of lights of Myanmar, marking the full moon of the lunar month Thadingyut."
+ },
+ "94-151": {
+  "r": "'Tagore of Punjabi language' → Puran Singh."
+ },
+ "94-152": {
+  "r": "Painting 'Satyam Shivam Sundaram' → Shivnandan Nautiyal."
+ },
+ "94-153": {
+  "r": "Hindi Literature → Ras Khan; Urdu → Gyan Chandra Jain; Music and Dance → Savita Devi; Painting → Satish Chandra."
+ },
+ "94-154": {
+  "r": "Santosh Yadav → mountaineer; Oprah Winfrey → TV host; Oscar Wilde → dramatist and author; P. Sainath → journalist."
+ },
+ "94-155": {
+  "r": "First Indian woman to reach the summit of Mount Everest → Bachendri Pal (1984)."
+ },
+ "94-156": {
+  "r": "Saraswati Mahal Library → Thanjavur; Library of Tibetan Works and Archives → Dharamsala; Raza Library → Rampur; Khuda Baksh Oriental Public Library → Patna."
+ },
+ "94-157": {
+  "r": "Wrong pair: Mundu → Kerala (garment worn around the waist), not Chhattisgarh. Correct: Boku → Sikkim; Mekhala → Assam; Pheran → Kashmir."
+ },
+ "94-158": {
+  "r": "Phulkari → Punjab; Dharaniya → Gujarat; Kasuti → Karnataka; Karchobi → Rajasthan.",
+  "hi": [
+   "Embroidery (कढ़ाई)"
+  ]
+ },
+ "94-159": {
+  "r": "Shantiniketan → small town near Bolpur, Birbhum district, West Bengal (Visva Bharati)."
+ },
+ "94-160": {
+  "r": "Lalit Kala Akademi → 1954; Sangeet Natak Akademi → 1952 (its website says 1953); National School of Drama → 1959; CCRT → 1979."
+ },
+ "94-161": {
+  "r": "Gateway of India → Mumbai; Victoria Memorial → Kolkata; India Gate → New Delhi; Char Minar → Hyderabad."
+ },
+ "94-162": {
+  "r": "Sriharikota → Andhra Pradesh; Sanchi Stupa → Raisen; Gujari Mahal → Gwalior; Taj-ul-Masjid → Bhopal."
+ }
 }

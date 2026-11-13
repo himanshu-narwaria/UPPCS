@@ -56,7 +56,11 @@ Also asked: Andhra Pradesh was created as a language based state in– -> 1953
 Explanation: In October 1953, Andhra Pradesh was the first state to be created on a linguistic basis, by separating the Telugu speaking areas from the Madras state.
 
 [12-064] Ch12 · States and the Union Territories · asked in 3 paper(s): Chhattisgarh P.C.S. (Pre) 2021; Uttarakhand U.D.A./L.D.A. (Pre) 2007; Uttarakhand U.D.A./L.D.A. (Mains) 2006
-Q: Read the following statements with reference to State Reorganization Commission, 1953 and choose the correct option: Statement-I: Justice Fazl Ali, K.M. Panikkar and Hridaynath Kunzru were its member. Statement-II: Commission supported the splitting of Bombay and Punjab. Statement-III: As per State Reorganization Act, 1956 passed by Parliament, 14 States and 6 centrally administered States were made. From the statements given above, which is/are true?
+Q: Read the following statements with reference to State Reorganization Commission, 1953 and choose the correct option:
+   Statement-I: Justice Fazl Ali, K.M. Panikkar and Hridaynath Kunzru were its member.
+   Statement-II: Commission supported the splitting of Bombay and Punjab.
+   Statement-III: As per State Reorganization Act, 1956 passed by Parliament, 14 States and 6 centrally administered States were made.
+   From the statements given above, which is/are true?
 Options: (a) I, II and III (b) I and II (c) Only I (d) I and III
 Answer: (d) I and III
 Also asked: In which year were the Indian States reorganized on the recommendation of the State Reorganisation Commission? -> 1956
@@ -69,7 +73,7 @@ Answer: *
 Explanation: The capital of Andhra Pradesh has not been changed till now after Independence, while the names of the following capital cities have been changed / | States | Capital’s Previous | Capital’s Current | / | Name | Name | / | 1. Tamil Nadu | Madras | Chennai | / | 2.West Bengal | Calcutta | Kolkata | / | 3. Maharashtra | Bombay | Mumbai | / | 4. Pondicherry | Pondicherry | Puducherry | / | 5. Karnataka | Bangalore | Bengaluru | / | 6. … [shortened in this brief; the book continues]
 
 [12-067] Ch12 · States and the Union Territories · asked in 1 paper(s): R.A.S./R.T.S. (Pre) 2018
-Q: Which of the following statements is/are true? (A)After the Nagpur Session (1920) of Congress, the provincial Congress Committees were constituted on Linguistic basis. (B)In 1948, Congress rejected the demand offormation of provinces on linguistic basis. Select the correct answer from the code below:
+Q: Which of the following statements is/are true? (A)After the Nagpur Session (1920) of Congress, the provincial Congress Committees were constituted on Linguistic basis. (B)In 1948, Congress rejected the demand of formation of provinces on linguistic basis. Select the correct answer from the code below:
 Options: (a) Only (A) (b) Only (B) (c) Neither (A) nor (B) (d) Both (A) & (B)
 Answer: (d) Both (A) & (B)
 Explanation: In 1920, the Indian National Congress session was held in Nagpur under C. Vijayaraghavachariar. After the Nagpur session of Congress, the provincial congress committees were constituted on the linguistic basis. / In 1948, the commission was chaired by S.K. Dhar, to investigate the feasibility of organizing states on the linguistic basis. In 1948, Congress founded the JVP committee consisting of"Jawaharlal Nehru, … [shortened in this brief; the book continues]
@@ -340,7 +344,12 @@ Answer: (d) Both (A) and (R) are true and (R) is the correct explanation of (A).
 Explanation: The State can treat unequals differently, as equal protection of law guaranteed by Article 14 does not mean that all laws must be general in character. There are reasonable classifications varying according to the needs of different classes of persons with the objective of creating a level playing field in social, economic and political spheres. But among the equals, the law should be equal and equally administered. … [shortened in this brief; the book continues]
 
 [14-028] Ch14 · Fundamental Rights · asked in 1 paper(s): I.A.S. (Pre.) 2023
-Q: Consider the following statements: Statement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration. Statement-II: Article 335 of the Constitution of India defines the term ‘efficiency of administration’. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I:
+   The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration.
+   Statement-II:
+   Article 335 of the Constitution of India defines the term ‘efficiency of administration’.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (c) Statement-I is correct but Statement-II is incorrect
 Explanation: Article 16 (4) of the Constitution enables States to make any provision for the reservation of appointments or posts in favour of any backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State. However, the Supreme Court of India has consistently referred to the notions of "efficiency" and "merit," while adjudicating the validity of various … [shortened in this brief; the book continues]
@@ -566,7 +575,7 @@ Explanation: Article 21 of the Indian Constitution provides that –"No person s
 Q: Which one of the following rights cannot be suspended or restricted even during National Emergency?
 Options: (a) Right to reside and settle in any part of the country. (b) Right to life and personal liberty. (c) Right to move freely throughout the territory of India (d) Right to carry on any profession or business.
 Answer: (b) Right to life and personal liberty.
-Explanation: After the 44th Constitutional Amendment (1978), fundamental rights of life and personal liberty (Art. 21) can not be suspended even during a National Emergency. Ifthe National Emergency is declared on the grounds of war or external aggression, the fundamental rights under Article 19 are automatically suspended.
+Explanation: After the 44th Constitutional Amendment (1978), fundamental rights of life and personal liberty (Art. 21) can not be suspended even during a National Emergency. If the National Emergency is declared on the grounds of war or external aggression, the fundamental rights under Article 19 are automatically suspended.
 
 [14-067] Ch14 · Fundamental Rights · asked in 1 paper(s): M.P.P.C.S. (Pre) 2019
 Q: The scope of the Article 21 of the Constitution was expanded to include Right to Education, because of the decision of Supreme Court in the case
@@ -689,7 +698,13 @@ Answer: (b) 2 only
 Explanation: Parole is the release of a prisoner, either temporarily for a special purpose or completely before the expiry of a sentence, on the promise of good behaviour; such a promise is known as a word of honour provided in the parole order. / Parole is not recognized as a right in India, despite the fact that it has administrative importance. A prisoner's claim to parole is not absolute, and prison authorities have … [shortened in this brief; the book continues]
 
 [14-088] Ch14 · Fundamental Rights · asked in 3 paper(s): U.P.U.D.A./L.D.A. (Pre) 2001; Jharkhand P.C.S. (Pre) 2003; U.P.P.C.S. (Pre) 1996
-Q: The provision of ‘Right to Freedom of Religion’ includes- (I) Freedom of propagation of religion (II) Right to wear and carry ‘Kripans’ by Sikhs (III) State’s right to make laws for social reforms (IV) Right to conversion of religion of people by religious bodies Choose the correct answer from given codes: Code:
+Q: The provision of ‘Right to Freedom of Religion’ includes-
+   (I) Freedom of propagation of religion
+   (II) Right to wear and carry ‘Kripans’ by Sikhs
+   (III) State’s right to make laws for social reforms
+   (IV) Right to conversion of religion of people by religious bodies
+   Choose the correct answer from given codes:
+   Code:
 Options: (a) I, II and III (b) II, III and IV (c) III and IV (d) All of above
 Answer: (a) I, II and III
 Also asked: Under which Article of Indian Constitution wearing of ‘Kirpans’ by Sikh is deemed as a right to freedom of religion? -> Article 25
@@ -1276,7 +1291,7 @@ Q: Which of the following Directive Principles do not follow Gandhian Principles
    3) Promotion of cottage Industry in rural areas 4) Right to work
 Options: (a) 1 and 2 (b) Only 2 (c) 2 and 4 (d) 1 and 3
 Answer: (c) 2 and 4
-Explanation: Statement 1 (Organization of Village Panchayats) and Statement 3 (promotion of cottage industries in rural areas) are in accordance with Gandhian principles, whereas statement 2 (Uniform Civil Code) and 4 (Right to work) fall under other categories (Liberal–Intellectual and Socialist) of Directive Principles, not Gandhian. Hence, the Directive Principles not in accordance with Gandhian principles are 2 and 4.
+Explanation: Statement 1 (Organization of Village Panchayats) and / Statement 3 (promotion of cottage industries in rural areas) are in accordance with Gandhian principles, whereas statement 2 (Uniform Civil Code) and 4 (Right to work) fall under other categories (Liberal–Intellectual and Socialist) of Directive Principles, not Gandhian. Hence, the Directive Principles not in accordance with Gandhian principles are 2 and 4.
 
 [15-021] Ch15 · Directive Principles of State Policy · asked in 2 paper(s): U.P. Lower Sub. (Pre) 2004; M.P.P.C.S. (Pre) 1992
 Q: Directive Principles of State Policy are-
@@ -1316,7 +1331,7 @@ Options: (a) Article 33 (b) Article 40 (c) Article 48 (d) Article 50 (e) None of
 Answer: (b) Article 40
 Also asked: Which one of the following Articles directs State Government to organize Village Panchayats? -> Article 40
 Also asked: Under the Constitution of India organization of village panchayat is a -> Directive Principle
-Explanation: Article 40- "to organise village Panchayats and endow them with necessary powers and authority, to enable them to function as units of self - government. / Article 33- Under Rights to Constitutional Remedies (Fundamental Rights), Power of Parliament to modify the rights conferred by this part in their application offorces, etc. Article 48- To prohibit the slaughter of cows, calves and other milch and draught cattle … [shortened in this brief; the book continues]
+Explanation: Article 40- "to organise village Panchayats and endow them with necessary powers and authority, to enable them to function as units of self - government. / Article 33- Under Rights to Constitutional Remedies (Fundamental Rights), Power of Parliament to modify the rights conferred by this part in their application of forces, etc. Article 48- To prohibit the slaughter of cows, calves and other milch and draught cattle … [shortened in this brief; the book continues]
 
 [15-031] Ch15 · Directive Principles of State Policy · asked in 1 paper(s): 66th B.P.S.C. (Pre) (Re- Exam), 2020
 Q: Match List -I with List-II and select the correct answer using the codes given below the Lists:
@@ -1445,7 +1460,7 @@ Q: Which one of the following is not a Directive Principle of State Policy?
 Options: (a) Prohibition of the consumption of Intoxicating Drinks (b) Cow-Protection (c) Environment-Protection (d) Free Education to children up to the age of fourteen (14)
 Answer: (d) Free Education to children up to the age of fourteen (14)
 Also asked: Which one of the following is not a Directive Principle of State Policy? -> Free education for children up to the age of 16 years.
-Explanation: In the Constitution, prohibition of the consumption of intoxicating drinks and cow protection are described under Article 47 and Article 48, respectively. Under Article 48A protection and improvement of the environment is provided. Provision for free and compulsory education for all children until they complete the age offourteen years was mentioned under Article 45 of Directive Principles of State Policy but in … [shortened in this brief; the book continues]
+Explanation: In the Constitution, prohibition of the consumption of intoxicating drinks and cow protection are described under Article 47 and Article 48, respectively. Under Article 48A protection and improvement of the environment is provided. Provision for free and compulsory education for all children until they complete the age of fourteen years was mentioned under Article 45 of Directive Principles of State Policy but in … [shortened in this brief; the book continues]
 
 [15-052] Ch15 · Directive Principles of State Policy · asked in 1 paper(s): I.A.S. (Pre) 2008
 Q: Which of the following is/are included in the Directive Principles of State Policy?
@@ -1855,7 +1870,7 @@ Explanation: The President of India is elected by the system of proportional rep
 
 [17-027] Ch17 · The President · asked in 1 paper(s): U.P.P.C.S. (Mains) 2016
 Q: Which one of the following is not correct regarding Presidential election?
-Options: (a) Election of the successor must be held before the expiry of the term of the incumbent President (b) The President shall hold office for a term offive years from the date on which he enters upon his office. (c) On the expiration of his term, he continues to hold office until his successor enters upon his office. (d) President’selection may be postponed on the ground that the electoral college is incomplete.
+Options: (a) Election of the successor must be held before the expiry of the term of the incumbent President (b) The President shall hold office for a term of five years from the date on which he enters upon his office. (c) On the expiration of his term, he continues to hold office until his successor enters upon his office. (d) President’selection may be postponed on the ground that the electoral college is incomplete.
 Answer: (d) President’selection may be postponed on the ground that the electoral college is incomplete.
 Explanation: The Presidential election can not be postponed on the grounds that the electoral college is incomplete. The Legislative Assembly, which is dissolved, cannot take part in the election. Thus option (d) is not correct while the other options are correct with regard to the election of the President.
 
@@ -1911,7 +1926,7 @@ Explanation: The President is elected not directly by the people but by members 
 Q: The Chief Minister of a State in India is not eligible to vote in the Presidential election if-
 Options: (a) He is a candidate (b) He is yet to prove his majority on the floor of the Lower House of the State Legislature. (c) He is a member of the Upper House of the State Legislature. (d) He is a member of the Lower House of the State Legislature.
 Answer: (c) He is a member of the Upper House of the State Legislature.
-Explanation: Article 54 provides that the President shall be elected by an electoral college consisting of: / (a) the elected members of both Houses of Parliament / (b) the elected members of Legislative Assembly of the States. / (c) the elected members of the Legislative Assemblies of the National Capital Territory of Delhi and the Union Territory of Puducherry. / Thus, ifthe Chief Minister of a State is a member of the Upper House of … [shortened in this brief; the book continues]
+Explanation: Article 54 provides that the President shall be elected by an electoral college consisting of: / (a) the elected members of both Houses of Parliament / (b) the elected members of Legislative Assembly of the States. / (c) the elected members of the Legislative Assemblies of the National Capital Territory of Delhi and the Union Territory of Puducherry. / Thus, if the Chief Minister of a State is a member of the Upper House of … [shortened in this brief; the book continues]
 
 [17-035] Ch17 · The President · asked in 1 paper(s): I.A.S. (Pre) 1997
 Q: In the Presidential election in India, every elected member of the Legislative Assembly of a State shall have as many votes as there are multiples of one thousand in the quotient obtained by dividing the population of the State by the total number of the elected members of the Assembly. As at present (1997), the expression “population” here means the population as ascertained by the
@@ -1967,7 +1982,7 @@ Q: Consider the following statements:
    How many of the above statements are correct?
 Options: (a) Only one (b) Only two (c) All three (d) None
 Answer: (d) None
-Explanation: Article 71 of the Indian Constitution provides matters relating to, or connected with, the election of a President or Vice-President. As per Article 71(1), all doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court, whose decision shall be final. Article 71(2) says, Ifthe election of a person as President or … [shortened in this brief; the book continues]
+Explanation: Article 71 of the Indian Constitution provides matters relating to, or connected with, the election of a President or Vice-President. As per Article 71(1), all doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court, whose decision shall be final. Article 71(2) says, If the election of a person as President or … [shortened in this brief; the book continues]
 
 [17-043] Ch17 · The President · asked in 1 paper(s): R.A.S./R.T.S (Pre) 1996
 Q: The President holds office for a term of 5 years from date on –
@@ -2557,7 +2572,7 @@ Q: The Vice-President of India:
    1. Is the second highest dignitary of India.
    2. Has no formal function attached to his office
    3. Discharges the functions of the President during his absence.
-   4. Acts as the President ifthe President resigns, or is removed or dies.
+   4. Acts as the President if the President resigns, or is removed or dies.
    Select the correct answer from the code given below:
    Code:
 Options: (a) 1 and 2 (b) 1,2 and 3 (c) 1,3 and 4 (d) All the four
@@ -2649,7 +2664,7 @@ Explanation: According to Article 74(1), there shall be a Council of Ministers w
 Q: Article 78 of the Constitution of India lays down the duties of the –
 Options: (a) Speaker of Lok Sabha (b) Chairman of Rajya Sabha (c) Comptroller and Auditor General of India (d) Prime Minister
 Answer: (d) Prime Minister
-Explanation: Article 78 envisages the duties of the Prime Minister in respect of furnishing information to the President. / (i) Relating to the administration of affairs of the Union / (ii) Ifthe President requires, submits for the consideration of the Council of Ministers any matter on which a decision has been taken by a minister but not considered by the Council.
+Explanation: Article 78 envisages the duties of the Prime Minister in respect of furnishing information to the President. / (i) Relating to the administration of affairs of the Union / (ii) If the President requires, submits for the consideration of the Council of Ministers any matter on which a decision has been taken by a minister but not considered by the Council.
 
 [19-007] Ch19 · The Council of Ministers · asked in 1 paper(s): I.A.S. (Pre) 2022
 Q: Consider the following statements:

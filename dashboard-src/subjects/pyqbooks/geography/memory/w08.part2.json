@@ -1,0 +1,528 @@
+{
+ "156-061": {
+  "r": "Podzol → soil of coniferous (Taiga) forests of Eurasia and North America.",
+  "hi": [
+   "Coniferous forest (शंकुधारी वन)"
+  ]
+ },
+ "156-062": {
+  "r": "Mocha coffee → Yemen; named after the Mocha seaport from where it was exported."
+ },
+ "156-063": {
+  "r": "Not in tea → morphine; tea has theanine, caffeine, tannin, polyphenols, theobromine, theophylline."
+ },
+ "156-064": {
+  "r": "Agreement on Agriculture Green Box → support for agricultural research and plant protection (pest and disease control), training and extension; not fertilizer or irrigation."
+ },
+ "156-065": {
+  "r": "Incorrect: sugarcane as Malaysia's major plantation crop; Malaysia → rubber. Correct: cocoa → Ghana; coffee → Brazil; tea → Sri Lanka."
+ },
+ "156-066": {
+  "r": "Heroin → obtained from opium resin.",
+  "hi": [
+   "Opium (अफीम)"
+  ]
+ },
+ "156-067": {
+  "r": "Golden Crescent (illicit opium area, Central and South Asia) → Afghanistan, Iran, Pakistan; not Iraq.",
+  "h": "Golden Crescent = AIP: Afghanistan, Iran, Pakistan."
+ },
+ "156-068": {
+  "r": "Maize as staple food → Middle Africa.",
+  "hi": [
+   "Maize (मक्का)"
+  ]
+ },
+ "156-069": {
+  "r": "Sacramento–San Joaquin Valley (Central Valley) → California, USA; famous for citrus fruit production."
+ },
+ "156-070": {
+  "r": "Commercial viticulture → Mediterranean Europe, because 85% of its grapes go to wine making (A and R true, R explains A)."
+ },
+ "156-071": {
+  "r": "Citrus fruits → well developed in Mediterranean regions (subtropical dry-summer climate)."
+ },
+ "156-072": {
+  "r": "High-yielding variety seeds first developed → Mexico, by American agronomist Norman E. Borlaug.",
+  "hi": [
+   "High-yielding variety (उच्च उपज किस्म)"
+  ]
+ },
+ "156-073": {
+  "r": "Catechu → obtained from the wood of the Khair tree (Acacia catechu).",
+  "hi": [
+   "Catechu (कत्था)"
+  ]
+ },
+ "156-074": {
+  "r": "Peanuts (groundnut) → main crop of Gambia among options; Ghana now produces most of these; China is the largest producer globally (FAO 2023).",
+  "hi": [
+   "Groundnut (मूंगफली)"
+  ]
+ },
+ "156-075": {
+  "r": "Native place of groundnut → Brazil (Mato Grosso area, South America).",
+  "hi": [
+   "Groundnut (मूंगफली)"
+  ]
+ },
+ "156-076": {
+  "r": "Shahtoosh shawl wool → hair of the Tibetan antelope (Chiru), found almost entirely in China (Tibet, Xinjiang, Qinghai); a few in Ladakh, India."
+ },
+ "156-078": {
+  "r": "Apiculture → beekeeping, for honey production.",
+  "hi": [
+   "Apiculture (मधुमक्खी पालन)"
+  ]
+ },
+ "156-079": {
+  "r": "Viticulture → science of growing grapes; when grapes go to wine making, viniculture; a branch of horticulture."
+ },
+ "156-080": {
+  "r": "Wrong pair: vegetable cultivation – horticulture; vegetables → olericulture. Correct: flowers → floriculture; crops → agronomy; fruits → pomology.",
+  "t": "Don't confuse olericulture (vegetables) with pomology (fruits)."
+ },
+ "156-081": {
+  "r": "Silk production → India ranks second, after China (FAO 2023).",
+  "hi": [
+   "Raw silk (कच्चा रेशम)"
+  ]
+ },
+ "156-082": {
+  "r": "Largest silk producer → China (FAO 2023)."
+ },
+ "156-083": {
+  "r": "Australia rears cattle more for meat than milk (about 2.2 of 30.1 million for dairy, 2025); Australians are traditionally non-vegetarian (A, R true; R explains A)."
+ },
+ "156-084": {
+  "r": "Largest livestock population → China (829.58 million, 2020), then India, Brazil, USA (FAO)."
+ },
+ "156-085": {
+  "r": "Mad cow disease → destroyed beef's safe image in Europe and America; first broke out in 1986 in the U.K."
+ },
+ "156-086": {
+  "r": "Largest milk producer → India (247.87 million tonnes in 2024-25, NDDB; 485 grams per person per day); then USA, Pakistan, China, Brazil (2023 data).",
+  "hi": [
+   "Milk production (दुग्ध उत्पादन)"
+  ]
+ },
+ "156-088": {
+  "r": "Highest milk yield per cow among options → Denmark (100283 hg/cow, FAO 2020), ahead of Netherlands, Great Britain, India; Israel highest overall."
+ },
+ "156-089": {
+  "r": "Milk producers, descending (2011): India > USA > China > Russia; Yearbook 2025: India, USA, Pakistan, China, Brazil."
+ },
+ "156-090": {
+  "r": "Second largest corn (maize) producer → China, after USA; Brazil third (FAO 2023).",
+  "hi": [
+   "Maize (मक्का)"
+  ]
+ },
+ "156-091": {
+  "r": "'Sugar Bowl of the world' → Cuba (sugarcane is its major produce)."
+ },
+ "156-092": {
+  "r": "Large coffee plantations of Brazil → Fazendas (coffee in the south-east; in colonial times sugar fazendas in the north-east)."
+ },
+ "156-093": {
+  "r": "Chad → petroleum; Niger → uranium; Rwanda → coffee; Benin → cotton (code 3 2 4 1)."
+ },
+ "156-094": {
+  "r": "Largest rice exporter in recent years → India, by quantity and value (FAO, 2013-23)."
+ },
+ "156-095": {
+  "r": "Largest saffron producer → Iran (2025).",
+  "hi": [
+   "Saffron (केसर)"
+  ]
+ },
+ "156-096": {
+  "r": "Commercial dairy farming → Denmark; commercial grain farming → Argentina; plantation farming → Malaysia; fruit production → France (code 3 1 4 2)."
+ },
+ "156-097": {
+  "r": "Not a major cocoa producer → Latvia; top cocoa producers (FAO 2024) → Cote d'Ivoire, Indonesia, Ghana; Cameroon 6th."
+ },
+ "156-098": {
+  "r": "Two best-known largest cocoa producers → Cote d'Ivoire (Ivory Coast) and Ghana; FAO 2024 order: Cote d'Ivoire, Indonesia, Ghana, Ecuador, Nigeria."
+ },
+ "156-099": {
+  "r": "Only 1 true: India has more arable land (153.87 million ha) than China (109.02). India's irrigated share is less than China's; statement 3 is also wrong.",
+  "c": "The explanation calls India's per-hectare productivity higher than China's yet marks statement 3 wrong; China's average yield is in fact higher."
+ },
+ "156-100": {
+  "r": "Both true: India has the largest cropland (168.32 million ha) vs USA (154.73), China (128.36), Japan (4.29); tropical monsoon climate allows varied crops all year."
+ },
+ "156-101": {
+  "r": "Cereal yield → cereal produced per unit of harvested land (kg per hectare); not the total cereal production of a country."
+ },
+ "156-102": {
+  "r": "Growing different crops in turn (crop rotation) keeps soil fertile, but neither assumption follows: a crop can be grown again in the same field; fertilizer may still be needed.",
+  "hi": [
+   "Crop rotation (फसल चक्र)"
+  ]
+ },
+ "156-103": {
+  "r": "Not a Mediterranean agriculture area → Northern Australia; it is found in California, central Chile, south-western/southern Australia and SW South Africa (juicy fruits, grapes)."
+ },
+ "157-001": {
+  "r": "Coal → sedimentary rock (layered; holds fossils and mineral oil). Coal grades: anthracite (90-95% carbon) > bituminous (most abundant) > lignite (brown coal) > peat.",
+  "hi": [
+   "Sedimentary rock (अवसादी शैल)"
+  ],
+  "c": "The book also lists slate and marble as sedimentary; both are metamorphic rocks."
+ },
+ "157-002": {
+  "r": "Coal, crude oil and natural gas → fossil fuels, formed over millions of years from remains of living organisms.",
+  "hi": [
+   "Fossil fuel (जीवाश्म ईंधन)"
+  ]
+ },
+ "157-003": {
+  "r": "All correct: China → leading coal producer; Donetsk Basin (Donbass) → Ukraine; Saar → Germany; Appalachian region (North Appalachian) → main US coal area."
+ },
+ "157-005": {
+  "r": "Donetsk → Ukraine; Kuznetsk → Russia; Lancashire → U.K.; Saar → Germany (code 4 3 2 1)."
+ },
+ "157-006": {
+  "r": "Appalachian → USA; Lancashire → England; Ruhr → Germany; Kuzbass → Russia (code 4 1 2 3)."
+ },
+ "157-007": {
+  "r": "Largest hard coal reserves when asked → China; now (end of 2023) USA first, then Russia, China, Australia, India."
+ },
+ "157-008": {
+  "r": "Largest coal centre of Ukraine → Donetsk (Donbas, eastern Ukraine), about 90% of its coal; other basins: Lviv-Volhynian, Dnieper (brown coal)."
+ },
+ "157-009": {
+  "r": "More than half of world coal → China and USA when asked; in 2023 China alone produced more than half (World Mineral Production).",
+  "c": "The book gives no single answer (*): option (b) fitted when asked; now China alone gives over half."
+ },
+ "157-010": {
+  "r": "Ruhr basin → famous industrial region of western Germany, on the Ruhr river; coal mines and industries."
+ },
+ "157-011": {
+  "r": "Ruhr coalfield → Germany; gives the bulk of Germany's bituminous coal; steel and chemical industries, dense waterways and railways."
+ },
+ "157-012": {
+  "r": "Largest coal reserves among options → China; top three coal reserves globally → USA, Russia, China."
+ },
+ "157-013": {
+  "r": "Highest coal-producing country → China (2023, World Mineral Production)."
+ },
+ "157-014": {
+  "r": "Rukwa lake region (Tanzania) → coal (some mining); also gemstones like emerald, ruby, topaz, aquamarine."
+ },
+ "157-015": {
+  "r": "Not a German coalfield → Lorraine Basin (mainly north-eastern France); Ruhr, Saar and Achen basins are in Germany."
+ },
+ "157-016": {
+  "r": "Kuzbass (Russia) → rich in coal and iron ore; Novosibirsk is an important industrial centre. Both statements correct."
+ },
+ "158-001": {
+  "r": "Earth's interior: iron is the most common metal, then nickel, then aluminium; crust: aluminium first, iron second. No nickel in options → aluminium.",
+  "t": "Don't mix interior order (iron, nickel) with crust order (aluminium, iron)."
+ },
+ "158-002": {
+  "r": "Iron ore producers, descending, 2008: China > Brazil > Australia > Sweden; 2023: Australia > Brazil > India > China."
+ },
+ "158-003": {
+  "r": "Largest gold producer in 2023 (and 2024) → China; Russia and Australia also among leaders."
+ },
+ "158-004": {
+  "r": "Largest iron ore producer when asked → China; now (2023) Australia."
+ },
+ "158-005": {
+  "r": "Marquette range (Marquette County, Michigan, USA) → iron ore."
+ },
+ "158-006": {
+  "r": "Iron ore leaders (2019-23): Australia, Brazil, India, China; among the options (Philippines, America, Russia, India) → India."
+ },
+ "158-007": {
+  "r": "Main iron ore producers of Europe → Russia, Ukraine, Sweden (2023: Russia, Sweden, Ukraine); France is not among them.",
+  "c": "The book gives no single answer (*): France is in none of these ranks for iron ore; it was fifth in pig iron (2013)."
+ },
+ "158-008": {
+  "r": "Lorraine → France; Midland → U.K.; Kiruna → Sweden; Kostanay → Kazakhstan (code 4 3 1 2)."
+ },
+ "158-009": {
+  "r": "Placer gold on Ghana's coast has no source rock there; it came from gold-bearing veins of the Brazil plateau when the two continents lay side by side.",
+  "c": "BPSC's key is 'both true and R explains A', option (a) here. The book prints (b) and calls R 'not right', yet its own reasoning (Ghana's gold came from Brazil's veins when the continents were joined) supports (a)."
+ },
+ "158-010": {
+  "r": "Wrong pair: Germany – Normandy; Normandy is in France. Correct: Kazakhstan – Karaganda; Ukraine – Krivoy Rog; France – Pyrenees. Lorraine (France) → iron and steel."
+ },
+ "158-012": {
+  "r": "Lake Superior region (North America) → iron ore reserves."
+ },
+ "158-013": {
+  "r": "'Rust Bowl' (Rust Belt) → iron and industrial region of north-eastern USA (Illinois, Indiana, Michigan, Ohio, Pennsylvania); includes Great Lakes and Pittsburgh regions → (e)."
+ },
+ "158-014": {
+  "r": "Great Lakes region of North America (USA and Canada's Ontario) → steel and engineering industries most developed."
+ },
+ "158-015": {
+  "r": "Top three iron ore producers when asked → China, Russia, Australia; in 2023 → Australia, Brazil, India."
+ },
+ "158-016": {
+  "r": "Mount Newman (Australia) → iron ore mining."
+ },
+ "158-017": {
+  "r": "Minas Gerais (south-eastern Brazil) → high-quality iron ore; also manganese, tin, silver, zinc and precious stones."
+ },
+ "159-001": {
+  "r": "Largest copper ore producer → Chile, then D.R. Congo and Peru (2023).",
+  "hi": [
+   "Copper (तांबा)"
+  ]
+ },
+ "159-002": {
+  "r": "Copper leaders (2023): Chile, D.R. Congo, Peru; among Australia, China, India, USA → China."
+ },
+ "159-003": {
+  "r": "Chile still leads copper output (2023) (A true) because it has the largest porphyry copper deposits in the Andes, e.g. Chuquicamata mine (R true, explains A)."
+ },
+ "159-004": {
+  "r": "Chile → largest copper producer (about 5372694 tonnes, 2023), as the Andes hold the largest porphyry copper deposits (A, R true; R explains A)."
+ },
+ "159-005": {
+  "r": "Zambia: rich copper belt (extending to Katanga, D.R. Congo) but slow progress → landlocked, no seaport, so exports suffer.",
+  "hi": [
+   "Landlocked country (स्थलरुद्ध देश)"
+  ]
+ },
+ "159-006": {
+  "r": "Japan → almost self-sufficient in copper (produces more than it consumes); not in bauxite, iron ore or mineral oil."
+ },
+ "159-007": {
+  "r": "Largest copper producer of Africa when asked → Zambia; in 2023 → D.R. Congo."
+ },
+ "159-008": {
+  "r": "Chuquicamata (Chiquicamata), Chile → copper, famous worldwide."
+ },
+ "160-001": {
+  "r": "Highest gold output among the options → China (375155 kg in 2023, World Mineral Production).",
+  "hi": [
+   "Gold (सोना)"
+  ]
+ },
+ "160-002": {
+  "r": "Gold output order when asked → South Africa > USA > Australia > China; in 2023 → China > Russia > Australia > Canada > USA."
+ },
+ "160-003": {
+  "r": "Kalgoorlie and Coolgardie → gold mines of Western Australia; Australia has the world's largest gold reserves (Mineral Commodity Summaries 2026)."
+ },
+ "160-006": {
+  "r": "Johannesburg (largest city of South Africa, capital of Gauteng) → gold and diamond mining."
+ },
+ "160-007": {
+  "r": "Largest gold exporter to India → Switzerland (projected for 2025)."
+ },
+ "160-008": {
+  "r": "Asia's biggest gold market when asked → Beijing, China; as of February 2026 → Shanghai Gold Exchange, China."
+ },
+ "161-001": {
+  "r": "Largest silver producer → Mexico (2023), then China, Peru, Russia, Poland.",
+  "hi": [
+   "Silver (चाँदी)"
+  ]
+ },
+ "161-002": {
+  "r": "Mexico → largest producer of silver (2023)."
+ },
+ "161-003": {
+  "r": "German silver (nickel silver) → copper alloy with nickel and zinc (usually 60% copper, 20% nickel, 20% zinc); named for its look, contains no silver.",
+  "t": "Horn silver, ruby silver and lunar caustic do contain silver."
+ },
+ "162-001": {
+  "r": "Odd one out → Bauxite (aluminium ore); haematite, magnetite and limonite are iron ores.",
+  "hi": [
+   "Bauxite (बॉक्साइट)"
+  ]
+ },
+ "162-003": {
+  "r": "Largest aluminium producer when asked → USA; in 2023 → China (41594000 t), then Russia, India, Canada, UAE."
+ },
+ "162-004": {
+  "r": "Aluminium producers (2023): China > Russia > India > Canada > UAE; among France, India, USA, Italy → India."
+ },
+ "163-001": {
+  "r": "Tin → about 80% from placer deposits: gravity-concentrated heavy minerals near riverbeds, valleys and sea floor, spread in South East Asia.",
+  "hi": [
+   "Placer deposits (प्लेसर निक्षेप)"
+  ]
+ },
+ "163-002": {
+  "r": "Tin producers (2023): China, Indonesia, Myanmar, Peru, Brazil; China not in options → Indonesia."
+ },
+ "163-003": {
+  "r": "Kinta Valley (Malaysia) → tin production."
+ },
+ "164-001": {
+  "r": "Petroleum production, ascending, when asked: China, Iran, USA, Saudi Arabia; 2023 leaders: USA, Russia, Saudi Arabia, Canada, Iran."
+ },
+ "164-002": {
+  "r": "Alaska → oil-producing US state; bought from Russia in 1867. Both statements correct."
+ },
+ "164-003": {
+  "r": "Three leading petroleum producers (2023) → USA, Russia, Saudi Arabia.",
+  "c": "When asked (2008), (c) Saudi Arabia, Russia, USA was the order; by 2023 data it is USA, Russia, Saudi Arabia, which no option gives."
+ },
+ "164-004": {
+  "r": "Largest petroleum producer (2023) → USA, then Russia; among Kuwait, Iran, Saudi Arabia, Russia → Russia."
+ },
+ "164-005": {
+  "r": "Middle East petroleum producers, descending (2023) → Saudi Arabia, Iran, Iraq, UAE.",
+  "c": "Among the four listed countries, the book's 2023 data give Saudi Arabia, Iran, Iraq, then Kuwait, i.e. (b); UAE is simply not listed. When asked (2008), Kuwait out-produced Iraq, which fits (d)."
+ },
+ "164-006": {
+  "r": "All true: Middle East held over 60% of world oil reserves (when asked); Alaska's reserves about equal Texas; USA is a prominent producer and importer."
+ },
+ "164-007": {
+  "r": "Largest petroleum producer of Southeast Asia → Indonesia (Sumatra, Java, Kalimantan)."
+ },
+ "164-008": {
+  "r": "Venezuela → major petroleum producer; oil gives over 80% of its export revenue (2025)."
+ },
+ "164-009": {
+  "r": "Largest proved crude oil reserves → Venezuela (303.2 billion barrels), then Saudi Arabia (267.2) (2024).",
+  "hi": [
+   "Crude oil (कच्चा तेल)"
+  ]
+ },
+ "164-011": {
+  "r": "Largest oil reserves when asked (2006) → Saudi Arabia; now (2024) Venezuela (303.2 billion barrels) > Saudi Arabia > Iran.",
+  "t": "Reserves leader is Venezuela; production leader is USA."
+ },
+ "164-012": {
+  "r": "Largest oil reserves (2024): Venezuela, Saudi Arabia, Iran; among Kuwait, Iran, Iraq, Nigeria → Iran."
+ },
+ "164-013": {
+  "r": "Highest petroleum producer of West Asia → Saudi Arabia; third in world after USA and Russia (2023)."
+ },
+ "164-014": {
+  "r": "Gasohol → unleaded gasoline (90%) + ethanol (10%); USA is the top producer and consumer (2024)."
+ },
+ "164-015": {
+  "r": "Brent crude → major crude oil classification and world benchmark price, sourced from the North Sea; light, with low (not zero) sulphur. Statements 1, 2 correct."
+ },
+ "164-016": {
+  "r": "'Peace Pipeline' → Iran–Pakistan (IP) gas pipeline; none of the given options."
+ },
+ "164-017": {
+  "r": "Sumed (Suez-Mediterranean) pipeline, Egypt → Gulf of Suez (Red Sea) to Mediterranean near Alexandria; strategic alternative to Suez Canal for Persian Gulf oil to Europe.",
+  "t": "Sumed carries crude oil only, not natural gas; the book notes (d) is possible literally, but takes (a)."
+ },
+ "164-018": {
+  "r": "First commercial oil well (1857) → Romania; 275 tonnes output officially recorded."
+ },
+ "164-019": {
+  "r": "Group with a crop that cannot make biofuel → (c) Lentil, Sugarbeet, Wheat. Biofuel crops: sugarcane, corn, soyabean, rapeseed, jatropha.",
+  "hi": [
+   "Biofuel (जैव ईंधन)"
+  ],
+  "c": "The book says sugarbeet and wheat also cannot make biofuel; both are used for ethanol. Lentil is the crop that makes (c) right."
+ },
+ "164-020": {
+  "r": "Top crude oil supplier to India in 2017-18 → Iraq (earlier Saudi Arabia; in 2025 Russia)."
+ },
+ "164-021": {
+  "r": "Ras Tanura refinery → Saudi Arabia, on the Persian Gulf coast near Jubail; started 1945."
+ },
+ "164-022": {
+  "r": "Wrong pair: Kuwait – Kashagan; Kashagan oil and gas field is in Kazakhstan. Correct: Iran – Hafi Kel; Saudi Arabia – Dhahran; Iraq – Zubair."
+ },
+ "164-023": {
+  "r": "Largest crude oil producer after USA → Russia (2023)."
+ },
+ "164-024": {
+  "r": "Pegu Yoma (low range between Irrawaddy and Sittaung rivers, Myanmar) → mineral oil."
+ },
+ "165-001": {
+  "r": "Largest uranium producer (2023) → Kazakhstan, then Canada and Namibia; before 2009 Canada led (so 'prominent uranium/atomic minerals producer' → Canada).",
+  "hi": [
+   "Uranium (यूरेनियम)"
+  ]
+ },
+ "165-004": {
+  "r": "Largest uranium reserves → Australia (2023); Olympic Dam mine in South Australia."
+ },
+ "165-005": {
+  "r": "'Uranium City' → Canada: northern Saskatchewan, near the north shore of Lake Athabasca."
+ },
+ "165-006": {
+  "r": "Radium (Ra, radioactive) → extracted from pitchblende, a uranium ore."
+ },
+ "165-007": {
+  "r": "Important uranium deposits among the options → Canada; biggest reserves now (2023) → Australia."
+ },
+ "165-008": {
+  "r": "Largest uranium producer → Kazakhstan (2023)."
+ },
+ "165-009": {
+  "r": "Not a major resource of Russia (when asked) → uranium; Russia is rich in iron ore, diamonds, gold, nickel, platinum. In 2023 Russia ranked 6th in uranium."
+ },
+ "166-001": {
+  "r": "Seabed mining licences in international waters → UN International Seabed Authority (not Global Ocean Commission); India has such licences; rare earths lie on the seafloor. 2 and 3 correct."
+ },
+ "166-002": {
+  "r": "Postmasburg and nearby areas (South Africa) → manganese."
+ },
+ "166-003": {
+  "r": "Natural camphor → tree Cinnamomum camphora, native to China and Japan; in India from Blumea species; Borneo/Sumatra camphor from Dryobalanops.",
+  "hi": [
+   "Camphor (कपूर)"
+  ]
+ },
+ "166-004": {
+  "r": "Non-ferrous metals (negligible iron) → nickel, zinc, copper, aluminium (also tin, lead, titanium, gold, silver); iron ore, pig iron and steel are not.",
+  "hi": [
+   "Non-ferrous metals (अलौह धातुएँ)"
+  ]
+ },
+ "166-005": {
+  "r": "Coal → Karaganda Basin; Gold → Highveld; Iron ore → Krivoi Rog; Mineral oil → San Joaquin Valley (code 2 1 4 3)."
+ },
+ "166-006": {
+  "r": "Mineral oil → Venezuela; Copper → Zambia; Manganese → Gabon; Bauxite → Guyana (code 3 1 4 2)."
+ },
+ "166-007": {
+  "r": "Wrong pair: Mesabi Range – copper; Mesabi → iron ore. Correct: Donbas Basin – coal; Mosul – petroleum; Transvaal – gold."
+ },
+ "166-008": {
+  "r": "Iron ore → Mesabi (Lake Superior, USA); Petroleum → Baku (Azerbaijan); Copper → Bingham Canyon (Utah, USA); Uranium → Port Radium (Great Bear Lake, Canada).",
+  "h": "Port Radium hints at radioactive minerals → uranium."
+ },
+ "166-011": {
+  "r": "Correct pair → Copper – Arizona (USA); Coal – Karatzas, Iron ore – Rasatnoora and Petroleum – Donbas are wrong pairs."
+ },
+ "166-012": {
+  "r": "Wrong pair: Saar – iron ore; Saar → coal. Correct: Kimberley – diamond; Witwatersrand – gold; Katanga – copper; Butte – silver."
+ },
+ "166-014": {
+  "r": "Afghanistan's mineral find (worth $1 trillion), compared with Iran's oil-field discovery → lithium.",
+  "hi": [
+   "Lithium (लिथियम)"
+  ]
+ },
+ "166-015": {
+  "r": "Leading titanium producer when asked → Russia; now (2025 data, USGS 2026) China leads titanium mineral concentrates."
+ },
+ "166-016": {
+  "r": "Biggest bauxite producer → Australia (Indian Minerals Yearbook 2012); now (2025 data) Guinea is the major producer.",
+  "hi": [
+   "Bauxite (बॉक्साइट)"
+  ]
+ },
+ "166-018": {
+  "r": "Chile is famous for → nitrate; largest natural source → Atacama Desert (north Chile, south Peru)."
+ },
+ "166-019": {
+  "r": "Bolivia → tin; Brazil → iron ore; Mexico → silver; natural nitrate → Chile (Atacama), so Peru–Nitrate is the wrongly matched pair.",
+  "c": "The book calls all four pairs correct, but natural nitrate is Chile's (Atacama); Peru lost its nitrate fields (Tarapacá) to Chile in the War of the Pacific. So (d) Peru – Nitrate is the odd pair."
+ },
+ "166-021": {
+  "r": "Rare earth worry: China, the largest producer (over 95% in 2010), restricted exports; demand for electronics rising. Wrong: they exist beyond China, Australia, Canada, Chile.",
+  "hi": [
+   "Rare earth metals (दुर्लभ मृदा धातुएँ)"
+  ]
+ }
+}

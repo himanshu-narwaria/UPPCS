@@ -97,7 +97,7 @@ Q: Consider the following statements:
    Which of the statements given above is/are correct?
 Options: (a) 1 only (b) 2 and 3 (c) 1 and 3 (d) All of these
 Answer: (b) 2 and 3
-Explanation: Statement 1 is incorrect. According to Article 75(3) of the Constitution, the Council of Ministers is collectively responsible to the Lok Sabha and not the Parliament. Statement 2 is correct as according to Article 75(2), ministers hold the office during the pleasure of the President. Statement 3 is also correct as Article 78(a) provides that it shall be the duty of the Prime Minister to communicate to the President … [shortened in this brief; the book continues]
+Explanation: Statement 1 is incorrect. According to Article 75(3) of the Constitution, the Council of Ministers is collectively responsible to the Lok Sabha and not the Parliament. / Statement 2 is correct as according to Article 75(2), ministers hold the office during the pleasure of the President. Statement 3 is also correct as Article 78(a) provides that it shall be the duty of the Prime Minister to communicate to the President … [shortened in this brief; the book continues]
 
 [19-037] Ch19 · The Council of Ministers · asked in 1 paper(s): I.A.S. (Pre) 1995
 Q: Which one of the following is not explicitly stated in the Constitution of India but followed as a convention?
@@ -340,7 +340,8 @@ Explanation: The Council of Ministers seldom meets as a body. It is the Cabinet,
 [19-071] Ch19 · The Council of Ministers · asked in 1 paper(s): Chhattisgarh P.C.S.C. (Pre) 2020
 Q: Read the following statements related to Cabinet Committees and choose the correct option:
    Statement I: Cabinet Committees are not mentioned in the constitution.
-   Statement II: Cabinet Committees are set up by the Prime Minister according to the exigencies of the time and requirements of the situation. Statement III: If Prime Minister is the member of Committee, he may not necessarily be the Chairman of Committee.
+   Statement II: Cabinet Committees are set up by the Prime Minister according to the exigencies of the time and requirements of the situation.
+   Statement III: If Prime Minister is the member of Committee, he may not necessarily be the Chairman of Committee.
    Statement IV: Parliamentary Affairs Committee is chaired by the Prime Minister.
 Options: (a) All statements are true (b) Statements I, II and III are true, but Statement IV is false. (c) Statements II, III and IV are true but Statement I is false. (d) Statements I and II are true, but Statement III and IV are false.
 Answer: (d) Statements I and II are true, but Statement III and IV are false.
@@ -1222,7 +1223,7 @@ Explanation: The provisions regarding vacation, resignation and removal from the
 Q: Which one of the following statements regarding the office of the Speaker is correct?
 Options: (a) He holds office during the pleasure of the President. (b) He need not be a member of the House at the time of his election but has to become a member of the House within six months from the date of his election. (c) he loses his office if the house is dissolved before the end of its normal tenure. (d) If he intends to resign the letter of his resignation is to be addressed to the Deputy Speaker.
 Answer: (d) If he intends to resign the letter of his resignation is to be addressed to the Deputy Speaker.
-Explanation: According to Article 94, the Speaker must be a member of the House at the time of his election for the office. The Speaker may be removed by a resolution of a majority of members of the House. According to Article 94, whenever the House is dissolved, the Speaker shall not vacate his office until immediately before the first meeting of the Lok Sabha after the dissolution. According to Article 94(b), ifthe Speaker … [shortened in this brief; the book continues]
+Explanation: According to Article 94, the Speaker must be a member of the House at the time of his election for the office. The Speaker may be removed by a resolution of a majority of members of the House. According to Article 94, whenever the House is dissolved, the Speaker shall not vacate his office until immediately before the first meeting of the Lok Sabha after the dissolution. According to Article 94(b), if the Speaker … [shortened in this brief; the book continues]
 
 [22-083] Ch22 · The Parliament (1) · asked in 1 paper(s): I.A.S. (Pre) 2012
 Q: Regarding the office of the Lok Sabha Speaker, consider the following statements:
@@ -1242,7 +1243,7 @@ Explanation: According to the Article 93 of the Constitution, The House of the P
 
 [22-085] Ch22 · The Parliament (1) · asked in 1 paper(s): U.P.P.C.S (Pre) 2010
 Q: The function of the protem Speaker is to
-Options: (a) Conduct the proceedings of the House in the absence of the Speaker. (b) Administer oath to members. (c) Officiate as a Speaker when the Speaker is unlikely to be elected. (d) Only check ifthe election certificates of the members are in order.
+Options: (a) Conduct the proceedings of the House in the absence of the Speaker. (b) Administer oath to members. (c) Officiate as a Speaker when the Speaker is unlikely to be elected. (d) Only check if the election certificates of the members are in order.
 Answer: (b) Administer oath to members.
 Explanation: As soon as the new Government is formed, the Legislative section of the Parliament prepares a list of the senior-most Lok Sabha members, and one of them is appointed as pro-tem Speaker. The function of pro-tem Speaker is to administer the oath to the newly elected members of the House and conduct proceedings till a regular Speaker is chosen.
 
@@ -1557,7 +1558,7 @@ Explanation: The Council of States has been conferred with special power under A
 Q: The Council of States has exclusive powers in relation to which of the following?
 Options: (a) To initiate proceedings for the removal of the President (b) To initiate proceedings for the removal of a judges of the Supreme Court (c) To recommend creation of a new All India Service (d) None of the above
 Answer: (c) To recommend creation of a new All India Service
-Explanation: The Exclusive powers of the Council of States are- / (a) The Council of States can authorise the Parliament to make a law on a subject enumerated in the State list (Art. 249) Ifthe Council of States has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest so to do, Parliament may by law provide for the creation of one … [shortened in this brief; the book continues]
+Explanation: The Exclusive powers of the Council of States are- / (a) The Council of States can authorise the Parliament to make a law on a subject enumerated in the State list (Art. 249) If the Council of States has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest so to do, Parliament may by law provide for the creation of one … [shortened in this brief; the book continues]
 
 [23-035] Ch23 · The Parliament (2) · asked in 1 paper(s): U.P.P.C.S. (Pre) 1997
 Q: Which one of the following comes under the exclusive power of the Council of States:
@@ -1906,7 +1907,7 @@ Explanation: Article 105 of the Constitution provides the powers, privileges, an
 Q: Which one of the following is not a collective privilege of the members of Parliament?
 Options: (a) Freedom of debates and proceedings. (b) The Rights to regulate the internal matters of the Parliament (c) Freedom from attendance as Witness. (d) The privileges of excluding strangers from the house.
 Answer: (c) Freedom from attendance as Witness.
-Explanation: Parliamentary privileges are some of the peculiar rights enjoyed by each House collectively as a constituent part of parliament and by member of each House individually, without which they could not discharge their functions efficiently and effectively. Some of the collective privileges of the members of Parliament are - / (I) To prohibit the publication of its debates and proceedings. (II) To exclude strangers from … [shortened in this brief; the book continues]
+Explanation: Parliamentary privileges are some of the peculiar rights enjoyed by each House collectively as a constituent part of parliament and by member of each House individually, without which they could not discharge their functions efficiently and effectively. Some of the collective privileges of the members of Parliament are - / (I) To prohibit the publication of its debates and proceedings. / (II) To exclude strangers from … [shortened in this brief; the book continues]
 
 [24-029] Ch24 · The Parliament (3) Conduct of Business and Legislative Procedure · asked in 1 paper(s): U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
 Q: Under which Article of the Constitution the Courts have been prohibited from inquiring the proceedings of the Parliament?
@@ -2012,7 +2013,7 @@ Explanation: According to Article 108(4), if at the joint sitting of the two Hou
 Q: What will be happened if President summons for the joint session of Parliament and in the meantime Lok Sabha dissolved?
 Options: (a) Joint session will be held in scheduled time (b) Joint session will be cancelled (c) Joint session will be held after composition of New Lok Sabha (d) Bill will be lapsed
 Answer: (a) Joint session will be held in scheduled time
-Explanation: The President can summon both the Houses to meet in a joint sitting for the purpose of deliberating & voting on the Bill. If the Bill (under dispute) has already lapsed due to the dissolution of the Lok Sabha, no joint sitting can be summoned. But the joint sitting can be held ifthe Lok Sabha is dissolved after the President has notified his intention to summon such a sitting (as the Bill does not lapse in this … [shortened in this brief; the book continues]
+Explanation: The President can summon both the Houses to meet in a joint sitting for the purpose of deliberating & voting on the Bill. If the Bill (under dispute) has already lapsed due to the dissolution of the Lok Sabha, no joint sitting can be summoned. But the joint sitting can be held if the Lok Sabha is dissolved after the President has notified his intention to summon such a sitting (as the Bill does not lapse in this … [shortened in this brief; the book continues]
 
 [24-050] Ch24 · The Parliament (3) Conduct of Business and Legislative Procedure · asked in 1 paper(s): U.P.P.C.S. (Pre.) 2023
 Q: With reference to the joint sitting of Parliament, which statement/s is/are correct?

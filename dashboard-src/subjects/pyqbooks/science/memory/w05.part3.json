@@ -1,0 +1,200 @@
+{
+  "33-024": {
+    "r": "Antibiotics → mostly obtained from bacteria: Streptomyces and other actinomycetes (soil bacteria) and Bacillus species; they kill bacteria or stop their growth.",
+    "hi": ["Antibiotic (प्रतिजैविक)"]
+  },
+  "33-025": {
+    "r": "Antibiotics among options → penicillin and sulfadiazine, so 'more than one'; aspirin and paracetamol are analgesic and antipyretic."
+  },
+  "33-026": {
+    "r": "Antibiotic → penicillin. Aspirin, paracetamol → analgesic and antipyretic; chloroquine → antimalarial."
+  },
+  "33-027": {
+    "r": "Wrong pair: antiseptic – aspirin → aspirin (acetylsalicylic acid) is analgesic, antipyretic, anti-inflammatory. Correct: antipyretic – paracetamol; antirachitic – calciferol (vitamin D)."
+  },
+  "33-028": {
+    "r": "Wrong pair: aspirin – anaesthetic → aspirin is analgesic and antipyretic. Correct: chloromycetin – antityphoid; crystal violet – antiseptic; quinine – antimalarial.",
+    "t": "Analgesic relieves pain; anaesthetic causes loss of sensation."
+  },
+  "33-029": {
+    "r": "Sedative → potassium bromide (KBr), used as anticonvulsant and sedative in the late 19th and early 20th centuries; now an antiepileptic for dogs."
+  },
+  "33-030": {
+    "r": "Carbon monoxide (CO) → forms a stable, irreversible complex with haemoglobin, carboxyhaemoglobin (COHb); colourless, odourless gas from incomplete burning of fuels.",
+    "hi": ["Carbon monoxide (कार्बन मोनोऑक्साइड)"]
+  },
+  "33-031": {
+    "r": "Homogenized milk → fat broken into microscopic particles so it no longer separates; a purely physical process, nothing is added."
+  },
+  "33-032": {
+    "r": "Active component of clove oil → eugenol, a colourless to light yellow aromatic oily liquid with a spicy clove smell.",
+    "hi": ["Clove (लौंग)"]
+  },
+  "33-033": {
+    "r": "Fruit best for jelly making → guava, because of its high pectin (and acid) content."
+  },
+  "33-034": {
+    "r": "Organic food → grown without artificial fertilizers and most conventional pesticides; no sewage sludge, bioengineering or ionizing radiation.",
+    "hi": ["Organic farming (जैविक खेती)"]
+  },
+  "34-001": {
+    "r": "Soap → vegetable oil (or animal fat) + caustic soda; olive, palm kernel and coconut oils are used."
+  },
+  "34-002": {
+    "r": "Soap removes grease by emulsification: its long hydrocarbon chain dissolves in grease, the polar COO–Na+ end dissolves in water.",
+    "hi": ["Emulsification (पायसीकरण)"]
+  },
+  "34-003": {
+    "r": "Detergent → book's answer: refining agent; a surfactant (or mix of surfactants) with cleaning and refining properties, different from soap."
+  },
+  "34-004": {
+    "r": "Laundry detergents → alkylbenzene sulfonates; like soap but more soluble in hard water."
+  },
+  "34-005": {
+    "r": "A true: detergent removes oil and dirt easily. R false: detergent REDUCES, not increases, the surface tension of water.",
+    "hi": ["Surface tension (पृष्ठ तनाव)"]
+  },
+  "34-006": {
+    "r": "Synthetic detergents lather in hard water because they form soluble calcium and magnesium salts (no insoluble precipitate) → A and R true, R explains A."
+  },
+  "34-007": {
+    "r": "In washing powder → sodium sulphate maintains basicity; sodium silicate makes the powder crystalline so it stays dry → both statements correct."
+  },
+  "35-001": {
+    "r": "One metric ton of organic manure gives only about 1.5 to 3 kg phosphorus → chemical fertilizers needed for phosphorus. A and R true, R explains A.",
+    "hi": ["Fertilizer (उर्वरक)"]
+  },
+  "35-002": {
+    "r": "Wheat cultivation → nitrogen fertilizer most important for growth; nitrogen deficiency is the most common plant nutrient problem."
+  },
+  "35-003": {
+    "r": "Not supplied by fertilizers → hydrogen; carbon, hydrogen, oxygen come from CO2 and water. Of at least 16 essential elements, N, P, K, chlorine etc. come from soil."
+  },
+  "35-004": {
+    "r": "The book gives no single answer (*): all pairs are correct: nitrogen → growth; phosphorus → root development; potassium → stomatal opening/closing; boron → disease resistance."
+  },
+  "35-005": {
+    "r": "Fertilizer leaving most soil acidity → ammonium sulphate (most acidifying nitrogen fertilizer; not advised on acidic soils). Acidic soil has pH below 7.",
+    "hi": ["Ammonium sulphate (अमोनियम सल्फेट)"]
+  },
+  "35-006": {
+    "r": "Urea → nitrogen-containing organic compound, CO(NH2)2, also called carbamide; about 46% nitrogen in amide form.",
+    "t": "Urea is an organic compound, not an inorganic one or a plant hormone."
+  },
+  "35-007": {
+    "r": "Nitrogen in urea (carbamide, CO(NH2)2) → about 46%, option 47%; elements C, H, N, O; nitrogen in amide (NH2) form."
+  },
+  "35-010": {
+    "r": "Most water-soluble fertilizer at 20°C (of options) → urea; name from Greek 'oura' = urine."
+  },
+  "35-011": {
+    "r": "Urea for 1 kg nitrogen → 100/46 × 1000 g ≈ 2174 g ≈ 2.2 kg (urea has about 46% N)."
+  },
+  "35-012": {
+    "r": "True: ammonia (urea input) is made from natural gas; sulfur for phosphoric acid fertilizer is a refinery by-product. False: urea's MRP is fixed by Government → 2, 3."
+  },
+  "35-013": {
+    "r": "Excess nitrogenous fertilizer → soil acidity and nitrate leaching to groundwater (also eutrophication); it does not multiply nitrogen-fixing microbes → 2 and 3.",
+    "hi": ["Leaching (निक्षालन)"]
+  },
+  "35-014": {
+    "r": "Urea manufacture → synthetic ammonia + carbon dioxide; CO2 is consumed."
+  },
+  "35-015": {
+    "r": "Neem-coated urea → neem oil slows urea's dissolution and nitrification (nitrification inhibitor), so nitrogen releases gradually and less escapes; higher yields.",
+    "hi": ["Neem-coated urea (नीम लेपित यूरिया)"]
+  },
+  "35-016": {
+    "r": "DAP (diammonium phosphate) → 18% nitrogen and 46% P2O5; solution pH about 7.5–8.",
+    "h": "DAP = 18-46: N first, P2O5 second."
+  },
+  "35-017": {
+    "r": "Mixed (complex) fertilizer → NPK, with nitrogen, phosphorus and potassium in different ratios; urea, CAN, ammonium sulphate are not mixed."
+  },
+  "35-018": {
+    "r": "Not a chemical fertilizer → sodium sulphate (Na2SO4, sodium salt of sulfuric acid); urea, super phosphate, potassium nitrate are fertilizers."
+  },
+  "35-019": {
+    "r": "Most popular fertilizer for foliar application (spray on leaves) → urea: highly soluble and absorbed quickly by leaves.",
+    "hi": ["Foliar spray (पर्णीय छिड़काव)"]
+  },
+  "35-020": {
+    "r": "Humus → organic colloid: dark organic material formed in topsoil when plant and animal matter decays.",
+    "hi": ["Humus (ह्यूमस)"]
+  },
+  "35-021": {
+    "r": "Best green manure crop → sunhemp; green manure crops (sunhemp, dhaincha, sesbania) are mostly legumes ploughed into the soil.",
+    "hi": ["Green manure (हरी खाद)"]
+  },
+  "36-001": {
+    "r": "Chemistry Nobel 2021 → Benjamin List & David MacMillan (asymmetric organocatalysis). 2023 → quantum dots; 2024 → David Baker, Hassabis, Jumper (proteins); 2025 → metal-organic frameworks."
+  },
+  "36-002": {
+    "r": "Chemistry Nobel 2019 → lithium-ion batteries (Goodenough, Whittingham, Yoshino); 2020 → Charpentier & Doudna, CRISPR/Cas9 genome editing."
+  },
+  "36-003": {
+    "r": "UV-cutting glass → Crookes glass (mainly cerium oxide + silica), used in sunglasses. Pyrex → low-expansion borosilicate; Jena → shock- and heat-resistant."
+  },
+  "36-004": {
+    "r": "Hydrofluorocarbons (HFCs) → used in aerosols, foam agents and fire retardants (fire protection), but not to make lubricants → only three."
+  },
+  "36-005": {
+    "r": "Ozone layer destroyer → chlorofluorocarbons (CFCs); one chlorine atom can destroy over 100,000 ozone molecules in the stratosphere.",
+    "hi": ["Ozone layer (ओज़ोन परत)"]
+  },
+  "36-006": {
+    "r": "Ozone (O3) kills microorganisms in water as a powerful oxidizing agent; it is not radioactive, but that is not the reason → A and R true, R not explanation."
+  },
+  "36-007": {
+    "r": "Fire alarm → photocell, using the photoelectric effect; its resistance changes with the light falling on it."
+  },
+  "36-008": {
+    "r": "Gas in fire extinguishers → carbon dioxide (CO2), for controlling small fires."
+  },
+  "36-009": {
+    "r": "Ordinary (soda-acid) extinguisher → CO2 from sodium bicarbonate + dilute sulfuric acid: 2NaHCO3 + H2SO4 → Na2SO4 + 2H2O + 2CO2."
+  },
+  "36-010": {
+    "r": "Soda-acid fire extinguisher → sodium bicarbonate solution (the 'soda') + dilute sulfuric acid (the 'acid'); the CO2 formed cuts off oxygen.",
+    "hi": ["Fire extinguisher (अग्निशामक)"]
+  },
+  "36-011": {
+    "r": "Fireproof clothing → aluminium sulphate."
+  },
+  "36-012": {
+    "r": "Active chemical against mosquitoes → allethrin, a synthetic pyrethroid insecticide."
+  },
+  "36-013": {
+    "r": "Prallethrin → pyrethroid mosquito repellent; 1.6% w/w liquid vaporizers (e.g. Good Knight, All Out)."
+  },
+  "36-014": {
+    "r": "Mosquito repellent → pyrethrum, a natural botanical insecticide that acts on the insects' nervous system."
+  },
+  "36-015": {
+    "r": "Pyrethrin in mosquito coils → from a seed plant, Chrysanthemum cinerariifolium.",
+    "h": "Pyrethrin/pyrethrum = from chrysanthemum flowers."
+  },
+  "36-016": {
+    "r": "Natural mosquito repellent → lemongrass (citronella or fever grass), source of citronella oil used in repellents, sprays and candles."
+  },
+  "36-017": {
+    "r": "Rat poison (rodenticide) → potassium cyanide (KCN) and zinc phosphide, both highly toxic.",
+    "hi": ["Rodenticide (कृंतकनाशी)"]
+  },
+  "36-020": {
+    "r": "The book gives no single answer (*): aluminium phosphide, a cheap pesticide releasing toxic phosphine gas, is used as fumigant for stored cereals and as rodenticide."
+  },
+  "36-021": {
+    "r": "Herbicide (weedkiller) → sodium chlorate (NaClO3), an oxidizing agent.",
+    "hi": ["Herbicide (शाकनाशी)"]
+  },
+  "36-022": {
+    "r": "Carbofuran, methyl parathion, phorate, triazophos → farm pesticides; Pesticides (Prohibition) Order, 2018 (Anupam Verma Committee) banned 18 pesticides, including the last three."
+  },
+  "36-023": {
+    "r": "Weedicide for paddy → 2,4-D (2,4-dichlorophenoxyacetic acid), a selective translocated herbicide for broadleaf weeds."
+  },
+  "36-024": {
+    "r": "2,4-D → herbicide (systemic, for broadleaf weeds); it is a synthetic auxin (plant hormone), also used in plant cell culture media."
+  }
+}

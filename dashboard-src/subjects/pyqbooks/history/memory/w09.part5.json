@@ -1,174 +1,180 @@
 {
-  "93-138": {
-    "r": "Book's wrong pair: 'Yayati' → novel by Vishnu Sakharam Khandekar, not Girish Karnad. Others given as correct: Baki Itihas → Badal Sarkar; Sita Swayamvar → Vishnu Das Bhave; Giddha → Jabbar Patel.",
-    "c": "Doubtful: Girish Karnad also wrote a play named 'Yayati', so pair (c) may be correct and another pair intended."
-  },
-  "93-139": {
-    "r": "Shashi Tharoor → Show Business; Amitav Ghosh → The Circle of Reason; Anita Desai → Clear Light of Day; Vikram Chandra → Love and Longing in Bombay."
-  },
-  "93-140": {
-    "r": "'Love and Longing in Bombay' → Vikram Chandra."
-  },
-  "93-141": {
-    "r": "Ghar Aur Adalat → Leila Seth; Jhopri Se Rashtrapati Bhawan Tak → Mahendra Kulshrestha; Imagining India → Nandan Nilekani; Journey through Babudom and Netaland → T.S.R. Subramanian."
-  },
-  "93-142": {
-    "r": "Godan, Gaban, Rangbhumi, Karmbhumi, Nirmala → all by Munshi Premchand."
-  },
-  "93-144": {
-    "r": "'Soj-e-Vatan' → Munshi Premchand."
-  },
-  "93-145": {
-    "r": "'Malgudi Days' → R.K. Narayan."
-  },
-  "93-146": {
-    "r": "Hans Christian Andersen → fairy tales: The Steadfast Tin Soldier, The Snow Queen, The Little Mermaid, Thumbelina."
-  },
-  "93-147": {
-    "r": "Correct: Manishankar Aiyar → The Pakistan Papers. The Path to Power → Margaret Thatcher; India Wins Freedom → Abul Kalam Azad; The Future of N.P.T. → Savita Pande."
-  },
-  "93-148": {
-    "r": "'The Golden Gate' (1986) → Vikram Seth; his first novel."
-  },
-  "93-149": {
-    "r": "'Lucknow Boy: A Memoir' → autobiography of journalist Vinod Mehta."
-  },
-  "93-151": {
-    "r": "'Silent Spring' → Rachel Carson; it raised the question of pesticide use.",
-    "hi": ["Pesticide (कीटनाशक)"]
-  },
-  "93-152": {
-    "r": "'The Satanic Verses' (first published 1988) → Salman Rushdie's fourth novel."
-  },
-  "93-153": {
-    "r": "'Two Years Eight Months and Twenty-Eight Nights' → Salman Rushdie."
-  },
-  "93-154": {
-    "r": "'The Namesake' → Jhumpa Lahiri's first novel; she won the Pulitzer Prize (2000) for stories 'Interpreter of Maladies'."
-  },
-  "93-155": {
-    "r": "'The Road Ahead' (published 1995) → Bill Gates."
-  },
-  "93-156": {
-    "r": "'Manas ke Hans' (novel on the life of Goswami Tulsidas) → Amritlal Nagar."
-  },
-  "93-157": {
-    "r": "Sumitra Nandan Pant → Chhayavadi Hindi poet; works: Chidambara, Lokayatan, Yugvani, Pallav, Bharatmata Gramvasini.",
-    "hi": ["Chhayavad (छायावाद)"]
-  },
-  "93-158": {
-    "r": "'Dyna: A Tribute' → Julia Delano."
-  },
-  "93-159": {
-    "r": "Cornelius Fudge → Minister of Magic in J.K. Rowling's 'Harry Potter'."
-  },
-  "93-160": {
-    "r": "Harivansh Rai Bachchan's poems in order: Madhushala (1935) → Madhubala (1936) → Madhukalash (1937).",
-    "h": "Shala, Bala, Kalash: one per year, Madhushala first."
-  },
-  "93-161": {
-    "r": "'Bullet for Bullet: My Life as a Police Officer' → autobiography of Julio Ribeiro."
-  },
-  "93-162": {
-    "r": "'Romancing with Life: An Autobiography' → film actor Devanand."
-  },
-  "93-163": {
-    "r": "The Struggle is My Life → Nelson Mandela; The Struggle and the Triumph → Lech Walesa; Friends and Foes → Sheikh Mujibur Rehman; Rebirth → Leonid Brezhnev."
-  },
-  "93-164": {
-    "r": "Price of Partition → Rafiq Zakaria; Anand Math → Bankim Chandra Chatterjee; India 2020 → A.P.J. Abdul Kalam; The Pathology of Corruption → S.S. Gill."
-  },
-  "93-166": {
-    "r": "Correct: Khalid B. Sayeed → Pakistan: The Formative Phase (1857-1948). W.C. Smith → Modern Islam in India; Peter Hardy → The Muslims of British India; Moin Shakir → Khilafat to Partition."
-  },
-  "93-167": {
-    "r": "'The Heart of India' → Mark Tully, British journalist and former BBC India reporter."
-  },
-  "93-168": {
-    "r": "'Lajja' (Bengali novel, 1993) → Taslima Nasrin; restricted in parts of Bangladesh and India for controversial content."
-  },
-  "93-170": {
-    "r": "'Nineteen Eighty-Four' → George Orwell."
-  },
-  "93-171": {
-    "r": "'The God of Small Things' → Arundhati Roy; won the Booker Prize in 1997."
-  },
-  "93-172": {
-    "r": "'Mrignayani' → Vrindavan Lal Verma; his other novels: Jhansi ki Rani, Bhuvan Vikram, Sangam, Lagan, Ahilyabai."
-  },
-  "93-173": {
-    "r": "Earliest: Mrigavati (Kutuban, 1503) → Padmavat (Jayasi, 1540) → Madhumalati (Manjhan, 1545) → Indravati (Noor Mohammad, 1744).",
-    "t": "Jayasi's work is 'Padmavat'; the question calls it Padmavati."
-  },
-  "93-174": {
-    "r": "'India from Curzon to Nehru and After' → Durga Das."
-  },
-  "93-176": {
-    "r": "'An Equal Music' → Vikram Seth."
-  },
-  "93-177": {
-    "r": "'Desher Katha' (1904) → Sakharam Ganesh Deuskar, Marathi-origin thinker raised in Bengal; exposed exploitation of Indians under British rule."
-  },
-  "93-178": {
-    "r": "'Bikhre Moti' (story collection, 1932) → Subhadra Kumari Chauhan; she also wrote 'Unmadini' and 'Seedhe-Saadhe Chitra'."
-  },
-  "93-179": {
-    "r": "'Naukar ki Kameez' → Vinod Kumar Shukla."
-  },
-  "93-180": {
-    "r": "'David Copperfield' (published 1850) → Charles Dickens; based on his own life."
-  },
-  "93-181": {
-    "r": "'The Proudest Day' (Anthony Read and David Fisher) → story of India's independence."
-  },
-  "93-182": {
-    "r": "Not by Taslima Nasreen: 'Amar Sonar Bangla' (Tagore; sung in 1905 Bengal partition; Bangladesh anthem). She wrote Lajja, Utol Hawa Ki, Amar Meye Bela."
-  },
-  "93-183": {
-    "r": "Half a Life → V.S. Naipaul; Worshipping False Gods → Arun Shourie; Agni Ki Udaan → A.P.J. Abdul Kalam; Jeet Apki → Shiv Khera."
-  },
-  "93-184": {
-    "r": "Gandhian Constitution for Free India → Sriman Narayan Agrawal; The Republic of India → A. Gledhill; The White Umbrella → D. Mackenzie Brown; Politics of India since Independence → Paul R. Brass."
-  },
-  "93-185": {
-    "r": "'Gandhian Constitution for Free India' (published 1946) → Shriman Narayan Agarwal."
-  },
-  "93-186": {
-    "r": "'Kamayani' (epic on Manu and Shraddha) → Jai Shankar Prasad; other works: Aansu, Lahar, Ajatashatru, Titli, Kankal."
-  },
-  "93-187": {
-    "r": "'Mukul' (poems, 1930) → Subhadra Kumari Chauhan, poet and freedom fighter; also 'Bikhre Moti' (1932); won the first Seksaria Prize (1931)."
-  },
-  "93-188": {
-    "r": "'Geographical Factors in Indian History' → K.M. Panikkar. (Toynbee → Universal History; M.N. Srinivas → sociologist.)"
-  },
-  "93-189": {
-    "r": "'The Baiga' (study of the Baiga tribe) → Verrier Elwin; he suggested a 'National Park' for these tribes.",
-    "hi": ["Tribe (जनजाति)"]
-  },
-  "93-190": {
-    "r": "Not by Sharat Chandra: Rangbhumi (Munshi Premchand). Sharat Chandra Chattopadhyay wrote Charitraheen, Srikant and Shesh Prashna."
-  },
-  "93-191": {
-    "r": "Khushwant Singh's autobiography → 'Truth, Love and a Little Malice'."
-  },
-  "93-192": {
-    "r": "'New Dimensions of India's Foreign Policy' → former PM Atal Bihari Vajpayee."
-  },
-  "93-193": {
-    "r": "'Ignited Minds' and 'Wings of Fire' → Dr. A.P.J. Abdul Kalam, former President and 'Missile Man of India'."
-  },
-  "93-194": {
-    "r": "'The Post-American World' → Fareed Zakaria, Indian-American journalist.",
-    "t": "Don't confuse Fareed Zakaria (journalist) with Rafiq Zakaria (author on Partition)."
-  },
-  "93-195": {
-    "r": "'The Story of the Integration of the Indian States' → V.P. Menon."
-  },
-  "93-196": {
-    "r": "'Ayodhya: 6 December, 1992' (Penguin, Aug 2006) → P.V. Narasimha Rao."
-  },
-  "93-197": {
-    "r": "Booker winners: V.S. Naipaul → In a Free State (1971); J.G. Farrell → The Siege of Krishnapur (1973); Paul Scott → Staying On (1977); Salman Rushdie → Midnight's Children (1981)."
-  }
+ "93-138": {
+  "r": "'Yayati' → novel by V.S. Khandekar and also Girish Karnad's first play; book still marks (c) wrong. Baki Itihas → Badal Sarkar; Sita Swayamvar → Vishnu Das Bhave.",
+  "c": "Doubtful: Girish Karnad did write a play 'Yayati' (his first), and Khandekar wrote a novel of the same name, so pair (c) is not clearly wrong."
+ },
+ "93-139": {
+  "r": "Shashi Tharoor → Show Business; Amitav Ghosh → The Circle of Reason; Anita Desai → Clear Light of Day; Vikram Chandra → Love and Longing in Bombay."
+ },
+ "93-140": {
+  "r": "'Love and Longing in Bombay' → Vikram Chandra."
+ },
+ "93-141": {
+  "r": "Ghar Aur Adalat → Leila Seth; Jhopri Se Rashtrapati Bhawan Tak → Mahendra Kulshrestha; Imagining India → Nandan Nilekani; Journey through Babudom and Netaland → T.S.R. Subramanian."
+ },
+ "93-142": {
+  "r": "Godan, Gaban, Rangbhumi, Karmbhumi, Nirmala → all by Munshi Premchand."
+ },
+ "93-144": {
+  "r": "'Soj-e-Vatan' → Munshi Premchand."
+ },
+ "93-145": {
+  "r": "'Malgudi Days' → R.K. Narayan."
+ },
+ "93-146": {
+  "r": "Hans Christian Andersen → fairy tales: The Steadfast Tin Soldier, The Snow Queen, The Little Mermaid, Thumbelina."
+ },
+ "93-147": {
+  "r": "Correct: Manishankar Aiyar → The Pakistan Papers. The Path to Power → Margaret Thatcher; India Wins Freedom → Abul Kalam Azad; The Future of N.P.T. → Savita Pande."
+ },
+ "93-148": {
+  "r": "'The Golden Gate' (1986) → Vikram Seth; his first novel."
+ },
+ "93-149": {
+  "r": "'Lucknow Boy: A Memoir' → autobiography of journalist Vinod Mehta."
+ },
+ "93-151": {
+  "r": "'Silent Spring' → Rachel Carson; it raised the question of pesticide use.",
+  "hi": [
+   "Pesticide (कीटनाशक)"
+  ]
+ },
+ "93-152": {
+  "r": "'The Satanic Verses' (first published 1988) → Salman Rushdie's fourth novel."
+ },
+ "93-153": {
+  "r": "'Two Years Eight Months and Twenty-Eight Nights' → Salman Rushdie."
+ },
+ "93-154": {
+  "r": "'The Namesake' → Jhumpa Lahiri's first novel; she won the Pulitzer Prize (2000) for stories 'Interpreter of Maladies'."
+ },
+ "93-155": {
+  "r": "'The Road Ahead' (published 1995) → Bill Gates."
+ },
+ "93-156": {
+  "r": "'Manas ke Hans' (novel on the life of Goswami Tulsidas) → Amritlal Nagar."
+ },
+ "93-157": {
+  "r": "Sumitra Nandan Pant → Chhayavadi Hindi poet; works: Chidambara, Lokayatan, Yugvani, Pallav, Bharatmata Gramvasini.",
+  "hi": [
+   "Chhayavad (छायावाद)"
+  ]
+ },
+ "93-158": {
+  "r": "'Dyna: A Tribute' → Julia Delano."
+ },
+ "93-159": {
+  "r": "Cornelius Fudge → Minister of Magic in J.K. Rowling's 'Harry Potter'."
+ },
+ "93-160": {
+  "r": "Harivansh Rai Bachchan's poems in order: Madhushala (1935) → Madhubala (1936) → Madhukalash (1937).",
+  "h": "Shala, Bala, Kalash: one per year, Madhushala first."
+ },
+ "93-161": {
+  "r": "'Bullet for Bullet: My Life as a Police Officer' → autobiography of Julio Ribeiro."
+ },
+ "93-162": {
+  "r": "'Romancing with Life: An Autobiography' → film actor Devanand."
+ },
+ "93-163": {
+  "r": "The Struggle is My Life → Nelson Mandela; The Struggle and the Triumph → Lech Walesa; Friends and Foes → Sheikh Mujibur Rehman; Rebirth → Leonid Brezhnev."
+ },
+ "93-164": {
+  "r": "Price of Partition → Rafiq Zakaria; Anand Math → Bankim Chandra Chatterjee; India 2020 → A.P.J. Abdul Kalam; The Pathology of Corruption → S.S. Gill."
+ },
+ "93-166": {
+  "r": "Correct: Khalid B. Sayeed → Pakistan: The Formative Phase (1857-1948). W.C. Smith → Modern Islam in India; Peter Hardy → The Muslims of British India; Moin Shakir → Khilafat to Partition."
+ },
+ "93-167": {
+  "r": "'The Heart of India' → Mark Tully, British journalist and former BBC India reporter."
+ },
+ "93-168": {
+  "r": "'Lajja' (Bengali novel, 1993) → Taslima Nasrin; restricted in parts of Bangladesh and India for controversial content."
+ },
+ "93-170": {
+  "r": "'Nineteen Eighty-Four' → George Orwell."
+ },
+ "93-171": {
+  "r": "'The God of Small Things' → Arundhati Roy; won the Booker Prize in 1997."
+ },
+ "93-172": {
+  "r": "'Mrignayani' → Vrindavan Lal Verma; his other novels: Jhansi ki Rani, Bhuvan Vikram, Sangam, Lagan, Ahilyabai."
+ },
+ "93-173": {
+  "r": "Earliest: Mrigavati (Kutuban, 1503) → Padmavat (Jayasi, 1540) → Madhumalati (Manjhan, 1545) → Indravati (Noor Mohammad, 1744).",
+  "t": "Jayasi's work is 'Padmavat'; the question calls it Padmavati."
+ },
+ "93-174": {
+  "r": "'India from Curzon to Nehru and After' → Durga Das."
+ },
+ "93-176": {
+  "r": "'An Equal Music' → Vikram Seth."
+ },
+ "93-177": {
+  "r": "'Desher Katha' (1904) → Sakharam Ganesh Deuskar, Marathi-origin thinker raised in Bengal; exposed exploitation of Indians under British rule."
+ },
+ "93-178": {
+  "r": "'Bikhre Moti' (story collection, 1932) → Subhadra Kumari Chauhan; she also wrote 'Unmadini' and 'Seedhe-Saadhe Chitra'."
+ },
+ "93-179": {
+  "r": "'Naukar ki Kameez' → Vinod Kumar Shukla."
+ },
+ "93-180": {
+  "r": "'David Copperfield' (published 1850) → Charles Dickens; based on his own life."
+ },
+ "93-181": {
+  "r": "'The Proudest Day' (Anthony Read and David Fisher) → story of India's independence."
+ },
+ "93-182": {
+  "r": "Not by Taslima Nasreen: 'Amar Sonar Bangla' (Tagore; sung in 1905 Bengal partition; Bangladesh anthem). She wrote Lajja, Utol Hawa Ki, Amar Meye Bela."
+ },
+ "93-183": {
+  "r": "Half a Life → V.S. Naipaul; Worshipping False Gods → Arun Shourie; Agni Ki Udaan → A.P.J. Abdul Kalam; Jeet Apki → Shiv Khera."
+ },
+ "93-184": {
+  "r": "Gandhian Constitution for Free India → Sriman Narayan Agrawal; The Republic of India → A. Gledhill; The White Umbrella → D. Mackenzie Brown; Politics of India since Independence → Paul R. Brass."
+ },
+ "93-185": {
+  "r": "'Gandhian Constitution for Free India' (published 1946) → Shriman Narayan Agarwal."
+ },
+ "93-186": {
+  "r": "'Kamayani' (epic on Manu and Shraddha) → Jai Shankar Prasad; other works: Aansu, Lahar, Ajatashatru, Titli, Kankal."
+ },
+ "93-187": {
+  "r": "'Mukul' (poems, 1930) → Subhadra Kumari Chauhan, poet and freedom fighter; also 'Bikhre Moti' (1932); won the first Seksaria Prize (1931)."
+ },
+ "93-188": {
+  "r": "'Geographical Factors in Indian History' → K.M. Panikkar. (Toynbee → Universal History; M.N. Srinivas → sociologist.)"
+ },
+ "93-189": {
+  "r": "'The Baiga' (study of the Baiga tribe) → Verrier Elwin; he suggested a 'National Park' for these tribes.",
+  "hi": [
+   "Tribe (जनजाति)"
+  ]
+ },
+ "93-190": {
+  "r": "Not by Sharat Chandra: Rangbhumi (Munshi Premchand). Sharat Chandra Chattopadhyay wrote Charitraheen, Srikant and Shesh Prashna."
+ },
+ "93-191": {
+  "r": "Khushwant Singh's autobiography → 'Truth, Love and a Little Malice'."
+ },
+ "93-192": {
+  "r": "'New Dimensions of India's Foreign Policy' → former PM Atal Bihari Vajpayee."
+ },
+ "93-193": {
+  "r": "'Ignited Minds' and 'Wings of Fire' → Dr. A.P.J. Abdul Kalam, former President and 'Missile Man of India'."
+ },
+ "93-194": {
+  "r": "'The Post-American World' → Fareed Zakaria, Indian-American journalist.",
+  "t": "Don't confuse Fareed Zakaria (journalist) with Rafiq Zakaria (author on Partition)."
+ },
+ "93-195": {
+  "r": "'The Story of the Integration of the Indian States' → V.P. Menon."
+ },
+ "93-196": {
+  "r": "'Ayodhya: 6 December, 1992' (Penguin, Aug 2006) → P.V. Narasimha Rao."
+ },
+ "93-197": {
+  "r": "Booker winners: V.S. Naipaul → In a Free State (1971); J.G. Farrell → The Siege of Krishnapur (1973); Paul Scott → Staying On (1977); Salman Rushdie → Midnight's Children (1981)."
+ }
 }

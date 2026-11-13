@@ -1,0 +1,172 @@
+{
+  "62-076": {
+    "r": "Marasmus → prolonged starvation; Kwashiorkor → protein deficiency; T.B. → bacterial infection; Hepatitis B → viral infection."
+  },
+  "62-077": {
+    "r": "Kwashiorkor → acute malnutrition from protein deficiency in diet; swelling, enlarged liver; usually infants and children up to about 5 years.",
+    "hi": ["Protein (प्रोटीन)"]
+  },
+  "62-078": {
+    "r": "Marasmus → disease of children from prolonged starvation: general wasting of the body due to both energy and protein deficiency.",
+    "t": "Marasmus = energy + protein lack (wasting); Kwashiorkor = mainly protein lack (swelling)."
+  },
+  "62-079": {
+    "r": "Jaundice → liver. Cataract → eye; Typhoid → intestine; Pneumonia → lungs."
+  },
+  "62-080": {
+    "r": "Pneumonia → lungs. Cataract → eye; Jaundice → liver; Diabetes → metabolism."
+  },
+  "62-081": {
+    "r": "Astigmatism → eye defect: cornea or lens not perfectly curved → blurred or distorted vision; a refractive error (like myopia, hypermetropia)."
+  },
+  "62-082": {
+    "r": "Myopia (near-sightedness) → eye disorder: light focuses in front of the retina, so distant objects look blurry.",
+    "hi": ["Myopia (निकट दृष्टि दोष)"]
+  },
+  "62-083": {
+    "r": "Myopia (short-sightedness) → corrected with a concave lens; image of far object forms in front of the retina.",
+    "h": "Myopia → Minus (concave) lens; Hypermetropia → Plus (convex) lens.",
+    "hi": ["Concave lens (अवतल लेंस)"]
+  },
+  "62-084": {
+    "r": "Myopia → nearby objects seen clearly, distant objects blurred; corrected by concave (divergent) lens."
+  },
+  "62-085": {
+    "r": "Far-sightedness (hypermetropia) → near objects blurred, image forms beyond retina (short eyeball or flat lens); corrected by convex (convergent) lens.",
+    "hi": ["Hypermetropia (दूर दृष्टि दोष)"]
+  },
+  "62-086": {
+    "r": "Blind spot (optic disc, no visual cells, where optic nerve leaves) and yellow spot (macula lutea, image formation) → both in the retina.",
+    "hi": ["Retina (दृष्टिपटल)"]
+  },
+  "62-087": {
+    "r": "Retina → develops as an outgrowth of the brain's diencephalon (optic stalk becomes optic nerve; optic vesicle → optic cup)."
+  },
+  "62-088": {
+    "r": "Cataract → eye lens becomes opaque (mostly in older people); treated by removing the lens, intraocular lens implant, or laser.",
+    "hi": ["Cataract (मोतियाबिंद)"]
+  },
+  "62-090": {
+    "r": "Cataract → lens turns cloudy because its proteins break down and clump together (around age 40 and above).",
+    "hi": ["Cataract (मोतियाबिंद)"]
+  },
+  "62-091": {
+    "r": "Atropine → dilation of pupil; Ether → local anaesthesia; Nitroglycerine → heart trouble (vasodilator for angina); Pyrethrin → mosquito control."
+  },
+  "62-092": {
+    "r": "Atropine (alkaloid from belladonna plants) → very dilute solution dilates the pupil during eye examinations."
+  },
+  "62-093": {
+    "r": "Ishihara test → colour blindness (red-green deficiency); by Shinobu Ishihara, Tokyo, 1917; 38 pseudoisochromatic plates."
+  },
+  "62-094": {
+    "r": "Biological resurfacing → knee (cultured cartilage cells re-inserted), hip (alternative to Total Hip Replacement), ankle and vertebral joints. The book gives no single answer (*)."
+  },
+  "62-095": {
+    "r": "Iron deficiency → anaemia (too few healthy red blood cells); iron is the main part of haemoglobin; body needs about 12 mg iron a day.",
+    "hi": ["Anaemia (रक्ताल्पता)"]
+  },
+  "62-097": {
+    "r": "Excessive alcohol → liver cirrhosis (normal liver tissue replaced by scar tissue, fibrosis).",
+    "hi": ["Liver (यकृत)"]
+  },
+  "62-098": {
+    "r": "Oral submucous fibrosis → premalignant mouth disease from chewing betel quid or areca nut; gutka (tobacco) is a manufactured betel quid."
+  },
+  "62-099": {
+    "r": "Jaundice → affects the liver; high blood bilirubin gives yellow skin and eyes (seen in hepatitis, liver cancer).",
+    "hi": ["Jaundice (पीलिया)"]
+  },
+  "62-100": {
+    "r": "Jaundice → not contagious (book); measles, cholera, T.B. are contagious. In jaundice skin and eyes turn yellowish."
+  },
+  "62-101": {
+    "r": "Rickets (also in poultry/chickens) → vitamin D deficiency (or lack of phosphorus, calcium): poor bone calcification, fractures, deformity.",
+    "hi": ["Rickets (सूखा रोग)"]
+  },
+  "62-102": {
+    "r": "Mad cow disease → caused by prions (distorted protein) in the brain of cattle; not bacteria, virus or fungus."
+  },
+  "62-103": {
+    "r": "Liver fluke → endoparasite in bile ducts of sheep ('sheep liver fluke'); mammal is primary host, snail is intermediate host."
+  },
+  "62-104": {
+    "r": "Bright's disease (nephritis) → kidney disorder; kidney blood vessels inflamed, albumin passes in urine."
+  },
+  "62-105": {
+    "r": "Pneumoconiosis → occupational lung disease from inhaling dust, mainly in coal mining workers."
+  },
+  "62-106": {
+    "r": "Blood glucose → milligram per decilitre (or mmol/L); normal about 82 to 110 mg/dL (4.4 to 6.1 mmol/L); after a meal up to 140 mg/dL."
+  },
+  "62-107": {
+    "r": "Overdose injection (insulin) → spasm, apoplexy, faintness, death due to abnormal blood glucose; insulin regulates blood sugar."
+  },
+  "62-108": {
+    "r": "Diabetes → no vaccine (insulin shortage from pancreas); polio, whooping cough, smallpox are controlled by vaccination."
+  },
+  "62-109": {
+    "r": "Diabetes → linked to pancreas: too little insulin (made by beta cells of islets of Langerhans) or body cannot use it → high blood glucose.",
+    "hi": ["Pancreas (अग्न्याशय)"]
+  },
+  "62-111": {
+    "r": "Lack of insulin (pancreatic hormone) → diabetes; patients pass excess urine (polyuria).",
+    "hi": ["Diabetes (मधुमेह)"]
+  },
+  "62-112": {
+    "r": "Diabetes mellitus → higher sugar in blood + lower insulin in blood (statements 1 and 3)."
+  },
+  "62-113": {
+    "r": "Glycosylated haemoglobin (HbA1c) test → management of diabetes mellitus; shows average blood glucose of previous 8 to 12 weeks."
+  },
+  "62-114": {
+    "r": "Diabetes insipidus → large urine output, thirst (A true); caused by LACK of ADH (vasopressin), not excess (R false).",
+    "t": "Insipidus = ADH problem; mellitus = insulin problem."
+  },
+  "62-115": {
+    "r": "Whiskey increases urination (A true) because alcohol SUPPRESSES vasopressin (ADH), not speeds it up (R false).",
+    "hi": ["Antidiuretic hormone (प्रतिमूत्रल हार्मोन)"]
+  },
+  "62-116": {
+    "r": "Fenugreek seeds → lower blood sugar in diabetes (slow sugar absorption, stimulate insulin).",
+    "hi": ["Fenugreek (मेथी)"]
+  },
+  "62-117": {
+    "r": "Curry leaf tree (native of India) → claimed cure for diabetes (British researchers; multi-billion dollar potential).",
+    "hi": ["Curry leaf (करी पत्ता)"]
+  },
+  "62-118": {
+    "r": "Insulin → discovered by Canadian F.G. Banting with Best (help of Macleod); Banting and Macleod got the Nobel Prize, 1923."
+  },
+  "62-119": {
+    "r": "Copper-T (Cu-T) contraceptive → commonest side effect: more bleeding during the menstrual cycle."
+  },
+  "62-120": {
+    "r": "Emphysema → lung disease (a form of chronic obstructive pulmonary disease, COPD) linked to environmental pollution."
+  },
+  "62-121": {
+    "r": "Aspirin (acetylsalicylic acid) → non-narcotic analgesic (so 'narcotic' is false); relieves pain, fever, inflammation; prevents blood clots.",
+    "t": "Aspirin is NON-narcotic; morphine-type drugs are narcotic."
+  },
+  "62-122": {
+    "r": "CPR = Cardiopulmonary Resuscitation → emergency chest compressions plus artificial breathing when breathing or heartbeat stops."
+  },
+  "62-123": {
+    "r": "Coronary artery bypass graft → any of: vein from the leg, artery from forearm/wrist, or artery from chest (mammary region)."
+  },
+  "62-124": {
+    "r": "Cath lab (catheterisation laboratory) → in cardiology department; imaging of heart arteries and chambers, treats stenosis."
+  },
+  "62-125": {
+    "r": "Top-priority nutritional deficiency in India → xerophthalmia (severe vitamin A lack; dry, keratinised conjunctiva and cornea).",
+    "hi": ["Xerophthalmia (जीरोफ्थैल्मिया)"]
+  },
+  "62-126": {
+    "r": "Lathyrism → excess khesari dal (Lathyrus sativus): neurological disorder with weakness, spasms, paralysis of lower limbs.",
+    "h": "Lathyrus sativus → Lathyrism (same root).",
+    "hi": ["Khesari dal (खेसारी दाल)"]
+  },
+  "62-128": {
+    "r": "Blank capsules → mainly gelatine (melts in stomach), also starch; book gives both (c) and (d)."
+  }
+}

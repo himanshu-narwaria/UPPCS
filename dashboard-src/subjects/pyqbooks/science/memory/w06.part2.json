@@ -1,0 +1,633 @@
+{
+ "39-198": {
+  "r": "Species that form symbiosis occur in cnidarians (corals with dinoflagellate algae), fungi and protozoa → all three."
+ },
+ "39-199": {
+  "r": "Mycorrhiza → symbiosis of fungi with roots of higher plants; plant gains phosphorus and nitrogen absorption and protection from root diseases.",
+  "c": "The book answers (a) Protection, but its own explanation gives both better mineral absorption and disease protection, which is option (d).",
+  "hi": [
+   "Mycorrhiza (कवकमूल)"
+  ]
+ },
+ "39-202": {
+  "r": "Lichens → symbiotic association of algae and fungi; can start ecological succession even on bare rock.",
+  "hi": [
+   "Lichen (लाइकेन)"
+  ]
+ },
+ "39-204": {
+  "r": "Alga–fungus partnership in lichen → mutualism: alga (chlorophyll partner) makes food; fungus protects it.",
+  "hi": [
+   "Mutualism (सहोपकारिता)"
+  ]
+ },
+ "39-206": {
+  "r": "Lichens → do not grow in polluted areas; sensitive to SO2, as they absorb nutrients straight from the air without filtering."
+ },
+ "39-207": {
+  "r": "Lichens → good bioindicators of air pollution (SO2) (1 correct); they do not grow well in polluted areas (2 wrong).",
+  "hi": [
+   "Bioindicator (जैव सूचक)"
+  ]
+ },
+ "39-208": {
+  "r": "Root-nodule bacteria of legumes (e.g. Rhizobium) → symbiotic; they convert nitrogen gas (N2) into ammonium compounds.",
+  "hi": [
+   "Nitrogen fixation (नाइट्रोजन स्थिरीकरण)"
+  ]
+ },
+ "40-001": {
+  "r": "Cell → structural and functional unit of life.",
+  "hi": [
+   "Cell (कोशिका)"
+  ]
+ },
+ "40-002": {
+  "r": "Besides the nucleus, DNA is found in mitochondria (and chloroplasts).",
+  "hi": [
+   "Mitochondrion (सूत्रकणिका)"
+  ]
+ },
+ "40-003": {
+  "r": "Viroids → short circular single-stranded RNA without a protein coat (smallest pathogens, mostly of plants); prions are infectious proteins, not cells; Mycoplasma lacks a cell wall."
+ },
+ "40-004": {
+  "r": "Plant cells: cellulose cell wall and one large vacuole; animal cells: no wall, many small vacuoles. Both have a plasma membrane (statement 2 wrong).",
+  "hi": [
+   "Vacuole (रिक्तिका)"
+  ]
+ },
+ "40-005": {
+  "r": "Plant cell differs from animal cell mainly by its cellulose cell wall (also green plastids).",
+  "hi": [
+   "Cell wall (कोशिका भित्ति)"
+  ]
+ },
+ "40-007": {
+  "r": "Mitochondria (0.5-1.0 µ diameter) → 'powerhouse' of the cell; the nucleus stores DNA and coordinates cell activities.",
+  "hi": [
+   "Powerhouse of the cell (कोशिका का ऊर्जाघर)"
+  ]
+ },
+ "40-010": {
+  "r": "Plasma (cell) membrane → two layers of phospholipids with embedded proteins, i.e. lipid + protein.",
+  "hi": [
+   "Plasma membrane (प्लाज्मा झिल्ली)"
+  ]
+ },
+ "40-011": {
+  "r": "Biological membranes → lipid bilayer and proteins in combinations specific to each species, cell type and organelle (fluid mosaic model)."
+ },
+ "40-012": {
+  "r": "Protein synthesis → ribosomes and endoplasmic reticulum (rough ER is studded with ribosomes).",
+  "hi": [
+   "Ribosome (राइबोसोम)"
+  ]
+ },
+ "40-013": {
+  "r": "Apoptosis → programmed cell death; removes old, unnecessary and unhealthy cells.",
+  "hi": [
+   "Apoptosis (क्रमादेशित कोशिका मृत्यु)"
+  ]
+ },
+ "40-014": {
+  "r": "Most ATP → last (terminal) respiratory series, i.e. oxidative phosphorylation: about 27-34 of the 30-38 ATP made per glucose."
+ },
+ "41-001": {
+  "r": "Father of (modern) genetics → Gregor Johann Mendel, discoverer of the laws of inheritance.",
+  "hi": [
+   "Genetics (आनुवंशिकी)"
+  ]
+ },
+ "41-004": {
+  "r": "Mendel's experiments → garden pea, seven traits; three laws: Dominance, Segregation, Independent Assortment.",
+  "hi": [
+   "Heredity (वंशागति)"
+  ]
+ },
+ "41-005": {
+  "r": "Mendel's principle of inheritance → based on sexual reproduction."
+ },
+ "41-006": {
+  "r": "Genome mapping → mapping of genes: locating genes and the distances between them on a chromosome."
+ },
+ "41-007": {
+  "r": "Gene → basic physical and functional unit of heredity, made of DNA (in humans from a few hundred to over 2 million bases).",
+  "hi": [
+   "Gene (जीन)"
+  ]
+ },
+ "41-008": {
+  "r": "Gene → a segment of DNA (generally 5000-100000 nucleotide pairs)."
+ },
+ "41-009": {
+  "r": "Genetic code → universal; triplet codons for 20 amino acids; non-overlapping, non-ambiguous, commaless; has start and stop codons (64 codons) → all true.",
+  "hi": [
+   "Codon (कोडॉन)"
+  ]
+ },
+ "41-010": {
+  "r": "Nonsense (stop) codons → UAA, UAG, UGA; AUG, UUU and UGC are sense codons.",
+  "h": "UAA 'U Are Away', UAG 'U Are Gone', UGA 'U Go Away'."
+ },
+ "41-011": {
+  "r": "Mutation → change in the base sequence of a gene; heritable, the ultimate source of genetic variation.",
+  "hi": [
+   "Mutation (उत्परिवर्तन)"
+  ]
+ },
+ "41-012": {
+  "r": "Not true: 'nucleus has no role in cell reproduction' – it holds and copies DNA for daughter cells. True: chromosomes = DNA + protein; genes = functional DNA segments."
+ },
+ "41-013": {
+  "r": "Hereditary traits pass to offspring through chromosomes (nucleoproteins carrying genes); term 'chromosome' coined by Waldeyer.",
+  "hi": [
+   "Chromosome (गुणसूत्र)"
+  ]
+ },
+ "41-014": {
+  "r": "DNA → controls hereditary characters; some viruses (Tobacco Mosaic Virus, QB bacteriophage) use RNA instead."
+ },
+ "41-015": {
+  "r": "DNA can store and pass on genetic information because its two strands are complementary (A pairs with T, G with C).",
+  "hi": [
+   "Complementary (पूरक)"
+  ]
+ },
+ "41-016": {
+  "r": "Sexual reproduction → variation through blending of genes, chromosomal changes and shuffling of genes (all of the above).",
+  "hi": [
+   "Variation (विभिन्नता)"
+  ]
+ },
+ "41-017": {
+  "r": "Chromosomal theory of inheritance → Walter Sutton (1902, 1903) and Theodor Boveri; chromosomes carry the genetic material."
+ },
+ "41-018": {
+  "r": "DNA double-helix structure → James Watson and Francis Crick (1953); Watson, Crick and Maurice Wilkins got the 1962 Nobel Prize.",
+  "hi": [
+   "Double helix (द्विकुंडली)"
+  ]
+ },
+ "41-023": {
+  "r": "Double-helix model → Watson and Crick (1953); DNA itself was first isolated by Friedrich Miescher (1869).",
+  "t": "Discovery of DNA (Miescher, 1869) ≠ its double-helix structure (Watson-Crick, 1953)."
+ },
+ "41-025": {
+  "r": "Har Gobind Khorana → 1968 Nobel (with Holley, Nirenberg) for interpreting the genetic code and its role in protein synthesis; also made DNA in the laboratory."
+ },
+ "41-027": {
+  "r": "'Jumping genes' → Barbara McClintock, from heredity studies in corn; Nobel Prize 1983."
+ },
+ "41-028": {
+  "r": "Tyrosine (4-hydroxyphenylalanine) → one of the 22 amino acids, not a DNA compound; adenine, guanine, cytosine are DNA bases."
+ },
+ "41-029": {
+  "r": "Sugar in DNA → deoxyribose, a variant of the five-carbon sugar ribose."
+ },
+ "41-030": {
+  "r": "Ribozymes → RNA enzymes (catalytic RNA), e.g. in ribosomes; Thomas Cech and Sidney Altman, Nobel 1989."
+ },
+ "41-031": {
+  "r": "Chromosome number → constant for a species; does not change with age or weight."
+ },
+ "41-032": {
+  "r": "Lizards → no morphologically recognisable sex chromosomes (shown in genus Sceloporus)."
+ },
+ "41-033": {
+  "r": "Humans → 46 chromosomes = 23 pairs: 22 pairs autosomes + 1 pair sex chromosomes (female XX, male XY).",
+  "hi": [
+   "Autosome (अलिंग गुणसूत्र)"
+  ]
+ },
+ "41-035": {
+  "r": "A false: child's sex depends on whether the male gives X or Y. R true: women have two X chromosomes. Y (male) + X (female) → boy.",
+  "h": "Mother always gives X; father decides."
+ },
+ "41-038": {
+  "r": "Highest risk of permanent DNA change → X-ray technician (not carbon-14 researchers, coal miners or dyers)."
+ },
+ "42-001": {
+  "r": "Biofertilizers → cultures of living or dormant beneficial microbes (Rhizobium, Azotobacter, Azospirillum); organic and green manures are not biofertilizers.",
+  "hi": [
+   "Biofertilizer (जैव उर्वरक)"
+  ]
+ },
+ "42-002": {
+  "r": "Azolla and blue-green algae → used as biofertilizers (microbes that raise nutrient uptake in the rhizosphere); alfalfa is not."
+ },
+ "42-004": {
+  "r": "Rhizobium, blue-green algae (cyanobacteria) and Azolla → all biofertilizers that help fix nitrogen."
+ },
+ "42-005": {
+  "r": "Not nitrogen-fixing → mycorrhiza (fungus–plant association); Nostoc, Anabaena and Azotobacter fix nitrogen."
+ },
+ "42-006": {
+  "r": "Azolla → nitrogen-fixing biofertilizer, widely used in Southeast Asia; not yeast, Chlorella or mould."
+ },
+ "42-008": {
+  "r": "Azolla → biofertilizer also used as supplementary feed for cattle, especially milch animals.",
+  "hi": [
+   "Fodder (चारा)"
+  ]
+ },
+ "42-009": {
+  "r": "Wrong pair: Azotobacter – bioinsecticide; Azotobacter is a bacterium fixing nitrogen in the rhizosphere. Correct: blue-green algae–biofertilizer, Chrysopa–Maho control, Bio 902–mustard."
+ },
+ "42-010": {
+  "r": "Biological nitrogen fixation → blue-green algae (cyanobacteria), not red, brown or green algae.",
+  "hi": [
+   "Blue-green algae (नील-हरित शैवाल)"
+  ]
+ },
+ "42-011": {
+  "r": "Blue-green algae → biofertilizer chiefly for paddy (rice); supplies nitrogen.",
+  "hi": [
+   "Paddy (धान)"
+  ]
+ },
+ "42-013": {
+  "r": "Wrong pair: Azolla – Maize (Azolla serves paddy). Correct: blue-green algae–paddy, Rhizobium leguminosarum–pea, Azotobacter–wheat."
+ },
+ "42-014": {
+  "r": "Azolla (an aquatic fern) → good biofertilizer with blue-green algae (cyanobacteria); supplies nitrogen to rice fields.",
+  "hi": [
+   "Fern (फर्न)"
+  ]
+ },
+ "42-019": {
+  "r": "Azolla (floating aquatic fern; Azolla pinnata is rich in nitrogen) → biofertilizer of water-logged rice fields; not Wolffia, Trapa or Lemna."
+ },
+ "42-020": {
+  "r": "Phosphatic biofertilizer → VAM (Arbuscular Mycorrhiza fungi), aiding phosphorus uptake; Rhizobium, blue-green algae and Azolla fix nitrogen."
+ },
+ "42-021": {
+  "r": "Biochar (charcoal from pyrolysis of organic waste) → used in vertical-farming growing media, promotes nitrogen-fixing microbes, helps retain water → all three correct."
+ },
+ "42-022": {
+  "r": "Wrong statement: 'earthworms slow composting'; earthworms and microbes speed up decomposition of farm waste in compost pits.",
+  "hi": [
+   "Compost (कम्पोस्ट खाद)"
+  ]
+ },
+ "42-023": {
+  "r": "Nitrogen use efficiency rises with split application, nitrogen inhibitors and slow-release nitrogen fertilizers → all of the above."
+ },
+ "42-024": {
+  "r": "Nitrogen-fixing bacteria live in root nodules of legumes (pulse crops).",
+  "hi": [
+   "Pulses (दलहन)"
+  ]
+ },
+ "42-025": {
+  "r": "Nitrogen-fixing (legumes, Fabaceae, with Rhizobia in root nodules) → alfalfa, chickpea, clover; not amaranth, purslane (kulfa) or spinach.",
+  "hi": [
+   "Chickpea (चना)"
+  ]
+ },
+ "42-026": {
+  "r": "Paddy → does not fix nitrogen; legumes (gram, pea, bean) do, via Rhizobium in root nodules turning air nitrogen into ammonia."
+ },
+ "42-027": {
+  "r": "Nitrogen fixation in soybean → Rhizobium japonicum."
+ },
+ "42-028": {
+  "r": "Leghaemoglobin → in legume root nodules (alfalfa, soybean); supplies oxygen to nodule bacteria for nitrogen fixation."
+ },
+ "42-029": {
+  "r": "Earthworms → 'ploughers of the soil': aerate soil, let in air and water, break down organic matter."
+ },
+ "43-001": {
+  "r": "Body weight is mostly water: generally 55-70% (adult about 65%); infants 75-78%, dropping to 65-70% by one year.",
+  "hi": [
+   "Water (जल)"
+  ]
+ },
+ "43-004": {
+  "r": "Most abundant element in the human body → oxygen (mainly as water); six elements (O, C, H, N, Ca, P) make about 99% of body mass."
+ },
+ "43-005": {
+  "r": "Of iron, sodium, phosphorus, calcium → calcium is most abundant. Body: O 65%, C 18.5%, H 9.5%, N 3.2%, Ca 1.5%, P 1.0%."
+ },
+ "43-006": {
+  "r": "Main salt in bones → calcium phosphate (hydroxyapatite, about 70% of bone by weight); highest element in body → oxygen."
+ },
+ "43-008": {
+  "r": "Adult human body → 206 bones (about 300 at birth; some fuse together).",
+  "hi": [
+   "Bone (अस्थि)"
+  ]
+ },
+ "43-011": {
+  "r": "Smallest bone → stapes (stirrup-shaped, in the middle ear); largest bone → femur (thigh).",
+  "hi": [
+   "Stapes (रकाब)"
+  ]
+ },
+ "43-013": {
+  "r": "Human skull (excluding hyoid) → 28 bones: cranium 8 + face 14 + middle-ear bones 6.",
+  "hi": [
+   "Skull (खोपड़ी)"
+  ]
+ },
+ "43-014": {
+  "r": "Cervical (neck) vertebrae → 7 (C1 atlas, C2 axis … C7).",
+  "hi": [
+   "Vertebra (कशेरुका)"
+  ]
+ },
+ "43-015": {
+  "r": "Atlas–axis (atlantoaxial) joint → synovial pivot joint between the first two neck vertebrae; turns the head side to side.",
+  "hi": [
+   "Pivot joint (धुराग्र संधि)"
+  ]
+ },
+ "43-016": {
+  "r": "Joint where neck joins head → pivot (pivotal) joint, a synovial joint allowing head rotation."
+ },
+ "43-017": {
+  "r": "Ribs → 12 pairs (total 24); with the sternum they form the rib cage protecting heart and lungs.",
+  "hi": [
+   "Rib (पसली)"
+  ]
+ },
+ "43-018": {
+  "r": "Leg (long) bone → hollow: its shaft (diaphysis) is a hollow cylinder of compact bone holding fat-storing yellow marrow."
+ },
+ "43-019": {
+  "r": "Osteoclasts → bone cells that break down bone tissue for remodelling and repair; the book accepts (a) bone formation and (c) bone fracture.",
+  "h": "Osteo-CLAST = bone breaker."
+ },
+ "43-020": {
+  "r": "Arthroplasty → joint replacement surgery, e.g. hip-joint replacement with a synthetic implant."
+ },
+ "43-021": {
+  "r": "Cartilage → firm but flexible tissue, softer than bone, can bend (outer ear, nose tip); carpals are the eight wrist bones.",
+  "hi": [
+   "Cartilage (उपास्थि)"
+  ]
+ },
+ "43-022": {
+  "r": "Ligament → dense fibrous connective tissue joining two bones at a joint.",
+  "hi": [
+   "Ligament (स्नायुबंधन)"
+  ]
+ },
+ "43-023": {
+  "r": "Dental plaque → bacterial biofilm of food particles, saliva, mouth acids and bacteria; saliva pH 6.2-7.6 (average 6.7)."
+ },
+ "43-024": {
+  "r": "No pain on cutting nails → nails are dead layers of α-keratin with no nerves or blood vessels.",
+  "hi": [
+   "Nail (नाखून)"
+  ]
+ },
+ "43-025": {
+  "r": "Alpha-keratin → fibrous protein of the skin's outer layer (epidermis); also in hair, nails and hooves.",
+  "hi": [
+   "Keratin (केराटिन)"
+  ]
+ },
+ "43-026": {
+  "r": "Hair → protein keratin, also the main part of finger and toe nails."
+ },
+ "43-027": {
+  "r": "Hair and nails → keratin, a strong protein also in skin, hooves, horns and teeth."
+ },
+ "43-028": {
+  "r": "Bones and teeth → need calcium and phosphorus (plus other minerals)."
+ },
+ "43-029": {
+  "r": "Bones and teeth need calcium, phosphorus and fluorine; iodine is not needed for them (it is used by the thyroid gland).",
+  "hi": [
+   "Iodine (आयोडीन)"
+  ]
+ },
+ "43-030": {
+  "r": "20 teeth develop twice (milk and permanent sets; diphyodont); the 12 permanent molars come only once (monophyodont).",
+  "hi": [
+   "Milk teeth (दूध के दाँत)"
+  ]
+ },
+ "43-031": {
+  "r": "Strongest part of the body → tooth enamel (hydroxyapatite, mainly calcium phosphate); its destruction causes tooth decay.",
+  "hi": [
+   "Enamel (दंतवल्क/इनेमल)"
+  ]
+ },
+ "43-032": {
+  "r": "Wrong: 'muscles can only push bones'. Muscles work in pairs and become shorter, stiffer and thicker when they contract."
+ },
+ "43-033": {
+  "r": "Smallest muscle → stapedius, in the middle ear; it steadies the stapes bone and controls its vibration."
+ },
+ "43-034": {
+  "r": "Strongest muscle (by weight) → masseter, the jaw muscle; jaw muscles close the teeth with up to about 90.7 kg force on molars."
+ },
+ "43-035": {
+  "r": "Breastbone → Sternum; Collarbone → Clavicle; Knee-cap → Patella; Shoulder blade → Scapula.",
+  "hi": [
+   "Collarbone (हंसली)"
+  ]
+ },
+ "44-001": {
+  "r": "Most digestion → small intestine (over 20 feet long), using pancreatic enzymes and bile from the liver.",
+  "hi": [
+   "Small intestine (छोटी आंत)"
+  ]
+ },
+ "44-002": {
+  "r": "Tongue tastes → sweet, bitter, salty, umami, sour; 'spicy' (a pain signal) and 'pungent' (linked to smell) are not tastes.",
+  "hi": [
+   "Taste bud (स्वाद कलिका)"
+  ]
+ },
+ "44-003": {
+  "r": "Bitterness → the back (posterior part) of the tongue is most sensitive; all parts can sense all tastes.",
+  "hi": [
+   "Tongue (जीभ)"
+  ]
+ },
+ "44-004": {
+  "r": "Carbohydrate digestion starts in the mouth (buccal cavity): salivary amylase breaks starch into maltose and dextrin.",
+  "hi": [
+   "Saliva (लार)"
+  ]
+ },
+ "44-005": {
+  "r": "Saliva (about 99.5% water) → helps digest starch through amylase; also has lysozyme and IgA."
+ },
+ "44-007": {
+  "r": "Amylase (in saliva) → hydrolysis of starch; not invertase, dehydrogenase or anhydrase."
+ },
+ "44-008": {
+  "r": "A true: liver aids fat digestion through bile, which emulsifies fats. R false: liver makes no fat-digesting enzymes; bile has no enzymes.",
+  "hi": [
+   "Bile (पित्त)"
+  ]
+ },
+ "44-009": {
+  "r": "Hydrochloric acid → secreted in the stomach by parietal (oxyntic) cells; kills bacteria and activates pepsinogen.",
+  "hi": [
+   "Gastric juice (जठर रस)"
+  ]
+ },
+ "44-011": {
+  "r": "Enzymes → biocatalysts, mostly proteins, that speed up chemical reactions in living systems.",
+  "hi": [
+   "Enzyme (एंजाइम)"
+  ]
+ },
+ "44-016": {
+  "r": "Enzymes → biocatalysts (1 correct) and generally act at the site where they are produced (2 correct) → both."
+ },
+ "44-017": {
+  "r": "Zymase (enzyme complex in yeast) → ferments sugar (glucose) into ethanol and CO2.",
+  "hi": [
+   "Fermentation (किण्वन)"
+  ]
+ },
+ "44-018": {
+  "r": "Liver → converts harmful ammonia into urea; also makes bile and stores fat. It is the largest gland.",
+  "hi": [
+   "Liver (यकृत)"
+  ]
+ },
+ "44-019": {
+  "r": "Lipid digestion → lipase (fats → fatty acids + monoglycerides) and bile acids (emulsify fats); pepsin digests proteins, not fats.",
+  "hi": [
+   "Emulsification (पायसीकरण)"
+  ]
+ },
+ "44-020": {
+  "r": "Lipase (fat-digesting enzyme) → produced in the pancreas (also mouth and stomach)."
+ },
+ "44-021": {
+  "r": "Gastrin → a hormone that stimulates stomach acid (HCl), not a digestive enzyme; trypsin (pancreas), ptyalin (saliva), pepsin (stomach) are enzymes.",
+  "hi": [
+   "Hormone (हार्मोन)"
+  ]
+ },
+ "44-022": {
+  "r": "Protein digestion begins in the stomach, by pepsin from the gastric glands."
+ },
+ "44-023": {
+  "r": "Stomach protein enzyme → pepsin only (pepsinogen activated by HCl); trypsin and chymotrypsin come from the pancreas and act in the small intestine."
+ },
+ "44-024": {
+  "r": "Pepsin → proteins into peptides and amino acids; lactase: lactose → glucose + galactose; urease: urea → CO2 + ammonia; zymase: yeast fermentation."
+ },
+ "44-025": {
+  "r": "A false: protein digestion starts in the stomach (pepsin), not only in the small intestine. R true: pancreatic trypsin is released into the small intestine."
+ },
+ "44-027": {
+  "r": "Trypsin (in the duodenum) → hydrolyses peptide bonds, breaking proteins into smaller peptides; other proteases then turn them into amino acids.",
+  "c": "The book answers (c) proteins to amino acids, but its own explanation says trypsin breaks proteins into smaller peptides, which is option (b)."
+ },
+ "44-028": {
+  "r": "Appendix → blind tube attached to the caecum, the start of the large intestine.",
+  "hi": [
+   "Large intestine (बड़ी आंत)"
+  ]
+ },
+ "44-029": {
+  "r": "Small intestine parts by decreasing length → ileum > jejunum > duodenum (duodenum is C-shaped, about 20-25 cm).",
+  "h": "I-J-D: 'I Just Digest' (longest to shortest)."
+ },
+ "44-030": {
+  "r": "A true: humans cannot digest cellulose (no enzyme for it). R true: salivary diastase breaks starch into maltose, but R does not explain A.",
+  "hi": [
+   "Cellulose (सेल्यूलोज)"
+  ]
+ },
+ "44-031": {
+  "r": "Correct pair: E. coli restriction endonuclease (EcoRII) → cuts DNA at specific sites; used to make recombinant DNA."
+ },
+ "44-032": {
+  "r": "Ptyalin → digests starch; Pepsin → digests proteins; Renin → angiotensinogen to angiotensin; Oxytocin → contracts smooth muscle (uterus)."
+ },
+ "44-033": {
+  "r": "Vitamin → Carotene; Enzyme → Pepsin; Hormone → Testosterone/Progesterone; Protein → Keratin."
+ },
+ "44-034": {
+  "r": "Carbohydrates are finally broken down to glucose (monosaccharides) for absorption; glucose is the cells' main energy source.",
+  "hi": [
+   "Glucose (ग्लूकोज)"
+  ]
+ },
+ "44-035": {
+  "r": "Extra glucose → converted to glycogen and stored in the liver.",
+  "hi": [
+   "Glycogen (ग्लाइकोजन)"
+  ]
+ },
+ "44-036": {
+  "r": "Energy stored in liver and muscles → glycogen, the storage form of glucose."
+ },
+ "44-037": {
+  "r": "Fasting over 10 days → glucose level in the liver falls, as stored glycogen is used up to supply glucose."
+ },
+ "44-038": {
+  "r": "Gallstones (cholesterol, bilirubin) block bile reaching the duodenum → mainly affect fat digestion.",
+  "hi": [
+   "Gallstone (पित्त पथरी)"
+  ]
+ },
+ "44-039": {
+  "r": "Largest gland → liver (about 22 cm long, 15 cm wide, about 1.5 kg); also the largest internal organ.",
+  "hi": [
+   "Liver (यकृत)"
+  ]
+ },
+ "44-041": {
+  "r": "Bile → made by the liver; stored and concentrated in the gallbladder.",
+  "hi": [
+   "Gallbladder (पित्ताशय)"
+  ]
+ },
+ "44-043": {
+  "r": "Bile from liver and gallbladder → enters the small intestine at the duodenum (its first part).",
+  "hi": [
+   "Duodenum (ग्रहणी)"
+  ]
+ },
+ "44-044": {
+  "r": "Pancreas → second-largest gland; its alkaline pancreatic juice is called a 'complete digestive juice'; liver is the largest gland.",
+  "hi": [
+   "Pancreas (अग्न्याशय)"
+  ]
+ },
+ "44-045": {
+  "r": "Secretin → from the duodenum in response to HCl (acidity); enterogastrone → from the small intestine in response to fatty acids → both correct."
+ },
+ "45-001": {
+  "r": "Growth and repair of tissues → proteins; cheese (also pulses, soybean, milk, eggs) is a protein source.",
+  "hi": [
+   "Protein (प्रोटीन)"
+  ]
+ },
+ "45-002": {
+  "r": "Probiotic food → contains live beneficial bacteria and helps maintain gut flora → both correct."
+ },
+ "45-003": {
+  "r": "Probiotics → live bacteria and yeasts (Lactobacillus, Bifidobacterium, Saccharomyces boulardii); they occur naturally in our gut (2 wrong) and help digest milk sugars."
+ },
+ "45-004": {
+  "r": "Nutraceuticals → foods or supplements giving nutrients plus a medicinal (health) benefit."
+ },
+ "45-005": {
+  "r": "Casimir Funk → coined 'vitamins' ('vital amines'); earlier, Umetaro Suzuki (1910) extracted 'aberic acid' from rice bran."
+ },
+ "45-006": {
+  "r": "Wrong pair: Vitamin D – Paul Muller. McCollum (spelt 'Maculan') → vitamins A, B, D; James Lind → vitamin C (citrus cures scurvy)."
+ },
+ "45-007": {
+  "r": "Vitamins → organic compounds needed in small amounts; the body cannot make enough, so they come from the diet.",
+  "hi": [
+   "Vitamin (विटामिन)"
+  ]
+ },
+ "45-008": {
+  "r": "'Accessory food factor' (idea of F. G. Hopkins) → vitamins."
+ }
+}

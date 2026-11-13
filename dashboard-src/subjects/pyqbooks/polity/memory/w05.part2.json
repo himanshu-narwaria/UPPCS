@@ -1,7 +1,7 @@
 {
  "35-046": {
   "r": "NHRC purview (Protection of Human Rights Act, 1993) → rights relating to life, liberty, equality and dignity, guaranteed by Constitution or international covenants and enforceable by Indian courts.",
-  "c": "No answer printed and MPPSC deleted it; the explanation lists equality, then says 'education' instead, so it is garbled."
+  "c": "MPPSC deleted the question. The Act names rights relating to life, liberty, equality and dignity; education is not named, but the book treats it as covered too, so it marks no option."
  },
  "35-047": {
   "r": "'Public Servant' in Protection of Human Rights Act, 1993 → defined in Section 2(M); same meaning as Section 21 of the Indian Penal Code."
@@ -32,7 +32,7 @@
  },
  "35-055": {
   "r": "NHRC → powers only recommendatory; at least one woman member (civil-society members raised from two to three); Chairman: former CJI or SC judge (2019); SHRCs separate.",
-  "c": "No answer printed; now only statements 3 and 4 are true, and no option gives that pair."
+  "c": "When asked (1999), statements 1 and 3 were true, option (d). Since the 2019 amendment statement 1 is false and 4 true, and the pair 3 and 4 is in no option."
  },
  "35-056": {
   "r": "NHRC Chairman → former CJI or a Supreme Court Judge (2019 Amendment); term 3 years or age 70 → A ('only former CJI') and R ('5 years') both false."
@@ -104,8 +104,7 @@
   "r": "National Commission to Review the Working of the Constitution → 22 February 2000, Justice M.N. Venkatachaliah; recommendatory; not approved by Parliament; last report 31 March 2002."
  },
  "35-081": {
-  "r": "Central Pollution Control Board Chairman → nominated by Central Government: an expert in environmental protection; not President, PM, Vice-President or Environment Minister.",
-  "c": "No answer printed: none of the options is correct, so MPPSC dropped the question."
+  "r": "Central Pollution Control Board Chairman → nominated by Central Government: an expert in environmental protection; not President, PM, Vice-President or Environment Minister."
  },
  "35-082": {
   "r": "Swarn Singh Committee (1976) → priority of Directive Principles over Fundamental Rights; led to 42nd Amendment; found Presidential system unsuitable for India.",
@@ -130,8 +129,7 @@
   "r": "CVC → in no Article of the Constitution; set up February 1964 (K. Santhanam); statutory since September 2003. Art 280 → Finance Commission; Art 276 → profession tax."
  },
  "35-087": {
-  "r": "Wrong pairs: Prevention of Corruption Act → 1988 (not 1985); Enforcement Directorate → 1956 (not 2000). Correct: CBI 1963, CVC 1964.",
-  "c": "Book prints two answers, (c) and (d), since both pairs are wrong."
+  "r": "Wrong pairs: Prevention of Corruption Act → 1988 (not 1985); Enforcement Directorate → 1956 (not 2000). Correct: CBI 1963, CVC 1964."
  },
  "35-088": {
   "r": "Mandal Commission (1979) → set up by Janata Party Government of PM Morarji Desai; headed by Bindheshwari Prasad Mandal; to identify socially and educationally backward persons."
@@ -270,12 +268,12 @@
   "r": "J&K special status → Article 370 (now ended). Art 360 → Financial Emergency; Art 1 → Union of States; Art 270 → shared taxes."
  },
  "36-012": {
-  "r": "Sadr-e-Riyasat renamed Governor in J&K → Sixth Amendment Act, 1965 of the J&K Constitution; Karn Singh was first Sadr-e-Riyasat (1951).",
-  "c": "No answer printed: the correct year 1965 is not among the options."
+  "r": "Sadr-e-Riyasat renamed Governor in J&K → Sixth Amendment Act, 1965 of the J&K Constitution; Karan Singh was the first Sadr-e-Riyasat (from November 1952).",
+  "c": "The book's 1951 is off: Karan Singh became Sadr-e-Riyasat in November 1952. The post was renamed Governor in 1965, which is not among the options."
  },
  "36-013": {
-  "r": "Order → Instrument of Accession (26 October 1947) → Constitution of India enforced (1950) → J&K Assembly ratified accession (17 November 1956) → J&K Constitution in force (26 January 1957).",
-  "c": "Explanation says India's Constitution was enforced on '26 November, 1950', a slip; the order I, II, III, IV still holds."
+  "r": "Instrument of Accession (26 October 1947) → Constitution of India in force (26 January 1950) → J&K Constituent Assembly ratifies accession → J&K Constitution in force (26 January 1957).",
+  "c": "Two dates in the explanation are off: India's Constitution came into force on 26 January 1950, and 17 November 1956 is when J&K adopted its Constitution (accession was ratified earlier). The order I, II, III, IV stands."
  },
  "36-014": {
   "r": "Never given Special Category Status → Bihar. Sikkim, Himachal Pradesh, Jammu and Kashmir had it; 11 states in all."
@@ -303,7 +301,7 @@
  },
  "37-010": {
   "r": "Chief Election Commissioner → ranks 9(A) in Table of Precedence, with UPSC Chairperson and CAG. CJI and Lok Sabha Speaker → 6th; Governor → 4th.",
-  "c": "No answer printed: none of the options (CJI, Governor, Lok Sabha Speaker, State Speaker) matches the CEC's rank."
+  "c": "No option fits: the CEC ranks at 9A in the Table of Precedence and by law gets the salary of a Supreme Court judge, not of the Chief Justice."
  },
  "37-011": {
   "r": "Elections entrusted to independent Election Commission (Art 324) (A true); CEC removed like SC Judge, other ECs by President with CEC's advice (R true); R doesn't explain A."
@@ -394,7 +392,7 @@
  },
  "37-042": {
   "r": "Simultaneous Elections committee (2 September 2023) → chair Ram Nath Kovind; members incl. Amit Shah, N.K. Singh, Subhash C. Kashyap, Harish Salve; Niten Chandra Secretary; Tushar Mehta not on it.",
-  "c": "Explanation ends by naming Adhir Ranjan Chowdhury (not an option) as the non-member; Tushar Mehta is simply absent from its list."
+  "c": "Tushar Mehta had no role on the committee. Strictly, Niten Chandra (a) was its Secretary, not a member, so (a) is also arguable. Adhir Ranjan Chowdhury, named at the end of the explanation, is not an option."
  },
  "37-043": {
   "r": "Exit Poll → survey of voters after voting on whom they voted for. Opinion Poll → survey before the election.",
@@ -475,8 +473,7 @@
   "r": "Political parties are registered and recognised by the Election Commission of India (Election Symbols Order, 1968)."
  },
  "38-005": {
-  "r": "National party → any one: 2% Lok Sabha seats from three states; or 6% votes in four states + four Lok Sabha seats; or State party in four states.",
-  "c": "No answer printed: none of the options (5% votes, contesting everywhere, power in four States) matches these conditions."
+  "r": "National party → any one: 2% Lok Sabha seats from three states; or 6% votes in four states + four Lok Sabha seats; or State party in four states."
  },
  "38-008": {
   "r": "State party (Symbols Order 1968) → any one: 3 Assembly seats or 3%; 1 Lok Sabha seat per 25; 6% votes + seats; or 8% of total State votes.",

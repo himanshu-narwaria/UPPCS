@@ -1,0 +1,272 @@
+{
+ "13-001": {
+  "r": "Father of computers → Charles Babbage: his Analytical Engine (1837; 1834 per NCERT) was the first general-purpose computer concept, with ALU and memory; never built in his lifetime.",
+  "hi": [
+   "Computer (संगणक)"
+  ]
+ },
+ "13-004": {
+  "r": "Colossus, electronic digital computer for British code-breakers (1943–1945), was designed by Tommy Flowers; book's answer Alan M. Turing (contributed, not directly involved)."
+ },
+ "13-006": {
+  "r": "First digital computer built with IC chips → IBM System/360, a mainframe developed in 1964."
+ },
+ "13-007": {
+  "r": "Main circuit board of a computer → motherboard; its chipset manages data flow between processor, memory and peripherals."
+ },
+ "13-008": {
+  "r": "Pen drive (USB flash drive) → removable, portable secondary storage unit; it replaced floppy drives."
+ },
+ "13-009": {
+  "r": "Mouse → input device (invented by Douglas Engelbart, 1963); it controls a pointer in a graphical user interface. Not an output device.",
+  "hi": [
+   "Input device (इनपुट उपकरण)"
+  ]
+ },
+ "13-011": {
+  "r": "Monitor, printer, plotter → output devices; touch screen → both input (touch panel) and output (display).",
+  "c": "The book gives no single answer (*): every option works as an output device, the touch screen being both input and output."
+ },
+ "13-012": {
+  "r": "Only output devices: plotter, printer, monitor; scanner, keyboard, mouse, joystick and light pen are input devices.",
+  "hi": [
+   "Output device (आउटपुट उपकरण)"
+  ]
+ },
+ "13-013": {
+  "r": "Digital camera → input device; drum pen plotter, CRT monitor and earphones → output devices."
+ },
+ "13-014": {
+  "r": "Only input devices: mouse, keyboard, scanner (also microphone, joystick, light pen); printer, projector, monitor, speaker, plotter are output."
+ },
+ "13-015": {
+  "r": "Most common input devices → keyboard (text entry) and mouse (pointing); book answers keyboard, and mouse in a variant."
+ },
+ "13-017": {
+  "r": "First mouse (Douglas Engelbart, built 1964) had a wooden body with two metal wheels; shown publicly in 1968."
+ },
+ "13-018": {
+  "r": "Double-clicking the mouse sends the command to the CPU."
+ },
+ "13-019": {
+  "r": "Keyboard cable plugs into a USB (Universal Serial Bus) port, which connects and powers peripherals."
+ },
+ "13-020": {
+  "r": "Computer stores and analyses data, keeps it secure (passwords) and can be attacked by viruses → book: all four."
+ },
+ "13-021": {
+  "r": "E-waste from old computers → beryllium, cadmium, chromium, mercury, lead; not heptachlor (an insecticide) or plutonium (radioactive).",
+  "hi": [
+   "E-waste (ई-अपशिष्ट)"
+  ]
+ },
+ "13-022": {
+  "r": "'Network of networks' → Internet: a global network of computers linked by the TCP/IP protocol suite.",
+  "hi": [
+   "Internet (अंतरजाल)"
+  ]
+ },
+ "13-024": {
+  "r": "DSL (Digital Subscriber Line) → internet connection over telephone lines."
+ },
+ "13-025": {
+  "r": "Slowest internet connection → dial-up (up to 56 Kbps); cable modem 512 kbps to 20 Mbps; leased lines give businesses fast access 24 hours a day.",
+  "c": "One line in the book says dial-up speed is 'the same as a cable modem'; that contradicts its own point that dial-up is the slowest."
+ },
+ "13-026": {
+  "r": "First page of a website (first shown by the browser) → home page; it leads to the site's other pages."
+ },
+ "13-028": {
+  "r": "Common network topologies → star, bus, ring, tree, mesh, hybrid; grid is not a common topology."
+ },
+ "13-029": {
+  "r": "Internet uses tree topology (book): a hybrid of bus and star; the internet is the largest hybrid topology."
+ },
+ "13-030": {
+  "r": "Internet works on packet switching: data is split into blocks (packets) sent over the network."
+ },
+ "13-031": {
+  "r": "Domain Name System (DNS) → database of host names and addresses; translates domain names into IP addresses."
+ },
+ "13-032": {
+  "r": "IPv6 → 128-bit addresses (made by IETF to end IPv4 address exhaustion); IPv4 uses 32-bit; IPv6 became an Internet Standard on 14 July 2017."
+ },
+ "13-033": {
+  "r": "Bluetooth → wireless communication between devices using radio waves; developed in 1994 by Jaap Haartsen."
+ },
+ "13-034": {
+  "r": "Bluetooth → 2.4 GHz band (short range); Wi-Fi → 2.4 GHz or 5 GHz bands.",
+  "h": "Wi-Fi has two lanes (2.4 and 5 GHz); Bluetooth has one (2.4 GHz)."
+ },
+ "13-036": {
+  "r": "First Indian railway station with Google's free public Wi-Fi → Mumbai Central (January 2016), under the 12 September 2015 Railways–Google tie-up for 400 stations."
+ },
+ "13-037": {
+  "r": "Li-Fi → uses light waves (not radio) for wireless high-speed data; several times faster than Wi-Fi → both correct."
+ },
+ "13-038": {
+  "r": "Li-Fi (Light Fidelity; Harald Hass, 2011): tested in India on 29 January 2018 by the IT Ministry (not I&B) with IIT Madras; uses lights, not optical fibre."
+ },
+ "13-039": {
+  "r": "Internet → the largest network linking and storing information among countries through satellites and cables."
+ },
+ "13-040": {
+  "r": "VPN (Virtual Private Network) → extends a private network across a public network (internet), letting users securely reach their organisation's network."
+ },
+ "13-041": {
+  "r": "Portal → website offering many services: search, e-mail, news, stock prices, weather, sports, entertainment."
+ },
+ "13-042": {
+  "r": "Talaash → C-DAC's multimedia internet portal and Devanagari OCR (optical character recognition) software."
+ },
+ "13-043": {
+  "r": "NAYAN → C-DAC software to guard against cyber attacks and data theft."
+ },
+ "13-044": {
+  "r": "PARAM supercomputers → designed and assembled by C-DAC (Centre for Development of Advanced Computing), Pune.",
+  "h": "PARAM from Pune: both start with P."
+ },
+ "13-045": {
+  "r": "First indigenous Indian supercomputer → PARAM-8000, unveiled by C-DAC in 1991.",
+  "hi": [
+   "Supercomputer (महासंगणक)"
+  ]
+ },
+ "13-047": {
+  "r": "Father of Indian supercomputer → Vijay Bhatkar (PARAM-8000, unveiled 1991)."
+ },
+ "13-048": {
+  "r": "Anupam → BARC's supercomputer project (from 1991, parallel processing); the first was Anupam 860/4."
+ },
+ "13-049": {
+  "r": "Supercomputer word length → up to 64 bits; personal computer generally 32 bits."
+ },
+ "13-050": {
+  "r": "Supercomputer → the largest, fastest and costliest type of computer."
+ },
+ "13-051": {
+  "r": "In 1996 the fastest computer (ASCI Red) did over 1 Teraflop/s, a trillion operations per second (option c); El Capitan (US) now does 1809 Petaflop/s (November 2025)."
+ },
+ "13-052": {
+  "r": "Fastest computer: IBM Roadrunner (USA) in 2008, when asked; Tianhe-1A (China) topped later; El Capitan (USA) per the November 2025 Top 500 list.",
+  "c": "No option is right. When asked (2008) the fastest computer was IBM's Roadrunner (USA); Tianhe-1A, which the book names, reached the top only later. El Capitan led the November 2025 list."
+ },
+ "13-053": {
+  "r": "'Magic Cube' supercomputer → China; built to model Earth's future climate and biological systems."
+ },
+ "13-054": {
+  "r": "India's fastest supercomputer on 31 March 2018 → Pratyush ('sun'; IITM Pune, January 2018; monsoon and weather forecasts); now fifth in India."
+ },
+ "13-055": {
+  "r": "PARAM Kamrupa supercomputer → IIT Guwahati, inaugurated by President Droupadi Murmu on 13 October 2022 (838 TFLOPS, National Supercomputing Mission)."
+ },
+ "13-056": {
+  "r": "Smallest, fastest brain-like computer → quantum computer, based on qubits that can give many possible answers to one question.",
+  "hi": [
+   "Quantum computer (क्वांटम कंप्यूटर)"
+  ]
+ },
+ "13-057": {
+  "r": "Y2K (Year 2000 / Millennium bug) → computer coding problem when the year's last two digits became zero at the start of 2000; K = thousand."
+ },
+ "13-059": {
+  "r": "Not matched: PARAM 10,000 is a C-DAC supercomputer, not a missile. Y2K → computer; arthritis → uric acid; noise pollution → decibel."
+ },
+ "13-060": {
+  "r": "W.L.L. → Wireless in Local Loop: BSNL's communication service for rural areas."
+ },
+ "13-061": {
+  "r": "Most widely used computers → microcomputers (desktops, laptops, tablets, smartphones, PDAs)."
+ },
+ "13-062": {
+  "r": "Digital watch → embedded computer: a dedicated computer inside a larger device (also MP3 players, traffic lights, MRI)."
+ },
+ "13-063": {
+  "r": "Laser printers (and CD/DVD players) → semiconductor laser; excimer → eye surgery, microelectronics; gas laser → holograms, barcodes; dye laser → spectroscopy."
+ },
+ "13-064": {
+  "r": "Desktop printing (desktop publishing, DTP) → laser printer."
+ },
+ "13-065": {
+  "r": "Daisy wheel printer → impact printer (David S. Lee, Diablo Data Systems, 1969); dot matrix printers are also impact printers."
+ },
+ "13-066": {
+  "r": "WWW → World Wide Web: invented by Tim Berners-Lee at CERN in 1989, opened to public in 1991; works on HTTP.",
+  "hi": [
+   "World Wide Web (विश्वव्यापी वेब)"
+  ]
+ },
+ "13-070": {
+  "r": "WWW is a hypermedia system because it links to other computer resources: interlinked hypertext documents reached through hyperlinks."
+ },
+ "13-072": {
+  "r": "W3C → World Wide Web Consortium, the main web standards body, founded in 1994 by Tim Berners-Lee."
+ },
+ "13-073": {
+  "r": "Computerisation of a system needs will, financial resources, trained manpower and modern infrastructure → all four (book)."
+ },
+ "13-074": {
+  "r": "Book: cyberspace, upload and modem are infotech terms; optical storage belongs to computer engineering."
+ },
+ "13-075": {
+  "r": "Pinaka is not an infotech term: it is DRDO's multiple rocket launcher for the Indian Army; login, modem and password are."
+ },
+ "13-076": {
+  "r": "Protocol, login and Archie (search program for anonymous FTP servers) → all are infotech terms."
+ },
+ "13-077": {
+  "r": "Set of rules governing data communication → protocol (an agreement between communicating devices).",
+  "hi": [
+   "Protocol (प्रोटोकॉल)"
+  ]
+ },
+ "13-078": {
+  "r": "Protocol suite for all internet transmissions → TCP/IP: TCP makes and checks packets; IP addresses each packet to its place."
+ },
+ "13-079": {
+  "r": "IP addresses work at the network layer (layer 3) of the OSI model (internet layer of TCP/IP); a logical address given by administrator or ISP."
+ },
+ "13-080": {
+  "r": "OSI model (1984) has seven layers: physical (1), data link (2), network (3) → data link layer lies between physical and network."
+ },
+ "13-081": {
+  "r": "IoT layers: perception (sensing), transport, network (connections, routing), application; book's answer for wireless connection: network layer."
+ },
+ "13-082": {
+  "r": "Book: 'network server' is not a type of server; file, print, application, web, proxy, mail and database servers are."
+ },
+ "13-083": {
+  "r": "Junk (unsolicited) e-mail → spam."
+ },
+ "13-085": {
+  "r": "'Spam' relates to computers: flooding the internet with copies of the same message, mostly commercial advertising."
+ },
+ "13-086": {
+  "r": "Repeatedly sending the same e-mail to one address to overflow the mailbox → e-mail bombing."
+ },
+ "13-087": {
+  "r": "DuckDuckGo → search engine that does not collect user information."
+ },
+ "13-088": {
+  "r": "Orkut → a (now closed) social networking site, not a search engine; Google, Altavista and ScienceDirect are search engines."
+ },
+ "13-089": {
+  "r": "Baidu → Chinese search engine (websites, audio files, images)."
+ },
+ "13-090": {
+  "r": "Bing → web search engine of Microsoft, launched in 2009."
+ },
+ "13-091": {
+  "r": "Kurrently → free social-media search engine giving real-time results from Twitter, Facebook etc."
+ },
+ "13-092": {
+  "r": "Yahoo, Google, MSN → internet websites."
+ },
+ "13-093": {
+  "r": "Yahoo is a search engine, not a web browser; Internet Explorer (now Edge), Mozilla Firefox and Google Chrome are browsers.",
+  "t": "Don't confuse a browser (Chrome, Firefox) with a search engine (Yahoo)."
+ },
+ "13-094": {
+  "r": "Google's web browser → Chrome (freeware, first released 2008)."
+ }
+}

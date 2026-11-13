@@ -72,7 +72,7 @@
  },
  "17-199": {
   "r": "Uttar Pradesh literacy, Census 2011 → 67.7% (male 77.3%, female 57.2%).",
-  "c": "Book prints answer '*': 67.7% is not among the options."
+  "c": "Option (c) 69.72% was UP's provisional Census 2011 literacy rate; the final figure is 67.7%, so (c) is the answer on provisional data."
  },
  "17-200": {
   "r": "Uttar Pradesh's literacy rank among States/UTs → 31st (Census 2001); 29th (Census 2011)."
@@ -116,7 +116,7 @@
  },
  "17-212": {
   "r": "Sex-ratio by Census: 1951 → 946; 1991 → 927 (not 938); 2001 → 933; 2011 → 943 (provisional 940).",
-  "c": "Book prints two answers, (b) and (d): 1991 was 927, and the final 2011 figure is 943, not 940."
+  "c": "(b) is plainly wrong (1991 was 927); (d) is wrong only by the final 2011 figure of 943, since 940 was the provisional figure."
  },
  "17-213": {
   "r": "Females per thousand males around 2000: India 927 (1991 Census), World 990."

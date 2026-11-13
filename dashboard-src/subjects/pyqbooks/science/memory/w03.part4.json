@@ -1,0 +1,135 @@
+{
+  "14-021": {
+    "r": "Cassini-Huygens → Saturn, not Venus; Messenger → mapped and orbited Mercury (2011–2015); Voyager 1 and 2 (launched 1977) → explore outer Solar System."
+  },
+  "14-023": {
+    "r": "Cassini → NASA spacecraft to study Saturn; Apophis → asteroid; Spitzer → NASA infrared space telescope; TechSar → Israeli satellite launched by India's PSLV."
+  },
+  "14-024": {
+    "r": "Evolved LISA (eLISA) → three spacecraft in an equilateral triangle, sides one million km, with lasers between them; detects gravitational waves; ESA-led with NASA.",
+    "hi": ["Gravitational waves (गुरुत्वीय तरंगें)"]
+  },
+  "14-026": {
+    "r": "Gravity Tractor (British, 2009) → a 10-ton spacecraft to stop asteroids from hitting Earth; idea proposed in 2005 by Edward T. Lu and Stanley G. Love."
+  },
+  "14-027": {
+    "r": "Merger of giant black holes billions of light-years away → significance: gravitational waves were detected."
+  },
+  "14-028": {
+    "r": "Gravitational waves first directly observed on 14 September 2015 by LIGO (Laser Interferometer Gravitational Wave Observatory); announced 11 February 2016."
+  },
+  "14-029": {
+    "r": "Evidence cited for continued expansion of the universe → detection of microwaves in space and observation of redshift (answer: 1 and 2)."
+  },
+  "14-030": {
+    "r": "Expanding universe → based on Doppler effect; Edwin Hubble found light from distant galaxies shifted to the red end of the spectrum (red-shift).",
+    "hi": ["Doppler effect (डॉप्लर प्रभाव)"],
+    "c": "The book says Christian Doppler came up with the idea in 1942; that is a misprint, he proposed it a century earlier."
+  },
+  "14-031": {
+    "r": "Einstein's General Theory of Relativity predicts → light is affected by gravity, universe is expanding, matter warps surrounding space-time → all three."
+  },
+  "14-032": {
+    "r": "Event Horizon, Singularity, String Theory, Standard Model → terms about observation and understanding of the Universe."
+  },
+  "14-033": {
+    "r": "Black hole → a collapsed star; forms when very massive stars collapse at the end of their life cycle.",
+    "hi": ["Black hole (कृष्ण विवर)"]
+  },
+  "14-034": {
+    "r": "Black hole cannot be seen by telescope because its gravity is so strong that even light cannot escape → A and R true, R explains A."
+  },
+  "14-035": {
+    "r": "Black hole → absorbs all radiations that fall on it, due to its high gravity."
+  },
+  "14-036": {
+    "r": "Highly elongated elliptical orbit around the Sun → Comet; planets have nearly circular orbits."
+  },
+  "14-037": {
+    "r": "Comet's tail → always points away from the Sun; solar radiation pushes dust (dust tail) and solar charged particles ionise gases (ion tail).",
+    "hi": ["Comet (धूमकेतु)"]
+  },
+  "14-038": {
+    "r": "Photosphere ('light sphere') → bright outer layer of the Sun that emits most visible light; the other layers: chromosphere and corona.",
+    "hi": ["Photosphere (प्रकाशमंडल)"]
+  },
+  "14-039": {
+    "r": "Highly dense stars → Neutron stars."
+  },
+  "14-040": {
+    "r": "Pulsars → rotating neutron stars emitting pulses of radiation at very regular intervals (milliseconds to seconds); have very strong magnetic fields."
+  },
+  "14-041": {
+    "r": "Only one pair correct: Pulsars → neutron stars from collapsed massive stars. Cepheids → brighten and dim periodically; Nebulae → clouds of gas and dust (descriptions swapped)."
+  },
+  "14-042": {
+    "r": "Giant stars (eight to 100 times Sun's mass) → hotter, denser cores and faster nuclear reactions than dwarf stars, so they do not live longer → I wrong, II right."
+  },
+  "14-043": {
+    "r": "Charged particles from space (several hundred km/sec) → diverted towards the poles by Earth's magnetic field; example: Aurora.",
+    "hi": ["Magnetic field (चुंबकीय क्षेत्र)"]
+  },
+  "14-044": {
+    "r": "Major solar flare can → fail GPS/navigation, damage power grids, cause intense auroras, disturb satellite orbits, cut polar shortwave radio; not tsunamis or forest fires."
+  },
+  "14-045": {
+    "r": "Re-entering space shuttle → air friction heats its surface and ionizes surrounding air, disturbing radio signals → brief loss of contact (A and R true, R explains A)."
+  },
+  "14-046": {
+    "r": "Geostationary satellite → about 36,000 km above the equator, not 10,000 km; FM music transmission is of very good quality as noise does little harm → only 2.",
+    "h": "Three geostationary satellites, 120 degrees apart, cover the whole Earth; each sees about 40 percent."
+  },
+  "14-047": {
+    "r": "Geostationary orbit → geosynchronous, circular, in Earth's equatorial plane; altitude about 35,786 km (22,236 miles), not 22,236 km; also called Clarke orbit.",
+    "t": "Don't confuse 22,236 miles with km: the height is 35,786 km."
+  },
+  "14-048": {
+    "r": "Geostatic position → object circles Earth at a speed matching Earth's, so it stays fixed (at fixed height) over a place on Earth; basis of geostationary satellites."
+  },
+  "14-050": {
+    "r": "Communication satellites → located in the exosphere, the outermost and extremely thin layer of the atmosphere."
+  },
+  "14-051": {
+    "r": "Geostationary satellite → period of revolution 24 hours, same as Earth's rotation period."
+  },
+  "14-053": {
+    "r": "Path of a geostationary satellite in space → circular (option a diagram)."
+  },
+  "14-054": {
+    "r": "Kepler space telescope (NASA, 2009) → to find Earth-like planets around other stars; retired 30 October 2018 after 9 years; found more than 2600 exoplanets."
+  },
+  "14-055": {
+    "r": "Chandra X-ray telescope → named after Indian-American astrophysicist Subrahmanyan Chandrasekhar; launched by Space Shuttle Columbia on 23 July 1999.",
+    "t": "Not C.V. Raman, J.C. Bose or P.C. Roy, though all have 'Chandra' in their names."
+  },
+  "14-056": {
+    "r": "Astrosat → India's first dedicated multiwavelength space observatory, PSLV-XL, 28 September 2015; statements 'only USA, Russia before' and '2000 kg at 1650 km' both wrong."
+  },
+  "14-057": {
+    "r": "IceCube → world's biggest neutrino telescope, completed December 2010, designed by the University of Wisconsin."
+  },
+  "14-058": {
+    "r": "Highest ground-based telescope observatory now → University of Tokyo Atacama Observatory, Chile (5,640 m); at question time → Indian Astronomical Observatory, Hanle, Ladakh. The book gives no single answer (*)."
+  },
+  "14-059": {
+    "r": "MACE (Hanle, Ladakh) → Asia's largest, world's highest imaging Cherenkov telescope, about 4,270 m (not 5100); inaugurated 4 October 2024 by Ajit Kumar Mohanty; built by BARC."
+  },
+  "14-060": {
+    "r": "ISRO = Indian Space Research Organisation → India's space agency under the Department of Space; earlier INCOSPAR, set up in 1962."
+  },
+  "14-061": {
+    "r": "INSAT-3B launch (21 March 2000, Ariane 5G, Kourou, French Guiana) → ISRO Chairman was K. Kasturirangan (headed ISRO 1994–2003)."
+  },
+  "14-062": {
+    "r": "ISRO Chairman when asked → G. Madhavan Nair; present Chairman → Dr. V. Narayanan (since 13 January 2025). The book gives no single answer (*)."
+  },
+  "14-063": {
+    "r": "ISRO chairmen: A.S. Kiran Kumar 2015–2018; 10th → S. Somanath 2022–2025; 11th, present → V. Narayanan (from 13 January 2025); first → Vikram Sarabhai."
+  },
+  "14-065": {
+    "r": "Current ISRO Chairman → Dr. V. Narayanan (from 13 January 2025), succeeding Dr. S. Somanath (January 2022 to January 2025). The book gives no single answer (*)."
+  },
+  "14-066": {
+    "r": "INSAT → ISRO's multipurpose geostationary satellites for telecommunication, broadcasting, meteorology; India's telecom is satellite-linked, but not for 'star war' (A true, R false)."
+  }
+}

@@ -1,0 +1,513 @@
+{
+ "45-009": {
+  "r": "A true: most vitamins are not made in the body (essential food factors). R false. Gut bacteria make vitamin K and biotin; skin makes vitamin D in UV light."
+ },
+ "45-010": {
+  "r": "A false: the body cannot make most vitamins. R true: vitamins are essential for proper growth; their deficiency causes specific diseases."
+ },
+ "45-011": {
+  "r": "Liver stores fat-soluble vitamins A, D, E, K and vitamin B (not C) → none of the given options fits."
+ },
+ "45-012": {
+  "r": "Fat-soluble vitamins → A, D, E, K; water-soluble → B group and C. So 'vitamin K is water-soluble' is the wrong statement.",
+  "h": "Fat-soluble = 'ADEK'.",
+  "hi": [
+   "Fat-soluble (वसा में घुलनशील)"
+  ]
+ },
+ "45-020": {
+  "r": "Micro-minerals (trace elements, under 0.01% of body weight) → iodine, iron, zinc, copper, selenium etc.; not phosphorus, sulphur or magnesium.",
+  "hi": [
+   "Trace element (सूक्ष्म तत्व)"
+  ]
+ },
+ "45-021": {
+  "r": "Needed in major quantities (macronutrients) → potassium, sodium, magnesium, calcium (also sulphur, phosphorus, chlorine)."
+ },
+ "45-022": {
+  "r": "In a 70 kg man, increasing amount: copper < iron < sodium < potassium."
+ },
+ "45-023": {
+  "r": "Apples → rich in potassium, which keeps a healthy heart rhythm; also antioxidant phytochemicals.",
+  "hi": [
+   "Potassium (पोटैशियम)"
+  ]
+ },
+ "45-024": {
+  "r": "Antioxidants → neutralise free radicals produced in metabolism, stopping chain reactions that damage or kill cells.",
+  "hi": [
+   "Antioxidant (प्रतिऑक्सीकारक)"
+  ]
+ },
+ "45-026": {
+  "r": "Most vitamin C among chilli, pumpkin, pea and radish → chilli (about 143.7 mg per 100 g)."
+ },
+ "45-027": {
+  "r": "Vitamin C (ascorbic acid) → citrus fruits (lemon, orange, amla); water-soluble, keeps skin healthy; deficiency → scurvy.",
+  "hi": [
+   "Scurvy (स्कर्वी)"
+  ]
+ },
+ "45-028": {
+  "r": "Main source of vitamin C → raw, fresh (citrus) fruits; milk and ghee give vitamin A; pulses give protein."
+ },
+ "45-029": {
+  "r": "Richest vitamin C (ascorbic acid) source → Indian gooseberry (amla); orange, tomato, lemon, papaya, peas are also good sources.",
+  "hi": [
+   "Indian gooseberry (आंवला)"
+  ]
+ },
+ "45-035": {
+  "r": "Vitamin C → helps iron absorption; vitamin D → helps calcium and magnesium absorption."
+ },
+ "45-036": {
+  "r": "Vitamin C → water-soluble, not stored (lost in urine); vitamins A, D, E, K are fat-soluble and stored (mainly in the liver)."
+ },
+ "45-037": {
+  "r": "Vitamin K → blood clotting (antihaemorrhagic factor); deficiency → slow coagulation and uncontrolled bleeding.",
+  "hi": [
+   "Blood coagulation (रक्त स्कंदन)"
+  ]
+ },
+ "45-043": {
+  "r": "Antidote to anticoagulant poisons → vitamin K (antihaemorrhagic factor)."
+ },
+ "45-044": {
+  "r": "Made by intestinal bacteria → vitamin B and vitamin K; the book accepts both (a) and (c)."
+ },
+ "45-045": {
+  "r": "Wrong pair: Vitamin K – sterility; vitamin K lack affects blood clotting. Correct: niacin–pellagra, thiamin–beri-beri, vitamin D–rickets."
+ },
+ "45-046": {
+  "r": "Vitamin D → made in skin by sun rays (also butter, egg yolk, liver); lack → rickets (children), osteomalacia (adults), osteoporosis (older adults).",
+  "hi": [
+   "Rickets (सूखा रोग)"
+  ]
+ },
+ "45-050": {
+  "r": "Vitamin D → calciferol: D₂ ergocalciferol, D₃ cholecalciferol. Ascorbic acid = C; retinol = A; folic acid = a B vitamin."
+ },
+ "45-053": {
+  "r": "Vitamin D → considered a hormone; D₂ and D₃ become active only after change in the body, to calcitriol (1,25-dihydroxyvitamin D)."
+ },
+ "45-054": {
+  "r": "Night blindness → vitamin A lack; the retina uses retinol + opsin to make rhodopsin for low-light vision.",
+  "hi": [
+   "Night blindness (रतौंधी)"
+  ]
+ },
+ "45-055": {
+  "r": "Vitamin A (retinol) → stored mainly in the liver; its lack causes night blindness."
+ },
+ "45-057": {
+  "r": "Carrot → richest vitamin A source among cabbage, carrot, cauliflower, spinach; spinach is rich in iron.",
+  "hi": [
+   "Carrot (गाजर)"
+  ]
+ },
+ "45-058": {
+  "r": "Mango → richest vitamin A source among apple, papaya, guava, mango; also rich in vitamins C and E."
+ },
+ "45-059": {
+  "r": "Vitamin A → cannot be made in the human body (proteins, enzymes and hormones are)."
+ },
+ "45-060": {
+  "r": "Normal vision → retinol (vitamin A), part of rhodopsin, the light-absorbing protein of the retina's receptors."
+ },
+ "45-061": {
+  "r": "A false: vitamin A also comes from other foods, so stopping green vegetables need not cause night blindness. R true: night blindness follows vitamin A lack."
+ },
+ "45-062": {
+  "r": "Cobalt → found in vitamin B₁₂ (cobalamin), a water-soluble vitamin; its lack causes pernicious anaemia.",
+  "h": "COBALamin contains COBALt.",
+  "hi": [
+   "Cobalt (कोबाल्ट)"
+  ]
+ },
+ "45-065": {
+  "r": "Vitamin B₁₂ (cobalamin) → water-soluble yet stored in the liver for about 3-5 years: A and R both true, R not the explanation."
+ },
+ "45-066": {
+  "r": "Cyanocobalamin → manufactured form of vitamin B₁₂, used to treat B₁₂ deficiency."
+ },
+ "45-067": {
+  "r": "Thiamine → vitamin B₁ (water-soluble; rice bran, whole wheat, yeast); its lack causes beri-beri."
+ },
+ "45-068": {
+  "r": "Beri-beri → vitamin B₁ (thiamin); rickets → vitamin D; scurvy → vitamin C."
+ },
+ "45-069": {
+  "r": "Vitamin B group (B vitamins, folate) → may affect dream quality and the ability to recall dreams."
+ },
+ "45-070": {
+  "r": "Vitamin D–cod-liver oil, E–wheat germ oil, K–alfalfa are right; orange (rich in C) is also a low source of B → book picks (e)."
+ },
+ "45-071": {
+  "r": "Wrong pair: Vitamin B₂ – cod-liver oil; cod-liver oil gives omega-3, vitamins A and D. Riboflavin (B₂) → eggs, milk, green vegetables."
+ },
+ "45-072": {
+  "r": "Wrong pair: Vitamin A – orange; orange is rich in vitamin C, folate, thiamin. Vitamin A sources: carrots, milk, butter, egg, cod liver oil."
+ },
+ "45-073": {
+  "r": "Vitamin K → alfalfa; D → cod-liver oil; E → wheat germ oil; C → lemon."
+ },
+ "45-074": {
+  "r": "Vitamin A → blindness (night blindness, xerophthalmia); B → beriberi; C → scurvy; D → rickets."
+ },
+ "45-075": {
+  "r": "Night blindness → vitamin A; rickets → D; scurvy → C; beri-beri → B."
+ },
+ "45-076": {
+  "r": "Rickets → vitamin D; beri-beri → B; nyctalopia (night blindness) → A; scurvy → C.",
+  "hi": [
+   "Nyctalopia (रतौंधी)"
+  ]
+ },
+ "45-077": {
+  "r": "Vitamin C → scurvy; folic acid → anaemia; vitamin A → night blindness; vitamin B → beri-beri.",
+  "hi": [
+   "Anaemia (रक्ताल्पता)"
+  ]
+ },
+ "45-078": {
+  "r": "Wrong pair: Vitamin D – colour blindness; colour blindness is a sex-linked genetic disorder. Correct: A–night blindness, niacin (B₃)–pellagra, folic acid–anaemia."
+ },
+ "45-079": {
+  "r": "Correct: vitamin C–scurvy, vitamin D–rickets. Wrong: vitamin E–night blindness (night blindness comes from vitamin A lack)."
+ },
+ "45-080": {
+  "r": "Riboflavin (vitamin B₂) lack → cheilosis (swollen, cracked lips) and angular stomatitis; not pellagra, scurvy or beri-beri."
+ },
+ "45-081": {
+  "r": "Wrong pair: Riboflavin – beri-beri; beri-beri is from thiamin (B₁) lack. Correct: calciferol–osteomalacia, niacin–pellagra, cobalamin–pernicious anaemia."
+ },
+ "45-082": {
+  "r": "Wrong pair: Vitamin A – rheumatism; vitamin A lack causes night blindness. Correct: D–rickets, C–bleeding gums, B–beriberi."
+ },
+ "45-083": {
+  "r": "Retinol (A) → conjunctivitis; tocopherol (E) → sterility; cyanocobalamin (B₁₂) → pernicious anaemia; pyridoxine (B₆) → mental illness."
+ },
+ "45-084": {
+  "r": "Wrong pair: Tocopherol (E) – beri-beri; beri-beri is from thiamin (B₁) lack. Correct: retinol–xerophthalmia, cyanocobalamin–anaemia, ergocalciferol–rickets."
+ },
+ "45-085": {
+  "r": "Wrong pair: Vitamin D – antisterility factor; vitamin E (tocopherol) is the antisterility factor. Correct: B–antianaemic, C–antiscorbutic, K–antihaemorrhagic."
+ },
+ "45-086": {
+  "r": "Wrong pair: Vitamin K – sterility; vitamin K (naphthoquinone) is antihaemorrhagic, sterility is from vitamin E lack. Correct: thiamin–beri-beri, D–rickets, niacin–pellagra.",
+  "t": "Vitamin E, not K, is linked to sterility."
+ },
+ "45-087": {
+  "r": "Highest vitamin E → wheat germ oil (germ is only about 2.5% of the wheat kernel); vitamin E is a fat-soluble antioxidant."
+ },
+ "45-088": {
+  "r": "Thyroxine → a hormone of the thyroid gland, not a vitamin; niacin, riboflavin and pyridoxine are B vitamins.",
+  "hi": [
+   "Thyroid gland (अवटु ग्रंथि)"
+  ]
+ },
+ "45-089": {
+  "r": "Banana (family Musaceae) gives about 89 kcal per 100 g; among the options, 116 kcal is nearest."
+ },
+ "45-090": {
+  "r": "Legumes → highly nutritious as they are rich in protein; low in fat, no cholesterol; good meat substitute."
+ },
+ "45-091": {
+  "r": "Highest protein → soybean (about 40% protein, 20-23% fat, 30% carbohydrate); counted as both oilseed and pulse.",
+  "hi": [
+   "Soybean (सोयाबीन)"
+  ]
+ },
+ "45-094": {
+  "r": "Richest protein source among rice, groundnut, apple → groundnut; rice is best for carbohydrate."
+ },
+ "45-095": {
+  "r": "Rich in both protein and fat → groundnut (about 25.3% protein, 48.1% fat).",
+  "hi": [
+   "Groundnut (मूंगफली)"
+  ]
+ },
+ "45-096": {
+  "r": "Mostly carbohydrate → rice (highest carbohydrate share among wheat, barley, rice, maize)."
+ },
+ "45-097": {
+  "r": "Tyrosine → helps make neurotransmitters (adrenaline, noradrenaline, dopamine), raises energy, eases stress and depression; it does not protect against ageing free radicals."
+ },
+ "45-098": {
+  "r": "Bread-making quality of wheat → gluten, a protein composite that gives dough elasticity.",
+  "hi": [
+   "Gluten (ग्लूटेन)"
+  ]
+ },
+ "45-099": {
+  "r": "Daily energy for a man doing very hard work → about 3500-4000 kilocalories."
+ },
+ "45-100": {
+  "r": "A glass of water → zero calories (no fat, carbohydrate or protein)."
+ },
+ "45-101": {
+  "r": "Essential constituent of diet → carbohydrate (compounds of C, H, O with two hydrogens per oxygen)."
+ },
+ "45-102": {
+  "r": "Main fuel during long, high-intensity exercise → carbohydrate."
+ },
+ "45-103": {
+  "r": "Nitrogen → essential in DNA, RNA, proteins and chlorophyll; not in carbohydrates (only C, H, O)."
+ },
+ "45-104": {
+  "r": "Acid–alkali balance in the body → phosphorus (as phosphate)."
+ },
+ "45-105": {
+  "r": "Amino acids → not stored in the body (need daily intake); glycogen, fat and tocopherol are stored."
+ },
+ "45-106": {
+  "r": "Karonda → rich source of iron (used against anaemia); also has vitamin C (antiscorbutic).",
+  "hi": [
+   "Karonda (करौंदा)"
+  ]
+ },
+ "45-107": {
+  "r": "Muscle contraction needs calcium, iron and sodium (also magnesium, potassium) → all three."
+ },
+ "45-108": {
+  "r": "Spinach → rich in iron (and calcium): about 6.43 mg iron in 180 g boiled spinach.",
+  "hi": [
+   "Spinach (पालक)"
+  ]
+ },
+ "45-110": {
+  "r": "Most iron among beans, eggs, green vegetables, milk → green vegetables; iron in haemoglobin carries oxygen; its lack causes anaemia.",
+  "hi": [
+   "Iron (लौह)"
+  ]
+ },
+ "45-111": {
+  "r": "Basmati grains lengthen on cooking → high amylose, a long straight starch that does not gelatinise (the other rice starch is amylopectin)."
+ },
+ "45-112": {
+  "r": "Sweetness of milk → lactose, a disaccharide of glucose + galactose.",
+  "hi": [
+   "Lactose (दुग्ध शर्करा)"
+  ]
+ },
+ "45-113": {
+  "r": "Milk sugar → lactose (glucose + galactose); sucrose = glucose + fructose; maltose = glucose + glucose.",
+  "h": "Lactose = Lac (milk) sugar."
+ },
+ "45-114": {
+  "r": "Milk turns sour / into curd → Lactobacillus bacteria, which turn lactose into lactic acid.",
+  "hi": [
+   "Curd (दही)"
+  ]
+ },
+ "45-116": {
+  "r": "Slightly yellow colour of cow's milk → carotene (from hay, grass, green leaves); vitamin A gives milk no colour."
+ },
+ "45-117": {
+  "r": "Cow milk is yellowish-white → carotene (yellow) with casein (white, about 80% of cow-milk protein); buffalo milk is whiter, no carotene."
+ },
+ "45-118": {
+  "r": "Buffalo milk fat → about 7-7.5% (answer 7.2%); cow milk fat → about 3.5-4.0%."
+ },
+ "45-119": {
+  "r": "Rennin and lactase start to disappear by age two or three and vanish between 6-15 years ('lactose intolerant') → book gives no single answer (*)."
+ },
+ "45-120": {
+  "r": "Milk protein → digested by rennin, a stomach enzyme of young mammals that curdles milk; HCl activates it from prorenin.",
+  "hi": [
+   "Rennin (रेनिन)"
+  ]
+ },
+ "45-121": {
+  "r": "Casein → milk protein (a phosphoprotein) that also makes milk white; other milk proteins: lactoglobulin, lactalbumin.",
+  "hi": [
+   "Casein (केसीन)"
+  ]
+ },
+ "45-124": {
+  "r": "Body tissues are built by proteins (about 17% of body weight)."
+ },
+ "45-125": {
+  "r": "Slow growth of the body → protein deficiency (protein builds muscle, bone, skin)."
+ },
+ "45-126": {
+  "r": "All proteins contain carbon, hydrogen, oxygen and nitrogen (some also traces of sulphur, iodine, iron); built from amino acids."
+ },
+ "45-127": {
+  "r": "Vitamin B₁₂ → cobalt; haemoglobin → iron; chlorophyll → magnesium; brass → copper.",
+  "h": "Chlorophyll Mg, haemoglobin Fe, B₁₂ Co."
+ },
+ "45-128": {
+  "r": "Vitamin B₁₂ → cobalt; haemoglobin → iron; chlorophyll → magnesium; chalcopyrite → copper."
+ },
+ "45-129": {
+  "r": "B₁ → thiamine (printed 'Thymine'); B₂ → riboflavin; B₆ → pyridoxine; B₁₂ → cobalamin. Calciferol is vitamin D.",
+  "h": "B₁ thiamin, B₂ riboflavin, B₃ niacin, B₅ pantothenic acid, B₆ pyridoxine, B₇ biotin, B₉ folic acid, B₁₂ cobalamin.",
+  "t": "Thiamine (vitamin B₁) is not thymine, a DNA base."
+ },
+ "45-131": {
+  "r": "Not a micronutrient → sulphur (a macronutrient); micronutrients: iron, zinc, manganese, boron, copper, molybdenum, nickel.",
+  "hi": [
+   "Micronutrient (सूक्ष्म पोषक तत्व)"
+  ]
+ },
+ "45-132": {
+  "r": "Main vitamin in papaya → vitamin C (about 226 mg in a 200 g papaya); Columbus called it 'the fruit of the angel'."
+ },
+ "45-133": {
+  "r": "Not a natural vitamin A source → milk (very little vitamin A); mango, papaya and carrot are sources."
+ },
+ "45-134": {
+  "r": "Infrared rays do not denature proteins; heat, X-rays and heavy-metal salts do.",
+  "hi": [
+   "Denaturation (विकृतीकरण)"
+  ]
+ },
+ "45-135": {
+  "r": "Wrong: 'about 30% of body weight is protein' – NCERT says about 20%. True: proteins come from animals and plants, are made of amino acids, are building blocks."
+ },
+ "45-136": {
+  "r": "Protein requirement → higher in the old than in the young (per the book)."
+ },
+ "45-137": {
+  "r": "Daily protein → moderately active adult woman about 45-46 g; adult man about 56 g; lactating mother about 70 g."
+ },
+ "45-139": {
+  "r": "Wrong: 'milk has no B vitamins' – it has thiamin, riboflavin, niacin, cobalamin, folate. True: vitamin A lack → dry skin; scurvy → joint pain; thiamine lack → heart failure."
+ },
+ "45-140": {
+  "r": "Mother's milk lacks iron; early milk (colostrum) is rich in protein and antibodies, giving passive immunity.",
+  "hi": [
+   "Colostrum (खीस)"
+  ]
+ },
+ "45-141": {
+  "r": "Breast-fed baby (vs bottle-fed) → less obese, resists disease better (mother's antibodies), gets more vitamins and protein; abnormal height growth is not a trait."
+ },
+ "45-142": {
+  "r": "Milk (about 87% water) → gives calcium and potassium besides proteins and carbohydrates; only trace iron."
+ },
+ "45-143": {
+  "r": "Milk → poor source of vitamin C; rich in protein, vitamin A, B vitamins, carbohydrate, calcium, potassium."
+ },
+ "45-144": {
+  "r": "Starch → polysaccharide of many glucose units joined by glycosidic bonds; energy store of green plants.",
+  "hi": [
+   "Starch (मंड)"
+  ]
+ },
+ "45-145": {
+  "r": "Wrong: 'both give colour with iodine' – starch turns blue-black, cellulose gives no colour. Both are plant polymers of glucose; cellulose forms plant cell walls."
+ },
+ "45-146": {
+  "r": "Malnutrition → results from overnutrition, undernutrition and imbalanced nutrition → all three.",
+  "hi": [
+   "Malnutrition (कुपोषण)"
+  ]
+ },
+ "45-147": {
+  "r": "Correct: fatty acids needed in diet; normal diet (2200-2400 calories) has about 75 g fat; essential fatty acid lack causes disease. Wrong: body cannot make any fatty acids."
+ },
+ "45-148": {
+  "r": "Linseed → its oil is a very good source of omega-3 fatty acid, which helps prevent fat deposits in blood vessels."
+ },
+ "45-149": {
+  "r": "Richest alpha-linolenic acid (18-carbon omega-3, plant type) → flaxseed; also canola, soybean and walnut oil."
+ },
+ "45-150": {
+  "r": "A true: vitamins are needed in tiny amounts (micronutrients) for health. R false: white blood cells, not vitamins, destroy harmful bacteria."
+ },
+ "45-151": {
+  "r": "A false: glycine, serine, tyrosine are non-essential (made in the body). R true: essential amino acids cannot be made; of 20 amino acids, 10 essential, 10 non-essential."
+ },
+ "45-152": {
+  "r": "Complete proteins (all essential amino acids) → milk, egg, soybean (also meat, fish, yogurt); rice lacks some → book gives no single answer (*)."
+ },
+ "45-153": {
+  "r": "Best source of all essential amino acids → egg, which has the highest Biological Value (BV)."
+ },
+ "45-154": {
+  "r": "Fat below the skin → insulating layer that prevents heat loss; also an energy store and shock protection.",
+  "hi": [
+   "Fat (वसा)"
+  ]
+ },
+ "45-155": {
+  "r": "Most calories per gram → fats (about 9.3 kcal) vs carbohydrates or proteins (about 4.0 kcal)."
+ },
+ "45-156": {
+  "r": "Maximum energy in metabolism → fats (9.3 kcal per g); proteins and carbohydrates give about 4.0 kcal per g."
+ },
+ "45-157": {
+  "r": "Diet group giving maximum energy → carbohydrate, fat and protein."
+ },
+ "45-158": {
+  "r": "About 80% of living (organic) material in most organisms → protein; overall, water is the most abundant substance."
+ },
+ "45-159": {
+  "r": "Cook in oil, not vanaspati ghee → oils have unsaturated (poly- and monounsaturated) fats that lower blood cholesterol and heart risk.",
+  "hi": [
+   "Unsaturated fat (असंतृप्त वसा)"
+  ]
+ },
+ "45-160": {
+  "r": "Sunflower oil → good edible oil because rich in unsaturated fatty acids (mainly linoleic acid): A and R true, R explains A."
+ },
+ "45-161": {
+  "r": "For heart patients → sunflower oil: mono- and polyunsaturated fats, low saturated fat, more vitamin E than other vegetable oils."
+ },
+ "45-162": {
+  "r": "A true: unsaturated fats are more reactive. R false: unsaturated fats have double bonds; single-bond compounds are more stable."
+ },
+ "45-163": {
+  "r": "Fish is healthier than other meat → polyunsaturated fatty acids that lower LDL (bad) cholesterol and heart-disease and stroke risk."
+ },
+ "45-164": {
+  "r": "Trans fat is harmful because it lowers HDL ('good' cholesterol); low HDL raises heart-disease risk.",
+  "hi": [
+   "Trans fat (ट्रांस वसा)"
+  ]
+ },
+ "45-165": {
+  "r": "'No trans-fat' label → no hydrogenated oils, no animal fats/oils, safer for the heart (trans fats raise LDL, lower HDL) → all three correct."
+ },
+ "45-166": {
+  "r": "Cholesterol → a sterol (steroid family), a fatty alcohol in animal fat; part of animal cell membranes; abnormal levels → blocked arteries.",
+  "hi": [
+   "Cholesterol (कोलेस्ट्रॉल)"
+  ]
+ },
+ "45-169": {
+  "r": "Triglyceride → a fat: ester of glycerol + three fatty acids; main body fat; high levels → obesity, high blood pressure."
+ },
+ "45-170": {
+  "r": "Wrong pair: Mustard oil – lubricant (mustard oil is not used as a lubricant). Correct: mineral oil–petroleum, vegetable fats–phytosterol, animal fats–cholesterol."
+ },
+ "46-001": {
+  "r": "Mammals respire by lungs (take O2 into blood, release CO2).",
+  "hi": [
+   "Lungs (फेफड़े)"
+  ]
+ },
+ "46-002": {
+  "r": "Nitrogen → same amount in inhaled and exhaled air; oxygen falls, CO2 and water vapour rise in exhaled air."
+ },
+ "46-003": {
+  "r": "Oxygen route in the body → lungs → blood → tissues."
+ },
+ "46-004": {
+  "r": "Gas exchange in lungs → alveoli, wrapped in capillaries: O2 into blood, CO2 into the air.",
+  "hi": [
+   "Alveoli (कूपिकाएँ)"
+  ]
+ },
+ "46-005": {
+  "r": "Less oxygen in blood (hypoxemia) → breathing rate increases (shortness of breath)."
+ },
+ "46-006": {
+  "r": "Carbon monoxide → binds haemoglobin as carboxyhaemoglobin (HbCO), cutting the blood's oxygen-carrying capacity (hypoxia).",
+  "hi": [
+   "Haemoglobin (हीमोग्लोबिन)"
+  ]
+ }
+}

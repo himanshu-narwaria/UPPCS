@@ -1,0 +1,381 @@
+{
+  "50-032": {
+    "r": "Parathyroid glands work independently of the pituitary; parathyroid hormone (with calcitonin from thyroid) regulates calcium in blood and bones.",
+    "hi": ["Parathyroid gland (परावटु ग्रंथि)"]
+  },
+  "50-033": {
+    "r": "Iodised salt (table salt + a little iodine salt) is useful because it controls the thyroid gland; iodine deficiency causes thyroid problems.",
+    "hi": ["Iodine (आयोडीन)"]
+  },
+  "50-034": {
+    "r": "Goitre (enlarged thyroid) is endemic in hilly areas because their soil, water and crops are iodine-deficient → A and R true, R explains A.",
+    "hi": ["Goitre (घेंघा)"]
+  },
+  "50-035": {
+    "r": "Thyroxine → main hormone of the thyroid gland; controls metabolism, heart, brain development; its deficiency causes cretinism and myxedema.",
+    "hi": ["Thyroid gland (अवटु ग्रंथि)"]
+  },
+  "50-036": {
+    "r": "Iodine-containing hormones → thyroxine (T4) and triiodothyronine (T3), made by the thyroid from iodine + the amino acid tyrosine (so thyroxine is an amino acid derivative)."
+  },
+  "50-039": {
+    "r": "TSH (thyroid-stimulating hormone) from the anterior pituitary stimulates the thyroid to secrete thyroxine."
+  },
+  "50-040": {
+    "r": "Adrenaline → anger, fear, danger; estrogen → females; insulin → glucose; pheromones → attracting partners through sense of smell."
+  },
+  "50-041": {
+    "r": "Adrenaline (epinephrine) from adrenal glands → 'fight or flight' hormone; raises heartbeat, causes excitement, dilates vessels to brain, muscles, heart.",
+    "hi": ["Adrenal gland (अधिवृक्क ग्रंथि)"]
+  },
+  "50-043": {
+    "r": "Estrogen (a hormone) → released mainly by ovarian follicles; also by corpus luteum and placenta; develops female secondary sexual characteristics."
+  },
+  "50-045": {
+    "r": "Female sex hormone → estrogen (oestrogen), made mainly by the ovaries; develops female reproductive organs and sexual characteristics."
+  },
+  "50-046": {
+    "r": "Estrone → a weak (postmenopausal) estrogen, so a female sex hormone; testosterone (androgen) is male; thyroxine regulates metabolism."
+  },
+  "50-047": {
+    "r": "After menopause ovaries stop estrogen and progesterone but still make a little testosterone; adrenal androstenedione becomes estrone. The book gives no single answer (*)."
+  },
+  "50-048": {
+    "r": "True: somatotropin (growth hormone) rises with exercise; men's testes make some progesterone; women's adrenals secrete testosterone. Statement 4 (stress lowers cortisol) is false."
+  },
+  "50-049": {
+    "r": "Hormone → testosterone; enzyme → lipase; phospholipid → lecithin; polymer → polythene."
+  },
+  "50-050": {
+    "r": "Parathyroid hormone (PTH; 84 amino acids, from chief cells) regulates blood calcium and phosphate; makes kidneys excrete more phosphate."
+  },
+  "50-051": {
+    "r": "Melatonin (pineal gland) rises in darkness and drops in bright light; bright light during sleep is undesirable → A true, R false.",
+    "hi": ["Pineal gland (पीनियल ग्रंथि)"]
+  },
+  "50-052": {
+    "r": "Pheromones → chemicals released by animals, especially insects, that affect the behaviour of others of the same species."
+  },
+  "51-001": {
+    "r": "Fertilization occurs in the oviduct (fallopian tube), at its end near the ovary, away from the uterus.",
+    "hi": ["Fertilization (निषेचन)"]
+  },
+  "51-002": {
+    "r": "Sperm normally fertilizes the ovum in the fallopian tube (oviduct or uterine tube), not in the cervix or uterus; the tube carries the egg from the ovary."
+  },
+  "51-003": {
+    "r": "Sperm stays alive up to about 72 hours in the female tract but can fertilize for about 48 hours (one to two days)."
+  },
+  "51-004": {
+    "r": "Embryo's heart starts beating about 4-5 weeks after fertilization (fourth week), at about 105-121 beats per minute."
+  },
+  "51-005": {
+    "r": "Amnion → membrane filled with amniotic fluid (amniotic sac); protects the embryo from desiccation and outer pressure.",
+    "hi": ["Amnion (उल्व)"]
+  },
+  "51-006": {
+    "r": "Sertoli cells → 'nurse' cells of the testis (in seminiferous tubules); support spermatogenesis; activated by FSH."
+  },
+  "52-001": {
+    "r": "Chlorophyll contains carbon, hydrogen, oxygen, nitrogen and magnesium – not calcium."
+  },
+  "52-002": {
+    "r": "Chlorophyll contains magnesium (needed to make it); magnesium deficiency → yellowing of leaves between the veins.",
+    "hi": ["Chlorophyll (पर्णहरित)"]
+  },
+  "52-004": {
+    "r": "Chloroplasts can self-replicate because they contain both DNA and RNA."
+  },
+  "52-005": {
+    "r": "Chlorophyll's job in photosynthesis → absorbing light (usually sunlight); it sits in the chloroplasts."
+  },
+  "52-006": {
+    "r": "Dark reaction (light-independent; Calvin cycle or Blackman's reaction) → stroma of the chloroplast; light reactions → thylakoids."
+  },
+  "52-007": {
+    "r": "Photosynthesis: main product glucose; by-product oxygen (O2); occurs in chloroplasts."
+  },
+  "52-008": {
+    "r": "Photosynthesis turns light energy into chemical energy stored in food; the glucose made soon turns into starch or sucrose → A and R true, R explains A."
+  },
+  "52-009": {
+    "r": "Oxygen released in photosynthesis comes from water (splitting of water molecules), not from CO2."
+  },
+  "52-010": {
+    "r": "Photosynthesis → plants take in CO2 and release O2 while forming glucose (C₆H₁₂O₆); light energy is stored in the bonds of sugar.",
+    "hi": ["Photosynthesis (प्रकाश संश्लेषण)"]
+  },
+  "52-016": {
+    "r": "Radiant energy absorbed by plants → photolysis of water: H2O molecules split into hydrogen ions and oxygen gas.",
+    "hi": ["Photolysis (प्रकाश-अपघटन)"]
+  },
+  "52-017": {
+    "r": "Most of Earth's oxygen → algae: about 90% of photosynthesis is by aquatic plants and algae (85% in sea, 5% in rivers, ponds)."
+  },
+  "52-018": {
+    "r": "Only II true: marine phytoplankton and photosynthetic bacteria make about 50% of world's oxygen; oceans, not rainforests, produce more; III is false."
+  },
+  "52-019": {
+    "r": "Photosynthesis can occur day or night – it needs light: sunlight, moonlight (marine algae) or even electric light; it is how plants make food."
+  },
+  "52-022": {
+    "r": "Photosynthesis occurs in chloroplasts (which hold chlorophyll), mainly in leaves (broad lamina), partly in stems."
+  },
+  "52-023": {
+    "r": "Plants strongly absorb blue and red light (also violet); photosynthesis is least or nil in green light."
+  },
+  "52-024": {
+    "r": "Chlorophyll absorbs red (long wavelength) and blue (short wavelength) light; green is reflected, so plants look green."
+  },
+  "52-025": {
+    "r": "Most effective light for photosynthesis → red, then blue; nil in green; T.W. Engelmann (1888) showed the action spectrum using algae.",
+    "t": "Chlorophyll absorbs blue and red, but the single most active light is red, not blue or violet."
+  },
+  "52-028": {
+    "r": "Artificial (electric) light can bring about photosynthesis; marine algae can even use moonlight."
+  },
+  "52-029": {
+    "r": "Photosynthesis converts light energy into chemical energy: CO2 + H2O → glucose (C₆H₁₂O₆) + O2."
+  },
+  "52-030": {
+    "r": "Making one glucose molecule in photosynthesis uses 18 ATP, 6 CO2 and 12 NADPH.",
+    "h": "Steps of six: CO2 6, NADPH 12, ATP 18."
+  },
+  "52-031": {
+    "r": "Chloroplast converts solar energy into ATP: light reactions of photosynthesis turn light into chemical energy as ATP and NADPH."
+  },
+  "52-034": {
+    "r": "Photosynthesis converts solar (light) energy into chemical energy – a form of potential energy stored in chemical bonds."
+  },
+  "52-035": {
+    "r": "Photosynthesis → free energy of sunlight converted into potential (chemical) energy and stored; ultimate source of metabolic energy for all life."
+  },
+  "52-036": {
+    "r": "Chlorella (single-celled green alga, class Chlorophyceae) → maximum efficiency in converting solar to chemical energy among the options."
+  },
+  "52-037": {
+    "r": "Roots do not photosynthesise (no chloroplasts); they absorb water and nutrients; photosynthesis happens in leaves."
+  },
+  "52-038": {
+    "r": "Photosynthesis removes CO2; respiration, decay of organic matter and volcanic action (outgassing) add CO2 to the carbon cycle."
+  },
+  "52-039": {
+    "r": "Don't sleep under trees at night: no photosynthesis at night, but trees keep respiring and release CO2, so oxygen nearby falls."
+  },
+  "52-041": {
+    "r": "Some bacteria (e.g. deep-sea green sulphur bacteria) use invisible infrared radiation for photosynthesis."
+  },
+  "53-001": {
+    "r": "Wrong pair: 'thick, hard stem branching near base' = shrub, not tree (tree branches high up). Petiole attaches leaf to stem; creeper has a weak stem."
+  },
+  "53-002": {
+    "r": "Stem transports food, stores food made by leaves, gives shape and support, bears leaves, flowers, fruits → 'more than one of the above'."
+  },
+  "53-003": {
+    "r": "Plants absorb most water through root hairs, the outermost layer of the zone of cell maturation.",
+    "hi": ["Root hair (मूलरोम)"]
+  },
+  "53-004": {
+    "r": "All three true: stomata = small pores in leaf epidermis, each ringed by two guard cells; gas exchange and transpiration happen through stomata.",
+    "hi": ["Stomata (रंध्र)"]
+  },
+  "53-005": {
+    "r": "Stomata open or close due to change in the amount of water in guard cells (turgor pressure from osmosis); swollen, turgid guard cells open them."
+  },
+  "53-006": {
+    "r": "Water rises to great heights in trees by the suction pull of transpiration (loss of water vapour through stomata).",
+    "hi": ["Transpiration (वाष्पोत्सर्जन)"]
+  },
+  "53-007": {
+    "r": "Ring-removing the bark cuts the phloem (food-carrying tissue in the bark) → food cannot reach roots, roots starve of energy, tree dies.",
+    "hi": ["Phloem (फ्लोएम)"]
+  },
+  "53-008": {
+    "r": "Water is conducted in vascular plants by xylem, which carries water and minerals from roots and replaces water lost in transpiration.",
+    "hi": ["Xylem (जाइलम)"]
+  },
+  "53-009": {
+    "r": "Xylem → carries water and dissolved minerals from roots to stem, leaves and other parts; transport is one-way (upward)."
+  },
+  "53-010": {
+    "r": "Xylem transports water (and minerals) from the soil to stems and leaves, and gives mechanical support; phloem is the other transport tissue."
+  },
+  "53-012": {
+    "r": "Phloem ('bast') → carries food made in leaves to all parts; made of sieve tubes, companion cells, phloem fibres, phloem parenchyma.",
+    "h": "PHloem → Food (ph sounds like f)."
+  },
+  "53-013": {
+    "r": "Phloem → living tissue that carries organic food from leaves to the rest of the plant; xylem is made of dead cells."
+  },
+  "53-014": {
+    "r": "A nail in a tree trunk stays at the same height: trees lengthen only at tips (apical meristems); the trunk only widens (lateral meristems).",
+    "hi": ["Meristem (विभज्योतक)"]
+  },
+  "53-015": {
+    "r": "Plants get nutrients mainly from soil; of seventeen essential elements, carbon, oxygen, hydrogen come from air, the rest (e.g. nitrogen) from soil."
+  },
+  "53-016": {
+    "r": "Sodium is not essential for plants. Macronutrients: C, H, O, N, P, K, Mg, Ca, S – so potassium is a macronutrient and magnesium is not a micronutrient.",
+    "hi": ["Macronutrient (वृहत् पोषक तत्व)"]
+  },
+  "53-020": {
+    "r": "Sulphur → most useful nutrient for raising oil content in mustard (role in oil synthesis in seeds).",
+    "hi": ["Sulphur (गंधक)"]
+  },
+  "53-021": {
+    "r": "Plants take nitrogen mainly as nitrate (NO3–) ions from soil; atmospheric nitrogen gas is not directly available to most plants."
+  },
+  "53-024": {
+    "r": "Phosphorus → stimulates early growth: promotes root development and hastens maturity; nitrogen → rapid leaf and stem growth."
+  },
+  "53-025": {
+    "r": "Boron (micronutrient) → needed for nodule formation in legumes, new cell growth in meristems and sugar translocation."
+  },
+  "53-026": {
+    "r": "Cuscuta (dodder) → parasitic plant: thin, leafless-looking yellow stems, leaves reduced to minute scales; feeds through haustoria.",
+    "hi": ["Cuscuta (अमरबेल)"]
+  },
+  "53-027": {
+    "r": "Cuscuta (Amarbel) = rootless parasitic angiosperm; its haustoria tap host's xylem and phloem for food, water, minerals – not leaves → A true, R false."
+  },
+  "53-028": {
+    "r": "Crop logging → plant analysis to assess nutrient needs for crop production; developed by Clements (USA) for sugarcane in Hawaii."
+  },
+  "54-001": {
+    "r": "Insulin (from pancreas, regulates blood glucose) is not a plant hormone; cytokinin, ethylene and gibberellin are plant hormones."
+  },
+  "54-002": {
+    "r": "Plant hormones: auxins, gibberellin, cytokinin, abscisic acid, ethylene; insulin, thyroxine, estrogen are not plant hormones.",
+    "hi": ["Plant hormone (पादप हार्मोन)"]
+  },
+  "54-005": {
+    "r": "Auxin → apical dominance; gibberellin → cell elongation; cytokinin → cell division; abscisic acid → growth inhibition.",
+    "h": "Cytokinin sounds like cytokinesis = cell division."
+  },
+  "54-006": {
+    "r": "Abscisic acid → drought tolerance ('stress hormone'); closes stomata when water is short (antitranspirant); discovered in the early 1960s."
+  },
+  "54-007": {
+    "r": "Ethylene → plant hormone (phytohormone) found in gaseous form."
+  },
+  "54-008": {
+    "r": "Artificial ripening gas (book's answer) → acetylene, from calcium carbide; banned under food adulteration rules, 1955. Natural ripening hormone → ethylene."
+  },
+  "54-011": {
+    "r": "Ethrel (ethephon) → releases ethylene gas inside the plant; used to ripen bananas, mangoes, tomatoes quickly and uniformly.",
+    "t": "IBA is a rooting hormone and maleic hydrazide prevents sprouting; neither ripens fruit."
+  },
+  "54-012": {
+    "r": "Seedless tomatoes → spraying hormones (gibberellin, auxin or cytokinin) on flowers = artificial parthenocarpy.",
+    "hi": ["Parthenocarpy (अनिषेकफलन)"]
+  },
+  "55-001": {
+    "r": "Best plant part to study meiosis → anthers (pollen, the immature male gametophyte, forms after meiosis).",
+    "hi": ["Meiosis (अर्धसूत्री विभाजन)"]
+  },
+  "55-002": {
+    "r": "Vegetative propagation gives a clonal population and can be done most of the year (1, 3 true); it does not eliminate viruses – it spreads them.",
+    "hi": ["Vegetative propagation (कायिक प्रवर्धन)"]
+  },
+  "55-003": {
+    "r": "Gootee = air layering (marcotting) → vegetative propagation by rooting an aerial stem while it is still attached to the parent plant."
+  },
+  "55-004": {
+    "r": "Sugarcane: 'bud chip settlings' raised in a nursery save much seed material; settlings can also come from tissue culture (1 and 4 correct)."
+  },
+  "55-005": {
+    "r": "Sugarcane → short day plant (blooms in winter); more exactly an intermediate daylength plant with quantitative short-day behaviour."
+  },
+  "55-006": {
+    "r": "Crop rotation: a legume must be followed by a non-legume (2 true); a deep-rooted crop should not be followed by the same type (1 false)."
+  },
+  "55-007": {
+    "r": "Pulses (deep tap roots, slow early growth) act as complementary crops when intercropped with cereals; A and R true, R not the correct explanation."
+  },
+  "55-008": {
+    "r": "Clonal selection → used for asexually propagated crops like potato (selected plants give new clones)."
+  },
+  "55-009": {
+    "r": "Plant bud → an undeveloped (embryonic) shoot, found in a leaf axil or at the stem tip."
+  },
+  "55-010": {
+    "r": "Embryo is found in seeds; after germination it grows into a new plant."
+  },
+  "55-011": {
+    "r": "Fruit → ovary; seed → ovule; wood → stem; starch → leaf.",
+    "h": "Bigger from bigger: ovary → fruit; smaller ovule → seed."
+  },
+  "55-012": {
+    "r": "Stem cutting (vegetative propagation) gives plants identical to the parent – only one parent; seeds come from sexual propagation."
+  },
+  "55-013": {
+    "r": "Sugarcane → grown by stem cuttings; mango and cotton from seeds; banana from suckers.",
+    "t": "Banana is planted from suckers, not stem cuttings."
+  },
+  "55-014": {
+    "r": "All four are propagated by stem cuttings: bougainvillea, carnation, cocoa, grapes (also sugarcane, rose, duranta); cocoa also by seeds."
+  },
+  "55-015": {
+    "r": "Both true: sweet orange → grafting; jasmine → layering (part of a stem buried in soil forms roots and shoots)."
+  },
+  "55-016": {
+    "r": "Buds occur at both places: leaf axil (axillary bud) and tip of stem or branch (terminal bud)."
+  },
+  "55-017": {
+    "r": "Flower → most important part in a plant's life cycle: unites male and female gametes to produce seeds.",
+    "hi": ["Flower (पुष्प)"]
+  },
+  "55-018": {
+    "r": "Seed germination needs water, proper temperature and oxygen; light is not required. Two types: epigeal and hypogeal.",
+    "hi": ["Germination (अंकुरण)"]
+  },
+  "55-020": {
+    "r": "Censer mechanism of seed dispersal → poppy."
+  },
+  "55-021": {
+    "r": "Geitonogamy → pollen from anther to stigma of another flower on the same plant; a type of self-pollination."
+  },
+  "55-022": {
+    "r": "Bat, bee and bird are all pollinating agents; bees are the most important. Pollination = transfer of pollen from anther to stigma.",
+    "hi": ["Pollination (परागण)"]
+  },
+  "55-024": {
+    "r": "Hybrid seed (from cross-pollinated plants) must be changed every year."
+  },
+  "55-025": {
+    "r": "Seed multiplication order: nucleus → breeder → foundation → certified seed.",
+    "h": "N-B-F-C: Never Buy Fake Certificates."
+  },
+  "55-026": {
+    "r": "Wrong pair: plumule – root tip. Plumule = embryonic shoot; radicle = embryonic root. Correct: triple fusion – double fertilization; embryo sac – female gametophyte.",
+    "hi": ["Plumule (प्रांकुर)", "Radicle (मूलांकुर)"]
+  },
+  "55-027": {
+    "r": "Dichogamy → androecium and gynoecium of a bisexual flower mature at different times; types: protandry (male first), protogyny (female first)."
+  },
+  "55-028": {
+    "r": "Commercial edible (bread) wheat, Triticum aestivum → ABD genome (AABBDD)."
+  },
+  "55-029": {
+    "r": "Maize: meiocyte 20 chromosomes, gamete 10; endosperm is triploid → 30 chromosomes.",
+    "h": "Endosperm = 3 × gamete number (3 × 10)."
+  },
+  "55-030": {
+    "r": "Leaves receive the flowering stimulus (light, energy, CO2) and also make florigen, the flowering hormone."
+  },
+  "56-001": {
+    "r": "'Kanchan' → improved variety of Indian gooseberry (amla), rich in vitamin C; other varieties: Krishna, Banarasi."
+  },
+  "56-002": {
+    "r": "Ratna mango → hybrid of Neelam (Neelum) × Alphonso; high-yielding; grown in Maharashtra and parts of Karnataka."
+  },
+  "56-003": {
+    "r": "'Kashi Lalima' → red okra (lady finger) variety from IIVR, Varanasi; rich in antioxidants, calcium and iron."
+  },
+  "56-004": {
+    "r": "Co. 1148 → sugarcane variety for eastern Uttar Pradesh; medium-thick canes, good germinator, moderately drought resistant."
+  },
+  "56-005": {
+    "r": "Wrong pair: linseed – Surya ('Surya' is a variety of papaya, brinjal, mango, potato, tomato). Correct: mustard – Varuna; field pea – Sapna; groundnut – Kaushal."
+  }
+}

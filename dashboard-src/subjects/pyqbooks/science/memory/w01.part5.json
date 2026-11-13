@@ -1,0 +1,299 @@
+{
+  "07-001": {
+    "r": "Energy flow falls at each higher trophic level → second law of thermodynamics: every energy transfer or transformation wastes (dissipates) some energy.",
+    "hi": [
+      "Thermodynamics (ऊष्मागतिकी)"
+    ]
+  },
+  "07-002": {
+    "r": "Triple point → the unique temperature and pressure where solid, liquid and gas coexist; triple point of water = 273.16 K (0.01°C).",
+    "hi": [
+      "Triple point (त्रिक बिंदु)"
+    ]
+  },
+  "07-003": {
+    "r": "Radiation transfers heat by electromagnetic waves without any medium, e.g. the Sun's heat across space; conduction and convection need a medium.",
+    "hi": [
+      "Radiation (विकिरण)"
+    ]
+  },
+  "07-004": {
+    "r": "Convection (heat transfer by actual movement of matter) happens only in fluids: liquids and gases.",
+    "hi": [
+      "Convection (संवहन)"
+    ]
+  },
+  "07-005": {
+    "r": "Thermos flask: a vacuum gap between the inner chamber and outer wall stops heat loss or gain by conduction, convection and radiation."
+  },
+  "07-006": {
+    "r": "Steam at 100°C burns worse than water at 100°C because it gives more heat: its latent heat of vaporisation (540 calories per gram).",
+    "hi": [
+      "Latent heat (गुप्त ऊष्मा)"
+    ]
+  },
+  "07-009": {
+    "r": "Only 3 true: AC takes heat from room air at evaporator coils, ejects it at condenser. Steam has 540 cal/g more than boiling water; fusion (80 cal/g) ≠ vaporisation (540)."
+  },
+  "07-010": {
+    "r": "1 g ice at 0°C → steam at 100°C: 80 (melting) + 100 (heating) + 540 (vaporising) = 720 calories."
+  },
+  "07-011": {
+    "r": "°F = (9/5) × °C + 32 (based on water's freezing and boiling points on both scales)."
+  },
+  "07-012": {
+    "r": "Celsius and Fahrenheit thermometers read the same at −40° (C/5 = (F − 32)/9).",
+    "h": "Minus forty is the meeting point of °C and °F."
+  },
+  "07-015": {
+    "r": "Fahrenheit reading is double the Celsius reading at 160°C (put F = 2C in C/5 = (F − 32)/9)."
+  },
+  "07-016": {
+    "r": "Healthy body temperature ≈ 37°C = 98.6°F ≈ 310 K (37 + 273.15 = 310.15 K)."
+  },
+  "07-018": {
+    "r": "Body temperature 98.4°F ≈ 36.89°C (about 36.9 degree Celsius)."
+  },
+  "07-020": {
+    "r": "Kelvin scale has no negative values: 0 K (−273.15°C) is absolute zero, where particles have no kinetic energy.",
+    "hi": [
+      "Absolute zero (परम शून्य)"
+    ]
+  },
+  "07-021": {
+    "r": "200°F in Celsius: C = (200 − 32) × 5/9 = 840/9 ≈ 93.3°C."
+  },
+  "07-022": {
+    "r": "Celsius–Fahrenheit relation F = (9/5)C + 32; the same relation holds between the average temperatures in C and F."
+  },
+  "07-023": {
+    "r": "40°C in Fahrenheit: F = (9/5) × 40 + 32 = 72 + 32 = 104°F."
+  },
+  "07-024": {
+    "r": "50°C in Fahrenheit: F = (9/5) × 50 + 32 = 90 + 32 = 122°F."
+  },
+  "07-025": {
+    "r": "Cold countries use alcohol, not mercury, in thermometers because alcohol's freezing point is very low (about −112°C)."
+  },
+  "07-026": {
+    "r": "Antifreeze in car engines → ethylene glycol; a mix of 60% ethylene glycol and 40% water freezes only at −45°C.",
+    "hi": [
+      "Antifreeze (हिमरोधी)"
+    ]
+  },
+  "07-027": {
+    "r": "Absolute zero = theoretically the lowest possible temperature: 0 K = −273.15°C, where atoms are completely at rest."
+  },
+  "07-028": {
+    "r": "Expansion on heating increases volume, so density (mass/volume) decreases."
+  },
+  "07-029": {
+    "r": "Ice (like cast iron, antimony, bismuth, brass) decreases in volume on melting; such solids float in their own melt."
+  },
+  "07-030": {
+    "r": "Heating graph: liquid Q (curved line) reached 100°C faster than liquid P (straight line)."
+  },
+  "07-031": {
+    "r": "Thermostat → automatically regulates and keeps the temperature of a system stable; it helps save energy."
+  },
+  "07-036": {
+    "r": "Safest fridge temperature for food → 4°C; cold only slows microbes. Bacteria grow fastest at 40–140°F ('Danger Zone'), so keep the fridge at 35–40°F or below."
+  },
+  "07-037": {
+    "r": "Soggy biscuits turn crisp in a fridge because the air inside has low humidity (frost-free fridges remove moisture), so extra moisture is taken out."
+  },
+  "07-038": {
+    "r": "Ice cools a drink because it takes latent heat from the drink to melt: A and R true, R explains A."
+  },
+  "07-039": {
+    "r": "A true: large cold-storage plants use ammonia, home fridges use chlorofluorocarbons. R false: ammonia liquefies at ambient temperature only under high, not low, pressure."
+  },
+  "07-040": {
+    "r": "Ice collecting in a freezer reduces cooling because ice is a poor conductor of heat: A and R true, R explains A."
+  },
+  "07-041": {
+    "r": "A glass rod heated in steam expands in both length and width."
+  },
+  "07-042": {
+    "r": "A heated metal ring expands, including its inner hole, so the heated ball can still pass through it."
+  },
+  "07-043": {
+    "r": "Bimetallic strip: on heating it bends into a curve, with the metal that expands more (A) on the outer side.",
+    "hi": [
+      "Bimetallic strip (द्विधात्विक पट्टी)"
+    ]
+  },
+  "07-044": {
+    "r": "Copper feels hotter than glass at the same temperature because copper is a good conductor of heat; R (copper is denser) is true but not the reason."
+  },
+  "07-045": {
+    "r": "In winter an iron rod feels colder than a log of wood because iron is a good conductor of heat and wood a poor one."
+  },
+  "07-046": {
+    "r": "Warmer air can hold more water vapour: air's capacity to hold moisture rises with temperature."
+  },
+  "07-047": {
+    "r": "A true: relative humidity falls as air temperature rises. R true: absolute humidity rises with evaporation. R does not explain A.",
+    "hi": [
+      "Relative humidity (सापेक्ष आर्द्रता)"
+    ]
+  },
+  "07-048": {
+    "r": "Dew does not form on a windy night because strong wind makes evaporation fast.",
+    "hi": [
+      "Dew (ओस)"
+    ]
+  },
+  "07-049": {
+    "r": "Not true: 'both maintain humidity'. An AC controls temperature, humidity and air motion; an air cooler controls temperature and air motion, not humidity."
+  },
+  "07-051": {
+    "r": "A desert (swamp) cooler works by evaporative cooling."
+  },
+  "07-052": {
+    "r": "Cooling, as in air conditioners, is done by releasing compressed gas."
+  },
+  "07-053": {
+    "r": "Wet clothes dry fastest at low humidity and high temperature: 20% RH at 60°C."
+  },
+  "07-054": {
+    "r": "Adding salt to water raises its boiling point and lowers its freezing point.",
+    "hi": [
+      "Boiling point (क्वथनांक)"
+    ]
+  },
+  "07-056": {
+    "r": "At high places low air pressure lowers water's boiling point; salt raises it slightly, aiding cooking. A and R true, but R (low temperature) doesn't explain A."
+  },
+  "07-057": {
+    "r": "Thermos bottle walls (glass or steel) are coated with a silver layer to keep drinks at the same temperature."
+  },
+  "07-058": {
+    "r": "White clothes are comfortable in summer because they reflect heat; grey or dull clothes absorb heat, so they suit winter."
+  },
+  "07-061": {
+    "r": "Light-coloured clothes are preferred in summer because light colours are poor absorbers of heat: A and R true, R explains A."
+  },
+  "07-062": {
+    "r": "Water loss by sweating depends on both atmospheric temperature and humidity (and on work rate)."
+  },
+  "07-063": {
+    "r": "Main function of perspiration → regulating body temperature (sweat cools the body).",
+    "hi": [
+      "Perspiration (पसीना)"
+    ]
+  },
+  "07-064": {
+    "r": "A fan gives comfort in hot weather because it makes our sweat evaporate quickly, creating a cooling effect."
+  },
+  "07-065": {
+    "r": "Humid heat feels unpleasant because sweat does not evaporate in humid air; evaporating sweat is what cools us."
+  },
+  "07-066": {
+    "r": "Evaporation of sweat is an endothermic (physical) process: it absorbs heat from the skin and cools the body.",
+    "t": "Not exothermic and not a chemical reaction: only a physical change."
+  },
+  "07-067": {
+    "r": "A true: evaporating sweat takes latent heat from the skin and cools the body. R true: high humidity on hot days increases discomfort. R doesn't explain A."
+  },
+  "07-068": {
+    "r": "In summer we feel humid heat when the weather is humid."
+  },
+  "07-069": {
+    "r": "Xeric condition → low humidity, an inadequate water supply (arid habitats, extremely cold habitats, salt marshes)."
+  },
+  "07-070": {
+    "r": "Water stays cool in an earthen pitcher due to evaporation: water seeps out through tiny pores and absorbs heat to evaporate."
+  },
+  "07-071": {
+    "r": "Cooling rate depends on temperature difference: Churu 95 − 48 = 47°, Shimla 71 − 24 = 47°, so both cups reach room temperature together."
+  },
+  "07-072": {
+    "r": "Newton's law of cooling: heat-loss rate ∝ temperature difference with surroundings → cooling 75→60°C takes more than the 25 s for 90→75°C."
+  },
+  "07-073": {
+    "r": "Heat wave: maximum temperature at least 40°C in plains and 30°C in hilly regions; the statements swapped them, so neither is correct."
+  },
+  "07-074": {
+    "r": "We don't feel the huge atmospheric pressure because our blood exerts a pressure slightly more than that of the atmosphere."
+  },
+  "07-075": {
+    "r": "Not true: 'solute raises water potential' (it lowers it). A solution has a higher boiling point and lower vapour pressure than pure water.",
+    "hi": [
+      "Water potential (जल विभव)"
+    ]
+  },
+  "07-076": {
+    "r": "At high altitude, lower atmospheric pressure lowers the boiling point, so water boils below 100°C."
+  },
+  "07-077": {
+    "r": "A true: boiling point of water falls as altitude rises. R false: atmospheric pressure decreases, not increases, with altitude."
+  },
+  "07-078": {
+    "r": "A pressure cooker cooks faster because high pressure raises water's boiling point (to about 120°C).",
+    "h": "Pressure up → boiling point up (cooker); pressure down → boiling point down (mountains)."
+  },
+  "07-084": {
+    "r": "A pressure-cooker handle is ebonite because it is a heat insulator (prevents burns); ebonite is also hard, but that is not the reason."
+  },
+  "07-085": {
+    "r": "Cooking temperature in a pressure cooker depends on the area of the lid's hole and the weight on the lid (1 and 3), not on the flame's temperature."
+  },
+  "07-087": {
+    "r": "A corked bottle of water breaks in a freezer because water expands (its volume increases) on freezing."
+  },
+  "07-089": {
+    "r": "Floating ice melts → water level stays the same: the melt water fills exactly the space the submerged ice took."
+  },
+  "07-090": {
+    "r": "Cloudy nights are warmer: clouds act like a blanket, trapping and reflecting back the heat given off by the Earth."
+  },
+  "07-091": {
+    "r": "Cloudy nights are warmer than clear ones because clouds prevent radiation of heat from the ground and air and reflect it back."
+  },
+  "07-092": {
+    "r": "Neither true: low, thick clouds mainly reflect sunlight and cool the surface; high, thin clouds let sunlight through and trap outgoing infrared."
+  },
+  "07-093": {
+    "r": "Statement II true: water's specific heat is higher than land's (water has the highest specific heat). Statement I (land–ocean contrast greater in summer than winter) is false.",
+    "hi": [
+      "Specific heat (विशिष्ट ऊष्मा)"
+    ]
+  },
+  "07-094": {
+    "r": "Fruits last longer in a cold chamber because low temperature slows their respiration (and ripening)."
+  },
+  "07-095": {
+    "r": "Woollen clothes keep us warm because air trapped between the fibres is a poor conductor of heat; R (special protein fibre) is false."
+  },
+  "07-096": {
+    "r": "Not correct: 'humidity lowers sound speed'. Moist air is less dense, so sound goes faster. Sound speed rises with temperature; pressure, amplitude, frequency don't affect it."
+  },
+  "07-097": {
+    "r": "Opening a fridge door in a room warms the room a little: the motor keeps running to cool and adds heat to the room."
+  },
+  "08-001": {
+    "r": "Sound waves are mechanical waves (longitudinal in air and fluids); radio waves, X-rays and light are electromagnetic waves.",
+    "hi": [
+      "Longitudinal wave (अनुदैर्ध्य तरंग)"
+    ]
+  },
+  "08-003": {
+    "r": "Sound in air (and any fluid) is a longitudinal wave: particles vibrate parallel to the direction in which the wave moves."
+  },
+  "08-004": {
+    "r": "Wavelength = distance between two consecutive compressions (or rarefactions); in transverse waves, between crests or troughs. Speed = wavelength × frequency."
+  },
+  "08-005": {
+    "r": "A plucked sitar string sends a transverse wave that reflects at the fixed ends, forming a stationary transverse wave."
+  },
+  "08-006": {
+    "r": "The ionosphere (about 50–400 miles up, ionised by solar radiation) reflects long radio waves back to Earth for distant communication.",
+    "hi": [
+      "Ionosphere (आयनमंडल)"
+    ]
+  },
+  "08-009": {
+    "r": "UHF waves (300 MHz–3 GHz) neither follow the ground nor reflect from the ionosphere; they travel by line of sight, i.e. space waves."
+  }
+}

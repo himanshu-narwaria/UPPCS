@@ -1,503 +1,579 @@
 {
-  "05-235": {
-    "r": "E-commerce → buying and selling goods over the internet (through computers, tablets, smartphones).",
-    "hi": ["E-commerce (ई-वाणिज्य)"]
-  },
-  "05-236": {
-    "r": "E-commerce dimension for trade beyond national boundaries → global reach (others: richness, interactivity, ubiquity)."
-  },
-  "05-237": {
-    "r": "Largest e-commerce company of India (book) → M-junction (SAIL–Tata Steel 50:50 venture, February 2001); world's largest e-marketplace for steel."
-  },
-  "05-238": {
-    "r": "IT is a fast-growing field and software is a major export, but India does not have a strong hardware base (A true, R false)."
-  },
-  "05-239": {
-    "r": "Largest software company in India (by market capitalisation) → TCS (Tata Consultancy Services)."
-  },
-  "05-240": {
-    "r": "Automobile sector (Economic Survey 2022-23): 7.1% of GDP, 49% of manufacturing GDP, 3.7 crore jobs (not 5.3 crore) end-2021; largest two/three-wheeler maker, fourth in cars."
-  },
-  "05-241": {
-    "r": "Pharma (Economic Survey 2022-23): 3rd by volume, 14th by value; largest generic supplier (20% of global volume); vaccine market share 60%, not 80%."
-  },
-  "05-242": {
-    "r": "District Mineral Foundation → non-profit trust in mining-affected districts for benefit of affected persons; funded by miners; mandated by MMDR Amendment Act 2015.",
-    "t": "DMF does not promote exploration or issue licences.",
-    "hi": ["District Mineral Foundation (जिला खनिज फाउंडेशन)"]
-  },
-  "06-001": {
-    "r": "Tertiary (services) sector: trade, transport, hotels, communication, finance, real estate; forestry, fishing and mining are not services; services share 54.9% of GVA (2023-24).",
-    "hi": ["Tertiary sector (तृतीयक क्षेत्र)"]
-  },
-  "06-003": {
-    "r": "Marketing → tertiary activity; farming and forestry → primary; manufacturing → secondary; agriculture is the primary sector.",
-    "hi": ["Primary sector (प्राथमिक क्षेत्र)"]
-  },
-  "06-005": {
-    "r": "Transport, communication and commerce → tertiary (services) activities."
-  },
-  "06-006": {
-    "r": "Largest source of National Income → services sector: 54.9% of nominal GVA (Rs. 146.35 lakh crore of Rs. 266.78 lakh crore, 2023-24)."
-  },
-  "06-007": {
-    "r": "Services share 2016-17 → 52.6% of GVA (Rs. 73.49 lakh crore of Rs. 139.65 lakh crore).",
-    "c": "Answer not printed; book says none of the options (Rs. 49.0 to 52.8 lakh crore) is correct."
-  },
-  "06-008": {
-    "r": "Sector shares at question time (2000-01 prices): Agriculture > Trade-hotels-transport > Manufacturing > Finance-real estate; now services 54.9%, industry 27.6%, agriculture 17.6% (2023-24)."
-  },
-  "06-009": {
-    "r": "Fastest growing service sector in India during 2006-2010 → communication."
-  },
-  "06-010": {
-    "r": "Highest services sub-sector share in GDP (2006-07) → Trade, Hotels, Transport and Communication; this group is 17.6% of GVA in 2023-24."
-  },
-  "06-011": {
-    "r": "Largest share of India's GDP/GVA → services (tertiary) sector; order: Services > Industry > Agriculture.",
-    "hi": ["Gross Domestic Product (सकल घरेलू उत्पाद)"]
-  },
-  "06-016": {
-    "r": "Services share 2012-13 → about 57% of GDP (56.9%) and 28% of employment (28.1%); 2018-19: 54.3% of GVA, 34% of employment."
-  },
-  "06-017": {
-    "r": "Highest services share in State GDP (2008-09) → Delhi, then Chandigarh, Kerala, Maharashtra; in 2019-20 Chandigarh (74.00%) and Delhi (68.22%) top."
-  },
-  "06-018": {
-    "r": "Wrong statement: 'services share of India's GDP only 25%' (it was 57.09% in 2009-10); 58.2% workforce in agriculture (Census 2001)."
-  },
-  "06-019": {
-    "r": "Services growth 2001-2012 → India second fastest (CAGR 9.0%) after China (10.9%) (Economic Survey 2013-14)."
-  },
-  "06-020": {
-    "r": "Tertiary share in India's GDP since 1980 → increasing trend (about 49.0% in 2011-12; 54.9% now)."
-  },
-  "06-021": {
-    "r": "Sector whose growth rate rose steadily 2001-2005 → services (5.6% to 9.9%)."
-  },
-  "06-022": {
-    "r": "As an economy develops, the tertiary sector's share in GDP increases (India: 30.3% in 1950-51 → 50.37% in 2000-01).",
-    "h": "Clark-type shift: farm → factory → services as income grows."
-  },
-  "06-023": {
-    "r": "Services' contribution to GVA growth during 2011-12 to 2015-16 → about 69.0%; in 2017-18 about 72.5%."
-  },
-  "06-024": {
-    "r": "Economic Survey 2023: fashion, grocery and general merchandise to capture nearly two-thirds of e-commerce by 2027 (not 2030); 75 digital banking units; services credit growth above 16%."
-  },
-  "07-001": {
-    "r": "Macro-Economic Framework Statement → mandated by Section 3(5) of FRBM Act, 2003; presented with the Budget (overview of GDP growth, fiscal and external balance).",
-    "hi": ["Fiscal Responsibility and Budget Management (राजकोषीय उत्तरदायित्व एवं बजट प्रबंधन)"]
-  },
-  "07-002": {
-    "r": "Gender budgeting → first introduced in Union Budget 2005-06 (4.8% of total outlay then).",
-    "hi": ["Gender budgeting (जेंडर बजटिंग)"]
-  },
-  "07-003": {
-    "r": "Union Budget 2017-18 had 10 themes: farmers, rural population, youth, poor, infrastructure, financial sector, digital economy, public services, fiscal management, tax administration; not export performance."
-  },
-  "07-004": {
-    "r": "Budget 2022-23 four priorities: PM GatiShakti; Inclusive Development; Productivity, Investment, Energy Transition and Climate Action; Financing of Investments; disinvestment not one."
-  },
-  "07-005": {
-    "r": "Budget 2017-18 (Arun Jaitley, 1st February 2017) agenda → TEC India: Transform, Energise, Clean India; not 'Educate India'.",
-    "h": "TEC = Transform, Energise, Clean."
-  },
-  "07-006": {
-    "r": "Agriculture Infrastructure and Development Cess (Budget 2021-22) → levied on 29 products to fund agriculture infrastructure.",
-    "hi": ["Cess (उपकर)"]
-  },
-  "07-007": {
-    "r": "Chakravyuha Challenge (Economic Survey 2015-16) → economy moved from 'socialism with limited entry' to 'marketism without exit' (easy entry, hard exit)."
-  },
-  "07-008": {
-    "r": "Budget 2023-24: States allowed fiscal deficit of 3.5% of GSDP (0.5% tied to power reforms); total expenditure about Rs. 45 lakh crore; 2025-26 deficit target below 4.5%."
-  },
-  "07-009": {
-    "r": "Fiscal deficit 2017-18 → 3.5% of GDP vs 3.2% budgeted, as indirect tax growth slowed with GST (A and R true; R explains A).",
-    "hi": ["Fiscal deficit (राजकोषीय घाटा)"]
-  },
-  "07-010": {
-    "r": "Gross tax/GDP (10.1% in 2010-11, 11.2% in 2017-18) fluctuated; fiscal deficit/GDP (5.9% in 2011-12, 3.5% in 2017-18) fell overall → neither rose steadily."
-  },
-  "07-011": {
-    "r": "GST exempt (0%): hulled cereal grains, cooked chicken eggs in shell, newspapers (even with ads); processed and canned fish taxed at 5%.",
-    "hi": ["Goods and Services Tax (वस्तु एवं सेवा कर)"]
-  },
-  "07-012": {
-    "r": "GST was proposed by the Vijay Kelkar Task Force (on FRBM, formed 2003; recommended GST in 2004)."
-  },
-  "07-013": {
-    "r": "GST's main advantage → replaces multiple taxes of multiple authorities, creating a single market; claims of 'drastically' cutting CAD or 'enormously' raising growth are overstated."
-  },
-  "07-014": {
-    "r": "GST → single, comprehensive, multi-stage, destination-based indirect tax (from 1 July 2017); subsumed Service Tax, Central Excise and State VAT.",
-    "hi": ["Indirect tax (अप्रत्यक्ष कर)"]
-  },
-  "07-016": {
-    "r": "GST → Constitution (One Hundred and First) Amendment Act, 2016; GST in force from 1 July 2017.",
-    "t": "Act number (101st) differs from its Bill number (One Hundred and Twenty Second Amendment Bill)."
-  },
-  "07-018": {
-    "r": "GST was then proposed from April 01, 2012 (option b); it actually came into effect on 1 July 2017 via the 101st Amendment (2016)."
-  },
-  "07-019": {
-    "r": "GST (July 2017) → uniform common national market and better tax compliance; ends cascading (double) taxation."
-  },
-  "07-020": {
-    "r": "GST Council (Article 279A) → chaired by Union Finance Minister, MoS Revenue/Finance a member; decides rates, exemptions, threshold; States cannot levy VAT after GST.",
-    "hi": ["GST Council (जीएसटी परिषद)"]
-  },
-  "07-021": {
-    "r": "Not under GST → customs duty; also outside GST: alcohol for human consumption, petroleum products and electricity."
-  },
-  "07-022": {
-    "r": "Under GST → ghee; outside GST → alcohol for human consumption, electricity and petroleum products."
-  },
-  "07-023": {
-    "r": "Gross GST collection October 2020 → Rs. 105,155 crore (above Rs. one lakh crore); record Rs. 210,267 crore in April 2024."
-  },
-  "07-024": {
-    "r": "Revenue Neutral Rate → GST rate that keeps government revenue equal to revenue under the old tax system.",
-    "hi": ["Revenue Neutral Rate (राजस्व तटस्थ दर)"]
-  },
-  "07-025": {
-    "r": "Input Tax Credit (ITC) → credit of input tax on goods/services received by a registered person; allowed for taxable and zero-rated supplies, not non-taxable, exempt or nil-rated.",
-    "t": "Zero-rated (exports, SEZ supplies; ITC allowed) is not nil-rated (0% GST; no ITC)."
-  },
-  "07-026": {
-    "r": "Project Saksham (CCEA, September 2016) → new indirect tax IT network of CBEC for GST; cost Rs. 2256 crore over seven years."
-  },
-  "07-027": {
-    "r": "Fiscal policy → formulated by Ministry of Finance; monetary policy → RBI; Finance Commission (Article 280) → tax sharing between Union and States.",
-    "hi": ["Fiscal policy (राजकोषीय नीति)"]
-  },
-  "07-028": {
-    "r": "Long-term fiscal policy → announced by Finance Minister V.P. Singh in his Budget Speech 1985-86."
-  },
-  "07-029": {
-    "r": "Government expenditure is controlled by the Ministry of Finance; its six Departments: Economic Affairs, Expenditure, Revenue, DIPAM, Financial Services, Public Enterprises (no 'Banking Division')."
-  },
-  "07-031": {
-    "r": "Revenue expenditure 1989-90 vs 1994-95: interest payments share rose (27.7% → 38.7%), so the Union is under pressure to spend more on interest."
-  },
-  "07-032": {
-    "r": "Fiscal policy objectives: growth, full employment, price stability, equitable distribution of income and wealth; regulating inter-state trade is not one."
-  },
-  "07-033": {
-    "r": "Fiscal policy → government policy on taxation and expenditure (to influence the economy)."
-  },
-  "07-034": {
-    "r": "Fiscal policy instruments → taxation, public expenditure and public debt; so tax policy is part of fiscal policy."
-  },
-  "07-035": {
-    "r": "Fiscal tools: public expenditure, taxation, deficit financing; interest rate is a monetary policy tool.",
-    "t": "Interest rate = monetary policy (RBI); taxes and spending = fiscal policy (Finance Ministry)."
-  },
-  "07-036": {
-    "r": "Fiscal policy as remedy for the Great Depression (1929-30) → J.M. Keynes, 'General Theory of Employment, Interest and Money' (1936): raise government spending."
-  },
-  "07-037": {
-    "r": "Fiscal stimulus → intense government action (tax rebates, incentives, spending) to boost economic activity.",
-    "hi": ["Fiscal stimulus (राजकोषीय प्रोत्साहन)"]
-  },
-  "07-038": {
-    "r": "In a recession → increase expenditure on public projects; recession = real GDP contracts for at least two consecutive quarters.",
-    "hi": ["Recession (मंदी)"]
-  },
-  "07-039": {
-    "r": "Budget revenue estimates → Ministry of Finance; Union Budget prepared and presented by its Department of Economic Affairs; revenue control via CBDT (Department of Revenue)."
-  },
-  "07-041": {
-    "r": "Economic Survey → Ministry of Finance (prepared by Department of Economic Affairs under the Chief Economic Adviser); presented before the Union Budget.",
-    "hi": ["Economic Survey (आर्थिक सर्वेक्षण)"]
-  },
-  "07-043": {
-    "r": "Economic Survey → published every year by the Department of Economic Affairs, Ministry of Finance; reviews the past financial year; tabled before the Budget."
-  },
-  "07-045": {
-    "r": "Wholesale Price Index → Ministry of Commerce & Industry; National Accounts Statistics → CSO (now NSO); Report on Currency and Finance → RBI; Economic Survey → Ministry of Finance."
-  },
-  "07-046": {
-    "r": "Budget → instrument of fiscal policy; Article 112 'Annual Financial Statement' laid before both Houses every year.",
-    "hi": ["Annual Financial Statement (वार्षिक वित्तीय विवरण)"]
-  },
-  "07-047": {
-    "r": "Zero-based budgeting (Peter Pyhrr, 1970s) → first adopted in USA (Jimmy Carter, Georgia, 1973); India: DST 1983, Government 1986; every scheme reviewed from zero.",
-    "hi": ["Zero-based budgeting (शून्य आधारित बजट)"]
-  },
-  "07-049": {
-    "r": "Budget 2023-24: Ministry of Health and Family Welfare → Rs. 89,155 crore; Dept of Health and Family Welfare Rs. 86175 crore; PMJAY Rs. 7200 crore; Health Research Rs. 2980 crore."
-  },
-  "07-050": {
-    "r": "Largest sector outlay in Union Budget 2011-12 → Energy (by 2024-25 data, Transport is far larger)."
-  },
-  "07-051": {
-    "r": "Central Plan outlay 2010-11, descending: Energy > Social Services > Transport > Rural Development.",
-    "c": "Presentation date printed as 2016-02-10 is garbled for Budget 2010-11."
-  },
-  "07-052": {
-    "r": "Budget 2018-19 allocations: Defence Rs. 2.82 lakh crore; Agriculture Rs. 0.63; Food subsidy Rs. 1.69; Rural development Rs. 1.38 lakh crore."
-  },
-  "07-053": {
-    "r": "Budget 2023-24 outlay shares: interest 20%, States' share of taxes 18%, subsidies 7% (not 9%), defence 8%."
-  },
-  "07-054": {
-    "r": "Capital receipts are less than revenue receipts (2010-11 and now; 2024-25 interim: 37.02% vs 62.98%)."
-  },
-  "07-055": {
-    "r": "Subsidy → public expenditure, not public revenue; income tax, VAT and public borrowing are sources of public revenue.",
-    "hi": ["Subsidy (सब्सिडी / अनुदान)"]
-  },
-  "07-056": {
-    "r": "Current (revenue) account income: corporation tax, profits of public enterprises, excise duties; NSC sales and World Bank loans are capital receipts.",
-    "hi": ["Revenue receipts (राजस्व प्राप्तियां)"]
-  },
-  "07-057": {
-    "r": "Revenue account: interest receipts, tax receipts, profits and dividends of PSUs; small savings → debt receipts in the capital account."
-  },
-  "07-058": {
-    "r": "Capital budget includes: asset creation (roads, buildings, machinery), loans from foreign governments, loans and advances to States and UTs: all three.",
-    "hi": ["Capital budget (पूंजी बजट)"]
-  },
-  "07-059": {
-    "r": "Non-Plan expenditure (before Budget 2017-18): subsidies, interest payments, defence, maintenance of past-plan assets, salaries, pensions, statutory transfers to States."
-  },
-  "07-062": {
-    "r": "Largest in Union Budget → revenue expenditure; Plan/Non-Plan classification was removed from Budget 2017-18."
-  },
-  "07-063": {
-    "r": "Budget 2017-18 reforms: presented 1 February (a month earlier), Railway Budget merged, Plan/Non-Plan ended; no increase in centrally sponsored schemes.",
-    "hi": ["Railway Budget (रेल बजट)"]
-  },
-  "07-066": {
-    "r": "To cut a persistent deficit: reduce revenue expenditure and rationalise subsidies; new welfare schemes and lower import duties would widen it."
-  },
-  "07-068": {
-    "r": "Largest item of revenue (and total) expenditure of the Union → interest payments (2024-25: 32.57% of revenue expenditure).",
-    "hi": ["Interest payment (ब्याज भुगतान)"]
-  },
-  "07-073": {
-    "r": "Largest current revenue expenditure item of the Centre in 2008-10 → interest payments; still the largest (Interim Budget 2024-25)."
-  },
-  "07-074": {
-    "r": "Largest Non-Plan expenditure item (2015-16) → interest payments; Plan/Non-Plan classification ended in Budget 2017-18."
-  },
-  "07-076": {
-    "r": "Fiscal deficit control: downsizing bureaucracy (less spending) and selling PSU shares (more receipts); encouraging FDI or privatising higher education does not directly help."
-  },
-  "07-077": {
-    "r": "Fiscal deficit: 2017-18 raised to 3.5% (from 3.2%); 2018-19 target 3.3%; 2020-21 projected 3.0% (not 3.1%); 2021-22 estimated 6.8%."
-  },
-  "07-079": {
-    "r": "Union fiscal deficit: 9.2% of GDP in FY21 (pandemic); 6.7% in FY22 (not 7.7%); revenue receipts fell only in FY21."
-  },
-  "07-080": {
-    "r": "Fiscal deficit target 2019-20 → 3.3% of GDP; 2020-21 target 3.5%; actuals 4.6% and 9.2% (Covid-19)."
-  },
-  "07-081": {
-    "r": "Fiscal deficit target in Union Budget 2000-01 → 5.1% of GDP; 2024-25 interim target is also 5.1%."
-  },
-  "07-082": {
-    "r": "Highest fiscal deficit/GDP among 2011-2012 to 2014-2015 → 2011-12 (5.9%); 1990-91 was 8.4%; 2020-21 hit 9.2%, highest since 1990-91."
-  },
-  "07-084": {
-    "r": "Fiscal deficit target in Union Budget 1996-97 → 5.0% of GDP."
-  },
-  "07-085": {
-    "r": "Fiscal deficit as per Budget 2001-2002 → 4.7% of GDP; 2024-25 interim → 5.1% (Rs. 1685494 crore)."
-  },
-  "07-086": {
-    "r": "Fiscal deficit in Union Budget 2009-10 → 6.8% of GDP."
-  },
-  "07-087": {
-    "r": "Fiscal deficit estimate in Union Budget 2010-11 → 5.5% of GDP (actual 4.9%)."
-  },
-  "07-088": {
-    "r": "Fiscal deficit target for 2016-17 → 3.5% of GDP."
-  },
-  "07-089": {
-    "r": "Budget 1997-98 (P. Chidambaram) popular for cutting almost every tax: income tax 10, 20, 30% (from 15, 30, 40%); corporate tax 48% → 35%."
-  },
-  "07-090": {
-    "r": "States' record fiscal deficit at question time → Rs. 1,00,000 crore (option d); States' combined GFD 2023-24 (B.E.) Rs. 9.48 lakh crore (3.1% of GDP)."
-  },
-  "07-091": {
-    "r": "UP Budget 2023-24: size Rs. 690242.43 crore (not Rs. 7,60,000 crore); fiscal deficit Rs. 84,883.16 crore; 2024-25 size Rs. 736437.71 crore."
-  },
-  "07-092": {
-    "r": "Budget external liabilities use current exchange rates, not historical; high borrowing keeps real interest rates high; rising fiscal deficit hurts private investment; interest is largest non-plan revenue item."
-  },
-  "07-093": {
-    "r": "Descending order of deficits: Fiscal > Revenue > Primary; fiscal deficit is always higher than revenue deficit.",
-    "h": "F-R-P: Fiscal is Fattest, Primary is Puniest.",
-    "hi": ["Primary deficit (प्राथमिक घाटा)"]
-  },
-  "07-096": {
-    "r": "Budget deficit = total expenditure – total receipts (dropped from 1997-98); Revenue = revenue expenditure – revenue receipts; Fiscal = budget deficit + borrowings; Primary = fiscal – interest payments.",
-    "hi": ["Revenue deficit (राजस्व घाटा)"]
-  },
-  "07-099": {
-    "r": "Fiscal deficit = total expenditure – (revenue receipts + recovery of loans + disinvestment receipts), i.e. minus non-debt capital receipts."
-  },
-  "07-100": {
-    "r": "Gross Fiscal Deficit (financing side) = net borrowing at home + borrowing from RBI + borrowing from abroad; it shows total borrowing need."
-  },
-  "07-101": {
-    "r": "Fiscal deficit → gap between government's total expenditure and total income (revenue plus non-debt capital receipts); also shown as % of GDP."
-  },
-  "07-102": {
-    "r": "Fiscal deficit > budgetary deficit because borrowings and liabilities are receipts but not income; fiscal deficit = RBI borrowing plus other liabilities (A and R true; R explains A)."
-  },
-  "07-103": {
-    "r": "Primary deficit = Fiscal deficit – Interest payments; so primary deficit + interest = fiscal deficit.",
-    "h": "Primary deficit = today's gap without the burden of past debt's interest."
-  },
-  "07-105": {
-    "r": "If primary deficit is zero → fiscal deficit equals interest payments, so borrowing is just equal to interest payment."
-  },
-  "07-106": {
-    "r": "Primary deficit estimate in Budget 2010-11 → below 2.0% of GDP; 2023-24 → 2.3%; 2024-25 interim target 1.5%."
-  },
-  "07-107": {
-    "r": "Revenue deficit → Government borrows to finance expenses that do not create capital assets (day-to-day spending)."
-  },
-  "07-108": {
-    "r": "Effective Revenue Deficit = revenue deficit – grants for creation of capital assets; introduced in Union Budget 2011-12; added to FRBM Act in 2012.",
-    "hi": ["Effective Revenue Deficit (प्रभावी राजस्व घाटा)"]
-  },
-  "07-110": {
-    "r": "Part of household financial savings goes to government borrowing; dated securities issued at market-related rates in auctions form a large part of internal debt: both correct."
-  },
-  "07-111": {
-    "r": "Larger part of fiscal deficit → financed by domestic borrowings (about 98-99%), mainly market borrowings (G-secs)."
-  },
-  "07-112": {
-    "r": "Deficit financing (new currency) raises money supply relative to goods and services → inflation (A and R true; R explains A).",
-    "hi": ["Deficit financing (हीनार्थ प्रबंधन)"]
-  },
-  "07-115": {
-    "r": "Most inflationary → creating new money to finance a budget deficit; borrowing from public or banks does not add money supply."
-  },
-  "07-116": {
-    "r": "Deficit financing in India → used for raising resources for economic development."
-  },
-  "07-117": {
-    "r": "Budget 2012-13 sought to restrict subsidies to 3.5% of GDP (2024-25 interim: about 1.25% of GDP)."
-  },
-  "07-118": {
-    "r": "Subsidy is a big source of budget deficit (about 12% of spending then), but Indian farm subsidy is lower than in developed countries (A true, R false)."
-  },
-  "07-119": {
-    "r": "India has a history of fiscal deficits, but Indian agriculture gets far lower subsidies than Western countries (A true, R false)."
-  },
-  "07-120": {
-    "r": "Money Bill (Article 110) → appropriation from the Consolidated Fund of India, not the Contingency Fund; also covers taxes, custody of funds, borrowing.",
-    "hi": ["Money Bill (धन विधेयक)"]
-  },
-  "07-121": {
-    "r": "Cut motions: Policy Cut → demand reduced to Re 1 (disapproval of policy); Economy Cut → by a specific amount; Token Cut → by Rs. 100.",
-    "h": "Policy = Re 1; Token = Rs. 100; Economy = specific amount.",
-    "hi": ["Cut motion (कटौती प्रस्ताव)"]
-  },
-  "07-123": {
-    "r": "Vote on Account → advance grant from Consolidated Fund for short-term spending until the Budget is passed; not sanction of all demands for the year.",
-    "hi": ["Vote on Account (लेखानुदान)"]
-  },
-  "07-125": {
-    "r": "Outcome Budget (from 2005) → outcomes monitored jointly by Finance Ministry and Planning Commission (now NITI Aayog)."
-  },
-  "07-126": {
-    "r": "Performance Budget → first introduced in USA on Hoover Commission recommendation (1949).",
-    "hi": ["Performance budget (निष्पादन बजट)"]
-  },
-  "07-127": {
-    "r": "Ad hoc Treasury Bills (from mid-1950s) abolished 31 March 1997; replaced by Ways and Means Advances (WMA) from 1st April 1997."
-  },
-  "07-128": {
-    "r": "Parliament's audit control over Budget → Public Accounts Committee (22 members: 15 Lok Sabha, 7 Rajya Sabha; examines CAG reports; opposition chairman since 1967).",
-    "hi": ["Public Accounts Committee (लोक लेखा समिति)"]
-  },
-  "07-129": {
-    "r": "FRBM Review Committee (N.K. Singh, January 2017): debt-GDP 60% by 2023 (Centre 40%, States 20%); Article 293(3): indebted State needs Centre's consent for loans.",
-    "t": "Statement 2 reverses it: Centre's liabilities were 49.4% of GDP and States' 21%."
-  },
-  "07-130": {
-    "r": "FRBM Act → enacted August 2003; in force from 5 July 2004; aims at fiscal discipline and lower deficits."
-  },
-  "07-131": {
-    "r": "FRBM target for tax-GDP ratio by 2008-09 → 12%."
-  },
-  "07-132": {
-    "r": "FRBM Act 2003 did not stipulate eliminating primary deficit by 2008-09; it aimed to eliminate revenue deficit by 2007-08, limit RBI borrowing, cap guarantees."
-  },
-  "07-133": {
-    "r": "Rajasthan FRBM Act 2005 → ensure financial discipline (fiscal prudence, lower revenue deficit, transparency)."
-  },
-  "07-134": {
-    "r": "Budget 2020-21 disinvestment target Rs. 2.1 lakh crore, including Rs. 90,000 crore from public sector banks and financial institutions."
-  },
-  "07-135": {
-    "r": "Budget 2019-20 disinvestment target (including Air India) → Rs. 1,05,000 crore; actual realisation only Rs. 50,304 crore."
-  },
-  "07-136": {
-    "r": "Disinvestment 2000-2001: target Rs. 10,000 crore, realised only Rs. 1,829 crore."
-  },
-  "07-137": {
-    "r": "Railway Budget 2016-17 → SRESTHA (Special Railway Establishment for Strategic Technology & Holistic Advancement) for long-term railway R&D."
-  },
-  "07-138": {
-    "r": "Railway Budget 2013-14 → 'Anubhuti' hyper-luxury coaches in selected Rajdhani and Shatabdi trains."
-  },
-  "07-139": {
-    "r": "Direct Tax Code → income tax and other direct taxes; to replace Income Tax Act 1961 and Wealth Tax Act 1957; first DTC Bill (2010) lapsed."
-  },
-  "07-140": {
-    "r": "Expenditure tax in India first suggested by Kaldor (Cambridge economist), who also proposed wealth, property and gift taxes; expenditure tax abolished April 1962."
-  },
-  "07-141": {
-    "r": "Indirect transfer → a foreign company transfers shares that derive substantial value from assets located in India (taxability of such gains)."
-  },
-  "07-142": {
-    "r": "Equalisation levy (6%, online ads by non-residents) → under Finance Act 2016, not Income Tax Act; outside DTAA, so no tax credit at home: neither correct.",
-    "hi": ["Equalisation levy (समकारी लेवी)"]
-  },
-  "07-143": {
-    "r": "Selling inherited property → capital gains tax; inheritance itself is not taxed in India (no inheritance tax).",
-    "hi": ["Capital gains tax (पूंजीगत लाभ कर)"]
-  },
-  "07-144": {
-    "r": "Capital gain → rise in value of a capital asset above purchase price (property, painting); higher sales of a product is not a capital gain."
-  },
-  "07-145": {
-    "r": "Income tax share of GDP in 2013-14 → 2.1%; 2024-25 interim estimate 3.53%."
-  },
-  "07-146": {
-    "r": "Direct taxes share of GNP at question time → about 5%; 2024-25 (B.E.): direct taxes 6.7%, indirect 4.9% of GDP."
-  },
-  "07-147": {
-    "r": "Tax-GDP ratio (Centre + States) at question time → about 15%; Centre's gross tax-GDP: 11.5% in 2021-22, 11.7% in 2024-25 (B.E.)."
-  },
-  "07-149": {
-    "r": "Tax-GDP ratio (Centre + States) in 2008-09 → 16.39% (about 16.5%)."
-  },
-  "07-150": {
-    "r": "Falling tax-GDP ratio does not by itself show slowing growth or less equitable income distribution (book: neither statement).",
-    "c": "UPSC's official key gave (a); the book argues for (d)."
-  },
-  "07-151": {
-    "r": "Best way to redistribute income → progressive taxation combined with progressive expenditure.",
-    "hi": ["Progressive tax (प्रगतिशील कर)"]
-  },
-  "07-152": {
-    "r": "India's tax system → degressive: progressive up to a limit (slabs nil, 5, 10, 15, 20, 30%), then flat at the top.",
-    "hi": ["Degressive tax (अवरोही कर)"]
-  },
-  "07-153": {
-    "r": "Indirect taxes are regressive because all income groups pay the same rate on consumption.",
-    "hi": ["Regressive tax (प्रतिगामी कर)"]
-  },
-  "07-154": {
-    "r": "Income tax in India → direct and progressive; levied and collected by the Union, not States; not proportional."
-  }
+ "05-235": {
+  "r": "E-commerce → buying and selling goods over the internet (through computers, tablets, smartphones).",
+  "hi": [
+   "E-commerce (ई-वाणिज्य)"
+  ]
+ },
+ "05-236": {
+  "r": "E-commerce dimension for trade beyond national boundaries → global reach (others: richness, interactivity, ubiquity)."
+ },
+ "05-237": {
+  "r": "Largest e-commerce company of India (book) → M-junction (SAIL–Tata Steel 50:50 venture, February 2001); world's largest e-marketplace for steel."
+ },
+ "05-238": {
+  "r": "IT is a fast-growing field and software is a major export, but India does not have a strong hardware base (A true, R false)."
+ },
+ "05-239": {
+  "r": "Largest software company in India (by market capitalisation) → TCS (Tata Consultancy Services)."
+ },
+ "05-240": {
+  "r": "Automobile sector (Economic Survey 2022-23): 7.1% of GDP, 49% of manufacturing GDP, 3.7 crore jobs (not 5.3 crore) end-2021; largest two/three-wheeler maker, fourth in cars."
+ },
+ "05-241": {
+  "r": "Pharma (Economic Survey 2022-23): 3rd by volume, 14th by value; largest generic supplier (20% of global volume); vaccine market share 60%, not 80%."
+ },
+ "05-242": {
+  "r": "District Mineral Foundation → non-profit trust in mining-affected districts for benefit of affected persons; funded by miners; mandated by MMDR Amendment Act 2015.",
+  "t": "DMF does not promote exploration or issue licences.",
+  "hi": [
+   "District Mineral Foundation (जिला खनिज फाउंडेशन)"
+  ]
+ },
+ "06-001": {
+  "r": "Tertiary (services) sector: trade, transport, hotels, communication, finance, real estate; forestry, fishing and mining are not services; services share 54.9% of GVA (2023-24).",
+  "hi": [
+   "Tertiary sector (तृतीयक क्षेत्र)"
+  ]
+ },
+ "06-003": {
+  "r": "Marketing → tertiary activity; farming and forestry → primary; manufacturing → secondary; agriculture is the primary sector.",
+  "hi": [
+   "Primary sector (प्राथमिक क्षेत्र)"
+  ]
+ },
+ "06-005": {
+  "r": "Transport, communication and commerce → tertiary (services) activities."
+ },
+ "06-006": {
+  "r": "Largest source of National Income → services sector: 54.9% of nominal GVA (Rs. 146.35 lakh crore of Rs. 266.78 lakh crore, 2023-24)."
+ },
+ "06-007": {
+  "r": "Services share 2016-17 → 52.6% of GVA (Rs. 73.49 lakh crore of Rs. 139.65 lakh crore).",
+  "c": "Book gives no single answer: services were 52.6% of GVA, Rs. 73.49 lakh crore, in 2016-17, so none of the options fits."
+ },
+ "06-008": {
+  "r": "Sector shares at question time (2000-01 prices): Agriculture > Trade-hotels-transport > Manufacturing > Finance-real estate; now services 54.9%, industry 27.6%, agriculture 17.6% (2023-24)."
+ },
+ "06-009": {
+  "r": "Fastest growing service sector in India during 2006-2010 → communication."
+ },
+ "06-010": {
+  "r": "Highest services sub-sector share in GDP (2006-07) → Trade, Hotels, Transport and Communication; this group is 17.6% of GVA in 2023-24."
+ },
+ "06-011": {
+  "r": "Largest share of India's GDP/GVA → services (tertiary) sector; order: Services > Industry > Agriculture.",
+  "hi": [
+   "Gross Domestic Product (सकल घरेलू उत्पाद)"
+  ]
+ },
+ "06-016": {
+  "r": "Services share 2012-13 → about 57% of GDP (56.9%) and 28% of employment (28.1%); 2018-19: 54.3% of GVA, 34% of employment."
+ },
+ "06-017": {
+  "r": "Highest services share in State GDP (2008-09) → Delhi, then Chandigarh, Kerala, Maharashtra; in 2019-20 Chandigarh (74.00%) and Delhi (68.22%) top."
+ },
+ "06-018": {
+  "r": "Wrong statement: 'services share of India's GDP only 25%' (it was 57.09% in 2009-10); 58.2% workforce in agriculture (Census 2001)."
+ },
+ "06-019": {
+  "r": "Services growth 2001-2012 → India second fastest (CAGR 9.0%) after China (10.9%) (Economic Survey 2013-14)."
+ },
+ "06-020": {
+  "r": "Tertiary share in India's GDP since 1980 → increasing trend (about 49.0% in 2011-12; 54.9% now)."
+ },
+ "06-021": {
+  "r": "Sector whose growth rate rose steadily 2001-2005 → services (5.6% to 9.9%)."
+ },
+ "06-022": {
+  "r": "As an economy develops, the tertiary sector's share in GDP increases (India: 30.3% in 1950-51 → 50.37% in 2000-01).",
+  "h": "Clark-type shift: farm → factory → services as income grows."
+ },
+ "06-023": {
+  "r": "Services' contribution to GVA growth during 2011-12 to 2015-16 → about 69.0%; in 2017-18 about 72.5%."
+ },
+ "06-024": {
+  "r": "Economic Survey 2023: fashion, grocery and general merchandise to capture nearly two-thirds of e-commerce by 2027 (not 2030); 75 digital banking units; services credit growth above 16%."
+ },
+ "07-001": {
+  "r": "Macro-Economic Framework Statement → mandated by Section 3(5) of FRBM Act, 2003; presented with the Budget (overview of GDP growth, fiscal and external balance).",
+  "hi": [
+   "Fiscal Responsibility and Budget Management (राजकोषीय उत्तरदायित्व एवं बजट प्रबंधन)"
+  ]
+ },
+ "07-002": {
+  "r": "Gender budgeting → first introduced in Union Budget 2005-06 (4.8% of total outlay then).",
+  "hi": [
+   "Gender budgeting (जेंडर बजटिंग)"
+  ]
+ },
+ "07-003": {
+  "r": "Union Budget 2017-18 had 10 themes: farmers, rural population, youth, poor, infrastructure, financial sector, digital economy, public services, fiscal management, tax administration; not export performance."
+ },
+ "07-004": {
+  "r": "Budget 2022-23 four priorities: PM GatiShakti; Inclusive Development; Productivity, Investment, Energy Transition and Climate Action; Financing of Investments; disinvestment not one."
+ },
+ "07-005": {
+  "r": "Budget 2017-18 (Arun Jaitley, 1st February 2017) agenda → TEC India: Transform, Energise, Clean India; not 'Educate India'.",
+  "h": "TEC = Transform, Energise, Clean."
+ },
+ "07-006": {
+  "r": "Agriculture Infrastructure and Development Cess (Budget 2021-22) → levied on 29 products to fund agriculture infrastructure.",
+  "hi": [
+   "Cess (उपकर)"
+  ]
+ },
+ "07-007": {
+  "r": "Chakravyuha Challenge (Economic Survey 2015-16) → economy moved from 'socialism with limited entry' to 'marketism without exit' (easy entry, hard exit)."
+ },
+ "07-008": {
+  "r": "Budget 2023-24: States allowed fiscal deficit of 3.5% of GSDP (0.5% tied to power reforms); total expenditure about Rs. 45 lakh crore; 2025-26 deficit target below 4.5%."
+ },
+ "07-009": {
+  "r": "Fiscal deficit 2017-18 → 3.5% of GDP vs 3.2% budgeted, as indirect tax growth slowed with GST (A and R true; R explains A).",
+  "hi": [
+   "Fiscal deficit (राजकोषीय घाटा)"
+  ]
+ },
+ "07-010": {
+  "r": "Gross tax/GDP (10.1% in 2010-11, 11.2% in 2017-18) fluctuated; fiscal deficit/GDP (5.9% in 2011-12, 3.5% in 2017-18) fell overall → neither rose steadily."
+ },
+ "07-011": {
+  "r": "GST exempt (0%): hulled cereal grains, cooked chicken eggs in shell, newspapers (even with ads); processed and canned fish taxed at 5%.",
+  "hi": [
+   "Goods and Services Tax (वस्तु एवं सेवा कर)"
+  ]
+ },
+ "07-012": {
+  "r": "GST was proposed by the Vijay Kelkar Task Force (on FRBM, formed 2003; recommended GST in 2004)."
+ },
+ "07-013": {
+  "r": "GST's main advantage → replaces multiple taxes of multiple authorities, creating a single market; claims of 'drastically' cutting CAD or 'enormously' raising growth are overstated."
+ },
+ "07-014": {
+  "r": "GST → single, comprehensive, multi-stage, destination-based indirect tax (from 1 July 2017); subsumed Service Tax, Central Excise and State VAT.",
+  "hi": [
+   "Indirect tax (अप्रत्यक्ष कर)"
+  ]
+ },
+ "07-016": {
+  "r": "GST → Constitution (One Hundred and First) Amendment Act, 2016; GST in force from 1 July 2017.",
+  "t": "Act number (101st) differs from its Bill number (One Hundred and Twenty Second Amendment Bill)."
+ },
+ "07-018": {
+  "r": "GST was then proposed from April 01, 2012 (option b); it actually came into effect on 1 July 2017 via the 101st Amendment (2016)."
+ },
+ "07-019": {
+  "r": "GST (July 2017) → uniform common national market and better tax compliance; ends cascading (double) taxation."
+ },
+ "07-020": {
+  "r": "GST Council (Article 279A) → chaired by Union Finance Minister, MoS Revenue/Finance a member; decides rates, exemptions, threshold; States cannot levy VAT after GST.",
+  "hi": [
+   "GST Council (जीएसटी परिषद)"
+  ]
+ },
+ "07-021": {
+  "r": "Not under GST → customs duty; also outside GST: alcohol for human consumption, petroleum products and electricity."
+ },
+ "07-022": {
+  "r": "Under GST → ghee; outside GST → alcohol for human consumption, electricity and petroleum products."
+ },
+ "07-023": {
+  "r": "Gross GST collection October 2020 → Rs. 105,155 crore (above Rs. one lakh crore); record Rs. 210,267 crore in April 2024."
+ },
+ "07-024": {
+  "r": "Revenue Neutral Rate → GST rate that keeps government revenue equal to revenue under the old tax system.",
+  "hi": [
+   "Revenue Neutral Rate (राजस्व तटस्थ दर)"
+  ]
+ },
+ "07-025": {
+  "r": "Input Tax Credit (ITC) → credit of input tax on goods/services received by a registered person; allowed for taxable and zero-rated supplies, not non-taxable, exempt or nil-rated.",
+  "t": "Zero-rated (exports, SEZ supplies; ITC allowed) is not nil-rated (0% GST; no ITC)."
+ },
+ "07-026": {
+  "r": "Project Saksham (CCEA, September 2016) → new indirect tax IT network of CBEC for GST; cost Rs. 2256 crore over seven years."
+ },
+ "07-027": {
+  "r": "Fiscal policy → formulated by Ministry of Finance; monetary policy → RBI; Finance Commission (Article 280) → tax sharing between Union and States.",
+  "hi": [
+   "Fiscal policy (राजकोषीय नीति)"
+  ]
+ },
+ "07-028": {
+  "r": "Long-term fiscal policy → announced by Finance Minister V.P. Singh in his Budget Speech 1985-86."
+ },
+ "07-029": {
+  "r": "Government expenditure is controlled by the Ministry of Finance; its six Departments: Economic Affairs, Expenditure, Revenue, DIPAM, Financial Services, Public Enterprises (no 'Banking Division')."
+ },
+ "07-031": {
+  "r": "Revenue expenditure 1989-90 vs 1994-95: interest payments share rose (27.7% → 38.7%), so the Union is under pressure to spend more on interest."
+ },
+ "07-032": {
+  "r": "Fiscal policy objectives: growth, full employment, price stability, equitable distribution of income and wealth; regulating inter-state trade is not one."
+ },
+ "07-033": {
+  "r": "Fiscal policy → government policy on taxation and expenditure (to influence the economy)."
+ },
+ "07-034": {
+  "r": "Fiscal policy instruments → taxation, public expenditure and public debt; so tax policy is part of fiscal policy."
+ },
+ "07-035": {
+  "r": "Fiscal tools: public expenditure, taxation, deficit financing; interest rate is a monetary policy tool.",
+  "t": "Interest rate = monetary policy (RBI); taxes and spending = fiscal policy (Finance Ministry)."
+ },
+ "07-036": {
+  "r": "Fiscal policy as remedy for the Great Depression (1929-30) → J.M. Keynes, 'General Theory of Employment, Interest and Money' (1936): raise government spending."
+ },
+ "07-037": {
+  "r": "Fiscal stimulus → intense government action (tax rebates, incentives, spending) to boost economic activity.",
+  "hi": [
+   "Fiscal stimulus (राजकोषीय प्रोत्साहन)"
+  ]
+ },
+ "07-038": {
+  "r": "In a recession → increase expenditure on public projects; recession = real GDP contracts for at least two consecutive quarters.",
+  "hi": [
+   "Recession (मंदी)"
+  ]
+ },
+ "07-039": {
+  "r": "Budget revenue estimates → Ministry of Finance; Union Budget prepared and presented by its Department of Economic Affairs; revenue control via CBDT (Department of Revenue)."
+ },
+ "07-041": {
+  "r": "Economic Survey → Ministry of Finance (prepared by Department of Economic Affairs under the Chief Economic Adviser); presented before the Union Budget.",
+  "hi": [
+   "Economic Survey (आर्थिक सर्वेक्षण)"
+  ]
+ },
+ "07-043": {
+  "r": "Economic Survey → published every year by the Department of Economic Affairs, Ministry of Finance; reviews the past financial year; tabled before the Budget."
+ },
+ "07-045": {
+  "r": "Wholesale Price Index → Ministry of Commerce & Industry; National Accounts Statistics → CSO (now NSO); Report on Currency and Finance → RBI; Economic Survey → Ministry of Finance."
+ },
+ "07-046": {
+  "r": "Budget → instrument of fiscal policy; Article 112 'Annual Financial Statement' laid before both Houses every year.",
+  "hi": [
+   "Annual Financial Statement (वार्षिक वित्तीय विवरण)"
+  ]
+ },
+ "07-047": {
+  "r": "Zero-based budgeting (Peter Pyhrr, 1970s) → first adopted in USA (Jimmy Carter, Georgia, 1973); India: DST 1983, Government 1986; every scheme reviewed from zero.",
+  "hi": [
+   "Zero-based budgeting (शून्य आधारित बजट)"
+  ]
+ },
+ "07-049": {
+  "r": "Budget 2023-24: Ministry of Health and Family Welfare → Rs. 89,155 crore; Dept of Health and Family Welfare Rs. 86175 crore; PMJAY Rs. 7200 crore; Health Research Rs. 2980 crore."
+ },
+ "07-050": {
+  "r": "Largest sector outlay in Union Budget 2011-12 → Energy (by 2024-25 data, Transport is far larger)."
+ },
+ "07-051": {
+  "r": "Central Plan outlay 2010-11, descending: Energy > Social Services > Transport > Rural Development.",
+  "c": "Budget 2010-11 was presented to Parliament in February 2010; the date shown in the question is wrong."
+ },
+ "07-052": {
+  "r": "Budget 2018-19 allocations: Defence Rs. 2.82 lakh crore; Agriculture Rs. 0.63; Food subsidy Rs. 1.69; Rural development Rs. 1.38 lakh crore."
+ },
+ "07-053": {
+  "r": "Budget 2023-24 outlay shares: interest 20%, States' share of taxes 18%, subsidies 7% (not 9%), defence 8%."
+ },
+ "07-054": {
+  "r": "Capital receipts are less than revenue receipts (2010-11 and now; 2024-25 interim: 37.02% vs 62.98%)."
+ },
+ "07-055": {
+  "r": "Subsidy → public expenditure, not public revenue; income tax, VAT and public borrowing are sources of public revenue.",
+  "hi": [
+   "Subsidy (सब्सिडी / अनुदान)"
+  ]
+ },
+ "07-056": {
+  "r": "Current (revenue) account income: corporation tax, profits of public enterprises, excise duties; NSC sales and World Bank loans are capital receipts.",
+  "hi": [
+   "Revenue receipts (राजस्व प्राप्तियां)"
+  ]
+ },
+ "07-057": {
+  "r": "Revenue account: interest receipts, tax receipts, profits and dividends of PSUs; small savings → debt receipts in the capital account."
+ },
+ "07-058": {
+  "r": "Capital budget includes: asset creation (roads, buildings, machinery), loans from foreign governments, loans and advances to States and UTs: all three.",
+  "hi": [
+   "Capital budget (पूंजी बजट)"
+  ]
+ },
+ "07-059": {
+  "r": "Non-Plan expenditure (before Budget 2017-18): subsidies, interest payments, defence, maintenance of past-plan assets, salaries, pensions, statutory transfers to States."
+ },
+ "07-062": {
+  "r": "Largest in Union Budget → revenue expenditure; Plan/Non-Plan classification was removed from Budget 2017-18."
+ },
+ "07-063": {
+  "r": "Budget 2017-18 reforms: presented 1 February (a month earlier), Railway Budget merged, Plan/Non-Plan ended; no increase in centrally sponsored schemes.",
+  "hi": [
+   "Railway Budget (रेल बजट)"
+  ]
+ },
+ "07-066": {
+  "r": "To cut a persistent deficit: reduce revenue expenditure and rationalise subsidies; new welfare schemes and lower import duties would widen it."
+ },
+ "07-068": {
+  "r": "Largest item of revenue (and total) expenditure of the Union → interest payments (2024-25: 32.57% of revenue expenditure).",
+  "hi": [
+   "Interest payment (ब्याज भुगतान)"
+  ]
+ },
+ "07-073": {
+  "r": "Largest current revenue expenditure item of the Centre in 2008-10 → interest payments; still the largest (Interim Budget 2024-25)."
+ },
+ "07-074": {
+  "r": "Largest Non-Plan expenditure item (2015-16) → interest payments; Plan/Non-Plan classification ended in Budget 2017-18."
+ },
+ "07-076": {
+  "r": "Fiscal deficit control: downsizing bureaucracy (less spending) and selling PSU shares (more receipts); encouraging FDI or privatising higher education does not directly help."
+ },
+ "07-077": {
+  "r": "Fiscal deficit: 2017-18 raised to 3.5% (from 3.2%); 2018-19 target 3.3%; 2020-21 projected 3.0% (not 3.1%); 2021-22 estimated 6.8%."
+ },
+ "07-079": {
+  "r": "Union fiscal deficit: 9.2% of GDP in FY21 (pandemic); 6.7% in FY22 (not 7.7%); revenue receipts fell only in FY21."
+ },
+ "07-080": {
+  "r": "Fiscal deficit target 2019-20 → 3.3% of GDP; 2020-21 target 3.5%; actuals 4.6% and 9.2% (Covid-19)."
+ },
+ "07-081": {
+  "r": "Fiscal deficit target in Union Budget 2000-01 → 5.1% of GDP; 2024-25 interim target is also 5.1%."
+ },
+ "07-082": {
+  "r": "Highest fiscal deficit/GDP among 2011-2012 to 2014-2015 → 2011-12 (5.9%); 1990-91 was 8.4%; 2020-21 hit 9.2%, highest since 1990-91."
+ },
+ "07-084": {
+  "r": "Fiscal deficit target in Union Budget 1996-97 → 5.0% of GDP."
+ },
+ "07-085": {
+  "r": "Fiscal deficit as per Budget 2001-2002 → 4.7% of GDP; 2024-25 interim → 5.1% (Rs. 1685494 crore)."
+ },
+ "07-086": {
+  "r": "Fiscal deficit in Union Budget 2009-10 → 6.8% of GDP."
+ },
+ "07-087": {
+  "r": "Fiscal deficit estimate in Union Budget 2010-11 → 5.5% of GDP (actual 4.9%)."
+ },
+ "07-088": {
+  "r": "Fiscal deficit target for 2016-17 → 3.5% of GDP."
+ },
+ "07-089": {
+  "r": "Budget 1997-98 (P. Chidambaram) popular for cutting almost every tax: income tax 10, 20, 30% (from 15, 30, 40%); corporate tax 48% → 35%."
+ },
+ "07-090": {
+  "r": "States' record fiscal deficit at question time → Rs. 1,00,000 crore (option d); States' combined GFD 2023-24 (B.E.) Rs. 9.48 lakh crore (3.1% of GDP)."
+ },
+ "07-091": {
+  "r": "UP Budget 2023-24: size Rs. 690242.43 crore (not Rs. 7,60,000 crore); fiscal deficit Rs. 84,883.16 crore; 2024-25 size Rs. 736437.71 crore."
+ },
+ "07-092": {
+  "r": "Budget external liabilities use current exchange rates, not historical; high borrowing keeps real interest rates high; rising fiscal deficit hurts private investment; interest is largest non-plan revenue item."
+ },
+ "07-093": {
+  "r": "Descending order of deficits: Fiscal > Revenue > Primary; fiscal deficit is always higher than revenue deficit.",
+  "h": "F-R-P: Fiscal is Fattest, Primary is Puniest.",
+  "hi": [
+   "Primary deficit (प्राथमिक घाटा)"
+  ]
+ },
+ "07-096": {
+  "r": "Budget deficit = total expenditure – total receipts (dropped from 1997-98); Revenue = revenue expenditure – revenue receipts; Fiscal = budget deficit + borrowings; Primary = fiscal – interest payments.",
+  "hi": [
+   "Revenue deficit (राजस्व घाटा)"
+  ]
+ },
+ "07-099": {
+  "r": "Fiscal deficit = total expenditure – (revenue receipts + recovery of loans + disinvestment receipts), i.e. minus non-debt capital receipts."
+ },
+ "07-100": {
+  "r": "Gross Fiscal Deficit (financing side) = net borrowing at home + borrowing from RBI + borrowing from abroad; it shows total borrowing need."
+ },
+ "07-101": {
+  "r": "Fiscal deficit → gap between government's total expenditure and total income (revenue plus non-debt capital receipts); also shown as % of GDP."
+ },
+ "07-102": {
+  "r": "Fiscal deficit > budgetary deficit because borrowings and liabilities are receipts but not income; fiscal deficit = RBI borrowing plus other liabilities (A and R true; R explains A)."
+ },
+ "07-103": {
+  "r": "Primary deficit = Fiscal deficit – Interest payments; so primary deficit + interest = fiscal deficit.",
+  "h": "Primary deficit = today's gap without the burden of past debt's interest."
+ },
+ "07-105": {
+  "r": "If primary deficit is zero → fiscal deficit equals interest payments, so borrowing is just equal to interest payment."
+ },
+ "07-106": {
+  "r": "Primary deficit estimate in Budget 2010-11 → below 2.0% of GDP; 2023-24 → 2.3%; 2024-25 interim target 1.5%."
+ },
+ "07-107": {
+  "r": "Revenue deficit → Government borrows to finance expenses that do not create capital assets (day-to-day spending)."
+ },
+ "07-108": {
+  "r": "Effective Revenue Deficit = revenue deficit – grants for creation of capital assets; introduced in Union Budget 2011-12; added to FRBM Act in 2012.",
+  "hi": [
+   "Effective Revenue Deficit (प्रभावी राजस्व घाटा)"
+  ]
+ },
+ "07-110": {
+  "r": "Part of household financial savings goes to government borrowing; dated securities issued at market-related rates in auctions form a large part of internal debt: both correct."
+ },
+ "07-111": {
+  "r": "Larger part of fiscal deficit → financed by domestic borrowings (about 98-99%), mainly market borrowings (G-secs)."
+ },
+ "07-112": {
+  "r": "Deficit financing (new currency) raises money supply relative to goods and services → inflation (A and R true; R explains A).",
+  "hi": [
+   "Deficit financing (हीनार्थ प्रबंधन)"
+  ]
+ },
+ "07-115": {
+  "r": "Most inflationary → creating new money to finance a budget deficit; borrowing from public or banks does not add money supply."
+ },
+ "07-116": {
+  "r": "Deficit financing in India → used for raising resources for economic development."
+ },
+ "07-117": {
+  "r": "Budget 2012-13 sought to restrict subsidies to 3.5% of GDP (2024-25 interim: about 1.25% of GDP)."
+ },
+ "07-118": {
+  "r": "Subsidy is a big source of budget deficit (about 12% of spending then), but Indian farm subsidy is lower than in developed countries (A true, R false)."
+ },
+ "07-119": {
+  "r": "India has a history of fiscal deficits, but Indian agriculture gets far lower subsidies than Western countries (A true, R false)."
+ },
+ "07-120": {
+  "r": "Money Bill (Article 110) → appropriation from the Consolidated Fund of India, not the Contingency Fund; also covers taxes, custody of funds, borrowing.",
+  "hi": [
+   "Money Bill (धन विधेयक)"
+  ]
+ },
+ "07-121": {
+  "r": "Cut motions: Policy Cut → demand reduced to Re 1 (disapproval of policy); Economy Cut → by a specific amount; Token Cut → by Rs. 100.",
+  "h": "Policy = Re 1; Token = Rs. 100; Economy = specific amount.",
+  "hi": [
+   "Cut motion (कटौती प्रस्ताव)"
+  ]
+ },
+ "07-123": {
+  "r": "Vote on Account → advance grant from Consolidated Fund for short-term spending until the Budget is passed; not sanction of all demands for the year.",
+  "hi": [
+   "Vote on Account (लेखानुदान)"
+  ]
+ },
+ "07-125": {
+  "r": "Outcome Budget (from 2005) → outcomes monitored jointly by Finance Ministry and Planning Commission (now NITI Aayog)."
+ },
+ "07-126": {
+  "r": "Performance Budget → first introduced in USA on Hoover Commission recommendation (1949).",
+  "hi": [
+   "Performance budget (निष्पादन बजट)"
+  ]
+ },
+ "07-127": {
+  "r": "Ad hoc Treasury Bills (from mid-1950s) abolished 31 March 1997; replaced by Ways and Means Advances (WMA) from 1st April 1997."
+ },
+ "07-128": {
+  "r": "Parliament's audit control over Budget → Public Accounts Committee (22 members: 15 Lok Sabha, 7 Rajya Sabha; examines CAG reports; opposition chairman since 1967).",
+  "hi": [
+   "Public Accounts Committee (लोक लेखा समिति)"
+  ]
+ },
+ "07-129": {
+  "r": "FRBM Review Committee (N.K. Singh, January 2017): debt-GDP 60% by 2023 (Centre 40%, States 20%); Article 293(3): indebted State needs Centre's consent for loans.",
+  "t": "Statement 2 reverses it: Centre's liabilities were 49.4% of GDP and States' 21%."
+ },
+ "07-130": {
+  "r": "FRBM Act → enacted August 2003; in force from 5 July 2004; aims at fiscal discipline and lower deficits."
+ },
+ "07-131": {
+  "r": "FRBM target for tax-GDP ratio by 2008-09 → 12%."
+ },
+ "07-132": {
+  "r": "FRBM Act 2003 did not stipulate eliminating primary deficit by 2008-09; it aimed to eliminate revenue deficit by 2007-08, limit RBI borrowing, cap guarantees."
+ },
+ "07-133": {
+  "r": "Rajasthan FRBM Act 2005 → ensure financial discipline (fiscal prudence, lower revenue deficit, transparency)."
+ },
+ "07-134": {
+  "r": "Budget 2020-21 disinvestment target Rs. 2.1 lakh crore, including Rs. 90,000 crore from public sector banks and financial institutions."
+ },
+ "07-135": {
+  "r": "Budget 2019-20 disinvestment target (including Air India) → Rs. 1,05,000 crore; actual realisation only Rs. 50,304 crore."
+ },
+ "07-136": {
+  "r": "Disinvestment 2000-2001: target Rs. 10,000 crore, realised only Rs. 1,829 crore."
+ },
+ "07-137": {
+  "r": "Railway Budget 2016-17 → SRESTHA (Special Railway Establishment for Strategic Technology & Holistic Advancement) for long-term railway R&D."
+ },
+ "07-138": {
+  "r": "Railway Budget 2013-14 → 'Anubhuti' hyper-luxury coaches in selected Rajdhani and Shatabdi trains."
+ },
+ "07-139": {
+  "r": "Direct Tax Code → income tax and other direct taxes; to replace Income Tax Act 1961 and Wealth Tax Act 1957; first DTC Bill (2010) lapsed."
+ },
+ "07-140": {
+  "r": "Expenditure tax in India first suggested by Kaldor (Cambridge economist), who also proposed wealth, property and gift taxes; expenditure tax abolished April 1962."
+ },
+ "07-141": {
+  "r": "Indirect transfer → a foreign company transfers shares that derive substantial value from assets located in India (taxability of such gains)."
+ },
+ "07-142": {
+  "r": "Equalisation levy (6%, online ads by non-residents) → under Finance Act 2016, not Income Tax Act; outside DTAA, so no tax credit at home: neither correct.",
+  "hi": [
+   "Equalisation levy (समकारी लेवी)"
+  ]
+ },
+ "07-143": {
+  "r": "Selling inherited property → capital gains tax; inheritance itself is not taxed in India (no inheritance tax).",
+  "hi": [
+   "Capital gains tax (पूंजीगत लाभ कर)"
+  ]
+ },
+ "07-144": {
+  "r": "Capital gain → rise in value of a capital asset above purchase price (property, painting); higher sales of a product is not a capital gain."
+ },
+ "07-145": {
+  "r": "Income tax share of GDP in 2013-14 → 2.1%; 2024-25 interim estimate 3.53%."
+ },
+ "07-146": {
+  "r": "Direct taxes share of GNP at question time → about 5%; 2024-25 (B.E.): direct taxes 6.7%, indirect 4.9% of GDP."
+ },
+ "07-147": {
+  "r": "Tax-GDP ratio (Centre + States) at question time → about 15%; Centre's gross tax-GDP: 11.5% in 2021-22, 11.7% in 2024-25 (B.E.)."
+ },
+ "07-149": {
+  "r": "Tax-GDP ratio (Centre + States) in 2008-09 → 16.39% (about 16.5%)."
+ },
+ "07-150": {
+  "r": "Falling tax-GDP ratio does not by itself show slowing growth or less equitable income distribution (book: neither statement).",
+  "c": "UPSC's official key gave (a); the book argues for (d)."
+ },
+ "07-151": {
+  "r": "Best way to redistribute income → progressive taxation combined with progressive expenditure.",
+  "hi": [
+   "Progressive tax (प्रगतिशील कर)"
+  ]
+ },
+ "07-152": {
+  "r": "India's tax system → degressive: progressive up to a limit (slabs nil, 5, 10, 15, 20, 30%), then flat at the top.",
+  "hi": [
+   "Degressive tax (अवरोही कर)"
+  ]
+ },
+ "07-153": {
+  "r": "Indirect taxes are regressive because all income groups pay the same rate on consumption.",
+  "hi": [
+   "Regressive tax (प्रतिगामी कर)"
+  ]
+ },
+ "07-154": {
+  "r": "Income tax in India → direct and progressive; levied and collected by the Union, not States; not proportional."
+ }
 }

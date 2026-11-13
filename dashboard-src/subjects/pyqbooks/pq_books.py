@@ -37,6 +37,26 @@ BOOKS = {
         # this PDF stores every character 29 code points low ("7KH" = "The")
         "shift": 29, "pages": 578, "writers": 7,
     },
+    "geography": {
+        "name": "General Geography", "hindi": "सामान्य भूगोल",
+        "pdf": ROOT / "General_Geography_Part_3" / "Preview_General_Geography_Part_3_2026_26117_C_E_Book_combined.pdf",
+        "out": ROOT / "General_Geography_Part_3",
+        "files": ("geography-uppsc-full-notes.html", "geography-uppsc-quick-notes.html", "geography-in-72h.html"),
+        "plan_key": "geo72-v2-done", "prefix": "geo",
+        # questions are numbered afresh in every sub-topic ("i. Area"): see name_chapters
+        "subtopics": True,
+        "shift": 0, "pages": 708, "writers": 8,
+    },
+    "science": {
+        "name": "General Science", "hindi": "सामान्य विज्ञान",
+        "pdf": ROOT / "General_Science_Part_7" / "Preview_General_Science_Part_7_2026_26121_C_E_Book_combined_1.pdf",
+        "out": ROOT / "General_Science_Part_7",
+        "files": ("science-uppsc-full-notes.html", "science-uppsc-quick-notes.html", "science-in-72h.html"),
+        "plan_key": "sci72-v2-done", "prefix": "sci",
+        # questions are numbered afresh in every sub-topic ("i. Area"): see name_chapters
+        "subtopics": True,
+        "shift": 0, "pages": 760, "writers": 8,
+    },
 }
 
 

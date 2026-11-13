@@ -1,0 +1,417 @@
+{
+ "25-031": {
+  "r": "Bromine → halogen that is a fuming red-brown liquid at room temperature; it evaporates easily into a gas of the same colour.",
+  "hi": [
+   "Bromine (ब्रोमीन)"
+  ]
+ },
+ "25-032": {
+  "r": "Bromine (Br, atomic no. 35) → the only non-metal that is liquid at room temperature; third lightest halogen, deep red fuming liquid.",
+  "t": "Don't confuse with iodine: of the halogens in the options, only bromine is a liquid."
+ },
+ "25-033": {
+  "r": "Halogen used as analgesic (pain reliever) → bromine; compounds of bromine act on the peripheral and central nervous system.",
+  "hi": [
+   "Analgesic (पीड़ाहारी)"
+  ]
+ },
+ "25-034": {
+  "r": "Selenium (element 34) → non-metal that is NOT a poor conductor; grey selenium is a photoconductive semiconductor, conducting more when it absorbs light.",
+  "t": "Sulfur, bromine and phosphorus are the poor conductors; selenium is the odd one out."
+ },
+ "25-035": {
+  "r": "Fluorescent tube → low-pressure mercury vapour + argon (sometimes xenon, neon or krypton); pressure inside about 0.3% of atmospheric pressure."
+ },
+ "25-036": {
+  "r": "Ordinary tubelight → mercury vapour with an inert gas, argon or neon, at low pressure; book accepts both (c) and (d). Excited mercury gives UV that makes phosphor glow.",
+  "h": "Tubelight = Mercury + Argon/Neon; sodium vapour is not used."
+ },
+ "25-039": {
+  "r": "Discharge tubes for optical decoration and advertising (neon signs) → neon gas; also used in discharge lamps and fluorescent bulbs."
+ },
+ "26-001": {
+  "r": "Antacids → bases (aluminium hydroxide, magnesium hydroxide, magnesium carbonate, magnesium trisilicate, calcium carbonate) that reduce excess stomach acid.",
+  "hi": [
+   "Antacid (प्रतिअम्ल)"
+  ]
+ },
+ "26-002": {
+  "r": "Aqua regia ('royal water') → 3 parts concentrated HCl + 1 part concentrated nitric acid (HNO3); dissolves noble metals gold, platinum, palladium.",
+  "h": "3 : 1 = HCl : HNO3 — 'Regia' dissolves the royal metal, gold.",
+  "hi": [
+   "Aqua regia (अम्लराज)"
+  ]
+ },
+ "26-004": {
+  "r": "The pH scale → measures acidity or basicity of a solution; 0–14; at 25°C pH < 7 acidic, 7 neutral (pure water), > 7 basic."
+ },
+ "26-005": {
+  "r": "The pH scale is logarithmic: each unit = 10-fold change in H+ ions; pH 3 → 6 means H+ concentration falls 1000 times (10 × 10 × 10).",
+  "h": "Change of 3 pH units = 10³ = 1000 times."
+ },
+ "26-006": {
+  "r": "At 25°C acidic solutions have pH less than 7 and basic solutions more than 7 → both statements (acidic > 7, basic < 7) are wrong.",
+  "t": "The statements swap the facts: acid is BELOW 7, base is ABOVE 7."
+ },
+ "26-007": {
+  "r": "A pH of 7 (at 25°C) → both pure water and any neutral solution, so 'more than one'; pH more than 7 → basic solution."
+ },
+ "26-009": {
+  "r": "Red litmus turns blue → base, pH more than 7 (at 25°C), so none of 7, 1, 5, 6.5 fits; blue litmus turns red → acid.",
+  "h": "Base turns red to Blue (B–B)."
+ },
+ "26-011": {
+  "r": "Dry HCl gas does not change dry litmus → without water no hydronium (H3O+) ions form; litmus changes colour only when H3O+ ions are present."
+ },
+ "26-012": {
+  "r": "Acidic solution → pH less than 7 at 25°C (e.g. 6); H+ ions exceed OH– ions. pH 7 neutral, 8 and 9 basic."
+ },
+ "26-013": {
+  "r": "By definition pH = –log[H+]; 0.1 N HCl → [H+] = 0.1 = 10⁻¹ mol/L → pH = 1.0."
+ },
+ "26-014": {
+  "r": "Sulfuric acid (H2SO4) → 'basic chemical' of industry; used to refine metals and oil, reduce steel corrosion, make fertilizers, and in petrochemicals."
+ },
+ "26-015": {
+  "r": "Acid rain → mainly sulfuric acid (H2SO4, about 70-75%) plus nitric acid (HNO3), formed from sulfur dioxide and nitrogen oxides with cloud water.",
+  "hi": [
+   "Acid rain (अम्लीय वर्षा)"
+  ]
+ },
+ "26-018": {
+  "r": "Taj Mahal marble turning pale and lustreless → acid rain; SO2 and nitrogen oxides form sulfuric and nitric acid that attack the marble."
+ },
+ "26-019": {
+  "r": "Copper sulphate solution is acidic → hydrolysis: CuSO4 + 2H2O → H2SO4 (strong acid) + Cu(OH)2 (weak base).",
+  "hi": [
+   "Hydrolysis (जल-अपघटन)"
+  ]
+ },
+ "26-020": {
+  "r": "Lewis acid = lone-pair acceptor (AlCl3, BF3, FeCl3); Lewis base = lone-pair donor → NH3 (nitrogen has one lone pair) is not a Lewis acid."
+ },
+ "26-021": {
+  "r": "Dilute sulfuric acid by adding acid to water, never water to acid; water's high specific heat absorbs the heat. A and R true, R explains A.",
+  "t": "Water into acid → sudden heat, violent boiling and splashing of acid."
+ },
+ "26-022": {
+  "r": "Amphoteric oxides (react with both acids and bases) → Al2O3 and ZnO; also BeO, SnO, PbO, Cr2O3. CuO is basic, not amphoteric.",
+  "hi": [
+   "Amphoteric (उभयधर्मी)"
+  ]
+ },
+ "26-023": {
+  "r": "Acid + metal carbonate → salt + water + carbon dioxide (CO2) gas, e.g. Na2CO3 + 2HCl → 2NaCl + H2O + CO2."
+ },
+ "26-024": {
+  "r": "Limewater (calcium hydroxide) turns milky with CO2 → white precipitate of calcium carbonate: Ca(OH)2 + CO2 → CaCO3 + H2O.",
+  "t": "Limewater test detects CO2 (carbon dioxide), not CO (carbon monoxide)."
+ },
+ "26-025": {
+  "r": "Soda water (CO2 dissolved in water under pressure) → acidic, because CO2 + H2O forms carbonic acid (H2CO3)."
+ },
+ "26-026": {
+  "r": "Hydrochloric acid (HCl) → contains no oxygen, only hydrogen and chlorine; nitric and sulfuric acids contain oxygen."
+ },
+ "26-027": {
+  "r": "Ammonia → dissolves quickly in water; solution (ammonium hydroxide) is basic and turns red litmus blue; gives a white flame with hydrogen chloride."
+ },
+ "26-028": {
+  "r": "Baking soda = sodium bicarbonate (sodium hydrogen carbonate), NaHCO3; releases CO2 when heated or mixed with acid, so it is a leavening agent.",
+  "t": "Don't confuse NaHCO3 (baking soda) with Na2CO3 (washing soda)."
+ },
+ "26-029": {
+  "r": "Baking soda = sodium hydrogen carbonate (NaHCO3) → used in baking and in soda-acid fire extinguishers; both statements correct."
+ },
+ "26-030": {
+  "r": "Bleaching powder → calcium oxychloride; baking soda → sodium bicarbonate; washing powder → sodium carbonate; Plaster of Paris → calcium sulphate hemihydrate (CaSO4·½H2O), not calcium bicarbonate.",
+  "hi": [
+   "Plaster of Paris (प्लास्टर ऑफ पेरिस)"
+  ]
+ },
+ "26-032": {
+  "r": "Neela thotha (blue vitriol) → copper sulphate, CuSO4·5H2O.",
+  "hi": [
+   "Blue vitriol (नीला थोथा)"
+  ]
+ },
+ "26-033": {
+  "r": "Copper sulphate (blue vitriol, neela thotha) → kills fungi in water tanks; also a fungicide for field crops.",
+  "hi": [
+   "Fungicide (कवकनाशी)"
+  ]
+ },
+ "26-035": {
+  "r": "Washing soda → sodium carbonate; caustic soda → sodium hydroxide; neela thotha → copper sulphate; hypo → sodium thiosulphate."
+ },
+ "26-036": {
+  "r": "Neela thotha → copper sulphate; Epsom salt → magnesium sulphate; baking soda → sodium bicarbonate; caustic soda → sodium hydroxide."
+ },
+ "26-037": {
+  "r": "Baking soda → sodium bicarbonate = sodium hydrogen carbonate; formula NaHCO3."
+ },
+ "26-041": {
+  "r": "Washing soda → sodium carbonate, Na2CO3; used as a detergent.",
+  "t": "Na2CO3 = washing soda; NaHCO3 = baking soda; NaOH = caustic soda."
+ },
+ "26-043": {
+  "r": "Baking soda = NaHCO3 (anhydrous Na2CO3 is washing soda), used as fire extinguisher; bleaching powder made in Hasenclever (or Backmann) plant → statements 2, 3 correct."
+ },
+ "26-044": {
+  "r": "Artificial fruit ripening → ethylene; baking soda → sodium bicarbonate; soft drink → carbon dioxide; quartz → used to make sodium silicate."
+ },
+ "26-045": {
+  "r": "Quartz crystals in clocks → silicon dioxide (SiO2), a framework of silicon-oxygen tetrahedra with each oxygen shared by two."
+ },
+ "26-046": {
+  "r": "Predominant salt in ocean water → sodium chloride (NaCl, common or table salt); obtained by evaporating salt water."
+ },
+ "26-047": {
+  "r": "Table salt (NaCl) → neutral salt formed from a strong acid and a strong base."
+ },
+ "26-048": {
+  "r": "The book gives no single answer (*): iodized, sea, rock and processed common salt can all be used as table salt (about 100% sodium chloride)."
+ },
+ "26-049": {
+  "r": "Iodised salt → mainly potassium iodide (KI); sodium iodide and sodium iodate are also used.",
+  "t": "Not free iodine: iodine is added as an iodide or iodate salt."
+ },
+ "26-050": {
+  "r": "Wrong statement: barium and strontium occur free in nature → these reactive Group 2 metals occur only as compounds. NaCl speeds Plaster of Paris setting; gypsum slows cement setting."
+ },
+ "26-051": {
+  "r": "Bleaching powder (calcium oxychloride, CaOCl2) → light yellowish oxidant that releases chlorine with dilute acid; untrue: it is NOT highly soluble in water.",
+  "hi": [
+   "Bleaching powder (विरंजक चूर्ण)"
+  ]
+ },
+ "26-053": {
+  "r": "Eno salt in water → bubbles of carbon dioxide (CO2) gas."
+ },
+ "26-054": {
+  "r": "Photographic processing → sodium thiosulphate (hypo) is the fixer; it removes silver bromide from the negative plate or film as a soluble compound.",
+  "c": "The book calls sodium thiosulphate an oxidising agent; it is actually a reducing agent. In photography it works as a fixer."
+ },
+ "26-055": {
+  "r": "Sodium thiosulphate (hypo) → used in photography and as an antichlor (destroys leftover chlorine or hypochlorite after bleaching)."
+ },
+ "26-056": {
+  "r": "Fixer in photography (hypo solution) → sodium thiosulphate; also used in extracting gold and silver.",
+  "h": "Hypo fixes the photo."
+ },
+ "26-059": {
+  "r": "Useful compound in photography → silver bromide (light-sensitive); silver nitrate, sulfuric acid and citric acid are not it."
+ },
+ "26-060": {
+  "r": "Photographic plate coating → very fine crystals of silver bromide in gelatin (photosensitive emulsion).",
+  "t": "Silver bromide, not silver iodide or chloride."
+ },
+ "26-061": {
+  "r": "Smart film (PDLC film, switches glass from clear to frosted) → transparent conductive layer of indium tin oxide (ITO) on PET or glass."
+ },
+ "26-062": {
+  "r": "Night-glowing (glow-in-the-dark, phosphorescent) pigment → europium-doped strontium aluminate; used in safety signs, emergency exits, glow paints."
+ },
+ "26-063": {
+  "r": "Glazing pottery → zinc oxide; silicon dioxide, aluminium oxide, barium oxide and sodium oxide are also used in glazes."
+ },
+ "26-064": {
+  "r": "Deep blue colour in glass → cobalt oxide (coloured glass is made by adding colouring ions)."
+ },
+ "26-065": {
+  "r": "Ionic compounds (e.g. NaCl, KCl) → insoluble in alcohol (low dielectric constant); in solid state they are bad conductors (no free electrons) → only statement 1 correct."
+ },
+ "27-001": {
+  "r": "Simulated primitive Earth conditions → order of appearance: methane → hydrogen cyanide → nitrile → amino acid.",
+  "h": "Simple gas first, amino acid last: M-H-N-A."
+ },
+ "27-002": {
+  "r": "Carbon → fundamental element of all organic and bio-compounds; carbon atoms bond covalently, mostly with hydrogen, oxygen or nitrogen.",
+  "hi": [
+   "Organic compound (कार्बनिक यौगिक)"
+  ]
+ },
+ "27-004": {
+  "r": "Origin of life → carbon, hydrogen, nitrogen (the option set); biologists list six key elements: hydrogen, oxygen, carbon, nitrogen, phosphorus, sulfur."
+ },
+ "27-005": {
+  "r": "Increasing molecular weight → methane < ethane < propane < butane (1, 2, 3, 4 carbon atoms)."
+ },
+ "27-006": {
+  "r": "Alkene (olefin) → hydrocarbon with a carbon-carbon double bond; first three: ethylene, propylene, butylene.",
+  "t": "Don't confuse alkene ('-ene', double bond) with alkane or alkyne."
+ },
+ "27-007": {
+  "r": "Melting points, decreasing → acetic acid (16.6°C) > chloroform (–63.5°C) > ethanol (–114.1°C) > methane (–182.5°C)."
+ },
+ "27-008": {
+  "r": "Cigarette lighter gas → butane, a flammable hydrocarbon; a Natural Gas Liquid (NGL)."
+ },
+ "27-009": {
+  "r": "Bhopal Gas Tragedy (night of 2-3 December 1984, Union Carbide pesticide plant) → leak of 42 tonnes of methyl isocyanate (MIC).",
+  "t": "Not carbon monoxide or sulfur dioxide: MIC is the Bhopal gas."
+ },
+ "27-012": {
+  "r": "Printing ink → from methane: methane is used to make carbon black, which makes black printing ink. Methane is found in marshy areas."
+ },
+ "27-013": {
+  "r": "Methane-producing field → paddy (rice) fields, a major source of atmospheric methane: about 50 to 100 million tonnes a year."
+ },
+ "27-014": {
+  "r": "Correct pairs: electrocardiography → heart disorder; nicotine → tobacco. Wrong: biogas comes from cow-dung, and DDT is an insecticide."
+ },
+ "27-015": {
+  "r": "Ethephon (ethrel) → fruit ripening; it releases ethylene when dissolved in water; a substitute for calcium carbide."
+ },
+ "27-016": {
+  "r": "Calcium carbide (CaC2) → used for artificial ripening of fruit; it produces acetylene gas, a ripening agent like ethylene."
+ },
+ "27-018": {
+  "r": "Fruit ripening → ethylene, a natural plant hormone.",
+  "hi": [
+   "Plant hormone (पादप हार्मोन)"
+  ]
+ },
+ "27-019": {
+  "r": "Gas welding → mixture of oxygen and acetylene."
+ },
+ "27-021": {
+  "r": "Acetylene (ethyne) → used in welding; gives vinyl chloride for plastics; made from calcium carbide (not silicon carbide) + water → statements 1, 2 correct."
+ },
+ "27-022": {
+  "r": "Benzene (6 C, 6 H; hexagonal ring) → 12 sigma bonds (6 C–C + 6 C–H) and 3 pi bonds."
+ },
+ "28-001": {
+  "r": "Ethyl alcohol made unfit (poisonous) for drinking → by adding methanol and pyridine."
+ },
+ "28-002": {
+  "r": "Hooch (spurious liquor) tragedies causing blindness and death → methyl alcohol (methanol), poisonous in any ratio.",
+  "t": "Ethyl alcohol is drinking alcohol; methyl alcohol is the poison."
+ },
+ "28-003": {
+  "r": "Wood spirit → methyl alcohol (CH3OH), obtained by destructive distillation of wood."
+ },
+ "28-004": {
+  "r": "Fermentation of sugar (glucose and fructose) → ethyl alcohol.",
+  "hi": [
+   "Fermentation (किण्वन)"
+  ]
+ },
+ "28-005": {
+  "r": "Zymase (in yeast) → glucose to ethanol + CO2. Invertase → sucrose to glucose + fructose; maltase → maltose to glucose; diastase → starch to maltose.",
+  "h": "Zymase = last step to alcohol; invertase inverts cane sugar."
+ },
+ "28-006": {
+  "r": "Molasses → raw material for alcohol (rum, 45 to 55% alcohol). Brandy → grapes; whisky → barley, corn; beer → barley; cider → apple."
+ },
+ "28-007": {
+  "r": "Beer → fermentation of malt from germinated barley grains; ingredients barley, water, hops, yeast. Whisky is also made from fermented barley."
+ },
+ "28-008": {
+  "r": "Police breath test (old breathalyzer) → potassium dichromate-sulfuric acid; alcohol turns orange dichromate green (alcohol oxidised to acetic acid)."
+ },
+ "29-001": {
+  "r": "Natural rubber → polymer of isoprene (monomer). Polymer = many small monomer molecules joined into one big molecule.",
+  "hi": [
+   "Polymer (बहुलक)"
+  ]
+ },
+ "29-003": {
+  "r": "Nylon → not a natural polymer (synthetic); wool, silk and leather are natural polymers."
+ },
+ "29-005": {
+  "r": "Ghee → not a polymer; starch, protein and cotton are natural polymers."
+ },
+ "29-006": {
+  "r": "Natural silk → protein fibre from moth larvae cocoons; nitrogen is its constituent element."
+ },
+ "29-007": {
+  "r": "Cellulose and starch → both made of (+)-glucose units; starch has about 10 to 30% amylose and 70 to 90% amylopectin."
+ },
+ "29-008": {
+  "r": "Most abundant organic compound → cellulose, a carbohydrate (polysaccharide of β-D-glucose); chief cell-wall material; wood is mostly cellulose, purest natural form cotton.",
+  "hi": [
+   "Cellulose (सेलुलोज़)"
+  ]
+ },
+ "29-010": {
+  "r": "Non-cellulosic fibre → nylon (also polyesters); rayon, cotton, hemp, jute and linen are made of cellulose."
+ },
+ "29-011": {
+  "r": "Incorrect: acrylic is artificial silk → rayon (from wood pulp) is artificial silk; acrylic resembles wool. Correct: cotton absorbs moisture, polycarbonate CDs, Teflon non-stick.",
+  "t": "Rayon = artificial silk; acrylic = like wool."
+ },
+ "29-012": {
+  "r": "Not a thermoplastic → neoprene (polychloroprene), a synthetic rubber made by polymerising chloroprene; Teflon, polystyrene, polythene are the thermoplastics here."
+ },
+ "29-013": {
+  "r": "PVC (polyvinyl chloride) → synthetic, not biodegradable; cellulose, starch and protein are natural, biodegradable polymers.",
+  "hi": [
+   "Biodegradable (जैव-निम्नीकरणीय)"
+  ]
+ },
+ "29-014": {
+  "r": "The book gives no single answer (*): polythene is made by polymerising ethylene, which is not among methane, ethane, propane, butane."
+ },
+ "29-016": {
+  "r": "Book's answer: polyethylene is the 'gas' obtained from plastic.",
+  "c": "Polyethylene is not a gas; it is the plastic itself, made by polymerising ethylene gas. Learn it as polythene = polymer of ethylene."
+ },
+ "29-017": {
+  "r": "Melamine → thermosetting plastic (sets permanently, cannot be remelted); used for floor tiles, kitchenware, laminates, adhesives, fire-retardant materials.",
+  "hi": [
+   "Thermosetting plastic (तापदृढ़ प्लास्टिक)"
+  ]
+ },
+ "29-018": {
+  "r": "PET (polyethylene terephthalate, polyester thermoplastic) → fibres blend with wool and cotton; bottles recyclable. Not safe for alcohol; incineration emits greenhouse gases → 1, 3 correct."
+ },
+ "29-019": {
+  "r": "All three contain plastic: cigarette butts (cellulose acetate filters), eyeglass lenses (plastic polymers), car tyres (part synthetic rubber)."
+ },
+ "29-020": {
+  "r": "Hydrogels (water-holding polymer networks) → used in controlled drug delivery; not used at present in mobile air-conditioning. Book's answer: 1 only.",
+  "c": "UPSC's answer is (a) 1 only, as printed. The book's explanation also calls point 3 (industrial lubricants) correct, which would fit no option; treat that line as a slip."
+ },
+ "29-021": {
+  "r": "Bulletproof vests and helmets → Kevlar, a para-aromatic polyamide fibre (poly-paraphenylene terephthalamide); layers of laminated glass are also used.",
+  "h": "Kevlar = polyamide = bulletproof jacket."
+ },
+ "29-026": {
+  "r": "Bullet-proof windows/glass → polycarbonate with layers of laminated glass; the book also links laminated glass to bulletproof jackets."
+ },
+ "29-028": {
+  "r": "Bulletproof materials → Kevlar (polyamide) and Lexan (polycarbonate); Glyptal is a condensation polymer for paints and lacquers."
+ },
+ "29-029": {
+  "r": "True: Teflon and Dacron are polymers; neoprene is synthetic rubber; polythene is polyethylene. False: natural rubber is isoprene, not chloroprene.",
+  "t": "Isoprene → natural rubber; chloroprene → neoprene (synthetic)."
+ },
+ "29-030": {
+  "r": "Non-stick coating on utensils → Teflon = polytetrafluoroethylene (PTFE), a solid fluorocarbon; melting point about 327°C."
+ },
+ "29-034": {
+  "r": "Teflon (polytetrafluoroethylene) → polymer of the monomer tetrafluoroethylene."
+ },
+ "29-036": {
+  "r": "Not a polymer → caprolactam (CPL), an organic compound used as raw material for nylon; nylon, Teflon, polystyrene are polymers."
+ },
+ "29-037": {
+  "r": "Not synthetic → fibroin, the insoluble natural protein of silk (with sericin), e.g. from Bombyx mori; Lexan, neoprene and Teflon are synthetic."
+ },
+ "29-038": {
+  "r": "PHBV → poly(3-hydroxybutyrate-co-3-hydroxyvalerate): biodegradable, non-toxic polyester copolymer made by bacterial fermentation of sugars or lipids."
+ },
+ "29-039": {
+  "r": "PFAS (perfluoroalkyl and polyfluoroalkyl substances) → widespread in drinking water, food, packaging; strong C–F bond so hardly degrade; bioaccumulate → all 3 correct."
+ },
+ "29-040": {
+  "r": "Bisphenol A (BPA) → key component of polycarbonate plastics and epoxy resins; used in food packaging since the 1960s; can leach into food.",
+  "hi": [
+   "Polycarbonate (पॉलीकार्बोनेट)"
+  ]
+ },
+ "29-042": {
+  "r": "Phenol → used to make Bakelite, a thermosetting phenol-formaldehyde resin (condensation of phenol + formaldehyde) developed by Leo Baekeland in 1907."
+ }
+}

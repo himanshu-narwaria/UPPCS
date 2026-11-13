@@ -1,0 +1,166 @@
+{
+ "64-028": {
+  "r": "Lederberg → transduction and conjugation in bacteria; Morgan → sex-linked inheritance; Kornberg → DNA polymerase from E. coli; Khorana → complete genetic code.",
+  "t": "Ochoa is the extra name in List-II."
+ },
+ "64-029": {
+  "r": "Gene/DNA mapping on chromosomes → helps know livestock pedigree and develop disease-resistant breeds (1, 3); cannot explain causes of all human diseases."
+ },
+ "64-030": {
+  "r": "First complete genome sequence of a eukaryote (1996) → budding yeast, Saccharomyces cerevisiae.",
+  "hi": [
+   "Yeast (खमीर)"
+  ]
+ },
+ "64-031": {
+  "r": "Human Genome Project → identification and mapping of human genes and their sequences.",
+  "hi": [
+   "Genome (जीनोम)"
+  ]
+ },
+ "64-032": {
+  "r": "Stem cells → can divide and become any type of body cell, and renew themselves; types: embryonic, induced pluripotent, adult (somatic).",
+  "hi": [
+   "Stem cells (स्तंभ कोशिकाएँ)"
+  ]
+ },
+ "64-033": {
+  "r": "Stem cells → used for screening new drugs and for medical therapies (2, 3); not from mammals only (found in multicellular organisms)."
+ },
+ "64-034": {
+  "r": "Stem cells regenerate in vitro virtually forever; Indian centres created cell lines (3, 4 true). Not only from blastocyst embryos: also fetus, umbilical cord, placenta, adults."
+ },
+ "64-036": {
+  "r": "Non-controversial alternative to embryonic stem cells → bone marrow-derived (adult) stem cells.",
+  "hi": [
+   "Bone marrow (अस्थि मज्जा)"
+  ]
+ },
+ "64-037": {
+  "r": "All true (CRISPR-Cas9 era): genes can be changed in egg/sperm-producing cells; genome edited at early embryo stage; human induced pluripotent stem cells injected into pig embryo."
+ },
+ "64-038": {
+  "r": "Somatic Cell Nuclear Transfer (SCNT) → reproductive cloning of animals (also therapeutic cloning); somatic cell nucleus put into an enucleated egg."
+ },
+ "64-039": {
+  "r": "Hybridoma technology (B cell fused with myeloma cell) → commercial production of monoclonal antibodies; developed by Georges Kohler and Cesar Milstein."
+ },
+ "64-041": {
+  "r": "Plant Field Gene Bank, Banthara → preserves endangered plants, checks biopiracy, identifies economically important wild plants (all of the above)."
+ },
+ "64-042": {
+  "r": "Patents Act 1970, Sec 3(j): plants, seeds, varieties and essentially biological processes for plants are not patentable → only statement 3 correct.",
+  "c": "True now: the IPAB (set up in 2003) was abolished by the Tribunals Reforms Act, so statement 2 now holds and the answer would be (b). The 1958 body the book cites was the Copyright Board."
+ },
+ "64-043": {
+  "r": "Insect-resistant (Bt) cotton → gene from bacterium Bacillus thuringiensis; developed by US company Monsanto.",
+  "hi": [
+   "Bacterium (जीवाणु)"
+  ]
+ },
+ "64-047": {
+  "r": "Bollgard I (single-gene Bt cotton, 2002) and Bollgard II (double-gene, 2006), approved by GEAC → GM crops against American bollworm (Heliothis armigera)."
+ },
+ "64-048": {
+  "r": "Bt brinjal → pest (insect) resistant; Cry1Ac gene from soil bacterium Bacillus thuringiensis; guards against shoot-borer and fruit-borer.",
+  "hi": [
+   "Brinjal (बैंगन)"
+  ]
+ },
+ "64-052": {
+  "r": "GM mustard DMH-11 (Dhara Mustard Hybrid-11, Brassica juncea), by Deepak Pental, Delhi University → Bacillus amyloliquefaciens genes enable cross-pollination and hybridisation (only 2 true).",
+  "t": "Not pest resistance, and not made by IARI and Punjab Agricultural University."
+ },
+ "64-053": {
+  "r": "GM plants (besides pest resistance) → drought tolerance, higher nutritive value, longer shelf life (1, 2, 4); not for photosynthesis in spaceships."
+ },
+ "64-054": {
+  "r": "Genome sequencing in agriculture → finds markers for disease resistance and drought tolerance, cuts time to breed varieties, decodes host-pathogen relations (all)."
+ },
+ "64-055": {
+  "r": "Flavr Savr tomato → first commercialised GM food (antisense PG gene); ripe fruit stays firm longer, can be vine-ripened then transported (A, B true)."
+ },
+ "64-056": {
+  "r": "Transgenic crops → made using cytoplasmic male sterility and gene silencing (2, 3); budding and grafting do not change plant genes."
+ },
+ "64-057": {
+  "r": "Biopesticides → some species of bacteria, fungi and flowering plants are all used (1, 2 and 3).",
+  "hi": [
+   "Biopesticide (जैव कीटनाशक)"
+  ]
+ },
+ "64-058": {
+  "r": "Microbial insecticide → Bacillus thuringiensis (Bt), Gram-positive soil bacterium whose toxin kills certain insects; sprayed since 1920; source of Bt crop genes."
+ },
+ "64-059": {
+  "r": "Bacillus thuringiensis (Bt) → used as a biological insecticide (pesticide), not a biofertilizer.",
+  "t": "Bt = biopesticide; Rhizobium, Azotobacter = biofertilizers."
+ },
+ "64-060": {
+  "r": "Terminator seed technology → plants cannot form viable (germinable) seeds; works by inserting three genes (one stops embryo germination, controlled by recombinase).",
+  "hi": [
+   "Seed (बीज)"
+  ]
+ },
+ "64-063": {
+  "r": "Golden rice → transgenic rice (Oryza sativa) making beta-carotene (vitamin A precursor) to fight vitamin A deficiency, world's leading cause of child blindness.",
+  "hi": [
+   "Transgenic (पारजीनी)"
+  ]
+ },
+ "64-071": {
+  "r": "Golden rice → two genes from daffodil and one from bacterium Erwinia uredovora make beta-carotene; by Ingo Potrykus and Peter Beyer."
+ },
+ "64-072": {
+  "r": "Wrong pair: Ozone layer – troposphere; ozone layer is in the stratosphere. Correct: renneting–cheese, genetic engineering–plasmids, golden rice–vitamin A.",
+  "hi": [
+   "Stratosphere (समतापमंडल)"
+  ]
+ },
+ "64-073": {
+  "r": "Super rice → Gurdev Singh Khush, IRRI (Philippines); research began 1989; World Food Prize 1996 with Henry Beachell."
+ },
+ "64-074": {
+  "r": "Amniocentesis (amniotic fluid test) → prenatal diagnosis of chromosomal abnormalities; also used for foetal sex determination.",
+  "hi": [
+   "Foetus (भ्रूण)"
+  ]
+ },
+ "64-075": {
+  "r": "Transcriptome → full set of mRNA molecules expressed by an organism's genes; varies with environment, unlike the roughly fixed genome."
+ },
+ "64-076": {
+  "r": "Arthur Kornberg → synthesised DNA in vitro; Nobel Prize in Physiology or Medicine 1959 (mechanism of DNA synthesis)."
+ },
+ "64-077": {
+  "r": "Biofilms (attached microbe communities in self-made matrix) → form on medical implants, food and food-processing surfaces; show antibiotic resistance (all true)."
+ },
+ "64-078": {
+  "r": "Biochip → microchip for biological use; DNA, RNA and protein chips exist (all three)."
+ },
+ "64-079": {
+  "r": "Genico technology → technique giving advance (prenatal) information about genetic diseases in the foetus."
+ },
+ "64-080": {
+  "r": "Aerial metagenomics → collecting DNA samples from the air of a habitat at one go (study of genetic material from air)."
+ },
+ "64-081": {
+  "r": "Biotechnology → use of living organisms or their substances in industrial processes (e.g. yeast for making liquor).",
+  "hi": [
+   "Biotechnology (जैव प्रौद्योगिकी)"
+  ]
+ },
+ "64-082": {
+  "r": "Biofilters in Recirculating Aquaculture System → remove waste and uneaten feed; convert ammonia to nitrate (1, 2 true); do not add phosphorus → only two."
+ },
+ "64-083": {
+  "r": "Gene mapping → recently evolved genetic engineering method: locating genes and relative distances between them on a chromosome."
+ },
+ "64-084": {
+  "r": "Plasmid → extranuclear DNA of bacteria, carries genes between cells and species; used in genetic engineering.",
+  "t": "Plasmid (DNA carrier) ≠ plastid (option a)."
+ },
+ "64-085": {
+  "r": "Most useful bacteria in genetic engineering → Escherichia coli and Agrobacterium tumefaciens (Ti plasmid carries genes into plants)."
+ }
+}

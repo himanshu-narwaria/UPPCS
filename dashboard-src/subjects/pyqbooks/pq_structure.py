@@ -35,8 +35,11 @@ def blocks_text(blocks, limit=None):
     return s if limit is None or len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + " … [shortened in this brief; the book continues]"
 
 
+SUBSUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉", "01234567890123456789")
+
+
 def norm(s):
-    return re.sub(r"[^a-z0-9]", "", s.lower())
+    return re.sub(r"[^a-z0-9]", "", s.lower().translate(SUBSUP))     # "CO₂" keys like "CO2"
 
 
 def paper(tag):

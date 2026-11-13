@@ -1,0 +1,131 @@
+{
+  "65-075": {
+    "r": "Wrong pair: Rayon – modified starch; rayon is regenerated cellulose fibre (from wood). Correct: oxytocin–hormone, aspartame–synthetic sweetener, neoprene–specialised rubber."
+  },
+  "65-076": {
+    "r": "Wrong pair: Rayon – modified starch; rayon is regenerated cellulose fibre. Correct: wool–protein, rubber–natural polymer, fullerene–allotrope of carbon.",
+    "t": "Rayon = cellulose, not starch."
+  },
+  "65-077": {
+    "r": "Silk fibre, hair, nails and claws → made of keratin protein.",
+    "hi": ["Keratin (केराटिन)"]
+  },
+  "65-078": {
+    "r": "Cotton → NOT a protein (almost pure cellulose, grows in a boll around seeds); hair, spider silk and hoof are proteins.",
+    "hi": ["Cellulose (सेल्यूलोज)"]
+  },
+  "65-079": {
+    "r": "Sunn hemp (Crotalaria juncea, legume family Fabaceae, from India) → plant fibre obtained from the stem; also green manure and fodder."
+  },
+  "65-080": {
+    "r": "Bull semen for artificial insemination → stored in liquid nitrogen (–320°F; no fertility loss with age); dry ice-alcohol (–100°F) loses fertility.",
+    "hi": ["Artificial insemination (कृत्रिम गर्भाधान)"]
+  },
+  "65-082": {
+    "r": "Kadaknath ('Kali Masi', black-fleshed) → Indian chicken (fowl) breed from Dhar and Jhabua, Madhya Pradesh; meat got GI tag on 30 July 2018.",
+    "hi": ["Fowl (मुर्गी)"]
+  },
+  "65-083": {
+    "r": "Holstein-Friesian → world's highest milk-yielding cow breed (Netherlands origin), about 25,000 pounds of milk per lactation."
+  },
+  "65-084": {
+    "r": "Wrong pair: Sheep – Tharparkar; Tharparkar is a cow breed. Correct: buffalo–Bhadawari, cow–Sindhi, goat–Jamunapari."
+  },
+  "65-085": {
+    "r": "Rashtriya Gokul Mission → conserve and develop indigenous cow breeds; Rs 500 crore in the 12th Five Year Plan.",
+    "hi": ["Indigenous breed (देशी नस्ल)"]
+  },
+  "65-086": {
+    "r": "Myoglobin → muscle cell; Sarpgandha → tranquilizer; Carcinoma → radiotherapy; Haemoglobin → oxygen transport."
+  },
+  "65-087": {
+    "r": "Bulimia → eating disorder; Cholesterol → egg-yolk; Atropine → alkaloid; Insulin → pancreas."
+  },
+  "65-088": {
+    "r": "Indian scientists' diode of cadmium sulphide nanoparticles → made using yeast Schizosaccharomyces pombe; useful in device miniaturisation."
+  },
+  "65-089": {
+    "r": "Anaesthetics → chloroform and nitrous oxide (1, 2); nitrous oxide = mild anaesthetic gas. First: diethyl ether by Morton, 1846; chloroform by Simpson, 1847.",
+    "hi": ["Anaesthetic (निश्चेतक)"]
+  },
+  "65-091": {
+    "r": "Cardiologist → heart; Nephrologist → kidney; Urologist → urinary tract; Oculist → eye.",
+    "h": "Nephros = kidney; oculus = eye."
+  },
+  "65-092": {
+    "r": "Neurology → nervous system (correct). Cardiology → heart, circulation; Gastroenterology → digestive system; Urology → urinary tract."
+  },
+  "65-093": {
+    "r": "Colostrum → NOT banned for athletes (IOC calls it a safe supplement); human growth hormone, testosterone, erythropoietin are banned."
+  },
+  "65-094": {
+    "r": "Wrong pair: Saccharin – carbohydrate; saccharin is a synthetic artificial sweetener (300-400 times sweeter than sucrose). Correct: adrenaline–hormone, thiamine–vitamin, keratin–protein."
+  },
+  "65-095": {
+    "r": "Wrong pair: Antiseptic – phenolphthalein; it is an acid-base indicator (also laxative). Correct: nucleus–control centre, natural rubber–polyisoprene, cryolite–aluminium ore."
+  },
+  "65-096": {
+    "r": "Saheli → CDRI Lucknow's centchroman (ormeloxifene) pill, marketed by HLL; world's first non-steroidal oral contraceptive (1991), taken once a week."
+  },
+  "65-097": {
+    "r": "Contraceptive pills (regular and emergency) → mainly synthetic progestogen levonorgestrel."
+  },
+  "65-098": {
+    "r": "Monitoring foetal growth → ultrasonics (ultrasound imaging), not X-rays.",
+    "hi": ["Ultrasound (पराध्वनि)"]
+  },
+  "65-099": {
+    "r": "Birbal Sahni → paleobotany; K.C. Mehta → plant pathology; P. Maheshwari → embryology; M.S. Swaminathan → Green Revolution."
+  },
+  "65-100": {
+    "r": "Dr. Pramod Karan Sethi → Jaipur prosthetic foot. Verghese Kurien → co-operative movement; Malcolm Adiseshiah → development economics; Abdul Kalam → space."
+  },
+  "65-101": {
+    "r": "Invasive Species Specialist Group (manages Global Invasive Species Database, developed 1998-2000) → belongs to IUCN."
+  },
+  "65-102": {
+    "r": "India (April 2025) is NOT party to the Occupational Safety and Health Convention; it is party to CITES (1976), World Heritage Convention (1977), IWC (since 1981)."
+  },
+  "65-103": {
+    "r": "Indian Veterinary Research Institute (IVRI) → Izatnagar, Bareilly (Uttar Pradesh)."
+  },
+  "65-105": {
+    "r": "CDRI (Central Drug Research Institute) → Lucknow."
+  },
+  "65-106": {
+    "r": "Survey of India (national mapping agency, set up 1767) → under Ministry of Science and Technology."
+  },
+  "65-107": {
+    "r": "Survey of India headquarters → Dehradun."
+  },
+  "65-108": {
+    "r": "Wrong pair: Central Electrochemical Research Institute is at Karaikudi (Tamil Nadu), not Kolkata. Correct: CDRI–Lucknow, CCMB–Hyderabad, Central Salt Research Institute–Bhavnagar."
+  },
+  "65-109": {
+    "r": "ICAR's Central Institute for Research on Goats → Makhdoom (near Farah), Mathura, Uttar Pradesh; set up 12 July 1979."
+  },
+  "65-110": {
+    "r": "High Security Animal Disease Laboratory → Bhopal, Madhya Pradesh."
+  },
+  "65-111": {
+    "r": "Central Institute of Medicinal and Aromatic Plants (CIMAP, a CSIR institute) → Lucknow."
+  },
+  "65-112": {
+    "r": "Non-CSIR Lucknow institute → BSIP (Birbal Sahni Institute of Palaeosciences), autonomous under DST (plant fossil research); CIMAP, NBRI, CDRI are CSIR."
+  },
+  "65-113": {
+    "r": "Wrong pair: Indian Institute of Vegetable Research is at Varanasi, not Gorakhpur. Correct: Organic Farming centre–Ghaziabad, Pulses–Kanpur, Sugarcane–Lucknow."
+  },
+  "65-114": {
+    "r": "National Institute for the Mentally Handicapped → Secunderabad (Hyderabad); now National Institute for the Empowerment of Persons with Intellectual Disabilities."
+  },
+  "65-115": {
+    "r": "Central Drug Research Institute → Lucknow; Central Leprosy Institute (JALMA) → Agra; Motilal Nehru NIT → Allahabad; Indian Institute of Sugar Technology → Kanpur."
+  },
+  "65-116": {
+    "r": "CIMAP → Lucknow; Centre for DNA Fingerprinting and Diagnostics → Hyderabad; Institute of Microbial Technology → Chandigarh; National Institute of Immunology → New Delhi."
+  },
+  "65-117": {
+    "r": "National Institute of Virology → Pune (ICMR); formerly Virus Research Centre (with Rockefeller Foundation); WHO H5 reference lab for South-East Asia."
+  }
+}

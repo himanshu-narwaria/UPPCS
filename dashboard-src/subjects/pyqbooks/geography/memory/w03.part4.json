@@ -1,0 +1,180 @@
+{
+ "49-047": {
+  "r": "Bhadra → Karnataka; Bhavani Sagar → Tamil Nadu; Gandhi Sagar → Madhya Pradesh; Rana Pratap Sagar → Rajasthan."
+ },
+ "49-048": {
+  "r": "Wrong pair: Tilaiya Dam — Konar; Tilaiya is on the Barakar (Koderma, Jharkhand). Sardar Sarovar → Narmada; Gandhi Sagar → Chambal; Nagarjuna Sagar → Krishna."
+ },
+ "49-049": {
+  "r": "Wrong pair: Nagarjuna Sagar — Godavari; it is on the Krishna. Nangal → Sutlej; Sardar Sarovar → Narmada; Hirakud → Mahanadi."
+ },
+ "49-050": {
+  "r": "Govind Ballabh Pant Sagar → Pipri, Sonbhadra district, Uttar Pradesh; on Rihand, a tributary of the Son."
+ },
+ "49-051": {
+  "r": "Govind Ballabh Pant Sagar → Uttar Pradesh (on Rihand at Pipri, Sonbhadra district)."
+ },
+ "49-052": {
+  "r": "Betwa → Matatila; Mahanadi → Hirakud; Chambal → Gandhi Sagar; Tapi → Kakrapar."
+ },
+ "49-053": {
+  "r": "Mata Tila Dam → Betwa river, Lalitpur district, Uttar Pradesh."
+ },
+ "49-054": {
+  "r": "Gandak Project → India-Nepal agreement (4 Dec 1959); Indian partner states Bihar and Uttar Pradesh; Gandak Barrage built 1968-69; Nepal also gets electricity."
+ },
+ "49-055": {
+  "r": "Kishau Dam → on Tons (major Yamuna tributary, Himachal-Uttarakhand boundary); primary beneficiaries Uttarakhand and Himachal Pradesh; other states also benefit.",
+  "c": "The book gives no single answer (*): Uttarakhand and Himachal Pradesh are the primary beneficiaries, but the book says other states/UT also benefit."
+ },
+ "49-056": {
+  "r": "Tilaiya → Barakar; Panchet Hill → Damodar; Rana Pratap Sagar → Chambal; Matatila → Betwa."
+ },
+ "49-057": {
+  "r": "Rihand Project → Rihand; Nagarjun Sagar → Krishna; Pochampad → Godavari; Matatila → Betwa."
+ },
+ "49-058": {
+  "r": "Dam not for irrigation → Shivasamudram (Kaveri, Karnataka), built 1902 for electricity generation."
+ },
+ "49-059": {
+  "r": "Babli Project → controversial reservoir built by Maharashtra across the Godavari."
+ },
+ "49-060": {
+  "r": "Doolhasti → Chenab; Gandhisagar → Chambal; Ukai → Tapi; Tawa → Tawa."
+ },
+ "49-061": {
+  "r": "Malampuzha Dam → on Malampuzha river (Bharathpuzha tributary) near Palakkad; Kerala's largest reservoir; built by the Tamil Nadu government."
+ },
+ "49-062": {
+  "r": "Singrauli Small Hydro Power Project → Sonbhadra district, Uttar Pradesh (two units of 4 MW each)."
+ },
+ "49-063": {
+  "r": "Cheruthoni Dam → on Cheruthoni river, a Periyar tributary, Idukki district, Kerala."
+ },
+ "49-064": {
+  "r": "Rajasthan projects: Sidhmukh → Hanumangarh, Churu; Narmada → Jalore, Barmer; Jawai → Jalore, Pali, Jodhpur; Jakham → Udaipur, Pratapgarh."
+ },
+ "49-065": {
+  "r": "Kol Dam Project → River Sutlej; built by NTPC (National Thermal Power Corporation)."
+ },
+ "49-066": {
+  "r": "Mandal Dam (North Koel project) → North Koel river (Son tributary), Palamu-Garhwa, Jharkhand; foundation laid by PM Modi on 5 January 2019."
+ },
+ "49-067": {
+  "r": "Aliyar, Isapur, Kangsabati → all water reservoirs (Aliyar near Annamalai Hills; Isapur on Penganga, Maharashtra; Kangsabati earthen dam, West Bengal)."
+ },
+ "49-068": {
+  "r": "Kelo Irrigation Project (Raigarh, Chhattisgarh; Kelo is a Mahanadi tributary) → included under Prime Minister Irrigation Project."
+ },
+ "49-069": {
+  "r": "States in water tribunals: Mahadayi → 3; Godavari → 5 (now 7); Narmada → 4; Mahanadi → 2.",
+  "hi": [
+   "Tribunal (न्यायाधिकरण)"
+  ]
+ },
+ "49-070": {
+  "r": "Large dams, descending (among options): Madhya Pradesh > Gujarat > Rajasthan > Telangana > Andhra Pradesh. Overall most: Maharashtra, then MP, Gujarat."
+ },
+ "49-071": {
+  "r": "Three wrong pairs: Ghataprabha → Karnataka (not Telangana); Indira Sagar → Madhya Pradesh (not Andhra Pradesh); Maithon → Jharkhand (not Chhattisgarh). Only Gandhi Sagar → MP correct."
+ },
+ "49-072": {
+  "r": "Mangdechhu Hydropower Plant, Bhutan → inaugurated by Indian PM Narendra Modi in 2019."
+ },
+ "50-001": {
+  "r": "Permaculture vs chemical farming: permaculture discourages monoculture, avoids soil salinity, relies on mulching; it works even in semi-arid regions (answer 1, 2, 4).",
+  "hi": [
+   "Mulching (पलवार)"
+  ]
+ },
+ "50-002": {
+  "r": "Zero tillage advantages: wheat sown without burning residue, paddy seeds sown directly without nursery, soil carbon sequestration → all three.",
+  "hi": [
+   "Zero tillage (शून्य जुताई)"
+  ]
+ },
+ "50-003": {
+  "r": "Fertigation (fertilizer via drip water) → controls water alkalinity, raises nutrient availability, cuts leaching; not rock/super phosphate (precipitates) → answer 1, 3, 4."
+ },
+ "50-004": {
+  "r": "Eco-friendly agriculture in India: crop diversification, legume intensification (fixes nitrogen), tensiometer use, vertical farming → all four."
+ },
+ "50-005": {
+  "r": "'The History of Indian Agriculture' → M.S. Randhawa (Mohinder Singh Randhawa), key figure in Green Revolution research."
+ },
+ "50-006": {
+  "r": "India: 15 agro-climatic regions (resource development) and 20 agro-ecological regions (NBSS&LUP); statements I and II swap these numbers.",
+  "h": "C before E, 15 before 20: Climatic 15, Ecological 20.",
+  "c": "The explanation repeats statement III as a fact, but (b) needs III to be false, and it is: the cold arid eco-region (Ladakh) is only a part of the much larger Western Himalayan agro-climatic region."
+ },
+ "50-007": {
+  "r": "Upper Gangetic agro-climatic region → central and western UP; irrigation intensity about 131% (>130%), cropping intensity about 142% (>140%) → both true."
+ },
+ "50-008": {
+  "r": "Agro-ecological regions of India → 20 (National Bureau of Soil Survey); each uniform in physiography, climate, growing period, soil."
+ },
+ "50-009": {
+  "r": "Total Agro-ecological zones in India → 20.",
+  "t": "Don't confuse 20 agro-ecological zones with 15 agro-climatic regions."
+ },
+ "50-010": {
+  "r": "P. Sengupta and Galina Sdasyuk (1968 Census monograph) → India divided into 60 micro agricultural regions."
+ },
+ "50-011": {
+  "r": "Dry zone of India: agrarian economy (A true); large scope for second Green Revolution through irrigation (R true); R does not explain A."
+ },
+ "50-012": {
+  "r": "Seed Replacement Rate constraint → demand-supply gap of quality seeds for low-value, high-volume crops. National Seed Policy 2002 exists; private firms do supply (answer 3 only)."
+ },
+ "50-013": {
+  "r": "First agricultural university → G.B. Pant University of Agriculture and Technology, Pantnagar (as UP Agricultural University), inaugurated by Nehru, 17 November 1960."
+ },
+ "50-016": {
+  "r": "Safe storage → grain moisture at harvest not above 14% (FAO standard)."
+ },
+ "50-017": {
+  "r": "Land use in India ≈ net area sown 47%, forests 23%, others 30% (2022-23: net sown 45.88%, forest 23.49%, others 30.63%)."
+ },
+ "50-018": {
+  "r": "Double cropping → two crops on the same land at different times within one year (e.g. wheat, then corn); needs a long growing season.",
+  "hi": [
+   "Double cropping (दोहरी फसल)"
+  ]
+ },
+ "50-019": {
+  "r": "Mixed farming → crop cultivation and animal rearing together, with equal emphasis.",
+  "t": "Don't confuse mixed farming (crops + animals) with mixed cropping (two or more crops in one field).",
+  "hi": [
+   "Mixed farming (मिश्रित कृषि)"
+  ]
+ },
+ "50-021": {
+  "r": "Parallel cropping → two non-competing crops grown together in parallel rows, e.g. Wheat + Mustard."
+ },
+ "50-022": {
+  "r": "Sikkim → hilly, mostly forest; less than 10% of land available for agriculture (so most land left out of farming)."
+ },
+ "50-023": {
+  "r": "Indian agriculture: dependence on nature, low productivity, crop diversity; NOT large farms (small and marginal holdings dominate).",
+  "hi": [
+   "Marginal holding (सीमांत जोत)"
+  ]
+ },
+ "50-024": {
+  "r": "Low productivity of Indian agriculture: overcrowding, small land holdings, traditional practices → all of these."
+ },
+ "50-025": {
+  "r": "Green Revolution technology → turned traditional farming modern and scientific (irrigation, specialized seeds, fertilizers, pesticides, machinery). Book: A and R true, R not the explanation.",
+  "c": "The book treats R ('no big social and environmental costs') as true; the Green Revolution is widely known for such costs, so (c) 'A true, R false' is the stronger answer."
+ },
+ "50-026": {
+  "r": "Not a cause of low farm productivity: cooperative farming (a development measure). Causes: population pressure on land, disguised unemployment, small holdings.",
+  "hi": [
+   "Disguised unemployment (प्रच्छन्न बेरोजगारी)"
+  ]
+ },
+ "50-027": {
+  "r": "Average operational holding (Agriculture Census 2015-16): Punjab larger than Rajasthan. Rajasthan, Maharashtra, UP lead in total operated area. Book's answer: Rajasthan.",
+  "c": "Doubtful key: by average holding size Punjab is well ahead of Rajasthan (Agriculture Census 2015-16), so (a) Punjab fits better; Rajasthan, Maharashtra and UP lead only in total operated area."
+ }
+}

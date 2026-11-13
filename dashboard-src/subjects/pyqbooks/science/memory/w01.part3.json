@@ -1,0 +1,339 @@
+{
+  "05-001": {
+    "r": "Liquid (e.g. kerosene) → fixed volume, no fixed shape; solid (carbon steel) → fixed shape and volume; gas (krypton) → neither.",
+    "hi": [
+      "Liquid (द्रव)"
+    ]
+  },
+  "05-002": {
+    "r": "Only statement 2 is true: stretching of a coil depends on shear modulus. Statement 1 false: steel's Young's modulus is much greater than rubber's.",
+    "hi": [
+      "Elasticity (प्रत्यास्थता)"
+    ]
+  },
+  "05-003": {
+    "r": "Bulk modulus (K = stress/strain) of a perfectly rigid body is infinite: its volume never changes (ΔV = 0) under any pressure."
+  },
+  "05-004": {
+    "r": "Both true: coefficients of linear expansion (α = ΔL/LΔT) and volume expansion (γ) have dimension K⁻¹ (per unit change in temperature)."
+  },
+  "05-005": {
+    "r": "Same material and load: elongation ∝ length ÷ (diameter)² → the 3 m long, 1.5 mm thick wire stretches most."
+  },
+  "05-006": {
+    "r": "Raindrops are spherical due to surface tension: a liquid drop takes the least surface area, and a sphere has the least area for its volume.",
+    "hi": [
+      "Surface tension (पृष्ठ तनाव)"
+    ]
+  },
+  "05-010": {
+    "r": "Oil spreads on water because oil's surface tension is less than water's; water's stronger surface tension pulls the oil in all directions."
+  },
+  "05-011": {
+    "r": "Kerosene floats on water because its density is less than that of water.",
+    "t": "Floating depends on density; spreading of oil on water depends on surface tension."
+  },
+  "05-012": {
+    "r": "Pressure inside a soap bubble is more than atmospheric pressure; soap reduces the surface tension of water."
+  },
+  "05-013": {
+    "r": "Excess pressure in a soap bubble ∝ 1/radius: joined by a tube, air flows from the small to the big bubble → small shrinks, big grows."
+  },
+  "05-014": {
+    "r": "Rising hydrogen balloon → outside air pressure falls while inside pressure stays nearly constant → balloon increases in size."
+  },
+  "05-015": {
+    "r": "Charging a soap bubble increases its radius: the like charges spread over the surface and repel each other."
+  },
+  "05-016": {
+    "r": "Without capillarity, kerosene lamp wicks, blotting paper and tall trees would fail (1, 3, 4); drinking through a straw does not depend on capillarity.",
+    "hi": [
+      "Capillarity (केशिकत्व)"
+    ]
+  },
+  "05-017": {
+    "r": "Water rising from roots to leaves is not due to capillarity alone (also transpiration and cohesion); blotting ink, rising groundwater, water spreading on cotton are capillarity."
+  },
+  "05-018": {
+    "r": "Kerosene rises in a stove or lamp wick due to surface tension: the wick's many fine holes act as capillaries."
+  },
+  "05-019": {
+    "r": "Capillary rise is proportional to surface tension: a liquid with more surface tension than water rises higher."
+  },
+  "05-020": {
+    "r": "An air bubble rising from a lake bottom grows bigger: the water pressure on it falls as depth decreases."
+  },
+  "05-021": {
+    "r": "Fountain pens leak in planes (high altitude): outside air pressure is low, so the higher-pressure ink flows out."
+  },
+  "05-022": {
+    "r": "Hydraulic brakes, press and elevator → Pascal's law: pressure on a confined fluid is transmitted equally in all directions."
+  },
+  "05-023": {
+    "r": "Sudden fall in barometer reading → stormy weather (atmospheric pressure drops quickly as a storm begins)."
+  },
+  "05-024": {
+    "r": "Torricelli's law: velocity of efflux grows with the depth (h) of the hole, so the deepest hole (hole 1) throws water farthest."
+  },
+  "05-025": {
+    "r": "Streamlined flow in a pipe: liquid layers are slowest near the pipe wall and speed up towards the axis."
+  },
+  "05-026": {
+    "r": "Viscosity of a liquid decreases as temperature rises (water: 1.308 mPa·s at 10°C, 0.5471 at 50°C).",
+    "hi": [
+      "Viscosity (श्यानता)"
+    ]
+  },
+  "05-027": {
+    "r": "Viscosity = a fluid's resistance to flow; among water, air, blood and honey, honey has the highest."
+  },
+  "05-028": {
+    "r": "Most viscous among alcohol, water, honey and gasoline → honey (viscosity ≈ 'thickness' of a liquid)."
+  },
+  "05-029": {
+    "r": "A false: glycerin's (any liquid's) viscosity decreases with rising temperature. R true: heat increases the kinetic energy of molecules."
+  },
+  "05-030": {
+    "r": "Density depends on mass and volume (density = mass/volume), so adding more of a substance does not change its density."
+  },
+  "05-031": {
+    "r": "Lake surface freezes but the bottom stays liquid because water has maximum density (least volume) at 4°C."
+  },
+  "05-032": {
+    "r": "Aquatic animals survive frozen lakes: water is densest at 4°C, so a liquid layer at 4°C stays below the ice (winter stratification)."
+  },
+  "05-034": {
+    "r": "Water heated from 0°C to 10°C: volume first decreases (till 4°C, maximum density), then increases like other liquids."
+  },
+  "05-035": {
+    "r": "Water cooled from 9°C to 3°C: volume first decreases (till 4°C, maximum density) and then increases."
+  },
+  "05-036": {
+    "r": "Water is densest (least volume) at 4°C; between 0°C and 4°C it contracts on heating: anomalous expansion of water.",
+    "hi": [
+      "Anomalous expansion (असंगत प्रसार)"
+    ]
+  },
+  "05-038": {
+    "r": "Water's maximum density at 4°C = 4 + 273 = 277 K (K = °C + 273).",
+    "t": "273 K = 0°C; maximum density is at 4°C = 277 K."
+  },
+  "05-039": {
+    "r": "Avogadro's law: at the same temperature and pressure, equal volumes of all gases contain an equal number of molecules."
+  },
+  "05-040": {
+    "r": "Gases liquefy at low temperature and high pressure: pressure pushes molecules together, cooling lowers their kinetic energy.",
+    "hi": [
+      "Liquefaction (द्रवण)"
+    ]
+  },
+  "05-041": {
+    "r": "Distance between CO2 molecules in a container increases when its volume is increased or some gas leaks; it decreases with more pressure or more gas."
+  },
+  "05-042": {
+    "r": "Gas law: at fixed pressure volume ∝ kelvin temperature; gas at 27°C squeezed to half volume must double its kelvin temperature → three hundred twenty-seven °C."
+  },
+  "05-043": {
+    "r": "Iron floats on mercury but sinks in water: iron is denser than water but less dense than mercury. A true; R (iron's specific gravity > mercury's) false.",
+    "hi": [
+      "Relative density (आपेक्षिक घनत्व)"
+    ]
+  },
+  "05-045": {
+    "r": "Relative density of water = 1; above 1 sinks, below 1 floats. A needle is denser than water and sinks; a ship's effective density (m/v) is less, so it floats."
+  },
+  "05-046": {
+    "r": "An iron needle can float on water due to surface tension, whose upward force balances the needle's weight."
+  },
+  "05-047": {
+    "r": "A bucket feels heavier once out of water: in water, upthrust (Archimedes' principle) reduces apparent weight by the weight of water displaced.",
+    "hi": [
+      "Upthrust (उत्प्लावन बल)"
+    ]
+  },
+  "05-048": {
+    "r": "200 g of water in a weightless balloon weighs zero in water: weight − upthrust = 200 − 200 = 0."
+  },
+  "05-049": {
+    "r": "Clouds float because of their low density: the buoyant force of the surrounding air balances their weight."
+  },
+  "05-050": {
+    "r": "Ice is about 9/10 as dense as water; an iceberg floating in the denser sea keeps about 1/8 to 1/9 of itself above the surface."
+  },
+  "05-051": {
+    "r": "Floating ice displaces water equal to its own weight (Archimedes' principle), so when it melts the water level stays the same."
+  },
+  "05-053": {
+    "r": "A body floating in 4°C water (maximum density) sinks when the water reaches 100°C (lowest density)."
+  },
+  "05-054": {
+    "r": "Swimming is easier in the sea: dissolved salts raise water's density and upthrust."
+  },
+  "05-055": {
+    "r": "A body weighs most in hydrogen: the lightest gas gives the least upthrust (buoyant force)."
+  },
+  "05-056": {
+    "r": "A ship entering the sea from a river rises a little: salty sea water is denser than river water."
+  },
+  "06-001": {
+    "r": "Moon is non-luminous (it only reflects sunlight); candle flame, electric lamp and the Sun are luminous (give their own light).",
+    "hi": [
+      "Luminous object (दीप्त वस्तु)"
+    ]
+  },
+  "06-002": {
+    "r": "Photon energy E = hc/λ: shorter wavelength → more energy per quantum, so 200–280 nm (ultraviolet) is the most energetic option."
+  },
+  "06-003": {
+    "r": "Visible light = 400–700 nm; infrared above 700 nm; ultraviolet below 400 nm."
+  },
+  "06-004": {
+    "r": "Visible light ≈ 380–700 nm (3800–7000 Å), between infrared and ultraviolet; best option 390–780 nm (variant: 3900–7600 Å)."
+  },
+  "06-006": {
+    "r": "The eye is most sensitive to yellowish-green light of about 5550 Å (555 nm); nearest option 5500 Å."
+  },
+  "06-007": {
+    "r": "The eye is most sensitive to colours between yellow and green (wavelengths 530–570 nm)."
+  },
+  "06-008": {
+    "r": "False: eye most sensitive to red; it peaks at yellowish-green (555 nm). Ear most sensitive near 1000 Hz; persistence of hearing 1/10 s, of vision 1/16 s."
+  },
+  "06-009": {
+    "r": "Light has a dual nature: it behaves both as a wave and as a particle (black body radiation and photoelectric effect need the particle model).",
+    "hi": [
+      "Dual nature (द्वैत प्रकृति)"
+    ]
+  },
+  "06-010": {
+    "r": "Light appears to travel in a straight line because its wavelength is very small."
+  },
+  "06-011": {
+    "r": "Light is fastest: about 3 lakh km/s in vacuum (2 lakh km/s in glass); sound travels 343 m/s in air and not at all in vacuum."
+  },
+  "06-014": {
+    "r": "Speed of light in air depends on its optical density (refractive index), which changes with air's temperature, pressure and humidity, not its physical density.",
+    "c": "The book gives no single answer (*): by its explanation both pressure and temperature affect it, so no one option is complete."
+  },
+  "06-015": {
+    "r": "Light is faster in air than in water (statement I correct); water's refractive index is higher than air's (statement II wrong)."
+  },
+  "06-016": {
+    "r": "Light is fastest in vacuum (c ≈ 3 lakh km/s); it slows in optically denser media like water and glass and is slowest in diamond."
+  },
+  "06-018": {
+    "r": "Higher refractive index → lower speed of light; among glass, vacuum, water and air, light is slowest in glass."
+  },
+  "06-019": {
+    "r": "Sunlight takes about 499 seconds (≈ 8.3 minutes) to reach Earth; answer options: 8.5 minutes or 'about 8 minutes'."
+  },
+  "06-022": {
+    "r": "Nothing travels faster than light; light beats cosmic rays, electrons and supersonic waves and can travel through vacuum (sound cannot)."
+  },
+  "06-023": {
+    "r": "When light passes from one medium to another, frequency stays the same; velocity and wavelength change (air to glass).",
+    "hi": [
+      "Refraction (अपवर्तन)"
+    ]
+  },
+  "06-026": {
+    "r": "Denser → rarer medium: light speeds up and bends away from the normal; rarer → denser: it slows down and bends towards the normal."
+  },
+  "06-027": {
+    "r": "Glittering colours of thin soap foam → total reflection and interference of light reflected from the film's outer and inner surfaces.",
+    "hi": [
+      "Interference (व्यतिकरण)"
+    ]
+  },
+  "06-028": {
+    "r": "Total internal reflection needs light going from a denser to a rarer medium at more than the critical angle → possible from diamond to glass.",
+    "hi": [
+      "Total internal reflection (पूर्ण आंतरिक परावर्तन)"
+    ]
+  },
+  "06-029": {
+    "r": "A cut diamond shines brilliantly due to total internal reflection; its critical angle is low, about 24.4 degrees."
+  },
+  "06-030": {
+    "r": "Diamond looks lustrous due to total internal reflection: very high refractive index → very low critical angle → light reflects many times inside."
+  },
+  "06-032": {
+    "r": "Diamond sparkles more than glass of the same shape (A true) because its refractive index is higher (2.42 vs glass 1.51); R ('less than glass') false."
+  },
+  "06-033": {
+    "r": "Optical fibre (thin strand of glass/silica or plastic) works on total internal reflection.",
+    "hi": [
+      "Optical fibre (प्रकाशीय तंतु)"
+    ]
+  },
+  "06-036": {
+    "r": "Fibre-optic communication sends information as pulses of light (light waves) through optical fibre."
+  },
+  "06-037": {
+    "r": "Optical fibre: total internal reflection, very low power use, no radio-frequency interference (1, 2, 3 true). Statement 4 false: Sterlite-Tech (from 2000), not Reliance, makes it."
+  },
+  "06-038": {
+    "r": "Endoscope (to view inside the stomach and body cavities) works on total internal reflection in a bundle of optical fibres."
+  },
+  "06-040": {
+    "r": "Mirage → refraction and total internal reflection of light through air layers of different densities (hot desert ground).",
+    "hi": [
+      "Mirage (मरीचिका)"
+    ]
+  },
+  "06-043": {
+    "r": "Fresh snow reflects the most sunlight (about 80–85%); a surface's power to reflect light is called albedo (Latin: 'whiteness').",
+    "hi": [
+      "Albedo (एल्बिडो)"
+    ]
+  },
+  "06-044": {
+    "r": "Holography → technique to produce a three-dimensional image of an object (used to preserve transcripts, microfiche, three-dimensional films)."
+  },
+  "06-046": {
+    "r": "Roster (raster) scan → an electron gun's beam builds the image on a phosphor-coated CRT (Cathode Ray Tube) screen."
+  },
+  "06-047": {
+    "r": "Raman effect → light passing through any transparent medium; a small fraction emerges in directions other than the incident beam (scattering)."
+  },
+  "06-048": {
+    "r": "A CD player reproduces sound using a laser beam reflected from the bright surface of the disc."
+  },
+  "06-049": {
+    "r": "Rainbow colours on a CD in sunlight → reflection and diffraction (a CD is polycarbonate plastic with a thin aluminium layer)."
+  },
+  "06-050": {
+    "r": "True: 3 (radio waves from rapidly oscillating currents), 4 (police use Doppler effect). False: shorter wavelengths scatter more; light in water ≈ 0.75, not 0.95, of vacuum speed."
+  },
+  "06-051": {
+    "r": "Films project 24 frames per second (A true), but an image persists on the retina about 1/16 s, not 0.1 s (R false).",
+    "hi": [
+      "Persistence of vision (दृष्टि निर्बंध)"
+    ]
+  },
+  "06-052": {
+    "r": "Retina → photoreceptor cells (rods and cones) turn light into neural impulses, sent by the optic nerve to the brain.",
+    "hi": [
+      "Retina (दृष्टिपटल)"
+    ]
+  },
+  "06-053": {
+    "r": "Image on the retina is real, inverted and smaller than the object; the brain, from experience, lets us see it upright."
+  },
+  "06-055": {
+    "r": "Two eyes give stereoscopic vision: two slightly different images combine into a three-dimensional picture, improving depth and distance perception."
+  },
+  "06-056": {
+    "r": "Looking directly at the Sun during a solar eclipse can cause permanent eye damage (retinal burn) from its ultraviolet (UV) rays."
+  },
+  "06-057": {
+    "r": "A star's colour shows its temperature: blue = high temperature (young star), red = low temperature."
+  },
+  "06-058": {
+    "r": "Diffusion (scattering) of sunlight in the atmosphere is caused by dust particles (and air molecules)."
+  },
+  "06-060": {
+    "r": "Colour of light is decided by its wavelength: red has the longest, violet the shortest wavelength in the visible spectrum.",
+    "h": "VIBGYOR: wavelength grows from Violet to Red."
+  }
+}

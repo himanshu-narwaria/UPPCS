@@ -32,7 +32,7 @@ Q: Which of the following constitute the World Bank?
 Options: (a) 1, 2 and 3 (b) 1, and 2 (c) 3 and 4 (d) 1, 2, 3 and 4
 Answer: (a) 1, 2 and 3
 Also asked: Multilateral Investment Guarantee Agency (MIGA) is related to: -> World Bank Group
-Explanation: The 'World Bank Group' is a family offive organizations. These are: / IBRD – International Bank for Reconstruction and Development (1944) / | IDA | – | International Development Association (1960) | / | IFC | – | International Finance Corporation (1956) | / | MIGA – | Multilateral Investment Guarantee Agency | / (1988) / ICSID – International Centre for Settlement of Investment Disputes (1966)
+Explanation: The 'World Bank Group' is a family of five organizations. These are: / IBRD – International Bank for Reconstruction and Development (1944) / | IDA | – | International Development Association (1960) | / | IFC | – | International Finance Corporation (1956) | / | MIGA – | Multilateral Investment Guarantee Agency | / (1988) / ICSID – International Centre for Settlement of Investment Disputes (1966)
 
 [15-038] Ch15 · International Organizations · asked in 3 paper(s): M.P.P.C.S. (Pre) 2006; Uttarakhand U.D.A./L.D.A. (Pre) 2007; U.P.P.C.S. (Mains) 2007
 Q: The World Bank was established in:
@@ -319,7 +319,7 @@ Explanation: The Agreement on TRIMs (Trade-Related Investment Measures) is a Wor
 Q: With reference to Trade-Related Investment Measures (TRIMs), which of the following statements is/are correct?
    1. Quantitative restrictions on imports by foreign investors are prohibited.
    2. They apply to investment measures related to trade in both goods and services.
-   3. They are not concerned with the regulation offoreign investment.
+   3. They are not concerned with the regulation of foreign investment.
    Select the correct answer using the code given below:
 Options: (a) 1 and 2 only (b) 2 only (c) 1 and 3 only (d) 1, 2 and 3
 Answer: (c) 1 and 3 only
@@ -627,7 +627,10 @@ Answer: (c) EU
 Explanation: The ‘Digital Single Market Strategy’ is a policy belonging to the European Single Market that covers digital marketing, E-commerce and telecommunications. It was announced in May, 2015 by the Juncker Commission. It was part of the ‘Digital Agenda for Europe 2020’program of EU, an initiative of Europe 2020 proposed strategy. It is defined by 'A Digital Single Market Strategy for Europe' by the European … [shortened in this brief; the book continues]
 
 [15-134] Ch15 · International Organizations · asked in 1 paper(s): I.A.S. (Pre) 2023
-Q: Consider the following statements: Statement-I: Recently, the United States of America (USA) and the European Union (EU) have launched the 'Trade and Technology Council'. Statement-II: The USA and the EU claim that through this they are trying to bring technological progress and physical productivity under their control. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I: Recently, the United States of America (USA) and the European Union (EU) have launched the 'Trade and Technology Council'.
+   Statement-II: The USA and the EU claim that through this they are trying to bring technological progress and physical productivity under their control.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (c) Statement-I is correct but Statement-II is incorrect
 Explanation: European Commission President Ursula von der Leyen and US President Joe Biden launched the EU-US 'Trade and Technology Council' at the EU-US Summit in Brussels on June 15, 2021. The EU-US Trade and Technology Council (TTC) serves as a forum for the United States and the European Union to coordinate approaches to key global trade, economic, and technology issues and to deepen transatlantic trade and economic … [shortened in this brief; the book continues]
@@ -1108,7 +1111,7 @@ Q: Consider the following statements about New National Education Policy approve
 Options: (a) 1 Only (b) 2 Only (c) Both 1 and 2 (d) Neither 1 nor 2
 Answer: (a) 1 Only
 Also asked: Who heads the panel on National Education Policy constituted in June 2017 by the Human Resource Development Ministry? -> K. Kasturirangan
-Explanation: The National Education Policy (NEP) approved by Union Cabinet of India on 29th July, 2020, outlines the vision of India's new education system. The new policy replaces the previous National Policy of Education (1986) which had been followed since last 34 years. The NEP 2020 was drafted by a panel led by former ISRO ChiefDr. K. Kasturirangan on the basis of T.S.R. Subramanian Committee report. Hence, Statement 1 is … [shortened in this brief; the book continues]
+Explanation: The National Education Policy (NEP) approved by Union Cabinet of India on 29th July, 2020, outlines the vision of India's new education system. The new policy replaces the previous National Policy of Education (1986) which had been followed since last 34 years. The NEP 2020 was drafted by a panel led by former ISRO ChiefDr. K. Kasturirangan on the basis of T.S.R. Subramanian Committee report. Hence, / Statement 1 is … [shortened in this brief; the book continues]
 
 [16-006] Ch16 · Miscellaneous · asked in 1 paper(s): 67th B.P.S.C. (Pre) (Re.Exam) 2022
 Q: Which State has become the first State in the country to initiate the process of implementing the Centre’s New Education Policy?
@@ -2005,7 +2008,7 @@ Explanation: 'Smart India Hackathon 2017' had been launched to build Digital Ind
 
 [16-129] Ch16 · Miscellaneous · asked in 1 paper(s): I.A.S. (Pre) 2017
 Q: With reference to the ‘Prohibition of Benami Property Transactions Act, 1988 (PBPT Act)’, consider the following statements:
-   1. A property transaction is not treated as a benami transaction ifthe owner of the property is not aware of the transaction.
+   1. A property transaction is not treated as a benami transaction if the owner of the property is not aware of the transaction.
    2. Properties held benami are liable for confiscation by the Government.
    3. The Act provides for three authorities for investigations but does not provide for any appellate mechanism.
    Which of the statements given above is/are correct?
@@ -2065,7 +2068,10 @@ Answer: (d) Whatever be the reason favouring market revival on the 12th day, it 
 Explanation: By analyzing both graphs option (d) should be the correct answer. Due to insufficient data we cannot conclude that (b) and (c) are also correct.
 
 [16-136] Ch16 · Miscellaneous · asked in 1 paper(s): I.A.S. (Pre) 2023
-Q: Consider the following statements: Statement-I: Carbon markets are likely to be one of the most widespread tools in the fight against climate change. Statement-II: Carbon markets transfer resources from the private sector to the State. Which one of the following is correct in respect of the above statements?
+Q: Consider the following statements:
+   Statement-I: Carbon markets are likely to be one of the most widespread tools in the fight against climate change.
+   Statement-II: Carbon markets transfer resources from the private sector to the State.
+   Which one of the following is correct in respect of the above statements?
 Options: (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I (c) Statement-I is correct but Statement-II is incorrect (d) Statement-I is incorrect but Statement-II is correct
 Answer: (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
 Explanation: Carbon markets, for years short of puff, have at last become one of the most widespread tools in the fight against climate change. By the end of 2021 more than 21% of the world's emissions were covered by some form of carbon pricing, up from 15% in 2020. For decades, carbon markets have been seen as part of the solution to climate change. They have mostly been dominated by the private sector, but this will soon … [shortened in this brief; the book continues]
@@ -2497,7 +2503,7 @@ Answer: (d) A and B
 Explanation: Births and deaths are natural causes of population change. The difference between the births and deaths of a country or place is called the natural change in population. Thus, natural growth of population is calculated by subtracting the crude death rate from the crude birth rate.
 
 [17-002] Ch17 · India : Population · asked in 3 paper(s): I.A.S. (Pre) 1993; I.A.S. (Pre) 2012; U.P. R.O./A.R.O. (Pre) 2016
-Q: Which arrangement offollowing would show sequence of demographic transition as typically associated with economic development?
+Q: Which arrangement of following would show sequence of demographic transition as typically associated with economic development?
    1. High birth rate with high death rate.
    2. Low birth rate with low death rate.
    3. High birth rate with low death rate. Correct sequence is:

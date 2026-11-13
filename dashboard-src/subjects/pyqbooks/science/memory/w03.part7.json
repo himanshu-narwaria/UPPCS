@@ -1,0 +1,139 @@
+{
+  "14-158": {
+    "r": "Space shuttle 'Discovery' (launched July 4, 2006) → fuel tanks held a mixture of liquid hydrogen and liquid oxygen."
+  },
+  "14-159": {
+    "r": "Apollo-8 → first mission to take humans to the Moon and back; launched 21 December 1968 from Cape Kennedy. All options (1998) wrong; the book gives no single answer (*)."
+  },
+  "14-160": {
+    "r": "Selene-1 → Japan's lunar orbiter, launched 14 September 2007; its nickname 'Kaguya' was chosen by the public."
+  },
+  "14-161": {
+    "r": "Jet engine → takes oxygen from surrounding air, so unsuitable in space; rocket carries its own oxidiser and fuel as liquid or solid, not gas → only 1."
+  },
+  "14-162": {
+    "r": "Jets fly smoothly in lower stratosphere → no clouds or water vapour and no vertical winds; no convection turbulence → both correct.",
+    "hi": ["Stratosphere (समताप मंडल)"]
+  },
+  "14-163": {
+    "r": "Jet engine (and rocket) → works on the principle of conservation of linear momentum."
+  },
+  "14-164": {
+    "r": "Rocket → works on conservation of momentum: material ejected backward gives forward thrust; momentum p = mv.",
+    "hi": ["Conservation of momentum (संवेग संरक्षण)"]
+  },
+  "14-165": {
+    "r": "Stratellite → high-altitude airship stationed in the stratosphere, carrying repeaters for wireless networks; like a satellite but not in orbit."
+  },
+  "14-166": {
+    "r": "Cryogenic temperatures → below about –150°C (the cryogenic region is often taken as below about –153°C)."
+  },
+  "14-167": {
+    "r": "Cryogenics (low temperature) applications → space travel, magnetic levitation and telemetry."
+  },
+  "14-168": {
+    "r": "Cryogenic engine → rocket technology: uses cryogenic fuel and oxidizer, gases liquefied and stored below –150°C; Greek 'Kryos' = frost."
+  },
+  "14-169": {
+    "r": "Cryogenic engine → liquid oxygen as oxidizer and liquid hydrogen as fuel, stored at extremely low temperature; used in space shuttles."
+  },
+  "14-171": {
+    "r": "Liquid hydrogen, liquid hydrazine, kerosene (fuels) and liquid oxygen (oxidiser) → all are rocket propellants. The book gives no single answer (*)."
+  },
+  "14-172": {
+    "r": "BEL (Bharat Electronics Ltd.) with ISRO → developing GaAs (Gallium Arsenide) space solar cells to lengthen Indian satellites' life."
+  },
+  "14-173": {
+    "r": "India tested a full cryogenic stage (50 seconds, Mahendragiri, October 2006) → sixth in the club with USA, Russia, ESA, China, Japan; so statement 2 wrong."
+  },
+  "14-174": {
+    "r": "PSLV-C12 (20 April 2009, Sriharikota) → orbited RISAT-2 (radar surveillance satellite for border watch) and ANUSAT (Anna University's experimental communication satellite) → all four correct."
+  },
+  "14-175": {
+    "r": "Correct: PSLVs launch IRS satellites; GSLV's third stage used an indigenous cryogenic engine; GSAT-1 (18 April 2001) demonstrated digital broadcast and internet. Wrong: all INSATs launched abroad."
+  },
+  "14-176": {
+    "r": "PSLV → Earth resources monitoring satellites; GSLV → mainly communication satellites. PSLV satellites do not stay fixed in the sky; Mk III stage description wrong → only 1."
+  },
+  "14-177": {
+    "r": "Artificial satellite tracked very precisely from Earth → using the Doppler effect (with a tracking transmitter)."
+  },
+  "14-178": {
+    "r": "SLV-3 → a launch vehicle, not a satellite; RS-D1 (Rohini, 31 May 1981), IRS-1D (29 September 1997), INSAT-2D (4 June 1997) are satellites."
+  },
+  "14-179": {
+    "r": "GSLV-D2 → a launch vehicle (second developmental flight, 8 May 2003), not a satellite; it placed the 1800 kg GSAT-2 in orbit. The book gives no single answer (*)."
+  },
+  "14-180": {
+    "r": "Vigyan Rail → Railways + Vigyan Prasar (not CSIR); Vigyan Prasar → under DST (not HRD); EDUSAT (20 September 2004) not launched from French Guiana → none correct."
+  },
+  "14-182": {
+    "r": "METSAT (12 September 2002) → India's first full meteorological satellite, renamed Kalpana-I after Kalpana Chawla; PSLV-C4 first carried over 1000 kg (1060 kg) to geosynchronous orbit."
+  },
+  "14-185": {
+    "r": "SATHYABAMASAT → academic institute micro satellite by Sathyabama University, Chennai, for greenhouse gas data; launched with Cartosat-2C on PSLV-C34, 22 June 2016."
+  },
+  "14-186": {
+    "r": "GSAT-8 (advanced communication satellite) → launched 21 May 2011 by Ariane-V from Kourou, French Guiana."
+  },
+  "14-187": {
+    "r": "GSAT-7 ('Rukmini', also INSAT-4F) → multi-band communication satellite dedicated to the Indian Navy (military); launched 30 August 2013 by Ariane-5 from Kourou."
+  },
+  "14-188": {
+    "r": "Failed to reach orbit → GSAT-4 (April 2010, rocket's third stage malfunctioned) and GSAT-5P (25 December 2010)."
+  },
+  "14-189": {
+    "r": "29 September 2012 → India launched telecommunication satellite GSAT-10 by Ariane-5 from Guiana Space Centre."
+  },
+  "14-190": {
+    "r": "GSAT-6A (high-power S-band communication satellite) → launched by GSLV-F08 on 29 March 2018 from Sriharikota; mission life 10 years."
+  },
+  "14-191": {
+    "r": "Bhuvan → ISRO's geoportal with 2D/3D imaging of Earth's surface; also gives disaster support; Indian version of Google Earth."
+  },
+  "15-001": {
+    "r": "DRDO motto → 'Balasya Mulam Vigyanam'; DRDO formed in 1958 under Ministry of Defence; headquarters Delhi.",
+    "hi": ["Defence Research and Development Organisation (रक्षा अनुसंधान एवं विकास संगठन)"]
+  },
+  "15-002": {
+    "r": "Indian Army's Quantum Computing Laboratory (2021) → Military College of Telecommunication Engineering, Mhow, Madhya Pradesh; set up with help of NSCS."
+  },
+  "15-003": {
+    "r": "Mission Divyastra → first flight test of Agni-V with MIRV (Multiple Independently Targetable Re-entry Vehicle) technology; DRDO, Dr. APJ Abdul Kalam Island, Odisha, 11 March 2024."
+  },
+  "15-004": {
+    "r": "VSHORADS (Very Short-Range Air Defence System) → DRDO's 4th-generation man-portable air defence system (MANPADS), developed by Research Centre Imarat, Hyderabad."
+  },
+  "15-005": {
+    "r": "Akashteer → core command-and-control of the Army's air defence; integrates with India's C4ISR network; shift from passive defence to proactive retaliation → more than one true."
+  },
+  "15-006": {
+    "r": "Make in India indigenous platforms → MBT Arjun and ATAGS ('Amogh'); F-35 Lightning II is a U.S. stealth fighter → more than one of the above."
+  },
+  "15-007": {
+    "r": "India's first indigenous anti-radiation missile → RudraM-I (NGARM), tested 9 October 2020 from Su-30 MKI at Wheeler Island, Odisha; range up to 200 km."
+  },
+  "15-008": {
+    "r": "RudraM-II → DRDO's air-to-surface (not air-to-air) anti-radiation missile; tested from Su-30 MKI off Odisha (not Rajasthan) on 29 May 2024 → neither correct."
+  },
+  "15-009": {
+    "r": "Nag → India's 'Fire and Forget' anti-tank missile; land version range 500 m to 4 km; first successful test 24 November 1990.",
+    "hi": ["Anti-tank missile (टैंक-रोधी प्रक्षेपास्त्र)"]
+  },
+  "15-010": {
+    "r": "Prithvi → surface-to-surface missile; Trishul → surface-to-air missile; Pinaka → multi-barrel rocket launcher (not a missile); Nishant → remote-operated battlefield inspection vehicle."
+  },
+  "15-012": {
+    "r": "Trishul → India's short-range surface-to-air missile (Integrated Guided Missile Development program); Prithvi and Agni → surface-to-surface; Nag → anti-tank."
+  },
+  "15-014": {
+    "r": "Prithvi → India's surface-to-surface missile; Akash → medium-range mobile surface-to-air missile system.",
+    "h": "Prithvi = earth → surface-to-surface; Akash = sky → surface-to-air."
+  },
+  "15-015": {
+    "r": "Trishul → short-range surface-to-air; Prithvi → surface-to-surface; Agni → intermediate range ballistic system; NAG → anti-tank missile."
+  },
+  "15-016": {
+    "r": "Akash → surface-to-air missile; Bahujan Samaj Party → Kanshiram (founder); Prithvi → surface-to-surface missile; Mirage 2000 → French fighter plane."
+  }
+}

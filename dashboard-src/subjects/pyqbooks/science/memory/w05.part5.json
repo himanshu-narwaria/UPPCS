@@ -1,0 +1,179 @@
+{
+  "36-091": {
+    "r": "Aspartame → artificial sweetener; Freon → refrigerant; neoprene → synthetic rubber; Benadryl → anti-histamine."
+  },
+  "36-092": {
+    "r": "All correct: lipstick → lead (common impurity); soft drinks → brominated vegetable oil (emulsifier in citrus drinks); Chinese fast food → monosodium glutamate (MSG)."
+  },
+  "36-093": {
+    "r": "Potassium bromide → photography; potassium nitrate → gunpowder; potassium sulphate → fertilizer; monopotassium tartrate → bakery."
+  },
+  "36-094": {
+    "r": "Correct pair: ozone depletion → skin cancer. Fixes: sulfur dioxide → acid rain; fluoride pollution → teeth; methyl isocyanate → Bhopal gas tragedy."
+  },
+  "36-095": {
+    "r": "Phenyl (emulsion of light creosote oil, water, soap) → household germicide because it is a phenol derivative and phenol is a germicide → A and R true, R explains A."
+  },
+  "36-096": {
+    "r": "Rutherford → atom bomb; Alfred Nobel → dynamite; Cartwright → powerloom; Graham Bell → telephone."
+  },
+  "36-097": {
+    "r": "Technology Day → 11 May (Pokhran test 1998); Photography Day → 19 August; National Sports Day → 29 August (Dhyan Chand's birthday); Nagasaki Day → 9 August."
+  },
+  "36-098": {
+    "r": "UN year 2011 → International Year of Chemistry (and of Forests). 2023 → Millets; 2024 → Camelids; 2025 → Quantum Science and Technology, Cooperatives, Glaciers' Preservation."
+  },
+  "36-099": {
+    "r": "UN year 2025 → International Year of Quantum Science and Technology, marking 100 years of quantum mechanics."
+  },
+  "36-100": {
+    "r": "UNFCCC → mitigation of greenhouse gas emissions, CO2 included → 'more than one'. Paris Climate Change Agreement signed 22 April 2016 by 175 countries/organisations, including India."
+  },
+  "36-101": {
+    "r": "Correct: Alma-Ata Declaration (1978) → primary healthcare; Talanoa Dialogue → climate change. Wrong: Hague Convention (1980) → child abduction; Under2 Coalition → climate action → 1 and 3.",
+    "t": "Under2 Coalition is about climate, not child rights; Hague Convention here is about child abduction."
+  },
+  "36-102": {
+    "r": "Mandatory ethanol blending with gasoline → Brazil (since 1976); since 2007 the legal blend is about 25% ethanol, 75% gasoline."
+  },
+  "36-103": {
+    "r": "Inorganic gaseous air pollutants → hydrogen cyanide and hydrogen sulphide (book accepts both); others: CO2, CO, SO2, nitrous oxide, nitrogen dioxide."
+  },
+  "36-104": {
+    "r": "Chief source of hydrogen sulphide (H2S, rotten-egg smell) → decaying vegetation and animal matter; also bacterial breakdown of wastes, sewage plants, landfills, geothermal fields."
+  },
+  "36-105": {
+    "r": "Carbon dioxide, nitrous oxide and methane → all greenhouse gases causing global warming → 'more than one'.",
+    "hi": ["Greenhouse effect (हरितगृह प्रभाव)"]
+  },
+  "36-106": {
+    "r": "Contribution to global warming → CO2 (about 26%) > methane (4-9%) > nitrous oxide (about 1.5%) > CFCs (0.1-0.4%); water vapour about 60%."
+  },
+  "36-107": {
+    "r": "India's CO2: about 2 t per capita (1.922 t in 2023), not under 0.5 t; second in Asia-Pacific after China; electricity and heat producers largest source → II, III."
+  },
+  "36-108": {
+    "r": "Water vapour → decreases with altitude (true); NOT maximum at poles: highest in warm wet tropics, less than one percent in deserts and polar regions → 1 only."
+  },
+  "36-109": {
+    "r": "Wet-bulb temperature (air temperature + humidity) of 35°C → upper limit for human life: sweat cannot evaporate to cool the body → only statement II.",
+    "hi": ["Heat stress (ऊष्मा तनाव)"]
+  },
+  "36-110": {
+    "r": "Nuclear (and thermal) power plants → thermal pollution: heated coolant water returned to nature cuts oxygen supply and harms ecosystems.",
+    "hi": ["Thermal pollution (तापीय प्रदूषण)"]
+  },
+  "36-111": {
+    "r": "Green muffler → against noise pollution: 4-5 rows of dense trees planted along roads, industrial areas and other noisy places."
+  },
+  "36-112": {
+    "r": "Magnetic (magnetite) particles linked to neurodegenerative problems → come from vehicle brakes, vehicle engines and power plants → 1, 2, 4."
+  },
+  "36-113": {
+    "r": "Incomplete burning of petrol and diesel (poor air supply) → carbon monoxide (poisonous) and soot instead of carbon dioxide."
+  },
+  "36-114": {
+    "r": "The book gives no single answer (*): city smoke holds CO, CO2, nitrogen oxides, SO2, lead and ozone, so every option fits; the commission did not evaluate it."
+  },
+  "36-115": {
+    "r": "Particulate matter (PM, particle pollution) → air pollutant: tiny particles and liquid droplets that harm the heart and lungs when inhaled."
+  },
+  "36-116": {
+    "r": "RSPM (Respirable Suspended Particulate Matter) → the fraction of suspended particles readily inhaled; among options, size less than 5 µm."
+  },
+  "36-117": {
+    "r": "NAMP (run by CPCB) → SO2, NO2, suspended particulate matter and fine particulate matter monitored at all locations; network 966 stations in 419 cities (November 2024)."
+  },
+  "36-118": {
+    "r": "Steam methane reforming (methane + steam, 700–1000°C, nickel catalyst) → grey hydrogen if CO2 is released; blue if CO2 is captured. Green → renewable energy; brown → coal.",
+    "h": "Colour code: Grey = gas, CO2 out; Blue = gas, CO2 stored; Green = renewable; Brown = coal."
+  },
+  "36-119": {
+    "r": "Green hydrogen (made with renewable energy) → can replace fossil feedstocks in fertilizer production, petroleum refining and steel making → all three.",
+    "hi": ["Green hydrogen (हरित हाइड्रोजन)"]
+  },
+  "36-120": {
+    "r": "Green hydrogen → direct fuel for internal combustion, blended with natural gas for heat or power, and in fuel cells to run vehicles → all three correct."
+  },
+  "36-121": {
+    "r": "Smog (smoke + fog) → mainly oxides of nitrogen and sulfur, with ozone, smoke and particulates; from coal, vehicles, industry and fires.",
+    "hi": ["Smog (धूम-कोहरा)"]
+  },
+  "36-122": {
+    "r": "Photochemical smog (solar UV acting on hydrocarbons + nitrogen oxides) → always contains ozone, its principal component; a brownish-grey haze."
+  },
+  "36-123": {
+    "r": "Eutrophication → nutrient enrichment of a water body; algae grow heavily and dissolved oxygen gets depleted → both correct.",
+    "hi": ["Eutrophication (सुपोषण)"]
+  },
+  "36-124": {
+    "r": "Eutrophication results from → high amounts of nitrogenous nutrients (nitrate) and orthophosphates (also silicate); natural, but made worse by humans.",
+    "t": "Algal bloom and oxygen depletion are effects; nutrient overload is the cause."
+  },
+  "36-125": {
+    "r": "BOD (Biological Oxygen Demand) → standard measure of pollution in aquatic ecosystems: oxygen used by microbes decomposing organic matter; higher BOD = more polluted water.",
+    "hi": ["Biological Oxygen Demand (जैविक ऑक्सीजन मांग)"]
+  },
+  "36-126": {
+    "r": "Physico-chemical changes in water sources → effluents (outflow from sewage treatment or industrial wastewater)."
+  },
+  "36-127": {
+    "r": "Membrane bioreactors (MBR) → wastewater treatment: membrane separation combined with conventional treatment, used in municipal and industrial plants."
+  },
+  "36-128": {
+    "r": "Activated carbon removes pollutants from effluents: large surface area adsorbs heavy metals, and it is easily made from carbon-rich wastes → II and III true, both explain I."
+  },
+  "36-129": {
+    "r": "Pyrolysis and plasma gasification → waste-to-energy technologies: high-temperature breakdown of waste using nil or little oxygen."
+  },
+  "36-130": {
+    "r": "Mercury pollution sources → all four: pesticides, dental amalgam fillings, fluorescent lamps, coal-based thermal power plants.",
+    "hi": ["Mercury (पारा)"]
+  },
+  "37-001": {
+    "r": "Zoology → study of both living and extinct (dead) animals: structure, embryology, evolution, classification; Aristotle = Father of Zoology.",
+    "hi": ["Zoology (प्राणि विज्ञान)"]
+  },
+  "37-002": {
+    "r": "Birds → ornithology; inheritance → genetics; environment → ecology; fossils → palaeobiology."
+  },
+  "37-003": {
+    "r": "Study of flowers → anthology. Phrenology → human skull; agrostology → grasses; palynology → pollen grains and spores."
+  },
+  "37-004": {
+    "r": "Insects → entomology. Ichthyology → fish; parasitology → parasites; malacology → molluscs and shells."
+  },
+  "37-005": {
+    "r": "Demography → statistical study of populations, including humans. Ecology → organisms and environment; genetics → heredity and variation; virology → viruses."
+  },
+  "37-006": {
+    "r": "Ethnology → comparative study of cultures (races of mankind). Ethnography → a specific culture; ethology → animal behaviour; ethics → moral duties.",
+    "t": "Ethnology (cultures) ≠ ethology (animal behaviour)."
+  },
+  "37-007": {
+    "r": "Bionics → studying biological systems in nature and using that knowledge in machines. Bionomics → organism and environment; biometry → statistics in biology."
+  },
+  "37-008": {
+    "r": "Palaeobotany → plant fossils (plant remains from geological contexts), so 'none of these'; Birbal Sahni = Father of Indian Palaeobotany.",
+    "t": "Palaeobotany is plant fossils, not animal fossils."
+  },
+  "37-009": {
+    "r": "Rearing silkworms → sericulture. Apiculture → bees; horticulture → fruit and flower plants; floriculture → flowers.",
+    "hi": ["Sericulture (रेशम कीट पालन)"]
+  },
+  "37-010": {
+    "r": "Honey bees → apiculture (bee keeping).",
+    "hi": ["Apiculture (मधुमक्खी पालन)"]
+  },
+  "37-011": {
+    "r": "Wrong pair: vegetable cultivation – horticulture → specific term is olericulture (a branch of horticulture). Correct: floriculture – flowers; agronomy – crops; pomology – fruits."
+  },
+  "37-012": {
+    "r": "Growing vegetables → olericulture (culture of non-woody plants for food).",
+    "t": "Pomology → fruits; floriculture → flowers; olericulture → vegetables."
+  },
+  "37-013": {
+    "r": "Wrong pair: pisciculture – lac insect → pisciculture is fish rearing (fish hatchery). Correct: apiculture – honey bee; sericulture – silkworm; horticulture – flower.",
+    "hi": ["Pisciculture (मत्स्य पालन)"]
+  }
+}

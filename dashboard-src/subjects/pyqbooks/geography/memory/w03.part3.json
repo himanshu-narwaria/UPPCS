@@ -1,0 +1,162 @@
+{
+ "46-006": {
+  "r": "Rana Pratap Sagar Dam → on Chambal at Rawatbhata, Rajasthan; begun 1953, inaugurated 1970."
+ },
+ "47-001": {
+  "r": "Tehri Dam → Bhagirathi (Bhilangana joins at old Tehri), Tehri Garhwal, Uttarakhand; variant answer 'Bhagirathi and Bhilangana'; for flood storage, hydropower, irrigation."
+ },
+ "47-004": {
+  "r": "Tehri dam → on Bhagirathi, the source stream of the Ganga; when Bhagirathi is not an option, answer 'Ganga'."
+ },
+ "47-005": {
+  "r": "Tehri Dam site → confluence of Bhagirathi and Bhilangana (point C on the map)."
+ },
+ "48-001": {
+  "r": "Tilaiya Dam → Barakar river, Koderma district, Jharkhand; completed 1953; about 366 m long; irrigation and hydroelectricity."
+ },
+ "48-002": {
+  "r": "Maithon, Belpahari and Tilaiya dams → on Barakar, main tributary of Damodar (first phase of Damodar Valley project).",
+  "t": "Don't confuse: these dams are on the Barakar, not the Damodar main stream."
+ },
+ "48-003": {
+  "r": "Damodar → 'River of Sorrow' (Sorrow of Bengal): fast upper course, sluggish lower course → floods and silt; A and R true, R explains A.",
+  "hi": [
+   "Sorrow of Bengal (बंगाल का शोक)"
+  ]
+ },
+ "48-004": {
+  "r": "Damodar Valley Corporation → established 1948 under the DVC Act (Act XIV of 1948)."
+ },
+ "48-005": {
+  "r": "First multipurpose river valley project of independent India → Damodar Valley Project (DVC, 7 July 1948; West Bengal and Bihar, now Jharkhand)."
+ },
+ "49-001": {
+  "r": "Ukai → Tapi; Jayakawadi → Godavari; Khadakwasla → Mutha (Pune); Mayurakshi → Mayurakshi river.",
+  "c": "No code is fully right: Mayurakshi is on the Mayurakshi river, not the Ambi. Code (b) gets the other three right; UPPSC's initial key (a) wrongly put Khadakwasla on the Ambi."
+ },
+ "49-002": {
+  "r": "Wrong pair: Tawa Project — Krishna; Tawa is on the Tawa River. Correct: Midanpur Canal → Kangsabati (Kasai); Mettur → Cauvery; Ukai → Tapi."
+ },
+ "49-003": {
+  "r": "Hirakud Project → Odisha; Haldia Refinery → West Bengal; Tarapur Nuclear Station → Maharashtra; Kudremukh Hills → Karnataka."
+ },
+ "49-004": {
+  "r": "New Sutlej dam in Himachal Pradesh → to check silt flowing into Bhakra dam (silt weakens the dam and shortens its life)."
+ },
+ "49-005": {
+  "r": "Chukha Dam → built by India with Bhutan on Wang Chu (Raidak); 40 m high; begun 1974; India funded it: 60% grant, 40% loan."
+ },
+ "49-006": {
+  "r": "Bhakra → Satluj; Hirakud → Mahanadi; Idukki → Periyar; Nagarjuna Sagar → Krishna."
+ },
+ "49-007": {
+  "r": "Telugu Ganga → joint project of Tamil Nadu, Andhra Pradesh, Karnataka (book also lists Maharashtra); Krishna water for drinking in Chennai (Madras)."
+ },
+ "49-009": {
+  "r": "'Temples of modern India' → Jawaharlal Nehru's name for multipurpose river valley projects.",
+  "hi": [
+   "Multipurpose project (बहुउद्देशीय परियोजना)"
+  ]
+ },
+ "49-010": {
+  "r": "Cauvery → Mettur; Krishna → Almatti; Narmada → Sardar Sarovar; Chambal → Gandhi Sagar."
+ },
+ "49-011": {
+  "r": "Almatti Dam → River Krishna; multipurpose (canal irrigation and hydroelectricity)."
+ },
+ "49-012": {
+  "r": "Mettur → Tamil Nadu (Cauvery); Mayurakshi → West Bengal (barrage at Tilpara near Suri); Nagarjuna Sagar → Andhra Pradesh; Hirakud → Odisha."
+ },
+ "49-013": {
+  "r": "Idukki → Periyar (Kerala, arch dam); Matatila → Betwa (UP-MP joint); Nagarjuna Sagar → Krishna; Pochampad → Godavari."
+ },
+ "49-014": {
+  "r": "Shivsamudram → Cauvery; Nagarjuna Sagar → Krishna; Jayakwadi → Godavari (Maharashtra); Tehri → Bhagirathi."
+ },
+ "49-015": {
+  "r": "All four true: Rihand → on Rihand (Son tributary); Hirakud → Mahanadi; Tungabhadra → Andhra Pradesh-Karnataka joint; Maithon → Barakar (Damodar tributary), built 1957."
+ },
+ "49-016": {
+  "r": "Kalpong Hydro-Electric Project → first hydro project of Andaman and Nicobar Islands, on the Kalpong river."
+ },
+ "49-017": {
+  "r": "Oldest hydropower station → Sidrapong near Darjeeling, West Bengal (1897); second → Shivasamudram on Cauvery, Karnataka (1902).",
+  "h": "Sidrapong first (1897), Shivasamudram second (1902)."
+ },
+ "49-019": {
+  "r": "Farakka → West Bengal (Ganga); Ghataprabha → Karnataka; Hirakud → Odisha (Mahanadi); Kakrapar → Gujarat (Tapti)."
+ },
+ "49-020": {
+  "r": "Rihand → Uttar Pradesh (Govind Ballabh Pant Sagar, Sonbhadra); Ukai → Gujarat (Tapi); Hirakud → Odisha; Koyna → Maharashtra."
+ },
+ "49-021": {
+  "r": "Wrong pair: Kolleru Lake — Krishna; Kolleru lies between Krishna and Godavari valleys (natural flood-balancing reservoir). Govind Sagar → Satluj; Ukai → Tapi; Wular → Jhelum."
+ },
+ "49-022": {
+  "r": "Kalagarh Dam → Ramganga Dam on Ramganga river, Uttarakhand; 715 m long, 128 m high."
+ },
+ "49-023": {
+  "r": "Wrong pair: Ramganga dam length 8258 m; real length 715 m (height 128 m). Correct: 198 MW; Pauri Garhwal, Uttarakhand; about 6 lakh ha irrigated."
+ },
+ "49-024": {
+  "r": "Tawa project → Hoshangabad (now Narmadapuram), MP, on Tawa river; built 1958-1978; between Satpura National Park and Bori Sanctuary."
+ },
+ "49-025": {
+  "r": "Pong Dam (Beas Dam) → Beas river, Himachal Pradesh; its Maharana Pratap Sagar lake is a bird sanctuary."
+ },
+ "49-026": {
+  "r": "Meja Dam → Kothari river (Banas tributary), Bhilwara district, Rajasthan; mainly irrigation."
+ },
+ "49-027": {
+  "r": "Tulbul navigation project → Jhelum, at mouth of Wular Lake, J&K; proposed 1984; Pakistan protested in 1987 under the 1960 Indus Waters Treaty."
+ },
+ "49-029": {
+  "r": "Baglihar project → Chenab, Ramban district, Jammu & Kashmir; run-of-the-river; Pakistan raised it before the World Bank."
+ },
+ "49-031": {
+  "r": "Wrong pairs: Pandoh Dam → Beas, not Ravi; Srisailam → Krishna, not Tungabhadra. Baglihar → Chenab is correct (answer 2 and 3)."
+ },
+ "49-032": {
+  "r": "All correct: Damanganga → Gujarat (Valsad, Madhuban Dam); Girna → Maharashtra (Nashik); Pamba → Kerala (Pathanamthitta)."
+ },
+ "49-033": {
+  "r": "Tapovan and Vishnugarh hydro projects → Dhauliganga river, Chamoli district, Uttarakhand."
+ },
+ "49-034": {
+  "r": "Mahakali Treaty (February 1996) → India and Nepal; Mahakali (Sharda) water: Sharda Barrage, Tanakpur Barrage, Pancheshwar Project."
+ },
+ "49-035": {
+  "r": "Wrong pair: Rana Pratap Sagar — M.P.; it is at Rawatbhata, Rajasthan (MP has Gandhi Sagar). Kalpakkam → TN, Narora → UP, Tarapore → Maharashtra."
+ },
+ "49-036": {
+  "r": "Kalpasar Project → Gujarat; dam across the Gulf of Khambhat for tidal power and a huge freshwater reservoir."
+ },
+ "49-037": {
+  "r": "Wrong pair: Chambal Project — Rajasthan, Punjab, Haryana; Chambal is Rajasthan and Madhya Pradesh. Beas → Rajasthan, Punjab, Haryana; Mahi Bajaj Sagar → Gujarat, Rajasthan."
+ },
+ "49-038": {
+  "r": "Baira Siul project → Siul river (Ravi tributary), Chamba district, Himachal Pradesh."
+ },
+ "49-039": {
+  "r": "Wrong pair: Sivasamudram — Kerala; it is in Karnataka. Jawahar Sagar → Rajasthan; Nagarjuna Sagar → Andhra Pradesh/Telangana; Gandhi Sagar → Madhya Pradesh."
+ },
+ "49-040": {
+  "r": "Wrong pair: Nagarjuna Sagar — Godavari; it is on the Krishna. Nangal → Satluj; Sardar Sarovar → Narmada; Hirakud → Mahanadi."
+ },
+ "49-041": {
+  "r": "Teesta Low Dam Projects III and IV → West Bengal; earlier Teesta projects I and II → Sikkim (variant answer: Sikkim)."
+ },
+ "49-043": {
+  "r": "Rihand project → Son (Rihand is its tributary); Rani Laxmibai Dam → Betwa; Tehri → Bhagirathi; Ramganga Project → Ramganga."
+ },
+ "49-044": {
+  "r": "Rani Laxmibai Dam Project → Rajghat Dam on the Betwa, Lalitpur, Uttar Pradesh."
+ },
+ "49-045": {
+  "r": "Dulhasti → 390 MW hydro plant on Chenab, Kishtwar district, Jammu & Kashmir."
+ },
+ "49-046": {
+  "r": "Wrong pair: Nagarjuna Sagar — Kaveri; it is on the Krishna. Dulhasti → Chenab; Indira Gandhi Canal → Sutlej; Ukai → Tapti.",
+  "h": "Nagarjuna Sagar = Krishna in every question."
+ }
+}

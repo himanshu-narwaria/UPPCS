@@ -1,0 +1,134 @@
+{
+  "65-029": {
+    "r": "Biomagnification (bio-amplification) → rising concentration of a toxic substance such as pesticides in organisms at successively higher levels of a food chain.",
+    "hi": ["Biomagnification (जैव आवर्धन)"]
+  },
+  "65-030": {
+    "r": "Selective herbicides kill weeds without harming crops (A true) because weeds and crops absorb herbicides at different rates (R true, explains A).",
+    "hi": ["Herbicide (शाकनाशी)"]
+  },
+  "65-031": {
+    "r": "Orobanche → parasitic weed found mainly in tobacco fields (also tomato and potato); about 150 species."
+  },
+  "65-032": {
+    "r": "Destructive Insects and Pests Act (DIPA) → 1914; stops entry of crop pests and diseases into India and their inter-state spread."
+  },
+  "65-033": {
+    "r": "Local flora information → herbarium: collection of preserved plants, catalogued and arranged for study and identification.",
+    "t": "Herbarium = dried plants; planetarium = stars; sanitarium = health resort."
+  },
+  "65-034": {
+    "r": "ICAR Day → 16 July (ICAR founded 16 July 1929 as a society, on Royal Commission on Agriculture report); from 2023 called 'Foundation and Technology Day'."
+  },
+  "65-035": {
+    "r": "Order: National Maritime Day (5 April) → World Health Day (7 April) → World Athletics Day (7 May) → World Red Cross Day (8 May)."
+  },
+  "65-036": {
+    "r": "5 June → World Environment Day; 1 December → World AIDS Day; 5 September → Teachers' Day; 16 October → World Food Day."
+  },
+  "65-037": {
+    "r": "Wrong pair: World Homeopathy Day is 10 April, not 12 March. Correct: Environment Day 5 June, Earth Day 22 April, Yoga Day 21 June."
+  },
+  "65-038": {
+    "r": "World T.B. Day → March 24; World AIDS Day → December 1; Anti-Leprosy Day → last Sunday of January (31 January in 1999); Ozone Day → September 16."
+  },
+  "65-039": {
+    "r": "World Ozone Day → 16 September (Montreal Protocol adopted 16 September 1987; declared by UN General Assembly in 1994).",
+    "hi": ["Ozone layer (ओज़ोन परत)"]
+  },
+  "65-040": {
+    "r": "International AIDS Conference, July 2004 → Bangkok (Thailand); World AIDS Day → 1 December every year."
+  },
+  "65-043": {
+    "r": "Calendar order: Anti-Leprosy Day (last Sunday of January) → World TB Day (24 March) → World Alzheimer's Day (21 September) → World AIDS Day (1 December)."
+  },
+  "65-044": {
+    "r": "Both wrong: World Water Day is 22 March (not 22 April); World Leprosy Day is last Sunday of January (not 30 June). Book gives (b) and (c).",
+    "t": "22 April is Earth Day, not Water Day."
+  },
+  "65-045": {
+    "r": "World Diabetes Day → 14 November every year."
+  },
+  "65-046": {
+    "r": "Minority Rights Day → 18 December; World AIDS Day → 1 December; World Animal Day → 4 October; World Food Day → 16 October. Book gives no single answer (*)."
+  },
+  "65-047": {
+    "r": "Cuckoo → never builds a nest; Lizard → sheds its tail (regrows); Blue whale → largest living creature; Chimpanzee → most intelligent animal."
+  },
+  "65-048": {
+    "r": "Tamil Nadu → launched State-Level Committee for Vulture Conservation (October 2022) to implement Action Plan for Vulture Conservation 2020-2025.",
+    "hi": ["Vulture (गिद्ध)"]
+  },
+  "65-049": {
+    "r": "Ten captive-bred Asian giant tortoises (Manouria emys) → released December 2022 in Ntangki National Park, Nagaland."
+  },
+  "65-050": {
+    "r": "Both endangered (IUCN Red List): gharial crocodile (Gavialis gangeticus) is critically endangered; Indian elephant is endangered."
+  },
+  "65-051": {
+    "r": "Cheetah ('hunting leopard') → went extinct in India over 70 years ago; Project Cheetah (from 2022) brought them from Namibia, South Africa, Botswana to Kuno National Park.",
+    "hi": ["Cheetah (चीता)"]
+  },
+  "65-052": {
+    "r": "Sixth mass extinction → caused by humans: over-use of natural resources, habitat loss and fragmentation, ecosystem destruction, pollution, climate change (five earlier in 500 million years)."
+  },
+  "65-053": {
+    "r": "Wrong pair: inbuilt time-keeping system – biomass; biomass = biological material from living organisms (mostly plants). Correct: gene splicing–genetic engineering, amniocentesis, biodegradation."
+  },
+  "65-054": {
+    "r": "Diseases of inner body parts → diagnosed with an endoscope (flexible tube with light and camera, e.g. for digestive tract)."
+  },
+  "65-055": {
+    "r": "Endoscope → long thin tube with light source and video camera; not a telescope, camera or microscope → 'None of these'."
+  },
+  "65-056": {
+    "r": "Computed Tomography (CT / CAT scan) → uses X-rays taken from many angles, combined by computer into cross-sectional images.",
+    "t": "CT = X-rays; MRI = magnetic field + radio waves; ultrasound = sound waves."
+  },
+  "65-057": {
+    "r": "Barium meal before stomach X-ray → barium is a good absorber of X-rays, so the stomach stands out in contrast (detects tumours, ulcers)."
+  },
+  "65-058": {
+    "r": "EEG → brain; ECG → heart; EOG → eyes (retina); EMG → muscle.",
+    "h": "Encephalo = brain, Cardio = heart, Oculo = eye, Myo = muscle."
+  },
+  "65-059": {
+    "r": "Brain diseases → diagnosed by E.E.G. (electroencephalograph), which records brain waves; first recorded by Hans Berger with electrodes."
+  },
+  "65-062": {
+    "r": "Audiogram → ear; E.C.G. → heart; E.E.G. → brain; Mammogram → breast."
+  },
+  "65-063": {
+    "r": "MRI → based on nuclear magnetic resonance; uses powerful magnetic field, radio frequency pulses and a computer to image organs and soft tissues."
+  },
+  "65-064": {
+    "r": "MRI = Magnetic Resonance Imaging → uses magnetic field and radio-wave pulses to picture organs inside the body."
+  },
+  "65-065": {
+    "r": "MRI uses magnetic field and radio waves; it uses NO ionizing radiation (X-rays, gamma rays) → 'more than one of the above' (e).",
+    "t": "X-ray is used in CT scan, not MRI."
+  },
+  "65-067": {
+    "r": "BMD (Bone Mineral Density) test → diagnosis of osteoporosis (bone loses mineral density, fracture risk rises); measures calcium and minerals in bone.",
+    "hi": ["Osteoporosis (अस्थि सुषिरता)"]
+  },
+  "65-070": {
+    "r": "Lithotripsy → breaking stones in kidney, bladder or ureter with ultrasound shockwaves; pieces pass out in urine.",
+    "h": "Litho = stone, tripsy = crushing."
+  },
+  "65-071": {
+    "r": "Electron beam therapy → radiation therapy for certain cancers (skin lymphoma); types: spot treatment and total skin electron beam therapy."
+  },
+  "65-072": {
+    "r": "Tetraplegia (quadriplegia) → paralysis (total or partial) of both hands and both legs.",
+    "h": "Tetra/quadri = four: all four limbs."
+  },
+  "65-073": {
+    "r": "Nutrition, respiration and synthesis → three major aspects of metabolism (catabolism = breakdown for energy; anabolism = synthesis).",
+    "hi": ["Metabolism (उपापचय)"]
+  },
+  "65-074": {
+    "r": "Artificial silk → rayon, a manufactured cellulose fibre regenerated from wood and agricultural products.",
+    "hi": ["Artificial silk (कृत्रिम रेशम)"]
+  }
+}
