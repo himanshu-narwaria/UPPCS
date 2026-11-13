@@ -3,6 +3,7 @@ import re
 import os
 import html
 from collections import defaultdict
+from study_render import STUDY_CSS
 
 def generate_72h_plan():
     base_dir = os.path.join("dashboard-src", "subjects", "polity")
@@ -11,7 +12,7 @@ def generate_72h_plan():
     with open(os.path.join(base_dir, "parsed_uppsc_questions.json"), encoding="utf-8") as f:
         qs = json.load(f)
     with open(os.path.join(base_dir, "template_72h_style.css"), encoding="utf-8") as f:
-        css = f.read()
+        css = f.read() + STUDY_CSS
     with open(os.path.join(base_dir, "template_72h_js.html"), encoding="utf-8") as f:
         js = f.read()
 
@@ -149,11 +150,12 @@ def generate_72h_plan():
     out.append('<section class="view on" id="home"><h1>Indian Polity in 72 Hours</h1>')
     out.append('<p class="gist">72 hours before 6 December 2026 for UPPSC Prelims 2026.</p>')
     out.append('<a class="cta" id="cont" href="#h1">Start with hour 1 →</a>')
-    out.append('<p class="lead">Complete syllabus coverage in 48 hours of focused reading, 20 hours of rapid revision, and 4 timed full-length mocks. Every hour has its reading points and real UPPSC PYQs.</p>')
+    out.append('<p class="lead">48 learning sessions, 20 revision sessions and 4 short practice mocks. This is a guided route through the book, with selective reading points and source-labelled UPPSC questions.</p>')
+    out.append('<div class="study-path"><b>Use each hour actively.</b><p>20 min: read and compare. 10 min: close the notes and explain the core rule. 20 min: solve the linked questions. 10 min: review errors and record the rule you missed. Revisit errors the next day and three days later.</p><p><a href="polity-uppsc-full-notes.html">Full notes and PDF checks</a> · <a href="polity-uppsc-quick-notes.html">Quick revision with recall prompts</a>. Book keys are preserved; uncertain source questions are unscored in full notes.</p></div>')
     out.append('<div class="plan-grid">')
     out.append('<div class="card"><h3>Phase 1: Learn</h3><p><b>Hours 1–48</b>: All 42 chapters structured into 48 intensive sessions. Read high-yield summaries and solve matching PYQs.</p><a class="btn" href="#h1">Start Hour 1 →</a></div>')
     out.append('<div class="card"><h3>Phase 2: Revise</h3><p><b>Hours 49–68</b>: 20 rapid revision hours focusing on repeated facts, landmark judgments, key articles, and constitutional amendments.</p><a class="btn sec" href="#h49">Jump to Revision →</a></div>')
-    out.append('<div class="card"><h3>Phase 3: Test</h3><p><b>Hours 69–72</b>: 4 timed mocks with high-yield questions simulating real UPPSC exam conditions.</p><a class="btn sec" href="#h69">Jump to Tests →</a></div>')
+    out.append('<div class="card"><h3>Phase 3: Test</h3><p><b>Hours 69–72</b>: 4 mixed-chapter practice mocks, 25 questions each. Use the remaining time to explain every error.</p><a class="btn sec" href="#h69">Jump to Tests →</a></div>')
     out.append('</div>')
     out.append('</section>')
     
@@ -179,18 +181,14 @@ def generate_72h_plan():
             if not hour_q_ids:
                 hour_q_ids = ch_all_qs[:15]
                 
-            # 2. Distinct Reading points per part
-            topics = c.get("topics", [])
-            num_topics = len(topics)
-            t_start = part_idx * num_topics // num_parts
-            t_end = (part_idx + 1) * num_topics // num_parts if part_idx < num_parts - 1 else num_topics
-            assigned_topics = topics[t_start:t_end] if t_start < t_end else [topics[min(t_start, num_topics - 1)]]
-            
-            for top in assigned_topics:
-                pts = [p["html"] for p in top.get("points", [])]
-                if pts:
-                    pts_html = "".join(f'<li class="pt">{p}</li>' for p in pts[:8])
-                    read_blocks.append(f'<div class="ch-read"><h4>{html.escape(top["title"])}</h4><ul>{pts_html}</ul></div>')
+            # Split complete learning points, so one-topic chapters do not
+            # repeat the same reading in every part.
+            points = [p["html"] for top in c.get("topics", []) for p in top.get("points", [])]
+            start = part_idx * len(points) // num_parts
+            end = (part_idx + 1) * len(points) // num_parts
+            assigned = points[start:end]
+            pts_html = "".join(f'<li class="pt">{point}</li>' for point in assigned)
+            read_blocks.append(f'<div class="ch-read"><h4>Chapter {c_num}: build the idea, part {part_idx + 1}</h4><ul>{pts_html}</ul></div>')
         else:
             # Single or combined chapters
             for c_num in ch_nums:
@@ -213,7 +211,10 @@ def generate_72h_plan():
         out.append(f'<section class="view" id="h{h}" data-n="{h}">')
         out.append(f'<p class="eyebrow">{eyebrow}</p>')
         out.append(f'<h2>{html.escape(title)}</h2>')
-        out.append('<div class="reading"><h3>High-Yield Reading</h3>' + "".join(read_blocks) + '</div>')
+        out.append('<div class="reading"><h3>Read, then explain it without looking</h3>' + "".join(read_blocks) + '</div>')
+        out.append('<p class="study-trap"><b>Recall before practice:</b> state the central rule, one exception, and the closest concept you could confuse it with. Check against the linked chapter.</p>')
+        for c_num in ch_nums:
+            out.append(f'<p class="source-note"><a href="polity-uppsc-full-notes.html#c{c_num}">Chapter {c_num}: comparison, recall answers and PDF evidence →</a></p>')
         
         # Questions
         sel_q_ids = hour_q_ids[:15] if hour_q_ids else all_q_ids[((h-1)*5) % len(all_q_ids) : (((h-1)*5) % len(all_q_ids)) + 8]
@@ -230,8 +231,8 @@ def generate_72h_plan():
     # Hours 49 to 68 (Revise)
     for h, title in revise_hours:
         eyebrow = f"Hour {h} of 72 · Revise"
-        start_idx = ((h - 49) * 2) % len(chapters)
-        rev_chapters = chapters[start_idx : start_idx + 3]
+        revision_map = {49:[1,2,3],50:[4,5,6,7,8,9,10],51:[11,12],52:[13],53:[13],54:[14,15],55:[16],56:[17,18],57:[19,20],58:[21],59:[22,23],60:[23,25],61:[24],62:[26],63:[27],64:[28],65:[29],66:[30,31],67:[40],68:[32,33,34,35,36,37,38,39,41,42]}
+        rev_chapters = [ch_dict[n] for n in revision_map[h]]
         
         read_blocks = []
         hour_q_ids = []
@@ -244,8 +245,11 @@ def generate_72h_plan():
             hour_q_ids.extend(rev_qs[:5])
             rev_pts = []
             for top in c.get("topics", []):
-                for pt in top.get("points", []):
-                    if pt.get("asked") or pt.get("hot"):
+                selected_points = top.get("points", [])
+                if h in (52, 53):
+                    selected_points = selected_points[:2] if h == 52 else selected_points[2:]
+                for pt in selected_points:
+                    if pt.get("asked") or pt.get("hot") or pt.get("keep"):
                         rev_pts.append(pt["html"])
             if rev_pts:
                 pts_html = "".join(f'<li class="pt">{p}</li>' for p in rev_pts[:6])
@@ -255,6 +259,9 @@ def generate_72h_plan():
         out.append(f'<p class="eyebrow">{eyebrow}</p>')
         out.append(f'<h2>{html.escape(title)}</h2>')
         out.append('<div class="reading"><h3>Rapid Revision Focus</h3>' + "".join(read_blocks) + '</div>')
+        out.append('<p class="study-trap"><b>Retrieve:</b> explain each distinction before reopening the notes. Write one correction for every missed question.</p>')
+        for c in rev_chapters:
+            out.append(f'<p class="source-note"><a href="polity-uppsc-quick-notes.html#c{c["num"]}">{html.escape(c["title"])}: comparison and recall prompts →</a></p>')
         
         sel_q_ids = hour_q_ids[:15] if hour_q_ids else all_q_ids[((h-1)*5) % len(all_q_ids) : (((h-1)*5) % len(all_q_ids)) + 10]
         q_csv = ",".join(sel_q_ids)
@@ -271,14 +278,20 @@ def generate_72h_plan():
         eyebrow = f"Hour {h} of 72 · Test"
         mock_idx = h - 69
         slice_size = min(25, len(all_q_ids) // 4)
-        mock_q_ids = all_q_ids[mock_idx * slice_size : (mock_idx + 1) * slice_size]
+        # Round-robin chapter buckets so every mock samples the book rather
+        # than taking the first 100 constitutional-history questions.
+        mixed = []
+        buckets = [list(values) for values in qs_by_ch.values()]
+        for i in range(max(map(len, buckets))):
+            mixed.extend(bucket[i] for bucket in buckets if i < len(bucket))
+        mock_q_ids = mixed[mock_idx * slice_size : (mock_idx + 1) * slice_size]
         q_csv = ",".join(mock_q_ids)
         
         out.append(f'<section class="view" id="h{h}" data-n="{h}">')
         out.append(f'<p class="eyebrow">{eyebrow}</p>')
         out.append(f'<h2>{html.escape(title)}</h2>')
         out.append('<div class="reading"><h3>Exam Simulation Instructions</h3>')
-        out.append('<p>Time: 60 minutes. Standard UPPSC negative marking (1/3rd mark deducted per wrong answer). Answer all questions under timed exam conditions.</p></div>')
+        out.append('<p>25-question practice mock: allow 25 minutes, then use 35 minutes for review. For your own practice calculation, use +1 for correct, −1/3 for wrong, 0 for unattempted. The on-page score reports answered/correct counts and accuracy; it does not calculate this net mark or run a timer.</p></div>')
         
         out.append('<div class="practice"><h3>Mock Test Questions</h3>')
         out.append(f'<p class="score"></p><ol class="pq" data-q="{q_csv}"></ol></div>')

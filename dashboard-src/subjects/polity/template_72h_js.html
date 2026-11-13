@@ -4,6 +4,8 @@ try {
   var pqdEl = $("#pqd");
   var D = pqdEl ? JSON.parse(pqdEl.textContent) : {},side=$("#side"),scrim=$("#scrim"),q=$("#q"),last="home",done=[];
   try{done=JSON.parse(localStorage.getItem("polgov72-done")||"[]")}catch(e){}
+  if(!Array.isArray(done))done=[];
+  done=done.filter(function(n,i,a){return Number.isInteger(n)&&n>=1&&n<=72&&a.indexOf(n)===i});
   function save(){try{localStorage.setItem("polgov72-done",JSON.stringify(done))}catch(e){}}
   function paint(){
     $$(".side a[data-v]").forEach(function(a){a.classList.toggle("ok",done.indexOf(+a.dataset.v.slice(1))>=0)});
@@ -31,7 +33,7 @@ try {
       var fb=$(".fb",li);
       if(fb){
         fb.hidden=false;
-        fb.innerHTML='<b class="'+(ok?"ok":"no")+'">'+(ok?"Correct.":"Not correct.")+"</b> "+x.f+(x.n>1?' <span class="p up">UPPSC ×'+x.n+"</span>":"")+"";
+        fb.innerHTML='<b class="'+(ok?"ok":"no")+'">'+(ok?"Correct.":"Not correct.")+"</b> "+x.f+(x.n>1?' <span class="p up">UPPSC ×'+x.n+"</span>":"")+'<p class="source-note">Book key: '+x.k.map(function(k){return "abcde"[k]}).join(" / ")+'; not independently verified as an official key. <a href="Preview_Indian_Polity_and_Governance_Part_4_2026_26118_C_E_Book.pdf#page='+x.p+'" target="_blank" rel="noopener noreferrer">PDF p. '+x.p+'</a> · <a href="polity-uppsc-full-notes.html#'+x.h+'">Open note</a></p>';
       }
       st.d++;if(ok)st.r++;showScore();
     });
@@ -72,7 +74,9 @@ try {
   if(scrim)scrim.onclick=function(){drawer(false)};
   var dark = $('#dark');
   if (dark) {
-    var isDark = localStorage.getItem('polgov-theme') === 'dark' || (!localStorage.getItem('polgov-theme') && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+    var savedTheme = null;
+    try{savedTheme=localStorage.getItem('polgov-theme')}catch(e){}
+    var isDark = savedTheme === 'dark' || (!savedTheme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
     dark.checked = isDark;
     document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
     dark.addEventListener('change', function () {

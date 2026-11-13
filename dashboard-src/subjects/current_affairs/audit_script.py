@@ -3,6 +3,9 @@ import re
 import json
 import html
 from collections import Counter, OrderedDict
+from pathlib import Path
+from urllib.parse import unquote, urlsplit
+from bs4 import BeautifulSoup
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, "..", "..", ".."))
@@ -39,6 +42,9 @@ def check_security(path):
 def check_links(path):
     s = open(path, encoding="utf-8").read()
     label = os.path.basename(path)
+    soup = BeautifulSoup(s, "html.parser")
+    identifiers = [x["id"] for x in soup.select("[id]")]
+    assert len(identifiers) == len(set(identifiers)), f"Duplicate IDs in {label}"
     
     # Strip script blocks to only inspect HTML DOM markup
     s_no_scripts = re.sub(r'<script\b[^>]*>.*?</script>', '', s, flags=re.S)
@@ -58,8 +64,23 @@ def check_links(path):
     if broken:
         print(f"FAILED {label}: broken internal anchors: {Counter(broken)}")
         return False
+
+    # Cross-file chapter/topic links must resolve too, including every 72h topic link.
+    cross_links = 0
+    target_ids = {}
+    for a in soup.select("a[href]"):
+        link = urlsplit(a["href"])
+        if link.scheme or link.netloc or not link.path:
+            continue
+        target = (Path(path).parent / unquote(link.path)).resolve()
+        assert target.is_file(), f"Missing link target in {label}: {a['href']}"
+        if link.fragment and target.suffix == ".html":
+            if target not in target_ids:
+                target_ids[target] = set(re.findall(r'\bid=["\']([^"\']+)["\']', target.read_text(encoding="utf-8")))
+            assert unquote(link.fragment) in target_ids[target], f"Missing cross-file anchor: {a['href']}"
+        cross_links += 1
         
-    print(f"PASSED {label}: all {len(hrefs)} internal anchors resolve ({len(all_targets)} targets).")
+    print(f"PASSED {label}: {len(hrefs)} internal anchors, {cross_links} cross-file links and unique IDs resolve.")
     return True
 
 def check_contracts():
@@ -81,10 +102,10 @@ def check_contracts():
 
 def main():
     print(f"Auditing Current Affairs files in: {FOLDER}")
-    print("\n=== 1. SECURITY & CSP AUDIT ===")
+    print("\n=== 1. OFFLINE RESOURCE & HANDLER AUDIT ===")
     for p in [full_file, quick_file, plan_file]:
         assert check_security(p), f"Security check failed for {p}"
-    print("All 3 files passed CSP & Security audit.")
+    print("All 3 files contain no inline event handlers, javascript links or external network resources.")
     
     print("\n=== 2. LINK RESOLUTION AUDIT ===")
     for p in [full_file, quick_file, plan_file]:
@@ -93,7 +114,7 @@ def main():
     print("\n=== 3. CONTRACT & DASHBOARD AUDIT ===")
     check_contracts()
     
-    print("\nALL AUDIT CHECKS PASSED PERFECTLY!")
+    print("\nAll structural, offline-resource, anchor and dashboard contract checks passed.")
 
 if __name__ == "__main__":
     main()

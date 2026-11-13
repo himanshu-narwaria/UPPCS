@@ -1,44 +1,52 @@
+"""Rebuild active Polity artifacts from the unchanged source PDF and guides."""
+import argparse
+import hashlib
+import json
+from pathlib import Path
 import subprocess
 import sys
-import os
 import time
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = Path(__file__).resolve().parent
+ROOT = HERE.parents[2]
+PDF = ROOT / "Indian_Polity_and_Governance" / "Preview_Indian_Polity_and_Governance_Part_4_2026_26118_C_E_Book.pdf"
 
-def run_step(script_name):
-    script_path = os.path.join(HERE, script_name)
-    print(f"\n>>> Running {script_name}...")
-    t0 = time.time()
-    res = subprocess.run([sys.executable, script_path], capture_output=True, text=True, encoding="utf-8")
-    if res.returncode != 0:
-        print(f"FAILED {script_name}:\n{res.stderr}")
-        sys.exit(1)
-    print(res.stdout.strip())
-    print(f"Finished {script_name} in {time.time() - t0:.1f}s")
+
+def run_step(name):
+    started = time.time()
+    print(f"Running {name}", flush=True)
+    result = subprocess.run([sys.executable, str(HERE / name)], cwd=ROOT,
+                            text=True, capture_output=True, encoding="utf-8")
+    print(result.stdout.strip(), flush=True)
+    if result.returncode:
+        print(result.stderr, file=sys.stderr)
+        raise SystemExit(result.returncode)
+    print(f"Completed in {time.time() - started:.1f}s", flush=True)
+
+
+def extraction_current():
+    try:
+        identity = json.loads((HERE / "source_identity.json").read_text(encoding="utf-8"))
+        pages = json.loads((HERE / "raw_pages.json").read_text(encoding="utf-8"))
+        return (identity["sha256"] == hashlib.sha256(PDF.read_bytes()).hexdigest()
+                and len(pages) == identity["pages"]
+                and all("columns" in page and "stream_text" in page for page in pages))
+    except (OSError, ValueError, KeyError):
+        return False
+
 
 def main():
-    t_start = time.time()
-    print("==================================================")
-    print("     REBUILDING ALL INDIAN POLITY STUDY FILES     ")
-    print("==================================================")
-    
-    raw_pages = os.path.join(HERE, "raw_pages.json")
-    if not os.path.exists(raw_pages):
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--reextract", action="store_true")
+    arguments = parser.parse_args()
+    if arguments.reextract or not extraction_current():
         run_step("extract_all_pages.py")
-        
-    run_step("build_polity_data.py")
-    run_step("generate_chapters_1_21.py")
-    run_step("generate_chapters_22_42.py")
-    run_step("build_structured_chapters.py")
-    run_step("build_repeated_and_latest.py")
-    run_step("generate_full_notes.py")
-    run_step("generate_quick_notes.py")
-    run_step("generate_72h_plan.py")
-    run_step("critic_adversarial_qa.py")
-    
-    print("\n==================================================")
-    print(f"ALL INDIAN POLITY STUDY FILES REBUILT ({time.time() - t_start:.1f}s)!")
-    print("==================================================")
+    for name in ("build_polity_data.py", "generate_chapters_1_21.py", "generate_chapters_22_42.py",
+                 "build_structured_chapters.py", "build_repeated_and_latest.py", "generate_full_notes.py",
+                 "generate_quick_notes.py", "generate_72h_plan.py", "critic_adversarial_qa.py"):
+        run_step(name)
+    print("Active Polity rebuild and evidence checks completed.")
+
 
 if __name__ == "__main__":
     main()

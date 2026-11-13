@@ -1,0 +1,4322 @@
+[
+  {
+    "page": 1,
+    "type": "cover/watermark",
+    "chapter": null
+  },
+  {
+    "page": 2,
+    "type": "index/editorial",
+    "chapter": null
+  },
+  {
+    "page": 3,
+    "type": "index/editorial",
+    "chapter": null
+  },
+  {
+    "page": 4,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t2"
+    ],
+    "source_blocks": 36,
+    "retained_characters": 3211,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "36f6bb37d9f870566df0d7c1a611d47f2060ab95b3e095b746b1bd4413ae43c4"
+  },
+  {
+    "page": 5,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t2"
+    ],
+    "source_blocks": 50,
+    "retained_characters": 4327,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e5b716fda899e2c5013227c56427716d00c7a463937e7573f21c383fa5e6290b"
+  },
+  {
+    "page": 6,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t2"
+    ],
+    "source_blocks": 48,
+    "retained_characters": 4305,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "dc73fdbb2b0ec6ff7ea70b511e291ff439fff7282afb9c4e55eb17325e7d87e6"
+  },
+  {
+    "page": 7,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t2",
+      "c1-t3"
+    ],
+    "source_blocks": 45,
+    "retained_characters": 4161,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "a456e5625c69160bb3e6eedf61d0e028f62d134bea87ba1cb05f15e18de54000"
+  },
+  {
+    "page": 8,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t3"
+    ],
+    "source_blocks": 47,
+    "retained_characters": 4175,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "0f3b8b13f3e262d2d32bf8d064447b4549dceb9360538aedbbca318fb60d1a93"
+  },
+  {
+    "page": 9,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t3"
+    ],
+    "source_blocks": 47,
+    "retained_characters": 4254,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "8f57c28037fce73ea0bf298c0325e5af2d3c2f077c54146ec610122bd249c721"
+  },
+  {
+    "page": 10,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t3",
+      "c1-t4"
+    ],
+    "source_blocks": 44,
+    "retained_characters": 4176,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9ce0c85c892cd2df06623dbf7315c127a2d7efff2a582ad996a14cb5f2d26e93"
+  },
+  {
+    "page": 11,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t4",
+      "c1-t5"
+    ],
+    "source_blocks": 46,
+    "retained_characters": 3980,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "8a62e1f67611605886482c4213f6fa2affb4a99e4463f7d1ed9cc3e300732f6a"
+  },
+  {
+    "page": 12,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t5"
+    ],
+    "source_blocks": 48,
+    "retained_characters": 4255,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "ffe6be8dda12a2e265d4ec42a90f8f6a6c40922f7fac2b35fc8061a8c0f55e2b"
+  },
+  {
+    "page": 13,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t5"
+    ],
+    "source_blocks": 49,
+    "retained_characters": 4111,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e9b2e550a1383ca82bdd6282fc9d79a854da1ff07ca6241dda603e57197fef8b"
+  },
+  {
+    "page": 14,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t5",
+      "c1-t6"
+    ],
+    "source_blocks": 45,
+    "retained_characters": 4207,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "2aaf2028f949ceb4f1cc38ddaef83dabd7dc8cfd7b6784f53a7d6bcdbfd42689"
+  },
+  {
+    "page": 15,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t6"
+    ],
+    "source_blocks": 48,
+    "retained_characters": 4131,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "6f5db5ceaee3e238a0b60c4c397a9df347c61021cf5aa01da8151a815f7c207d"
+  },
+  {
+    "page": 16,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t6",
+      "c1-t7"
+    ],
+    "source_blocks": 52,
+    "retained_characters": 4120,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "7732bdf20e7c0dadaa48763cf758108572378e50cc409cf20862c62e98861c81"
+  },
+  {
+    "page": 17,
+    "type": "content",
+    "chapter": 1,
+    "topics": [
+      "c1-t7"
+    ],
+    "source_blocks": 51,
+    "retained_characters": 4126,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "5e87a185df850af82e812bd551a05dcc8d580260bcc24109a3cc7aba48ab388c"
+  },
+  {
+    "page": 18,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t2",
+      "c2-t3",
+      "c2-t4",
+      "c2-t5"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 2622,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "1a3c9dd77f74b2bae4fc294c5f9c749240304e19bbe744dbdc79fed702c32e33"
+  },
+  {
+    "page": 19,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t6",
+      "c2-t7",
+      "c2-t8",
+      "c2-t9",
+      "c2-t10"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 3671,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "00fa90743026b841dfd8da582238abeda506190d2205bff48abdc8ffcca87752"
+  },
+  {
+    "page": 20,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t10",
+      "c2-t11",
+      "c2-t12",
+      "c2-t13",
+      "c2-t14",
+      "c2-t15",
+      "c2-t16"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 3801,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "42ca48b1c782df2867104fcc83edbb1b7ede12c24db8f9dc551cf113578152e4"
+  },
+  {
+    "page": 21,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t16",
+      "c2-t17",
+      "c2-t18",
+      "c2-t19",
+      "c2-t20",
+      "c2-t21",
+      "c2-t22"
+    ],
+    "source_blocks": 20,
+    "retained_characters": 3730,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "1591701726bab501548696ee03dc38f21f5c78d11bfaba195527ab067e6f98f2"
+  },
+  {
+    "page": 22,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t23",
+      "c2-t24"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 4036,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "750e2278004d409fe2c8831983bf612d289afe7d6161e87430bbe546b21d3c29"
+  },
+  {
+    "page": 23,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t25",
+      "c2-t26",
+      "c2-t27",
+      "c2-t28",
+      "c2-t29",
+      "c2-t30",
+      "c2-t31"
+    ],
+    "source_blocks": 21,
+    "retained_characters": 3654,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "bc42fb8a49f9980f0eddfcff5a510bb59a41ec53e309ad22a62400bb48442b07"
+  },
+  {
+    "page": 24,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t32",
+      "c2-t33",
+      "c2-t34",
+      "c2-t35",
+      "c2-t36",
+      "c2-t37",
+      "c2-t38"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3476,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "7677aa60030d689ef0613075a21bb4fa5256ed86ed6eb2aa14df0cabbda80586"
+  },
+  {
+    "page": 25,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t38",
+      "c2-t39",
+      "c2-t40",
+      "c2-t41",
+      "c2-t42",
+      "c2-t43",
+      "c2-t44"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3480,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "cd0d42cb06c103959b844ab942eb7dae3f52c88581b332611c0861300fb319db"
+  },
+  {
+    "page": 26,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t44",
+      "c2-t45",
+      "c2-t46",
+      "c2-t47",
+      "c2-t48",
+      "c2-t49"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 3554,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "373d4d7fae7e4701ee53d1848b93d95819e75c51ef461452ccbdb6fb8794d9a3"
+  },
+  {
+    "page": 27,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t49",
+      "c2-t50",
+      "c2-t51",
+      "c2-t52",
+      "c2-t53",
+      "c2-t54"
+    ],
+    "source_blocks": 38,
+    "retained_characters": 3811,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "89f1df36ac163cf2a5264e1cf5a3a46fdc19ce523c26b9f4e5adbc3d5277cfc6"
+  },
+  {
+    "page": 28,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t54",
+      "c2-t55",
+      "c2-t56",
+      "c2-t57",
+      "c2-t58",
+      "c2-t59"
+    ],
+    "source_blocks": 20,
+    "retained_characters": 3660,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "a8426c4da9d966c50633d6d60bcc1ea5a5a1681358b5353500eca24571d18261"
+  },
+  {
+    "page": 29,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t60",
+      "c2-t61",
+      "c2-t62",
+      "c2-t63",
+      "c2-t64",
+      "c2-t65",
+      "c2-t66"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3855,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "1614627928916465eaa2bdad97b8eb2a6cf1d5c509bff95da66d4689b642eee1"
+  },
+  {
+    "page": 30,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t66",
+      "c2-t67",
+      "c2-t68",
+      "c2-t69",
+      "c2-t70",
+      "c2-t71",
+      "c2-t72",
+      "c2-t73",
+      "c2-t74"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 3654,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "eba5a7a694c90784cfcfcf315ceb0ff85f58485fcf462e41de416266ff67a573"
+  },
+  {
+    "page": 31,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t74",
+      "c2-t75",
+      "c2-t76",
+      "c2-t77",
+      "c2-t78",
+      "c2-t79",
+      "c2-t80"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3884,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "53b0c1588f864b9fc5f8fc99e7915b275b517d28e653ffae9add34e40c536cf5"
+  },
+  {
+    "page": 32,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t80",
+      "c2-t81",
+      "c2-t82",
+      "c2-t83",
+      "c2-t84",
+      "c2-t85",
+      "c2-t86",
+      "c2-t87"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 3807,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "6bc5ae1aca5f2c3d1ed2f9400cb80528eeacb6d8521939f240b33ca36d3cff89"
+  },
+  {
+    "page": 33,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t88",
+      "c2-t89",
+      "c2-t90",
+      "c2-t91",
+      "c2-t92",
+      "c2-t93",
+      "c2-t94",
+      "c2-t95"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 4029,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "13c9104e995243755dbaf0c18d1efb0c0d8a7d2f750c919d1cced23aed0b4822"
+  },
+  {
+    "page": 34,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t96",
+      "c2-t97",
+      "c2-t98",
+      "c2-t99",
+      "c2-t100",
+      "c2-t101"
+    ],
+    "source_blocks": 20,
+    "retained_characters": 2790,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "38741526f4f922af8e55f1356710d3eb48b891e5cad07889558932cf1c361435"
+  },
+  {
+    "page": 35,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t101",
+      "c2-t102",
+      "c2-t103",
+      "c2-t104",
+      "c2-t105",
+      "c2-t106",
+      "c2-t107",
+      "c2-t108",
+      "c2-t109",
+      "c2-t110",
+      "c2-t111"
+    ],
+    "source_blocks": 46,
+    "retained_characters": 3257,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "2de2ea5f92b31e3a7de68ec379b603cdda49bc53aef817471764cd0a83ab587e"
+  },
+  {
+    "page": 36,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t111",
+      "c2-t112",
+      "c2-t113",
+      "c2-t114",
+      "c2-t115",
+      "c2-t116",
+      "c2-t117",
+      "c2-t118"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3251,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "8e53257b1ea7de8d8f999085c1fcaa57916295ef2c83306dd737d29442133ff5"
+  },
+  {
+    "page": 37,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t119",
+      "c2-t120",
+      "c2-t121",
+      "c2-t122",
+      "c2-t123",
+      "c2-t124",
+      "c2-t125",
+      "c2-t126",
+      "c2-t127"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 3868,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b1a9fe96d2617c5ce231dba4961f19962c2afad6d36904f7a155a36d23d5c0fb"
+  },
+  {
+    "page": 38,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t127",
+      "c2-t128",
+      "c2-t129",
+      "c2-t130",
+      "c2-t131",
+      "c2-t132",
+      "c2-t133"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 3954,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "217ed10f6cf5b9b14ffad3876958e05c3b8adb02539dc9bb6cf66a246841d560"
+  },
+  {
+    "page": 39,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t133",
+      "c2-t134",
+      "c2-t135",
+      "c2-t136",
+      "c2-t137",
+      "c2-t138",
+      "c2-t139",
+      "c2-t140",
+      "c2-t141",
+      "c2-t142",
+      "c2-t143",
+      "c2-t144",
+      "c2-t145"
+    ],
+    "source_blocks": 37,
+    "retained_characters": 3215,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b8d4ac2dbab2d9aa7403915767b5104bc97377e0042b755b416000988e0c4566"
+  },
+  {
+    "page": 40,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t145",
+      "c2-t146",
+      "c2-t147",
+      "c2-t148",
+      "c2-t149"
+    ],
+    "source_blocks": 20,
+    "retained_characters": 3267,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f433cc3dafbcc371d762adcb29208d5f885f50d59658e0f561afdd3581ba0a25"
+  },
+  {
+    "page": 41,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t150",
+      "c2-t151",
+      "c2-t152",
+      "c2-t153"
+    ],
+    "source_blocks": 17,
+    "retained_characters": 3246,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "3e03e982f59b3a494933343717e23e7e23280a1e57b7fb6f5c08f1bb2e53ad3c"
+  },
+  {
+    "page": 42,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t153",
+      "c2-t154",
+      "c2-t155",
+      "c2-t156",
+      "c2-t157",
+      "c2-t158",
+      "c2-t159",
+      "c2-t160",
+      "c2-t161"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 2995,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "855bc30513466e66e6b5f74648cb88e7d0cbb62a2b124c389c732e24eb9e61e2"
+  },
+  {
+    "page": 43,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t161",
+      "c2-t162",
+      "c2-t163",
+      "c2-t164",
+      "c2-t165",
+      "c2-t166",
+      "c2-t167",
+      "c2-t168",
+      "c2-t169",
+      "c2-t170",
+      "c2-t171"
+    ],
+    "source_blocks": 50,
+    "retained_characters": 3679,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "4d081e0ca3f192d2190ae7a9442cfeba4c8256b3167d9a192912d9d0d7b3a61c"
+  },
+  {
+    "page": 44,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t172",
+      "c2-t173",
+      "c2-t174"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 3476,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "558a39bcd2d366983115b8cd3ba823e5d05cf359987f40eb26eba4a63a14e935"
+  },
+  {
+    "page": 45,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t175",
+      "c2-t176",
+      "c2-t177",
+      "c2-t178",
+      "c2-t179",
+      "c2-t180"
+    ],
+    "source_blocks": 39,
+    "retained_characters": 3831,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "de0f9d2f000629665efe2fe7305c9f980bc4873533013b56ec8b12252d75a347"
+  },
+  {
+    "page": 46,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t181",
+      "c2-t182",
+      "c2-t183",
+      "c2-t184",
+      "c2-t185",
+      "c2-t186",
+      "c2-t187"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3884,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "cf1bfeb93f74088ef9a454f7b5528132a945d67fdb1ee2cc6967c35285a2242c"
+  },
+  {
+    "page": 47,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t188",
+      "c2-t189",
+      "c2-t190",
+      "c2-t191"
+    ],
+    "source_blocks": 41,
+    "retained_characters": 3935,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "44f33bfba14f8f157964bbda07779a1c54bed85a2942b10974cf4464d089ccc6"
+  },
+  {
+    "page": 48,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t191",
+      "c2-t192",
+      "c2-t193",
+      "c2-t194",
+      "c2-t195",
+      "c2-t196",
+      "c2-t197"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 3850,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "fa948a691863d19d78cca91700414e1bcd749cfdcb8dd342e8e81d2029890398"
+  },
+  {
+    "page": 49,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t197",
+      "c2-t198",
+      "c2-t199",
+      "c2-t200"
+    ],
+    "source_blocks": 21,
+    "retained_characters": 3559,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "1df9184c5c7ac3214bb45885e1e03d029fef4c5e8761b6e5347e6853c12ae817"
+  },
+  {
+    "page": 50,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t200",
+      "c2-t201",
+      "c2-t202",
+      "c2-t203",
+      "c2-t204",
+      "c2-t205",
+      "c2-t206",
+      "c2-t207",
+      "c2-t208"
+    ],
+    "source_blocks": 38,
+    "retained_characters": 3556,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "14531c5c62a4c7518b54b46091693c40af64b0a4fc4c6fcb4b4e21318bb1e087"
+  },
+  {
+    "page": 51,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t208",
+      "c2-t209",
+      "c2-t210",
+      "c2-t211",
+      "c2-t212",
+      "c2-t213",
+      "c2-t214",
+      "c2-t215"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3780,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "d83b1b7751cc27c3f13483c3ddb3b7762759cc4a42b5ffaf7fec7449a39aa421"
+  },
+  {
+    "page": 52,
+    "type": "content",
+    "chapter": 2,
+    "topics": [
+      "c2-t215",
+      "c2-t216",
+      "c2-t217",
+      "c2-t218",
+      "c2-t219",
+      "c2-t220",
+      "c2-t221"
+    ],
+    "source_blocks": 34,
+    "retained_characters": 3941,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b2407180b1b00ec9827635a9811ce8bdc87c89bc8a43766ab478aa690e1ed26e"
+  },
+  {
+    "page": 53,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t2",
+      "c3-t3",
+      "c3-t4"
+    ],
+    "source_blocks": 12,
+    "retained_characters": 2898,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "35addf45076524ee4dbddae24a8c6895b1d06d3b79f8b0aacfea177414cdc813"
+  },
+  {
+    "page": 54,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t4"
+    ],
+    "source_blocks": 34,
+    "retained_characters": 4415,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "816a0d9c94c490ca6e62956b54a2b7f15e3ce4402693c461212e63b2676c09ee"
+  },
+  {
+    "page": 55,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t5",
+      "c3-t6",
+      "c3-t7",
+      "c3-t8"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 4376,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "97c05e628c2107073c4facc0dad661cb6804834e9bf332732229526131141fd8"
+  },
+  {
+    "page": 56,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t8",
+      "c3-t9",
+      "c3-t10"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 3986,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "50410b1401c551baff5dc695830445930ed4821e91071792abda2fa473fe7250"
+  },
+  {
+    "page": 57,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t10",
+      "c3-t11",
+      "c3-t12",
+      "c3-t13"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 3642,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "57176e9c32c695903bf9a6c5edd59f59ab79abeb75d8b5a86783bb66609d663a"
+  },
+  {
+    "page": 58,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t13",
+      "c3-t14",
+      "c3-t15",
+      "c3-t16"
+    ],
+    "source_blocks": 34,
+    "retained_characters": 4353,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c5167d54ab4104680328ff7cd1557d921ff1d93a19f28f1286c85dc86161fb05"
+  },
+  {
+    "page": 59,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t16",
+      "c3-t17",
+      "c3-t18",
+      "c3-t19",
+      "c3-t20",
+      "c3-t21"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 3842,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "74b9b1f3c732de592a373c293b712f1ec71ae672cb9b7bbb99d6f1f2a94a7565"
+  },
+  {
+    "page": 60,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t21",
+      "c3-t22",
+      "c3-t23",
+      "c3-t24"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 4029,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "eda21ae18af6c018fdd8d2d132e94c251a8849dc9c0ae2d8a6e90b538665e914"
+  },
+  {
+    "page": 61,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t24",
+      "c3-t25",
+      "c3-t26",
+      "c3-t27",
+      "c3-t28",
+      "c3-t29"
+    ],
+    "source_blocks": 14,
+    "retained_characters": 3150,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "8a3275d20ba38da474de48ad86e827f9318b6630c9ca4fe6e6048af4cda91d20"
+  },
+  {
+    "page": 62,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t30",
+      "c3-t31",
+      "c3-t32",
+      "c3-t33",
+      "c3-t34",
+      "c3-t35",
+      "c3-t36",
+      "c3-t37"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 4100,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "39c5318403e4f870564c7137cdf039cc8b1dc5f77decaa373cad444963b5f234"
+  },
+  {
+    "page": 63,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t37",
+      "c3-t38",
+      "c3-t39",
+      "c3-t40",
+      "c3-t41",
+      "c3-t42",
+      "c3-t43"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 4028,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9e133f99e230f8b29af30802bb9487f4acc8be935397fe3542b42870c54eb71d"
+  },
+  {
+    "page": 64,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t44",
+      "c3-t45",
+      "c3-t46"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 4051,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "858ed751e17a2d1061dd807fd8e401951ec3d3235062dd584a1c127290622fac"
+  },
+  {
+    "page": 65,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t47",
+      "c3-t48",
+      "c3-t49",
+      "c3-t50"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 4158,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9d201a67168fe0abf35f74d29cacc9695f88a87efe5ec189645445ddf0a93ce2"
+  },
+  {
+    "page": 66,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t50",
+      "c3-t51",
+      "c3-t52",
+      "c3-t53"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 3765,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "38ed4cc2055d737d3e8b9f35986a4b4538c4c3d1b87ca5dda8e437dd2d2bb0e8"
+  },
+  {
+    "page": 67,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t53",
+      "c3-t54",
+      "c3-t55",
+      "c3-t56",
+      "c3-t57"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3928,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "ac8c988e98dfde1735821b0ef83dafb9abf1b46c9cc608153a2843d85ccbce72"
+  },
+  {
+    "page": 68,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t57",
+      "c3-t58",
+      "c3-t59",
+      "c3-t60",
+      "c3-t61",
+      "c3-t62",
+      "c3-t63",
+      "c3-t64",
+      "c3-t65"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 3442,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "d4a2bb451972adc1d403bc3568709cda239fb9669c7f1e154d64a44a12e8725d"
+  },
+  {
+    "page": 69,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t65",
+      "c3-t66",
+      "c3-t67",
+      "c3-t68",
+      "c3-t69",
+      "c3-t70"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3029,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "2ee3d1a660b97467ffe8ce426526ee2e2005582c0d18639f86817eb134a7c23b"
+  },
+  {
+    "page": 70,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t70",
+      "c3-t71",
+      "c3-t72",
+      "c3-t73",
+      "c3-t74"
+    ],
+    "source_blocks": 41,
+    "retained_characters": 4027,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "882f2befd9fb5d1343a51f8760bd4a9d4df8192f3cd602d5a0f90cba23b0849f"
+  },
+  {
+    "page": 71,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t74",
+      "c3-t75",
+      "c3-t76",
+      "c3-t77",
+      "c3-t78"
+    ],
+    "source_blocks": 55,
+    "retained_characters": 3658,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "fa1b45cabd3216db0476af547a428f6645cee59003ae8e6df97dfd6c5ebd2d4d"
+  },
+  {
+    "page": 72,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t78",
+      "c3-t79",
+      "c3-t80",
+      "c3-t81",
+      "c3-t82",
+      "c3-t83"
+    ],
+    "source_blocks": 26,
+    "retained_characters": 3610,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b0492099d5dbcbabae5d6448adf09205e82b8094eadaf3d75d5e240b260414e1"
+  },
+  {
+    "page": 73,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t83",
+      "c3-t84",
+      "c3-t85",
+      "c3-t86",
+      "c3-t87"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 4034,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9374465714acd241f13cf956a1934b38715b51fb1f062e6b2eb26fedba0a827f"
+  },
+  {
+    "page": 74,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t87",
+      "c3-t88",
+      "c3-t89",
+      "c3-t90",
+      "c3-t91",
+      "c3-t92",
+      "c3-t93"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3970,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c5a00469724576cc03f30d5a1ff9919c9e0842b0471e12b1da9796a8e3f9fff9"
+  },
+  {
+    "page": 75,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t93",
+      "c3-t94",
+      "c3-t95",
+      "c3-t96"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 3779,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "fe5fcd575901f77ea81596e2b469983a2f5691bcc63dce6ae534660597a9caac"
+  },
+  {
+    "page": 76,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t97",
+      "c3-t98"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3811,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c92f99151318eb6271d0e3b7608865e760cf3279db4a3885fc5bd88dad56094c"
+  },
+  {
+    "page": 77,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t98",
+      "c3-t99",
+      "c3-t100"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3789,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f494a54a6e9b53c95664346917ed2994cad931b41a70b800a082c1c064dfa96b"
+  },
+  {
+    "page": 78,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t100",
+      "c3-t101",
+      "c3-t102",
+      "c3-t103",
+      "c3-t104"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 3638,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "7d074e190896b77a3bf9f4cee2d1b22c124756997d0b2fcab5f912dad25c0c73"
+  },
+  {
+    "page": 79,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t104",
+      "c3-t105",
+      "c3-t106"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3760,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "0ec57d43dff6e023b7808fc6c4de6be6c7142f4c4998889854940df65562458a"
+  },
+  {
+    "page": 80,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t106",
+      "c3-t107",
+      "c3-t108"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 3959,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "361afa6acad759749991f28544e80b81f5d001b1a4b6c04639b9a7988121eacb"
+  },
+  {
+    "page": 81,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t108",
+      "c3-t109",
+      "c3-t110",
+      "c3-t111",
+      "c3-t112",
+      "c3-t113"
+    ],
+    "source_blocks": 19,
+    "retained_characters": 3329,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "860349599404818b6b068c9f9518108879a3627231ff5891d10139f4d1fef321"
+  },
+  {
+    "page": 82,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t114",
+      "c3-t115",
+      "c3-t116",
+      "c3-t117"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 3458,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e274dafa8dabc5e3d6f444da350dc986b115a2976eee42d48550430d618c8d08"
+  },
+  {
+    "page": 83,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t118",
+      "c3-t119",
+      "c3-t120",
+      "c3-t121",
+      "c3-t122",
+      "c3-t123",
+      "c3-t124",
+      "c3-t125",
+      "c3-t126"
+    ],
+    "source_blocks": 26,
+    "retained_characters": 3323,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "4abf74df023f408d5826e8e83f658862c3895bed984c0e85bfe6dbca6b2a778b"
+  },
+  {
+    "page": 84,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t126",
+      "c3-t127",
+      "c3-t128",
+      "c3-t129",
+      "c3-t130",
+      "c3-t131",
+      "c3-t132",
+      "c3-t133",
+      "c3-t134",
+      "c3-t135",
+      "c3-t136"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 3697,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "853a483d9f214570a4d99a52732bc4015623101bb3a73cce44b98fc76c086202"
+  },
+  {
+    "page": 85,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t137",
+      "c3-t138",
+      "c3-t139",
+      "c3-t140",
+      "c3-t141",
+      "c3-t142",
+      "c3-t143",
+      "c3-t144"
+    ],
+    "source_blocks": 35,
+    "retained_characters": 3830,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "293241defa2c371425ff45c1da7c396acb503648f996f0e5771044549ece49eb"
+  },
+  {
+    "page": 86,
+    "type": "content",
+    "chapter": 3,
+    "topics": [
+      "c3-t145"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2332,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "06356eadce4160ebef80ca8126aafbc75f36ea758c7263aff45b33b7516b51b0"
+  },
+  {
+    "page": 87,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t2",
+      "c4-t3",
+      "c4-t4",
+      "c4-t5",
+      "c4-t6"
+    ],
+    "source_blocks": 17,
+    "retained_characters": 2870,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "deb79d7a158dd831b641b16294831090dc5d3af18cc83abc83f2d4d80ddaf078"
+  },
+  {
+    "page": 88,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t6",
+      "c4-t7",
+      "c4-t8",
+      "c4-t9",
+      "c4-t10",
+      "c4-t11",
+      "c4-t12",
+      "c4-t13",
+      "c4-t14",
+      "c4-t15"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3790,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "366e385c144fe7915ab48ba0e1c84bbd08692f0c0bc04fd0abf71e77ad597df4"
+  },
+  {
+    "page": 89,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t16",
+      "c4-t17",
+      "c4-t18",
+      "c4-t19",
+      "c4-t20",
+      "c4-t21",
+      "c4-t22",
+      "c4-t23",
+      "c4-t24",
+      "c4-t25",
+      "c4-t26"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 4121,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "34c7d1bc30a65796a78efa821072c378050b91070a78b6b7dcd33febd3f4e21e"
+  },
+  {
+    "page": 90,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t26",
+      "c4-t27",
+      "c4-t28",
+      "c4-t29",
+      "c4-t30",
+      "c4-t31",
+      "c4-t32"
+    ],
+    "source_blocks": 26,
+    "retained_characters": 4172,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "88420955a81e3c0cef711d801c3f6cdd43d5a0af45aaa582b851a27c6fc48e9d"
+  },
+  {
+    "page": 91,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t33",
+      "c4-t34",
+      "c4-t35",
+      "c4-t36"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 3201,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c305f9f97da522df8a89e1b3947935318aee95fd05fe7d483ab9c045d39e0341"
+  },
+  {
+    "page": 92,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t36",
+      "c4-t37",
+      "c4-t38",
+      "c4-t39",
+      "c4-t40",
+      "c4-t41",
+      "c4-t42"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 3511,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "54c212dbb08575f00b4611e0f9f3725e250db91a7165506f69d9a6b016050ac6"
+  },
+  {
+    "page": 93,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t42",
+      "c4-t43",
+      "c4-t44",
+      "c4-t45",
+      "c4-t46",
+      "c4-t47"
+    ],
+    "source_blocks": 18,
+    "retained_characters": 3211,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9083099d004dbc455779a357bf352843e08464dd3b99d5d7c3d64d5690f1a868"
+  },
+  {
+    "page": 94,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t47",
+      "c4-t48",
+      "c4-t49",
+      "c4-t50",
+      "c4-t51",
+      "c4-t52",
+      "c4-t53",
+      "c4-t54"
+    ],
+    "source_blocks": 17,
+    "retained_characters": 3137,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "42e8979f6cbc0e4d4e8a8295f75f4bf27bd3efff181181ee99278cee492edb7e"
+  },
+  {
+    "page": 95,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t55",
+      "c4-t56",
+      "c4-t57",
+      "c4-t58",
+      "c4-t59",
+      "c4-t60",
+      "c4-t61"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 3432,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "601d83300e1ed4aa902d5fc0a1a8a52f17bc0728acb52fa1538aa57762cda59c"
+  },
+  {
+    "page": 96,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t61",
+      "c4-t62",
+      "c4-t63",
+      "c4-t64",
+      "c4-t65",
+      "c4-t66",
+      "c4-t67",
+      "c4-t68",
+      "c4-t69"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 2584,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9145c7a256916485d35f274b1574d57cbf9d537a3ddc8dd8729e839709b439b6"
+  },
+  {
+    "page": 97,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t69",
+      "c4-t70",
+      "c4-t71",
+      "c4-t72"
+    ],
+    "source_blocks": 60,
+    "retained_characters": 3812,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "a926b2ff9c982683febc0cd49f70cd3ef4677c882b623f25427a348894f3ac33"
+  },
+  {
+    "page": 98,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t72",
+      "c4-t73",
+      "c4-t74",
+      "c4-t75",
+      "c4-t76"
+    ],
+    "source_blocks": 12,
+    "retained_characters": 2942,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "07b2e01025db1ef791b87ad974d8a1a4731db10ee6a95a517bb5aa38778b064b"
+  },
+  {
+    "page": 99,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t76",
+      "c4-t77",
+      "c4-t78"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 3123,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "fae79a3aa76d21fb5344f971cffc9219fc4f9ea06f15c79f5aa8b6401f24f8c2"
+  },
+  {
+    "page": 100,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t79",
+      "c4-t80",
+      "c4-t81",
+      "c4-t82",
+      "c4-t83"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3510,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "71e35d0d96fcb649b507d81c2a7431cc70c6e8873cb7a15411ff027fa04aab9e"
+  },
+  {
+    "page": 101,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t83",
+      "c4-t84",
+      "c4-t85",
+      "c4-t86",
+      "c4-t87",
+      "c4-t88",
+      "c4-t89",
+      "c4-t90",
+      "c4-t91"
+    ],
+    "source_blocks": 36,
+    "retained_characters": 3776,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f6eddb7868868b9050e88adcde344862e253c9d37231bf8a92cc558afb7690bd"
+  },
+  {
+    "page": 102,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t91",
+      "c4-t92",
+      "c4-t93",
+      "c4-t94"
+    ],
+    "source_blocks": 16,
+    "retained_characters": 2837,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "5e7b2e72b89dda514192a888e5f34b6e6ff50206420125f39234449b7abbd535"
+  },
+  {
+    "page": 103,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t94",
+      "c4-t95",
+      "c4-t96",
+      "c4-t97",
+      "c4-t98",
+      "c4-t99",
+      "c4-t100"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3708,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "5d1fbc6b776bfa4be9c8c505d68cc2fe25e0a778d20698b16438ec7657701c9b"
+  },
+  {
+    "page": 104,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t100",
+      "c4-t101",
+      "c4-t102",
+      "c4-t103",
+      "c4-t104"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3886,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "05facd990582aff189549fb64abdcfd3f9b76a36f7bfb5bfa6cc178fc8041d1f"
+  },
+  {
+    "page": 105,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t104",
+      "c4-t105",
+      "c4-t106",
+      "c4-t107",
+      "c4-t108",
+      "c4-t109",
+      "c4-t110",
+      "c4-t111",
+      "c4-t112",
+      "c4-t113",
+      "c4-t114",
+      "c4-t115"
+    ],
+    "source_blocks": 21,
+    "retained_characters": 3486,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "0c92ba6054e8b15a39ab49f091847b3c8ee98beecdb4ebc1b5d2d25584aff268"
+  },
+  {
+    "page": 106,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t115",
+      "c4-t116",
+      "c4-t117",
+      "c4-t118",
+      "c4-t119",
+      "c4-t120",
+      "c4-t121",
+      "c4-t122"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 3003,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9af2c08078f23946b6d33c3e5356c56aabb16b02f2f9212438a3ad4326e958d4"
+  },
+  {
+    "page": 107,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t122",
+      "c4-t123",
+      "c4-t124",
+      "c4-t125",
+      "c4-t126",
+      "c4-t127",
+      "c4-t128",
+      "c4-t129",
+      "c4-t130"
+    ],
+    "source_blocks": 70,
+    "retained_characters": 2826,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f2d542f8f20bcd95ee456422d7d69729b15567ec0f61143e335dfabf6c4af18f"
+  },
+  {
+    "page": 108,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t130",
+      "c4-t131",
+      "c4-t132",
+      "c4-t133",
+      "c4-t134",
+      "c4-t135"
+    ],
+    "source_blocks": 13,
+    "retained_characters": 2779,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "230e030f1e117701d4c67dab5d8edce5088fffd65bfbea687e1378ba413c6844"
+  },
+  {
+    "page": 109,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t136",
+      "c4-t137",
+      "c4-t138",
+      "c4-t139"
+    ],
+    "source_blocks": 17,
+    "retained_characters": 2180,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "80ec1e19cc8e51e00fd67dec97fe1d346172210904c8951aa778a43b53ace0dd"
+  },
+  {
+    "page": 110,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t139",
+      "c4-t140",
+      "c4-t141",
+      "c4-t142",
+      "c4-t143",
+      "c4-t144",
+      "c4-t145",
+      "c4-t146",
+      "c4-t147"
+    ],
+    "source_blocks": 20,
+    "retained_characters": 3972,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "fad2a8546dc9f587146a2ffed50914cb20ddcea8b2ceafe7a2bd4198dc9e6158"
+  },
+  {
+    "page": 111,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t147",
+      "c4-t148",
+      "c4-t149",
+      "c4-t150",
+      "c4-t151",
+      "c4-t152",
+      "c4-t153"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 4142,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "52fbecb7326305b5ce0d69764d0848e9451333e3dfd4b453ffd3aadb822e9eb4"
+  },
+  {
+    "page": 112,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t153",
+      "c4-t154",
+      "c4-t155",
+      "c4-t156",
+      "c4-t157",
+      "c4-t158",
+      "c4-t159",
+      "c4-t160",
+      "c4-t161"
+    ],
+    "source_blocks": 19,
+    "retained_characters": 3572,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "31035bc0a4f20306b3ea09fd0d3ac38a4f1e04b299b9c96aa900201b47f7d6c1"
+  },
+  {
+    "page": 113,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t162",
+      "c4-t163",
+      "c4-t164",
+      "c4-t165",
+      "c4-t166"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 3335,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c25c5a333897b78b61d2624ce906d39e58313a378325fe3aa57c9af8a175a6bc"
+  },
+  {
+    "page": 114,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t167",
+      "c4-t168",
+      "c4-t169",
+      "c4-t170",
+      "c4-t171"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 3388,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "1f089e72965c430b115cf5f8477c2b40977136107fd7231480913a09aff39aa1"
+  },
+  {
+    "page": 115,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t171",
+      "c4-t172",
+      "c4-t173"
+    ],
+    "source_blocks": 10,
+    "retained_characters": 2543,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "6370cb50f4eff051030e15220fe55b546c5b47a85409b0e6e24180423b298261"
+  },
+  {
+    "page": 116,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t173",
+      "c4-t174",
+      "c4-t175",
+      "c4-t176",
+      "c4-t177",
+      "c4-t178",
+      "c4-t179",
+      "c4-t180",
+      "c4-t181",
+      "c4-t182",
+      "c4-t183"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3438,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "6d707f31575313f8e76288e62a297e9e8274995cad658cec665c104fd284a907"
+  },
+  {
+    "page": 117,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t184",
+      "c4-t185",
+      "c4-t186",
+      "c4-t187",
+      "c4-t188",
+      "c4-t189",
+      "c4-t190",
+      "c4-t191"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 3069,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "da1fa746cf7613aaec58de8f84e1833bd10afa683d6ad6f4cd23e6eece0d407b"
+  },
+  {
+    "page": 118,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t191",
+      "c4-t192",
+      "c4-t193",
+      "c4-t194"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3773,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "69b1837255acc568837aac7dadf9c33b973ab3d7e0077f3aac04feec4dd71230"
+  },
+  {
+    "page": 119,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t194",
+      "c4-t195",
+      "c4-t196",
+      "c4-t197",
+      "c4-t198",
+      "c4-t199"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3784,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "7a879b9222c0c0dd83d44c47d251c3a7def5f5f3c5db9ecca6787a32e6cabfbd"
+  },
+  {
+    "page": 120,
+    "type": "content",
+    "chapter": 4,
+    "topics": [
+      "c4-t199",
+      "c4-t200",
+      "c4-t201",
+      "c4-t202",
+      "c4-t203",
+      "c4-t204",
+      "c4-t205",
+      "c4-t206"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 3484,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "ccffa918b5dbd5586fa0180d2a6bcc2b027361919df9389245bde5ea43f8016f"
+  },
+  {
+    "page": 121,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t2",
+      "c5-t3",
+      "c5-t4",
+      "c5-t5",
+      "c5-t6",
+      "c5-t7"
+    ],
+    "source_blocks": 15,
+    "retained_characters": 2839,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "414e98c4f9215ebe39e646109bb43e51fc36dd54f404dbc098892b4b8885cd08"
+  },
+  {
+    "page": 122,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t7",
+      "c5-t8",
+      "c5-t9",
+      "c5-t10",
+      "c5-t11",
+      "c5-t12",
+      "c5-t13",
+      "c5-t14"
+    ],
+    "source_blocks": 20,
+    "retained_characters": 4102,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "5eda72d5f3bbd17388ab9ba480463f6cc4b33c055437fe39c4a414b1a35e1cab"
+  },
+  {
+    "page": 123,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t14",
+      "c5-t15",
+      "c5-t16",
+      "c5-t17",
+      "c5-t18",
+      "c5-t19",
+      "c5-t20"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 4097,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "68d33fea183145e4f7c0b1864cb34b6c5a8d71938d7c414c7393fe798099c209"
+  },
+  {
+    "page": 124,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t21",
+      "c5-t22",
+      "c5-t23",
+      "c5-t24"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 4142,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "04845a4143635c6f4a7e55c8ec20d4aa7ecec20021e49923d3c084b8f0b63fb7"
+  },
+  {
+    "page": 125,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t25",
+      "c5-t26",
+      "c5-t27",
+      "c5-t28",
+      "c5-t29",
+      "c5-t30",
+      "c5-t31",
+      "c5-t32",
+      "c5-t33"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3784,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "0705684a91fcc4dc3f0208b71527e79745bf0cdfb897e427eeaf5fe01b2ee24c"
+  },
+  {
+    "page": 126,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t34",
+      "c5-t35",
+      "c5-t36",
+      "c5-t37",
+      "c5-t38",
+      "c5-t39",
+      "c5-t40",
+      "c5-t41"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 4015,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "99334a4fd3ac0c6a4d26f088068e91c8140c2cee93514fe5e07c2f3993b7da06"
+  },
+  {
+    "page": 127,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t42",
+      "c5-t43",
+      "c5-t44",
+      "c5-t45",
+      "c5-t46",
+      "c5-t47",
+      "c5-t48",
+      "c5-t49"
+    ],
+    "source_blocks": 19,
+    "retained_characters": 3523,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c0d7f6986e8240c5cfd4012f551e0ecf3e8f17dc856e69e8821c61f20c312365"
+  },
+  {
+    "page": 128,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t49",
+      "c5-t50",
+      "c5-t51",
+      "c5-t52",
+      "c5-t53",
+      "c5-t54"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 4166,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "a443126e423b59d191b6249624dab92a8afcddc6a3851f0c81e0828b7b96dbe7"
+  },
+  {
+    "page": 129,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t55",
+      "c5-t56",
+      "c5-t57",
+      "c5-t58",
+      "c5-t59",
+      "c5-t60",
+      "c5-t61",
+      "c5-t62"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 4351,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "3de9744639bb033751dbd6ea287e7934978d4c5ca0cae4190d9f925f4c055025"
+  },
+  {
+    "page": 130,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t62",
+      "c5-t63",
+      "c5-t64",
+      "c5-t65",
+      "c5-t66",
+      "c5-t67",
+      "c5-t68",
+      "c5-t69"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3682,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "1d568864900cb489ea72f4d2b31a14156efef0f2bb99c0372c1cced566b85189"
+  },
+  {
+    "page": 131,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t69",
+      "c5-t70",
+      "c5-t71",
+      "c5-t72",
+      "c5-t73",
+      "c5-t74",
+      "c5-t75",
+      "c5-t76",
+      "c5-t77",
+      "c5-t78",
+      "c5-t79"
+    ],
+    "source_blocks": 26,
+    "retained_characters": 3967,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "5ecee8a2d2a79290698e81e41021813e668328e91791617ec8b33769f4035378"
+  },
+  {
+    "page": 132,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t79",
+      "c5-t80",
+      "c5-t81",
+      "c5-t82",
+      "c5-t83",
+      "c5-t84",
+      "c5-t85",
+      "c5-t86",
+      "c5-t87"
+    ],
+    "source_blocks": 17,
+    "retained_characters": 4041,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "1dbe2cb3e2f44d611c8a822e9209a547cdfd02814f6a4f9c049fbe569ed115c3"
+  },
+  {
+    "page": 133,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t88",
+      "c5-t89",
+      "c5-t90",
+      "c5-t91",
+      "c5-t92",
+      "c5-t93",
+      "c5-t94",
+      "c5-t95",
+      "c5-t96"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3855,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b0f6795b7dcb42060e2f5936546314e0130c8deda2f43213e789a148b77e9ef4"
+  },
+  {
+    "page": 134,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t97",
+      "c5-t98",
+      "c5-t99",
+      "c5-t100",
+      "c5-t101"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3569,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "3e2e670c07a8fc4d698676ec87c00fcb9d517c4a4c4879672ee4c831bfcc0519"
+  },
+  {
+    "page": 135,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t102",
+      "c5-t103",
+      "c5-t104",
+      "c5-t105",
+      "c5-t106",
+      "c5-t107",
+      "c5-t108",
+      "c5-t109"
+    ],
+    "source_blocks": 21,
+    "retained_characters": 3200,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "d03d585f50ef8016f7fd264ce4123cbc65cd9a757d31585ce560c900b5881d23"
+  },
+  {
+    "page": 136,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t109",
+      "c5-t110",
+      "c5-t111",
+      "c5-t112",
+      "c5-t113",
+      "c5-t114",
+      "c5-t115",
+      "c5-t116",
+      "c5-t117",
+      "c5-t118"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 4029,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "5db4c5dab5340322fb14f2725debeee71fa86e5af4d900645f965a1e854b27dc"
+  },
+  {
+    "page": 137,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t118",
+      "c5-t119",
+      "c5-t120",
+      "c5-t121",
+      "c5-t122",
+      "c5-t123",
+      "c5-t124",
+      "c5-t125",
+      "c5-t126",
+      "c5-t127"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 3943,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "a84063deccfd2236f9eac57bfb9f60ebfa96bf6c4178b7ae4ed28c7f8cba53d4"
+  },
+  {
+    "page": 138,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t127",
+      "c5-t128",
+      "c5-t129",
+      "c5-t130",
+      "c5-t131",
+      "c5-t132",
+      "c5-t133"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 3707,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "36e4b16f2f60b1220bd0c897241f64d89e2fa648a45c9bda83c13d23dd126f55"
+  },
+  {
+    "page": 139,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t133",
+      "c5-t134",
+      "c5-t135",
+      "c5-t136",
+      "c5-t137",
+      "c5-t138",
+      "c5-t139",
+      "c5-t140",
+      "c5-t141",
+      "c5-t142",
+      "c5-t143"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 3606,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e90291906c5c100d71912ae06c13721571a8f354d923cc04d6055981f0b44b98"
+  },
+  {
+    "page": 140,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t143",
+      "c5-t144",
+      "c5-t145",
+      "c5-t146",
+      "c5-t147",
+      "c5-t148",
+      "c5-t149"
+    ],
+    "source_blocks": 21,
+    "retained_characters": 3656,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "dc1d86b612e90298f4c1144543cd1cdb4fd79fbe7b940d7273cdb682847b62a4"
+  },
+  {
+    "page": 141,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t149",
+      "c5-t150",
+      "c5-t151",
+      "c5-t152",
+      "c5-t153",
+      "c5-t154",
+      "c5-t155",
+      "c5-t156",
+      "c5-t157",
+      "c5-t158"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 3726,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "ac0c5e18fc6c85c83ebf5ad2de98c3e1dac4c70685787e11afb239a44261dbfe"
+  },
+  {
+    "page": 142,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t159",
+      "c5-t160",
+      "c5-t161",
+      "c5-t162",
+      "c5-t163",
+      "c5-t164",
+      "c5-t165",
+      "c5-t166",
+      "c5-t167",
+      "c5-t168",
+      "c5-t169"
+    ],
+    "source_blocks": 23,
+    "retained_characters": 3786,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "0f1d7a40b0937f1f3e54dfa86f0eeb5e3de3d96b27306bf22e40dafc21147805"
+  },
+  {
+    "page": 143,
+    "type": "content",
+    "chapter": 5,
+    "topics": [
+      "c5-t169",
+      "c5-t170",
+      "c5-t171",
+      "c5-t172",
+      "c5-t173",
+      "c5-t174",
+      "c5-t175",
+      "c5-t176",
+      "c5-t177"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 3764,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f0fcfce83a9e69807664dff90b2f4fa6cccffcc2166b80fc832439297fb7aed8"
+  },
+  {
+    "page": 144,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t2",
+      "c6-t3",
+      "c6-t4"
+    ],
+    "source_blocks": 19,
+    "retained_characters": 3185,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b7433b105835f93961540472ad968fc864573952c7d09226a74c8ad0fa354292"
+  },
+  {
+    "page": 145,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t4",
+      "c6-t5"
+    ],
+    "source_blocks": 8,
+    "retained_characters": 4129,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c91e1db9fd55adc9f6aa688c45910e966d54afe76aacf64b8cebac10eff1d478"
+  },
+  {
+    "page": 146,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t6",
+      "c6-t7",
+      "c6-t8",
+      "c6-t9",
+      "c6-t10",
+      "c6-t11",
+      "c6-t12",
+      "c6-t13",
+      "c6-t14",
+      "c6-t15"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 3501,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "892b8f0363c896be6ebdc8924951e446d8eb9aace422ffa7493b997d402cca28"
+  },
+  {
+    "page": 147,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t15",
+      "c6-t16",
+      "c6-t17",
+      "c6-t18",
+      "c6-t19",
+      "c6-t20",
+      "c6-t21",
+      "c6-t22",
+      "c6-t23",
+      "c6-t24"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 3898,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "0f3d25aefd7bcaf2471a8459f749d0a83f06c10534baf57d9083a4d1c1a18262"
+  },
+  {
+    "page": 148,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t25",
+      "c6-t26",
+      "c6-t27",
+      "c6-t28",
+      "c6-t29",
+      "c6-t30",
+      "c6-t31",
+      "c6-t32",
+      "c6-t33",
+      "c6-t34",
+      "c6-t35"
+    ],
+    "source_blocks": 20,
+    "retained_characters": 4052,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "26561cccae02e0b23e6fed08f1bf230373a85ed978e5f7f1c65934bc934d554f"
+  },
+  {
+    "page": 149,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t35",
+      "c6-t36",
+      "c6-t37",
+      "c6-t38",
+      "c6-t39",
+      "c6-t40",
+      "c6-t41",
+      "c6-t42",
+      "c6-t43",
+      "c6-t44"
+    ],
+    "source_blocks": 23,
+    "retained_characters": 3909,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "69555e707d7a49f5ae5dc630723af993178c3c44307bc6b240ac06e441043aef"
+  },
+  {
+    "page": 150,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t44",
+      "c6-t45",
+      "c6-t46",
+      "c6-t47",
+      "c6-t48",
+      "c6-t49",
+      "c6-t50",
+      "c6-t51",
+      "c6-t52"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3782,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "823e843b803431b3e59e72ca36ce1c20d24b949cbcd87b692739f33bd5b3c31f"
+  },
+  {
+    "page": 151,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t53",
+      "c6-t54",
+      "c6-t55",
+      "c6-t56",
+      "c6-t57",
+      "c6-t58",
+      "c6-t59",
+      "c6-t60",
+      "c6-t61",
+      "c6-t62"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 3913,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "884684992f0a58366e523c6f855cf37a6367e87de6dba99bbd6f46ce83acc08f"
+  },
+  {
+    "page": 152,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t63",
+      "c6-t64",
+      "c6-t65",
+      "c6-t66",
+      "c6-t67",
+      "c6-t68",
+      "c6-t69",
+      "c6-t70",
+      "c6-t71",
+      "c6-t72",
+      "c6-t73"
+    ],
+    "source_blocks": 23,
+    "retained_characters": 3593,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "4c50051581e059ecab2290b32fe43259b1bf2b30fb98048353ce1b3f6ea2c8be"
+  },
+  {
+    "page": 153,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t74",
+      "c6-t75",
+      "c6-t76"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 4138,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "be4dc9a2ebdb031fb60159df389acdba7c976bf6892e95e8076c13898dd198aa"
+  },
+  {
+    "page": 154,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t77",
+      "c6-t78",
+      "c6-t79",
+      "c6-t80",
+      "c6-t81",
+      "c6-t82",
+      "c6-t83"
+    ],
+    "source_blocks": 17,
+    "retained_characters": 3331,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "25f024c551a856161813670a5f7819dbdc2d6196d3c4ff8b8aab52872d1134cb"
+  },
+  {
+    "page": 155,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t84",
+      "c6-t85",
+      "c6-t86",
+      "c6-t87",
+      "c6-t88",
+      "c6-t89",
+      "c6-t90",
+      "c6-t91",
+      "c6-t92"
+    ],
+    "source_blocks": 21,
+    "retained_characters": 3638,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "68c96f8b97bd89a6a9dc2d247d51068e46f4bcf89f852d1fc8c972271f721564"
+  },
+  {
+    "page": 156,
+    "type": "content",
+    "chapter": 6,
+    "topics": [
+      "c6-t92",
+      "c6-t93",
+      "c6-t94",
+      "c6-t95",
+      "c6-t96",
+      "c6-t97"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3960,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b02d005d2e62ba26267df7fdf7fc5cb7336eef359140d7a3556e9f3b2fcd55b2"
+  },
+  {
+    "page": 157,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t2",
+      "c7-t3",
+      "c7-t4",
+      "c7-t5",
+      "c7-t6",
+      "c7-t7",
+      "c7-t8",
+      "c7-t9",
+      "c7-t10"
+    ],
+    "source_blocks": 20,
+    "retained_characters": 3304,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "98d153f53e728de45e98445cbc78058a6563040e9b7db6d9a03099a784bfc998"
+  },
+  {
+    "page": 158,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t10",
+      "c7-t11",
+      "c7-t12",
+      "c7-t13",
+      "c7-t14",
+      "c7-t15",
+      "c7-t16",
+      "c7-t17",
+      "c7-t18",
+      "c7-t19",
+      "c7-t20"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 4109,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "aa79f98486a6398333e5f03f6f73a8af39e0111b5c79104a6b0aaad854b5262e"
+  },
+  {
+    "page": 159,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t21",
+      "c7-t22",
+      "c7-t23",
+      "c7-t24",
+      "c7-t25",
+      "c7-t26",
+      "c7-t27",
+      "c7-t28",
+      "c7-t29",
+      "c7-t30",
+      "c7-t31"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 3986,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "991cd8ae735ca7026c7b366c5961bdb9ca0f3cfdb1151cc5dc62122d0d697b4b"
+  },
+  {
+    "page": 160,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t31",
+      "c7-t32",
+      "c7-t33",
+      "c7-t34",
+      "c7-t35",
+      "c7-t36",
+      "c7-t37",
+      "c7-t38",
+      "c7-t39"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 3943,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "374c69bcd2cefd94bb9a346c923538ef03b18e6df3398d26a01510548f784b82"
+  },
+  {
+    "page": 161,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t39",
+      "c7-t40",
+      "c7-t41",
+      "c7-t42",
+      "c7-t43",
+      "c7-t44",
+      "c7-t45",
+      "c7-t46",
+      "c7-t47"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 3960,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "5c5a5cfda501d42b141b67130a3bc3badec183909661ffa142d9139d24e762ea"
+  },
+  {
+    "page": 162,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t48",
+      "c7-t49",
+      "c7-t50",
+      "c7-t51",
+      "c7-t52",
+      "c7-t53",
+      "c7-t54",
+      "c7-t55",
+      "c7-t56",
+      "c7-t57",
+      "c7-t58",
+      "c7-t59",
+      "c7-t60",
+      "c7-t61",
+      "c7-t62"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3841,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "589925ee75a7c230f214c881c935369c6008392f51181d95d705d739f770a48e"
+  },
+  {
+    "page": 163,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t62",
+      "c7-t63",
+      "c7-t64",
+      "c7-t65",
+      "c7-t66",
+      "c7-t67",
+      "c7-t68",
+      "c7-t69",
+      "c7-t70",
+      "c7-t71",
+      "c7-t72",
+      "c7-t73",
+      "c7-t74",
+      "c7-t75"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3754,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "02a573333724fe4313e24ebd749b9037d9db069fb212874213be906af60f8be5"
+  },
+  {
+    "page": 164,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t75",
+      "c7-t76",
+      "c7-t77",
+      "c7-t78"
+    ],
+    "source_blocks": 10,
+    "retained_characters": 2795,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "309ff32083b424aba8b635763acd9bfa47c58bd431211c78efd8d79e9c0eb3ae"
+  },
+  {
+    "page": 165,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t79",
+      "c7-t80",
+      "c7-t81",
+      "c7-t82",
+      "c7-t83"
+    ],
+    "source_blocks": 18,
+    "retained_characters": 3460,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9399d3d1ebe52b6b9297b8f4cf6c8b55adc0926367bb9be6e6339786a2da9381"
+  },
+  {
+    "page": 166,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t83",
+      "c7-t84",
+      "c7-t85",
+      "c7-t86",
+      "c7-t87",
+      "c7-t88"
+    ],
+    "source_blocks": 34,
+    "retained_characters": 3656,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "21d014a656a46d843f0ca13f2f6c31c7cadd46f516ce288d15e80e2963dc2f8e"
+  },
+  {
+    "page": 167,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t88",
+      "c7-t89",
+      "c7-t90",
+      "c7-t91",
+      "c7-t92",
+      "c7-t93",
+      "c7-t94",
+      "c7-t95"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 3448,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e147effc10e22c54d8bd5ca753b171ae5130c8bdabb7e670c2165f9f17668e58"
+  },
+  {
+    "page": 168,
+    "type": "content",
+    "chapter": 7,
+    "topics": [
+      "c7-t95",
+      "c7-t96",
+      "c7-t97",
+      "c7-t98",
+      "c7-t99",
+      "c7-t100",
+      "c7-t101",
+      "c7-t102",
+      "c7-t103",
+      "c7-t104"
+    ],
+    "source_blocks": 53,
+    "retained_characters": 3397,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c09af8de94ff2f61de3c3a124cf8c13aeb662614a9f8c6e78e0714b15d5964c8"
+  },
+  {
+    "page": 169,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t2",
+      "c8-t3",
+      "c8-t4",
+      "c8-t5",
+      "c8-t6",
+      "c8-t7",
+      "c8-t8"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3093,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b7beab2e184b5ab68323891eae9cc783ee05e860d0f503b82ec53f92fd789a3a"
+  },
+  {
+    "page": 170,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t9",
+      "c8-t10",
+      "c8-t11",
+      "c8-t12",
+      "c8-t13",
+      "c8-t14",
+      "c8-t15",
+      "c8-t16",
+      "c8-t17",
+      "c8-t18",
+      "c8-t19",
+      "c8-t20",
+      "c8-t21",
+      "c8-t22",
+      "c8-t23"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 3961,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "ba6925eda1e5cfd479856111b8de4d4766a9acc309130f8363474756cef425a4"
+  },
+  {
+    "page": 171,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t23",
+      "c8-t24",
+      "c8-t25",
+      "c8-t26",
+      "c8-t27",
+      "c8-t28",
+      "c8-t29",
+      "c8-t30",
+      "c8-t31",
+      "c8-t32",
+      "c8-t33",
+      "c8-t34"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 3830,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "8da5d0c520caee521d0fd3037610f929bf0cdd7ce09c8bf7c4c9174610fbe055"
+  },
+  {
+    "page": 172,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t34",
+      "c8-t35",
+      "c8-t36",
+      "c8-t37",
+      "c8-t38",
+      "c8-t39",
+      "c8-t40",
+      "c8-t41",
+      "c8-t42",
+      "c8-t43",
+      "c8-t44",
+      "c8-t45"
+    ],
+    "source_blocks": 36,
+    "retained_characters": 3912,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b3da51152bbdd363eda0a80f0f8798677c02e04a1cc0c713bd82430d4ba97c7e"
+  },
+  {
+    "page": 173,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t46",
+      "c8-t47"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 4278,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f0e7a25778c3864dfc40f306bdbf5ca5c56c542c8cc87a886010c1ed0d905f32"
+  },
+  {
+    "page": 174,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t47",
+      "c8-t48",
+      "c8-t49",
+      "c8-t50",
+      "c8-t51",
+      "c8-t52",
+      "c8-t53"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 3936,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "efcbf87552c2f52d4d45680d59c93601afeab215cb0ce5859efdc8a8db1964bd"
+  },
+  {
+    "page": 175,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t53",
+      "c8-t54",
+      "c8-t55",
+      "c8-t56"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3572,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "8f632a46683a10b32c41f13256bc832bf8fdae3b0348b679ab8c057999eea0fa"
+  },
+  {
+    "page": 176,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t57",
+      "c8-t58"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 4373,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f4070eca9b24d546749ea4a5cdfd619dab2a6abf534e9893c8acf343b38929a2"
+  },
+  {
+    "page": 177,
+    "type": "content",
+    "chapter": 8,
+    "topics": [
+      "c8-t58",
+      "c8-t59",
+      "c8-t60",
+      "c8-t61",
+      "c8-t62"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 4241,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "8bf8a701aeeb856606aba7de6db82bed0dc3732f67cadbd21323e0dad9041e22"
+  },
+  {
+    "page": 178,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t2",
+      "c9-t3",
+      "c9-t4",
+      "c9-t5",
+      "c9-t6",
+      "c9-t7"
+    ],
+    "source_blocks": 14,
+    "retained_characters": 2740,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f0e61e4b78a48a3e3a74a09cf2dfb77a11e9d26374c3b6a7669566ddb3e581cb"
+  },
+  {
+    "page": 179,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t8",
+      "c9-t9",
+      "c9-t10",
+      "c9-t11",
+      "c9-t12",
+      "c9-t13",
+      "c9-t14",
+      "c9-t15",
+      "c9-t16",
+      "c9-t17",
+      "c9-t18",
+      "c9-t19",
+      "c9-t20",
+      "c9-t21",
+      "c9-t22",
+      "c9-t23",
+      "c9-t24",
+      "c9-t25"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3343,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e435e728ae42843c2afea980996c6b4a07a2a69a4f966df4aef73b5084c786bc"
+  },
+  {
+    "page": 180,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t26",
+      "c9-t27",
+      "c9-t28",
+      "c9-t29",
+      "c9-t30",
+      "c9-t31",
+      "c9-t32",
+      "c9-t33",
+      "c9-t34",
+      "c9-t35",
+      "c9-t36",
+      "c9-t37",
+      "c9-t38",
+      "c9-t39",
+      "c9-t40",
+      "c9-t41",
+      "c9-t42",
+      "c9-t43",
+      "c9-t44",
+      "c9-t45"
+    ],
+    "source_blocks": 36,
+    "retained_characters": 3171,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "33fec12ec40fad9c48f8aaf56ebcdaa6350d3e01fb949b198e759e44ab5ad62a"
+  },
+  {
+    "page": 181,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t46",
+      "c9-t47",
+      "c9-t48",
+      "c9-t49",
+      "c9-t50",
+      "c9-t51",
+      "c9-t52",
+      "c9-t53",
+      "c9-t54",
+      "c9-t55",
+      "c9-t56",
+      "c9-t57",
+      "c9-t58",
+      "c9-t59",
+      "c9-t60",
+      "c9-t61",
+      "c9-t62",
+      "c9-t63",
+      "c9-t64",
+      "c9-t65",
+      "c9-t66"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 2851,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "ecbcdb2cecfe18c3df0ba358656c4f6cf99ee42187947f773b426310b25500b8"
+  },
+  {
+    "page": 182,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t67",
+      "c9-t68",
+      "c9-t69",
+      "c9-t70",
+      "c9-t71",
+      "c9-t72",
+      "c9-t73",
+      "c9-t74",
+      "c9-t75",
+      "c9-t76",
+      "c9-t77",
+      "c9-t78",
+      "c9-t79",
+      "c9-t80",
+      "c9-t81",
+      "c9-t82",
+      "c9-t83",
+      "c9-t84",
+      "c9-t85"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 2652,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "893fd48b50621041e1e4166b37425b338e5a024f87a4c03c136aae09053abd1c"
+  },
+  {
+    "page": 183,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t85"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 3713,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "95c9e4abee1e5f0d812d7b6730d25a57461f5dc25f035593292cfd1f84a20dc8"
+  },
+  {
+    "page": 184,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t85"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 3763,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "01509c57cf716912429033c2a1354807ef5e75b5d6bd2f30a25bd26c95171953"
+  },
+  {
+    "page": 185,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t85"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 4158,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c9dd17fb8b2e075e08986e38b2bb7bbbccb15517fff7ecec0597fef708911f48"
+  },
+  {
+    "page": 186,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t85",
+      "c9-t86",
+      "c9-t87",
+      "c9-t88",
+      "c9-t89",
+      "c9-t90",
+      "c9-t91",
+      "c9-t92",
+      "c9-t93",
+      "c9-t94",
+      "c9-t95",
+      "c9-t96",
+      "c9-t97",
+      "c9-t98",
+      "c9-t99",
+      "c9-t100",
+      "c9-t101",
+      "c9-t102",
+      "c9-t103",
+      "c9-t104",
+      "c9-t105",
+      "c9-t106",
+      "c9-t107"
+    ],
+    "source_blocks": 33,
+    "retained_characters": 2867,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e188d498dadff7d7c24bec56b11cabdd323785e0badbf38d102964d1969f54b3"
+  },
+  {
+    "page": 187,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t108",
+      "c9-t109",
+      "c9-t110",
+      "c9-t111",
+      "c9-t112",
+      "c9-t113",
+      "c9-t114",
+      "c9-t115",
+      "c9-t116",
+      "c9-t117",
+      "c9-t118",
+      "c9-t119",
+      "c9-t120",
+      "c9-t121",
+      "c9-t122",
+      "c9-t123",
+      "c9-t124",
+      "c9-t125",
+      "c9-t126",
+      "c9-t127",
+      "c9-t128",
+      "c9-t129"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 2955,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "3355e717cc20963fdc4bbb197af05c613717590e8b62e791eb83ccf311a327ec"
+  },
+  {
+    "page": 188,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t129",
+      "c9-t130",
+      "c9-t131",
+      "c9-t132",
+      "c9-t133",
+      "c9-t134",
+      "c9-t135",
+      "c9-t136"
+    ],
+    "source_blocks": 13,
+    "retained_characters": 3308,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "551a130fd1892755d4bfa24952e19913461817dac57dae3131e963347c423f88"
+  },
+  {
+    "page": 189,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t137",
+      "c9-t138",
+      "c9-t139",
+      "c9-t140",
+      "c9-t141",
+      "c9-t142",
+      "c9-t143",
+      "c9-t144",
+      "c9-t145",
+      "c9-t146",
+      "c9-t147",
+      "c9-t148",
+      "c9-t149",
+      "c9-t150",
+      "c9-t151",
+      "c9-t152",
+      "c9-t153"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 3545,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f0d4afc2e61a68010ea3a1549b869a499c51e1cf49beff0ae084377ce0dc60ef"
+  },
+  {
+    "page": 190,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t153",
+      "c9-t154",
+      "c9-t155",
+      "c9-t156",
+      "c9-t157",
+      "c9-t158",
+      "c9-t159",
+      "c9-t160",
+      "c9-t161",
+      "c9-t162",
+      "c9-t163",
+      "c9-t164",
+      "c9-t165",
+      "c9-t166",
+      "c9-t167",
+      "c9-t168",
+      "c9-t169"
+    ],
+    "source_blocks": 32,
+    "retained_characters": 3490,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "a53f588a04a898dc86f4e56698bca265d005f15aa0836c10af6f3e45866aeb22"
+  },
+  {
+    "page": 191,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t169",
+      "c9-t170",
+      "c9-t171",
+      "c9-t172",
+      "c9-t173",
+      "c9-t174",
+      "c9-t175",
+      "c9-t176",
+      "c9-t177",
+      "c9-t178",
+      "c9-t179",
+      "c9-t180",
+      "c9-t181",
+      "c9-t182",
+      "c9-t183",
+      "c9-t184",
+      "c9-t185",
+      "c9-t186",
+      "c9-t187",
+      "c9-t188"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3339,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "812fab627dbb351f624feabbb0d3d97fd955b373a389f35a1753c3ed1e6c0bc7"
+  },
+  {
+    "page": 192,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t189",
+      "c9-t190",
+      "c9-t191",
+      "c9-t192",
+      "c9-t193",
+      "c9-t194",
+      "c9-t195",
+      "c9-t196",
+      "c9-t197",
+      "c9-t198",
+      "c9-t199",
+      "c9-t200",
+      "c9-t201",
+      "c9-t202",
+      "c9-t203",
+      "c9-t204",
+      "c9-t205",
+      "c9-t206"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 3235,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f829f099e200459288bb5c69472e523fd7fe8e620c56ebbca1f356d6b617b446"
+  },
+  {
+    "page": 193,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t206",
+      "c9-t207",
+      "c9-t208",
+      "c9-t209",
+      "c9-t210",
+      "c9-t211",
+      "c9-t212",
+      "c9-t213",
+      "c9-t214",
+      "c9-t215",
+      "c9-t216",
+      "c9-t217"
+    ],
+    "source_blocks": 53,
+    "retained_characters": 3252,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "c18ddddc0d5abb0203d1ad2c83c421572c14698760b3abf7f3b863f1a6184296"
+  },
+  {
+    "page": 194,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t218",
+      "c9-t219",
+      "c9-t220",
+      "c9-t221",
+      "c9-t222",
+      "c9-t223"
+    ],
+    "source_blocks": 39,
+    "retained_characters": 3585,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b044f648345eb7119f8918327f441687cc7109797e09b5e6c71fb6a3e457cc4a"
+  },
+  {
+    "page": 195,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t223",
+      "c9-t224",
+      "c9-t225",
+      "c9-t226",
+      "c9-t227",
+      "c9-t228",
+      "c9-t229",
+      "c9-t230",
+      "c9-t231",
+      "c9-t232"
+    ],
+    "source_blocks": 10,
+    "retained_characters": 2525,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "6db30a01f56ce653022f8b8c40fa378387d25a2c6ab7e8e3924c081857739137"
+  },
+  {
+    "page": 196,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t233",
+      "c9-t234",
+      "c9-t235",
+      "c9-t236",
+      "c9-t237",
+      "c9-t238",
+      "c9-t239"
+    ],
+    "source_blocks": 19,
+    "retained_characters": 3135,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "2fc5b0c301da355d4b4b6f0b603e3f3f35538bf49d2ec3803ae30dd89ce629e4"
+  },
+  {
+    "page": 197,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t239",
+      "c9-t240",
+      "c9-t241",
+      "c9-t242",
+      "c9-t243"
+    ],
+    "source_blocks": 31,
+    "retained_characters": 3099,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "1b5c7f0cddb639a7ee6b903f77c8b237c4c5ed77beb33f8040760cc63a80b19c"
+  },
+  {
+    "page": 198,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t243",
+      "c9-t244",
+      "c9-t245",
+      "c9-t246",
+      "c9-t247",
+      "c9-t248",
+      "c9-t249",
+      "c9-t250",
+      "c9-t251",
+      "c9-t252"
+    ],
+    "source_blocks": 17,
+    "retained_characters": 2848,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e8a8f8e2bae1fce9f0f845b155189bce252e478500e63f86b001b8e345029f70"
+  },
+  {
+    "page": 199,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t252",
+      "c9-t253",
+      "c9-t254",
+      "c9-t255",
+      "c9-t256",
+      "c9-t257",
+      "c9-t258",
+      "c9-t259",
+      "c9-t260",
+      "c9-t261"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3094,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "18815efab97e56f31ac0d7a0b040cc871817e64549ed4f9b56b793cadef263bf"
+  },
+  {
+    "page": 200,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t261",
+      "c9-t262",
+      "c9-t263",
+      "c9-t264",
+      "c9-t265",
+      "c9-t266",
+      "c9-t267",
+      "c9-t268",
+      "c9-t269",
+      "c9-t270"
+    ],
+    "source_blocks": 38,
+    "retained_characters": 3496,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b4095c903a8789be4eab7511a4b6524d71ffd06d301b678794f55e9c356ba34e"
+  },
+  {
+    "page": 201,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t270",
+      "c9-t271",
+      "c9-t272",
+      "c9-t273",
+      "c9-t274",
+      "c9-t275",
+      "c9-t276"
+    ],
+    "source_blocks": 16,
+    "retained_characters": 3260,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "de8afceba201dd042c46ae3f86bcd82e246b439b1d76d80783ac52d3163743b6"
+  },
+  {
+    "page": 202,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t276",
+      "c9-t277",
+      "c9-t278",
+      "c9-t279",
+      "c9-t280",
+      "c9-t281",
+      "c9-t282",
+      "c9-t283",
+      "c9-t284",
+      "c9-t285"
+    ],
+    "source_blocks": 34,
+    "retained_characters": 3255,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "ccf75441343b3de8fa372330e0f4a38b981bdd0ad9d9f9951a7162e740bf450c"
+  },
+  {
+    "page": 203,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t285",
+      "c9-t286",
+      "c9-t287",
+      "c9-t288",
+      "c9-t289",
+      "c9-t290",
+      "c9-t291",
+      "c9-t292"
+    ],
+    "source_blocks": 22,
+    "retained_characters": 3094,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "bca9628ad7b8bcda30b8aa12ba9152413d0b9197436bdee96ef01fd5a89a56de"
+  },
+  {
+    "page": 204,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t293",
+      "c9-t294",
+      "c9-t295",
+      "c9-t296",
+      "c9-t297",
+      "c9-t298",
+      "c9-t299",
+      "c9-t300",
+      "c9-t301",
+      "c9-t302",
+      "c9-t303",
+      "c9-t304",
+      "c9-t305",
+      "c9-t306"
+    ],
+    "source_blocks": 27,
+    "retained_characters": 3654,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f798f165d6434b7346e44823043db65bf3ec67bd809003308b9716d272d7d55f"
+  },
+  {
+    "page": 205,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t307",
+      "c9-t308",
+      "c9-t309",
+      "c9-t310",
+      "c9-t311",
+      "c9-t312",
+      "c9-t313",
+      "c9-t314",
+      "c9-t315",
+      "c9-t316",
+      "c9-t317",
+      "c9-t318",
+      "c9-t319",
+      "c9-t320"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3661,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "dd0af69e40f1ad5d4cc0264a8a2c26287bc2dc5f96bbe465b94a7a6f39dc527d"
+  },
+  {
+    "page": 206,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t321",
+      "c9-t322",
+      "c9-t323",
+      "c9-t324",
+      "c9-t325",
+      "c9-t326",
+      "c9-t327",
+      "c9-t328",
+      "c9-t329",
+      "c9-t330",
+      "c9-t331",
+      "c9-t332",
+      "c9-t333",
+      "c9-t334",
+      "c9-t335",
+      "c9-t336",
+      "c9-t337"
+    ],
+    "source_blocks": 24,
+    "retained_characters": 3472,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "319072b6132a4195b66c5e5dcd5165d33ee1d5876cf17006f926bfdc7a3f8662"
+  },
+  {
+    "page": 207,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t337",
+      "c9-t338",
+      "c9-t339",
+      "c9-t340",
+      "c9-t341",
+      "c9-t342",
+      "c9-t343",
+      "c9-t344",
+      "c9-t345",
+      "c9-t346",
+      "c9-t347",
+      "c9-t348",
+      "c9-t349"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3829,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "03c6987f12e9edfa756295e5c483705b12ebd9aa9f494c5f5adfd86a65a939be"
+  },
+  {
+    "page": 208,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t350",
+      "c9-t351",
+      "c9-t352",
+      "c9-t353",
+      "c9-t354"
+    ],
+    "source_blocks": 8,
+    "retained_characters": 2651,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "b036cfce0e628f6e1bb632acf514aac88ac02f4dcc7d351871556d8de505395b"
+  },
+  {
+    "page": 209,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t354"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2213,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "cc73869d30517b244a50a7e15459f2fec1a684fd5c9bb8dc1beb5306a4ed8bd3"
+  },
+  {
+    "page": 210,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t354"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2743,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "538ef7f56504a6bbcdb58b229b571919b3ccdd29f547061fe7165f7b70bcf1d5"
+  },
+  {
+    "page": 211,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t354"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2553,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e70c22a231a747affd0551ce2b50d3a2f5f55840e6194c96d5d68807b42b0d82"
+  },
+  {
+    "page": 212,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t354"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2835,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "215bd553f335603017f7bf620976f523cd9cd93483143d634fd9244869c2a43d"
+  },
+  {
+    "page": 213,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t354",
+      "c9-t355"
+    ],
+    "source_blocks": 2,
+    "retained_characters": 2655,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "2d5f035ecfc56f4d7e91c822e176702902c361a3de960c7f106cc332b7b106fc"
+  },
+  {
+    "page": 214,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t355"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2461,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "54fb9e6175a5d0b31f1755f0298fe0a7ad2adef6b2f90995d02d675444d4d49a"
+  },
+  {
+    "page": 215,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t355",
+      "c9-t356"
+    ],
+    "source_blocks": 7,
+    "retained_characters": 2037,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "db094173f37b7445c2c69b173ab76be6b04024471f65cc37ee5bc8fc4b03ca00"
+  },
+  {
+    "page": 216,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t356"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2648,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "cc776e16f6a04cc5971ac9819e842939e4887b49bb58a0b9c7f477f73885aed7"
+  },
+  {
+    "page": 217,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t356"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 1993,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "7537ebba1999ea0b1b9e8f35705154d82fc750032151fb87ee970ab7a710985f"
+  },
+  {
+    "page": 218,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t356"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2449,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "91e06948445014e84045b3421ec44b4c80ecf6505013f82902dca28a15b35c29"
+  },
+  {
+    "page": 219,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t356"
+    ],
+    "source_blocks": 1,
+    "retained_characters": 2552,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "d641a0e9b3acff4af77361d933155e4baf9fc54d37aba2dfd95776be89470c79"
+  },
+  {
+    "page": 220,
+    "type": "content",
+    "chapter": 9,
+    "topics": [
+      "c9-t356",
+      "c9-t357"
+    ],
+    "source_blocks": 57,
+    "retained_characters": 3648,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "966f6dea57658754d5d73c1e03d10e4865079d6e70195a18dd532be672e0de84"
+  },
+  {
+    "page": 221,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t2",
+      "c10-t3",
+      "c10-t4",
+      "c10-t5",
+      "c10-t6"
+    ],
+    "source_blocks": 29,
+    "retained_characters": 1787,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "baeae8956dd28de908f405ba2e88f254d59d0b3c11cfd874e84133413a4dd554"
+  },
+  {
+    "page": 222,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t7",
+      "c10-t8",
+      "c10-t9",
+      "c10-t10",
+      "c10-t11",
+      "c10-t12",
+      "c10-t13",
+      "c10-t14"
+    ],
+    "source_blocks": 25,
+    "retained_characters": 2173,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "9c9ffc55a0a4771d93ed0f06265a5a761aa0d91674e6e94a020eadf84bde7e4a"
+  },
+  {
+    "page": 223,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t14",
+      "c10-t15",
+      "c10-t16",
+      "c10-t17",
+      "c10-t18",
+      "c10-t19",
+      "c10-t20"
+    ],
+    "source_blocks": 16,
+    "retained_characters": 2188,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "20c3a723320d46eff6786dca9dc86fdc56f481f7460b2fb58d2eacfaa6a41484"
+  },
+  {
+    "page": 224,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t21",
+      "c10-t22",
+      "c10-t23",
+      "c10-t24",
+      "c10-t25",
+      "c10-t26",
+      "c10-t27",
+      "c10-t28",
+      "c10-t29",
+      "c10-t30",
+      "c10-t31"
+    ],
+    "source_blocks": 21,
+    "retained_characters": 1804,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "6ea494edb95b1952f26d965a03d85b0d5d8460cc57e96d6a2ab55090ab1b3c40"
+  },
+  {
+    "page": 225,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t31",
+      "c10-t32",
+      "c10-t33",
+      "c10-t34",
+      "c10-t35",
+      "c10-t36",
+      "c10-t37",
+      "c10-t38",
+      "c10-t39",
+      "c10-t40",
+      "c10-t41",
+      "c10-t42"
+    ],
+    "source_blocks": 18,
+    "retained_characters": 1871,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f409bb8431e0fa0db5142619715258cf91148ba18196c3bd8407fd500325c4a5"
+  },
+  {
+    "page": 226,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t42",
+      "c10-t43",
+      "c10-t44",
+      "c10-t45",
+      "c10-t46",
+      "c10-t47",
+      "c10-t48",
+      "c10-t49",
+      "c10-t50",
+      "c10-t51"
+    ],
+    "source_blocks": 10,
+    "retained_characters": 2342,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "51cb250aab88d0a68f9ae6cb75f3398eb3a9264990635cbb7022314691520ff3"
+  },
+  {
+    "page": 227,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t51",
+      "c10-t52",
+      "c10-t53",
+      "c10-t54",
+      "c10-t55",
+      "c10-t56",
+      "c10-t57",
+      "c10-t58",
+      "c10-t59",
+      "c10-t60"
+    ],
+    "source_blocks": 21,
+    "retained_characters": 2304,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "217f4b972ab7fa91ce07ee7ba3b50161956b58a7430f4886b74d45182a73e489"
+  },
+  {
+    "page": 228,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t61",
+      "c10-t62",
+      "c10-t63",
+      "c10-t64",
+      "c10-t65",
+      "c10-t66",
+      "c10-t67"
+    ],
+    "source_blocks": 14,
+    "retained_characters": 2264,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f1262dd15d69260f1ecdb0cd675e46529efa6381f00e8986d581bde11dd0dd44"
+  },
+  {
+    "page": 229,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t67",
+      "c10-t68",
+      "c10-t69",
+      "c10-t70",
+      "c10-t71",
+      "c10-t72"
+    ],
+    "source_blocks": 6,
+    "retained_characters": 2040,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "4c948e4bd8ecb7bb56b21316dfcf622d00c07247db6904f1bd750c67b30f299c"
+  },
+  {
+    "page": 230,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t73",
+      "c10-t74",
+      "c10-t75",
+      "c10-t76",
+      "c10-t77",
+      "c10-t78",
+      "c10-t79",
+      "c10-t80"
+    ],
+    "source_blocks": 10,
+    "retained_characters": 2256,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e86a88256d17504bb63355275340415706b867f50331f8893f659a6190f93a42"
+  },
+  {
+    "page": 231,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t80",
+      "c10-t81",
+      "c10-t82",
+      "c10-t83",
+      "c10-t84",
+      "c10-t85",
+      "c10-t86",
+      "c10-t87",
+      "c10-t88"
+    ],
+    "source_blocks": 13,
+    "retained_characters": 2311,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "460ca0336abce38d069534b15bb6c5e5b73d1310dd0bf488a431c6f5e2a0204a"
+  },
+  {
+    "page": 232,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t89",
+      "c10-t90",
+      "c10-t91",
+      "c10-t92",
+      "c10-t93",
+      "c10-t94",
+      "c10-t95"
+    ],
+    "source_blocks": 14,
+    "retained_characters": 2226,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "d4386ae27d534899f3b9194440203533b08fff0cb1e5713b53b9e9558bece4b1"
+  },
+  {
+    "page": 233,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t95",
+      "c10-t96",
+      "c10-t97",
+      "c10-t98",
+      "c10-t99",
+      "c10-t100"
+    ],
+    "source_blocks": 15,
+    "retained_characters": 2352,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "4bb13bdce254f71b46cf36660437c64cda95eeaedb09972c303413aafdadbf14"
+  },
+  {
+    "page": 234,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t101",
+      "c10-t102",
+      "c10-t103",
+      "c10-t104",
+      "c10-t105",
+      "c10-t106",
+      "c10-t107"
+    ],
+    "source_blocks": 14,
+    "retained_characters": 2049,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "80da8ccd6b0073ba9c1b459690bba21590c62563180be68725791036fa6b63d6"
+  },
+  {
+    "page": 235,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t107",
+      "c10-t108",
+      "c10-t109",
+      "c10-t110",
+      "c10-t111",
+      "c10-t112",
+      "c10-t113"
+    ],
+    "source_blocks": 12,
+    "retained_characters": 2193,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "f9d393299b6db7da43d5beebdf26581ce24bd26a6ba212789cbe14ff552b568e"
+  },
+  {
+    "page": 236,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t114",
+      "c10-t115"
+    ],
+    "source_blocks": 2,
+    "retained_characters": 2416,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "7264df2e57e491fdf9b7943dc922a3d61ab5a5f12e63639f79a05facf5765ac2"
+  },
+  {
+    "page": 237,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t116",
+      "c10-t117",
+      "c10-t118",
+      "c10-t119"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 3318,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "5f9f74cb362b76cf739ab59416ae6cbbfba54fb3b19cb52a602ab0938e7ac013"
+  },
+  {
+    "page": 238,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t119",
+      "c10-t120",
+      "c10-t121",
+      "c10-t122"
+    ],
+    "source_blocks": 28,
+    "retained_characters": 2799,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "e37b41c54f3b50b89236de0223da9ea12ebf8a98806597681b75f812f65590a4"
+  },
+  {
+    "page": 239,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t122",
+      "c10-t123",
+      "c10-t124",
+      "c10-t125",
+      "c10-t126",
+      "c10-t127",
+      "c10-t128",
+      "c10-t129",
+      "c10-t130",
+      "c10-t131"
+    ],
+    "source_blocks": 30,
+    "retained_characters": 2741,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "44c8f72f7dda7931a631029aca2924e4364c4106317f5e0e0291dd5a0a7b1680"
+  },
+  {
+    "page": 240,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t132",
+      "c10-t133",
+      "c10-t134",
+      "c10-t135",
+      "c10-t136",
+      "c10-t137",
+      "c10-t138",
+      "c10-t139",
+      "c10-t140",
+      "c10-t141",
+      "c10-t142",
+      "c10-t143",
+      "c10-t144",
+      "c10-t145",
+      "c10-t146",
+      "c10-t147",
+      "c10-t148"
+    ],
+    "source_blocks": 41,
+    "retained_characters": 2787,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "8b24e312389ea44c82521c0d58edab7ba03c10088109d7c47d22b5c5cefeb911"
+  },
+  {
+    "page": 241,
+    "type": "content",
+    "chapter": 10,
+    "topics": [
+      "c10-t148",
+      "c10-t149",
+      "c10-t150",
+      "c10-t151",
+      "c10-t152",
+      "c10-t153",
+      "c10-t154",
+      "c10-t155",
+      "c10-t156",
+      "c10-t157",
+      "c10-t158",
+      "c10-t159",
+      "c10-t160",
+      "c10-t161",
+      "c10-t162",
+      "c10-t163",
+      "c10-t164",
+      "c10-t165",
+      "c10-t166",
+      "c10-t167"
+    ],
+    "source_blocks": 45,
+    "retained_characters": 2823,
+    "text_preserved_after_documented_normalisation": true,
+    "cleaned_text_sha256": "24fc6cd42bf4a535d443fb445806f83eb3835b07240a7348824ac03ea88a1233"
+  }
+]

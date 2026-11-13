@@ -1,12 +1,13 @@
+[[PDF_PAGE:37]]
 Parts of the Indian Constitution
-The Indian Constitution is divided into 22 parts. (at present, 
-a total of 25 parts)* Part IV-A and Part XIV-A were added by 
-the 42nd Amendment Act, 1976.*Part IX-A was added by the 
-74th Amendment Act, 1992.*Part IX-B was added by the 97 th 
+The Indian Constitution is divided into 22 parts. (at present,
+a total of 25 parts)* Part IV-A and Part XIV-A were added by
+the 42nd Amendment Act, 1976.*Part IX-A was added by the
+74th Amendment Act, 1992.*Part IX-B was added by the 97th
 Amendment Act, 2011.
 Part Subject Articles
-  Covered
-I  The Union and its Territory. 1 to 4
+Covered
+I The Union and its Territory. 1 to 4
 II Citizenship 5 to 11
 III Fundamental Rights 12 to 35
 IV Directive Principles of State Policy 36 to 51
@@ -18,47 +19,47 @@ IX The Panchayats 243 to 243-O
 IX-A The Municipalities 243-P to 243-ZG
 IX-B The Co-operative Societies 243-ZH to 243-ZT
 X The Scheduled and Tribal Areas 244 to 244-A
-XI Relations between the Union  245 to 263
- and the States
-XII Finance, Property, Contracts  264 to 300-A
- and Suits
+XI Relations between the Union 245 to 263
+and the States
+XII Finance, Property, Contracts 264 to 300-A
+and Suits
 XIII Trade, Commerce and 301 to 307
- Intercourse within the territory of India
-XIV Services under the Union and  308 to 323
- States
+Intercourse within the territory of India
+XIV Services under the Union and 308 to 323
+States
 XIV-A Tribunals 323-A to 323-B
 XV Elections 324 to 329-A
-XVI Special Provisions relating to  330 to 342
- Certain Classes
+XVI Special Provisions relating to 330 to 342
+Certain Classes
 XVII Official Language 343 to 351
 XVIII Emergency Provisions 352 to 360
 XIX Miscellaneous 361 to 367
 XX Amendment of the Constitution 368
-XXI Temporary, transitional and  369 to 392
- Special Provisions
+XXI Temporary, transitional and 369 to 392
+Special Provisions
 XXII Short title, Commencement, 393 to 395.
- Authoritative text in Hindi and Repeals.
+Authoritative text in Hindi and Repeals.
+h on TG-@freepdfhall
 
-
-
+[[PDF_PAGE:38]]
 1. The Indian Constitution is divided into –
- (a) 16 Parts (b) 22 Parts
- (c) 24 Parts (d) 25 Parts
+(a) 16 Parts (b) 22 Parts
+(c) 24 Parts (d) 25 Parts
 U.P. P.C.S. (Mains) 2012
 U.P. P.C.S. (Spl) (Mains) 2008
 Ans. (b)
-Originally, there were 22 Parts, 395 Articles and 8 Schedules 
+Originally, there were 22 Parts, 395 Articles and 8 Schedules
 in the Constitution of India.
-2. Consider the following subjects and arrange them into 
+2. Consider the following subjects and arrange them into
 sequential order as mentioned in the Constitution.
- I. The union and its territory
- II. Fundamental duties
- III. Citizenship
- IV . Directive Principles of State Policy
- Select the correct answer from the code given below.
- Code:
- (a) I, III, IV , II (b) IV , II, III,I
- (c) II, IV , I, III (d) III, I, II, IV
+I. The union and its territory
+II. Fundamental duties
+III. Citizenship
+IV. Directive Principles of State Policy
+Select the correct answer from the code given below.
+Code:
+(a) I, III, IV, II (b) IV, II, III,I
+(c) II, IV, I, III (d) III, I, II, IV
 U.P.P.C.S. (Pre) 2022
 Ans. (a)
 The Parts of the Indian Constitution are given below–
@@ -68,337 +69,326 @@ II Citizenship 5 to 11
 III Fundamental Rights 12 to 35
 IV Directive Principles of State Policy 36 to 51
 IV-A Fundamental Duties 51-A
-3.  Which one of the following is not matched correctly?
- (a) Citizenship-  Part II of Constitution
- (b) Fundamental Rights- Part III of Constitution
- (c) Fundamental Duties- Part VI-A of Constitution
- (d) State- Part VI of Constitution
+3. Which one of the following is not matched correctly?
+(a) Citizenship- Part II of Constitution
+(b) Fundamental Rights- Part III of Constitution
+(c) Fundamental Duties- Part VI-A of Constitution
+(d) State- Part VI of Constitution
 U.P. Lower Sub. (Pre) 2004
 Ans. (c)
-The provision relating to Fundamental Duties is included in 
-Part IV-A, which was inserted in the Indian Constitution in 
+The provision relating to Fundamental Duties is included in
+Part IV-A, which was inserted in the Indian Constitution in
 1976.The other options are correctly matched.
-4. Which of the following pairs of Part of Indian 
-Constitution and its subject is/are NOT correctly 
+4. Which of the following pairs of Part of Indian
+Constitution and its subject is/are NOT correctly
 matched ?
- 1. Part IV A  – Fundamental Duties
- 2. Part VI  – The States
- 3. Part XI – The Municipalities
- Select the correct answer from the code given below :
- code:
- (a)  1 and 2 (b)  Only 3
- (c)  2 and 3 (d)  Only 1
+1. Part IV A – Fundamental Duties
+2. Part VI – The States
+3. Part XI – The Municipalities
+Select the correct answer from the code given below :
+code:
+(a) 1 and 2 (b) Only 3
+(c) 2 and 3 (d) Only 1
 U.P. P.C.S (Pre) 2025
-Ans. (b) 
-Part IV A contains Fundamental Duties (Article 51A). 
+Ans. (b)
+Part IVA contains Fundamental Duties (Article 51A).
 Hence, pair 1 is correct.
-Part VI/(6) is titled “The States” (Articles 152–237) and 
-contains provisions related to states, such as the Governor, 
-Council of Ministers, State Legislature, High Court, etc. 
+Part VI/(6) is titled “The States” (Articles 152–237) and
+contains provisions related to states, such as the Governor,
+Council of Ministers, State Legislature, High Court, etc.
 Hence, pair 2 is correct.
-Municipalities come under Part IXA (9A) (Articles 
-243P–243ZG), whereas Part XI (11) deals with relations 
-between the Union and the States (legislative and 
-administrative). Hence, pair 3 is incorrect. Therefore, the 
+Municipalities come under Part IXA (9A) (Articles
+243P–243ZG), whereas Part XI (11) deals with relations
+between the Union and the States (legislative and
+administrative). Hence, pair 3 is incorrect. Therefore, the
 correct answer is option (b).
-5. Which part of our Constitution envisages a three tier 
+5. Which part of our Constitution envisages a three tier
 system of Panchayats?
- (a) Part IX (b) Part X
- (c) Part XI (d) Part XII
+(a) Part IX (b) Part X
+(c) Part XI (d) Part XII
 U.P. P.C.S. (Pre) 2013
 Ans. (a)
-In 1992, the 73 rd and 74 th Constitutional Amendments 
-were passed by the Parliament. The 73 rd Amendment is 
-about Rural Local Government. (known as Panchayati Raj 
-Institution). The 74th Amendment is related to Urban Local 
-Government (Nagarpalikas). 73 rd Amendment introduces 
-three-tier Panchayat System in Part 9 of the Constitution. At 
-the base is Gram Panchayat, which covers a village or group 
-of villages. The Intermediary level is the Block, Mandal or 
-Taluka Panchayat. The intermediary level body need not be 
-constituted in smaller states having a population of less than 
-20 lakhs. At the Apex is the Zila Panchayat, which covers 
+In 1992, the 73rd and 74th Constitutional Amendments
+were passed by the Parliament. The 73rd Amendment is
+about Rural Local Government. (known as Panchayati Raj
+Institution). The 74th Amendment is related to Urban Local
+Government (Nagarpalikas). 73rd Amendment introduces
+three-tier Panchayat System in Part 9 of the Constitution. At
+the base is Gram Panchayat, which covers a village or group
+of villages. The Intermediary level is the Block, Mandal or
+Taluka Panchayat. The intermediary level body need not be
+constituted in smaller states having a population of less than
+20 lakhs. At the Apex is the Zila Panchayat, which covers
 the entire rural area of the District.
-6. Which part and chapter of the Indian Constitution deal 
-with the legislative relation between the Union and the 
+6. Which part and chapter of the Indian Constitution deal
+with the legislative relation between the Union and the
 States?
- (a) Part XI and Chapter I (b) Part XI and Chapter II
- (c) Part XII and Chapter I (d) Part XII and Chapter II
- U.P. P.C.S. (Mains) 2012
+(a) Part XI and Chapter I (b) Part XI and Chapter II
+(c) Part XII and Chapter I (d) Part XII and Chapter II
+U.P. P.C.S. (Mains) 2012
 Ans. (a)
-Part XI of the Indian Constitution deals with the relation 
-between the Union and the states. Chapter 1 of Part XI is 
-about the distribution of legislative power between the Union 
-and the states, whereas chapter 2 deals with administrative 
-relations between them. Part XII deals with Finance, Property, 
+Part XI of the Indian Constitution deals with the relation
+between the Union and the states. Chapter 1 of Part XI is
+about the distribution of legislative power between the Union
+and the states, whereas chapter 2 deals with administrative
+relations between them. Part XII deals with Finance, Property,
 Contract and Suit.
+h on TG-@freepdfhall
 
-
-
-7.  Match List-I with List-II and select the correct answer 
+[[PDF_PAGE:39]]
+7. Match List-I with List-II and select the correct answer
 using the codes given below the lists:
-  List-I  List-II
-  (Subjects)  (Parts of the
-    Constitution)
- A. Abolition of Titles 1. Directive Principles of
-    State Policy
- B. Organisation of village2. The Union and its 
-  panchayats  Territories
- C. To provide the  3. Fundamental Rights
-  opportunities for education
-  to the child/ward between
-  6 to 14 year of age
- D. India, that is Bharat, 4. Fundamental Duties
-  is the Union of States.
- Codes :
-  A B  C  D 
- (a) 1 2 3 4 
- (b) 3 1 4 2
- (c) 4 3 2 1
- (d) 2 4 1 3
+List-I List-II
+(Subjects) (Parts of the
+Constitution)
+A. Abolition of Titles 1. Directive Principles of
+State Policy
+B. Organisation of village2. The Union and its
+panchayats Territories
+C. To provide the 3. Fundamental Rights
+opportunities for education
+to the child/ward between
+6 to 14 year of age
+D. India, that is Bharat, 4. Fundamental Duties
+is the Union of States.
+Codes :
+A B C D
+(a) 1 2 3 4
+(b) 3 1 4 2
+(c) 4 3 2 1
+(d) 2 4 1 3
 Chhattisgarh P.C.S. (Pre) 2019
 Ans. (b)
 The correct match of List I with List II is as follows :
-  (Subjects)  (Parts of the
-    Constitution)
+(Subjects) (Parts of the
+Constitution)
 Abolition of Titles - Fundamental Rights
 Organisation of village - Directive principle of
-panchayats  State policy
-To provide the  - Fundamental Duties
+panchayats State policy
+To provide the - Fundamental Duties
 opportunities for education
 to the child/ward between
 6 to 14 years of age
-India, that is Bharat, - The Union & its 
-is the Union of States.  territories
-8.  Which of the following is correctly matched?
- (a) Part-II of the  :  Fundamental Rights
-  Constitution
- (b) Part-III of the    : Citizenship
-  Constitution
- (c) Part-IV(A) of the :  Fundamental Duties
-  Constitution
- (d) Part-V of the   :  Directive Principles of the 
-  Constitution     Constitution State Policy
+India, that is Bharat, - The Union & its
+is the Union of States. territories
+8. Which of the following is correctly matched?
+(a) Part-II of the : Fundamental Rights
+Constitution
+(b) Part-III of the : Citizenship
+Constitution
+(c) Part-IV(A) of the : Fundamental Duties
+Constitution
+(d) Part-V of the : Directive Principles of the
+Constitution Constitution State Policy
 U.P.P.C.S. (Mains) 2007
 Ans. (c)
-Part-II of the Constitution is related to Citizenship. Part-
-III is for the Fundamental Rights, Part IV is for Directive 
-Principles of State Policy, Part IV-A is related to Fundamental 
-Duties and Part-V is related to the Union. Thus' option (c) 
+Part-II of the Constitution is related to Citizenship. PartIII is for the Fundamental Rights, Part IV is for Directive
+Principles of State Policy, Part IV-A is related to Fundamental
+Duties and Part-V is related to the Union. Thus' option (c)
 is correctly matched.
-9. W hich one among the following is NOT correctly 
+9. Which one among the following is NOT correctly
 matched?
-  Provision   Part of the Constitution
- (a) Citizenship   Part - II
- (b) The Union Territories Part - VII
- (c) The Municipalities  Part - IX A
- (d) Elections   Part - XV
+Provision Part of the Constitution
+(a) Citizenship Part - II
+(b) The Union Territories Part - VII
+(c) The Municipalities Part - IX A
+(d) Elections Part - XV
 U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
 Ans. (b)
 The correctly matched order is as follows :
- Provision   Part of the Constitution
- Citizenship   Part - II
- The Union Territories Part - VIII
- The Municipalities Part - IX A
- Elections   Part - XV
-10. In which part of the Indian Constitution, have the 
+Provision Part of the Constitution
+Citizenship Part - II
+The Union Territories Part - VIII
+The Municipalities Part - IX A
+Elections Part - XV
+10. In which part of the Indian Constitution, have the
 provisions for elections been made ?
- ( a) Part XVII (17) ( b) Part XV (15)
- ( c) Part XVI (16) ( d) Part XIV (14)
+(a) Part XVII (17) (b) Part XV (15)
+(c) Part XVI (16) (d) Part XIV (14)
 U.P. R.O/A.R.O (Re. Exam) (Pre) 2023
 Ans. (b)
-Part XV of the Constitution (Articles 324 to 329) is titled 
-“Elections”. It contains the constitutional framework for the 
-establishment and powers of the Election Commission, 
-preparation of electoral rolls, and conduct of elections to 
-Parliament, State Legislatures, and for the offices of the 
+Part XV of the Constitution (Articles 324 to 329) is titled
+“Elections”. It contains the constitutional framework for the
+establishment and powers of the Election Commission,
+preparation of electoral rolls, and conduct of elections to
+Parliament, State Legislatures, and for the offices of the
 President and Vice-President.
-11. Match List-I with List-II and select the correct answer 
+11. Match List-I with List-II and select the correct answer
 by using the code given below the lists:
-  List-I
- A.  Part IX of the Indian Constitution
- B. Part VIII of the Indian Constitution
- C. Part IV A of the Indian Constitution
- D.  Part IX A of the Indian Constitution
-  List-II
- 1. Union Territories
- 2. Municipalities
- 3. Panchayats
- 4. Fundamental Duties
+List-I
+A. Part IX of the Indian Constitution
+B. Part VIII of the Indian Constitution
+C. Part IV A of the Indian Constitution
+D. Part IX A of the Indian Constitution
+List-II
+1. Union Territories
+2. Municipalities
+3. Panchayats
+4. Fundamental Duties
+h on TG-@freepdfhall
 
-
-
- Code :
-  A B C D
- (a) 3 1 4 2
- (b) 1 2 3 4
- (c) 2 4 1 3
- (d) 4 3 2 1
+[[PDF_PAGE:40]]
+Code :
+A B C D
+(a) 3 1 4 2
+(b) 1 2 3 4
+(c) 2 4 1 3
+(d) 4 3 2 1
 U.P.P.C.S. (Mains) 2009
 Ans. (a)
 The correctly matched order of List-I and II is as follows :
-Constitution's Part          -             Subject
-Part IX                            -          Panchayats
-Part VIII                          -       Union Territories
-Part IV-A                         -     Fundamental Duties
-Part IX-A                         -         Municipalities
-12.  Which among the following (Provision – Part of the 
+Constitution's Part - Subject
+Part IX - Panchayats
+Part VIII - Union Territories
+Part IV-A - Fundamental Duties
+Part IX-A - Municipalities
+12. Which among the following (Provision – Part of the
 Constitution) is not correctly matched?
- (a) Official Language – Part XVII
- (b) The Union Territories – Part VIII
- (c) The Scheduled and Tribal Areas – Part X
- (d) Tribunals – Part XI
+(a) Official Language – Part XVII
+(b) The Union Territories – Part VIII
+(c) The Scheduled and Tribal Areas – Part X
+(d) Tribunals – Part XI
 U.P.P.C.S. (Pre.) 2023
 Ans. (d)
-Tribunals are not mentioned in Part XI but in Part XIV 
-(A). They were inserted in the Constitution by 42 nd 
-Amendment Act, 1976 under Article 323-A, which deals with 
-Administrative Tribunals and Article 323-B, which deals with 
+Tribunals are not mentioned in Part XI but in Part XIV
+(A). They were inserted in the Constitution by 42nd
+Amendment Act, 1976 under Article 323-A, which deals with
+Administrative Tribunals and Article 323-B, which deals with
 tribunals for other matters.
-Part XI has various provisions related to the centre- state 
+Part XI has various provisions related to the centre- state
 relations. Hence option (d) is the correct answer.
-13.  Which of the following is not correctly matched under 
+13. Which of the following is not correctly matched under
 the Constitution of India?
- (a) The Panchayats - Part IX
- (b) The Municipalities - Part IX-A
- (c) The Co-operative  - Part IX-B
-  Societies
- (d) Tribunals - Part X 
+(a) The Panchayats - Part IX
+(b) The Municipalities - Part IX-A
+(c) The Co-operative - Part IX-B
+Societies
+(d) Tribunals - Part X
 U.P.R.O./A.R.O. (Pre) 2016
 U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
 Ans. (d)
-The correctly matched pairs under the Constitution of India 
+The correctly matched pairs under the Constitution of India
 are as follows :
-The Panchayats   - Part IX
+The Panchayats - Part IX
 The Municipalities - Part IX-A
 The Co-operative Society - Part IX-B
-Tribunals  - Part XIV-A
-Thus, option (d) is not correctly matched as Part X is related 
+Tribunals - Part XIV-A
+Thus, option (d) is not correctly matched as Part X is related
 to the Scheduled and Tribal Areas.
-14. Which part of the Constitution has the provisions for 
+14. Which part of the Constitution has the provisions for
 Panchayati Raj System?
- (a) IX   (b)  VI 
- (c) III   (d)  IV (a)
+(a) IX (b) VI
+(c) III (d) IV (a)
 U.P.P.C.S. (Pre) 2016
 U.P.P.C.S. (Pre) 2020
 Ans. (a)
 See the explanation of the above question.
-15.  In which Part of the Constitution Panchayati Raj 
+15. In which Part of the Constitution Panchayati Raj
 related Provisions have been implemented?
- (a) Part-6 (b) Part-7
- (c) Part-8  (d) Part - 9
+(a) Part-6 (b) Part-7
+(c) Part-8 (d) Part - 9
 M.P.P.C.S. (Pre) 2019
 Ans. (d)
 See the explanation of the above question.
-16. Match List – I with List – II and select the correct 
+16. Match List – I with List – II and select the correct
 answer from the code given below :
-  List – I  List – II
- A. Fundamental 1. Part IV A,
-  Rights  Constitution of India
- B. Fundamental Duties 2. Part III, Constitution  
-   of India
- C. The Union 3. Part XVIII,   
-   Constitution of India
- D. Emergency Provisions 4.  Part V , Constitution of  
-   India
- Code :
-  A B C D
- (a) 2 1 4 3
- (b) 3 4 1 2
- (c) 2 1 3 4
- (d) 4 3 2 1
+List – I List – II
+A. Fundamental 1. Part IV A,
+Rights Constitution of India
+B. Fundamental Duties 2. Part III, Constitution
+of India
+C. The Union 3. Part XVIII,
+Constitution of India
+D. Emergency Provisions4. Part V, Constitution of
+India
+Code :
+A B C D
+(a) 2 1 4 3
+(b) 3 4 1 2
+(c) 2 1 3 4
+(d) 4 3 2 1
 U.P.P.C.S. (Mains) 2013
 Ans. (a)
+h on TG-@freepdfhall
 
-
-
+[[PDF_PAGE:41]]
 The correctly matched order is as follows :
 Fundamental Rights Part III, Constitution of India
 Fundamental Duties Part IV-A, Constitution of India
-The Union Part V , Constitution of India
+The Union Part V, Constitution of India
 Emergency provision Part XVIII, Constitution of India
 17. Which one of the following is NOT correctly matched?
- (a) Fundamental Duties   -  Part IV A
- (b) The States    -  Part VI
- (c) Attorney General of India -  Part XIII
- (d) Services under the Union and -  Part XIV
-  States
+(a) Fundamental Duties - Part IV A
+(b) The States - Part VI
+(c) Attorney General of India - Part XIII
+(d) Services under the Union and - Part XIV
+States
 U.P.P.C.S. (Pre) 2020
 Ans. (c)
 The correct matched order is as follows :
-Fundamental Duties  -  Part IV A
-The States   -  Part VI
-Attorney General of India -  Part V (Article 76)
-Services under the Union and the States -  Part XIV
-Note- Part XIII contains provisions for Trade, Commerce 
+Fundamental Duties - Part IV A
+The States - Part VI
+Attorney General of India - Part V (Article 76)
+Services under the Union and the States - Part XIV
+Note- Part XIII contains provisions for Trade, Commerce
 and Intercourse.
-18.  Match List-I with List-II and select the correct answer 
+18. Match List-I with List-II and select the correct answer
 from the code given below the lists :
-  List-I   List-II
- A. Part XV of the 1.  Emergency Provisions
-  Constitution
- B. Part XVI of the  2.  Official Language
-  Constitution 
- C. Part XVII of the  3. Special Provisions 
-  Constitution  regarding certain classes
- D. Part XVIII of the  4.  Elections
-  Constitution
- Code :
-  A B C D
- (a) 3 4 1 2
- (b) 4 3 2 1
- (c) 1 2 3 4
- (d) 2 1 4 3
+List-I List-II
+A. Part XV of the 1. Emergency Provisions
+Constitution
+B. Part XVI of the 2. Official Language
+Constitution
+C. Part XVII of the 3. Special Provisions
+Constitution regarding certain classes
+D. Part XVIII of the 4. Elections
+Constitution
+Code :
+A B C D
+(a) 3 4 1 2
+(b) 4 3 2 1
+(c) 1 2 3 4
+(d) 2 1 4 3
 U.P.R.O./A.R.O. (Mains) 2013
 Ans. (b)
 The correctly matched order of List-I and II is as follows :
 Part XV - Election
-Part XVI  - Special provisions regarding certain classes
+Part XVI - Special provisions regarding certain classes
  Part XVII - Official Language
  Part XVIII - Emergency provisions
-19.  Part 16 of the Indian Constitution is related to
- (a) Administrative Tribunal 
- (b) All India Services
- (c) Finance Commission
- (d) Special provisions for certain classes
+19. Part 16 of the Indian Constitution is related to
+(a) Administrative Tribunal
+(b) All India Services
+(c) Finance Commission
+(d) Special provisions for certain classes
 U.P.R.O./A.R.O. (Mains) 2017
 Ans. (d)
-Part XVI (Article 330-342) of the Indian Constitution deals 
+Part XVI (Article 330-342) of the Indian Constitution deals
 with the special provisions relating to certain classes.
-20. Which of the following statements are correct about 
+20. Which of the following statements are correct about
 the Constitution of India?
- 1.  Powers of the Municipalities are given in Part IX A 
+1. Powers of the Municipalities are given in Part IX A
 of the Constitution.
- 2.  Emergency provisions are given in Part XVIII of 
+2. Emergency provisions are given in Part XVIII of
 the Constitution.
- 3.  Provisions related to the amendment of the 
+3. Provisions related to the amendment of the
 Constitution are given in Part XX the Constitution.
- Select the answer using the code given below:
- (a) 1 and 2 only (b) 2 and 3 only
- (c) 1 and 3 only (d) 1, 2 and 3
+Select the answer using the code given below:
+(a) 1 and 2 only (b) 2 and 3 only
+(c) 1 and 3 only (d) 1, 2 and 3
 I.A.S. (Pre) 2024
 Ans. (d)
-Part IXA (Article 243-P to 243-ZG) of the Constitution 
-of India was inserted by the Constitution (Seventy-fourth 
-Amendment) Act, 1992 (w.e.f. 1-6-1993). It contains 
-provisions related to the Municipalities. Article 243-W under 
-Part IXA deals with powers, authority and responsibilities of 
-Municipalities, etc., while the power to impose taxes by the 
-Municipalities is given in Article 243-X. Hence, statement 
+Part IXA (Article 243-P to 243-ZG) of the Constitution
+of India was inserted by the Constitution (Seventy-fourth
+Amendment) Act, 1992 (w.e.f. 1-6-1993). It contains
+provisions related to the Municipalities. Article 243-W under
+Part IXA deals with powers, authority and responsibilities of
+Municipalities, etc., while the power to impose taxes by the
+Municipalities is given in Article 243-X. Hence, statement
 1 is correct.
-Emergency provisions are given in Part XVIII (Articles 352 
-to 360) of the Constitution of India. Hence, statement 2 is 
+Emergency provisions are given in Part XVIII (Articles 352
+to 360) of the Constitution of India. Hence, statement 2 is
 correct.
-Provisions related to the amendment of the Constitution are 
-given in Part XX (Article 368) of the Constitution of India. 
+Provisions related to the amendment of the Constitution are
+given in Part XX (Article 368) of the Constitution of India.
 Hence, statement 3 is also correct.
-Articles of the Constitution
-*There were 22 parts, 395 Articles and 8 schedules in the 
-original copy of the Constitution. *A number of Articles were 
-added and removed later through amendments. *At present, 
-there are around 468 articles, but these are added in the form 
-of Articles inserted with alphanumeric suffixes such as 21A, 
-43B, etc. of the original Articles (395).
-
-
-

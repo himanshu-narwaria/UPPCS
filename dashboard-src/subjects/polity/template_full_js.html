@@ -33,7 +33,7 @@
       drawer(false);
       if (el === view) { window.scrollTo(0, 0); }
       else {
-        var d = el.closest('details'); if (d) d.open = true;
+        var d = el.closest('details'); while (d) { d.open = true; d = d.parentElement.closest('details'); }
         if (only && only.checked && el.classList.contains('topic')) mark();
         el.scrollIntoView();
         el.classList.add('flash');
@@ -43,7 +43,7 @@
 
     function mark() {
       $$('.topic').forEach(function (t) {
-        var any = $$('.pt.asked, .warn', t).length > 0;
+        var any = $$('.pt.asked, .pt.keep, .warn', t).length > 0;
         t.classList.toggle('empty', !any);
       });
     }
@@ -69,7 +69,8 @@
             $$('.ps', clone).forEach(function (x) { x.remove(); });
             var isRow = p.tagName === 'TR';
             var text = (isRow ? $$('td', clone).map(function (d) { return d.textContent; }).join(' · ') : clone.textContent).replace(/\s+/g, ' ').trim();
-            index.push({ el: p, id: t.id, text: text, low: text.toLowerCase(), where: (c.dataset.title || '') + ' › ' + head, hot: p.classList.contains('asked') });
+            var card = p.closest('.source-card');
+            index.push({ el: p, id: card ? card.id : t.id, text: text, low: text.toLowerCase(), where: (c.dataset.title || '') + ' › ' + head, hot: p.classList.contains('asked') || p.classList.contains('keep') });
           });
         });
       });
@@ -108,6 +109,7 @@
         if (q) q.value = '';
         var v = hit.el.closest('.view');
         if (v) show(v.id);
+        var d = hit.el.closest('details'); while (d) { d.open = true; d = d.parentElement.closest('details'); }
         history.replaceState(null, '', '#' + hit.id);
         hit.el.scrollIntoView({ block: 'center' });
         hit.el.classList.add('flash');
@@ -179,7 +181,7 @@ try {
     var fb=li.querySelector(".pq-fb");
     if (fb) {
       fb.hidden=false;
-      fb.innerHTML='<b class="'+(ok?"ok":"no")+'">'+(ok?"Correct.":"Not correct.")+'</b> '+q.f+(q.n>1?' <span class="p up">UPPSC ×'+q.n+'</span>':'')+' <a href="#'+q.h+'">Open note →</a>';
+      fb.innerHTML='<b class="'+(ok?"ok":"no")+'">'+(ok?"Correct.":"Not correct.")+'</b> '+q.f+(q.n>1?' <span class="p up">UPPSC ×'+q.n+'</span>':'')+' <a href="#'+q.h+'">Open note →</a><p class="source-note">Book key: '+q.k.map(function(k){return "abcde"[k]}).join(" / ")+'; not independently verified as an official key. <a href="Preview_Indian_Polity_and_Governance_Part_4_2026_26118_C_E_Book.pdf#page='+q.p+'" target="_blank" rel="noopener noreferrer">PDF p. '+q.p+'</a></p>';
     }
     if(!replay){ans[q.i]=j;done++;if(ok)right++;score();}
   }

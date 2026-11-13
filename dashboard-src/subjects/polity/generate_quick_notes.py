@@ -2,6 +2,7 @@ import json
 import re
 import os
 import html
+from study_render import STUDY_CSS, learning_support
 
 def generate_quick_notes():
     base_dir = os.path.join("dashboard-src", "subjects", "polity")
@@ -12,7 +13,7 @@ def generate_quick_notes():
     with open(os.path.join(base_dir, "repeated_facts.json"), encoding="utf-8") as f:
         repeats = json.load(f)
     with open(os.path.join(base_dir, "template_quick_style.css"), encoding="utf-8") as f:
-        css = f.read()
+        css = f.read() + STUDY_CSS
     with open(os.path.join(base_dir, "template_quick_js.html"), encoding="utf-8") as f:
         js = f.read()
 
@@ -74,17 +75,18 @@ def generate_quick_notes():
     # Home view
     out.append('<section class="view" id="home"><h1>Indian Polity Quick Revision</h1>')
     out.append('<p class="gist">Condensed revision points and high-yield facts for UPPSC Prelims 2026.</p>')
-    out.append('<p class="legend"><span class="key"></span>Repeated fact <span class="p up">UPPSC ×3</span> asked in 3 papers <span class="p up">UPPSC</span> asked once</p>')
+    out.append('<div class="study-path"><b>One chapter, one small revision loop.</b><p>Read four points, check the comparison, then try the three hidden-answer prompts. Use <a href="polity-uppsc-full-notes.html">full notes</a> for source explanations and unscored source checks.</p></div>')
+    out.append('<p class="legend">Repeat counts use distinct UPPSC exam labels printed beside a source question. They do not predict exam weightage.</p>')
     out.append(f'<a class="cta" href="#repeated">Start with the {len(repeats)} most repeated facts →</a>')
     out.append('<ol class="toc">')
     for c in chapters:
         num = c["num"]
         title = html.escape(c["title"])
         k = ch_q_count.get(num, 0)
-        hot_badge = '<span class="p up">High weightage</span>' if k >= 35 else ''
+        hot_badge = '<span class="p up">Larger source bank</span>' if k >= 35 else ''
         out.append(f'<li><a href="#c{num}"><span class="no">{num}</span><span class="nm">{title}</span>{hot_badge}<span class="q">{k} UPPSC PYQs</span></a></li>')
     out.append('</ol>')
-    out.append(f'<p class="foot">Based on {total_uppsc_q} UPPSC questions (PCS Pre and Mains, RO/ARO, Lower Subordinate, UDA/LDA, GIC, BEO, RI; up to 2025) from Ghatna Chakra Preview Indian Polity and Governance 2026. Every fact is verified against official answer keys.</p>')
+    out.append(f'<p class="foot">Based on {total_uppsc_q} UPPSC questions (PCS Pre and Mains, RO/ARO, Lower Subordinate, UDA/LDA, GIC, BEO, RI; up to 2025) from Ghatna Chakra Preview Indian Polity and Governance 2026. Selective revision guides, checked against the supplied PDF on 12 November 2026. Practice keys are book keys, not independently verified official keys; uncertain items are retained unscored in full notes.</p>')
     out.append('</section>')
     
     # Repeated view
@@ -134,8 +136,13 @@ def generate_quick_notes():
                     cls += " asked"
                 if pt.get("hot"):
                     cls += " hot"
+                if pt.get("keep"):
+                    cls += " keep"
                 out.append(f'<li class="{cls}">{pt["html"]}</li>')
-            out.append('</ul></article>')
+            out.append('</ul>')
+            out.append(learning_support(c, quick=True))
+            out.append(f'<p class="source-note"><a href="polity-uppsc-full-notes.html#c{num}">Read this chapter’s PDF evidence and full explanations →</a></p>')
+            out.append('</article>')
             
         out.append(f'<nav class="pn"><a href="{prev_href}">{prev_txt}</a><a class="nx" href="{next_href}">{next_txt}</a></nav>')
         out.append('</section>')

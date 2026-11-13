@@ -80,6 +80,7 @@ def site_map():
         subjects.append({
             "key": sub["key"], "name": sub["name"], "hindi": sub["hindi"], "files": files,
             "fullLayout": F["layout"], "repeated": "repeated" if F["layout"] == "views" else "dash-repeats",
+            "revisionLabel": "Priority revision" if F.get("source_practice") else "Most repeated facts",
             "chapters": [{"n": n, "t": c["title"], "h": ch_hours[n], "q": n in quick_ok} for n, c in F["chapters"].items()],
             "lastHour": P["hours"][-1][0],
             "hourCh": {str(h): v for h, v in sorted(hour_ch.items())},
@@ -230,7 +231,7 @@ function chapterRel(n,except){var c=null;sub.chapters.forEach(function(x){if(x.n
  if(sub.files.quick&&c.q&&except!=="quick")r.push(["Ch "+n+" in quick notes",L(sub.files.quick,"c"+n)]);
  if(except!=="plan"&&c.h.length)r.push(["72-hour plan: "+(c.h.length===1?"hour "+c.h[0]:"hours "+c.h[0]+"–"+c.h[c.h.length-1]),L(sub.files.plan,"h"+c.h[0])]);
  return r}
-function common(){var r=[];if(sub){r.push(["Most repeated facts in "+sub.name,L(sub.files.full,sub.repeated)]);r.push([sub.name+" on the dashboard",L(D.home,sub.key)])}else r.push(["Study dashboard",L(D.home)]);return r}
+function common(){var r=[];if(sub){r.push([sub.revisionLabel+" in "+sub.name,L(sub.files.full,sub.repeated)]);r.push([sub.name+" on the dashboard",L(D.home,sub.key)])}else r.push(["Study dashboard",L(D.home)]);return r}
 if(C.kind==="full"||C.kind==="quick"||C.kind==="archive"){
  var secs=[].slice.call(document.querySelectorAll("section.chapter[id]"));
  if(secs.length){secs.forEach(function(sec,i){var m=/^c(\d+)$/.exec(sec.id),rel=(m&&sub)?chapterRel(+m[1],C.kind):[];

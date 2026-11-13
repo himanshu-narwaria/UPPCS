@@ -95,10 +95,18 @@ def fmt_date(d):
 
 
 # ------------------------------------------------------------------ full notes, "views" layout (Polity, Economy)
+def study_metadata(s):
+    """Optional provenance contract for source practice rather than past exam papers."""
+    m = re.search(r'<script[^>]*id=[\"\']study-meta[\"\'][^>]*>(.*?)</script>', s, re.S)
+    return json.loads(m.group(1)) if m else {}
+
+
 def parse_views_notes(s, label):
+    meta = study_metadata(s)
+    source_practice = meta.get("question_kind") == "source-practice"
     home = need(r'<section class="view" id="home".*?</section>', s, f"home view in {label}").group(0)
     toc = re.findall(r'<a href="#c(\d+)"><span class="no">\d+</span><span class="nm">([^<]+)</span>(?:<span class="p up">[^<]*</span>)?'
-                     r'<span class="q">(\d+) UPPSC PYQs</span>', home)
+                     r'<span class="q">(\d+) (?:UPPSC PYQs|practice questions)</span>', home)
     if not toc:
         fail(f"no chapter list in {label}")
     chapters = OrderedDict((int(n), {"title": html.unescape(t), "asked": int(q)}) for n, t, q in toc)
@@ -112,17 +120,31 @@ def parse_views_notes(s, label):
     repeats = []
     for fact, cnt, papers, anchor in re.findall(
             r'<summary><span class="t">(.*?)</span><span class="ps"><span class="p up">×(\d+)</span></span></summary>'
-            r'<div class="yrs"><div>(.*?)</div><a href="#([^"]+)"', rep, re.S):
+            r'<div class="yrs"><div>(.*?)</div>(?:<p>.*?</p>\s*)*<a href="#([^"]+)"', rep, re.S):
         m = re.match(r"c(\d+)", anchor)
         repeats.append({"fact": strip_tags(fact), "count": int(cnt), "papers": strip_tags(papers), "anchor": anchor,
                         "ch": int(m.group(1)) if m else 0})
-    stated = int(need(r"(\d+) facts asked in two or more", rep, f"repeated-fact count in {label}").group(1))
+    stated = 0 if source_practice else int(need(r"(\d+) facts asked in two or more", rep, f"repeated-fact count in {label}").group(1))
     if stated != len(repeats):
         fail(f"{label}: parsed {len(repeats)} repeated facts, file states {stated}")
+    if source_practice:
+        if meta.get("practice_questions") != len(qs):
+            fail(f"{label}: source-practice metadata disagrees with its question bank")
+        priority_count = int(need(r"(\d+) priority facts from the source", rep, f"priority-fact count in {label}").group(1))
+        if priority_count != meta.get("priority_facts") or len(re.findall(r"<summary>", rep)) != priority_count:
+            fail(f"{label}: priority-fact count disagrees with the revision list")
+        expected_counts = {f"c{n}": c["asked"] for n, c in chapters.items()}
+        if meta.get("chapter_practice_counts") != expected_counts:
+            fail(f"{label}: source-practice metadata disagrees with chapter counts")
+        if meta.get("verified_uppsc_pyqs") != 0 or meta.get("verified_repeated_facts") != 0:
+            fail(f"{label}: source-practice material must not claim verified exam provenance")
+        if any(q.get("kind") != "source-practice" for q in qs):
+            fail(f"{label}: source-practice questions must carry an explicit kind")
     foot = [strip_tags(x) for x in re.findall(r'<p class="foot">(.*?)</p>', home, re.S)]
     return {"layout": "views", "chapters": chapters, "years": Counter(q["y"] for q in qs), "after_years": [],
             "bank": len(qs), "bank_new": 0, "repeats": sorted(repeats, key=lambda r: -r["count"]),
-            "latest_anchor": lambda y: "latest", "basis": foot[0] if foot else "", "extras": []}
+            "latest_anchor": lambda y: "latest", "basis": foot[0] if foot else "", "extras": [],
+            "source_practice": source_practice, "metadata": meta}
 
 
 # ------------------------------------------------------------------ full notes, "sections" layout (Environment)
@@ -191,27 +213,32 @@ def parse_full(path):
 def parse_quick(path):
     s = open(path, encoding="utf-8").read()
     label = os.path.basename(path)
+    meta = study_metadata(s)
+    source_practice = meta.get("question_kind") == "source-practice"
     home = need(r'<section class="view" id="home".*?</section>', s, f"home view in {label}").group(0)
     toc = re.findall(r'<a href="#c(\d+)"><span class="no">\d+</span><span class="nm">([^<]+)</span>(?:<span class="p up">[^<]*</span>)?'
-                     r'<span class="q">(\d+) UPPSC PYQs</span>', home)
+                     r'<span class="q">(\d+) (?:UPPSC PYQs|practice questions)</span>', home)
     if not toc:
         fail(f"no chapter list in {label}")
     topics = Counter(int(c) for c in re.findall(r'<article class="topic" id="c(\d+)-t\d+"', s))
     chapters = OrderedDict((int(n), {"title": html.unescape(t), "asked": int(q), "topics": topics.get(int(n), 0)}) for n, t, q in toc)
     rep = need(r'<section class="view" id="repeated".*?</section>', s, f"most repeated view in {label}").group(0)
-    facts_head = need(r'<h3 id="rep-facts"[^>]*>(\d+) facts asked in two or more', rep, f"repeated-facts heading in {label}")
+    facts_head = need(r'<h3 id="rep-facts"[^>]*>(\d+) (?:facts asked in two or more|priority facts from the source)', rep, f"revision-facts heading in {label}")
     facts_part = need(r'<h3 id="rep-facts".*?<ol class="rows">(.*?)</ol>', rep, f"repeated-facts list in {label}").group(1)
     n_rep = len(re.findall(r"<summary>", facts_part))
     if n_rep != int(facts_head.group(1)):
         fail(f"{label}: heading says {facts_head.group(1)} repeated facts but the list has {n_rep}")
     foot = [strip_tags(x) for x in re.findall(r'<p class="foot">(.*?)</p>', home, re.S)]
     basis = foot[0] if foot else ""
-    m = re.search(r"Based on (\d+) UPPSC questions", basis)
+    m = re.search(r"Based on (\d+) (?:UPPSC|source practice) questions", basis)
     if m and int(m.group(1)) != sum(c["asked"] for c in chapters.values()):
         fail(f"{label}: states {m.group(1)} questions but chapters add to {sum(c['asked'] for c in chapters.values())}")
     if not m:
         fail(f"{label}: no 'Based on N UPPSC questions' line to confirm the chapter counts")
-    return {"chapters": chapters, "repeats": n_rep, "basis": basis}
+    if source_practice and meta.get("priority_facts") != n_rep:
+        fail(f"{label}: priority-fact metadata disagrees with the displayed list")
+    return {"chapters": chapters, "repeats": 0 if source_practice else n_rep, "basis": basis,
+            "source_practice": source_practice, "metadata": meta}
 
 
 # ------------------------------------------------------------------ 72-hour plan
@@ -297,10 +324,47 @@ def top_with_ties(rows, n=12):
     return [r for r in rows if r["count"] >= cut], cut
 
 
+def render_source_practice(sub, F, Q, files):
+    """Present authored recall separately from independently verified exam evidence."""
+    k, full_h, meta = sub["key"], files["full"], F["metadata"]
+    rows = "".join(
+        f'<tr><td class="n">{n}</td><td><a href="{href(full_h, f"c{n}")}">{E(c["title"])}</a></td>'
+        f'<td class="num">{c["asked"]}</td></tr>' for n, c in F["chapters"].items())
+    full = f'''
+<section class="blk" id="{k}-full" aria-labelledby="{k}-full-h">
+<div class="bh"><div><p class="kind">Full notes</p><h3 id="{k}-full-h">Read, connect, recall</h3></div>
+<a class="open" href="{href(full_h)}">Open full notes</a></div>
+<p class="basis">{E(F["basis"])} Updated {fmt_date(modified(full_h))}.</p>
+<div class="kpis"><div><b>{len(F["chapters"])}</b><span>chapters</span></div>
+<div><b>{F["bank"]:,}</b><span>source practice questions</span></div>
+<div><b>{meta.get("priority_facts", 0)}</b><span>priority revision facts</span></div>
+<div><b>{meta.get("source_pdf_pages", 0)}</b><span>pages in the source PDF</span></div></div>
+<p class="lead">Practice questions are learning exercises based on this PDF. No verified UPPSC PYQs or exam-repeat counts are claimed. Dates and rankings retain the issue's time context.</p>
+<div class="tw"><table><thead><tr><th>#</th><th>Chapter</th><th class="num">Practice questions</th></tr></thead><tbody>{rows}</tbody></table></div>
+<div class="extras"><a class="ex" href="{href(full_h, "repeated")}"><b>Revise</b><span>Priority facts selected from the source</span></a>
+<a class="ex" href="{href(full_h, "practice")}"><b>Recall</b><span>Test yourself, then read the explanation</span></a></div></section>'''
+    quick = ""
+    if Q:
+        qh = files["quick"]
+        qrows = "".join(
+            f'<li><a href="{href(qh, f"c{n}")}"><span class="qn">{n}</span><span class="qt">{E(c["title"])}</span>'
+            f'<span class="qm">{c["topics"]} topics</span></a></li>' for n, c in Q["chapters"].items())
+        quick = f'''
+<section class="blk" id="{k}-quick" aria-labelledby="{k}-quick-h">
+<div class="bh"><div><p class="kind">Quick notes</p><h3 id="{k}-quick-h">Recall the essentials</h3></div>
+<a class="open" href="{href(qh)}">Open quick notes</a></div>
+<p class="basis">{E(Q["basis"])} Updated {fmt_date(modified(qh))}.</p>
+<div class="kpis"><div><b>{len(Q["chapters"])}</b><span>chapters</span></div>
+<div><b>{sum(c["topics"] for c in Q["chapters"].values())}</b><span>short topics</span></div>
+<div><b>{Q["metadata"].get("priority_facts", 0)}</b><span>priority revision facts</span></div></div>
+<ul class="qlist">{qrows}</ul><a href="{href(qh, "repeated")}">Open priority revision</a></section>'''
+    return full, quick
+
+
 def render_subject(sub, F, Q, P, files, exam_txt):
     k = sub["key"]
     ch = F["chapters"]
-    max_q = max(c["asked"] for c in ch.values())
+    max_q = max(1, max(c["asked"] for c in ch.values()))
     rep_by_ch = Counter(r["ch"] for r in F["repeats"])
     top3 = sorted(sorted(ch, key=lambda n: -ch[n]["asked"])[:3])
     full_h = files["full"]
@@ -374,6 +438,9 @@ def render_subject(sub, F, Q, P, files, exam_txt):
 <p class="basis">There is no quick-notes file in <b>{E(sub["folder"])}</b> yet. When one is added (a file whose name ends in <code>quick-notes.html</code>), run the script again and it will appear here.</p>
 </section>"""
 
+    if F.get("source_practice"):
+        full_block, quick_block = render_source_practice(sub, F, Q, files)
+
     # --- 72-hour plan block
     ph = files["h72"]
     phase_rows = "".join(
@@ -405,9 +472,12 @@ def render_subject(sub, F, Q, P, files, exam_txt):
 
 def overview_card(sub, F, Q, P):
     k = sub["key"]
+    bank_label = "source practice questions" if F.get("source_practice") else "MCQs"
+    revision_count = F["metadata"].get("priority_facts", 0) if F.get("source_practice") else len(F["repeats"])
+    revision_label = "priority facts" if F.get("source_practice") else "repeated facts"
     return (f'<a class="sc" href="#{k}" data-tab="{k}" data-key="{E(P["key"])}"><span class="sn">{E(sub["name"])}</span>'
             f'<span class="sh">{E(sub["hindi"])}</span>'
-            f'<span class="sm"><b>{len(F["chapters"])}</b> chapters · <b>{F["bank"]:,}</b> MCQs · <b>{len(F["repeats"])}</b> repeated facts</span>'
+            f'<span class="sm"><b>{len(F["chapters"])}</b> chapters · <b>{F["bank"]:,}</b> {bank_label} · <b>{revision_count}</b> {revision_label}</span>'
             f'<span class="sf"><i class="on">Full</i><i class="{"on" if Q else "off"}">Quick</i><i class="on">72h</i></span>'
             f'<span class="sp"><span class="pt"><span></span></span><span class="spt">0 of 72 hours</span></span></a>')
 

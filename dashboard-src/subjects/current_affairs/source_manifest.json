@@ -1,0 +1,14 @@
+{
+  "pdf": "Drishti (2) English 2026 (2615-M).pdf",
+  "sha256": "8d235c65d2fc8792d1b9bcd58f66cd218edf7e0b82bcd1b33205d46ce625c094",
+  "total_pages": 241,
+  "content_pages": 238,
+  "cached_text_matches_all_pages": true,
+  "normalization": {
+    "昀椀": "fi",
+    "昀氀": "fl",
+    "昀昀": "ff",
+    "soft_hyphen": "removed"
+  },
+  "context": "Supplied Drishti 2026 (2) issue; no live updates or official key verification"
+}

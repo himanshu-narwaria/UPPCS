@@ -1,1041 +1,1920 @@
 {
   "2021": [
     {
-      "fact": "Both statements are correct. Following Lord Macaulay's Report of the select committee of the British Parliament, the concept of merit- based...",
-      "exam": "RO/ARO Pre ’21",
+      "fact": "With reference to Indian Civil Services, which of the following statements is/are correct? 1. Government of India Act, 1919 provided for a separate examination for the Indian Civil Service, which was to be held in India. 2. In the Indian Civil Service in 1941, the percentage of Indians was more as compared to the Europeans. Select the correct answer using the code given below: Code: → <b>Both 1 and 2</b>",
+      "explanation": "Both statements are correct. Following Lord Macaulay&#x27;s Report of the select committee of the British Parliament, the concept of merit- based civil services in India was introduced in 1854. For this purpose, the civil services commission was set up in London and competitive examinations started in 1855 in London itself. Government of India Act, 1919, provided for a separate examination for the Indian Civil Service, which was to be held in India (started in 1922 first in Allahabad and later in Delhi). In 1941, in Indian Civil Service, the percentage of Indians was higher than that of the Europeans.",
+      "question_id": "q0012",
       "count": 1,
+      "papers": "RO/ARO Pre '21",
+      "exam": "RO/ARO Pre '21",
       "anchor": "c1-t1",
-      "ch": 1
+      "ch": 1,
+      "pages": [
+        13
+      ]
     },
     {
-      "fact": "In the Indian Constitution, the Federal System with a strong centre, vesting of Residual powers to the centre, the Governor's appointment by...",
-      "exam": "PCS Pre ’21",
+      "fact": "Which one of the following is NOT correctly matched? (Provisions) (Sources) → <b>Residual Powers of Center - Australia</b>",
+      "explanation": "In the Indian Constitution, the Federal System with a strong centre, vesting of Residual powers to the centre, the Governor&#x27;s appointment by the centre, advisory jurisdiction of the Supreme Court, etc, has been adopted from the Constitution of Canada. All other pairs are correctly matched.",
+      "question_id": "q0075",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c4-t1",
-      "ch": 4
+      "ch": 4,
+      "pages": [
+        35
+      ]
     },
     {
-      "fact": "The provision of three legislative lists is found in the VII th Schedule of the Constitution.",
-      "exam": "RO/ARO Mains ’21",
+      "fact": "The Provision of three legislative lists is found in the following Schedule of the Constitution– → <b>VII</b>",
+      "explanation": "The provision of three legislative lists is found in the VIIth Schedule of the Constitution.",
+      "question_id": "q0127",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c7-t1",
-      "ch": 7
+      "ch": 7,
+      "pages": [
+        54
+      ]
     },
     {
-      "fact": "The Preamble of the Constitution: WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR D...",
-      "exam": "PCS Pre ’21",
+      "fact": "Which of the following words is NOT mentioned in the Preamble of the Constitution of India? → <b>Federal</b>",
+      "explanation": "The Preamble of the Constitution: WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY, assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY, this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION. The word federal is not mentioned in the preamble. So option (d) is correct.",
+      "question_id": "q0161",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c8-t1",
-      "ch": 8
+      "ch": 8,
+      "pages": [
+        67
+      ]
     },
     {
       "fact": "In the Preamble of the Indian Constitution, which Justice is provided to all its citizens? → <b>Social, Economic and Political</b>",
-      "exam": "RO/ARO Pre ’21",
+      "explanation": "There are 3 types of justice mentioned in the Preamble of the Indian Constitution. The Preamble aims to ensure Social, Economic and Political Justice.",
+      "question_id": "q0171",
       "count": 1,
+      "papers": "RO/ARO Pre '21",
+      "exam": "RO/ARO Pre '21",
       "anchor": "c8-t1",
-      "ch": 8
+      "ch": 8,
+      "pages": [
+        69
+      ]
     },
     {
-      "fact": "In the Preamble of the Indian Constitution, which Justice is provided to all its citizens? → <b>Social, Economic and Political</b>",
-      "exam": "RO/ARO Pre ’21",
+      "fact": "Consider the formation of following States and arrange these in chronological order: I. Goa II. Telangana III. Jharkhand IV. Haryana Select the correct answer from the codes given below: Codes: → <b>IV, I, III, II</b>",
+      "explanation": "State Created in (Year) Haryana 1966, November 1 Goa 1987, May 30 Jharkhand 2000, November 15 Telangana 2014, June 2",
+      "question_id": "q0238",
       "count": 1,
-      "anchor": "c8-t1",
-      "ch": 8
-    },
-    {
-      "fact": "State Created in (Year) Haryana 1966, November 1 Goa 1987, May 30 Jharkhand 2000, November 15 Telangana 2014, June 2",
-      "exam": "PCS Pre ’21",
-      "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c11-t1",
-      "ch": 11
+      "ch": 11,
+      "pages": [
+        97
+      ]
     },
     {
-      "fact": "In the words of our 'philosopher king', Dr. S. Radhakrishnan, the Fundamental Rights are 'a pledge to our people and a pact with the civiliz...",
-      "exam": "PCS Pre ’21",
+      "fact": "Who among the following person said for the Fundamental Rights &quot;a pledge to our people and a pact with the civilized world&quot;? → <b>Dr. S. Radha Krishnan</b>",
+      "explanation": "In the words of our &#x27;philosopher king&#x27;, Dr. S. Radhakrishnan, the Fundamental Rights are &#x27;a pledge to our people and a pact with the civilized world&#x27;. And as the great jurist Patanjali Sastry, the former Chief Justice of our Supreme Court, said: &quot;The whole object of Part III of the Constitution is to provide protection for the freedoms and rights mentioned therein against arbitrary invasion by the state&quot;.",
+      "question_id": "q0259",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        107
+      ]
     },
     {
-      "fact": "Under Article 43B of the Constitution of India: Promotion of Cooperative Societies. The state shall endeavour to promote voluntary formation...",
-      "exam": "PCS Pre ’21",
+      "fact": "Which one of the following is NOT correctly matched? (Subject) (Related Articles) → <b>The promotion of Co-operative -Article 43A Societies</b>",
+      "explanation": "Under Article 43B of the Constitution of India: Promotion of Cooperative Societies. The state shall endeavour to promote voluntary formation, autonomous functioning, democratic control and professional management of co-operative societies. Article 43A provides for the participation of workers in the management of industries. All the rest are correct matches.",
+      "question_id": "q0366",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c14-t1",
-      "ch": 14
+      "ch": 14,
+      "pages": [
+        144
+      ]
     },
     {
-      "fact": "On the recommendations of the Swaran Singh committee (1976), the government enacted the 42 nd Constitutional Amendment 1976. This amendment ...",
-      "exam": "PCS Pre ’21",
+      "fact": "Under the Constitution of India which of the following is not Fundamental Duty? → <b>To vote in General Election</b>",
+      "explanation": "On the recommendations of the Swaran Singh committee (1976), the government enacted the 42nd Constitutional Amendment 1976. This amendment added a new part, namely, Part IVA, to the Constitution. This new part consists of one Article, that is Article 51A, which contains 11 Fundamental Duties for the citizens. All the options include fundamental duties except option (a). To vote in the General Election is not a Fundamental Duty.",
+      "question_id": "q0395",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c15-t1",
-      "ch": 15
+      "ch": 15,
+      "pages": [
+        153
+      ]
     },
     {
-      "fact": "According to the Constitution of India, the 'Executive Power of the Union' shall be vested in the– 1. President 2. Prime Minister Select the...",
-      "exam": "RO/ARO Mains ’21",
+      "fact": "According to the Constitution of India, the &#x27;Executive Power of the Union&#x27; shall be vested in the– 1. President 2. Prime Minister Select the correct answer from the code given below the lists: Code– → <b>Only 1</b>",
+      "explanation": "According to Article 53 (1) the executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with the Constitution.",
+      "question_id": "q0411",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c16-t1",
-      "ch": 16
+      "ch": 16,
+      "pages": [
+        159
+      ]
     },
     {
-      "fact": "In the event of vacancy in the office of both President and Vice President, who shall discharge the functions of President? → <b>Chief Justi...",
-      "exam": "RO/ARO Mains ’21",
+      "fact": "In the event of vacancy in the office of both President and Vice President, who shall discharge the functions of President? → <b>Chief Justice of India</b>",
+      "explanation": "The President (discharge of functions) Act, 1969 of India provides that the Chief Justice of India (CJI) shall act as the President of India in the event of the office of both the President and Vice – President being vacant. In the absence of the CJI, the senior-most Judge of the Supreme Court shall perform the functions of the President.",
+      "question_id": "q0438",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c16-t1",
-      "ch": 16
+      "ch": 16,
+      "pages": [
+        169
+      ]
     },
     {
-      "fact": "Neelam Sanjiva Reddy as the sixth President of India, served as a two-time speaker of Lok Sabha from 17 March, 1967 to 19 July, 1969 and fro...",
-      "exam": "RO/ARO Pre ’21",
+      "fact": "Which of the following Indian President also served as Speaker of Lok Sabha? → <b>Neelam Sanjiva Reddy</b>",
+      "explanation": "Neelam Sanjiva Reddy as the sixth President of India, served as a two-time speaker of Lok Sabha from 17 March, 1967 to 19 July, 1969 and from 26 March, 1977 to 13 July, 1977.",
+      "question_id": "q0465",
       "count": 1,
+      "papers": "RO/ARO Pre '21",
+      "exam": "RO/ARO Pre '21",
       "anchor": "c16-t1",
-      "ch": 16
+      "ch": 16,
+      "pages": [
+        178
+      ]
     },
     {
-      "fact": "As per Article 300 of the Constitution of India, the legal name of the government of India is 'The Union of India'.",
-      "exam": "RO/ARO Mains ’21",
+      "fact": "As per Article 300 of the Constitution of India, the legal name of the Government of India is– → <b>The Union of India</b>",
+      "explanation": "As per Article 300 of the Constitution of India, the legal name of the government of India is &#x27;The Union of India&#x27;.",
+      "question_id": "q0482",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c18-t1",
-      "ch": 18
+      "ch": 18,
+      "pages": [
+        184
+      ]
     },
     {
-      "fact": "The Council of Ministers in the Union of India is collectively responsible to the Lok Sabha only [Article 75(3)]. So, Assertion (A) is false...",
-      "exam": "PCS Pre ’21",
+      "fact": "Assertion (A) : The Council of Ministers in the Union of India is collectively responsible both to the Lok Sabha and the Rajya Sabha. Reason (R) : The members of both the Lok Sabha and the Rajya Sabha are eligible to be the Ministers of the Union Government. Code : → <b>(A) is false, but (R) is true.</b>",
+      "explanation": "The Council of Ministers in the Union of India is collectively responsible to the Lok Sabha only [Article 75(3)]. So, Assertion (A) is false. The Union Minister can be a member of either House of the Parliament, but he is eligible to vote only in the House to which he belongs. Thus, Reason (R) is true.",
+      "question_id": "q0494",
       "count": 2,
+      "papers": "PCS Pre '21; BEO '19",
+      "exam": "PCS Pre '21; BEO '19",
       "anchor": "c18-t1",
-      "ch": 18
+      "ch": 18,
+      "pages": [
+        190
+      ]
     },
     {
-      "fact": "A Bill may be introduced in either House of Parliament. However, a Money Bill can not be introduced in Rajya Sabha it can only be introduced...",
-      "exam": "PCS Pre ’21",
+      "fact": "Which of the following Bills can NOT be first introduced in Rajya Sabha? → <b>Money Bill</b>",
+      "explanation": "A Bill may be introduced in either House of Parliament. However, a Money Bill can not be introduced in Rajya Sabha it can only be introduced in Lok Sabha with the prior recommendation of the President for its introduction in Lok Sabha.",
+      "question_id": "q0595",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c22-t1",
-      "ch": 22
+      "ch": 22,
+      "pages": [
+        236
+      ]
     },
     {
-      "fact": "(State) (Representation in Rajya Sabha) Rajasthan 10 Gujarat 11 Karnataka 12 Punjab 7",
-      "exam": "PCS Pre ’21",
+      "fact": "Match List -1 with List - II and select the correct answer using the codes given below the lists. List -1 List-II (State) (Representation in Rajya Sabha) A. Rajasthan 1.10 seats B. Gujarat 2. 7 seats C. Karnataka 3.11 seats D. Punjab 4.12 seats Codes A B C D → <b>1 3 4 2</b>",
+      "explanation": "(State) (Representation in Rajya Sabha) Rajasthan 10 Gujarat 11 Karnataka 12 Punjab 7",
+      "question_id": "q0601",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c22-t1",
-      "ch": 22
+      "ch": 22,
+      "pages": [
+        239,
+        240
+      ]
     },
     {
-      "fact": "All executive power is vested in the President of India. The Council of Ministers, headed by the Prime Minister, aids and advises the Presid...",
-      "exam": "PCS Pre ’21",
+      "fact": "With reference to the special address of the President of India, which of the following/statements is/are correct? 1. The President addresses the joint meeting of both houses of Parliament at the commencements of the first session after each general election of the house of the people and at the commencement of the first session of each year. 2. The President in his address informs the Parliament of the causes of its summons. Select the correct answer using the codes given below. Codes: → <b>Both 1 and 2</b>",
+      "explanation": "All executive power is vested in the President of India. The Council of Ministers, headed by the Prime Minister, aids and advises the President, who exercises his powers in accordance with such advice. Article 87(1) of the Constitution provides two instances when the President specially addresses both Houses of Parliament. The President of India addresses both the Rajya Sabha and the Lok Sabha at the beginning of the first Session after each general election when the reconstituted lower house meets for the first time. The President also addresses both the Houses at the beginning of the first session of each year.The President&#x27;s speech essentially highlights the government&#x27;s policy priorities and plans for the upcoming year. The address provides a broad framework of the government&#x27;s agenda and direction.",
+      "question_id": "q0612",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c23-t1",
-      "ch": 23
+      "ch": 23,
+      "pages": [
+        244
+      ]
     },
     {
-      "fact": "The Parliament of India has the power to legislate for the Union of India, the Territory of India and Indian subjects/ resident and their pr...",
-      "exam": "RO/ARO Mains ’21",
+      "fact": "The Parliament of India has the &#x27;Power to Legislate&#x27; for the following– 1. Union of India 2. Territory of India 3. Indian subject resident and their property situated anywhere in the world Select the correct answer from the code given below– Code– → <b>1, 2 and 3</b>",
+      "explanation": "The Parliament of India has the power to legislate for the Union of India, the Territory of India and Indian subjects/ resident and their property situated anywhere in the world.",
+      "question_id": "q0627",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c23-t1",
-      "ch": 23
+      "ch": 23,
+      "pages": [
+        249
+      ]
     },
     {
-      "fact": "'Zero Hour' in the working of the Indian Parliament means → <b>The first hour of the Session</b>",
-      "exam": "PCS Pre ’21",
-      "count": 1,
+      "fact": "Under which article of the Indian Constitution, the Parliament can make laws on State List subject for giving effect to international agreements? → <b>Article – 253</b>",
+      "explanation": "The Parliament may legislate on any subject of the State List in all of the given situations. According to Article 253, to implement any international agreement, treaty or convention; according to Article 252- for two or more States by their consent; according to Article 249- in the national interest when a resolution has been passed by the Council of States by a 2/3 majority and according to Article 357- when the proclamation of emergency is in operation. Thus option (d) is the correct answer.",
+      "question_id": "q0630",
+      "count": 3,
+      "papers": "PCS Pre '16; PCS Mains '16; RO/ARO Pre '21",
+      "exam": "PCS Pre '16; PCS Mains '16; RO/ARO Pre '21",
       "anchor": "c23-t1",
-      "ch": 23
+      "ch": 23,
+      "pages": [
+        249
+      ]
     },
     {
       "fact": "The Provision of a joint sitting of both the Houses of Parliament is mentioned in the Constitution under the following Article– → <b>108</b>",
-      "exam": "RO/ARO Mains ’21",
+      "explanation": "The joint sitting of both the Houses of Parliament in India is mentioned under Article 108 of the Constitution of India. The first joint session took place in 1961 to resolve the issue of the ‘Dowry Prohibition Bill,’ on which both the Houses had finally agreed. The second joint session took place in 1978 on the Banking Service Commission (Repeal) Bill of 1977. The third joint session of the Parliament was held in March 2002 for the Anti-Terrorism Bill (POTA).",
+      "question_id": "q0645",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c23-t1",
-      "ch": 23
+      "ch": 23,
+      "pages": [
+        253
+      ]
     },
     {
-      "fact": "Article 267: Contingency Fund: Parliament may by law establish a Contingency Fund in the nature of an imprest to be entitled the Contingency...",
-      "exam": "PCS Pre ’21",
+      "fact": "Which of the following Articles of the Indian Constitution is related to Contingency Fund? → <b>Article 267</b>",
+      "explanation": "Article 267: Contingency Fund: Parliament may by law establish a Contingency Fund in the nature of an imprest to be entitled the Contingency Fund of India into which shall be paid from time to time such sums as may be determined by such law, and the said Fund shall be placed at the disposal of the President to enable advances to be made by him out of such Fund for the purposes of meeting unforeseen expenditure pending authorisation of such expenditure by Parliament by law under Article 115 or Article 116.",
+      "question_id": "q0654",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c23-t1",
-      "ch": 23
+      "ch": 23,
+      "pages": [
+        256
+      ]
     },
     {
       "fact": "The Public Accounts Committee of Indian Parliament scrutinizes the → <b>Report of the comptroller and auditor general</b>",
-      "exam": "PCS Pre ’21",
+      "explanation": "The Public Account Committee is formed every year with a strength of not more than 22 members, of which 15 are from Lok Sabha and 7 from Rajya Sabha.",
+      "question_id": "q0692",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c24-t1",
-      "ch": 24
+      "ch": 24,
+      "pages": [
+        271
+      ]
     },
     {
-      "fact": "The Code on Wages, 2019 replaces the following four laws: (i) The Payment of Wages Act, 1936, (ii) The Minimum Wages Act, 1948, (iii) The Pa...",
-      "exam": "PCS Pre ’21",
+      "fact": "Which of the following labour related Acts have been amalgamated into the &#x27;Code on Wages, 2019&#x27;? I. Minimum Wages Act II. Payment of Bonus Act III.The Contract Labour Act IV. Equal Remuneration Act Select the correct answer using the codes given below. Codes: → <b>I, II and IV only</b>",
+      "explanation": "The Code on Wages, 2019 replaces the following four laws: (i) The Payment of Wages Act, 1936, (ii)The Minimum Wages Act, 1948, (iii) The Payment of Bonus Act, 1965, and (iv) The Equal Remuneration Act, 1976.",
+      "question_id": "q0722",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c25-t1",
-      "ch": 25
+      "ch": 25,
+      "pages": [
+        289,
+        290
+      ]
     },
     {
-      "fact": "The correct Matched order is as follows: List -I List-II (a) Companies Act 2013 (b) Indian Contract Act 1872 (c) Partnership Act 1932 (d) Sa...",
-      "exam": "RO/ARO Pre ’21",
+      "fact": "Which of the following is not correctly matched? → <b>Indian Contract Act – 1870</b>",
+      "explanation": "The correct Matched order is as follows: List -I List-II (a) Companies Act 2013 (b) Indian Contract Act 1872 (c) Partnership Act 1932 (d) Sales of Goods Act 1930",
+      "question_id": "q0723",
       "count": 1,
+      "papers": "RO/ARO Pre '21",
+      "exam": "RO/ARO Pre '21",
       "anchor": "c25-t1",
-      "ch": 25
+      "ch": 25,
+      "pages": [
+        290
+      ]
     },
     {
       "fact": "The Disaster Management Act was passed by the Parliament of India in - → <b>2005</b>",
-      "exam": "RO/ARO Pre ’21",
+      "explanation": "The Disaster Management Act was passed by the Parliament of India in 2005 for efficient management of disasters. The act contains 11 chapters and 79 sections. The act received the assent of the president of India on 23, December 2005",
+      "question_id": "q0726",
       "count": 1,
+      "papers": "RO/ARO Pre '21",
+      "exam": "RO/ARO Pre '21",
       "anchor": "c25-t1",
-      "ch": 25
+      "ch": 25,
+      "pages": [
+        291
+      ]
     },
     {
-      "fact": "• The National Disaster Management Authority (NDMA), headed by the Prime Minister of India. • On 23 December 2005, the Government of India e...",
-      "exam": "PCS Pre ’21",
+      "fact": "The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority? → <b>The Prime Minister</b>",
+      "explanation": "• The National Disaster Management Authority (NDMA), headed by the Prime Minister of India. • On 23 December 2005, the Government of India enacted the Disaster Management Act, which envisaged the creation of the National Disaster Management Authority (NDMA). • The NDMA may have no more than nine members including a Vice-Chairperson. • The tenure of the members of the NDMA shall be five years.",
+      "question_id": "q0727",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c25-t1",
-      "ch": 25
+      "ch": 25,
+      "pages": [
+        291
+      ]
     },
     {
-      "fact": "The government of India has passed the 'Protection of Plant Varieties and Farmer's Right Act in 2001. It was enacted in 2001 to establish an...",
-      "exam": "RO/ARO Mains ’21",
+      "fact": "Government of India has passed &#x27;Protection of Plant Varieties and Farmers Right Act&#x27; in which of the following year? → <b>2001</b>",
+      "explanation": "The government of India has passed the &#x27;Protection of Plant Varieties and Farmer&#x27;s Right Act in 2001. It was enacted in 2001 to establish an effective system for the protection of plant varieties, the rights of farmers and plant breeders and to encourage the development of new varieties of plants.",
+      "question_id": "q0730",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c25-t1",
-      "ch": 25
+      "ch": 25,
+      "pages": [
+        292
+      ]
     },
     {
-      "fact": "As per Article 189(3), until the legislature of a State by law otherwise provides, the quorum to constitute a meeting of a House of the legi...",
-      "exam": "RO/ARO Pre ’21",
+      "fact": "What is the &#x27;quorum&#x27; required in the State Legislature to hold a meeting? → <b>Ten members or one tenth of the total members of the House, whichever is greater.</b>",
+      "explanation": "As per Article 189(3), until the legislature of a State by law otherwise provides, the quorum to constitute a meeting of a House of the legislature of a state shall be ten members or onetenth of the total number of members of the house, whichever is greater.",
+      "question_id": "q0831",
       "count": 1,
+      "papers": "RO/ARO Pre '21",
+      "exam": "RO/ARO Pre '21",
       "anchor": "c28-t1",
-      "ch": 28
+      "ch": 28,
+      "pages": [
+        340
+      ]
     },
     {
-      "fact": "The Union Government, constituted a Commission in 1983 under the Chairmanship of Justice R.S. Sarkaria to review the working of the existing...",
-      "exam": "PCS Pre ’21",
+      "fact": "On the recommendation of which Commission/ Committee, the Inter-state Council was set up in India? → <b>Sarkaria Commission</b>",
+      "explanation": "The Union Government, constituted a Commission in 1983 under the Chairmanship of Justice R.S. Sarkaria to review the working of the existing arrangements between the Union and the States. One of the important recommendations of the Sarkaria Commission was to establish a permanent Inter-State Council as an independent national forum for consultation with a mandate well-defined in accordance with Article 263 of the Constitution of India.",
+      "question_id": "q0880",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c30-t1",
-      "ch": 30
+      "ch": 30,
+      "pages": [
+        363
+      ]
     },
     {
       "fact": "Which of the following Article is related to the appointment of a Finance Commission by the President of India? → <b>280</b>",
-      "exam": "RO/ARO Mains ’21",
+      "explanation": "Article 280 of the Constitution provides for the formation of the Finance Commission after the expiration of every fifth year or at such earlier time as the President considers necessary. Its main function is to submit recommendations to the President regarding the allocation of net proceeds of taxes between the Union and the States and the method of distribution among the States, etc. It may be mentioned that the First Finance Commission was set up on 6th April, 1952 under the Chairmanship of K.C. Neogy.",
+      "question_id": "q0911",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c32-t1",
-      "ch": 32
+      "ch": 32,
+      "pages": [
+        376
+      ]
     },
     {
-      "fact": "According to Article 280(1) of the Indian Constitution, the Finance Commission consists of a total 5 members (Chairman and 4 Members) in the...",
-      "exam": "PCS Pre ’21",
+      "fact": "Given below are two statements one is labelled as Assertion (A) and other as Reason (R): Assertion (A): The President of India determines the qualifications of the Chairman and Members of the Finance Commission. Reason (R): Chairman and members are appointed by the President of India. Select the correct answer using the codes given below. Codes: → <b>(A) is false, but (R) is true</b>",
+      "explanation": "According to Article 280(1) of the Indian Constitution, the Finance Commission consists of a total 5 members (Chairman and 4 Members) in the commission. As per the Finance Commission (miscellaneous provisions) Act, 1951, the chairman of the commission is selected from among persons who have had experience in public affairs and the four other members are selected from among persons who– (a) are, or have been, or are qualified to be appointed as Judge of a High; or. (b) A person who has specialised knowledge of finance and accounts of the government; or. (c) A person who has wide experience in financial matters and in administrations; or. (d) A person who has special knowledge of economics. It is not necessary that at least one member of the commission must be a Judge of High Court or Supreme Court. As per Section (6) of this Act, the Chairman of the Commission can be reappointed. K.C. Neogy was the first Chairman of the Finance Commission.",
+      "question_id": "q0916",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c32-t1",
-      "ch": 32
+      "ch": 32,
+      "pages": [
+        377
+      ]
     },
     {
       "fact": "A member of State Public Service Commission may be removed by → <b>The President, after the enquiry conducted by the Supreme Court</b>",
-      "exam": "PCS Pre ’21",
+      "explanation": "According to Article 317 of the Constitution, the Chairman or any other member of a Public Service Commission shall only be removed from his office by order of the President on the ground of misbehaviour after the Supreme Court, on reference being made to it by the President, has, an inquiry held in accordance with the procedure prescribed in that behalf under Article 145, reported that the Chairman or such other member, as the case may be, ought on any such ground to be removed.",
+      "question_id": "q0978",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c34-t1",
-      "ch": 34
+      "ch": 34,
+      "pages": [
+        405
+      ]
     },
     {
-      "fact": "The functions of the State Public Service Commission of Uttar Pradesh can be extended by the Uttar Pradesh State Legislature. Article-321. P...",
-      "exam": "PCS Pre ’21",
+      "fact": "The functions of the State Public Service Commission of Uttar Pradesh can be extended by → <b>Uttar Pradesh State Legislature</b>",
+      "explanation": "The functions of the State Public Service Commission of Uttar Pradesh can be extended by the Uttar Pradesh State Legislature. Article-321. Power to extend functions of Public Service Commissions: An Act made by Parliament or, as the case may be, the Legislature of a State may provide for the exercise of additional functions by the Union Public Service Commission or the State Public Service Commission as respects the services of the Union or the State and also as respects the services of any local authority or other body corporate constituted by law or of any public institution.",
+      "question_id": "q0981",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c34-t1",
-      "ch": 34
+      "ch": 34,
+      "pages": [
+        406
+      ]
     },
     {
-      "fact": "In February 2004, Hota was appointed by the Government of India as the Chairman of the Committee on Civil Services Reforms. He submitted the...",
-      "exam": "PCS Pre ’21",
+      "fact": "In which year P.C. Hota Committee on Civil Services Reforms was constituted? → <b>2004</b>",
+      "explanation": "In February 2004, Hota was appointed by the Government of India as the Chairman of the Committee on Civil Services Reforms. He submitted the report of the Committee to the Government of India within six months.",
+      "question_id": "q0984",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c34-t1",
-      "ch": 34
+      "ch": 34,
+      "pages": [
+        408
+      ]
     },
     {
-      "fact": "Former Karnataka and Himachal Pradesh Governor V . S. Ramadevi was the only woman to head the Election Commission. Sukumar Sen (2 January 18...",
-      "exam": "PCS Pre ’21",
+      "fact": "Consider the facts given below: 1. Sukumar Sen was the first Chief Election Commissioner of India. 2. Rama Devi was the first woman Chief Election Commissioner of India. Choose the correct answer from the codes given below. Codes: → <b>Both 1 and 2 are correct</b>",
+      "explanation": "Former Karnataka and Himachal Pradesh Governor V. S. Ramadevi was the only woman to head the Election Commission. Sukumar Sen (2 January 1898 -13 May 1963) was an Indian civil servant who was the first Chief Election Commissioner of India, serving from 21 March 1950 to 19 December 1958.",
+      "question_id": "q1018",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c36-t1",
-      "ch": 36
+      "ch": 36,
+      "pages": [
+        424
+      ]
     },
     {
-      "fact": "The Constitution (Sixty-first Amendment) Act, 1989, lowered the voting age of elections to the Lok Sabha and to the Legislative Assemblies o...",
-      "exam": "PCS Pre ’21",
+      "fact": "Which Constitution Amendment Act reduced the voting age from 21 years to 18 years? → <b>61st Amendment</b>",
+      "explanation": "The Constitution (Sixty-first Amendment) Act, 1989, lowered the voting age of elections to the Lok Sabha and to the Legislative Assemblies of States from 21 years to 18 years.Lowering the voting age provided to the unrepresented youth of the country an opportunity to express their feelings and help them to become a part of the political process.",
+      "question_id": "q1055",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c38-t1",
-      "ch": 38
+      "ch": 38,
+      "pages": [
+        447
+      ]
     },
     {
-      "fact": "The Golak Nath case was decided on 27 February 1967. The Keshavanand Bharti Case was decided in 1973. The Constitution (Twenty-Fourth Amendm...",
-      "exam": "PCS Pre ’21",
+      "fact": "Consider the following and arrange these in chronological order: I. Golak Nath Case II. Keshavanand Bharti Case III. 24th Constitution Amendment Act IV. 42nd Constitution Amendment Act Select the correct answer from the codes given below. Codes: → <b>I, III, II, IV</b>",
+      "explanation": "The Golak Nath case was decided on 27 February 1967. The Keshavanand Bharti Case was decided in 1973. The Constitution (Twenty-Fourth Amendment) Act, 1971 was passed on 5 November 1971. The Constitution (Forty second Amendment) Act, 1976 was passed in 1976. Hence, correct answer is option (a).",
+      "question_id": "q1068",
       "count": 1,
+      "papers": "PCS Pre '21",
+      "exam": "PCS Pre '21",
       "anchor": "c38-t1",
-      "ch": 38
+      "ch": 38,
+      "pages": [
+        451
+      ]
     },
     {
-      "fact": "Panjabi 14. Sanskrit 15. Sindhi 16. Tamil 17. Telugu 18. Santhali 19. Urdu 20. Konkani 21. Manipuri and 22. Nepali. 8. In 1993 which of the ...",
-      "exam": "RO/ARO Pre ’21",
-      "count": 1,
-      "anchor": "c39-t1",
-      "ch": 39
-    },
-    {
-      "fact": "Consider the following Committees on Panchayati Raj and arrange these in chronological order: I. Ashok Mehta Committee II. L.M. Singhvi Comm...",
-      "exam": "PCS Pre ’21",
+      "fact": "Consider the following Committees on Panchayati Raj and arrange these in chronological order: I. Ashok Mehta Committee II. L.M. Singhvi Committee III. B.R. Mehta Committee IV. G.K.V. Rao Committee Select the correct answer from the codes given below. Codes: → <b>III, I, IV, II</b>",
+      "explanation": "• In 1957, the National Development Council constituted a committee headed by Balwant Rai Mehta to look into the working of community development programmes. • The Ashok Mehta Committee was appointed in 1977. • The G.V.K. Rao Committee was appointed in 1985. • The L.M.Singhvi Committee was appointed in 1986. • The C.H. Hanumantha Rao Committee was appointed in 1983.",
+      "question_id": "q1135",
       "count": 3,
+      "papers": "PCS Pre '21; Lower Sub Mains '15; PCS Mains '17",
+      "exam": "PCS Pre '21; Lower Sub Mains '15; PCS Mains '17",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        479
+      ]
     },
     {
-      "fact": "Part IX-A of the Constitution of India gave a constitutional foundation to the Local Self Government units in the following areas– 1. Rural ...",
-      "exam": "RO/ARO Mains ’21",
+      "fact": "Part IX-A of the Constitution of India gave a constitutional foundation to the Local Self Government units in the following areas– 1. Rural areas 2. Urban areas Select the correct answer from the code given below the lists : Code– → <b>Only 2</b>",
+      "explanation": "Part IX-A (Article 243P-243ZG) was inserted by the 74th Amendment of the Constitution in 1992 to give Constitutional status to the units of local self-governance in urban areas. A new Schedule (12th Schedule) was also added by this Amendment Act.",
+      "question_id": "q1160",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        491,
+        492
+      ]
     },
     {
-      "fact": "The Six Points Formula proposal of India for South Asian Region was presented by Prime Minister Atal Bihari Vajpayee.",
-      "exam": "RO/ARO Pre ’21",
+      "fact": "The Six Points Formula proposal of India for South Asian Region was presented by which Prime Minister of India? → <b>Atal Bihari Vajpayee</b>",
+      "explanation": "The Six Points Formula proposal of India for South Asian Region was presented by Prime Minister Atal Bihari Vajpayee.",
+      "question_id": "q1186",
       "count": 1,
+      "papers": "RO/ARO Pre '21",
+      "exam": "RO/ARO Pre '21",
       "anchor": "c42-t1",
-      "ch": 42
+      "ch": 42,
+      "pages": [
+        515
+      ]
     },
     {
-      "fact": "Correct match List-I with List-II– List-I List-II 21 years — Member of Panchayat 25 years — Member of State Legislative Assembly 30 years — ...",
-      "exam": "RO/ARO Mains ’21",
+      "fact": "Match List-I with List-II and select the correct answer from the code given below the lists: List-I List-II (Minimum (Office/Post) Qualification of Age) A. 21 years 1. President of India B. 25 years 2. Member of Panchayat C. 30 years 3. M e m b e r o f S t a t e Legislative Assembly D. 35 years 4. M e m b e r o f S t a t e Legislative Council Codes: A B C D → <b>2 3 4 1</b>",
+      "explanation": "Correct match List-I with List-II– List-I List-II 21 years — Member of Panchayat 25 years — Member of State Legislative Assembly 30 years — Member of State Legislative Council 35 years — President of India",
+      "question_id": "q1187",
       "count": 1,
+      "papers": "RO/ARO Mains '21",
+      "exam": "RO/ARO Mains '21",
       "anchor": "c42-t1",
-      "ch": 42
+      "ch": 42,
+      "pages": [
+        515
+      ]
     },
     {
-      "fact": "Djibouti Code of Conduct is related to the International Maritime Group against Piracy. It is also known as the code of conduct concerning t...",
-      "exam": "RO/ARO Pre ’21",
+      "fact": "&#x27;Djibouti&#x27; Code of Conduct is related to: → <b>International Maritime grouping against piracy</b>",
+      "explanation": "Djibouti Code of Conduct is related to the International Maritime Group against Piracy. It is also known as the code of conduct concerning the repression of Piracy and Armed Robbery against ships in the Western Indian Ocean and the Gulf of Aden. It was adopted on 29th January, 2009.",
+      "question_id": "q1201",
       "count": 1,
+      "papers": "RO/ARO Pre '21",
+      "exam": "RO/ARO Pre '21",
       "anchor": "c42-t1",
-      "ch": 42
+      "ch": 42,
+      "pages": [
+        521,
+        522
+      ]
     }
   ],
   "2023": [
     {
-      "fact": "According to the Act of 1919, the system of Chamber of Princes with 120 members was created. The Chamber of Princes was established by King-...",
-      "exam": "PCS Pre ’23",
+      "fact": "By which of the following Acts, the system of ‘Chamber of Princes’ with 120 members was created? → <b>Act of 1919</b>",
+      "explanation": "According to the Act of 1919, the system of Chamber of Princes with 120 members was created. The Chamber of Princes was established by King-Emperor George V&#x27;s Proclamation on 23 December 1919, after the Government of India Act 1919 was given royal assent. The chamber was formed to provide a forum in which the rulers of the princely States of India could voice their needs and aspirations to the colonial government. The annual meeting of the chamber of princes was presided over by the Viceroy of India. It was an advisory body. The first chancellor of the chamber was Maharaja of Bikaner, Ganga Singh.",
+      "question_id": "q0013",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c1-t1",
-      "ch": 1
+      "ch": 1,
+      "pages": [
+        13,
+        14
+      ]
     },
     {
-      "fact": "Appointment of the Drafting Committee- 29 August, 1947. The Indian Constitution was adopted and enacted- 26 November, 1949. Date of commence...",
-      "exam": "PCS Pre ’23",
+      "fact": "Consider the following events and arrange these in correct chronological order starting from the earliest to the last activity : (I) Appointment of the Drafting Committee (II) Indian Constitution was adopted and enacted (III) Date of commencement of Indian Constitution (IV) Constitution Assembly first met Select the correct answer from the code given below : Code : → <b>IV, I, II, III</b>",
+      "explanation": "Appointment of the Drafting Committee- 29 August, 1947. The Indian Constitution was adopted and enacted- 26 November, 1949. Date of commencement of Indian Constitution- 26 January, 1950 Constitution/Constituent Assembly first met- 9 December, 1946 Hence, option (a) is correct answer.",
+      "question_id": "q0049",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c2-t1",
-      "ch": 2
+      "ch": 2,
+      "pages": [
+        27
+      ]
     },
     {
-      "fact": "Part XV of the Constitution (Articles 324 to 329) is titled “Elections”. It contains the constitutional framework for the establishment and ...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "In which part of the Indian Constitution, have the provisions for elections been made ? → <b>Part XV (15)</b>",
+      "explanation": "Part XV of the Constitution (Articles 324 to 329) is titled “Elections”. It contains the constitutional framework for the establishment and powers of the Election Commission, preparation of electoral rolls, and conduct of elections to Parliament, State Legislatures, and for the offices of the President and Vice-President.",
+      "question_id": "q0090",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c5-t1",
-      "ch": 5
+      "ch": 5,
+      "pages": [
+        39
+      ]
     },
     {
-      "fact": "Tribunals are not mentioned in Part XI but in Part XIV (A). They were inserted in the Constitution by 42 nd Amendment Act, 1976 under Articl...",
-      "exam": "PCS Pre ’23",
+      "fact": "Which among the following (Provision – Part of the Constitution) is not correctly matched? → <b>Tribunals – Part XI</b>",
+      "explanation": "Tribunals are not mentioned in Part XI but in Part XIV (A). They were inserted in the Constitution by 42nd Amendment Act, 1976 under Article 323-A, which deals with Administrative Tribunals and Article 323-B, which deals with tribunals for other matters. Part XI has various provisions related to the centre- state relations. Hence option (d) is the correct answer.",
+      "question_id": "q0092",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c5-t1",
-      "ch": 5
+      "ch": 5,
+      "pages": [
+        40
+      ]
     },
     {
-      "fact": "List-I List – II Article – 324 Election Commission Article – 315 Public Service Commission Article – 280 Finance Commission Article – 338 Na...",
-      "exam": "PCS Pre ’23",
+      "fact": "Match list-I with list-II and select the correct answer using the code given below the lists: List-I List – II (A) Article – 324 (1) National Commission for Schedule Castes (B) Article – 315 (2) Finance Commission (C) Article – 280 (3) Public Service Commission (D) Article – 338 (4) Election Commission Code – → <b>A-(4), B-(3), C-(2), D-(1)</b>",
+      "explanation": "List-I List – II Article – 324 Election Commission Article – 315 Public Service Commission Article – 280 Finance Commission Article – 338 National Commission for Scheduled Castes",
+      "question_id": "q0107",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c6-t1",
-      "ch": 6
+      "ch": 6,
+      "pages": [
+        47
+      ]
     },
     {
-      "fact": "Correct match is as following : List-I List-II Article-26 Freedom to manage religious affairs Article-40 Organisation of Village Panchayats ...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Match List-I with List-II and choose the correct answer using the code given below the lists : List-I List-II A. Article-26 1. Administration of Union Territories B. Article-40 2. Secretariat of Parliament C. Article-98 3. Freedom to manage religious affairs D. Article-239 4. Organisation of Village Panchayats Code- → <b>A-3, B-4, C-2, D-1</b>",
+      "explanation": "Correct match is as following : List-I List-II Article-26 Freedom to manage religious affairs Article-40 Organisation of Village Panchayats Article-98 Secretariat of Parliament Article-239 Administration of Union Territories",
+      "question_id": "q0112",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c6-t1",
-      "ch": 6
+      "ch": 6,
+      "pages": [
+        48,
+        49
+      ]
     },
     {
-      "fact": "Schedules Features of Schedules Third Schedule It contains the forms of oath and affirmation for : Union Ministers of India, Parliament Elec...",
-      "exam": "PCS Pre ’23",
+      "fact": "Which one of the following pairs (Schedule – Subjects) is not correctly matched? → <b>Ninth Schedule – Allocation of seats in the Council of States</b>",
+      "explanation": "Schedules Features of Schedules Third Schedule It contains the forms of oath and affirmation for : Union Ministers of India, Parliament Election Candidates, Members of Parliament (MPs), Supreme Court Judges, Comptroller and Auditor General, State Ministers, State Legislature Elections&#x27; Candidates, State Legislature Members and High Court Judges. Fourth Schedule Allocation of seats in the Council of States. Eighth Schedule It deals with the 22 official languages recognized by the Constitution of India. Ninth Schedule It deals with the state Acts and regulations that deal with land reforms and abolition of the zamindari system. It also deals with the Acts and regulations of the Parliament dealing with other matters. Note : The 1st Amendment Act 1951 added the Ninth Schedule to protect the laws included in it from judicial scrutiny on the ground of violation of fundamental rights. Tenth Schedule It contains provisions relating to disqualification of the members of the Parliament and the State Legislatures on the ground of defection. Note : This schedule was added by the 52nd Amendment Act of 1985, also known as the Anti-defection Law.",
+      "question_id": "q0124",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c7-t1",
-      "ch": 7
+      "ch": 7,
+      "pages": [
+        53
+      ]
     },
     {
-      "fact": "The Sixth Schedule of Indian Constitution contains provisions related to the Administration of Tribal Areas in the States of Assam, Meghalay...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "The 6th schedule of the Indian Constitution is related to the administration of Tribal areas of : → <b>Assam, Meghalaya, Tripura &amp; Mizoram</b>",
+      "explanation": "The Sixth Schedule of Indian Constitution contains provisions related to the Administration of Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram. Notably, the 6th schedule&#x27;s main objective is to save and maintain tribal culture. Notably, Articles 244(2) and 275(1) of the Indian Constitution include the provision of the 6th Schedule.",
+      "question_id": "q0142",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c7-t1",
-      "ch": 7
+      "ch": 7,
+      "pages": [
+        60
+      ]
     },
     {
-      "fact": "The President of India notifies the Scheduled Areas. In Article 244 (1) of the Constitution, the expression Scheduled Areas means such areas...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Consider the following statements with reference to Scheduled areas : 1. The President of India notifies Scheduled areas. 2. State with scheduled areas need to constitute a Tribal Advisory Council. Select the correct answer from the code given below : Code : → <b>Both 1 and 2</b>",
+      "explanation": "The President of India notifies the Scheduled Areas. In Article 244 (1) of the Constitution, the expression Scheduled Areas means such areas as the President may, by order, declare to be the Scheduled Areas. Notably, para 4 of the Fifth Schedule provides for establishment of a Tribal Advisory Council in any state having scheduled areas.",
+      "question_id": "q0145",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c7-t1",
-      "ch": 7
+      "ch": 7,
+      "pages": [
+        60
+      ]
     },
     {
-      "fact": "The preamble of the Indian Constitution- WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SE...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Which among the following is the correct order mentioned in Preamble of the Indian Constitution? → <b>Sovereign, Socialist, Secular, Democratic</b>",
+      "explanation": "The preamble of the Indian ConstitutionWE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens : JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION. Obviously, the correct order is- Sovereign, Socialist, Secular and Democratic.",
+      "question_id": "q0151",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c8-t1",
-      "ch": 8
+      "ch": 8,
+      "pages": [
+        63,
+        64
+      ]
     },
     {
-      "fact": "Constitutional scholar Prof. K. C. Wheare, in his book Federal Government, described the Indian System as “a quasi-federal state – a unitary...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Which of the following critics used the term “QuasiFederal” for the Indian system of government ? → <b>K.C. Wheare</b>",
+      "explanation": "Constitutional scholar Prof. K. C. Wheare, in his book Federal Government, described the Indian System as “a quasi-federal state – a unitary state with subsidiary federal features.” Hence, he is cited as the originator of the concept of “Quasifederalism.” “Quasi-federal” implies a constitution containing both federal and unitary features, but with comparatively greater powers vested in the Centre.",
+      "question_id": "q0204",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c9-t1",
-      "ch": 9
+      "ch": 9,
+      "pages": [
+        82,
+        83
+      ]
     },
     {
-      "fact": "According to the Article 3 of Indian Constitution, Parliament of India can form new states by the separation of a territory from any state. ...",
-      "exam": "PCS Pre ’23",
+      "fact": "Given below are two statements, one is labelled as Assertion (A) and other as Reason (R) : Assertion (A) : The President can recommend to the Parliament to change the boundary of any state after seeking views of the concerned Legislature of that state on the subject within specified period. Reason (R) : It is not mandatory for the President to accept the proposal of the concerned State Legislature. Select the correct answer using the code given below : → <b>Both (A) and (R) are true, but (R) is not correct explanation of (A).</b>",
+      "explanation": "According to the Article 3 of Indian Constitution, Parliament of India can form new states by the separation of a territory from any state. The parliament has the power to increase or decrease the area of a state. It can diminish the area of the state and alter the boundaries. The name of the state can also be changed using powers given by Article 3. The President can recommend to the parliament to change the boundary of any state after seeking the views of the concerned legislature of that state on the subject within a specified period. Although, it is not mandatory for the President to accept the proposal of the concerned State Legislature. If the state legislature does not provide its views on the subject within the period determined by the President, then also, the bill can be presented in the parliament. Therefore both (A) and (R) are true, but (R) is not the correct explanation of (A). So, option (b) is the correct answer.",
+      "question_id": "q0225",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c11-t1",
-      "ch": 11
+      "ch": 11,
+      "pages": [
+        92
+      ]
     },
     {
-      "fact": "Article Subject Matter 16 (2) No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of ...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "According to which Article of the Indian Constitution, — “No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State” ? → <b>Article 16 (2)</b>",
+      "explanation": "Article Subject Matter 16 (2) No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of these, be ineligible for, or discriminated against in respect of, any employment or office under the State. 15 Prohibition of discrimination on grounds only of religion, race, caste, sex or place of birth 17 Only Abolition of Untouchability 16 (4) Power of the State to make provision for reservation in appointments or posts in favour of any backward class of citizens",
+      "question_id": "q0269",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        110
+      ]
     },
     {
-      "fact": "Prohibition against torture is not part of the Article 20 of the Constitution of India. Protection from torture is a fundamental right enshr...",
-      "exam": "PCS Pre ’23",
+      "fact": "Which of the following is not a part of the Article 20 of the Constitution of India? → <b>Prohibition Against Torture</b>",
+      "explanation": "Prohibition against torture is not part of the Article 20 of the Constitution of India. Protection from torture is a fundamental right enshrined under Article 21 of the Indian Constitution. Article 20 of the Indian Constitution provides protection in respect of conviction for offences : (1) No person shall be convicted of any offence except for violation of the law in force at the time of the commission of the act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence. (2) No person shall be prosecuted and punished for the same offence more than once. (3) No person accused of any offence shall be compelled to be a witness against himself.",
+      "question_id": "q0295",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        119,
+        120
+      ]
     },
     {
-      "fact": "Article 32(2) of the Constitution gives an extensive original jurisdiction to the Supreme Court in regard to the enforcement of Fundamental ...",
-      "exam": "PCS Pre ’23",
+      "fact": "Consider the following statements concerning the powers of the Supreme Court to issue certain writs to stop violation of Fundamental Rights- (1) The Supreme Court has power to issue writs like Habeas Corpus, Mandamus, Prohibition, Quo Warranto and Certiorari which is appropriate for the enforcement of Fundamental Rights. (2) Parliament may by law empower any other court to exercise within its jurisdiction the powers given to Supreme Court. Which of the above mentioned statement/statements is/are correct? Select the correct answer from the code given below : Code : → <b>Both (1) and (2)</b>",
+      "explanation": "Article 32(2) of the Constitution gives an extensive original jurisdiction to the Supreme Court in regard to the enforcement of Fundamental Rights. It is empowered to issue directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, to enforce them. As per Article 32(3), Without prejudice to the powers conferred on the Supreme Court by clause (2), Parliament may by law empower any other court to exercise within the local limits of its jurisdiction all or any of the powers exercisable by the Supreme Court under clause (2). Hence, both statements are correct and option (d) is the correct answer.",
+      "question_id": "q0320",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        125,
+        126
+      ]
     },
     {
-      "fact": "Correct matching is as follows: Fundamental Right Articles Right to Equality Articles 14–18 Right to Freedom Articles 19–22 Right against Ex...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Which of the following pairs is not correctly matched ? (Fundamental Rights) : (Articles) → <b>Right to Freedom : Articles 23-24 of Religion</b>",
+      "explanation": "Correct matching is as follows: Fundamental Right Articles Right to Equality Articles 14–18 Right to Freedom Articles 19–22 Right against Exploitation Articles 23–24 Right to Freedom of Religion Articles 25–28 Cultural and Educational Rights Articles 29–30 Therefore, option (b) is not correctly matched.",
+      "question_id": "q0326",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        127
+      ]
     },
     {
-      "fact": "In Philosophical and conceptual sense, the fundamental rights of the Indian Constitution are similar to the Bill of Rights of the USA. Signi...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Which of the following statement/s is/are incorrect? A. Part III on Fundamental Rights of the Constitution is based upon Bill of Rights of the U.S.A. B. &quot;Right to Die&quot; is a Fundamental Right under Article 21 of the Constitution. C. Indian Constitution is a complete Federal Constitution. D. Fundamental Rights can be removed under the Indian Constitution. Code : → <b>Only B, C and D</b>",
+      "explanation": "In Philosophical and conceptual sense, the fundamental rights of the Indian Constitution are similar to the Bill of Rights of the USA. Significantly, Right to Die is not a fundamental Right under Article 25 of the Constitution. Notably, the Indian Constitution is not a complete federal constitution but a quasifederal one. According to the law established by the apex court of India, F.R. can be amended but not removed because it comes under the basic structure of the Indian Constitution.",
+      "question_id": "q0330",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        129
+      ]
     },
     {
-      "fact": "The Indian Constitution lays down certain Directive Principles of State Policy, which, though not justiciable, are fundamental in the govern...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Consider the following statements with respect to Directive Principles of State Policy : 1. They are not enforceable by the Courts. 2. It shall be the duty of the State to apply these Principles in making laws. Select the correct answer using the code given below : Code- → <b>Both 1 and 2</b>",
+      "explanation": "The Indian Constitution lays down certain Directive Principles of State Policy, which, though not justiciable, are fundamental in the governance of the country, and it is the duty of the State to apply these principles in making laws.",
+      "question_id": "q0351",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c14-t1",
-      "ch": 14
+      "ch": 14,
+      "pages": [
+        139
+      ]
     },
     {
-      "fact": "Under Part-4, 'Directive Principles of State Policy' according to Article 48A of Indian Constitution, the State shall endeavour to protect a...",
-      "exam": "PCS Pre ’23",
+      "fact": "Which of the following Provision is a part of both Directive Principles of State Policy and Fundamental Duties? → <b>Protection of environment</b>",
+      "explanation": "Under Part-4, &#x27;Directive Principles of State Policy&#x27; according to Article 48A of Indian Constitution, the State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country and Under Part 4A, &#x27;Fundamental Duties&#x27; according to Article 51-A(g) of Indian Constitution, it is a fundamental duty of every citizen of India to protect and improve the natural environment including forests, lakes, rivers and wild life and to have compassion for living creatures. Hence, option (b) is the correct answer.",
+      "question_id": "q0378",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c14-t1",
-      "ch": 14
+      "ch": 14,
+      "pages": [
+        147
+      ]
     },
     {
-      "fact": "Article 53 of the Indian Constitution deals with the Executive power of the Union. Significantly, the executive power of the Union shall be ...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R) . Assertion (A) : The constitution vests the Executive Power of the Union in the President of India. Reason (R) : The President of India is the constitutional Head of the State. Select the correct answer using the code given below: Code : → <b>Both (A) and (R) are true, and (R) is correct explanation of (A).</b>",
+      "explanation": "Article 53 of the Indian Constitution deals with the Executive power of the Union. Significantly, the executive power of the Union shall be vested in the President. Notably, the constitutional head of the Executive of the Union is the President.",
+      "question_id": "q0414",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c16-t1",
-      "ch": 16
+      "ch": 16,
+      "pages": [
+        159
+      ]
     },
     {
-      "fact": "As per Article 71(2), if the election of a person as President or Vice president is declared void by the Supreme Court, acts done by him in ...",
-      "exam": "PCS Pre ’23",
-      "count": 1,
-      "anchor": "c17-t1",
-      "ch": 17
-    },
-    {
-      "fact": "Article 76 of the Constitution provides for the office of Attorney General of India. The AG is appointed by the President on the advice of t...",
-      "exam": "PCS Pre ’23",
-      "count": 1,
-      "anchor": "c19-t1",
-      "ch": 19
-    },
-    {
-      "fact": "According to the Article 76 of the Indian Constitution, the President shall appoint a person who is qualified to be appointed a Judge to the...",
-      "exam": "RO/ARO Pre ’23",
-      "count": 1,
-      "anchor": "c19-t1",
-      "ch": 19
-    },
-    {
-      "fact": "The Election Commission of India released the election schedule on 16 March 2024, according to which voting took place from 19 April to 1 Ju...",
-      "exam": "RO/ARO Pre ’23",
-      "count": 1,
-      "anchor": "c21-t1",
-      "ch": 21
-    },
-    {
-      "fact": "G. V . Mavalankar became the first Speaker of the First Lok Sabha of independent India on 15 May 1952 and remained in office until his death...",
-      "exam": "RO/ARO Pre ’23",
-      "count": 1,
-      "anchor": "c21-t1",
-      "ch": 21
-    },
-    {
-      "fact": "Meira Kumar was the first woman Speaker of the Lok Sabha. Meira Kumar was an Indian diplomat, politician, and government official who served...",
-      "exam": "PCS Pre ’23",
-      "count": 1,
-      "anchor": "c21-t1",
-      "ch": 21
-    },
-    {
-      "fact": "Article 108 provides for the joint sitting of both Houses of the Parliament in certain cases. Hence, statement (1) is not correct. The Speak...",
-      "exam": "PCS Pre ’23",
-      "count": 1,
-      "anchor": "c23-t1",
-      "ch": 23
-    },
-    {
-      "fact": "According to the Article 98(1) of the Indian Constitution, Each House of Parliament shall have a separate secretarial staff. Provided that n...",
-      "exam": "PCS Pre ’23",
-      "count": 1,
-      "anchor": "c23-t1",
-      "ch": 23
-    },
-    {
-      "fact": "l The Lex- Loci Act of 1850 allowed a Hindu, who had converted to a different faith, to inherit his ancestral property. l The Bengal Tenancy...",
-      "exam": "RO/ARO Pre ’23",
-      "count": 1,
-      "anchor": "c25-t1",
-      "ch": 25
-    },
-    {
-      "fact": "Article 124 of the Indian Constitution (1) There shall be a Supreme Court of India consisting of a Chief Justice of India and until Parliame...",
-      "exam": "PCS Pre ’23",
+      "fact": "Given below are two statements: Assertion (A) : The President is the part of the Parliament Reason (R) : A Bill passed by the two Houses of Parliament cannot become law without the assent of the President In the context of the above, which one of the following is correct? → <b>Both (A) and (R) are true, and (R) is the correct explanation of (A).</b>",
+      "explanation": "According to Article 79, the Parliament includes the President and both the Houses (Lok Sabha and Rajya Sabha), and under Article 111, a Bill becomes law only when it gets the President’s assent. So both (A) and (R) are correct statements and (R) is the correct explanation of (A).",
+      "question_id": "q0443",
       "count": 2,
-      "anchor": "c26-t1",
-      "ch": 26
+      "papers": "PCS Mains '07; PCS Pre '23",
+      "exam": "PCS Mains '07; PCS Pre '23",
+      "anchor": "c16-t1",
+      "ch": 16,
+      "pages": [
+        171
+      ]
     },
     {
-      "fact": "Article 124 of the Indian Constitution deals with the Establishment and constitution of the Supreme Court. Significantly, Article 129 of the...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "With reference to the Attorney General of India, which of the following statement/s is/are correct? (1) A person is appointed as Attorney General, who is qualified to be appointed as a Judge of the Supreme Court. (2) The Attorney General can be removed through the same process as the Judges of the Supreme Court. Select the correct answer from the code given below: Code : → <b>Only (1)</b>",
+      "explanation": "Article 76 of the Constitution provides for the office of Attorney General of India. The AG is appointed by the President on the advice of the government. QualificationShe/he must be a person who is qualified to be appointed a judge of the Supreme Court (as mentioned under Article 124(3)), i.e. s/he must be a citizen of India and must have been a judge of some high court for five years or an advocate of some high court for ten years or an eminent jurist, in the opinion of the President. Hence statement (1) is correct. Procedures and grounds for the removal of AG are not stated in the Constitution. She/he holds office during the pleasure of the President (may be removed by the President at any time). Hence, statement (2) is incorrect. Therefore, option (d) is the correct answer.",
+      "question_id": "q0519",
       "count": 1,
-      "anchor": "c26-t1",
-      "ch": 26
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
+      "anchor": "c19-t1",
+      "ch": 19,
+      "pages": [
+        201
+      ]
     },
     {
-      "fact": "As per Article 171, The total number of members in the Legislative Council of a State having such a Council shall not exceed one-third of th...",
-      "exam": "PCS Pre ’23",
+      "fact": "Consider the following statements with reference to Attorney General of India : (1) He holds office during the pleasure of the Prime Minister. (2) He is not entitled to the privileges of a Member of Parliament Select the correct answer from the code given below : Code : → <b>Only 2</b>",
+      "explanation": "According to the Article 76 of the Indian Constitution, the President shall appoint a person who is qualified to be appointed a Judge to the Supreme Court to be the Attorney General of India. Significantly, the Attorney General shall hold office during the pleasure of the President and shall receive such remuneration as the President may determine. Notably, the Attorney General has the right to speak and to take part in the proceedings of both the Houses of Parliament, but he/she does not have the right to vote.",
+      "question_id": "q0522",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
+      "anchor": "c19-t1",
+      "ch": 19,
+      "pages": [
+        202
+      ]
+    },
+    {
+      "fact": "The Lok Sabha Elections 2024 were held in how many phases? → <b>7 phases</b>",
+      "explanation": "The Election Commission of India released the election schedule on 16 March 2024, according to which voting took place from 19 April to 1 June 2024 in a total of 7 phases. Each phase covered voting for different Lok Sabha constituencies; the results were declared on 4 June 2024.",
+      "question_id": "q0567",
+      "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
+      "anchor": "c21-t1",
+      "ch": 21,
+      "pages": [
+        223
+      ]
+    },
+    {
+      "fact": "Who was the first speaker of the Lok Sabha ? → <b>G.V. Mavalankar</b>",
+      "explanation": "G. V. Mavalankar became the first Speaker of the First Lok Sabha of independent India on 15 May 1952 and remained in office until his death on 27 February 1956. He is also known as the “Father of the Lok Sabha” for laying the foundations of parliamentary procedure, rules, and traditions. This title was conferred on him by J.L. Nehru.",
+      "question_id": "q0576",
+      "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
+      "anchor": "c21-t1",
+      "ch": 21,
+      "pages": [
+        228
+      ]
+    },
+    {
+      "fact": "Who among the following is the first women Speaker in Lok Sabha? → <b>Meira Kumar</b>",
+      "explanation": "Meira Kumar was the first woman Speaker of the Lok Sabha. Meira Kumar was an Indian diplomat, politician, and government official who served as speaker of the 15th Lok Sabha (Lower Chamber of the Indian Parliament) from 2009 to 2014, the first woman to hold that position.",
+      "question_id": "q0579",
+      "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
+      "anchor": "c21-t1",
+      "ch": 21,
+      "pages": [
+        228
+      ]
+    },
+    {
+      "fact": "With reference to the joint sitting of Parliament, which statement/s is/are correct? (1) Article 109 provides for the joint sitting of both Houses in certain cases. (2) The Speaker presides the joint sitting of the two Houses of Parliament. Select the correct answer using the code given below : Code : → <b>Only (2)</b>",
+      "explanation": "Article 108 provides for the joint sitting of both Houses of the Parliament in certain cases. Hence, statement (1) is not correct. The Speaker presides over this joint sitting, hence statement (2) is correct. So, option (c) is the correct answer.",
+      "question_id": "q0638",
+      "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
+      "anchor": "c23-t1",
+      "ch": 23,
+      "pages": [
+        252
+      ]
+    },
+    {
+      "fact": "With reference to the post’s in Secretariate of the Parliament, which of the following statement/s is/are correct? (1) Common posts may be created for the Secretariate of each House of Parliament. (2) The Parliament has right to regulate the service conditions of Secretariate staff of either House of it. Select the correct answer from the code given below: Code : → <b>Both (1) and (2)</b>",
+      "explanation": "According to the Article 98(1) of the Indian Constitution, Each House of Parliament shall have a separate secretarial staff. Provided that nothing in this clause shall be construed as preventing the creation of posts common to both Houses of Parliament and according to Article 98(2) of the Indian Constitution, Parliament may by law regulate the recruitment and the conditions of service of persons appointed to the secretarial staff of either House of Parliament. So, statements (1) and (2) are both correct. Hence, option (d) is the correct answer.",
+      "question_id": "q0683",
+      "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
+      "anchor": "c23-t1",
+      "ch": 23,
+      "pages": [
+        267
+      ]
+    },
+    {
+      "fact": "Arrange the following Acts in their chronological order and select the correct answer from the code given below: I. Lex-Loci Act II. Bengal Tenancy Act III. Age of Consent Act IV. Indian University Act Code- → <b>I, II, III and IV</b>",
+      "explanation": "l The Lex- Loci Act of 1850 allowed a Hindu, who had converted to a different faith, to inherit his ancestral property. l The Bengal Tenancy Act 1885 was an enactment of the Bengal government. It defines the rights of zamindars, land-lords and their tenants in response to a widespread peasant revolt. l The Age of Consent Act, 1891 was a legislation enacted in British India in 1891. l The Indian University Act was enacted in 1907.",
+      "question_id": "q0725",
+      "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
+      "anchor": "c25-t1",
+      "ch": 25,
+      "pages": [
+        290
+      ]
+    },
+    {
+      "fact": "The resignation letter by a Judge of Supreme Court is addressed to : → <b>The President</b>",
+      "explanation": "Article 124 of the Indian Constitution (1) There shall be a Supreme Court of India consisting of a Chief Justice of India and until Parliament by law prescribes a larger number, not more than thirty-three (Originally, it was seven) other Judges. (2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for that purpose and shall hold office until he attains the age of sixty-five years. Provided that in the case of appointment of a judge other than the Chief Justice, the Chief Justice of India shall always be consulted : Provided further that - (a) A Judge may, by writing under his hand addressed to the President, resign from his office. (b) A Judge may be removed from his office in the manner provided in clause (4). So, option (a) is the correct answer.",
+      "question_id": "q0731",
+      "count": 2,
+      "papers": "PCS Pre '23; PCS Pre '14",
+      "exam": "PCS Pre '23; PCS Pre '14",
+      "anchor": "c26-t1",
+      "ch": 26,
+      "pages": [
+        297,
+        298
+      ]
+    },
+    {
+      "fact": "Which one of the following pairs (Article- provision) is not correctly matched? → <b>Article 124 - Supreme Court to be a Court of Record</b>",
+      "explanation": "Article 124 of the Indian Constitution deals with the Establishment and constitution of the Supreme Court. Significantly, Article 129 of the Indian Constitution empowers the Supreme Court to be a Court of Record.",
+      "question_id": "q0745",
+      "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
+      "anchor": "c26-t1",
+      "ch": 26,
+      "pages": [
+        304
+      ]
+    },
+    {
+      "fact": "With reference to the composition of the Legislative Council in a state of India, which of the following statement/s is/are correct? (1) In the Legislative Council there may not be more than one-third members of the total membership of the Legislative Assembly of that state. (2) The Legislative Council of a state must have at least forty members in it. Select the correct answer from the code given below : Code : → <b>Both (1) and (2)</b>",
+      "explanation": "As per Article 171, The total number of members in the Legislative Council of a State having such a Council shall not exceed one-third of the total number of members in the Legislative Assembly of that State : Provided that the total number of members in the Legislative Council of a State shall in no case be less than forty. Hence, Option (a) is the correct answer.",
+      "question_id": "q0817",
+      "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c28-t1",
-      "ch": 28
+      "ch": 28,
+      "pages": [
+        334
+      ]
     },
     {
-      "fact": "According to Article 280(1) of the Indian Constitution, the President shall, within two years from the commencement of this Constitution and...",
-      "exam": "PCS Pre ’23",
+      "fact": "With reference to Union Finance Commission, which of the following statement/s is/are correct? (1) Finance Commission has a Chairman and six members. (2) It submits its report to the NITI Aayog. Select the correct answer using the code given below : Code : → <b>Neither (1) nor (2)</b>",
+      "explanation": "According to Article 280(1) of the Indian Constitution, the President shall, within two years from the commencement of this Constitution and after that the expiration of every fifth year or at such earlier time as the President considers necessary, by order constitute a Finance Commission which shall consist of a Chairman and four other members to be appointed by the President. Further, According to Article 280(3) of the Indian Constitution, it shall be the duty of the Commission to make recommendations to the President. So Neither Statement (1) nor (2) is correct. So, option (c) is the correct answer.",
+      "question_id": "q0917",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c32-t1",
-      "ch": 32
+      "ch": 32,
+      "pages": [
+        377,
+        378
+      ]
     },
     {
-      "fact": "In the Governing Council of NITI Aayog – the Prime Minister (Chairperson), Chief Ministers of all States, Chief Ministers of Union Territori...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Which among the following is not a part of the Governing Council of NITI Aayog ? → <b>Governors of States</b>",
+      "explanation": "In the Governing Council of NITI Aayog – the Prime Minister (Chairperson), Chief Ministers of all States, Chief Ministers of Union Territories with Legislatures (Delhi, Puducherry), and the Lieutenant Governors of the other Union Territories are included. Governors of States are not included. Therefore, the correct answer is option (a).",
+      "question_id": "q0930",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c33-t1",
-      "ch": 33
+      "ch": 33,
+      "pages": [
+        381,
+        382
+      ]
     },
     {
-      "fact": "According to Article 343 clause (1) the official language of the Union shall be Hindi in Devanagari script. The form of numerals to be used ...",
-      "exam": "PCS Pre ’23",
+      "fact": "The Constitution of India initially permitted the use of English language for all official purposes for a period of : → <b>15 years</b>",
+      "explanation": "According to Article 343 clause (1) the official language of the Union shall be Hindi in Devanagari script. The form of numerals to be used for the official purposes of the Union shall be the international form of Indian numerals and according to Article 343 clause (2), Notwithstanding anything in clause (1), for a period of fifteen years from the commencement of this Constitution, the English language shall continue to be used for all the official purposes of the Union for which it was being used immediately before such commencement.",
+      "question_id": "q1076",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c39-t1",
-      "ch": 39
+      "ch": 39,
+      "pages": [
+        455
+      ]
     },
     {
-      "fact": "Gram Sabha : The term Gram Sabha is defined in the Constitution of India under Article 243(b). Gram Sabha is the primary body of the Panchay...",
-      "exam": "PCS Pre ’23",
+      "fact": "Which of the following statements is not true regarding ‘Gram Sabha’? → <b>Its powers are determined by the Central Government.</b>",
+      "explanation": "Gram Sabha : The term Gram Sabha is defined in the Constitution of India under Article 243(b). Gram Sabha is the primary body of the Panchayati Raj system and by far the largest. It is a permanent body. The Constitution mentions that Gram Sabha exercises such powers and performs such functions at the village level as the legislature of a State may, by law, provide. Gram Sabha is the Sabha of the electorates. All other institutions of the Panchayati Raj like the Gram Panchayat, Block Panchayat and Zilla Parishad, are constituted by elected representatives. The decisions taken by the Gram Sabha cannot be annulled by any other body. The power to annul a decision of the Gram Sabha rests with the Gram Sabha only.",
+      "question_id": "q1115",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        471
+      ]
     },
     {
-      "fact": "In 1977, the Ashok Mehta Committee was established and recommendations were made for the Panchayati Raj system in 1978. One of the key sugge...",
-      "exam": "PCS Pre ’23",
+      "fact": "With reference to the recommendations of the Ashok Mehta Committee (1977) on Panchayati Raj, which of the following statement/s is/are correct? (1) The three tier system of Panchayati Raj should be replaced by the two tier system. (2) A block should be the first point for decentralization under popular supervision below the state level. Select the correct answer using the code given below : Code : → <b>Only (1)</b>",
+      "explanation": "In 1977, the Ashok Mehta Committee was established and recommendations were made for the Panchayati Raj system in 1978. One of the key suggestions was the establishment of a two - tier system to replace the existing three-tier Panchayat system. However this recommendation was not implemented. It is recommended that a district (not a block) should be the first point for decentralisation under popular supervision below the state level. Option (b) is correct answer. Statement (1) is correct and Statement (2) is not correct.",
+      "question_id": "q1139",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        480
+      ]
     },
     {
-      "fact": "The Constitution of India vests in the State Election Commission, consisting of a State Election Commissioner, the superintendence, directio...",
-      "exam": "PCS Pre ’23",
+      "fact": "All elections to the Panchayats are conducted by- → <b>State Election Commission</b>",
+      "explanation": "The Constitution of India vests in the State Election Commission, consisting of a State Election Commissioner, the superintendence, direction and control of the preparation of electoral rolls for, and the conduct of all elections to the Panchayats (Article-243 K) and the Municipalities (Article 243 ZA). The State Election Commissioner is appointed by the Governor. The detailed provisions of the State Election Commission are under the Article 243K itself.",
+      "question_id": "q1148",
       "count": 1,
+      "papers": "PCS Pre '23",
+      "exam": "PCS Pre '23",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        486
+      ]
     },
     {
-      "fact": "Zila Parishad is the body that lies at the apex of the three-tier Panchayati Raj system. Significantly, Zila Parishad consists of Heads of a...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Which statement is correct about Panchyati Raj? → <b>Election of the Panchayati Raj Institutions is conducted under the supervision of the State Elections Commission.</b>",
+      "explanation": "Zila Parishad is the body that lies at the apex of the three-tier Panchayati Raj system. Significantly, Zila Parishad consists of Heads of all departments of district, (Ex-officio member, head/ chairperson of all Panchayat samitis of that district, member of Parliament, member of Legislative Assembly and Legislative Council from the district, Representatives of SC, ST, women Co-operative societies, etc. So, it is clear that all members are not directly elected members. Significantly, minimum age is 21 years to contest the election at the Panchayat level. Notably, election of the Panchayati Raj Institutions is conducted under the supervision of the State Election Commission.",
+      "question_id": "q1151",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        488
+      ]
     },
     {
-      "fact": "The Bharat Ratna was instituted in 1954. In the same year, C. Rajagopalachari, Dr. S. Radhakrishnan, and Prof. C. V . Raman were awarded thi...",
-      "exam": "RO/ARO Pre ’23",
+      "fact": "Who among the following was the first Indian to be awarded the ‘Bharat Ratna’ ? → <b>C. Rajagopalachari</b>",
+      "explanation": "The Bharat Ratna was instituted in 1954. In the same year, C. Rajagopalachari, Dr. S. Radhakrishnan, and Prof. C. V. Raman were awarded this highest civilian honour. • Nelson Mandela (South Africa) – Awarded in 1990; second among two non-Indians honoured. • Khan Abdul Ghaffar Khan (Pakistan) – Awarded in 1987; first non-Indian Bharat Ratna awardee. • Pranab Mukherjee – Awarded in 2019; served as India’s 13th President.",
+      "question_id": "q1192",
       "count": 1,
+      "papers": "RO/ARO Pre '23",
+      "exam": "RO/ARO Pre '23",
       "anchor": "c42-t1",
-      "ch": 42
+      "ch": 42,
+      "pages": [
+        519
+      ]
     }
   ],
   "2022": [
     {
       "fact": "The first Interim National Government was announced on → <b>24 August 1946</b>",
-      "exam": "PCS Pre ’22",
+      "explanation": "According to the Cabinet Mission’s declaration, an Interim Government was constituted on 2 September, 1946, from the newly elected Constituent Assembly. C. Rajgopalachari was the Education Minister, Dr. Rajendra Prasad was the Food and Agriculture Minister and Jagjivan Ram was the Minister for Labour. However, Dr. S. Radhakrishnan was not a member of this Interim Government.",
+      "question_id": "q0028",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c2-t1",
-      "ch": 2
+      "ch": 2,
+      "pages": [
+        19
+      ]
     },
     {
-      "fact": "The Parts of the Indian Constitution are given below– Parts Subject Matter Articles I The Union and its territory 1 to 4 II Citizenship 5 to...",
-      "exam": "PCS Pre ’22",
+      "fact": "Consider the following subjects and arrange them into sequential order as mentioned in the Constitution. I. The union and its territory II. Fundamental duties III. Citizenship IV. Directive Principles of State Policy Select the correct answer from the code given below. Code: → <b>I, III, IV, II</b>",
+      "explanation": "The Parts of the Indian Constitution are given below– Parts Subject Matter Articles I The Union and its territory 1 to 4 II Citizenship 5 to 11 III Fundamental Rights 12 to 35 IV Directive Principles of State Policy 36 to 51 IV-A Fundamental Duties 51-A",
+      "question_id": "q0083",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c5-t1",
-      "ch": 5
+      "ch": 5,
+      "pages": [
+        38
+      ]
     },
     {
-      "fact": "The correct match is as follows— Schedule Subject Third Schedule — Forms of Oath or Affirmations Fourth Schedule — Allocation of seats in th...",
-      "exam": "PCS Pre ’22",
+      "fact": "Match List – I with List – II and select the correct answer from the code given below the lists. List – I (Schedule) List – II (Subject) A. Third Schedule 1. Allocation of seats in the Council of States B. Fourth Schedule 2. Forms of Oath or Affirmations C. Seventh Schedule 3. Languages D. Eighth Schedule 4. List of subject matter of laws to be made by the Parliament and by State Legislatures Code : A B C D → <b>2 1 4 3</b>",
+      "explanation": "The correct match is as follows— Schedule Subject Third Schedule — Forms of Oath or Affirmations Fourth Schedule — Allocation of seats in the Council of States Seventh Schedule — List of subject matter of laws to be made by the Parliament and by the State Legislatures Eighth Schedule — Languages",
+      "question_id": "q0120",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c7-t1",
-      "ch": 7
+      "ch": 7,
+      "pages": [
+        52
+      ]
     },
     {
-      "fact": "To protect monuments and places of national importance is not part of any fundamental duty. It is the Directive principles of the state poli...",
-      "exam": "PCS Pre ’22",
+      "fact": "Which of the following is not a fundamental duty? → <b>To protect monuments and places of national importance</b>",
+      "explanation": "To protect monuments and places of national importance is not part of any fundamental duty. It is the Directive principles of the state policy under Article 49.",
+      "question_id": "q0403",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c15-t1",
-      "ch": 15
+      "ch": 15,
+      "pages": [
+        155
+      ]
     },
     {
-      "fact": "Which one of the following did not serve as Vice President before assuming the office of the President of India ? → <b>Neelam Sanjiva Reddy<...",
-      "exam": "PCS Pre ’22",
+      "fact": "Which one of the following did not serve as Vice President before assuming the office of the President of India ? → <b>Neelam Sanjiva Reddy</b>",
+      "explanation": "In the given options, Neelam Sanjiva Reddy was the President who had not held the office of Vice-President before being appointed as President.",
+      "question_id": "q0464",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c16-t1",
-      "ch": 16
+      "ch": 16,
+      "pages": [
+        178
+      ]
     },
     {
-      "fact": "The 7th Lok Sabha election was held in 1980. The remaining options are correct.",
-      "exam": "PCS Pre ’22",
+      "fact": "Which one of the following is NOT correctly matched? Loksabha Election Year → <b>7th – 1982</b>",
+      "explanation": "The 7th Lok Sabha election was held in 1980. The remaining options are correct.",
+      "question_id": "q0566",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c21-t1",
-      "ch": 21
+      "ch": 21,
+      "pages": [
+        223
+      ]
     },
     {
-      "fact": "& (c) The audit report of the Comptroller and Auditor-General of India is examined by public account committees. Despite that the committee ...",
-      "exam": "PCS Pre ’22",
+      "fact": "The audit report of the Comptroller and Auditor General of India is examined by → <b>Public Undertaking Committee</b>",
+      "explanation": "&amp; (c) The audit report of the Comptroller and Auditor-General of India is examined by public account committees. Despite that the committee on public undertakings also examines reports of the Comptroller and Auditor-General of India. Thus options (a) and (c) are both correct.",
+      "question_id": "q0703",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c24-t1",
-      "ch": 24
+      "ch": 24,
+      "pages": [
+        274
+      ]
     },
     {
-      "fact": "In Manipur, the number of members of Legislative Assembly is 60. Thus option (c) is not correct.",
-      "exam": "PCS Pre ’22",
+      "fact": "Which one of the following pairs is NOT correctly matched ? State Members in the Legislative Assembly → <b>Manipur — 62</b>",
+      "explanation": "In Manipur, the number of members of Legislative Assembly is 60. Thus option (c) is not correct.",
+      "question_id": "q0826",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c28-t1",
-      "ch": 28
+      "ch": 28,
+      "pages": [
+        337
+      ]
     },
     {
-      "fact": "(Newly Elected Presiding (State) Officer of Vidhan Sabha) Ramesh Tawadkar — Goa Kultar Sandhwan — Punjab T. Satyabrat — Manipur Ritu Khandar...",
-      "exam": "PCS Pre ’22",
+      "fact": "Match List – I with List – II and select the correct answer from the code given below the lists. List – I List – II (Newly Elected Presiding (State) Officer of Vidhan Sabha) A. Ramesh Tawadkar 1. Goa B. Kultar Sandhwan 2. Punjab C. T. Satyabrat 3. Manipur D. Ritu Khandari 4. Uttarakhand Code: A B C D → <b>1 2 3 4</b>",
+      "explanation": "(Newly Elected Presiding (State) Officer of Vidhan Sabha) Ramesh Tawadkar — Goa Kultar Sandhwan — Punjab T. Satyabrat — Manipur Ritu Khandari — Uttarakhand",
+      "question_id": "q0830",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c28-t1",
-      "ch": 28
+      "ch": 28,
+      "pages": [
+        339
+      ]
     },
     {
       "fact": "A Joint Public Service Commission for two or more States can be established by → <b>Parliament, if requested by concerned States</b>",
-      "exam": "PCS Pre ’22",
+      "explanation": "According to Article 315(2) of Indian Constitution, two or more states may agree that there shall be one public service commission for that group of states and if a resolution to that effect is passed by houses or where there are two houses, by each house of the legislature of those states, parliament may be law provide for appointment of a joint state public service commission.",
+      "question_id": "q0977",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c34-t1",
-      "ch": 34
+      "ch": 34,
+      "pages": [
+        404
+      ]
     },
     {
-      "fact": "Political Parties in India Name Abbreviation Founding Date",
-      "exam": "PCS Pre ’22",
+      "fact": "Consider the following Political Parties and arrange them in the chronological order of their establishment. I. Bahujan Samaj Party II. Samajwadi Party III. Telugu Desham Party IV. All India Trinamool Congress Select the correct answer from the code given below. Code : → <b>III, I, II, IV</b>",
+      "explanation": "Political Parties in India Name Abbreviation Founding Date 1.Bharatiya Janata BJP 6 April 1980 Party 2.Indian National INC 28 December 1885 Congress 3.Communist Party CPI-M 7 November 1964 of India (Marxist) 4.Communist Party CPI 26 December 1925 of India 5.Bahujan Samaj Party BSP 14 April 1984 6. Nationalist Congress NCP 10 June 1999 Party 7. All India Trinamool AITC 1 January 1998 Congress 8. National People’s NPP 6 January 2013 Party 9. Samajwadi Party SP 1992 10. Telugu Desam Party TDP 1982",
+      "question_id": "q1028",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c37-t1",
-      "ch": 37
-    },
-    {
-      "fact": "(Trade Unions) (Party Affiliation) Bhartiya Majdoor Sangh (BMS) — Bhartiya Janta Party Indian National Trade Union — Indian National Congres...",
-      "exam": "PCS Pre ’22",
-      "count": 1,
-      "anchor": "c37-t1",
-      "ch": 37
+      "ch": 37,
+      "pages": [
+        429
+      ]
     },
     {
       "fact": "By which amendment of the Constitution, ‘Delhi’ has been made National Capital Region? → <b>69th</b>",
-      "exam": "PCS Pre ’22",
+      "explanation": "The Constitution (69th Amendment) Act, 1991 provided the status of the National Capital Territory to Delhi.",
+      "question_id": "q1057",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c38-t1",
-      "ch": 38
+      "ch": 38,
+      "pages": [
+        447
+      ]
     },
     {
-      "fact": " → <b>None of the above</b>",
-      "exam": "PCS Pre ’22",
+      "fact": "Right to Education has been included into the Fundamental Rights by the → <b>Constitution (86th Amendment) Act, 2002</b>",
+      "explanation": "According to the 86th Constitutional Amendment Act, 2002 a new Article 21-A was added to the Constitution which made Right to Education a fundamental right for children in the age group of 6-14 years. This Article reads: “The State shall provide free and compulsory education to all children between the ages of six and fourteen years in such manner as the State may, by law, determine.”",
+      "question_id": "q1062",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c38-t1",
-      "ch": 38
+      "ch": 38,
+      "pages": [
+        449
+      ]
     },
     {
-      "fact": "The concept of ‘Basic Structure of the Constitution’ was propounded by the Supreme Court in the case of → <b>Keshvanand Bharti vs State of K...",
-      "exam": "PCS Pre ’22",
+      "fact": "The concept of ‘Basic Structure of the Constitution’ was propounded by the Supreme Court in the case of → <b>Keshvanand Bharti vs State of Kerala – 1973</b>",
+      "explanation": "The Supreme Court of India examined the concept of the &quot;Basic structure&quot; of the constitution for the first time in Kesavananda Bharti v. State of Kerala in 1973. Significantly, the Supreme Court reversed its decision in the Golak Nath case in this instance. It declared that Parliament has the authority to restrict or eliminate any of the Fundamental Rights and confirmed the legality of the 24th Constitution Amendment Act. It also established a new theory regarding the &quot;basic structure&quot; or &quot;basic features&quot; of the Constitution. It decided that Parliament could not change the &quot;basic structure&quot; of the Constitution using its constituent power under Article 368. This implies that a Fundamental Right that is a component of the Constitution&#x27;s &quot;basic structure&quot; cannot be restricted or eliminated by the Parliament.",
+      "question_id": "q1071",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c38-t1",
-      "ch": 38
+      "ch": 38,
+      "pages": [
+        452
+      ]
     },
     {
-      "fact": "The two (73rd and 74th) Amendments to the Constitution mark a watershed in the evolution of local self-government in India. The Constitution...",
-      "exam": "PCS Pre ’22",
+      "fact": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A) :The 73rd Amendment of the Constitution is considered to be a watershed in the history of local self-government in India. Reason (R): The 73rd Constitution Amendment conferred the much coveted Constitutional status on Panchayats. Select the correct answer from the code given below. Code : → <b>Both (A) and (R) are true and (R) is the correct explanation of (A)</b>",
+      "explanation": "The two (73rd and 74th) Amendments to the Constitution mark a watershed in the evolution of local self-government in India. The Constitution (Seventy-Third Amendment) Act, 1992, which came into force w.e.f. 24th April, 1993, Part IX was inserted in the Constitution of India and accorded Panchayats a constitutional status as institutions of local self-government for rural India. 73rd and 74th Amendments were made in 1992 during the prime-ministership of P.V. Narasimha Rao.",
+      "question_id": "q1092",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        461,
+        462
+      ]
     },
     {
-      "fact": "The Panchayats (Extension to Scheduled Areas) Act was passed by the Indian Parliament in 1996. On the basis of recommendations of Bhuria Com...",
-      "exam": "PCS Pre ’22",
+      "fact": "When was the Panchayats (Extension to the Scheduled Areas) Act passed by Indian Parliament? → <b>1996</b>",
+      "explanation": "The Panchayats (Extension to Scheduled Areas) Act was passed by the Indian Parliament in 1996. On the basis of recommendations of Bhuria Committees, PESA Act, was enacted in ten States : Andhra Pradesh, Chhattisgarh, Gujarat, Himachal Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Telangana under Fifth Schedule areas that include (completely or partially) a number of districts.",
+      "question_id": "q1113",
       "count": 1,
+      "papers": "PCS Pre '22",
+      "exam": "PCS Pre '22",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        470
+      ]
+    },
+    {
+      "fact": "Match List-I with List-II and select the correct answer using the codes given below the lists: List-I List-II (Committees) (Year) A. P.K. Thungan 1. 1957 B. Ashok Mehta 2. 1986 C. B.R. Mehta 3. 1977 D. L.M. Singhvi 4. 1988 Codes : A B C D → <b>4 3 1 2</b>",
+      "explanation": "• In 1957, the National Development Council constituted a committee headed by Balwant Rai Mehta to look into the working of community development programmes. • The Ashok Mehta Committee was appointed in 1977. • The G.V.K. Rao Committee was appointed in 1985. • The L.M.Singhvi Committee was appointed in 1986. • The C.H. Hanumantha Rao Committee was appointed in 1983.",
+      "question_id": "q1136",
+      "count": 2,
+      "papers": "RO/ARO Mains '17; PCS Pre '22",
+      "exam": "RO/ARO Mains '17; PCS Pre '22",
+      "anchor": "c40-t1",
+      "ch": 40,
+      "pages": [
+        479
+      ]
     }
   ],
   "2025": [
     {
-      "fact": "In the Constituent Assembly committees, Jawaharlal Nehru was the Chairperson of the Union Constitution Committee. Dr. Rajendra Prasad was th...",
-      "exam": "PCS Pre ’25",
+      "fact": "Match List - I with List - II and choose the correct answer using the code given below the lists.) List - I List - II (Committees of (Chairman of Constituent Assembly) Committees) A. Union Constitution 1. Dr. Rajendra Prasad Committee B. Rules of Procedure 2. J. B. Kripalani Committee C. Drafting Committee 3. Dr. B. R. Ambedkar D. Fundamental Rights 4. Jawaharlal Nehru Sub-committee Code : A B C D → <b>4 1 3 2</b>",
+      "explanation": "In the Constituent Assembly committees, Jawaharlal Nehru was the Chairperson of the Union Constitution Committee. Dr. Rajendra Prasad was the Chairperson of the Committee on the Rules of Procedure. Dr. B. R. Ambedkar was the Chairperson of the Drafting Committee. J. B. Kripalani was the Chairperson of the Fundamental Rights Sub-Committee. Therefore, the correct combination is given in option (c).",
+      "question_id": "q0057",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c3-t1",
-      "ch": 3
+      "ch": 3,
+      "pages": [
+        30
+      ]
     },
     {
-      "fact": "Part IV A contains Fundamental Duties (Article 51A). Hence, pair 1 is correct. Part VI/(6) is titled “The States” (Articles 152–237) and con...",
-      "exam": "PCS Pre ’25",
+      "fact": "Which of the following pairs of Part of Indian Constitution and its subject is/are NOT correctly matched ? 1. Part IV A – Fundamental Duties 2. Part VI – The States 3. Part XI – The Municipalities Select the correct answer from the code given below : code: → <b>Only 3</b>",
+      "explanation": "Part IVA contains Fundamental Duties (Article 51A). Hence, pair 1 is correct. Part VI/(6) is titled “The States” (Articles 152–237) and contains provisions related to states, such as the Governor, Council of Ministers, State Legislature, High Court, etc. Hence, pair 2 is correct. Municipalities come under Part IXA (9A) (Articles 243P–243ZG), whereas Part XI (11) deals with relations between the Union and the States (legislative and administrative). Hence, pair 3 is incorrect. Therefore, the correct answer is option (b).",
+      "question_id": "q0085",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c5-t1",
-      "ch": 5
+      "ch": 5,
+      "pages": [
+        38
+      ]
     },
     {
-      "fact": "Among the given words, “Socialist” and “Secular” were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment....",
-      "exam": "PCS Pre ’25",
+      "fact": "Match List-I with List-II and select the correct answer from the codes given below. List-I List-II A. 7th Schedule 1. Languages B. 8th Schedule 2. Disqualification on the ground of defection C. 9th Schedule 3. Union, State and Concurrent lists D. 10th Schedule 4. Validation of certain Acts Codes : A B C D → <b>3 1 4 2</b>",
+      "explanation": "The match of List-I and List-II is as follows : List-I List-II 7th Schedule - Distribution of Legislative Powers (Union, State and Concurrent list) 8th Schedule - Languages 9th Schedule - Validation of certain Acts 10th Schedule - Disqualification on the ground of defection",
+      "question_id": "q0123",
+      "count": 2,
+      "papers": "RO/ARO Pre '16; PCS Pre '25",
+      "exam": "RO/ARO Pre '16; PCS Pre '25",
+      "anchor": "c7-t1",
+      "ch": 7,
+      "pages": [
+        53
+      ]
+    },
+    {
+      "fact": "Which among the following words were inserted in the Preamble of the Indian Constitution by the 42nd Constitution Amendment? 1. Socialist 2. Secular 3. Sovereign 4. Republic Select the correct answer from the code given below : Code : → <b>1 and 2</b>",
+      "explanation": "Among the given words, “Socialist” and “Secular” were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment. After the 42nd Amendment, India was described in the Preamble as a “Sovereign, Socialist, Secular, Democratic Republic”; whereas “Sovereign” and “Republic” were already present in the original Preamble—they were not added by the 42nd Amendment. Therefore, option (d) is the correct answer.",
+      "question_id": "q0150",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c8-t1",
-      "ch": 8
+      "ch": 8,
+      "pages": [
+        63
+      ]
     },
     {
-      "fact": "India has adopted the parliamentary system of government. Its core feature is that the real executive—the Council of Ministers led by the Pr...",
-      "exam": "PCS Pre ’25",
+      "fact": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A) : India has a Parliamentary system of Government. Reason (R) : In India, the executive is responsible to the legislature. Select the correct answer from the code given below : Code : → <b>Both (A) and (R) are true and (R) is the correct explanation of (A).</b>",
+      "explanation": "India has adopted the parliamentary system of government. Its core feature is that the real executive—the Council of Ministers led by the Prime Minister—is responsible to the legislature (Parliament, especially the Lower House— Lok Sabha). The Indian Constitution clearly establishes this responsibility:  Article 75(3) (for the Union): “The Council of Ministers shall be collectively responsible to the House of the People (Lok Sabha).”  Article 164(2) (for the States): “The Council of Ministers shall be collectively responsible to the Legislative Assembly.” This principle is the central characteristic of parliamentary government—collective responsibility of the executive to the Lower House. Therefore, Assertion (A) is correct and Reason (R) is also correct; moreover, (R) correctly explains (A) by stating the defining feature of the parliamentary system.",
+      "question_id": "q0181",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c9-t1",
-      "ch": 9
+      "ch": 9,
+      "pages": [
+        73
+      ]
     },
     {
-      "fact": "The dates of statehood/formation in their present form are as follows— Nagaland: Became the 16th State on 1 December 1963. Punjab: The prese...",
-      "exam": "PCS Pre ’25",
+      "fact": "Consider the formation of the following States of India and arrange them in correct chronological order starting from the earliest to the last. 1. Punjab 2. Arunachal Pradesh 3. Nagaland 4. Sikkim Select the correct answer from the code given below : Code : → <b>3, 1, 4, 2</b>",
+      "explanation": "The dates of statehood/formation in their present form are as follows— Nagaland: Became the 16th State on 1 December 1963. Punjab: The present State of Punjab was formed on 1 November 1966 under the Punjab Reorganisation Act. Sikkim: After the referendum and constitutional amendment, it became India’s 22nd full State on 16 May 1975 (State Foundation Day; the 36th Constitutional Amendment came into force on 26 April 1975). Arunachal Pradesh: Granted statehood on 20 February 1987. Therefore, the correct chronology from earliest to latest is: Nagaland (1963) → Punjab (1966) → Sikkim (1975) → Arunachal Pradesh (1987)—i.e., 3, 1, 4, 2, which matches option (c). Note: However, after the Partition, the original State of Punjab existed from 26 January 1950. But in its present form, it came into existence on 1 November 1966. If Punjab’s formation is considered the earliest, then none of the given options is correct.",
+      "question_id": "q0245",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c11-t1",
-      "ch": 11
+      "ch": 11,
+      "pages": [
+        99
+      ]
     },
     {
-      "fact": "The Fazl Ali Commission (States Reorganisation Commission, 1953) was chaired by Justice Syed Fazl Ali, and its members were K. M. Panikkar a...",
-      "exam": "PCS Pre ’25",
+      "fact": "Who among the following were the members of the Fazal Ali Commission ? 1. K. T. Shah 2. K. M. Panikkar 3. P. Sitaramaiah 4. H. N. Kunjaru Select the correct answer from the code given below : Code : → <b>2 and 4</b>",
+      "explanation": "The Fazl Ali Commission (States Reorganisation Commission, 1953) was chaired by Justice Syed Fazl Ali, and its members were K. M. Panikkar and H. N. Kunzru. K. T. Shah and B. Pattabhi Sitaramayya were not members of this commission.",
+      "question_id": "q0246",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c11-t1",
-      "ch": 11
+      "ch": 11,
+      "pages": [
+        100
+      ]
     },
     {
-      "fact": "Under the Directive Principles of State Policy in the Indian Constitution, Article 38(1) states that the State shall strive to promote the w...",
-      "exam": "PCS Pre ’25",
+      "fact": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A) Directive Principles are important for economic, social and political functions in a Modern Democratic State. Reason (R): The core objectives of Directive Principles is to establish economic and social democracy. Select the correct answer from the code given below : Code : → <b>Both (A) and (R) are true and (R) is the correct explanation of (A).</b>",
+      "explanation": "Under the Directive Principles of State Policy in the Indian Constitution, Article 38(1) states that the State shall strive to promote the welfare of the people by securing and protecting a social order in which social, economic and political justice informs all institutions of national life, as effectively as it can. According to Article 37, although the Directive Principles are not enforceable by any court, they are fundamental in the governance of the country, and it shall be the duty of the State to apply these principles in making laws. Also, they include some clear political and institutional objectives (such as Panchayati Raj, Uniform Civil Code, separation of judiciary from executive, and international peace). Hence, Assertion (A) is correct. The core purpose behind including the Directive Principles in the Constitution is to establish social and economic democracy. Thus, Reason (R) is also correct. Therefore, both (A) and (R) are true and (R) correctly explains (A).",
+      "question_id": "q0350",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c14-t1",
-      "ch": 14
+      "ch": 14,
+      "pages": [
+        138
+      ]
     },
     {
-      "fact": "The tenures of the given Presidents are as follows— Neelam Sanjiva Reddy: 25 July 1977 to 25 July 1982 R. Venkataraman: 25 July 1987 to 25 J...",
-      "exam": "PCS Pre ’25",
+      "fact": "Consider the tenure of the following Presidents of India and arrange them in correct chronological order starting from earliest to the last. 1. Neelam Sanjiva Reddy 2. K.R. Narayanan 3. A.P.J. Abdul Kalam 4. R. Venkataraman Select the correct answer from the code given below: Code : → <b>1, 4, 2, 3</b>",
+      "explanation": "The tenures of the given Presidents are as follows— Neelam Sanjiva Reddy: 25 July 1977 to 25 July 1982 R. Venkataraman: 25 July 1987 to 25 July 1992 K. R. Narayanan: 25 July 1997 to 25 July 2002 A. P. J. Abdul Kalam: 25 July 2002 to 25 July 2007 Hence, the correct chronological order is 1, 4, 2, 3, which is option (a).",
+      "question_id": "q0462",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c16-t1",
-      "ch": 16
+      "ch": 16,
+      "pages": [
+        177,
+        178
+      ]
     },
     {
-      "fact": "The Speaker of the 11th Lok Sabha was P. A. Sangma; the Speaker of the 12th Lok Sabha was G. M. C. Balayogi; the Speaker of the 14th Lok Sab...",
-      "exam": "PCS Pre ’25",
+      "fact": "Match List - I with List – II and choose the correct answer using the code given below the lists. List - I List - II (Lok Sabha) (Lok Sabha Speaker) A. 11th Lok Sabha 1. Om Birla B. 12th Lok Sabha 2. P. A. Sangma C. 14th Lok Sabha 3. Somnath Chatterjee D. 17th Lok Sabha 4. G.M.C. Balyogi Code : A B C D → <b>2 4 3 1</b>",
+      "explanation": "The Speaker of the 11th Lok Sabha was P. A. Sangma; the Speaker of the 12th Lok Sabha was G. M. C. Balayogi; the Speaker of the 14th Lok Sabha was Somnath Chatterjee; and the Speaker of the 17th Lok Sabha was Om Birla. At present, the Speaker of the 18th Lok Sabha is also Om Birla (second term). Hence, the correct combination is option (a).",
+      "question_id": "q0580",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c21-t1",
-      "ch": 21
+      "ch": 21,
+      "pages": [
+        228
+      ]
     },
     {
-      "fact": "According to Article 312(1) of the Constitution of India, if the Rajya Sabha (considering it necessary or expedient in the national interest...",
-      "exam": "PCS Pre ’25",
+      "fact": "With reference to creation of new All India Service, which of the following statements is/are correct ? 1. In the national interest, the Rajya Sabha can pass a resolution for creation of new All India Service. 2. The resolution for creation of new All India Service must be passed by the Rajya Sabha by two-third majority of the total members of the house. Select the correct answer from the code given below : Code : → <b>Only 1</b>",
+      "explanation": "According to Article 312(1) of the Constitution of India, if the Rajya Sabha (considering it necessary or expedient in the national interest) passes a resolution to that effect, and if that resolution is passed by a majority of not less than two-thirds of the Rajya Sabha members present and voting, then Parliament may, by law, provide for the creation of one or more new All India Services. Therefore, Statement 1 is correct. Statement 2 is incorrect because the required majority is not two-thirds of the total membership, but two-thirds of the members present and voting.",
+      "question_id": "q0599",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c22-t1",
-      "ch": 22
+      "ch": 22,
+      "pages": [
+        237,
+        238
+      ]
     },
     {
-      "fact": "According to the Fourth Schedule of the Constitution, the seat allocation in the Rajya Sabha for the given states is as follows: Maharashtra...",
-      "exam": "PCS Pre ’25",
+      "fact": "Match List I with List II and choose the correct answer using the code given below the lists. List I (State) List - II (Number of seats in Rajya Sabha) A. Maharashtra 1. 16 B. Karnataka 2. 18 C. Bihar 3. 19 D. Tamil Nadu 4. 12 Code : A B C D → <b>3 4 1 2</b>",
+      "explanation": "According to the Fourth Schedule of the Constitution, the seat allocation in the Rajya Sabha for the given states is as follows: Maharashtra — 19 seats Karnataka — 12 seats Bihar — 16 seats Tamil Nadu — 18 seats Hence, the correct combination is in option (d).",
+      "question_id": "q0600",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c22-t1",
-      "ch": 22
+      "ch": 22,
+      "pages": [
+        238,
+        239
+      ]
     },
     {
-      "fact": "Statement 1 is correct. As per Articles 64 and 89(1) of the Constitution of India, the Vice-President of India is the ex officio Chairman of...",
-      "exam": "PCS Pre ’25",
+      "fact": "With reference to ‘Vice-President of India’, which of the following statements is/are correct ? 1. The Vice-President is the ex-officio Chairman of the Rajya Sabha. 2. Vice-President is a member of the Rajya Sabha. Select the correct answer from the code given below : Code : → <b>Only l</b>",
+      "explanation": "Statement 1 is correct. As per Articles 64 and 89(1) of the Constitution of India, the Vice-President of India is the ex officio Chairman of the Rajya Sabha.Statement 2 is incorrect. The Vice-President is not a member of either House of Parliament. Even if a Member of Parliament is elected as Vice-President, upon assuming office, the membership of that House is deemed to become vacant automatically.",
+      "question_id": "q0606",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c22-t1",
-      "ch": 22
+      "ch": 22,
+      "pages": [
+        241
+      ]
     },
     {
-      "fact": "The provision for a joint sitting of both Houses of Parliament is contained in Article 108, not in Article 109. Article 109 deals with the s...",
-      "exam": "PCS Pre ’25",
+      "fact": "With reference to the Joint Sitting of Parliament’, which of the following statements is/are correct ? 1. Article 109 of the Constitution of India provides for the Joint Sitting of Parliament. 2. A Joint Sitting of Parliament may be called to pass a Constitution Amendment Bill. Select the correct answer from the code given below : Code : → <b>Neither 1 nor 2</b>",
+      "explanation": "The provision for a joint sitting of both Houses of Parliament is contained in Article 108, not in Article 109. Article 109 deals with the special procedure in respect of Money Bills; therefore, statement 1 is incorrect. A Constitutional Amendment Bill (under Article 368) must be passed separately in each House by the prescribed special majority; there is no provision for a joint sitting for this purpose. Hence, statement 2 is also incorrect.",
+      "question_id": "q0639",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c23-t1",
-      "ch": 23
+      "ch": 23,
+      "pages": [
+        252
+      ]
     },
     {
-      "fact": "All the three committees mentioned in the question are “Financial Committees” under the traditional and rules- based classification of the I...",
-      "exam": "PCS Pre ’25",
+      "fact": "Which of the following is/are a Financial Committee of Parliament in India? 1. Public Accounts Committee 2. Estimate Committee 3. Committee on Public Undertakings Select the correct answer from the code given below : Code : → <b>All 1, 2 and 3</b>",
+      "explanation": "All the three committees mentioned in the question are “Financial Committees” under the traditional and rulesbased classification of the Indian Parliament.",
+      "question_id": "q0687",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c24-t1",
-      "ch": 24
+      "ch": 24,
+      "pages": [
+        269
+      ]
     },
     {
-      "fact": "Statement 1 is correct. The Public Accounts Committee (PAC) submits its report to the Speaker of the Lok Sabha, who gets it presented in the...",
-      "exam": "PCS Pre ’25",
+      "fact": "With reference to Public Accounts Committee, which of the following statements is / are correct ? 1. Public Accounts Committee submits its report to the Lok Sabha. 2. Public Accounts Committee consists of 15 members from Rajya Sabha. Select the correct answer from the code given below: Code : → <b>Only 1</b>",
+      "explanation": "Statement 1 is correct. The Public Accounts Committee (PAC) submits its report to the Speaker of the Lok Sabha, who gets it presented in the Lok Sabha, and a copy is laid on the Table of the Rajya Sabha. Statement 2 is incorrect. The PAC is constituted every year with a maximum of 22 members, of which 15 are elected from the Lok Sabha and up to 7 from the Rajya Sabha.",
+      "question_id": "q0693",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c24-t1",
-      "ch": 24
+      "ch": 24,
+      "pages": [
+        272
+      ]
     },
     {
-      "fact": "Public Interest Litigation (PIL) is a judicially developed process in India. It expanded the scope of locus standi (the legal right to file ...",
-      "exam": "PCS Pre ’25",
+      "fact": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): Public Interest Litigation in India is essential for the rule of law. Reason (R): Public Interest Litigation provides effective access of Justice to socially and economically weaker sections. Select the correct answer from the code given below: Code : → <b>(A) is false, but (R) is true.</b>",
+      "explanation": "Public Interest Litigation (PIL) is a judicially developed process in India. It expanded the scope of locus standi (the legal right to file a petition), thereby making access to courts easier even for socially and economically deprived sections. Hence, the statement in Reason (R)—that PIL provides effective access to justice to weaker sections—is true. However, the expression used in Assertion (A)— “necessary for the rule of law”—claims PIL to be an essential/indispensable condition, which is not correct. The rule of law in India is based on institutional and constitutional arrangements such as the basic structure of the Constitution, the principle of equality (Article 14), the right to constitutional remedies (Article 32), the writ jurisdiction of High Courts (Article 226), judicial review, etc. These existed even before the evolution of PIL, and the rule of law can continue to exist even without PIL. Thus, PIL strengthens and promotes the rule of law, but it is not an indispensable condition for its existence. Therefore, (A) is false.",
+      "question_id": "q0778",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c26-t1",
-      "ch": 26
+      "ch": 26,
+      "pages": [
+        317,
+        318
+      ]
     },
     {
-      "fact": "The concept of national unity includes political, economic, social, cultural and psychological dimensions and the internal interrelationship...",
-      "exam": "PCS Pre ’25",
+      "fact": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A): The concept of National Integration involves political, economic, social, cultural and psychological dimensions and inter-relation between them. Reason (R) : The National Integration Council was constituted in 1961 on the principle of ‘Unity in Diversity’. Select the correct answer from the code given below : Code : → <b>(A) is true, but (R) is false.</b>",
+      "explanation": "The concept of national unity includes political, economic, social, cultural and psychological dimensions and the internal interrelationships among them. The National Integration Council was formed in the year 1962. Therefore, in this way, the assertion (A) is correct, while the reason (R) is incorrect.",
+      "question_id": "q0875",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c30-t1",
-      "ch": 30
+      "ch": 30,
+      "pages": [
+        362
+      ]
     },
     {
-      "fact": "Electronic Voting Machine (EVM) – In the Supreme Court decision A.C. Jose v. Sivan Pillai & Ors., the experimental use of EVM is recorded in...",
-      "exam": "PCS Pre ’25",
+      "fact": "Consider the following Election Reforms in India and arrange them in correct chronological order starting from earliest to the last. 1. Voters photo identity card 2. Electronic voting machine 3. Voter verifiable paper audit trail 4. NOTA Select the correct answer from the code given below : Code : → <b>2, 1, 3, 4</b>",
+      "explanation": "Electronic Voting Machine (EVM) – In the Supreme Court decision A.C. Jose v. Sivan Pillai &amp; Ors., the experimental use of EVM is recorded in the polling held on 19 May, 1982 in the Parur (Kerala) Assembly Constituency. Electors Photo Identity Card (EPIC) – The Election Commission started the EPIC scheme in the year 1993. Voter Verifiable Paper Audit Trail (VVPAT) – VVPAT was used for the first time on 4 September, 2013 in the Noksen Assembly by-election in Nagaland. NOTA (None of the Above) – As per the directions of the Supreme Court dated 27 September, 2013, the NOTA option was added in EVMs. Thus, the correct chronology—EVM (1982) → EPIC (1993) → VVPAT (2013) → NOTA (2013)—is given in option (a).",
+      "question_id": "q1016",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c36-t1",
-      "ch": 36
+      "ch": 36,
+      "pages": [
+        423
+      ]
     },
     {
-      "fact": "At present, the Eighth Schedule of the Indian Constitution includes a total of 22 languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi...",
-      "exam": "PCS Pre ’25",
+      "fact": "Which of the following languages is / are NOT included in the Eighth Schedule of Indian Constitution ? 1. Nepali 2. Dogri 3. Bodo 4. Bhojpuri Select the correct answer from the code given below : Code : → <b>Only 4</b>",
+      "explanation": "At present, the Eighth Schedule of the Indian Constitution includes a total of 22 languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santhali, Sindhi, Tamil, Telugu and Urdu. Bhojpuri has not yet been included in the Eighth Schedule.",
+      "question_id": "q1082",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c39-t1",
-      "ch": 39
+      "ch": 39,
+      "pages": [
+        457
+      ]
     },
     {
-      "fact": "Statement 1 is correct. According to Article 243E(1), every Panchayat, unless dissolved earlier under any law for the time being in force, s...",
-      "exam": "PCS Pre ’25",
+      "fact": "With reference to Panchayati Raj Institutions in India which of the following statements is / are correct ? 1. Tenure of Panchayati Raj Institutions shall be of 5 years. 2. In Panchayati Raj Institutions, out of the seats reserved, 1/4 of the seats shall be reserved for women belonging to Scheduled Caste and Scheduled Tribe. Select the correct answer from the code given below : Code : → <b>Only 1</b>",
+      "explanation": "Statement 1 is correct. According to Article 243E(1), every Panchayat, unless dissolved earlier under any law for the time being in force, shall continue for five years from the date appointed for its first meeting. Statement 2 is incorrect. The Constitution does not provide for a one-fourth (25%) reservation for SC/ST women. As per Article 243D, not less than one-third of the seats reserved for a SCs/STs shall be reserved for women belonging to SCs/STs, and not less than one-third of the total seats to be filled by direct election in every Panchayat shall be reserved for women (and the seats reserved for SC/ST women are included within the overall women’s reservation).",
+      "question_id": "q1101",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        465
+      ]
     },
     {
-      "fact": "Statement 1 is incorrect. The qualifying age to be elected as a member of a municipality is 21 years, not 25 years. As per the proviso to cl...",
-      "exam": "PCS Pre ’25",
+      "fact": "With reference to Municipalities, which of the following statements is/are correct? 1. The eligible age to be a member of municipality is 25 years. 2. One-third of the total number of seats to be filled by direct election in the municipalities is reserved for women. Select the correct answer from the code given below : Code : → <b>Only 2</b>",
+      "explanation": "Statement 1 is incorrect. The qualifying age to be elected as a member of a municipality is 21 years, not 25 years. As per the proviso to clause (1)(a) of Article 243V, a person shall not be disqualified for being chosen as a member of a municipality on the ground that he/she is less than 25 years of age, if he/she has attained the age of 21 years. Statement 2 is correct. As per clause (3) of Article 243T, in every municipality, not less than one-third of the total seats to be filled by direct election (including the seats reserved for SC/ST women) shall be reserved for women. In many States, this reservation has increased up to 50%.",
+      "question_id": "q1161",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        492
+      ]
     },
     {
-      "fact": "BHARATPOL is a centralized online portal, developed by the Central Bureau of Investigation (CBI) to facilitate inter- national police cooper...",
-      "exam": "PCS Pre ’25",
+      "fact": "‘BHARATPOL’, an online portal for International Police Co-operation has been developed by which of the following? 1. Central Bureau of Investigation 2. Research and Analysis Wing 3. Intelligence Bureau 4. Enforcement Directorate Select the correct answer from the code given below: Code : → <b>Only 1</b>",
+      "explanation": "BHARATPOL is a centralized online portal, developed by the Central Bureau of Investigation (CBI) to facilitate international police cooperation. This portal was launched on 7 January, 2025 by the Union Minister of Home Affairs and Cooperation, Amit Shah.",
+      "question_id": "q1205",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c42-t1",
-      "ch": 42
+      "ch": 42,
+      "pages": [
+        525
+      ]
     },
     {
-      "fact": " National V oters’ Day is observed on 25 January, so pair 1 is correct.  'Constitution Day' is observed on 26 November, so the date 27 Jan...",
-      "exam": "PCS Pre ’25",
+      "fact": "Which of the following pairs is/are NOT correctly matched ? 1. National Voters Day (India) - 25 January 2. Constitution Day (India) - 27 January 3. Human Rights Day (World) - 29 January Select the correct answer from the code given below : Code : → <b>2 and 3</b>",
+      "explanation": " National Voters’ Day is observed on 25 January, so pair 1 is correct.  &#x27;Constitution Day&#x27; is observed on 26 November, so the date 27 January in pair 2 is incorrect.  &#x27;World Human Rights Day&#x27; is observed on 10 December, so the date 29 January in pair 3 is incorrect.",
+      "question_id": "q1210",
       "count": 1,
+      "papers": "PCS Pre '25",
+      "exam": "PCS Pre '25",
       "anchor": "c42-t1",
-      "ch": 42
+      "ch": 42,
+      "pages": [
+        527,
+        528
+      ]
     }
   ],
   "2024": [
     {
-      "fact": "The Correct matches are as follows, List - I List- II Consolidated Fund of India – Article 266 Finance Commission – Article 280 Financial Em...",
-      "exam": "PCS Pre ’24",
+      "fact": "Match List- I and List- II and choose the correct answer from the codes given below the lists : List- I List- II A. Consolidated Fund of India 1.Article 266 B. Finance Commission 2. Article 360 C. Financial Emergency 3. Article 280 D. Comptroller and Auditor 4. Article 148 General of India Code : A B C D → <b>1 3 2 4</b>",
+      "explanation": "The Correct matches are as follows, List - I List- II Consolidated Fund of India – Article 266 Finance Commission – Article 280 Financial Emergency – Article 360 Comptroller and Auditor – Article 148 General of India",
+      "question_id": "q0109",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c6-t1",
-      "ch": 6
+      "ch": 6,
+      "pages": [
+        47,
+        48
+      ]
     },
     {
-      "fact": "“Adulteration of foodstuffs and other goods’ under entry-18 and ‘Succession’ under entry-5 are included in the Concurrent List of the Sevent...",
-      "exam": "PCS Pre ’24",
+      "fact": "The Concurrent list of the Indian Constitution includes : 1. Trade and Commerce 2. Adulteration of Goods 3. Succession Select the correct answer from the codes given below : → <b>2 and 3</b>",
+      "explanation": "“Adulteration of foodstuffs and other goods’ under entry-18 and ‘Succession’ under entry-5 are included in the Concurrent List of the Seventh Schedule of the Indian Constitution. The ‘Inter-State trade and commerce’ is in the Union List under entry 42. While, “Trade and commerce within the state’ is in the State List under entry-26, but it is subject to the entry-33 of the Concurrent List. The entry-33 of the concurrent list includes, Trade and Commerce in, and the production, supply and distribution of- (a) the products of any industry where the control of such industry by the Union is declared by the Parliament by law to be expedient in the public interest, and imported goods of the same kind as such products; (b) foodstuffs, including edible oilseeds and Oils; (c) Cattle fodder, including oilcakes and other concentrates; (d) raw cotton, whether ginned or unginned, and cotton seeds, and (e) raw jute. Hence, the trade and commerce of the above-mentioned goods is also included in the Concurrent List. Nevertheless, the U.P.P.S.C. in its answer-key, mentions option (d) as correct, because the Inter-State and With-in the State trade and commerce are mentioned under Union and State lists, respectively.",
+      "question_id": "q0130",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c7-t1",
-      "ch": 7
+      "ch": 7,
+      "pages": [
+        55
+      ]
     },
     {
-      "fact": "The correct matches of the lists in the question with respect to the Indian Federal System is as follows : List-I List-II Cooperative Federa...",
-      "exam": "PCS Pre ’24",
+      "fact": "Match List-I with List-II and choose the correct answer using the codes given below the lists : List- I List II A. Cooperative Federalism 1. K.C. Wheare B. Bargaining Federalism 2. Ivor Jennings C. Quasi Federalism 3. Morris-Jones D. Federalism with 4. Granville Austin Centralising Tendency Code : A B C D → <b>4 3 1 2</b>",
+      "explanation": "The correct matches of the lists in the question with respect to the Indian Federal System is as follows : List-I List-II Cooperative Federalism - Granville Austin Bargaining Federalism - Morris-Jones Quasi Federalism - K.C. Wheare Federalism with - Ivor Jennings Centralising Tendency",
+      "question_id": "q0206",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c9-t1",
-      "ch": 9
+      "ch": 9,
+      "pages": [
+        83
+      ]
     },
     {
-      "fact": "According to the Article 3 of the Constitution, Parliament may by law form new States, and alter the area, boundaries or the name of any exi...",
-      "exam": "PCS Pre ’24",
+      "fact": "Which one of the following pairs is not correctly matched? → <b>Altering the name of – Power of a State Legislature A State</b>",
+      "explanation": "According to the Article 3 of the Constitution, Parliament may by law form new States, and alter the area, boundaries or the name of any existing State. With respect to the alteration of area, boundary or name of a state, it is expected, from the concerned State Legislature to express its views on the issue, under the provision of the Article 3. But the views expressed by the state legislature are not binding on the parliament. Therefore, altering the name of a state is not a power of the State legislature, but it is the power of Parliament. Admission or establishment of new states is the power of the Parliament under Article 2 of the Constitution. The Article 14 of the Constitution ensures Equality before the law to all persons (citizens and non-Citizens both), whereas, Equality of opportunity in matters of public employment is ensured for the Indian citizens only, under Article 16 of the Constitution.",
+      "question_id": "q0226",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c11-t1",
-      "ch": 11
+      "ch": 11,
+      "pages": [
+        92,
+        93
+      ]
     },
     {
-      "fact": "The Article 19 (Protection of certain rights regarding freedom of speech, etc.) under fundamental rights mentioned in part III of the Consti...",
-      "exam": "PCS Pre ’24",
+      "fact": "Which of the follwing freedoms is not guaranteed by the Indian Constitution under Article 19? → <b>Freedom to own, acquire and dispose of property</b>",
+      "explanation": "The Article 19 (Protection of certain rights regarding freedom of speech, etc.) under fundamental rights mentioned in part III of the Constitution provides guarantee of the following 6 freedoms by clause (1) as the right- (a) to freedom of Speech and expression; (b) to assemble peaceably and without arms; (c) to form associations or unions or co-operative societies (d) to move freely throughout the territory of India; (e) to reside and settle in any part of the territory of India; and (g) to practise any profession, or to carry on any occupation, trade or business. It is noteworthy that, the freedom to own, acquire and dispose of a property was included in Article 19 clause (1) sub-clause (f) under the initial/original constitution, but the 44th Amendment of the Constitution, 1978 removed this sub-clause (f) from the Article 19(1).",
+      "question_id": "q0282",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        114
+      ]
     },
     {
-      "fact": "Part III (Fundamental Rights) of the Indian Constitution mentions the Right against Exploitation under Articles 23 and 24. The Article 23 pr...",
-      "exam": "PCS Pre ’24",
+      "fact": "Which of the following are envisaged by the Right against Exploitation in the Constitution of India? 1. Abolition of untouchability 2. Prohibition of human trafficking and forced labour 3. Prohibition of employment of children in factories and mines 4. Protection of interests of minorities Select the correct answer from the codes given below : → <b>2 and 3</b>",
+      "explanation": "Part III (Fundamental Rights) of the Indian Constitution mentions the Right against Exploitation under Articles 23 and 24. The Article 23 prohibits traffic in human beings and begar and other similar forms of forced labour. The Article 24 prohibits the employment of children below the age of fourteen years in any factory or mine or any other hazardous employment. Abolition of untouchability under Article 17 is under the right to equality. The Protection of the interests of minorities is mentioned in Article 29 as a Cultural and Educational Right, under the Constitution.",
+      "question_id": "q0293",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        119
+      ]
     },
     {
-      "fact": "The Supreme Court, firstly in year 1951 in the case of Shankari Prasad Vs. Union of India and after that in year 1965 in the case of Sajjan ...",
-      "exam": "PCS Pre ’24",
+      "fact": "Identify the correct chronological sequence of the following : 1. Shankari Prasad vs. Union of India 2. Sajjan Singh vs. State of Rajasthan 3. Golaknath vs. State of Punjab 4. Kesavananda Bharati vs. State of Kerala Select the correct answer from the codes given below : → <b>1, 2, 3, 4</b>",
+      "explanation": "The Supreme Court, firstly in year 1951 in the case of Shankari Prasad Vs. Union of India and after that in year 1965 in the case of Sajjan Singh Vs. State of Rajasthan, held that the parliament can amend the fundamental rights given under the Constitution. Later, in year 1967 in the case of Golaknath Vs. State of Punjab, the Supreme Court held the opposite to its verdict in the Shankari Prasad and Sajjan Singh cases, and established that the parliament can not amend the fundamental rights. In Keshavanand Bharati Vs. State of Kerala case, 1973, the Supreme Court held that the Parliament has an extensive power of amendment in the Constitution, but the power is not unlimited, and it can amend the fundamental rights but it can not change or amend the Basic Structure of the Constitution.",
+      "question_id": "q0331",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c13-t1",
-      "ch": 13
+      "ch": 13,
+      "pages": [
+        130
+      ]
     },
     {
-      "fact": "Article 59 (1) of the Indian Constitution says that the President shall not be a member of either House of the Parliament and Article 79 say...",
-      "exam": "PCS Pre ’24",
+      "fact": "Which of the following are/is stated in the Constitution of India? 1. The President shall not be a member of either House of Parliament. 2. The Parliament shall consist of the President and the two Houses. Choose the correct answer from the codes given below: → <b>Both 1 and 2</b>",
+      "explanation": "Article 59 (1) of the Indian Constitution says that the President shall not be a member of either House of the Parliament and Article 79 says that the Parliament of India shall consist of President and two Houses. So both the statements are correct.",
+      "question_id": "q0613",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c23-t1",
-      "ch": 23
+      "ch": 23,
+      "pages": [
+        244
+      ]
     },
     {
-      "fact": "Justice M. Fathima Beevi died on 23 November, 2023. She became the first woman Judge of the Supreme Court of India, in 1989. She was the fir...",
-      "exam": "PCS Pre ’24",
+      "fact": "Fathima Beevi died recently. Consider the following statements regarding her : 1. She was the first woman judge of the Supreme Court of India. 2. She served as the Governor of Kerala from 1997- 2001. 3. She was the first Muslim woman to enter into higher judiciary. Select the correct answer from the codes given below: → <b>1 and 3</b>",
+      "explanation": "Justice M. Fathima Beevi died on 23 November, 2023. She became the first woman Judge of the Supreme Court of India, in 1989. She was the first muslim woman to enter the higher judiciary. After retirement from the apex court in 1992, she was a member of National Human Rights Commission during year 1993 to 1997. She became governor of Tamil Nadu (not of Kerala) for year 1997 to 2001. Therefore, the statements 1 and 3 are correct, while, Statement 2 is not correct.",
+      "question_id": "q0774",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c26-t1",
-      "ch": 26
+      "ch": 26,
+      "pages": [
+        315
+      ]
     },
     {
-      "fact": "Under the given Articles of the Constitution of India, according to Article 153, there shall be a governor for each state. According to the ...",
-      "exam": "PCS Pre ’24",
+      "fact": "Which one of the following is not correctly matched? → <b>Article 155 – Removal of the Governor</b>",
+      "explanation": "Under the given Articles of the Constitution of India, according to Article 153, there shall be a governor for each state. According to the Article 154(1), the executive power of the state shall be vested in the Governor and shall be exercised by him either directly or through officers subordinate to him in accordance with this constitution. The Article 155 is related with the appointment of governors, which provides that, the Governor of a state shall be appointed by the President by warrant under his hand and seal. The Article 156 provides for the Term of office of the Governor. According to Article 156(1) - the Governor holds office during the pleasure of the President, and Article 156(3) provides that usually the Governor is appointed for a term of five years. The President may remove a Governor from his office prior to the completion of five year term as the Governor holds the post during the pleasure of the President. Hence, the pair in the option (c) is not-correctly matched, while other options contain correctly matched pairs.",
+      "question_id": "q0791",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c27-t1",
-      "ch": 27
+      "ch": 27,
+      "pages": [
+        322
+      ]
     },
     {
-      "fact": "According to Article 153 of the Constitution, There shall be a Governor for each State. The Seventh Constitutional Amendment Act, 1956 added...",
-      "exam": "PCS Pre ’24",
+      "fact": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A) : According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time. Reason (R) : Article 153 of the Indian Constitution states that there shall be a Governor for each State. Select the correct answer from the codes given below: → <b>(A) is false, but (R) is true.</b>",
+      "explanation": "According to Article 153 of the Constitution, There shall be a Governor for each State. The Seventh Constitutional Amendment Act, 1956 added further in this Article that, nothing in this Article shall prevent the appointment of the same person as Governor for two or more States. Therefore, the same person can function as the governor of two or more States at the same time. Hence, Assertion (A) is incorrect, but the Reason (R) is correct. The option (b) is the correct answer.",
+      "question_id": "q0793",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c27-t1",
-      "ch": 27
+      "ch": 27,
+      "pages": [
+        322,
+        323
+      ]
     },
     {
-      "fact": "The Article 352 of the Indian Constitution is related to the Proclamation of Emergency. According to this Article, If the President is satis...",
-      "exam": "PCS Pre ’24",
+      "fact": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Assertion (A) : Article 352 of the Indian Constitution deals with the declaration of an emergency. Reason (R) : An emergency may take place at any time. Select the correct answer from the codes given below : → <b>Both (A) and (R) are true, but (R) is not the correct explanation of (A).</b>",
+      "explanation": "The Article 352 of the Indian Constitution is related to the Proclamation of Emergency. According to this Article, If the President is satisfied that a grave emergency exists whereby the security of India or of any part of the territory thereof is threatened, whether by way or external aggression or armed rebellion, he may, by proclamation make a declaration to that effect in respect of the whole of India or of such part of territory there of as may be specified in proclamation. A proclamation of emergency can also be made before the actual occurence of the above mentioned threatening conditions, if President is satisfied that there is imminent danger. In fact, an emergency may take place at any time due to war, external aggression or armed rebellion. Hence, (A) and (R) both are correct, but (R) is not the correct explanation of (A).",
+      "question_id": "q0898",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c31-t1",
-      "ch": 31
+      "ch": 31,
+      "pages": [
+        370
+      ]
     },
     {
-      "fact": "According to the section 4(1) of the Lokpal and Lokayuktas Act, 2013, The Chairperson and the members of the Lokpal shall be appointed by th...",
-      "exam": "PCS Pre ’24",
+      "fact": "According to the Lokpal and Lokayuktas Act, 2013 the Lokpal would be appointed by the President after obtaining the recommendations of a Selection Committee, with the Prime Minister as chairperson and consisting, among others, of the following : 1. Chief Justice of India or a Supreme Court Judge nominated by him. 2. Chairman of the Rajya Sabha 3. Speaker of the Lok Sabha 4. Leader of Opposition in the Lok Sabha Select the correct answer from the codes given below : → <b>1, 3 and 4</b>",
+      "explanation": "According to the section 4(1) of the Lokpal and Lokayuktas Act, 2013, The Chairperson and the members of the Lokpal shall be appointed by the President after obtaining the recommendations of a selection committee consisting of- (a) the Prime Minister - Chairperson; (b)the Speaker of the House of the people - Member; (c) the Leader of Opposition in the House of the People - Member; (d)the Chief Justice of India or a judge of the Supreme Court nominated by him- Member; (e) One eminent jurist, as recommended by the Chairperson and members referred to in clauses (a) to (d) above, to be nominated by the President - Member. Hence, option (d) is the correct answer.",
+      "question_id": "q0949",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c34-t1",
-      "ch": 34
+      "ch": 34,
+      "pages": [
+        387
+      ]
     },
     {
-      "fact": "In year 2024, the former Judge of the Supreme Court of India, Justice Ajay Manikrao Khanwilkar was appointed as the Head of the Lokpal of In...",
-      "exam": "PCS Pre ’24",
+      "fact": "Who among the following has been appointed as the Chairperson of Lokpal of India in 2024? → <b>Shri Justice Ajay Manikrao Khanwilkar</b>",
+      "explanation": "In year 2024, the former Judge of the Supreme Court of India, Justice Ajay Manikrao Khanwilkar was appointed as the Head of the Lokpal of India. He assumed the post on 10 March, 2024. Justice Pinaki Chandra Ghosh was the first Head of the India’s Lokpal.",
+      "question_id": "q0950",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c34-t1",
-      "ch": 34
+      "ch": 34,
+      "pages": [
+        388
+      ]
     },
     {
-      "fact": "The Section 21 of the 7 th Constitutional Amendment Act, 1956 added new Articles-350A and 350B which provide for ‘Facilities for instruction...",
-      "exam": "PCS Pre ’24",
+      "fact": "Consider the following statements with reference to Special Officer for Linguistic Minorities : 1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State. 2. A new Article 350 B was added for this by the 9th Constitution Amendment Act. Which of the above statements is/are correct? → <b>Neither 1 nor 2</b>",
+      "explanation": "The Section 21 of the 7th Constitutional Amendment Act, 1956 added new Articles-350A and 350B which provide for ‘Facilities for instruction in mother-tongue at primary stage’ and ‘Special Officer for linguistic minorities’, respectively. According to clause (1) of Article 350B, there shall be a special officer for linguistic minorities to be appointed by the President. It provides for special officer for linguistic minorities at the Union level (for All India) and not for each State. This Officer in India is named Commissioner for Linguistic Minorities in India. Hence, both statements in the question are not correct.",
+      "question_id": "q0961",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c34-t1",
-      "ch": 34
+      "ch": 34,
+      "pages": [
+        391
+      ]
     },
     {
-      "fact": "Under Article 320 of the Constitution the functions of Public Service Commissions (Union and State both) are mentioned. Under Article 321, P...",
-      "exam": "PCS Pre ’24",
+      "fact": "The UPSC derives its functions from which of the following sources? 1. The Constitution 2. Parliamentary Laws 3. Executive Rules and Orders 4. Conventions Select the correct answer from the codes given below : → <b>1, 2, 3 and 4</b>",
+      "explanation": "Under Article 320 of the Constitution the functions of Public Service Commissions (Union and State both) are mentioned. Under Article 321, Parliament, by law, and the State legislature by law, may extend the functions of the Union Public Service Commission or State Public Service Commission. In addition to the Constitution and Parliamentary laws, the Union Public Service Commission acquires functions from executive rules, regulations, orders and established conventions also. Therefore, the option (d) is the correct answer.",
+      "question_id": "q0975",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c34-t1",
-      "ch": 34
+      "ch": 34,
+      "pages": [
+        403
+      ]
     },
     {
-      "fact": "Under Article 324, The Superintendence, direction and Control of the preparation of electoral rolls and of the conduct of all elections to t...",
-      "exam": "PCS Pre ’24",
+      "fact": "Which of the following are the functions of the Election Commissioner of India? 1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha. 2. Conduct of elections of the Municipal Corporations and Municipalities. 3. Deciding on all doubts and disputes arising out of the above elections. Select the correct answer from the codes given below : → <b>None of the above</b>",
+      "explanation": "Under Article 324, The Superintendence, direction and Control of the preparation of electoral rolls and of the conduct of all elections to the Parliament and to the legislature of every State and of elections to the offices of President and Vice-President, is done by the Election Commission of India. The Vice-President is the ex-officio chairman of the Rajya Sabha. The elections of Speaker and deputy Speaker of Lok Sabha and the deputy Chairman, of Rajya Sabha are performed by the members of the respective Houses from amongst the members. The elections for Municipalities and Municipal Corporations are done under Article 243ZA by the State Election Commission (as mentioned under Article 243K) of the respective states. All disputes and doubts arising out of the elections are resolved by the Judiciary.",
+      "question_id": "q0998",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c36-t1",
-      "ch": 36
+      "ch": 36,
+      "pages": [
+        415,
+        416
+      ]
     },
     {
-      "fact": "An amendment to the Constitution of India can be initiated by the: 1. Lok Sabha 2. Rajya Sabha 3. State Legislatures 4. President Select the...",
-      "exam": "PCS Pre ’24",
+      "fact": "An amendment to the Constitution of India can be initiated by the: 1. Lok Sabha 2. Rajya Sabha 3. State Legislatures 4. President Select the correct answer using the codes given below: → <b>1 and 2</b>",
+      "explanation": "In India, the amendment to the Constitution can be initiated in either House of the Parliament. It has been laid down under Article 368(2) of the Constitution, but the process requires a special majority of members of both the Houses. In the case of voting, it will be mandatory for the approval of the amendment to be passed by a majority of the total membership of that House and a majority of not less than 2/3rd of the members present and voting. In India, the process of constitutional amendment is taken from the Constitution of South Africa.",
+      "question_id": "q1043",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c38-t1",
-      "ch": 38
+      "ch": 38,
+      "pages": [
+        438
+      ]
     },
     {
-      "fact": "The correct matches of the Constitutional Amendments to their years, in the question are as follows, 42nd Constitutional Amendment - 1976 (e...",
-      "exam": "PCS Pre ’24",
+      "fact": "Match the Amendments with their year of implementation: A. 42nd Amendment 1. 1985 B. 52nd Amendment 2. 2011 C. 86th Amendment 3. 1976 D. 96th Amendment 4. 2002 Select the correct answer from the codes given below : Code : A B C D → <b>3 1 4 2</b>",
+      "explanation": "The correct matches of the Constitutional Amendments to their years, in the question are as follows, 42nd Constitutional Amendment - 1976 (effective from 3.1.1977) 52nd Constitutional Amendment - 1985 (effective from 1.3.1985) 86th Constitutional Amendment - 2002 (effective from 1.4.2010) 96th Constitutional Amendment - 2011 (effective from 23.9.2011) Note - The question asks to match the amendments to their year of implementation, while the years in the question are year of enactment/notification of the amendments.",
+      "question_id": "q1048",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c38-t1",
-      "ch": 38
+      "ch": 38,
+      "pages": [
+        445
+      ]
     },
     {
-      "fact": "Which Amendment acts deal with Local Governance Institutions in India? → <b>73 rd and 74th Amendment Acts</b>",
-      "exam": "PCS Pre ’24",
+      "fact": "Which Amendment acts deal with Local Governance Institutions in India? → <b>73rd and 74th Amendment Acts</b>",
+      "explanation": "The two (73rd and 74th) Amendments to the Constitution mark a watershed in the evolution of local self-government in India. The Constitution (Seventy-Third Amendment) Act, 1992, which came into force w.e.f. 24th April, 1993, Part IX was inserted in the Constitution of India and accorded Panchayats a constitutional status as institutions of local self-government for rural India. 73rd and 74th Amendments were made in 1992 during the prime-ministership of P.V. Narasimha Rao.",
+      "question_id": "q1093",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        462
+      ]
     },
     {
-      "fact": "The Balwant Rai Mehta Committee recommended a three-tier Panchayati Raj System, in its report submitted in November, 1957. It recommended Vi...",
-      "exam": "PCS Pre ’24",
+      "fact": "Which one of the following is not a level in the three-tier Panchayati Raj recommended by Balwant Rai Mehta Committee? → <b>Nyaya Panchayat</b>",
+      "explanation": "The Balwant Rai Mehta Committee recommended a three-tier Panchayati Raj System, in its report submitted in November, 1957. It recommended Village Panchayat at village level, Panchayat Samiti at the Block level and Zila Panchayat at the district level as the three-tier Panchayat System. The Ashok Mehta Committee (1977-78) recommended the organisation of Nyaya Panchayats as a separate entity.",
+      "question_id": "q1128",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c40-t1",
-      "ch": 40
+      "ch": 40,
+      "pages": [
+        477
+      ]
     },
     {
-      "fact": "In the year 1985, the G.V .K. Rao Committee was constituted by the then Planning Commission to review various aspects of the existing admini...",
-      "exam": "PCS Pre ’24",
+      "fact": "Which one of the following is not correctly matched? → <b>G.V.K. Rao Committee – Planning at the Block Level</b>",
+      "explanation": "In the year 1985, the G.V.K. Rao Committee was constituted by the then Planning Commission to review various aspects of the existing administrative arrangements for rural development and poverty alleviation programmes. The Committee had recommended strengthening the Panchayati Raj institutions for decentralization and public participation and conducting regular elections. This committee had recommended considering districts as the basic unit for policy planning and program implementation. In the year 1977, a working group headed by M.L. Dantwala was constituted, which recommended planning at the block level. In addition to this, the Dantwala committee constituted by the Reserve Bank of India on Regional Rural Banks, (RRBs), submitted its report in 1978 and recommended that RRBs be made an integral part of the rural credit structure. In year 1962, a study team on Panchayati Raj Finance and resources, headed by K. Santhanam recommended limited revenue powers to the Panchayats and establishment of Panchayati Raj Finance Corporations. The Ashok Mehta committee (1977) on Panchayati Raj Institution recommended a two-tier system of Panchayats. Hence, it is clear from the above analysis that option (a) has a wrong pair while other options have correct pairs. The commission provided answer (c), Which is not correct.",
+      "question_id": "q1141",
       "count": 1,
+      "papers": "PCS Pre '24",
+      "exam": "PCS Pre '24",
       "anchor": "c40-t1",
-      "ch": 40
-    },
-    {
-      "fact": "In the Constitution of India, under Article 324, the ‘Election Commission gets a mention, under Article 338 'National Commission for Schedul...",
-      "exam": "PCS Pre ’24",
-      "count": 1,
-      "anchor": "c41-t1",
-      "ch": 41
+      "ch": 40,
+      "pages": [
+        481
+      ]
     }
   ]
 }

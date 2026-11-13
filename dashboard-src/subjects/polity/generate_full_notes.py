@@ -2,6 +2,7 @@ import json
 import re
 import os
 import html
+from study_render import STUDY_CSS, learning_support, source_layer, review_layer
 
 def generate_full_notes():
     base_dir = os.path.join("dashboard-src", "subjects", "polity")
@@ -14,7 +15,7 @@ def generate_full_notes():
     with open(os.path.join(base_dir, "latest_facts.json"), encoding="utf-8") as f:
         latest = json.load(f)
     with open(os.path.join(base_dir, "template_full_style.css"), encoding="utf-8") as f:
-        css = f.read()
+        css = f.read() + STUDY_CSS
     with open(os.path.join(base_dir, "template_full_js.html"), encoding="utf-8") as f:
         js = f.read()
 
@@ -77,17 +78,18 @@ def generate_full_notes():
     # Home view
     out.append('<section class="view" id="home"><h1>Indian Polity for UPPSC</h1>')
     out.append('<p class="gist">All 42 chapters in short points, tagged by what UPPSC has actually asked.</p>')
-    out.append('<p class="legend"><span class="key"></span>Asked in 2 or more UPPSC papers <span class="p up">UPPSC ×3</span> asked in 3 UPPSC papers <span class="p up">UPPSC</span> asked once</p>')
+    out.append('<div class="study-path"><b>Read → compare → retrieve.</b><p>Start with each chapter’s four core points. Use the comparison to separate similar ideas, then answer three recall prompts before opening the explanations.</p><p>Open “Read more from the supplied PDF” for the retained chapter notes and source explanations. <a href="polity-uppsc-quick-notes.html">Quick revision</a> · <a href="polity-in-72h.html">72-hour plan</a></p></div>')
+    out.append('<p class="legend">Repeat counts use distinct UPPSC exam labels printed beside a source question. They are revision signals, not predicted weightage.</p>')
     out.append(f'<a class="cta" href="#repeated">Short on time? Start with the {len(repeats)} facts UPPSC repeats →</a>')
     out.append('<ol class="toc">')
     for c in chapters:
         num = c["num"]
         title = html.escape(c["title"])
         k = ch_q_count.get(num, 0)
-        hot_badge = '<span class="p up">Most asked</span>' if k >= 35 else ''
+        hot_badge = '<span class="p up">Larger source bank</span>' if k >= 35 else ''
         out.append(f'<li><a href="#c{num}"><span class="no">{num}</span><span class="nm">{title}</span>{hot_badge}<span class="q">{k} UPPSC PYQs</span></a></li>')
     out.append('</ol>')
-    out.append(f'<p class="foot">{len(chapters)} chapters and {len(qs)} UPPSC questions (PCS Pre and Mains, RO/ARO, Lower Subordinate, UDA/LDA, GIC, BEO, RI; up to 2025) from Ghatna Chakra Preview Indian Polity and Governance 2026. Facts and answers are as in the book; Check lines mark doubtful keys. Past repeats guide revision and do not predict a paper.</p>')
+    out.append(f'<p class="foot">{len(chapters)} chapters and {len(qs)} scorable UPPSC questions (PCS Pre and Mains, RO/ARO, Lower Subordinate, UDA/LDA, GIC, BEO, RI; up to 2025) from Ghatna Chakra Preview Indian Polity and Governance 2026. Keys are the book’s, not independently verified official keys. Uncertain items remain unscored under Practice. PDF references use file-page numbers. Coverage audit: 12 November 2026; source-era facts are labelled in the evidence layer. Past repeats guide revision and do not predict a paper.</p>')
     out.append('</section>')
     
     # Repeated view
@@ -100,7 +102,7 @@ def generate_full_notes():
         p_esc = html.escape(r["papers"])
         anc = r["anchor"]
         cnt = r["count"]
-        out.append(f'<li><details><summary><span class="t">{f_esc}</span><span class="ps"><span class="p up">×{cnt}</span></span></summary><div class="yrs"><div>{p_esc}</div><a href="#{anc}">Open in chapter →</a></div></details></li>')
+        out.append(f'<li><details><summary><span class="t">{f_esc}</span><span class="ps"><span class="p up">×{cnt}</span></span></summary><div class="yrs"><div>{p_esc}</div><p>{r["explanation"]}</p><a href="#{anc}">Open in chapter →</a></div></details></li>')
     out.append('</ol>')
     out.append('</section>')
     
@@ -115,7 +117,7 @@ def generate_full_notes():
             f_esc = item["fact"]
             cnt_str = f' <span class="p up">×{item["count"]}</span>' if item["count"] > 1 else ''
             anc = item["anchor"]
-            out.append(f'<li>{f_esc}{cnt_str} <a class="to" href="#{anc}" aria-label="Open in chapter">→</a></li>')
+            out.append(f'<li><details><summary>{f_esc}{cnt_str}</summary><p>{item["explanation"]}</p><p class="source-note">{html.escape(item["exam"])}</p><a class="to" href="#{anc}">Open in chapter →</a></details></li>')
         out.append('</ul>')
     out.append('</div>')
     out.append('</section>')
@@ -137,6 +139,7 @@ def generate_full_notes():
     out.append('<p class="pq-score" id="pqScore" aria-live="polite"></p>')
     out.append('<ol class="pq-list" id="pqList"></ol>')
     out.append('<button class="pqb" id="pqMore">Show 10 more</button>')
+    out.append(review_layer())
     out.append('</section>')
     
     # Chapters c1 to c42
@@ -154,6 +157,7 @@ def generate_full_notes():
         out.append(f'<p class="eyebrow">Chapter {num}</p>')
         out.append(f'<h2>{title}</h2>')
         out.append(f'<p class="gist">{gist}</p>')
+        out.append(f'<nav class="chapter-map" aria-label="Chapter route"><a href="#c{num}-t1">Understand</a><a href="#c{num}-compare">Compare</a><a href="#c{num}-recall">Recall</a><a href="#c{num}-source">PDF evidence</a></nav>')
         
         # Focus
         if c.get("focus"):
@@ -179,8 +183,13 @@ def generate_full_notes():
                     cls += " asked"
                 if pt.get("hot"):
                     cls += " hot"
+                if pt.get("keep"):
+                    cls += " keep"
                 out.append(f'<li class="{cls}">{pt["html"]}</li>')
-            out.append('</ul></article>')
+            out.append('</ul>')
+            out.append(learning_support(c))
+            out.append(source_layer(c))
+            out.append('</article>')
             
         out.append(f'<a class="cta" href="#practice" data-pq-ch="c{num}">Practise this chapter’s {k} UPPSC PYQs →</a>')
         out.append(f'<nav class="pn"><a href="{prev_href}">{prev_txt}</a><a class="nx" href="{next_href}">{next_txt}</a></nav>')

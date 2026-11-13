@@ -33,7 +33,7 @@
       drawer(false);
       if (el === view) { window.scrollTo(0, 0); }
       else {
-        var d = el.closest('details'); if (d) d.open = true;
+        var d = el.closest('details'); while (d) { d.open = true; d = d.parentElement.closest('details'); }
         if (only && only.checked && el.classList.contains('topic')) mark();
         el.scrollIntoView();
         el.classList.add('flash');

@@ -1,989 +1,1870 @@
 [
   {
-    "fact": "The President (discharge of functions) Act, 1969 of India provides that the Chief Justice of India (CJI) shall act as the President of India in the event of the office of both the President and Vice – President being vacant. In the absence of the CJI, the senior-most Judge of the Supreme Court shall perform the functions of the President.",
+    "fact": "Which part of the Indian Constitution has been described as the ‘Soul’ of the Constitution? → <b>The Preamble</b>",
+    "explanation": "The Preamble of the Constitution is called the ‘Soul of the Constitution.’ K.M. Munshi, a member of the drafting committee, defined the Preamble as the “Horoscope of our sovereign democratic Republic.” Subhash Kashyap has mentioned that “If Constitution is the body then Preamble is the Soul, If the Preamble is a foundation then Constitution is a structure or building standing on it. Note: It is notable that Dr. B.R. Ambedkar has recognized ‘The Right to Constitutional Remedies (Article 32) as the heart and soul of the Constitution, so if the question is asked with respect to Dr. Ambedkar then in such case, option (d) will be the correct answer.",
+    "question_id": "q0164",
     "count": 4,
-    "papers": "PCS Pre ’15",
+    "papers": "PCS Mains '15; UDA/LDA Pre '06; GIC '08; PCS Mains '13",
+    "exam": "PCS Mains '15; UDA/LDA Pre '06; GIC '08; PCS Mains '13",
+    "anchor": "c8-t1",
+    "ch": 8,
+    "pages": [
+      67,
+      68
+    ]
+  },
+  {
+    "fact": "In case the post of President of India falls vacant, and there is no Vice-President also, who among the following would be the acting President? → <b>Chief Justice of the Supreme Court</b>",
+    "explanation": "The President (discharge of functions) Act, 1969 of India provides that the Chief Justice of India (CJI) shall act as the President of India in the event of the office of both the President and Vice – President being vacant. In the absence of the CJI, the senior-most Judge of the Supreme Court shall perform the functions of the President.",
+    "question_id": "q0437",
+    "count": 4,
+    "papers": "PCS Pre '15; RO/ARO Pre '14; PCS Mains '05; PCS Pre '92",
+    "exam": "PCS Pre '15; RO/ARO Pre '14; PCS Mains '05; PCS Pre '92",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      169
+    ]
   },
   {
-    "fact": "Wh o among the following is authorised to preside over the joint session of the Parliament? → <b>Speaker of the Lok Sabha</b>",
+    "fact": "Who among the following is authorised to preside over the joint session of the Parliament? → <b>Speaker of the Lok Sabha</b>",
+    "explanation": "Article 118 of the Constitution of India is related to the Rule of Procedure. Under Article 118(4); A Joint session of the two Houses is presided over by the Speaker of the Lok Sabha. During the absence of the Speaker from any joint sitting, it is presided over by the Deputy Speaker of the House or if he is also absent, the Deputy Chairman of the Council of States and if he is also absent, such other person as may be determined by the members present at a sitting, shall preside.",
+    "question_id": "q0644",
     "count": 4,
-    "papers": "PCS Mains ’13",
+    "papers": "PCS Mains '13; Lower Sub Mains '13; RO/ARO Mains '13; PCS Mains '06",
+    "exam": "PCS Mains '13; Lower Sub Mains '13; RO/ARO Mains '13; PCS Mains '06",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      253
+    ]
   },
   {
-    "fact": "The Chairman of the Public Accounts Committee is appointed by the Speaker from amongst its members. Till 1966-67, the Chairman belonged to the ruling party. The committee consists of not more than 22 members, comprising 15 members of Lok Sabha and not more than 7 members of Rajya Sabha. For the first time, the Speaker appointed a member of the opposition as the Chairman of the committee during 1967-68. This practice has been continued since then. A minister is not eligible to be elected a member",
+    "fact": "Who nominates the Chairman of the Public Accounts Committee of Indian Parliament? → <b>The Speaker of Lok Sabha</b>",
+    "explanation": "The Chairman of the Public Accounts Committee is appointed by the Speaker from amongst its members. Till 1966-67, the Chairman belonged to the ruling party. The committee consists of not more than 22 members, comprising 15 members of Lok Sabha and not more than 7 members of Rajya Sabha. For the first time, the Speaker appointed a member of the opposition as the Chairman of the committee during 1967-68. This practice has been continued since then. A minister is not eligible to be elected a member of the committee.",
+    "question_id": "q0697",
     "count": 4,
-    "papers": "PCS Pre ’14",
+    "papers": "PCS Pre '14; Lower Sub Mains '13; UDA/LDA Pre '06; Lower Sub '04",
+    "exam": "PCS Pre '14; Lower Sub Mains '13; UDA/LDA Pre '06; Lower Sub '04",
     "anchor": "c24-t1",
-    "ch": 24
+    "ch": 24,
+    "pages": [
+      273
+    ]
   },
   {
     "fact": "The idea of Concurrent List in the I ndian Constitution has been borrowed from- → <b>Australia</b>",
+    "explanation": "The concurrent list is borrowed from the constitution of Australia. In this list, those items are included on which both the Union and State have the right to make law. It is in the seventh schedule of the Constitution, which originally included 47 items. (now increased to 52 items as Item No: 11A, 17A, 17 B, 20 A, 33A were added through amendments).",
+    "question_id": "q0069",
     "count": 3,
-    "papers": "PCS Mains ’14",
+    "papers": "PCS Mains '14; PCS Mains '11; PCS Mains '12",
+    "exam": "PCS Mains '14; PCS Mains '11; PCS Mains '12",
     "anchor": "c4-t1",
-    "ch": 4
+    "ch": 4,
+    "pages": [
+      34
+    ]
   },
   {
-    "fact": "The word ‘Secular’ was inserted in the Preamble of the Indian Constitution by → <b>42nd Amendment</b>",
+    "fact": "The word ‘Secular’ was inserted in the Preamble of the Indian Constitution by → <b>42ndAmendment</b>",
+    "explanation": "The Preamble to the Indian Constitution adopted on 26 November, 1949 included the words Sovereign, Democratic and Republic. Later, by the 42nd Constitutional Amendment Act, 1976 the preamble was amended to include three new words- Socialist, Secular and Integrity. The words &#x27;Reliable&#x27; and &#x27;Non-religious&#x27; were never a part of the preamble and till now, only the above mentioned three words are added. Therefore, option (b) is the correct answer.",
+    "question_id": "q0158",
     "count": 3,
-    "papers": "PCS Mains ’13",
+    "papers": "PCS Mains '13; PCS Pre '10; PCS Pre '91",
+    "exam": "PCS Mains '13; PCS Pre '10; PCS Pre '91",
     "anchor": "c8-t1",
-    "ch": 8
+    "ch": 8,
+    "pages": [
+      66
+    ]
   },
   {
-    "fact": "The Preamble of the Constitution is called the ‘Soul of the Constitution.’ K.M. Munshi, a member of the drafting committee, defined the Preamble as the “Horoscope of our sovereign democratic Republic.” Subhash Kashyap has mentioned that “If Constitution is the body then Preamble is the Soul, If the Preamble is a foundation then Constitution is a structure or building standing on it. Note: It is notable that Dr. B.R. Ambedkar has recognized ‘The Right to Constitutional Remedies (Article 32) as th",
+    "fact": "Which of the following Article/Articles read with the word ‘Socialist’ used in the Preamble of the Indian Constitution enabled the Supreme Court to deduce a fundamental right to Equal Pay for Equal Work? → <b>Articles 14 and 16</b>",
+    "explanation": "In a landmark case of Randhir Singh Vs. Union of India, the Supreme Court held that &quot;Construing Article 14 and 16 in the light of the preamble and Article 39 (d) we are of the view that the principle &#x27;Equal pay for equal work&#x27; is deducible from those Articles and may be properly applied to cases of unequal scales of pay based on no classification or irrational classification though these drawing the different scales of pay do identical work under the same employer.&quot; Thus correct answer is option (d).",
+    "question_id": "q0274",
     "count": 3,
-    "papers": "PCS Mains ’15",
-    "anchor": "c8-t1",
-    "ch": 8
-  },
-  {
-    "fact": "In a landmark case of Randhir Singh Vs. Union of India, the Supreme Court held that \"Construing Article 14 and 16 in the light of the preamble and Article 39 (d) we are of the view that the principle 'Equal pay for equal work' is deducible from those Articles and may be properly applied to cases of unequal scales of pay based on no classification or irrational classification though these drawing the different scales of pay do identical work under the same employer.\" Thus correct answer is option",
-    "count": 3,
-    "papers": "PCS Pre ’01",
+    "papers": "PCS Pre '01; UDA/LDA Pre '02; PCS Pre '03",
+    "exam": "PCS Pre '01; UDA/LDA Pre '02; PCS Pre '03",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      112
+    ]
   },
   {
-    "fact": "In the Govind vs. the State of M.P. and ANR (1975) and Malak Singh and others. vs. state of Punjab and Haryana and others. (1980), the Supreme Court held that the right to privacy is implicit under Article 21. This right is the right to be let alone. In the context of surveillance, it has been held that surveillance, if intrusive and seriously encroaches on the privacy of citizens, can infringe the freedom of movement guaranteed by Articles 19 (1) (d) and Article 21.",
+    "fact": "Which one of the following rights is available under Article 19(1)(d) read with Article 21 : → <b>Right to privacy</b>",
+    "explanation": "In the Govind vs. the State of M.P. and ANR (1975) and Malak Singh and others. vs. state of Punjab and Haryana and others. (1980), the Supreme Court held that the right to privacy is implicit under Article 21. This right is the right to be let alone. In the context of surveillance, it has been held that surveillance, if intrusive and seriously encroaches on the privacy of citizens, can infringe the freedom of movement guaranteed by Articles 19 (1) (d) and Article 21.",
+    "question_id": "q0288",
     "count": 3,
-    "papers": "PCS Mains ’04",
+    "papers": "PCS Mains '04; PCS Pre '03; UDA/LDA Pre '02",
+    "exam": "PCS Mains '04; PCS Pre '03; UDA/LDA Pre '02",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      117
+    ]
   },
   {
-    "fact": "Dr. Bhimrao Ramji Ambedkar described Article 32 as the Heart and Soul of the Indian Constitution. In his words- “If I were asked to name any particular Article in this Constitution as the most important, an Article without which the Constitution would be a nullity, I could not refer to any other Article except this one (Article 32). It is the very soul of the Constitution and the heart of it.” It is also notable that on various occasions, the Preamble to the Constitution is also recognized as th",
+    "fact": "Which one of the following rights was described by Dr. B.R. Ambedkar as the ‘Heart and Soul of the Constitution’? → <b>Right to Constitutional Remedies</b>",
+    "explanation": "Dr. Bhimrao Ramji Ambedkar described Article 32 as the Heart and Soul of the Indian Constitution. In his words- “If I were asked to name any particular Article in this Constitution as the most important, an Article without which the Constitution would be a nullity, I could not refer to any other Article except this one (Article 32). It is the very soul of the Constitution and the heart of it.” It is also notable that on various occasions, the Preamble to the Constitution is also recognized as the Soul of the Constitution, but according to Dr. Ambedkar, Article 32 is the Heart and Soul of the Constitution.",
+    "question_id": "q0318",
     "count": 3,
-    "papers": "GIC ’10",
+    "papers": "GIC '10; PCS Mains (Spl) '04; UDA/LDA Pre (Spl) '10",
+    "exam": "GIC '10; PCS Mains (Spl) '04; UDA/LDA Pre (Spl) '10",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      125
+    ]
   },
   {
-    "fact": "‘Equal Pay for Equal Work’ has been ensured in the Indian Constitution in Article 39(d), enshrined in Part IV- Directive Principles of State Policy. It says that there should be equal pay for equal work for both men and women. It is noteworthy that the Article 14, Article 16 and Article 39 (d), together with the preamble, enabled the Supreme Court (in the case of Randhir Singh Vs Union of India, 1982) to deduce the right to Equal Pay for Equal Work as a fundamental Right. With respect to Art. 39",
+    "fact": "‘Equal Pay for Equal Work’ has been ensured in the Indian Constitution as one of the: → <b>Directive Principles of State Policy</b>",
+    "explanation": "‘Equal Pay for Equal Work’ has been ensured in the Indian Constitution in Article 39(d), enshrined in Part IV- Directive Principles of State Policy. It says that there should be equal pay for equal work for both men and women. It is noteworthy that the Article 14, Article 16 and Article 39 (d), together with the preamble, enabled the Supreme Court (in the case of Randhir Singh Vs Union of India, 1982) to deduce the right to Equal Pay for Equal Work as a fundamental Right. With respect to Art. 39(d) of the Indian Constitution, the Parliament passed the Equal Remuneration Act, 1976.",
+    "question_id": "q0360",
     "count": 3,
-    "papers": "PCS Pre ’98",
+    "papers": "PCS Pre '98; Lower Sub '04; UDA/LDA Mains '10",
+    "exam": "PCS Pre '98; Lower Sub '04; UDA/LDA Mains '10",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      141,
+      142
+    ]
   },
   {
     "fact": "The quorum of Lok Sabha and Rajya Sabha is – → <b>1/10 of the total membership</b>",
+    "explanation": "Quorum is the minimum number of members required to be present in the House before it can transact any business, as provided by Article 100(3). The quorum to constitute a meeting of either House of Parliament is 1/10th of the total number of members of the House.",
+    "question_id": "q0561",
     "count": 3,
-    "papers": "Lower Sub (Spl) ’08",
+    "papers": "Lower Sub (Spl) '08; PCS Mains '04; PCS Mains '06",
+    "exam": "Lower Sub (Spl) '08; PCS Mains '04; PCS Mains '06",
     "anchor": "c21-t1",
-    "ch": 21
+    "ch": 21,
+    "pages": [
+      219
+    ]
   },
   {
     "fact": "Under which article of the Indian Constitution, the Parliament can make laws on State List subject for giving effect to international agreements? → <b>Article – 253</b>",
+    "explanation": "The Parliament may legislate on any subject of the State List in all of the given situations. According to Article 253, to implement any international agreement, treaty or convention; according to Article 252- for two or more States by their consent; according to Article 249- in the national interest when a resolution has been passed by the Council of States by a 2/3 majority and according to Article 357- when the proclamation of emergency is in operation. Thus option (d) is the correct answer.",
+    "question_id": "q0630",
     "count": 3,
-    "papers": "PCS Pre ’16",
+    "papers": "PCS Pre '16; PCS Mains '16; RO/ARO Pre '21",
+    "exam": "PCS Pre '16; PCS Mains '16; RO/ARO Pre '21",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      249
+    ]
   },
   {
     "fact": "In how many days Rajya Sabha has to return Money Bill to Lok Sabha? → <b>Within 14 days</b>",
+    "explanation": "In the case of a Money Bill, the Council of State shall return the Bill to the House of the People within fourteen days, and the Ordinary Bill has no time limit. Since the options given in the question include fourteen days and the infinite time limit has not been given. Hence, the Finance Bill has been taken as a Money Bill. As all Money Bills are Financial Bills. The Money Bill is introduced in Lok Sabha.",
+    "question_id": "q0669",
     "count": 3,
-    "papers": "Lower Sub ’09",
+    "papers": "Lower Sub '09; Lower Sub Mains '13; RO/ARO Mains '14",
+    "exam": "Lower Sub '09; Lower Sub Mains '13; RO/ARO Mains '14",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      261
+    ]
   },
   {
-    "fact": "Article 131 of the Constitution of India deals with the Original Jurisdiction of the Supreme Court. Article 132 deals with the Appellate Jurisdiction of the Supreme Court in appeals from High Courts in the Following cases - any Judgement, decree or Final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding. While Article 133 deals with the Appellate Jurisdiction of the Supreme Court in appeals from High Courts regarding civil matters. Article 134A dea",
+    "fact": "Which Article of the Constitution of India deals with the Appellate Jurisdiction of the Supreme Court in connection with Constitutional Cases? → <b>Article 132 read with Article 134 A</b>",
+    "explanation": "Article 131 of the Constitution of India deals with the Original Jurisdiction of the Supreme Court. Article 132 deals with the Appellate Jurisdiction of the Supreme Court in appeals from High Courts in the Following cases - any Judgement, decree or Final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding. While Article 133 deals with the Appellate Jurisdiction of the Supreme Court in appeals from High Courts regarding civil matters. Article 134A deals with a certificate for an appeal to the Supreme Court. Thus, during constitutional disputes reading Article 134A together with Article 132 creates appellate jurisdiction of the Supreme Court.",
+    "question_id": "q0754",
     "count": 3,
-    "papers": "PCS Mains ’04",
+    "papers": "PCS Mains '04; UDA/LDA Pre '02; PCS Pre '01",
+    "exam": "PCS Mains '04; UDA/LDA Pre '02; PCS Pre '01",
     "anchor": "c26-t1",
-    "ch": 26
+    "ch": 26,
+    "pages": [
+      306
+    ]
   },
   {
-    "fact": "There was much debate in the Constituent Assembly regarding the subject of the appointment or election of Governor in the States. Krishnamachari, B.G. Kher, J. B. Pant were in favour of election, while B. R. Ambedkar and Jawaharlal Nehru were in favour of nominated Governor. Finally, with a general consensus, the provision of a nominated Governor was accepted and the original proposal for the provision of elected Governor was cancelled as- (1) this would have increased election expenditure. (2)",
+    "fact": "The original plan in the draft Constitution for having elected Governors was dropped because 1. It would have meant another election. 2. The election would have been fought on major political issues. 3. The elected Governor might have considered himself superior to the Chief Minister. 4. The Governor had to function under the Parliamentary System. Select the correct answer from the code given below: Code : → <b>1, 3 and 4</b>",
+    "explanation": "There was much debate in the Constituent Assembly regarding the subject of the appointment or election of Governor in the States. Krishnamachari, B.G. Kher, J. B. Pant were in favour of election, while B. R. Ambedkar and Jawaharlal Nehru were in favour of nominated Governor. Finally, with a general consensus, the provision of a nominated Governor was accepted and the original proposal for the provision of elected Governor was cancelled as- (1) this would have increased election expenditure. (2) Nomination of governor would help avoid a clash of political ambition of the Chief Minister and the Governor as the election would have been fought on major issues, they would have pursued different policies. (3) The Centre would not have effective control over the State otherwise.",
+    "question_id": "q0786",
     "count": 3,
-    "papers": "UDA/LDA Pre ’02",
+    "papers": "UDA/LDA Pre '02; PCS Pre '03; PCS Mains '04",
+    "exam": "UDA/LDA Pre '02; PCS Pre '03; PCS Mains '04",
     "anchor": "c27-t1",
-    "ch": 27
+    "ch": 27,
+    "pages": [
+      320,
+      321
+    ]
   },
   {
-    "fact": "Which one of the following States does not have a bicameral legislature? → <b>M.P.(c) Bihar</b>",
+    "fact": "Which one of the following States does not have a bicameral legislature? → <b>M.P.</b>",
+    "explanation": "In the given options, Tamil Nadu has a unicameral legislative chamber while the other four have a bicameral legislature.",
+    "question_id": "q0821",
     "count": 3,
-    "papers": "Lower Sub ’08",
+    "papers": "Lower Sub '08; PCS Pre '08; PCS Mains '06",
+    "exam": "Lower Sub '08; PCS Pre '08; PCS Mains '06",
     "anchor": "c28-t1",
-    "ch": 28
+    "ch": 28,
+    "pages": [
+      335,
+      336
+    ]
   },
   {
     "fact": "The recommendations of the Sarkaria Commission are related to: → <b>Centre-State relations</b>",
+    "explanation": "To consider the relationship between the Union and State and to give suggestions to strengthen it, a commission was formed under the Chairmanship of Justice R.S. Sarkaria on 9 June, 1983. B. Shivaraman and S.R. Sen were the other two members of this Commission. This Commission submitted its report in January, 1988.",
+    "question_id": "q0879",
     "count": 3,
-    "papers": "PCS Pre ’18",
+    "papers": "PCS Pre '18; RO/ARO Pre '14; PCS Mains '03",
+    "exam": "PCS Pre '18; RO/ARO Pre '14; PCS Mains '03",
     "anchor": "c30-t1",
-    "ch": 30
+    "ch": 30,
+    "pages": [
+      362
+    ]
   },
   {
-    "fact": "The Constitution of India provides for an Election Commission under Article 324 for the superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament, State Legislatures, President and Vice- President.",
+    "fact": "The Constitution of India provides for an Election Commission under Article – → <b>324</b>",
+    "explanation": "The Constitution of India provides for an Election Commission under Article 324 for the superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament, State Legislatures, President and Vice- President.",
+    "question_id": "q0991",
     "count": 3,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; PCS Pre '16; PCS Mains '17",
+    "exam": "PCS Mains '10; PCS Pre '16; PCS Mains '17",
     "anchor": "c36-t1",
-    "ch": 36
+    "ch": 36,
+    "pages": [
+      412
+    ]
   },
   {
-    "fact": "Democracy in India is passing through a period of transition. Casteism and regionalism are still the dominating elements in India. Various political parties are formed by the regional leaders to meet various interests, but this is not the only reason behind having a multi-party system in India. There are other socio-economic reasons that are also affecting the party system in India.",
+    "fact": "Consider the following statements: Assertion (A) : There is no fixed party system in India. Reason (R) : There are too many political parties. Select the correct answer from code given below: Code: → <b>Both (A) and (R) are true, and (R) is the correct explanation of (A).</b>",
+    "explanation": "Democracy in India is passing through a period of transition. Casteism and regionalism are still the dominating elements in India. Various political parties are formed by the regional leaders to meet various interests, but this is not the only reason behind having a multi-party system in India. There are other socio-economic reasons that are also affecting the party system in India.",
+    "question_id": "q1031",
     "count": 3,
-    "papers": "Lower Sub (Spl) ’04",
+    "papers": "Lower Sub (Spl) '04; PCS Mains '04; PCS Pre '00",
+    "exam": "Lower Sub (Spl) '04; PCS Mains '04; PCS Pre '00",
     "anchor": "c37-t1",
-    "ch": 37
+    "ch": 37,
+    "pages": [
+      432
+    ]
   },
   {
-    "fact": "According to Article 350 A, it shall be the endeavour of every State and every local authority within the State to provide adequate facilities for instruction in the mother-tongue at the primary stage of education to children belonging to linguistic minority groups; and the President may issue such directions to any State as he considers necessary or proper for securing the provision of such facilities (7th Amendment Act, 1956).",
+    "fact": "Which Article of the Constitution provides that every state shall endeavour to provide an adequate facility for instruction in mother-tongue at primary stage of education? → <b>Article 350-A</b>",
+    "explanation": "According to Article 350 A, it shall be the endeavour of every State and every local authority within the State to provide adequate facilities for instruction in the mother-tongue at the primary stage of education to children belonging to linguistic minority groups; and the President may issue such directions to any State as he considers necessary or proper for securing the provision of such facilities (7th Amendment Act, 1956).",
+    "question_id": "q1078",
     "count": 3,
-    "papers": "PCS Pre ’03",
+    "papers": "PCS Pre '03; PCS Pre '02; Lower Sub '02",
+    "exam": "PCS Pre '03; PCS Pre '02; Lower Sub '02",
     "anchor": "c39-t1",
-    "ch": 39
+    "ch": 39,
+    "pages": [
+      456
+    ]
   },
   {
-    "fact": "Consider the following Committees on Panchayati Raj and arrange these in chronological order: I. Ashok Mehta Committee II. L.M. Singhvi Committee III. B.R. Mehta Committee IV . G.K.V . Rao Committee Select the correct answer from the codes given below. Codes: → <b>III, I, IV , II</b>",
+    "fact": "Consider the following Committees on Panchayati Raj and arrange these in chronological order: I. Ashok Mehta Committee II. L.M. Singhvi Committee III. B.R. Mehta Committee IV. G.K.V. Rao Committee Select the correct answer from the codes given below. Codes: → <b>III, I, IV, II</b>",
+    "explanation": "• In 1957, the National Development Council constituted a committee headed by Balwant Rai Mehta to look into the working of community development programmes. • The Ashok Mehta Committee was appointed in 1977. • The G.V.K. Rao Committee was appointed in 1985. • The L.M.Singhvi Committee was appointed in 1986. • The C.H. Hanumantha Rao Committee was appointed in 1983.",
+    "question_id": "q1135",
     "count": 3,
-    "papers": "PCS Pre ’21",
+    "papers": "PCS Pre '21; Lower Sub Mains '15; PCS Mains '17",
+    "exam": "PCS Pre '21; Lower Sub Mains '15; PCS Mains '17",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      479
+    ]
   },
   {
-    "fact": "Sir Benegal Narsing Rau (B.N. Rau) was appointed as the constitutional advisor during the formation of the Constitution.",
+    "fact": "Who was the Constitutional Advisor at the time of the formation of the Constitution? → <b>B.N. Rau</b>",
+    "explanation": "Sir Benegal Narsing Rau (B.N. Rau) was appointed as the constitutional advisor during the formation of the Constitution.",
+    "question_id": "q0042",
     "count": 2,
-    "papers": "PCS Pre ’14",
+    "papers": "PCS Pre '14; Lower Sub '98",
+    "exam": "PCS Pre '14; Lower Sub '98",
     "anchor": "c2-t1",
-    "ch": 2
+    "ch": 2,
+    "pages": [
+      25
+    ]
   },
   {
-    "fact": "The Preamble of the Constitution states, “We the People of India enact, adopt and give to ourselves this Constitution on 26 November, 1949”. This date is considered the date of adoption, completion and passing of the Constitution. On the same day, the provisions relating to Citizenship, Interim Parliament and Temporary, Transitional and special provisions came into effect. The rest of the provisions came into effect on 26 January, 1950. Thus 26 January, 1950 is considered as the enforcement date",
+    "fact": "The Constitution of India was completed on: → <b>November 26, 1949</b>",
+    "explanation": "The Preamble of the Constitution states, “We the People of India enact, adopt and give to ourselves this Constitution on 26 November, 1949”. This date is considered the date of adoption, completion and passing of the Constitution. On the same day, the provisions relating to Citizenship, Interim Parliament and Temporary, Transitional and special provisions came into effect. The rest of the provisions came into effect on 26 January, 1950. Thus 26 January, 1950 is considered as the enforcement date of the whole Constitution.",
+    "question_id": "q0044",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; PCS Pre '02",
+    "exam": "PCS Mains '10; PCS Pre '02",
     "anchor": "c2-t1",
-    "ch": 2
+    "ch": 2,
+    "pages": [
+      25
+    ]
   },
   {
     "fact": "The Constitution of India was adopted and enacted on – → <b>26 November, 1949</b>",
+    "explanation": "It is explicitly mentioned in the Preamble itself that the Constitution was adopted and enacted by the Constituent Assembly (at its 11th session) on 26 November, 1949.",
+    "question_id": "q0048",
     "count": 2,
-    "papers": "PCS Mains ’13",
+    "papers": "PCS Mains '13; PCS Mains '15",
+    "exam": "PCS Mains '13; PCS Mains '15",
     "anchor": "c2-t1",
-    "ch": 2
+    "ch": 2,
+    "pages": [
+      27
+    ]
   },
   {
     "fact": "The Chairman of Drafting Committee of Indian Constituent Assembly was: → <b>Dr. B. R. Ambedkar</b>",
+    "explanation": "Sardar Vallabh Bhai Patel was the chairman of the Provincial Constitution Committee of the Constituent Assembly.",
+    "question_id": "q0056",
     "count": 2,
-    "papers": "PCS Pre ’95",
+    "papers": "PCS Pre '95; RO/ARO Mains '14",
+    "exam": "PCS Pre '95; RO/ARO Mains '14",
     "anchor": "c3-t1",
-    "ch": 3
+    "ch": 3,
+    "pages": [
+      29,
+      30
+    ]
   },
   {
-    "fact": "The system of Judicial Review exists in both India and the U.S.A.",
+    "fact": "The system of judicial review exists in → <b>India and U.S.A.</b>",
+    "explanation": "The system of Judicial Review exists in both India and the U.S.A.",
+    "question_id": "q0065",
     "count": 2,
-    "papers": "PCS Mains ’12",
+    "papers": "PCS Mains '12; PCS Pre '08",
+    "exam": "PCS Mains '12; PCS Pre '08",
     "anchor": "c4-t1",
-    "ch": 4
+    "ch": 4,
+    "pages": [
+      33
+    ]
   },
   {
-    "fact": "Fundamental Rights have been incorporated in Part III, Article-12-35 of the Indian Constitution. This Provision has been borrowed from the Constitution of the United States of America. It includes- Right to Equality (Art. 14-18), Right to Freedom (Art.19-22), Right against Exploitation (Art.23- 24), Right to Freedom of Religion (Art. 25-28), Culture and Educational Rights (Art. 29-30), Right to Constitutional Remedies (Art. 32). The Post of Vice – President and Independence of Judiciary has also",
+    "fact": "The concept of Fundamental Rights, as incorporated in the Indian Constitution has been adopted from- → <b>United States of America</b>",
+    "explanation": "Fundamental Rights have been incorporated in Part III, Article-12-35 of the Indian Constitution. This Provision has been borrowed from the Constitution of the United States of America. It includes- Right to Equality (Art. 14-18), Right to Freedom (Art.19-22), Right against Exploitation (Art.23- 24), Right to Freedom of Religion (Art. 25-28), Culture and Educational Rights (Art. 29-30), Right to Constitutional Remedies (Art. 32). The Post of Vice – President and Independence of Judiciary has also been taken from the Constitution of United States of America.",
+    "question_id": "q0079",
     "count": 2,
-    "papers": "RO/ARO Pre ’14",
+    "papers": "RO/ARO Pre '14; UDA/LDA Pre '06",
+    "exam": "RO/ARO Pre '14; UDA/LDA Pre '06",
     "anchor": "c4-t1",
-    "ch": 4
+    "ch": 4,
+    "pages": [
+      36
+    ]
   },
   {
-    "fact": "Originally, there were 22 Parts, 395 Articles and 8 Schedules in the Constitution of India.",
+    "fact": "The Indian Constitution is divided into – → <b>22 Parts</b>",
+    "explanation": "Originally, there were 22 Parts, 395 Articles and 8 Schedules in the Constitution of India.",
+    "question_id": "q0082",
     "count": 2,
-    "papers": "PCS Mains ’12",
+    "papers": "PCS Mains '12; PCS Mains (Spl) '08",
+    "exam": "PCS Mains '12; PCS Mains (Spl) '08",
     "anchor": "c5-t1",
-    "ch": 5
+    "ch": 5,
+    "pages": [
+      38
+    ]
   },
   {
-    "fact": "The correctly matched pairs under the Constitution of India are as follows : The Panchayats - Part IX The Municipalities - Part IX-A The Co-operative Society - Part IX-B Tribunals - Part XIV-A Thus, option (d) is not correctly matched as Part X is related to the Scheduled and Tribal Areas.",
+    "fact": "Which of the following is not correctly matched under the Constitution of India? → <b>Tribunals - Part X</b>",
+    "explanation": "The correctly matched pairs under the Constitution of India are as follows : The Panchayats - Part IX The Municipalities - Part IX-A The Co-operative Society - Part IX-B Tribunals - Part XIV-A Thus, option (d) is not correctly matched as Part X is related to the Scheduled and Tribal Areas.",
+    "question_id": "q0093",
     "count": 2,
-    "papers": "RO/ARO Pre ’16",
+    "papers": "RO/ARO Pre '16; RO/ARO Pre '16",
+    "exam": "RO/ARO Pre '16; RO/ARO Pre '16",
     "anchor": "c5-t1",
-    "ch": 5
+    "ch": 5,
+    "pages": [
+      40
+    ]
   },
   {
     "fact": "Which part of the Constitution has the provisions for Panchayati Raj System? → <b>IX</b>",
+    "explanation": "The correctly matched pairs under the Constitution of India are as follows : The Panchayats - Part IX The Municipalities - Part IX-A The Co-operative Society - Part IX-B Tribunals - Part XIV-A Thus, option (d) is not correctly matched as Part X is related to the Scheduled and Tribal Areas.",
+    "question_id": "q0094",
     "count": 2,
-    "papers": "PCS Pre ’16",
+    "papers": "PCS Pre '16; PCS Pre '20",
+    "exam": "PCS Pre '16; PCS Pre '20",
     "anchor": "c5-t1",
-    "ch": 5
+    "ch": 5,
+    "pages": [
+      40
+    ]
   },
   {
-    "fact": "Article 312 of the Indian Constitution provides for “All India Services.” If the Council of States had declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest for the creation of one or more “All India services,” Parliament may by law provide for one or more All India Services.",
+    "fact": "Which one of the following articles of the Indian Constitution provides for All-Indian Services? → <b>Article 312</b>",
+    "explanation": "Article 312 of the Indian Constitution provides for “All India Services.” If the Council of States had declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest for the creation of one or more “All India services,” Parliament may by law provide for one or more All India Services.",
+    "question_id": "q0101",
     "count": 2,
-    "papers": "PCS Pre ’14",
+    "papers": "RI '14; PCS Mains '12",
+    "exam": "RI '14; PCS Mains '12",
     "anchor": "c6-t1",
-    "ch": 6
+    "ch": 6,
+    "pages": [
+      45
+    ]
   },
   {
-    "fact": "Article 54 is related to the Election of the President; Article 75 is related to the appointment of Prime Minister and the other ministers shall be appointed by the President on the advice of the Prime Minister; Article 155 is related to the appointment of the Governor and Article 164 is related to the appointment of Chief Ministers of the States and the other ministers shall be appointed by the governor on the advice of the Chief Minister. Article 170 contains provisions for the composition of",
+    "fact": "Match List-I with List-II and select the correct answer using the code given below the lists: List-I (Article of the Constitution) A. Article 54 B. Article 75 C. Article 155 D. Article 164 List-II (Content) 1. Election of the President of India 2. Appointment of the Prime Minister and cabinet 3. Appointment of the Governor of State 4. Appointment of the Chief Minister and Council of Ministers of a State 5. Composition of Legislative Assemblies Code : A B C D → <b>1 2 3 4</b>",
+    "explanation": "Article 54 is related to the Election of the President; Article 75 is related to the appointment of Prime Minister and the other ministers shall be appointed by the President on the advice of the Prime Minister; Article 155 is related to the appointment of the Governor and Article 164 is related to the appointment of Chief Ministers of the States and the other ministers shall be appointed by the governor on the advice of the Chief Minister. Article 170 contains provisions for the composition of the State Legislative Assemblies.",
+    "question_id": "q0105",
     "count": 2,
-    "papers": "PCS Mains ’05",
+    "papers": "PCS Mains '05; Lower Sub '02",
+    "exam": "PCS Mains '05; Lower Sub '02",
     "anchor": "c6-t1",
-    "ch": 6
+    "ch": 6,
+    "pages": [
+      46
+    ]
   },
   {
-    "fact": "The proclamation of Emergency is provided in the Article 352, so option (d) is correctly matched. While Article 17 is related to the Abolition of untouchability; Article 78 is related to the duties of Prime Minister regarding furnishing information to the President and Article 192 is related to the decision on the questions of disqualification of members of the House of the Legislature of a State.",
+    "fact": "Which one of the following is matched correctly- → <b>Article 352 - Proclamation of Emergency</b>",
+    "explanation": "The proclamation of Emergency is provided in the Article 352, so option (d) is correctly matched. While Article 17 is related to the Abolition of untouchability; Article 78 is related to the duties of Prime Minister regarding furnishing information to the President and Article 192 is related to the decision on the questions of disqualification of members of the House of the Legislature of a State.",
+    "question_id": "q0113",
     "count": 2,
-    "papers": "Lower Sub ’02",
+    "papers": "Lower Sub '02; Lower Sub (Spl) '02",
+    "exam": "Lower Sub '02; Lower Sub (Spl) '02",
     "anchor": "c6-t1",
-    "ch": 6
+    "ch": 6,
+    "pages": [
+      49
+    ]
   },
   {
-    "fact": "Match List-I with List-II and select the correct answer from the codes given below. List-I List-II A. 7 th Schedule 1. Languages B. 8 th Schedule 2. Disqualification on the ground of defection C. 9 th Schedule 3. Union, State and Concurrent lists D. 10 th Schedule 4. Validation of certain Acts Codes : A B C D → <b>3 1 4 2</b>",
+    "fact": "Match List-I with List-II and select the correct answer from the codes given below. List-I List-II A. 7th Schedule 1. Languages B. 8th Schedule 2. Disqualification on the ground of defection C. 9th Schedule 3. Union, State and Concurrent lists D. 10th Schedule 4. Validation of certain Acts Codes : A B C D → <b>3 1 4 2</b>",
+    "explanation": "The match of List-I and List-II is as follows : List-I List-II 7th Schedule - Distribution of Legislative Powers (Union, State and Concurrent list) 8th Schedule - Languages 9th Schedule - Validation of certain Acts 10th Schedule - Disqualification on the ground of defection",
+    "question_id": "q0123",
     "count": 2,
-    "papers": "RO/ARO Pre ’16",
+    "papers": "RO/ARO Pre '16; PCS Pre '25",
+    "exam": "RO/ARO Pre '16; PCS Pre '25",
     "anchor": "c7-t1",
-    "ch": 7
+    "ch": 7,
+    "pages": [
+      53
+    ]
   },
   {
     "fact": "Education which was initially a state subject was transferred to the Concurrent List by the → <b>42th Amendment</b>",
+    "explanation": "Currently there are 52 Subjects defined and enlisted under List - III of the 7th Schedule of the Constitution of India, which form the joint domain of both the State Governments and the Union Territories of India as well as the Central Government of India. Initially, Education was the subject of State List (Entry no.-11), but under the 42nd Amendment of the Constitution, 1976 Education became a concurrent list subject which enables both Central and State Governments to legislate on the subject matter of Education.",
+    "question_id": "q0132",
     "count": 2,
-    "papers": "Lower Sub ’08",
+    "papers": "Lower Sub '08; PCS Mains '17",
+    "exam": "Lower Sub '08; PCS Mains '17",
     "anchor": "c7-t1",
-    "ch": 7
+    "ch": 7,
+    "pages": [
+      56
+    ]
   },
   {
-    "fact": "Criminal Procedure is the subject of the Concurrent List in the 7th Schedule while Public Order, Prisons and Police are in the State List.",
+    "fact": "Which one of the following subject is in List-III Concurrent List of the Seventh Schedule of the Constitution of India? → <b>Criminal Procedure</b>",
+    "explanation": "Criminal Procedure is the subject of the Concurrent List in the 7th Schedule while Public Order, Prisons and Police are in the State List.",
+    "question_id": "q0139",
     "count": 2,
-    "papers": "PCS Mains ’06",
+    "papers": "PCS Mains '06; PCS Mains '11",
+    "exam": "PCS Mains '06; PCS Mains '11",
     "anchor": "c7-t1",
-    "ch": 7
+    "ch": 7,
+    "pages": [
+      58
+    ]
   },
   {
-    "fact": "The Eleventh Schedule was added in the Constitution of India by the 73 rd Constitutional Amendment 1992. It contains a total of 29 subjects.",
+    "fact": "The Eleventh Schedule of the Constitution is related to which of the following? → <b>Panchayati Raj</b>",
+    "explanation": "The Eleventh Schedule was added in the Constitution of India by the 73rd Constitutional Amendment 1992. It contains a total of 29 subjects.",
+    "question_id": "q0146",
     "count": 2,
-    "papers": "PCS Pre ’14",
+    "papers": "RI '14; PCS Pre '15",
+    "exam": "RI '14; PCS Pre '15",
     "anchor": "c7-t1",
-    "ch": 7
+    "ch": 7,
+    "pages": [
+      61
+    ]
   },
   {
-    "fact": "The Constitution of India came into force on 26 th January 1950. The exact Constitutional status on 26-1-1950 was ‘A SOVEREIGN DEMOCRATIC REPUBLIC.’ The words socialist, secular and integrity were added by the 42nd Amendment Act, 1976.",
+    "fact": "What was the exact Constitutional Status of the Indian Republic on 26-1-1950 when the Constitution came into force? → <b>A Sovereign Democratic Republic</b>",
+    "explanation": "The Constitution of India came into force on 26th January 1950. The exact Constitutional status on 26-1-1950 was ‘A SOVEREIGN DEMOCRATIC REPUBLIC.’ The words socialist, secular and integrity were added by the 42nd Amendment Act, 1976.",
+    "question_id": "q0148",
     "count": 2,
-    "papers": "PCS Mains ’09",
+    "papers": "PCS Mains '09; Lower Sub (Spl) '08",
+    "exam": "PCS Mains '09; Lower Sub (Spl) '08",
     "anchor": "c8-t1",
-    "ch": 8
+    "ch": 8,
+    "pages": [
+      62
+    ]
   },
   {
-    "fact": "The words 'Secular' and 'Socialist' were added to the Preamble of the Indian Constitution by the → <b>42 nd Amendment</b>",
+    "fact": "The words &#x27;Secular&#x27; and &#x27;Socialist&#x27; were added to the Preamble of the Indian Constitution by the → <b>42nd Amendment</b>",
+    "explanation": "The preamble has been amended by the 42nd Constitutional Amendment Act (1976), which added three new words : socialist, secular and integrity.",
+    "question_id": "q0152",
     "count": 2,
-    "papers": "PCS Mains ’17",
+    "papers": "PCS Mains '17; PCS Mains (Spl) '08",
+    "exam": "PCS Mains '17; PCS Mains (Spl) '08",
     "anchor": "c8-t1",
-    "ch": 8
+    "ch": 8,
+    "pages": [
+      64
+    ]
   },
   {
-    "fact": "The main objective of the Constitution is to secure justice- social, economic and political, liberty of thought, expression, belief, faith and worship, equality of status and opportunity, to all its citizens. The advancement of the people should not be a barrier to the advancement of the nation, so the promotion of fraternity is also aimed at in the Constitution. The ideals and objectives outlined by the Preamble are included in the chapters related to Fundamental Rights, Directive Principles an",
+    "fact": "The ideals and objectives outlined in the Preamble of the Indian Constitution have been further elaborated in – → <b>The Chapter on Directive Principles of State Policy, Fundamental Rights, and Fundamental Duties</b>",
+    "explanation": "The main objective of the Constitution is to secure justicesocial, economic and political, liberty of thought, expression, belief, faith and worship, equality of status and opportunity, to all its citizens. The advancement of the people should not be a barrier to the advancement of the nation, so the promotion of fraternity is also aimed at in the Constitution. The ideals and objectives outlined by the Preamble are included in the chapters related to Fundamental Rights, Directive Principles and Fundamental Duties.",
+    "question_id": "q0168",
     "count": 2,
-    "papers": "UDA/LDA Pre ’02",
+    "papers": "UDA/LDA Pre '02; PCS Mains '04",
+    "exam": "UDA/LDA Pre '02; PCS Mains '04",
     "anchor": "c8-t1",
-    "ch": 8
+    "ch": 8,
+    "pages": [
+      68
+    ]
   },
   {
-    "fact": "The cardinal feature of the political system in India is that it is a democratic republic, where the supreme power is vested in the People of India. India has a Parliamentary form of Government. However, it does not provide for a unified authority but makes a Separation of powers between the Union and the States.",
+    "fact": "The cardinal features of political system in India are – 1. It is a democratic republic. 2. It has a Parliamentary form of government. 3. The supreme power vests in People of India. 4. It provides for a unified authority. Select the correct answer from the code given below : Code : → <b>1, 2 and 3</b>",
+    "explanation": "The cardinal feature of the political system in India is that it is a democratic republic, where the supreme power is vested in the People of India. India has a Parliamentary form of Government. However, it does not provide for a unified authority but makes a Separation of powers between the Union and the States.",
+    "question_id": "q0183",
     "count": 2,
-    "papers": "Lower Sub ’08",
+    "papers": "Lower Sub '08; PCS Pre '09",
+    "exam": "Lower Sub '08; PCS Pre '09",
     "anchor": "c9-t1",
-    "ch": 9
+    "ch": 9,
+    "pages": [
+      75
+    ]
   },
   {
     "fact": "Who said : “India is a quasi-federal state”? → <b>K.C. Wheare</b>",
+    "explanation": "Constitutional scholar Prof. K. C. Wheare, in his book Federal Government, described the Indian System as “a quasi-federal state – a unitary state with subsidiary federal features.” Hence, he is cited as the originator of the concept of “Quasifederalism.” “Quasi-federal” implies a constitution containing both federal and unitary features, but with comparatively greater powers vested in the Centre.",
+    "question_id": "q0205",
     "count": 2,
-    "papers": "GIC ’10",
+    "papers": "GIC '10; PCS Pre '19",
+    "exam": "GIC '10; PCS Pre '19",
     "anchor": "c9-t1",
-    "ch": 9
+    "ch": 9,
+    "pages": [
+      83
+    ]
   },
   {
     "fact": "Who among the following has the executive power to admit a State in the Union or establish new States ? → <b>Parliament</b>",
+    "explanation": "Article 2 of the Indian Constitution provides that the Parliament may, by law, admit into the Union or establish new States. According to Article 3 of the Indian Constitution, the Parliament may form a new State by separating two States or by uniting States. The Parliament can increase and diminish the area of any State or can alter the boundary and name of the State.",
+    "question_id": "q0220",
     "count": 2,
-    "papers": "RO/ARO Mains ’14",
+    "papers": "RO/ARO Mains '14; PCS Mains '13",
+    "exam": "RO/ARO Mains '14; PCS Mains '13",
     "anchor": "c11-t1",
-    "ch": 11
+    "ch": 11,
+    "pages": [
+      91
+    ]
   },
   {
-    "fact": "Sikkim became a part of the Indian Republic on 16 May, 1975. The formation year of Arunachal Pradesh is 1987. Chhattisgarh (carved out of Madhya Pradesh) was formed on 1 November, 2000, whereas Jharkhand was formed on 15 November, 2000 by carving out the southern part of Bihar.",
+    "fact": "Which one of the following is the correct chronological order of the formation of the following Indian States? Use the code given below to select the correct answer: 1. Chhattisgarh 2. Arunachal Pradesh 3. Jharkhand 4. Sikkim Code : → <b>4, 2, 1, 3</b>",
+    "explanation": "Sikkim became a part of the Indian Republic on 16 May, 1975. The formation year of Arunachal Pradesh is 1987. Chhattisgarh (carved out of Madhya Pradesh) was formed on 1 November, 2000, whereas Jharkhand was formed on 15 November, 2000 by carving out the southern part of Bihar.",
+    "question_id": "q0239",
     "count": 2,
-    "papers": "PCS Pre ’09",
+    "papers": "PCS Pre '09; PCS Mains '06",
+    "exam": "PCS Pre '09; PCS Mains '06",
     "anchor": "c11-t1",
-    "ch": 11
+    "ch": 11,
+    "pages": [
+      97
+    ]
   },
   {
-    "fact": "The formation years of the given States are as follows : State Formation Year Nagaland - 1963 Haryana - 1966 Meghalaya - 1972 Sikkim - 1975 Thus, the correct option is (c).",
+    "fact": "The following States were created after 1960. Arrange them in ascending chronological order of their formation: 1. Haryana 2. Sikkim 3. Nagaland 4. Meghalaya Choose your answer from the given code: Code : → <b>3, 1, 4, 2</b>",
+    "explanation": "The formation years of the given States are as follows : State Formation Year Nagaland - 1963 Haryana - 1966 Meghalaya - 1972 Sikkim - 1975 Thus, the correct option is (c).",
+    "question_id": "q0241",
     "count": 2,
-    "papers": "PCS Pre ’10",
+    "papers": "PCS Pre '10; PCS Mains (Spl) '08",
+    "exam": "PCS Pre '10; PCS Mains (Spl) '08",
     "anchor": "c11-t1",
-    "ch": 11
+    "ch": 11,
+    "pages": [
+      98
+    ]
   },
   {
-    "fact": "In the Indian Constitution, the right to equality is granted under five Articles from Articles-14 to 18, as follows- Article 14- Equality before the law 15- Prohibition of discrimination on the grounds only of religion, race, caste, sex or place of birth. 16- Equality of opportunity in matters of public employment. 17- Abolition of untouchability 18- Abolition of titles.",
+    "fact": "In the Indian Constitution, the right to equality is granted by five Articles, They are: → <b>Article 14 to Article 18</b>",
+    "explanation": "In the Indian Constitution, the right to equality is granted under five Articles from Articles-14 to 18, as followsArticle 14- Equality before the law 15- Prohibition of discrimination on the grounds only of religion, race, caste, sex or place of birth. 16- Equality of opportunity in matters of public employment. 17- Abolition of untouchability 18- Abolition of titles.",
+    "question_id": "q0264",
     "count": 2,
-    "papers": "Lower Sub ’15",
+    "papers": "Lower Sub '15; RO/ARO Pre '14",
+    "exam": "Lower Sub '15; RO/ARO Pre '14",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      108
+    ]
   },
   {
     "fact": "Which Article of the Indian Constitution eradicates untouchability and prohibits its practice in any form? → <b>Article 17</b>",
+    "explanation": "Article 17 abolishes untouchability and declares that its practice in any form is forbidden and that the enforcement of any disability arising out of untouchability shall be an offence and punishable by law.",
+    "question_id": "q0276",
     "count": 2,
-    "papers": "PCS Mains ’15",
+    "papers": "PCS Mains '15; PCS Mains '13",
+    "exam": "PCS Mains '15; PCS Mains '13",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      112
+    ]
   },
   {
-    "fact": "Article 24 of the Constitution is related to the Right against exploitation of the children. This Article prohibits the employment of children under the age of 14 years in any factory, mines or engagement in any other hazardous employment.",
+    "fact": "Which provision of the fundamental rights is directly related to the exploitation of children? → <b>Art. 24</b>",
+    "explanation": "Article 24 of the Constitution is related to the Right against exploitation of the children. This Article prohibits the employment of children under the age of 14 years in any factory, mines or engagement in any other hazardous employment.",
+    "question_id": "q0294",
     "count": 2,
-    "papers": "PCS Mains ’09",
+    "papers": "PCS Mains '09; PCS Pre '05",
+    "exam": "PCS Mains '09; PCS Pre '05",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      119
+    ]
   },
   {
     "fact": "Which Article under the fundamental rights is directly related to the exploitation of children? → <b>Article-24</b>",
+    "explanation": "Prohibition against torture is not part of the Article 20 of the Constitution of India. Protection from torture is a fundamental right enshrined under Article 21 of the Indian Constitution. Article 20 of the Indian Constitution provides protection in respect of conviction for offences : (1) No person shall be convicted of any offence except for violation of the law in force at the time of the commission of the act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence. (2) No person shall be prosecuted and punished for the same offence more than once. (3) No person accused of any offence shall be compelled to be a witness against himself.",
+    "question_id": "q0296",
     "count": 2,
-    "papers": "PCS Mains ’12",
+    "papers": "PCS Mains '12; UDA/LDA Pre (Spl) '10",
+    "exam": "PCS Mains '12; UDA/LDA Pre (Spl) '10",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      120
+    ]
   },
   {
     "fact": "Which one of the following Articles of the Constitution deals with the fundamental rights related to the exploitation of children? → <b>24</b>",
+    "explanation": "Prohibition against torture is not part of the Article 20 of the Constitution of India. Protection from torture is a fundamental right enshrined under Article 21 of the Indian Constitution. Article 20 of the Indian Constitution provides protection in respect of conviction for offences : (1) No person shall be convicted of any offence except for violation of the law in force at the time of the commission of the act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence. (2) No person shall be prosecuted and punished for the same offence more than once. (3) No person accused of any offence shall be compelled to be a witness against himself.",
+    "question_id": "q0297",
     "count": 2,
-    "papers": "PCS Mains ’11",
+    "papers": "PCS Mains '11; PCS Pre '18",
+    "exam": "PCS Mains '11; PCS Pre '18",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      120
+    ]
   },
   {
     "fact": "Under the Indian Constitution who is the guardian of the fundamental rights? → <b>Supreme Court</b>",
+    "explanation": "The Constitution of India has assigned Judiciary, i.e. the Supreme Court of India and the High Courts, the responsibility of protecting of fundamental rights. The most significant of fundamental rights is the exclusive right to the constitutional remedies under Art. 32 (High Courts&#x27; jurisdiction under Article 226 of the Constitution of India). Thus, the Guardian of fundamental rights is the Judiciary.",
+    "question_id": "q0313",
     "count": 2,
-    "papers": "PCS Pre ’92",
+    "papers": "PCS Pre '92; Lower Sub '04",
+    "exam": "PCS Pre '92; Lower Sub '04",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      124
+    ]
   },
   {
     "fact": "Under the Indian Constitution who amongst the following is considered to be the guardian of the fundamental rights? → <b>Judiciary</b>",
+    "explanation": "The Constitution of India has assigned Judiciary, i.e. the Supreme Court of India and the High Courts, the responsibility of protecting of fundamental rights. The most significant of fundamental rights is the exclusive right to the constitutional remedies under Art. 32 (High Courts&#x27; jurisdiction under Article 226 of the Constitution of India). Thus, the Guardian of fundamental rights is the Judiciary.",
+    "question_id": "q0314",
     "count": 2,
-    "papers": "PCS Mains ’12",
+    "papers": "PCS Mains '12; PCS Mains '15",
+    "exam": "PCS Mains '12; PCS Mains '15",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      124
+    ]
   },
   {
-    "fact": "The right to property has been abolished by the 44 th Constitutional Amendment. Now, it is a legal right.",
+    "fact": "By which amendment the Right to Property was abolished? → <b>44th</b>",
+    "explanation": "The right to property has been abolished by the 44th Constitutional Amendment. Now, it is a legal right.",
+    "question_id": "q0338",
     "count": 2,
-    "papers": "PCS Mains ’13",
+    "papers": "PCS Mains '13; Lower Sub '13",
+    "exam": "PCS Mains '13; Lower Sub '13",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      131,
+      132
+    ]
   },
   {
-    "fact": "The 44 th amendment to the Constitution of India removed the following right from the category of Fundamental Rights: → <b>Property</b>",
+    "fact": "The 44th amendment to the Constitution of India removed the following right from the category of Fundamental Rights: → <b>Property</b>",
+    "explanation": "The right to property has been abolished by the 44th Constitutional Amendment. Now, it is a legal right.",
+    "question_id": "q0339",
     "count": 2,
-    "papers": "PCS Mains ’14",
+    "papers": "PCS Mains '14; PCS Pre '07",
+    "exam": "PCS Mains '14; PCS Pre '07",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      132
+    ]
   },
   {
     "fact": "The ‘Right to Property’ was deleted from the list of fundamental rights guaranteed to the citizens of India by– → <b>Forty-fourth Amendment</b>",
+    "explanation": "The right to property has been abolished by the 44th Constitutional Amendment. Now, it is a legal right.",
+    "question_id": "q0340",
     "count": 2,
-    "papers": "Lower Sub (Spl) ’04",
+    "papers": "Lower Sub (Spl) '04; PCS Mains (Spl) '04",
+    "exam": "Lower Sub (Spl) '04; PCS Mains (Spl) '04",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      132
+    ]
   },
   {
     "fact": "Which one of the following is not a fundamental right? → <b>Right to Property</b>",
+    "explanation": "The right to property has been abolished by the 44th Constitutional Amendment. Now, it is a legal right.",
+    "question_id": "q0341",
     "count": 2,
-    "papers": "PCS Pre ’90",
+    "papers": "PCS Pre '90; Lower Sub '13",
+    "exam": "PCS Pre '90; Lower Sub '13",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      132
+    ]
   },
   {
-    "fact": "Under the Constitution, there are various fundamental rights that have been given to both citizens and non- citizens equally. These rights are (1) Equality Before Law (Art.14), (2) Protection in respect of conviction for offence (Art.20), (3) Protection of Life and Liberty (Art.21), (4) Right to Education (Art.21-A), (5) Right Against Exploitation (Art.23,24), (6) Right to Freedom of Religion (Art. 25,26,27 and 28). Whereas, the provision related to Article19(1)(a) (Freedom of speech and express",
+    "fact": "Which of the following fundamental rights is not available to foreign citizens? → <b>Right to Freedom of Expression</b>",
+    "explanation": "Under the Constitution, there are various fundamental rights that have been given to both citizens and noncitizens equally. These rights are (1) Equality Before Law (Art.14), (2) Protection in respect of conviction for offence (Art.20), (3) Protection of Life and Liberty (Art.21), (4) Right to Education (Art.21-A), (5) Right Against Exploitation (Art.23,24), (6) Right to Freedom of Religion (Art. 25,26,27 and 28). Whereas, the provision related to Article19(1)(a) (Freedom of speech and expression) is available only to citizens of India.",
+    "question_id": "q0343",
     "count": 2,
-    "papers": "PCS Pre ’07",
+    "papers": "PCS Pre '07; PCS Pre '15",
+    "exam": "PCS Pre '07; PCS Pre '15",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      133
+    ]
   },
   {
-    "fact": "Article 23(1) of the Constitution prohibits the traffic in human beings and forced labour. Any contravention of this provision shall be an offence punishable in accordance with law. The Bonded Labour System (Abolition) Ordinance, 1975 was promulgated by the President on 25 October, 1975. To replace the said Ordinance, the Bonded Labour System (Abolition) Bill, 1976 was introduced in the Parliament. The Bonded Labour System (Abolition) Bill, 1976 was passed by both the Houses of Parliament, and i",
+    "fact": "Bonded Labour was abolished in India, by an Act of Parliament enacted in the year – → <b>1976</b>",
+    "explanation": "Article 23(1) of the Constitution prohibits the traffic in human beings and forced labour. Any contravention of this provision shall be an offence punishable in accordance with law. The Bonded Labour System (Abolition) Ordinance, 1975 was promulgated by the President on 25October, 1975. To replace the said Ordinance, the Bonded Labour System (Abolition) Bill, 1976 was introduced in the Parliament. The Bonded Labour System (Abolition) Bill, 1976 was passed by both the Houses of Parliament, and it became an Act in 1976.",
+    "question_id": "q0346",
     "count": 2,
-    "papers": "UDA/LDA Pre ’10",
+    "papers": "UDA/LDA Pre '10; UDA/LDA Pre '01",
+    "exam": "UDA/LDA Pre '10; UDA/LDA Pre '01",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      135
+    ]
   },
   {
-    "fact": "Indian Constitution under Article 24 says that no child under the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment. United Nations Charter has proclaimed that childhood is entitled to special assistance for the full and harmonious development of a child and his or her personality should grow up in a healthy environment. On December 10, 1996, in the case of M.C. Mehta Vs. State of Tamil Nadu, the Supreme Court held that the employ",
+    "fact": "The child labour was prohibited in hazardous employment by– → <b>All of the above</b>",
+    "explanation": "Indian Constitution under Article 24 says that no child under the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment. United Nations Charter has proclaimed that childhood is entitled to special assistance for the full and harmonious development of a child and his or her personality should grow up in a healthy environment. On December 10, 1996, in the case of M.C. Mehta Vs. State of Tamil Nadu, the Supreme Court held that the employment of children below the age of 14 years into hazardous child labour is unconstitutional and hence prohibited it.",
+    "question_id": "q0347",
     "count": 2,
-    "papers": "Lower Sub (Spl) ’03",
+    "papers": "Lower Sub (Spl) '03; Lower Sub '02",
+    "exam": "Lower Sub (Spl) '03; Lower Sub '02",
     "anchor": "c13-t1",
-    "ch": 13
+    "ch": 13,
+    "pages": [
+      135
+    ]
   },
   {
-    "fact": "Articles 36 to 51 of the Constitution of India contain the Directive Principles of State Policy. The aim of the Constitution makers was to establish a secular and democratic state to ensure socio-economic justice.",
+    "fact": "Which one of the following is not the objective of the Directive Principles of State Policy? → <b>To establish a Religious State</b>",
+    "explanation": "Articles 36 to 51 of the Constitution of India contain the Directive Principles of State Policy. The aim of the Constitution makers was to establish a secular and democratic state to ensure socio-economic justice.",
+    "question_id": "q0349",
     "count": 2,
-    "papers": "RO/ARO Mains ’13",
+    "papers": "RO/ARO Mains '13; PCS Mains '17",
+    "exam": "RO/ARO Mains '13; PCS Mains '17",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      138
+    ]
   },
   {
     "fact": "Which part of Constitution of India describes the model of Welfare State? → <b>Directive Principles of State Policy</b>",
+    "explanation": "The concept of a welfare State is included in the Constitution of India in Part IV, i.e. Directive Principles of State Policy, as described in Article 36 to Article 51 of the Constitution.",
+    "question_id": "q0353",
     "count": 2,
-    "papers": "Lower Sub Mains ’13",
+    "papers": "Lower Sub Mains '13; PCS Mains '04",
+    "exam": "Lower Sub Mains '13; PCS Mains '04",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      140
+    ]
   },
   {
     "fact": "The Indian Constitution borrowed the Directive Principles of the State Policy from the Constitution of which of the following countries? → <b>Ireland</b>",
+    "explanation": "The framers of the Constitution were influenced by the Irish Constitution to add the provisions of Directive Principles of State Policy in the Indian Constitution.",
+    "question_id": "q0357",
     "count": 2,
-    "papers": "PCS Mains ’05",
+    "papers": "PCS Mains '05; PCS Pre '94",
+    "exam": "PCS Mains '05; PCS Pre '94",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      141
+    ]
   },
   {
     "fact": "Which one of the following Articles directs State Government to organize Village Panchayats? → <b>Article 40</b>",
+    "explanation": "Article 40- &quot;to organise village Panchayats and endow them with necessary powers and authority, to enable them to function as units of self - government. Article 33- Under Rights to Constitutional Remedies (Fundamental Rights), Power of Parliament to modify the rights conferred by this part in their application of forces, etc. Article 48- To prohibit the slaughter of cows, calves and other milch and draught cattle and to improve their breeds. Article 50- Separation of the Judiciary from the Executive.",
+    "question_id": "q0363",
     "count": 2,
-    "papers": "GIC ’17",
+    "papers": "GIC '17; PCS Pre '14",
+    "exam": "GIC '17; PCS Pre '14",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      142
+    ]
   },
   {
-    "fact": "The matched Articles are as follows: Article 40: Organisation of Village Panchayats Article 41: Right to Work, education and public assistance in certain cases. Article 44: Uniform Civil Code for all citizens Article 48: Organisation of Agriculture and Animal Husbandry.",
+    "fact": "Match List- I with List- II and select the correct answer using the code given below: List- I List -II (Articles of the (Subject matter) Constitution) A. Art. 40 1. Organization of Village Panchayat B. Art. 41 2. Right to Work C. Art. 44 3. Uniform Civil Code D. Art. 48 4. Organisation of Agriculture and Animal Husbandry Code: A B C D → <b>1 2 3 4</b>",
+    "explanation": "The matched Articles are as follows: Article 40: Organisation of Village Panchayats Article 41: Right to Work, education and public assistance in certain cases. Article 44: Uniform Civil Code for all citizens Article 48: Organisation of Agriculture and Animal Husbandry.",
+    "question_id": "q0364",
     "count": 2,
-    "papers": "PCS Pre ’01",
+    "papers": "PCS Pre '01; UDA/LDA Pre '02",
+    "exam": "PCS Pre '01; UDA/LDA Pre '02",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      143
+    ]
   },
   {
     "fact": "Which Article of the Constitution of India has the provision of participation of workers in management of industry? → <b>Article 43A</b>",
+    "explanation": "Article 43 A of the Constitution of India provides for the participation of workers in the management of industries. As per this Article, the State shall take steps, by suitable legislation or in any other way, to secure the participation of workers in the management of an undertaking, establishment or other organization engaged in any industry”. This provision was added to the Indian Constitution by the 42nd Constitutional Amendment Act, 1976.",
+    "question_id": "q0370",
     "count": 2,
-    "papers": "PCS Pre ’19",
+    "papers": "PCS Pre '19; Lower Sub '09",
+    "exam": "PCS Pre '19; Lower Sub '09",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      144,
+      145
+    ]
   },
   {
-    "fact": "The Right to Information (RTI) emerges as a legal right under the Right to Information Act, 2005. However, Article 39(d) deals with equal pay for equal work for both men and women, and Article 39(a) deals with adequate means of livelihood. Article 47 states that it will be the duty of the state to raise the level of nutrition and the standard of living and to improve public health.",
+    "fact": "Which of the following is not included in the Directive Principles of State Policy? → <b>Right to Information</b>",
+    "explanation": "The Right to Information (RTI) emerges as a legal right under the Right to Information Act, 2005. However, Article 39(d) deals with equal pay for equal work for both men and women, and Article 39(a) deals with adequate means of livelihood. Article 47 states that it will be the duty of the state to raise the level of nutrition and the standard of living and to improve public health.",
+    "question_id": "q0382",
     "count": 2,
-    "papers": "PCS Pre ’06",
+    "papers": "PCS Pre '06; PCS Mains '10",
+    "exam": "PCS Pre '06; PCS Mains '10",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      149
+    ]
   },
   {
-    "fact": "Article 44 mentioned that the state shall endeavour to secure for the citizens a Uniform Civil Code throughout the territory of India.",
+    "fact": "Which one of the following is a Directive Principle of the State Policy? → <b>Uniform Civil Code</b>",
+    "explanation": "Article 44 mentioned that the state shall endeavour to secure for the citizens a Uniform Civil Code throughout the territory of India.",
+    "question_id": "q0383",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; GIC '10",
+    "exam": "PCS Mains '10; GIC '10",
     "anchor": "c14-t1",
-    "ch": 14
+    "ch": 14,
+    "pages": [
+      149
+    ]
   },
   {
     "fact": "The Fundamental Duties are mentioned in which of the following part of the Constitution of India? → <b>Part-IV A</b>",
+    "explanation": "The 42nd Amendment Act inserted Article 51-A to create a new part called IV-A in the Constitution, which prescribed the fundamental duties of citizens.",
+    "question_id": "q0390",
     "count": 2,
-    "papers": "GIC ’10",
+    "papers": "GIC '10; PCS Mains '06",
+    "exam": "GIC '10; PCS Mains '06",
     "anchor": "c15-t1",
-    "ch": 15
+    "ch": 15,
+    "pages": [
+      152
+    ]
   },
   {
     "fact": "Fundamental Duties of Indian citizens are enumerated in– → <b>Part IV A of the Constitution</b>",
+    "explanation": "The Swaran Singh Committee had a total of 12 members- (1) Swaran Singh - Chairman, (2) A.R. Antulay, (3) S.S Ray, (4) Rajni Patel, (5) HR Gokhale, (6) V.S. Sayed Muhammed, (7) V.N. Gadgil, (8) CM Stephen, (9) D P Singh, (10) Dinesh Goswami, (11) Vasanth Sathe, (12) B.N. Banerjee Haridev Joshi was the 11th, 16th &amp; 18th Chief Minister of Rajasthan. Since 1952, he fought 10 state assembly elections until his death in 1995 and stood undefeated in all the elections. In 1976, the Congress Party set up the Sardar Swaran Singh Committee to make recommendations about fundamental duties. The need and necessity of which were felt during the operation of the internal emergency (1975-77). It stressed that the citizens should become conscious that in addition to the enjoyment of rights, they also have certain duties to perform. The Government accepted this report, and through the 42nd Amendment, part IV-A was added to the Constitution. The new part consists of only 1 Article (51-A). Presently, there are 11 fundamental duties in this Article.",
+    "question_id": "q0392",
     "count": 2,
-    "papers": "PCS Mains ’11",
+    "papers": "PCS Mains '11; PCS Mains '12",
+    "exam": "PCS Mains '11; PCS Mains '12",
     "anchor": "c15-t1",
-    "ch": 15
+    "ch": 15,
+    "pages": [
+      152
+    ]
   },
   {
-    "fact": "Fundamental duties can not be enforced by writs. The fundamental duties have been defined as the moral obligations of all the citizens to help, promote a spirit of patriotism and to uphold the unity of India.",
+    "fact": "Which of the following statements regarding Fundamental Duties is not true: → <b>They can be enforced by writs</b>",
+    "explanation": "Fundamental duties can not be enforced by writs. The fundamental duties have been defined as the moral obligations of all the citizens to help, promote a spirit of patriotism and to uphold the unity of India.",
+    "question_id": "q0394",
     "count": 2,
-    "papers": "PCS Pre ’03",
+    "papers": "PCS Pre '03; UDA/LDA Pre '00",
+    "exam": "PCS Pre '03; UDA/LDA Pre '00",
     "anchor": "c15-t1",
-    "ch": 15
+    "ch": 15,
+    "pages": [
+      153
+    ]
   },
   {
-    "fact": "There are eleven fundamental duties in Part IV-A of the Indian Constitution. Originally there were 10 fundamental duties, but the 11th duty was added by the 86th Amendment Act, 2002. Article 51 A (k) was added for parents or guardians to provide an opportunity for education to their children between the Age of 6 to 14 years.",
+    "fact": "How many Fundamental Duties are there in the Indian Constitution? → <b>Eleven</b>",
+    "explanation": "There are eleven fundamental duties in Part IV-A of the Indian Constitution. Originally there were 10 fundamental duties, but the 11thduty was added by the 86th Amendment Act, 2002. Article 51 A (k) was added for parents or guardians to provide an opportunity for education to their children between the Age of 6 to 14 years.",
+    "question_id": "q0406",
     "count": 2,
-    "papers": "PCS Mains ’14",
+    "papers": "PCS Mains '14; RO/ARO Mains '14",
+    "exam": "PCS Mains '14; RO/ARO Mains '14",
     "anchor": "c15-t1",
-    "ch": 15
+    "ch": 15,
+    "pages": [
+      156
+    ]
   },
   {
     "fact": "All the executive power in Indian Constitution are vested in – → <b>President</b>",
+    "explanation": "According to Article 53 (1) the executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with the Constitution.",
+    "question_id": "q0413",
     "count": 2,
-    "papers": "PCS Mains ’08",
+    "papers": "PCS Mains '08; PCS Pre '15",
+    "exam": "PCS Mains '08; PCS Pre '15",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      159
+    ]
   },
   {
-    "fact": "According to Article 53(2), the supreme command of the Defence Forces is vested in the President, but the exercise of the power is to be regulated by law. So, Assertion (A) is correct, but (R) is false.",
+    "fact": "Given below are two statements: Assertion (A): The Supreme Command of the Defence Forces is vested in the President. Reason (R) : The President’s powers as Commanderin-Chief are independent of Legislative Control. In the context of the above, select the correct answer using the code given below: Code : → <b>(A) is true, but (R) is false.</b>",
+    "explanation": "According to Article 53(2), the supreme command of the Defence Forces is vested in the President, but the exercise of the power is to be regulated by law. So, Assertion (A) is correct, but (R) is false.",
+    "question_id": "q0416",
     "count": 2,
-    "papers": "PCS Mains ’05",
+    "papers": "PCS Mains '05; PCS Mains '10",
+    "exam": "PCS Mains '05; PCS Mains '10",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      159,
+      160
+    ]
   },
   {
-    "fact": "Article 62(2) of the Indian Constitution describes that the vacant post of the President should be filled within six months from the date of occurrence of the vacancy because of his death, resignation, removal, or otherwise.",
+    "fact": "The vacant post of the President is to be filled within – → <b>Six months</b>",
+    "explanation": "Article 62(2) of the Indian Constitution describes that the vacant post of the President should be filled within six months from the date of occurrence of the vacancy because of his death, resignation, removal, or otherwise.",
+    "question_id": "q0434",
     "count": 2,
-    "papers": "PCS Pre ’05",
+    "papers": "PCS Pre '05; PCS Mains '13",
+    "exam": "PCS Pre '05; PCS Mains '13",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      168
+    ]
   },
   {
     "fact": "The Joint sitting of Lok Sabha and Rajya Sabha under Article 108 is summoned by – → <b>President</b>",
+    "explanation": "The joint sitting of the House of the People and the Council of States can be summoned by the President in certain cases prescribed in Article 108 of the Constitution. Under Article 118(4), the speaker of the Lok Sabha presides the jointsession of the Parliament.",
+    "question_id": "q0441",
     "count": 2,
-    "papers": "PCS Mains ’15",
+    "papers": "PCS Mains '15; PCS Pre '15",
+    "exam": "PCS Mains '15; PCS Pre '15",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      170
+    ]
   },
   {
-    "fact": "According to Article 79, the Parliament includes the President and both the Houses (Lok Sabha and Rajya Sabha), and under Article 111, a Bill becomes law only when it gets the President’s assent. So both (A) and (R) are correct statements and (R) is the correct explanation of (A).",
+    "fact": "Given below are two statements: Assertion (A) : The President is the part of the Parliament Reason (R) : A Bill passed by the two Houses of Parliament cannot become law without the assent of the President In the context of the above, which one of the following is correct? → <b>Both (A) and (R) are true, and (R) is the correct explanation of (A).</b>",
+    "explanation": "According to Article 79, the Parliament includes the President and both the Houses (Lok Sabha and Rajya Sabha), and under Article 111, a Bill becomes law only when it gets the President’s assent. So both (A) and (R) are correct statements and (R) is the correct explanation of (A).",
+    "question_id": "q0443",
     "count": 2,
-    "papers": "PCS Mains ’07",
+    "papers": "PCS Mains '07; PCS Pre '23",
+    "exam": "PCS Mains '07; PCS Pre '23",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      171
+    ]
   },
   {
-    "fact": "According to Article 111 of the Indian Constitution, when a Bill has been passed by both the Houses of Parliament, it shall be presented to the President and the President shall declare that either he assents to the Bill or that he withholds assent therefrom.",
+    "fact": "Under which Article of the Indian Constitution, the President of India enjoys the power to withhold his assent to any Bill passed by both the Houses of the Parliament? → <b>Article 111</b>",
+    "explanation": "According to Article 111 of the Indian Constitution, when a Bill has been passed by both the Houses of Parliament, it shall be presented to the President and the President shall declare that either he assents to the Bill or that he withholds assent therefrom.",
+    "question_id": "q0444",
     "count": 2,
-    "papers": "Lower Sub ’04",
+    "papers": "Lower Sub '04; PCS Pre '08",
+    "exam": "Lower Sub '04; PCS Pre '08",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      172
+    ]
   },
   {
     "fact": "Under which of the following Articles of the Constitution, the President of India has been empowered to promulgate an ordinance? → <b>Article-123</b>",
+    "explanation": "The President of India has been given the Power to promulgate Ordinances during recess of Parliament under Article 123 of the Indian Constitution. Some important points related to this are, l The Ordinances promulgated by the President have the same force and effect as an Act of Parliament [under Article 123(2)]. l The Ordinance is required to get approved by the Parliament, within six weeks from the reassembly of Parliament, otherwise it ceases to operate at the expiry of six-weeks from reassembly. l The Ordinance may be withdrawn at any time by the President.",
+    "question_id": "q0447",
     "count": 2,
-    "papers": "PCS Mains ’16",
+    "papers": "PCS Mains '16; Lower Sub Mains '13",
+    "exam": "PCS Mains '16; Lower Sub Mains '13",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      173
+    ]
   },
   {
-    "fact": "Former Ch ief Justice of India M. Hidayatullah served as acting President of India from 20 July, 1969 to 24 August, 1969.",
+    "fact": "Who among the following Chief Justices of India also acted as the President of India? → <b>Justice M. Hidayatullah</b>",
+    "explanation": "Former Chief Justice of India M. Hidayatullah served as acting President of India from 20 July, 1969 to 24 August, 1969.",
+    "question_id": "q0468",
     "count": 2,
-    "papers": "PCS Mains ’03",
+    "papers": "PCS Mains '03; PCS Mains '04",
+    "exam": "PCS Mains '03; PCS Mains '04",
     "anchor": "c16-t1",
-    "ch": 16
+    "ch": 16,
+    "pages": [
+      178,
+      179
+    ]
   },
   {
     "fact": "A resolution for the removal of the Vice-President of India can be proposed in – → <b>Rajya Sabha only</b>",
+    "explanation": "According to Article 67(b), the Vice-President may be removed from his office by a resolution of the Council of States (Rajya Sabha) passed by a majority of all the then members of the Council and agreed to by the House of the People; but no resolution shall be moved unless at least 14 days prior notice has been given of the intention to move the resolution.",
+    "question_id": "q0479",
     "count": 2,
-    "papers": "PCS Mains ’03",
+    "papers": "PCS Mains '03; PCS Mains '07",
+    "exam": "PCS Mains '03; PCS Mains '07",
     "anchor": "c17-t1",
-    "ch": 17
+    "ch": 17,
+    "pages": [
+      183
+    ]
   },
   {
     "fact": "A Central Minister who is not the member of any House, can remain in the office for – → <b>6 months</b>",
+    "explanation": "The Prime Minister is the head of the Council of Ministers. He has full discretion in the choice of the person who is to serve as a Minister in his Cabinet [Article 75(1)]. He may choose any member apart from either house of Parliament, but such a person will have to become a member of either House of Parliament within 6 months from the date he enters the office [Article 75(5)]. Otherwise, he will cease to be a Minister.",
+    "question_id": "q0488",
     "count": 2,
-    "papers": "PCS Mains ’15",
+    "papers": "PCS Mains '15; PCS Pre '93",
+    "exam": "PCS Mains '15; PCS Pre '93",
     "anchor": "c18-t1",
-    "ch": 18
+    "ch": 18,
+    "pages": [
+      188,
+      189
+    ]
   },
   {
-    "fact": "The Council of Ministers in the Union of India is collectively responsible to the Lok Sabha only [Article 75(3)]. So, Assertion (A) is false. The Union Minister can be a member of either House of the Parliament, but he is eligible to vote only in the House to which he belongs. Thus, Reason (R) is true.",
+    "fact": "Assertion (A) : The Council of Ministers in the Union of India is collectively responsible both to the Lok Sabha and the Rajya Sabha. Reason (R) : The members of both the Lok Sabha and the Rajya Sabha are eligible to be the Ministers of the Union Government. Code : → <b>(A) is false, but (R) is true.</b>",
+    "explanation": "The Council of Ministers in the Union of India is collectively responsible to the Lok Sabha only [Article 75(3)]. So, Assertion (A) is false. The Union Minister can be a member of either House of the Parliament, but he is eligible to vote only in the House to which he belongs. Thus, Reason (R) is true.",
+    "question_id": "q0494",
     "count": 2,
-    "papers": "PCS Pre ’21",
+    "papers": "PCS Pre '21; BEO '19",
+    "exam": "PCS Pre '21; BEO '19",
     "anchor": "c18-t1",
-    "ch": 18
+    "ch": 18,
+    "pages": [
+      190
+    ]
   },
   {
-    "fact": "The Council of Ministers in India can move ‘’Confidence Motion’’. A Motion of 'No Confidence' can be introduced only in Lok Sabha (the Lower House of the Parliament). The Government brings the ‘Motion of Confidence’ in Lok Sabha when it has to prove the confidence or support of a majority in the House of the People (Lok Sabha).",
+    "fact": "Which one of the following motions, the Council of Ministers in India can move? → <b>Confidence Motion</b>",
+    "explanation": "The Council of Ministers in India can move ‘’Confidence Motion’’. A Motion of &#x27;No Confidence&#x27; can be introduced only in Lok Sabha (the Lower House of the Parliament). The Government brings the ‘Motion of Confidence’ in Lok Sabha when it has to prove the confidence or support of a majority in the House of the People (Lok Sabha).",
+    "question_id": "q0495",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; PCS Pre '06",
+    "exam": "PCS Mains '10; PCS Pre '06",
     "anchor": "c18-t1",
-    "ch": 18
+    "ch": 18,
+    "pages": [
+      190
+    ]
   },
   {
-    "fact": "A minimum of 50 members are required to table a 'No Confidence Motion' against the Council of Ministers.",
+    "fact": "The number of Lok Sabha members required to table a ‘No Confidence Motion’ against the Council of Ministers is → <b>50</b>",
+    "explanation": "A minimum of 50 members are required to table a &#x27;No Confidence Motion&#x27; against the Council of Ministers.",
+    "question_id": "q0497",
     "count": 2,
-    "papers": "PCS Mains ’13",
+    "papers": "PCS Mains '13; PCS Mains '09",
+    "exam": "PCS Mains '13; PCS Mains '09",
     "anchor": "c18-t1",
-    "ch": 18
+    "ch": 18,
+    "pages": [
+      191
+    ]
   },
   {
-    "fact": "The State of Uttar Pradesh has the largest representation in the Lok Sabha and Rajya Sabha. 80 seats in the Lok Sabha and 31 seats in the Rajya Sabha are allotted to Uttar Pradesh, which is the largest number allotted to any State.",
+    "fact": "In India which State has the largest representation in Lok Sabha and Rajya Sabha? → <b>Uttar Pradesh</b>",
+    "explanation": "The State of Uttar Pradesh has the largest representation in the Lok Sabha and Rajya Sabha. 80 seats in the Lok Sabha and 31 seats in the Rajya Sabha are allotted to Uttar Pradesh, which is the largest number allotted to any State.",
+    "question_id": "q0562",
     "count": 2,
-    "papers": "PCS Mains ’12",
+    "papers": "PCS Mains '12; PCS Pre '95",
+    "exam": "PCS Mains '12; PCS Pre '95",
     "anchor": "c21-t1",
-    "ch": 21
+    "ch": 21,
+    "pages": [
+      219
+    ]
   },
   {
-    "fact": "Vigneshwar Missir and Acharya J.B. Kripalani, with 21 Parliament members of the opposition, moved a No- Confidence Motion against First Lok Sabha Speaker G.V. Mavalankar on 15 December, 1954. This motion was refused by the Lok Sabha on 18 December, 1954.",
+    "fact": "The first Speaker against whom a Motion of Noconfidence was moved in the Lok Sabha was – → <b>G.V. Mavalankar</b>",
+    "explanation": "Vigneshwar Missir and Acharya J.B. Kripalani, with 21 Parliament members of the opposition, moved a NoConfidence Motion against First Lok Sabha Speaker G.V. Mavalankar on 15 December, 1954. This motion was refused by the Lok Sabha on 18 December, 1954.",
+    "question_id": "q0577",
     "count": 2,
-    "papers": "Lower Sub (Spl) ’04",
+    "papers": "Lower Sub (Spl) '04; PCS Pre '00",
+    "exam": "Lower Sub (Spl) '04; PCS Pre '00",
     "anchor": "c21-t1",
-    "ch": 21
+    "ch": 21,
+    "pages": [
+      228
+    ]
   },
   {
-    "fact": "The first woman Speaker of the Lok Sabha was Meira Kumar. She was chosen unopposed as Speaker and served from June 2009 to June 2014.",
+    "fact": "The first female Speaker of Lok Sabha is → <b>Meira Kumar</b>",
+    "explanation": "The first woman Speaker of the Lok Sabha was Meira Kumar. She was chosen unopposed as Speaker and served from June 2009 to June 2014.",
+    "question_id": "q0578",
     "count": 2,
-    "papers": "PCS Mains ’08",
+    "papers": "PCS Mains '08; PCS Mains '07",
+    "exam": "PCS Mains '08; PCS Mains '07",
     "anchor": "c21-t1",
-    "ch": 21
+    "ch": 21,
+    "pages": [
+      228
+    ]
   },
   {
     "fact": "Which Article of the Indian Constitution empowers the Parliament to legislate on a subject of state list? → <b>Art. 249</b>",
+    "explanation": "Statement (d) is incorrect. According to Article 249, the Parliament may legislate on any subject enumerated in the State List in the National interest. To enable Parliament to make such a law, the Council of States must have passed a resolution to that effect supported by two-thirds of its members present and voting. Such a law must be necessary or expedient in the National interest. Law made under Article 249 by Parliament may operate over the whole or any part of the territory of India.",
+    "question_id": "q0593",
     "count": 2,
-    "papers": "PCS Mains ’17",
+    "papers": "PCS Mains '17; PCS Mains '12",
+    "exam": "PCS Mains '17; PCS Mains '12",
     "anchor": "c22-t1",
-    "ch": 22
+    "ch": 22,
+    "pages": [
+      235
+    ]
   },
   {
-    "fact": "The number of members elected to the Rajya Sabha from the given States is as follows: Himachal Pradesh-3, Jammu and Kashmir-4 (now a UT), Chhattisgarh-5, Jharkhand-6. Thus, the lowest number of members elected to Rajya Sabha among the given options is from Himachal Pradesh.",
+    "fact": "Which among the following States has the lowest number of elected members in the Rajya Sabha? → <b>Himachal Pradesh</b>",
+    "explanation": "The number of members elected to the Rajya Sabha from the given States is as follows: Himachal Pradesh-3, Jammu and Kashmir-4 (now a UT), Chhattisgarh-5, Jharkhand-6. Thus, the lowest number of members elected to Rajya Sabha among the given options is from Himachal Pradesh.",
+    "question_id": "q0603",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; PCS Mains '06",
+    "exam": "PCS Mains '10; PCS Mains '06",
     "anchor": "c22-t1",
-    "ch": 22
+    "ch": 22,
+    "pages": [
+      240
+    ]
   },
   {
     "fact": "Which one of the following is Chairman of Rajya Sabha? → <b>Vice-President of India</b>",
+    "explanation": "The presiding officer of Rajya Sabha, i.e. the Vice-President is not a member of the House. He is elected by the members of an electoral college consisting of the members of both the Houses of Parliament.",
+    "question_id": "q0610",
     "count": 2,
-    "papers": "PCS Pre ’93",
+    "papers": "PCS Pre '93; PCS Pre '90",
+    "exam": "PCS Pre '93; PCS Pre '90",
     "anchor": "c22-t1",
-    "ch": 22
+    "ch": 22,
+    "pages": [
+      241
+    ]
   },
   {
-    "fact": "The Parliament of India consist of – (i) President (ii) Rajya Sabha (iii) Lok Sabha (iv) Vice-President Select the correct answer using the code given below : Code : → <b>(i), (ii) and (iii)</b>",
+    "fact": "The Parliament of India consist of – (i) President (ii) Rajya Sabha (iii)Lok Sabha (iv) Vice-President Select the correct answer using the code given below : Code : → <b>(i), (ii) and (iii)</b>",
+    "explanation": "Under the Constitution, the Parliament of India consists of three parts : the President, the Council of States and the House of the People. Though the President of India is not a member of either House of Parliament and does not sit in the Parliament to attend its meetings, he is an integral part of the Parliament.",
+    "question_id": "q0615",
     "count": 2,
-    "papers": "Lower Sub Mains ’13",
+    "papers": "Lower Sub Mains '13; PCS Pre '14",
+    "exam": "Lower Sub Mains '13; PCS Pre '14",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      245
+    ]
   },
   {
     "fact": "Indian Parliament consists of – → <b>President and both the House of Parliament</b>",
+    "explanation": "Under the Constitution, the Parliament of India consists of three parts : the President, the Council of States and the House of the People. Though the President of India is not a member of either House of Parliament and does not sit in the Parliament to attend its meetings, he is an integral part of the Parliament.",
+    "question_id": "q0616",
     "count": 2,
-    "papers": "PCS Mains ’04",
+    "papers": "PCS Mains '04; PCS Pre '12",
+    "exam": "PCS Mains '04; PCS Pre '12",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      245
+    ]
   },
   {
-    "fact": "According to the Constitution of India, the Officers of the Parliament include the Speaker of the Lok Sabha, the Deputy Speaker of Lok Sabha, Secretary General of the Lok Sabha and the Chairman of the Rajya Sabha.",
+    "fact": "The Officers of the Parliament include – 1. Speaker, Lok Sabha 2. Deputy Speaker, Lok Sabha 3. Secretary-General, Lok Sabha 4. Chairman of the Rajya Sabha Select the correct answer from the codes given below: Code : → <b>All the four</b>",
+    "explanation": "According to the Constitution of India, the Officers of the Parliament include the Speaker of the Lok Sabha, the Deputy Speaker of Lok Sabha, Secretary General of the Lok Sabha and the Chairman of the Rajya Sabha.",
+    "question_id": "q0621",
     "count": 2,
-    "papers": "Lower Sub ’13",
+    "papers": "Lower Sub '13; UDA/LDA Pre '10",
+    "exam": "Lower Sub '13; UDA/LDA Pre '10",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      246
+    ]
   },
   {
-    "fact": "Analysis – I The Office of Profit is decided by the Union Parliament for the Union under Article 102(1)(a) and by State Legislatures for the States under Article 191(1)(a). Analysis – II Whether a person is disqualified or not on the basis of his post of profit for the Membership of Parliament or State Legislature, Its decision – According to Article 103 (1) and (2) in the centre, the President shall decide on the advice of the Election Commission and in accordance with Article 192 (1) and (2) i",
+    "fact": "Who will decide the Office of Profit? → <b>President and Governor; Union Parliament</b>",
+    "explanation": "Analysis – I The Office of Profit is decided by the Union Parliament for the Union under Article 102(1)(a) and by State Legislatures for the States under Article 191(1)(a). Analysis – II Whether a person is disqualified or not on the basis of his post of profit for the Membership of Parliament or State Legislature, Its decision – According to Article 103 (1) and (2) in the centre, the President shall decide on the advice of the Election Commission and in accordance with Article 192 (1) and (2) in the states, the Governor shall decide on the advice of the Election Commission. Hence, according to analysis-I, the correct answer will be option (b), and according to analysis-II, the correct answer will be option (a).",
+    "question_id": "q0624",
     "count": 2,
-    "papers": "PCS Pre ’06",
+    "papers": "PCS Pre '06; PCS Pre '00",
+    "exam": "PCS Pre '06; PCS Pre '00",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      247,
+      248
+    ]
   },
   {
-    "fact": "& (d) ‘Zero Hour’ is an Indian innovation in the field of Parliamentary procedure. The emergence of zero hour can be traced to the early sixties when many issues of great public importance and urgency began to be raised by members immediately after Question Hour, sometimes with prior permission of the chairman or on other ocassions without such permission. Presently, in Lok Sabha, it is usually from 12:00 noon to 1:00 pm (after the question hour), while in Rajya Sabha it is from 11:00 am to 12:0",
+    "fact": "Time of zero-hour in Parliament is : → <b>11 am to 12 noon</b>",
+    "explanation": "&amp; (d) ‘Zero Hour’ is an Indian innovation in the field of Parliamentary procedure. The emergence of zero hour can be traced to the early sixties when many issues of great public importance and urgency began to be raised by members immediately after Question Hour, sometimes with prior permission of the chairman or on other ocassions without such permission. Presently, in Lok Sabha, it is usually from 12:00 noon to 1:00 pm (after the question hour), while in Rajya Sabha it is from 11:00 am to 12:00 noon (before the question hour). It is notable that the time of the question hour in Lok Sabha is 11:00 am to 12:00 noon, while in Rajya Sabha (from 2014) it is 12:00 noon to 1:00 pm.",
+    "question_id": "q0634",
     "count": 2,
-    "papers": "PCS Pre ’15",
+    "papers": "PCS Pre '15; PCS Mains '15",
+    "exam": "PCS Pre '15; PCS Mains '15",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      250,
+      251
+    ]
   },
   {
     "fact": "Who decides whether a Bill is Money Bill or not? → <b>Speaker of Lok Sabha</b>",
+    "explanation": "If any question arises about whether a Bill is a money Bill or not, the decision of the Speaker of the Lok Sabha is final. His decision in this regard cannot be questioned in any court of law or in either the House of Parliament or even the President. When a money bill is transmitted to the Rajya Sabha for recommendation &amp; presented to the president for assent, the speaker endorses on the bill his certificate that it is a money bill.",
+    "question_id": "q0660",
     "count": 2,
-    "papers": "PCS Mains ’14",
+    "papers": "PCS Mains '14; PCS Pre '07",
+    "exam": "PCS Mains '14; PCS Pre '07",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      259
+    ]
   },
   {
-    "fact": "Presentation of the Budget, discussion on the Budget, passing of the Appropriation Bill and passing of the Financial Bill are the stages of normal financial legislation, while the vote on account, vote on credit and exceptional grants (Art. 116) are not included in the financial legislation.",
+    "fact": "The stages in the normal financial legislation include – 1. Presentation of the Budget 2. Discussion on the Budget 3. Passing of Appropriation Bill 4. Vote on Account 5. Passing of the Finance Bill Select the correct answer from the code given below : Code : → <b>1, 2, 3 and 5</b>",
+    "explanation": "Presentation of the Budget, discussion on the Budget, passing of the Appropriation Bill and passing of the Financial Bill are the stages of normal financial legislation, while the vote on account, vote on credit and exceptional grants (Art. 116) are not included in the financial legislation.",
+    "question_id": "q0676",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; PCS Mains '05",
+    "exam": "PCS Mains '10; PCS Mains '05",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      264
+    ]
   },
   {
-    "fact": "Both, the statement (A) and Reason (R), are true, and (R) is the correct explanation of (A). According to Rule 184, after a discussion on a matter, voting shall take place, if the ruling Party gets fewer votes in its favour, then it may lose the ruling position.",
+    "fact": "Statement(A) : N.D.A. Government does not like discussion under Rule 184 of Rules of Procedure and Conduct of Business in Lok Sabha. Reason(R) : This Rule provides for voting also along with discussion. Select the correct answer using : Code : → <b>(A) and (R) are true, and (R) is the correct explanation of (A).</b>",
+    "explanation": "Both, the statement (A) and Reason (R), are true, and (R) is the correct explanation of (A). According to Rule 184, after a discussion on a matter, voting shall take place, if the ruling Party gets fewer votes in its favour, then it may lose the ruling position.",
+    "question_id": "q0681",
     "count": 2,
-    "papers": "UDA/LDA Pre ’02",
+    "papers": "UDA/LDA Pre '02; PCS Pre '01",
+    "exam": "UDA/LDA Pre '02; PCS Pre '01",
     "anchor": "c23-t1",
-    "ch": 23
+    "ch": 23,
+    "pages": [
+      266
+    ]
   },
   {
-    "fact": "Article 124 of the Indian Constitution (1) There shall be a Supreme Court of India consisting of a Chief Justice of India and until Parliament by law prescribes a larger number, not more than thirty-three (Originally, it was seven) other Judges. (2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for that",
+    "fact": "The resignation letter by a Judge of Supreme Court is addressed to : → <b>The President</b>",
+    "explanation": "Article 124 of the Indian Constitution (1) There shall be a Supreme Court of India consisting of a Chief Justice of India and until Parliament by law prescribes a larger number, not more than thirty-three (Originally, it was seven) other Judges. (2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for that purpose and shall hold office until he attains the age of sixty-five years. Provided that in the case of appointment of a judge other than the Chief Justice, the Chief Justice of India shall always be consulted : Provided further that - (a) A Judge may, by writing under his hand addressed to the President, resign from his office. (b) A Judge may be removed from his office in the manner provided in clause (4). So, option (a) is the correct answer.",
+    "question_id": "q0731",
     "count": 2,
-    "papers": "PCS Pre ’23",
+    "papers": "PCS Pre '23; PCS Pre '14",
+    "exam": "PCS Pre '23; PCS Pre '14",
     "anchor": "c26-t1",
-    "ch": 26
+    "ch": 26,
+    "pages": [
+      297,
+      298
+    ]
   },
   {
     "fact": "The Indian Constitution provides for the appointment of “Ad hoc Judges” in– → <b>Supreme Court</b>",
+    "explanation": "Under Article 127(1) of the Constitution, at any time if there should not be a quorum of the Judges of the Supreme Court available to hold or continue any Session of the Court, the Chief Justice of India may, with the previous consent of the President and after consultation with the Chief Justice of the High Court concerned, request in writing the attendance at the sittings of the Court, as an ad hoc Judge, for such period as may be necessary, of a Judge of a High Court duly qualified for appointment as a Judge of the Supreme Court to be designated by the Chief Justice of India.",
+    "question_id": "q0739",
     "count": 2,
-    "papers": "GIC ’10",
+    "papers": "GIC '10; PCS Mains '04",
+    "exam": "GIC '10; PCS Mains '04",
     "anchor": "c26-t1",
-    "ch": 26
+    "ch": 26,
+    "pages": [
+      302
+    ]
   },
   {
     "fact": "Which one of the following cases propounded the concept of ‘Basic structure’ of the Indian Constitution? → <b>None of the above</b>",
+    "explanation": "In the case of Keshavananda Bharti vs. the State of Kerala, (1973) a thirteen-Judge bench of the Indian Supreme Court, by a majority of 7:6, stated that the Parliament could only amend the Constitution to the extent that it did not “damage or destroy the basic structure of the Constitution” (under Article 368). Constitutional amendments are subject to judicial review; the Court essentially placed a substantive non-legislative check upon the Parliament’s power of amendment.",
+    "question_id": "q0748",
     "count": 2,
-    "papers": "PCS Pre ’14",
+    "papers": "PCS Pre '14; Lower Sub Mains '13",
+    "exam": "PCS Pre '14; Lower Sub Mains '13",
     "anchor": "c26-t1",
-    "ch": 26
+    "ch": 26,
+    "pages": [
+      305
+    ]
   },
   {
-    "fact": "The protection/enforcement of Fundamental Rights is a subject that comes under the jurisdiction of both the Supreme Court (Article 32) and the High Courts (Article 226). The High Courts have broader writ jurisdiction under Article 226 than the Supreme Court's Jurisdiction under Article 32. The High Courts can issue writs under Article 226 for the enforcement of fundamental rights and other constitutional rights and for other purposes.",
+    "fact": "Which of the following cases comes under the Jurisdiction of High Court and Supreme Court? → <b>Enforcement of Fundamental Rights.</b>",
+    "explanation": "The protection/enforcement of Fundamental Rights is a subject that comes under the jurisdiction of both the Supreme Court (Article 32) and the High Courts (Article 226). The High Courts have broader writ jurisdiction under Article 226 than the Supreme Court&#x27;s Jurisdiction under Article 32. The High Courts can issue writs under Article 226 for the enforcement of fundamental rights and other constitutional rights and for other purposes.",
+    "question_id": "q0766",
     "count": 2,
-    "papers": "Lower Sub ’04",
+    "papers": "Lower Sub '04; PCS Mains '06",
+    "exam": "Lower Sub '04; PCS Mains '06",
     "anchor": "c26-t1",
-    "ch": 26
+    "ch": 26,
+    "pages": [
+      311
+    ]
+  },
+  {
+    "fact": "Who has the right to seek advisory opinion of the Supreme Court on any question of law – → <b>President</b>",
+    "explanation": "Article 143 of the Constitution of India deals with the ‘Power of the President to Consult the Supreme Court.’",
+    "question_id": "q0768",
+    "count": 2,
+    "papers": "GIC '10; PCS Pre '12",
+    "exam": "GIC '10; PCS Pre '12",
+    "anchor": "c26-t1",
+    "ch": 26,
+    "pages": [
+      311,
+      312
+    ]
   },
   {
     "fact": "Who amongst the following administer the oath of office to the Governor? → <b>Chief Justice of High Court</b>",
+    "explanation": "Every Governor and every person discharging the functions of the Governor shall, before entering upon his office, make and subscribe in the presence of the Chief Justice of the High Court exercising jurisdiction in relation to the State or in his absence, the senior most Judge of that Court available, an oath or affirmation in the prescribed form as provided in Article 159 of the Indian Constitution. The 3rd Schedule does not deal with the oath of the Governor.",
+    "question_id": "q0790",
     "count": 2,
-    "papers": "PCS Mains ’14",
+    "papers": "PCS Mains '14; Lower Sub Mains '13",
+    "exam": "PCS Mains '14; Lower Sub Mains '13",
     "anchor": "c27-t1",
-    "ch": 27
+    "ch": 27,
+    "pages": [
+      322
+    ]
   },
   {
     "fact": "The Governor of a State 1. Is appointed by the President. 2. Holds office during the pleasure of the President. 3. Is the head of the State’s Executive Power. 4. Normally holds office for five years. Select the correct answer from the codes given below: Code : → <b>All the four</b>",
+    "explanation": "Under the given Articles of the Constitution of India, according to Article 153, there shall be a governor for each state. According to the Article 154(1), the executive power of the state shall be vested in the Governor and shall be exercised by him either directly or through officers subordinate to him in accordance with this constitution. The Article 155 is related with the appointment of governors, which provides that, the Governor of a state shall be appointed by the President by warrant under his hand and seal. The Article 156 provides for the Term of office of the Governor. According to Article 156(1) - the Governor holds office during the pleasure of the President, and Article 156(3) provides that usually the Governor is appointed for a term of five years. The President may remove a Governor from his office prior to the completion of five year term as the Governor holds the post during the pleasure of the President. Hence, the pair in the option (c) is not-correctly matched, while other options contain correctly matched pairs.",
+    "question_id": "q0792",
     "count": 2,
-    "papers": "GIC ’10",
+    "papers": "GIC '10; PCS Mains '04",
+    "exam": "GIC '10; PCS Mains '04",
     "anchor": "c27-t1",
-    "ch": 27
+    "ch": 27,
+    "pages": [
+      322
+    ]
   },
   {
-    "fact": "According to Article 156(1) of the Constitution, a Governor of a State is an appointee of the President, and he or she holds office “during the pleasure of the President.” If a Governor continues to enjoy the “pleasure of the President,” he or she can hold the office for a term of five years. A Governor may be removed anytime before the completion of five-years, by the President on the advice of the Council of Ministers, but the State Legislature has no such power.",
+    "fact": "Which one of the following statements about the Governor of an Indian State is not true: → <b>He can be removed earlier if the Legislature of the concerned State passes a resolution for his removal.</b>",
+    "explanation": "According to Article 156(1) of the Constitution, a Governor of a State is an appointee of the President, and he or she holds office “during the pleasure of the President.” If a Governor continues to enjoy the “pleasure of the President,” he or she can hold the office for a term of five years. A Governor may be removed anytime before the completion of five-years, by the President on the advice of the Council of Ministers, but the State Legislature has no such power.",
+    "question_id": "q0794",
     "count": 2,
-    "papers": "Lower Sub ’04",
+    "papers": "Lower Sub '04; PCS Pre '97",
+    "exam": "Lower Sub '04; PCS Pre '97",
     "anchor": "c27-t1",
-    "ch": 27
+    "ch": 27,
+    "pages": [
+      323
+    ]
   },
   {
-    "fact": "Th e provisions for creation and abolition of Legislative Councils in any State is included in Indian Constitution under – → <b>Article 169</b>",
+    "fact": "The provisions for creation and abolition of Legislative Councils in any State is included in Indian Constitution under – → <b>Article 169</b>",
+    "explanation": "According to Article 169(1), the Parliament may by law provide for the abolition of the Legislative Council of a State having such a Council or for the creation of such a Council in a State having no such Council, if the Legislative Assembly of the State passes a resolution to that effect by a majority of the total membership of the Assembly and by a majority of not less than two-thirds of the members of the Assembly present and voting.",
+    "question_id": "q0815",
     "count": 2,
-    "papers": "PCS Pre ’13",
+    "papers": "PCS Pre '13; Lower Sub Mains '15",
+    "exam": "PCS Pre '13; Lower Sub Mains '15",
     "anchor": "c28-t1",
-    "ch": 28
+    "ch": 28,
+    "pages": [
+      333
+    ]
   },
   {
-    "fact": "The State Legislative Councils cannot be dissolved but abolished (Article 169). Rajya Sabha can neither be dissolved nor abolished. Lok Sabha and State Legislative Assemblies cannot be abolished but can be dissolved.",
+    "fact": "Which one of the following cannot be dissolved but can be abolished? → <b>State Legislative Councils</b>",
+    "explanation": "The State Legislative Councils cannot be dissolved but abolished (Article 169). Rajya Sabha can neither be dissolved nor abolished. Lok Sabha and State Legislative Assemblies cannot be abolished but can be dissolved.",
+    "question_id": "q0819",
     "count": 2,
-    "papers": "PCS Mains ’07",
+    "papers": "PCS Mains '07; PCS Pre '18",
+    "exam": "PCS Mains '07; PCS Pre '18",
     "anchor": "c28-t1",
-    "ch": 28
+    "ch": 28,
+    "pages": [
+      335
+    ]
   },
   {
-    "fact": "The legislative relations between the Centre and States are given in Part XI of the Indian Constitution under Articles 245-255. Legislative subjects have been distributed among three lists of the seventh schedule, Union List – 97 subjects (At Present – 98) State List – 66 subjects (At Present – 59) Concurrent List – 47 subjects (At Present – 52)",
+    "fact": "In which part of the Indian Constitution, legislative relations between Centre and States are given? → <b>Part XI</b>",
+    "explanation": "The legislative relations between the Centre and States are given in Part XI of the Indian Constitution under Articles 245-255. Legislative subjects have been distributed among three lists of the seventh schedule, Union List – 97 subjects (At Present – 98) State List – 66 subjects (At Present – 59) Concurrent List – 47 subjects (At Present – 52)",
+    "question_id": "q0860",
     "count": 2,
-    "papers": "PCS Mains (Spl) ’04",
+    "papers": "PCS Mains (Spl) '04; RO/ARO Pre '14",
+    "exam": "PCS Mains (Spl) '04; RO/ARO Pre '14",
     "anchor": "c30-t1",
-    "ch": 30
+    "ch": 30,
+    "pages": [
+      358
+    ]
   },
   {
-    "fact": "According to Article 246 of the Indian Constitution, all the provisions regarding relations between the Centre and States lie in the 7th Schedule of the Indian Constitution.",
+    "fact": "The distribution of legislative powers between the Centre and the States in the Constitution is given in – → <b>Seventh Schedule</b>",
+    "explanation": "According to Article 246 of the Indian Constitution, all the provisions regarding relations between the Centre and States lie in the 7th Schedule of the Indian Constitution.",
+    "question_id": "q0862",
     "count": 2,
-    "papers": "PCS Pre ’93",
+    "papers": "PCS Pre '93; Lower Sub '08",
+    "exam": "PCS Pre '93; Lower Sub '08",
     "anchor": "c30-t1",
-    "ch": 30
+    "ch": 30,
+    "pages": [
+      358
+    ]
   },
   {
-    "fact": "To consider the relationship between the Union and State and to give suggestions to strengthen it, a commission was formed under the Chairmanship of Justice R.S. Sarkaria on 9 June, 1983. B. Shivaraman and S.R. Sen were the other two members of this Commission. This Commission submitted its report in January, 1988.",
+    "fact": "Sarkaria Commission was set up to review – → <b>The relations between the Union and the States</b>",
+    "explanation": "To consider the relationship between the Union and State and to give suggestions to strengthen it, a commission was formed under the Chairmanship of Justice R.S. Sarkaria on 9 June, 1983. B. Shivaraman and S.R. Sen were the other two members of this Commission. This Commission submitted its report in January, 1988.",
+    "question_id": "q0877",
     "count": 2,
-    "papers": "PCS Mains ’06",
+    "papers": "PCS Mains '06; PCS Pre '08",
+    "exam": "PCS Mains '06; PCS Pre '08",
     "anchor": "c30-t1",
-    "ch": 30
+    "ch": 30,
+    "pages": [
+      362
+    ]
   },
   {
-    "fact": "Article 276 (2) of the Constitution specifies that the total amount payable in respect of any person to the State or to any municipality, district board, local board or other local authority in the State by way of taxes on professions, trades, callings and employments shall not exceed two thousand and five hundred rupees (Rs. 2,500) per annum after 60 th Amendment Act, 1988 in place of Rs. 250.",
+    "fact": "Under which of the following taxes the total amount payable by an individual is limited by the Constitution? → <b>Tax on profession, trade, and callings</b>",
+    "explanation": "Article 276 (2) of the Constitution specifies that the total amount payable in respect of any person to the State or to any municipality, district board, local board or other local authority in the State by way of taxes on professions, trades, callings and employments shall not exceed two thousand and five hundred rupees (Rs. 2,500) per annum after 60th Amendment Act, 1988 in place of Rs. 250.",
+    "question_id": "q0889",
     "count": 2,
-    "papers": "PCS Mains ’04",
+    "papers": "PCS Mains '04; PCS Mains '02",
+    "exam": "PCS Mains '04; PCS Mains '02",
     "anchor": "c30-t1",
-    "ch": 30
+    "ch": 30,
+    "pages": [
+      366,
+      367
+    ]
   },
   {
-    "fact": "Under Article 352 of the Constitution, if the President is satisfied that a grave emergency exists, whereby the security of India or any part of the Territory thereof is threatened, whether, by war, external aggression or armed rebellion, he can declare the National Emergency. The word ‘Internal disturbance’ has been replaced by ‘Armed rebellion’ in the 44th Constitutional Amendment Act, 1978 of the Constitution.",
+    "fact": "The President of India may declare the National Emergency if there is the threat of: 1. External aggression 2. Internal disturbances 3. Armed rebellion 4. Communal clashes Select the correct answer from the code given below: Code : → <b>1 and 3 only</b>",
+    "explanation": "Under Article 352 of the Constitution, if the President is satisfied that a grave emergency exists, whereby the security of India or any part of the Territory thereof is threatened, whether, by war, external aggression or armed rebellion, he can declare the National Emergency. The word ‘Internal disturbance’ has been replaced by ‘Armed rebellion’ in the 44th Constitutional Amendment Act, 1978 of the Constitution.",
+    "question_id": "q0893",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; GIC '10",
+    "exam": "PCS Mains '10; GIC '10",
     "anchor": "c31-t1",
-    "ch": 31
+    "ch": 31,
+    "pages": [
+      369
+    ]
   },
   {
     "fact": "Which one of the following is not a basis to declare National Emergency in India? → <b>Threat to internal peace</b>",
+    "explanation": "Under Article 352 of the Constitution, if the President is satisfied that a grave emergency exists, whereby the security of India or any part of the Territory thereof is threatened, whether, by war, external aggression or armed rebellion, he can declare the National Emergency. The word ‘Internal disturbance’ has been replaced by ‘Armed rebellion’ in the 44th Constitutional Amendment Act, 1978 of the Constitution.",
+    "question_id": "q0894",
     "count": 2,
-    "papers": "RO/ARO Pre ’16",
+    "papers": "RO/ARO Pre '16; PCS Mains '16",
+    "exam": "RO/ARO Pre '16; PCS Mains '16",
     "anchor": "c31-t1",
-    "ch": 31
+    "ch": 31,
+    "pages": [
+      369
+    ]
   },
   {
-    "fact": "Article 360 of the Indian Constitution, which deals with the provision of financial emergency, has not been used so far in India.",
+    "fact": "Which one of the following Articles of the Indian Constitution has not so far been used? → <b>Article 360</b>",
+    "explanation": "Article 360 of the Indian Constitution, which deals with the provision of financial emergency, has not been used so far in India.",
+    "question_id": "q0907",
     "count": 2,
-    "papers": "Lower Sub Mains ’15",
+    "papers": "Lower Sub Mains '15; PCS Mains '16",
+    "exam": "Lower Sub Mains '15; PCS Mains '16",
     "anchor": "c31-t1",
-    "ch": 31
+    "ch": 31,
+    "pages": [
+      375
+    ]
   },
   {
     "fact": "Finance are distributed between the Centre and the State on the recommendations of which of the following? → <b>Finance Commission</b>",
+    "explanation": "Article 280 of the Constitution provides for the formation of the Finance Commission after the expiration of every fifth year or at such earlier time as the President considers necessary. Its main function is to submit recommendations to the President regarding the allocation of net proceeds of taxes between the Union and the States and the method of distribution among the States, etc. It may be mentioned that the First Finance Commission was set up on 6th April, 1952 under the Chairmanship of K.C. Neogy.",
+    "question_id": "q0912",
     "count": 2,
-    "papers": "Lower Sub Mains ’13",
+    "papers": "Lower Sub Mains '13; Lower Sub (Spl) '10",
+    "exam": "Lower Sub Mains '13; Lower Sub (Spl) '10",
     "anchor": "c32-t1",
-    "ch": 32
+    "ch": 32,
+    "pages": [
+      376
+    ]
   },
   {
     "fact": "The Finance Commission is constituted for a period of– → <b>5 years</b>",
+    "explanation": "The function of the Finance Commission is to recommend the distribution of the net proceeds of taxes between the Union and the States; the Inter-State Council is established for coordination and cooperation among states, and the main function of the Planning Commission is to allocate resources between the Centre and the States. The Planning Commission has been replaced by ‘NITI Aayog’ (National Institution For Transforming India).",
+    "question_id": "q0915",
     "count": 2,
-    "papers": "PCS Mains ’11",
+    "papers": "PCS Mains '11; PCS Mains '10",
+    "exam": "PCS Mains '11; PCS Mains '10",
     "anchor": "c32-t1",
-    "ch": 32
+    "ch": 32,
+    "pages": [
+      377
+    ]
   },
   {
     "fact": "Which one of the following is not a Constitutional body? → <b>Planning Commission</b>",
+    "explanation": "The Union Public Service Commission and the Public Service Commissions for States under Article 315 and Finance Commission under Article 280 have been provided in the Constitution of India, while Planning Commission has not been mentioned in the Constitution. The Planning Commission is an extra-Constitutional body and was established in the year 1950 by an executive order.",
+    "question_id": "q0935",
     "count": 2,
-    "papers": "PCS Mains ’08",
+    "papers": "PCS Mains '08; PCS Mains '10",
+    "exam": "PCS Mains '08; PCS Mains '10",
     "anchor": "c33-t1",
-    "ch": 33
+    "ch": 33,
+    "pages": [
+      382
+    ]
   },
   {
     "fact": "Which of the following is not a Constitutional organ? → <b>Planning Commission</b>",
+    "explanation": "The Union Public Service Commission and the Public Service Commissions for States under Article 315 and Finance Commission under Article 280 have been provided in the Constitution of India, while Planning Commission has not been mentioned in the Constitution. The Planning Commission is an extra-Constitutional body and was established in the year 1950 by an executive order.",
+    "question_id": "q0936",
     "count": 2,
-    "papers": "PCS Mains ’04",
+    "papers": "PCS Mains '04; PCS Mains '03",
+    "exam": "PCS Mains '04; PCS Mains '03",
     "anchor": "c33-t1",
-    "ch": 33
+    "ch": 33,
+    "pages": [
+      382,
+      383
+    ]
   },
   {
-    "fact": "The National Development Council (NDC) was set up on 6 August, 1952 by an executive order of the Government. Its main functions are: (a) To prescribe guidelines for the formulation of the National Plan, including the assessment of resources for the plan; (b) To consider the National Plan as formulated by the Planning Commission; (c) To consider important questions of social and economic policy affecting National development; (d) To review the working of the Plan from time to time and to recommen",
+    "fact": "Which one of the following is not a Constitutional body? → <b>Planning Commission</b>",
+    "explanation": "The Union Public Service Commission and the Public Service Commissions for States under Article 315 and Finance Commission under Article 280 have been provided in the Constitution of India, while Planning Commission has not been mentioned in the Constitution. The Planning Commission is an extra-Constitutional body and was established in the year 1950 by an executive order.",
+    "question_id": "q0937",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Pre '14; RO/ARO Mains '13",
+    "exam": "PCS Pre '14; RO/ARO Mains '13",
     "anchor": "c33-t1",
-    "ch": 33
+    "ch": 33,
+    "pages": [
+      383
+    ]
   },
   {
-    "fact": "The National Commission to review the working of the Constitution was set up by the NDA Government on 22 February, 2000 under the Chairmanship of Justice Venkatchelaiya, which was not approved by Parliament. The function of this Commission was to review the implementation of the Constitution in the last 50 years and to evaluate its effectiveness at present. The last report by the Commission was submitted on March 31, 2002.",
+    "fact": "The National Development Council (NDC) – 1. Discusses the progress of the National Plan. 2. Suggests the ways to achieve the goals of the National Plan. 3. Gives guidelines to formulate the National Plan. 4. Suggests allocation of money in Planning. Considering the above statements, select the correct answer from the code given below : Codes : → <b>1, 2, and 3</b>",
+    "explanation": "The National Development Council (NDC) was set up on 6 August, 1952 by an executive order of the Government. Its main functions are: (a) To prescribe guidelines for the formulation of the National Plan, including the assessment of resources for the plan; (b) To consider the National Plan as formulated by the Planning Commission; (c) To consider important questions of social and economic policy affecting National development; (d) To review the working of the Plan from time to time and to recommend such measures that are necessary for achieving the aims and targets set out in the National Plan. The Planning Commission suggested ways for the allocation of money to the National Plan, not the National Development Council.",
+    "question_id": "q0946",
     "count": 2,
-    "papers": "PCS Pre ’03",
-    "anchor": "c34-t1",
-    "ch": 34
+    "papers": "PCS Mains '10; PCS Mains '05",
+    "exam": "PCS Mains '10; PCS Mains '05",
+    "anchor": "c33-t1",
+    "ch": 33,
+    "pages": [
+      385
+    ]
   },
   {
-    "fact": "Article 323 of the Constitution of India provides that it shall be the duty of the Union Public Service Commission to give the report to the President about the Commission’s work every year and the President shall cause a copy thereof together with a memorandum explaining, as respects the case if any, where the advice of the commission was not accepted, the reason for such non acceptance to be laid before each House of Parliament.",
+    "fact": "Consider the following statements regarding appointment of National Commission for revising the Constitution- (1) The report will be of recommendatory nature. (2) The appointment was approved by Parliament. (3) It is presided over by Chief Justice M.N. Venkatchelaiya. (4) It will focus on socio-economic needs of the country. Which of these statements are correct? → <b>1 and 3</b>",
+    "explanation": "The National Commission to review the working of the Constitution was set up by the NDA Government on 22 February, 2000 under the Chairmanship of Justice Venkatchelaiya, which was not approved by Parliament. The function of this Commission was to review the implementation of the Constitution in the last 50 years and to evaluate its effectiveness at present. The last report by the Commission was submitted on March 31, 2002.",
+    "question_id": "q0968",
     "count": 2,
-    "papers": "Lower Sub ’13",
+    "papers": "PCS Pre '03; UDA/LDA Pre '02",
+    "exam": "PCS Pre '03; UDA/LDA Pre '02",
     "anchor": "c34-t1",
-    "ch": 34
+    "ch": 34,
+    "pages": [
+      401
+    ]
+  },
+  {
+    "fact": "The Union Public Service Commission submits its annual report to the – → <b>President</b>",
+    "explanation": "Article 323 of the Constitution of India provides that it shall be the duty of the Union Public Service Commission to give the report to the President about the Commission’s work every year and the President shall cause a copy thereof together with a memorandum explaining, as respects the case if any, where the advice of the commission was not accepted, the reason for such non acceptance to be laid before each House of Parliament.",
+    "question_id": "q0976",
+    "count": 2,
+    "papers": "Lower Sub '13; UDA/LDA Pre (Spl) '10",
+    "exam": "Lower Sub '13; UDA/LDA Pre (Spl) '10",
+    "anchor": "c34-t1",
+    "ch": 34,
+    "pages": [
+      403,
+      404
+    ]
   },
   {
     "fact": "The Chief Election Commissioner can be removed from office by – → <b>The same procedure which applies in case of removal of Supreme Court Judges.</b>",
+    "explanation": "Article 324 of the Constitution provides superintendence, direction, and control of the Parliament and State Legislature elections to be vested in an Election Commission. Thus assertion (A) is correct. The Chief Election Commissioner can be removed from his post in like manner and on the like grounds as provided for the removal of Judges from the Supreme Court. The other members can be removed by the President in consultation with the Chief Election Commissioner. Thus, reason (R) is also correct, but reason (R) is not the correct explanation of (A).",
+    "question_id": "q0994",
     "count": 2,
-    "papers": "PCS Mains ’02",
+    "papers": "PCS Mains '02; PCS Pre '91",
+    "exam": "PCS Mains '02; PCS Pre '91",
     "anchor": "c36-t1",
-    "ch": 36
+    "ch": 36,
+    "pages": [
+      414,
+      415
+    ]
   },
   {
     "fact": "Which Constitutional Amendment reduced the voting age from 21 years to 18 years? → <b>Sixty-first Amendment</b>",
+    "explanation": "61st Constitutional Amendment Act, 1988, reduced the age for the Right to Vote from 21 years to 18 years, which came into force on March 28, 1989. The right to vote was primarily used by the youths in November, 1989 in the General Elections of Lok Sabha.",
+    "question_id": "q1008",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; PCS Mains '07",
+    "exam": "PCS Mains '10; PCS Mains '07",
     "anchor": "c36-t1",
-    "ch": 36
+    "ch": 36,
+    "pages": [
+      418,
+      419
+    ]
   },
   {
     "fact": "The system of proportional representation as an electoral mechanism ensures → <b>Representation of minorities</b>",
+    "explanation": "The system of proportional representation solves the problem of minority representation by providing due representation to all sections of society. The system of proportional representation enables due representation to all types of groups based on ethnicity, gender, interests and ideologies. Thus, assertion (A) and Reason (R) both are correct, and reason (R) is the correct explanation of assertion (A).",
+    "question_id": "q1015",
     "count": 2,
-    "papers": "Lower Sub ’13",
+    "papers": "Lower Sub '13; PCS Pre '13",
+    "exam": "Lower Sub '13; PCS Pre '13",
     "anchor": "c36-t1",
-    "ch": 36
+    "ch": 36,
+    "pages": [
+      422
+    ]
   },
   {
-    "fact": "The Anti-Defection Law was introduced by the 52 nd Constitution Amendment Act, 1985, by adding the 10 th Schedule to the Constitution of India. It was further amended by the 91st Constitutional Amendment Act, 2003.",
+    "fact": "Which of the following has banned floor crossing by the member elected on a party ticket to the legislature? → <b>52nd Constitutional Amendment Act</b>",
+    "explanation": "The Anti-Defection Law was introduced by the 52nd Constitution Amendment Act, 1985, by adding the 10th Schedule to the Constitution of India. It was further amended by the 91st Constitutional Amendment Act, 2003.",
+    "question_id": "q1050",
     "count": 2,
-    "papers": "PCS Pre ’96",
+    "papers": "PCS Pre '96; PCS Pre '92",
+    "exam": "PCS Pre '96; PCS Pre '92",
     "anchor": "c38-t1",
-    "ch": 38
+    "ch": 38,
+    "pages": [
+      446,
+      447
+    ]
   },
   {
-    "fact": "By which Constitutional Amendment the number of Central Ministers has been limited to 15% of the total number of the members of the Lok Sabha? → <b>91 st Amendment</b>",
+    "fact": "By which Constitutional Amendment the number of Central Ministers has been limited to 15% of the total number of the members of the Lok Sabha? → <b>91st Amendment</b>",
+    "explanation": "The Constitution (Ninety-First Amendment) Act, 2003, restricted the size of Council of Ministers to 15% of legislative members with the objective of strengthening the Anti Defection laws. It provides that the total number of Ministers, including the Prime Minister, in the Council of Ministers shall not exceed fifteen percent of the total number of members of the House of the People by inserting Article 75(1A). The amendment also made the same provision regarding the Council of Ministers in the Legislative Assembly of states under Article 164(1A). It also provided that a member of that House disqualified under paragraph 2 of the Tenth Schedule shall also be disqualified to be appointed as a Minister.",
+    "question_id": "q1063",
     "count": 2,
-    "papers": "PCS Pre ’15",
+    "papers": "PCS Pre '15; PCS Mains '17",
+    "exam": "PCS Pre '15; PCS Mains '17",
     "anchor": "c38-t1",
-    "ch": 38
+    "ch": 38,
+    "pages": [
+      450
+    ]
   },
   {
     "fact": "The Supreme Court of India enunciated the doctrine of ‘Basic Structure of the Constitution’ in → <b>The Keshavananda Bharati case in 1973</b>",
+    "explanation": "The Supreme Court of India examined the concept of the &quot;Basic structure&quot; of the constitution for the first time in Kesavananda Bharti v. State of Kerala in 1973. Significantly, the Supreme Court reversed its decision in the Golak Nath case in this instance. It declared that Parliament has the authority to restrict or eliminate any of the Fundamental Rights and confirmed the legality of the 24th Constitution Amendment Act. It also established a new theory regarding the &quot;basic structure&quot; or &quot;basic features&quot; of the Constitution. It decided that Parliament could not change the &quot;basic structure&quot; of the Constitution using its constituent power under Article 368. This implies that a Fundamental Right that is a component of the Constitution&#x27;s &quot;basic structure&quot; cannot be restricted or eliminated by the Parliament.",
+    "question_id": "q1072",
     "count": 2,
-    "papers": "PCS Pre ’16",
+    "papers": "PCS Pre '16; PCS Pre '20",
+    "exam": "PCS Pre '16; PCS Pre '20",
     "anchor": "c38-t1",
-    "ch": 38
+    "ch": 38,
+    "pages": [
+      452
+    ]
   },
   {
-    "fact": "There is a fundamental difference between the Hindi and English versions of the above question. In the Hindi format, the question has asked about the official language in the context of the Constitution of India, whereas in the English format, the question focuses on the Parliament's authority to amend the official language of India. Hence, the nuances present, create a contradictory nature among the intellects to resort to a conclusion. *Part XVII of the constitution deals with the official lan",
+    "fact": "Assertion (A) : Reservation in the Office of Pradhans, Pramukhs and Adhyakshas in Panchayats for women including SCs, STs and OBCs has brought about a distinct change in their working. Reason (R) : Women of the rural areas were demanding this reservation for a long time. Select your answer from the code given below – Code : → <b>A is true but (R) is false.</b>",
+    "explanation": "The local self-government in India has been formalized under the Panchayati-raj system by 73rd Amendment in 1992. According to Article 243-D Clause (2)- not less than one-third of the total number of seats reserved under Clause (1) shall be reserved for women belonging to the Scheduled Castes or as the case may be, the Scheduled Tribes. According to Clause(3), Not less than one-third (including the number of seats reserved for women belonging to the Scheduled Castes and the Scheduled Tribes) of the total number of seats to be filled by direct election in every Panchayat shall be reserved for women. In the Indian scenario, the reservation of seats for women in village local self-government is not a result of any demand.",
+    "question_id": "q1108",
     "count": 2,
-    "papers": "PCS Pre ’18",
-    "anchor": "c39-t1",
-    "ch": 39
-  },
-  {
-    "fact": "The local self-government in India has been formalized under the Panchayati-raj system by 73rd Amendment in 1992. According to Article 243-D Clause (2)- not less than one-third of the total number of seats reserved under Clause (1) shall be reserved for women belonging to the Scheduled Castes or as the case may be, the Scheduled Tribes. According to Clause(3), Not less than one-third (including the number of seats reserved for women belonging to the Scheduled Castes and the Scheduled Tribes) of",
-    "count": 2,
-    "papers": "UDA/LDA Pre ’02",
+    "papers": "UDA/LDA Pre '02; PCS Pre '03",
+    "exam": "UDA/LDA Pre '02; PCS Pre '03",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      468
+    ]
   },
   {
     "fact": "Who is considered as the ‘Architect of Panchayati Raj’ in India? → <b>B. R. Mehta</b>",
+    "explanation": "The Balwant Rai Mehta Committee was constituted in 1957 and recommended a three-tier system of Panchayati Raj. Ashok Mehta Committee was constituted in 1977 and submitted its report in 1978. Ashok Mehta committee recommended replacing three-tier system with twotier system. In 1985 the G. V. K. Rao Committee was constituted and it recommended for improvement in the representative character of Panchayat. L.M. Singhvi Committee was constituted in 1986, which recommended local self-government and allocation of more financial resources to village Panchayats. In 1983 the Hanumantha Rao Committee was constituted and it recommended for the decentralization of functions, powers sand finance, setting up of district planning bodies and district planning cells.",
+    "question_id": "q1127",
     "count": 2,
-    "papers": "PCS Pre ’16",
+    "papers": "PCS Pre '16; Lower Sub '15",
+    "exam": "PCS Pre '16; Lower Sub '15",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      477
+    ]
   },
   {
     "fact": "The first Panchayati Raj System was inaugurated by Pt. Jawaharlal Nehru on 2th October, 1959 in – → <b>Nagaur</b>",
+    "explanation": "Rajasthan is the first State to establish the Panchayati Raj system on 2 October, 1959 in Nagaur district while Andhra Pradesh is the second State to establish the Panchayati Raj System.",
+    "question_id": "q1129",
     "count": 2,
-    "papers": "PCS Pre ’94",
+    "papers": "PCS Pre '94; PCS Pre '91",
+    "exam": "PCS Pre '94; PCS Pre '91",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      478
+    ]
   },
   {
     "fact": "The first State to adopt Panchayati Raj was – → <b>Rajasthan</b>",
+    "explanation": "Rajasthan is the first State to establish the Panchayati Raj system on 2 October, 1959 in Nagaur district while Andhra Pradesh is the second State to establish the Panchayati Raj System.",
+    "question_id": "q1130",
     "count": 2,
-    "papers": "PCS Pre ’12",
+    "papers": "PCS Pre '12; PCS Mains '03",
+    "exam": "PCS Pre '12; PCS Mains '03",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      478
+    ]
   },
   {
     "fact": "Establishment of the Panchayati Raj System was recommended by – → <b>Balwant Rai Mehta Committee Report 1957.</b>",
+    "explanation": "Rajasthan is the first State to establish the Panchayati Raj system on 2 October, 1959 in Nagaur district while Andhra Pradesh is the second State to establish the Panchayati Raj System.",
+    "question_id": "q1132",
     "count": 2,
-    "papers": "PCS Mains ’10",
+    "papers": "PCS Mains '10; UDA/LDA Pre '06",
+    "exam": "PCS Mains '10; UDA/LDA Pre '06",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      478
+    ]
   },
   {
     "fact": "Match List-I with List-II and select the correct answer using the codes given below the lists: List-I List-II (Committees) (Year) A. P.K. Thungan 1. 1957 B. Ashok Mehta 2. 1986 C. B.R. Mehta 3. 1977 D. L.M. Singhvi 4. 1988 Codes : A B C D → <b>4 3 1 2</b>",
+    "explanation": "• In 1957, the National Development Council constituted a committee headed by Balwant Rai Mehta to look into the working of community development programmes. • The Ashok Mehta Committee was appointed in 1977. • The G.V.K. Rao Committee was appointed in 1985. • The L.M.Singhvi Committee was appointed in 1986. • The C.H. Hanumantha Rao Committee was appointed in 1983.",
+    "question_id": "q1136",
     "count": 2,
-    "papers": "RO/ARO Mains ’17",
+    "papers": "RO/ARO Mains '17; PCS Pre '22",
+    "exam": "RO/ARO Mains '17; PCS Pre '22",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      479
+    ]
   },
   {
-    "fact": "Gram Panchayat, Kshetra Panchayat and Zila Parishad have been covered in the 73rd Amendment of the Constitution of India, whereas Nagar Panchayat, Nagar Palika Parishad and Nagar Nigam have been covered under the 74th Amendment Act- 1992.",
+    "fact": "Which of the following have been covered by 73rd Amendment of the Constitution? 1. Zila Panchayat 2. Kshetra Panchayat 3. Gram Panchayat 4. Nagar Panchayat Select the correct answer using the code given below: Code : → <b>Only 1, 2 and 3</b>",
+    "explanation": "Gram Panchayat, Kshetra Panchayat and Zila Parishad have been covered in the 73rd Amendment of the Constitution of India, whereas Nagar Panchayat, Nagar Palika Parishad and Nagar Nigam have been covered under the 74th Amendment Act- 1992.",
+    "question_id": "q1143",
     "count": 2,
-    "papers": "Lower Sub ’13",
+    "papers": "Lower Sub '13; UDA/LDA Pre '10",
+    "exam": "Lower Sub '13; UDA/LDA Pre '10",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      482
+    ]
   },
   {
-    "fact": "At present, there is no Panchayati Raj Institution in the States of Mizoram, Nagaland, and Meghalaya.",
+    "fact": "Which of the following States does not have any Panchayati Raj Institution? → <b>Nagaland</b>",
+    "explanation": "At present, there is no Panchayati Raj Institution in the States of Mizoram, Nagaland, and Meghalaya.",
+    "question_id": "q1144",
     "count": 2,
-    "papers": "PCS Mains ’05",
+    "papers": "PCS Mains '05; PCS Mains '11",
+    "exam": "PCS Mains '05; PCS Mains '11",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      483
+    ]
   },
   {
-    "fact": "State Election Commission under Article 243K, State Finance Commission under Article 243I and District Panchayat Under Article 243B are Constitutional authorities while the State Electoral Officer or Chief-Electoral Officer are not Constitutional authorities.",
+    "fact": "Which of the following are Constitutional Authorities? Select the correct answer using code given below : 1. State Election Commission 2. State Finance Commission 3. District Panchayat 4. State Electoral Officer Code : → <b>1,2 and 3 Only</b>",
+    "explanation": "State Election Commission under Article 243K, State Finance Commission under Article 243I and District Panchayat Under Article 243B are Constitutional authorities while the State Electoral Officer or Chief-Electoral Officer are not Constitutional authorities.",
+    "question_id": "q1156",
     "count": 2,
-    "papers": "PCS Pre ’12",
+    "papers": "PCS Pre '12; PCS Mains '12",
+    "exam": "PCS Pre '12; PCS Mains '12",
     "anchor": "c40-t1",
-    "ch": 40
+    "ch": 40,
+    "pages": [
+      490,
+      491
+    ]
   },
   {
-    "fact": "According to Article 341 of the Constitution, the President may with respect to any State or Union Territory, and where it is a State, after consultation with the Governor thereof, by public notification, specify the castes, races or tribes or parts or groups which shall for the purposes of this Constitution be deemed to be Scheduled Castes to that State or Union Territory, as the case may be.",
+    "fact": "The Authority to specify as to which castes shall be deemed to be Scheduled Castes rests with the– → <b>President</b>",
+    "explanation": "According to Article 341 of the Constitution, the President may with respect to any State or Union Territory, and where it is a State, after consultation with the Governor thereof, by public notification, specify the castes, races or tribes or parts or groups which shall for the purposes of this Constitution be deemed to be Scheduled Castes to that State or Union Territory, as the case may be.",
+    "question_id": "q1172",
     "count": 2,
-    "papers": "PCS Pre ’16",
+    "papers": "PCS Pre '16; PCS Mains '06",
+    "exam": "PCS Pre '16; PCS Mains '06",
     "anchor": "c41-t1",
-    "ch": 41
+    "ch": 41,
+    "pages": [
+      499
+    ]
   },
   {
-    "fact": "The provision of the National Commission for Scheduled Tribes has been made by Article 338-A. Originally, there was only Article 338 for the establishment of a commission for Scheduled Castes and Scheduled Tribes (both), but the 89th Constitutional Amendment Act, 2003 bifurcated the combined commission into two separate bodies. Article 338A was inserted for a separate commission for Scheduled Tribes. Article 338 now only provides for a commission for Scheduled Castes. The commissions constituted",
+    "fact": "The Provision of National Commission for Scheduled Tribes is given in which Article of the Constitution? → <b>Article 338A</b>",
+    "explanation": "The provision of the National Commission for Scheduled Tribes has been made by Article 338-A. Originally, there was only Article 338 for the establishment of a commission for Scheduled Castes and Scheduled Tribes (both), but the 89th Constitutional Amendment Act, 2003 bifurcated the combined commission into two separate bodies. Article 338A was inserted for a separate commission for Scheduled Tribes. Article 338 now only provides for a commission for Scheduled Castes. The commissions constituted under Article 338 and 338A consist of a Chairperson, Vice-Chairperson, and three other members.",
+    "question_id": "q1175",
     "count": 2,
-    "papers": "PCS Pre ’13",
+    "papers": "PCS Pre '13; UDA/LDA Mains (Spl) '10",
+    "exam": "PCS Pre '13; UDA/LDA Mains (Spl) '10",
     "anchor": "c41-t1",
-    "ch": 41
+    "ch": 41,
+    "pages": [
+      501
+    ]
   },
   {
-    "fact": "Hindi is not an official language of United Nations. English and French are used as working languages while the six official languages are English, French, Spanish, Arabic, Chinese and Russian.",
+    "fact": "World’s main languages are – (1) Chinese (2) English (3) Hindi (4) Spanish Which one of the given languages is not an official language of United Nations, choose correct answer using code below – Code: → <b>Hindi</b>",
+    "explanation": "Hindi is not an official language of United Nations. English and French are used as working languages while the six official languages are English, French, Spanish, Arabic, Chinese and Russian.",
+    "question_id": "q1177",
     "count": 2,
-    "papers": "Lower Sub (Spl) ’02",
+    "papers": "Lower Sub (Spl) '02; Lower Sub (Spl) '03",
+    "exam": "Lower Sub (Spl) '02; Lower Sub (Spl) '03",
     "anchor": "c42-t1",
-    "ch": 42
+    "ch": 42,
+    "pages": [
+      507,
+      508
+    ]
   },
   {
-    "fact": "Those rights that do not find mention in the provisions of the Constitution are called extra-constitutional rights. For example, there was no constitutional provision for a planning commission rather, it was formed by a resolution of the Cabinet, still it exercised power in respect of the Centre and the States.",
+    "fact": "Meaning of Extra-Constitutional Right - → <b>That power which is not in accordance with the provisions of the Constitution.</b>",
+    "explanation": "Those rights that do not find mention in the provisions of the Constitution are called extra-constitutional rights. For example, there was no constitutional provision for a planning commission rather, it was formed by a resolution of the Cabinet, still it exercised power in respect of the Centre and the States.",
+    "question_id": "q1188",
     "count": 2,
-    "papers": "UDA/LDA Pre ’02",
+    "papers": "UDA/LDA Pre '02; PCS Pre '02",
+    "exam": "UDA/LDA Pre '02; PCS Pre '02",
     "anchor": "c42-t1",
-    "ch": 42
+    "ch": 42,
+    "pages": [
+      516
+    ]
   }
 ]

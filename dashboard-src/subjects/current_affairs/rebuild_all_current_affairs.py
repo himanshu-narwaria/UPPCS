@@ -5,11 +5,11 @@ import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
-def run_step(script_name):
+def run_step(script_name, runtime=None):
     script_path = os.path.join(HERE, script_name)
     print(f"\n>>> Running {script_name}...")
     t0 = time.time()
-    res = subprocess.run([sys.executable, script_path], capture_output=True, text=True, encoding="utf-8")
+    res = subprocess.run([runtime or sys.executable, script_path], capture_output=True, text=True, encoding="utf-8")
     if res.returncode != 0:
         print(f"FAILED {script_name}:\n{res.stderr}")
         sys.exit(1)
@@ -36,6 +36,8 @@ def main():
     run_step("generate_72h_plan.py")
     run_step("audit_script.py")
     run_step("critic_verify.py")
+    run_step("runtime_verify.js", "node")
+    run_step("build_coverage_audit.py")
     
     print("\n==================================================")
     print(f"ALL CURRENT AFFAIRS FILES REBUILT & VERIFIED ({time.time() - t_start:.1f}s)!")
