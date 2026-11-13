@@ -1,0 +1,215 @@
+{
+  "12-018": {
+    "r": "Official poverty lines differ across States because price levels vary from State to State (inter-state price differentials in the Tendulkar poverty line basket).",
+    "hi": ["Poverty line (गरीबी रेखा)"]
+  },
+  "12-019": {
+    "r": "Planning Commission poverty line 2011-12 (Tendulkar method): rural Rs. 816 per month (about Rs. 26 per day); urban Rs. 1000 per month (about Rs. 32 per day).",
+    "t": "Don't swap them: Rs. 32 per day is the urban line, not rural; Rs. 42 is not an official line."
+  },
+  "12-020": {
+    "r": "NSS 68th round (2011-12, Tendulkar method): poverty line Rs. 27.20/day rural, Rs. 33.33/day urban; 21.9% below poverty line, not 33.35%.",
+    "h": "Rs. 816 and Rs. 1000 per month divided by a 30-day month give 27.20 and 33.33."
+  },
+  "12-021": {
+    "r": "C. Rangarajan Committee (set up 2012, report June 2014) → poverty line Rs. 32/day per person rural, Rs. 47/day urban; separate rural and urban consumption baskets."
+  },
+  "12-022": {
+    "r": "Lorenz curve → measures inequality of income (Max O. Lorenz, 1905); the 45° straight line = perfectly equal distribution; the more the curve sags, the more inequality.",
+    "hi": ["Income inequality (आय असमानता)"]
+  },
+  "12-023": {
+    "r": "Lorenz Curve → measures distribution of income or wealth (inequality); developed by Dr. Max O. Lorenz in 1905."
+  },
+  "12-024": {
+    "r": "Gini coefficient (Corrado Gini) → measures income inequality; ranges 0 (perfect equality) to 1 (perfect inequality); derived from Lorenz curve; higher Gini = higher inequality.",
+    "h": "Gini = Gap: bigger number, bigger gap between rich and poor.",
+    "hi": ["Gini coefficient (गिनी गुणांक)"]
+  },
+  "12-025": {
+    "r": "'Cultural Poverty' (Culture of Poverty) → Oscar Lewis, American anthropologist; poverty as a way of life passed on through generations."
+  },
+  "12-026": {
+    "r": "'Vicious Circle of Poverty' → Ragnar Nurkse, 'Problems of Capital Formation in Underdeveloped Countries' (1953); poor countries stay poor, trapped by demand- and supply-side forces.",
+    "hi": ["Vicious circle of poverty (गरीबी का दुष्चक्र)"]
+  },
+  "12-027": {
+    "r": "Cyclic poor → those who keep shuffling between poor and non-poor; cyclical poverty is widespread but of limited duration (job loss, food scarcity, business cycle)."
+  },
+  "12-028": {
+    "r": "Poverty line in India fixed by the Planning Commission (nodal agency for national and State estimates); NITI Aayog replaced it from 1 January 2015.",
+    "hi": ["NITI Aayog (नीति आयोग)"]
+  },
+  "12-030": {
+    "r": "Lakdawala Committee (1993) → poverty estimation: calorie-based consumption; State-specific poverty lines updated by CPI-IW (urban) and CPI-AL (rural); end 'scaling' to National Accounts."
+  },
+  "12-031": {
+    "r": "Committees on poverty estimation → Suresh Tendulkar Committee and Lakdawala Committee (both correct); Vijay Kelkar and S.P. Gupta Committees are not."
+  },
+  "12-032": {
+    "r": "Poverty-line committees: Alagh (1979), Lakdawala (1993), Tendulkar (2009), C. Rangarajan (2014); among the options, Lakdawala Committee's recommendations were used.",
+    "h": "Order A-L-T-R: Alagh, Lakdawala, Tendulkar, Rangarajan."
+  },
+  "12-033": {
+    "r": "Identifying urban BPL families → S.R. Hashim Expert Group (2010, Planning Commission); threefold test: residential, social and occupational vulnerability.",
+    "hi": ["Below Poverty Line (गरीबी रेखा से नीचे)"]
+  },
+  "12-034": {
+    "r": "Treating people below poverty line as an identified group helps target poverty programmes: A and R true, R explains A."
+  },
+  "12-035": {
+    "r": "In India both rich and poor are malnourished: rich eat wrong (over or unhealthy) diet, poor eat poor diet; A and R true, R explains A.",
+    "hi": ["Malnutrition (कुपोषण)"]
+  },
+  "12-036": {
+    "r": "Tendulkar Committee: 37.2% below poverty line in 2004-05; by Tendulkar method (mixed reference period) 21.9% in 2011-12 (Planning Commission, July 2013).",
+    "h": "37.2 → 21.9: Tendulkar before (2004-05) and after (2011-12)."
+  },
+  "12-038": {
+    "r": "Planning Commission (Tendulkar method): poverty fell 7.3 points, from 37.2% (2004-05) to 29.8% (about 30%) in 2009-10; data released 19 March 2012."
+  },
+  "12-040": {
+    "r": "Planning Commission 2004-05 estimate (Uniform Recall Period) → 27.5% of Indians below the poverty line."
+  },
+  "12-041": {
+    "r": "Planning Commission 1999-2000 estimate (Mixed Recall Period) → about 26% (26.1%) of Indian population below the poverty line."
+  },
+  "12-042": {
+    "r": "Eleventh Five Year Plan (2007-2012) target → cut poverty head count ratio by 10 percentage points, with 7 crore new jobs; Twelfth Plan: 2 points per year."
+  },
+  "12-043": {
+    "r": "World Development Report 2005 → 80% of India's population earned less than US$ 2 per day; World Bank: 12.9% below US$ 2.15/day in 2021."
+  },
+  "12-044": {
+    "r": "FAO estimate (2003) → India had about 30% of the world's hungry; UN WFP now: about one-fourth of world's undernourished live in India."
+  },
+  "12-045": {
+    "r": "Global Hunger Index 2017 (IFPRI) → India 100th of 119 countries; GHI 2022: 107th of 121; GHI 2023: 111th.",
+    "hi": ["Global Hunger Index (वैश्विक भूख सूचकांक)"]
+  },
+  "12-046": {
+    "r": "Global Hunger Index → 4 indicators: undernourishment, child wasting, child stunting, child mortality (under five); created 2006 by IFPRI and Welthungerhilfe.",
+    "h": "U-W-S-M: Undernourishment, Wasting, Stunting, Mortality."
+  },
+  "12-047": {
+    "r": "Government statistics of the nineties → poverty highest among Tribals of Bihar, Odisha, M.P. and Maharashtra."
+  },
+  "12-048": {
+    "r": "NCAER survey (question period) → Bihar had the highest share below poverty line among given States; 2011-12 Planning Commission: Chhattisgarh highest (39.93%)."
+  },
+  "12-049": {
+    "r": "Bihar is backward due to income inequality, illiteracy, lack of industry and political will; regional disparity exists but is not the cause: A and R true, R not explanation."
+  },
+  "12-050": {
+    "r": "Planning Commission 1999-2000 → highest poverty share in Odisha (47.1%); 2011-12 → most poor people in Uttar Pradesh (598.19 lakh), highest ratio Chhattisgarh (39.93%).",
+    "t": "Don't confuse highest poverty ratio (percentage) with highest number of poor people (Uttar Pradesh)."
+  },
+  "12-052": {
+    "r": "Rajasthan 2011-12 (Tendulkar method, Planning Commission July 2013) → 14.71% (about 15%) below poverty line; 102.92 lakh poor."
+  },
+  "12-053": {
+    "r": "Rangarajan poverty ratio 2011-12: All India 29.5%, Chhattisgarh 47.9% (not 37.9%), Goa 6.3%, Rajasthan 21.7%."
+  },
+  "12-054": {
+    "r": "Lowest poverty ratio 2011-12 (Tendulkar): A&N Islands 1.00%, Lakshadweep, Goa 5.09%, Kerala 7.05%, Himachal Pradesh 8.06%, Sikkim, Punjab 8.26% → HP lowest among options."
+  },
+  "12-055": {
+    "r": "Lowest poverty ratio among J&K, Punjab, Haryana and Goa → Goa (5.09%, Tendulkar method)."
+  },
+  "12-056": {
+    "r": "Least poverty among Andhra Pradesh, Gujarat, Kerala, Punjab → Kerala (19.6% in 2004-05; 7.05% in 2011-12, Tendulkar method)."
+  },
+  "12-057": {
+    "r": "World Bank: over 50% of India's poor lived in Bihar, Uttar Pradesh, Madhya Pradesh and Odisha; 2011-12 most poor: UP (598.19 lakh), then Bihar, MP.",
+    "h": "BUMO: Bihar, UP, MP, Odisha."
+  },
+  "12-058": {
+    "r": "Poverty ratio 1993-94: Punjab 11.77%, Bihar 54.96% (about 55%), Uttar Pradesh 40.85%, Rajasthan 27.41%; none of the given pairs is correct."
+  },
+  "12-060": {
+    "r": "Madhya Pradesh → 'Ethiopia of India' (India State Hunger Index 2008): excessive malnutrition and infant mortality like Ethiopia and Chad; A and R true, R explains A."
+  },
+  "12-062": {
+    "r": "Ways to eradicate poverty → population control, increased savings (capital formation) and more investment in productive activities: all of these."
+  },
+  "12-063": {
+    "r": "No clear picture of poverty extent (old Planning Commission and Tendulkar estimates differ); anti-poverty programmes restructured in nineties: A and R true, R not explanation."
+  },
+  "12-064": {
+    "r": "DRDAs → secure inter-sectoral and inter-departmental coordination for anti-poverty programmes and watch effective use of their funds; they are not PRIs and do not run studies."
+  },
+  "12-065": {
+    "r": "PDS started in the 1960s as a price support programme to give essential commodities at subsidised prices; food subsidy is provided by the Government of India, not States.",
+    "hi": ["Public Distribution System (सार्वजनिक वितरण प्रणाली)"]
+  },
+  "12-066": {
+    "r": "PDS aims → food security for the poor, prevent hoarding and black marketing, check exploitation by traders; also a tool of price stabilisation: all of the above."
+  },
+  "12-067": {
+    "r": "Rural poverty eradication programmes: TRYSEM (15 August 1979), IRDP (2 October 1980), NREP (October 1980): all of the above."
+  },
+  "12-068": {
+    "r": "Mitigating Poverty in Western Rajasthan (MPoWR) → financed by IFAD, Government of Rajasthan and Sir Ratan Tata Trust; six poorest blocks of Jodhpur division."
+  },
+  "12-069": {
+    "r": "UNDP's two categories of poverty → Income poverty (lack of material necessities) and Human poverty (denial of opportunity for a decent life)."
+  },
+  "12-070": {
+    "r": "Human Poverty Index (HPI) → first published by UNDP in Human Development Report 1997; replaced by Multidimensional Poverty Index (MPI) from 2010.",
+    "h": "HPI born 1997, retired 2010 when MPI took over."
+  },
+  "12-071": {
+    "r": "HPI introduced in HDR 1997; replaced by Multidimensional Poverty Index (MPI) in 2010; MPI captures deprivations in health, education and living standards."
+  },
+  "12-073": {
+    "r": "Multidimensional Poverty Index (OPHI with UNDP, 2010) → 3 dimensions (health, education, living standards) and 10 indicators.",
+    "h": "3 and 10: Health 2 + Education 2 + Living standards 6 indicators."
+  },
+  "12-074": {
+    "r": "MPI dimensions → Health, Education and Living Standard (all three); developed in 2010 by OPHI and UNDP.",
+    "hi": ["Multidimensional Poverty Index (बहुआयामी गरीबी सूचकांक)"]
+  },
+  "12-075": {
+    "r": "Best index to assess intensity of poverty in India → Multi-dimensional Poverty Index (first in HDR 2010), not HDI, GII or HPI."
+  },
+  "12-076": {
+    "r": "MPI (OPHI with UNDP) covers household-level deprivation in education, health, assets and services; it does not cover PPP, budget deficit or GDP growth."
+  },
+  "12-077": {
+    "r": "HDR 2013 → 53.7% of Indians in multidimensional poverty; HDR 2023/2024 → 16.4% (230.74 million, survey 2019-21)."
+  },
+  "12-078": {
+    "r": "To know if the rich get richer and the poor poorer → compare income distribution of an identical set of income receivers over different periods."
+  },
+  "12-079": {
+    "r": "Causes of poverty → inadequate growth rate, high population growth, unemployment; an increasing rate of investment reduces poverty, so it is not a cause."
+  },
+  "12-080": {
+    "r": "Social indicators of poverty → illiteracy, lack of healthcare, lack of jobs, malnutrition, no safe water or sanitation; fewer means of transport is not one."
+  },
+  "12-081": {
+    "r": "Differential Interest Rate Scheme (1972) → concessional loans to weaker sections of society."
+  },
+  "12-082": {
+    "r": "May 2013 Cabinet decision (under NRLM): women SHGs get loans up to Rs. 3 lakh at 7% interest (interest subvention).",
+    "hi": ["Self-Help Group (स्वयं सहायता समूह)"]
+  },
+  "12-083": {
+    "r": "2008 Hoover Medal (announced 27 March 2009, New York) → Dr. A.P.J. Abdul Kalam, for upliftment of the poor and rural people."
+  },
+  "12-084": {
+    "r": "Self-Help Groups and microfinance as a poverty tool → Muhammad Yunus (Bangladesh), founder of Grameen Bank, Nobel Peace Prize 2006."
+  },
+  "12-085": {
+    "r": "SAARC Ministerial Conference on Poverty Alleviation → Islamabad, April 2002; 13th SAARC Summit (Dhaka 2005) declared 2006-2015 the SAARC Decade of Poverty Alleviation."
+  },
+  "12-086": {
+    "r": "Main features of Indian social structure → excess rural population, many religions, many castes; poverty belongs to the socio-economic structure, not the social one."
+  },
+  "12-087": {
+    "r": "Post-1991 rural economy (NITI Aayog, 2017): non-farm growth rose and rural employment growth fell; worker productivity rose in rural and urban areas; rural workforce share fell."
+  },
+  "12-088": {
+    "r": "Growth rate of employment in India (question period) → about 2 percent per annum."
+  }
+}

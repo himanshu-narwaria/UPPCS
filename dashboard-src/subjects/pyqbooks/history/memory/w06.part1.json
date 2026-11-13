@@ -1,0 +1,243 @@
+{
+  "48-040": {
+    "r": "Fort William College, Calcutta → founded 10 July 1800 by Lord Wellesley to train British civil servants in Indian languages (Persian, Hindustani).",
+    "t": "Don't confuse the year: 1800, not 1802; purpose was training civil servants, not historical research.",
+    "hi": ["Civil servant (लोक सेवक)"]
+  },
+  "48-042": {
+    "r": "Madan Mohan Malviya → vigorously advocated religious education in Indian universities; founded Banaras Hindu University (BHU), Varanasi, 1916; its Vice-Chancellor 1919-1939.",
+    "hi": ["Religious education (धार्मिक शिक्षा)"]
+  },
+  "48-043": {
+    "r": "Annie Besant → founded Central Hindu School/College, Banaras (7 July 1898); it became the core of Banaras Hindu University (1916, with Malviya's efforts).",
+    "t": "Don't confuse Annie Besant (Central Hindu College) with Malviya (founder of BHU itself)."
+  },
+  "48-045": {
+    "r": "Lord Hardinge (II), the Viceroy → laid foundation stone of Banaras Hindu University on 4 February 1916 (Basant Panchami).",
+    "t": "Founder of BHU = Madan Mohan Malviya; foundation stone = Viceroy Lord Hardinge."
+  },
+  "48-046": {
+    "r": "Banaras Hindu University, Varanasi (founded by Madan Mohan Malviya, 1916) → first to be declared a Central University among the options.",
+    "hi": ["Central University (केंद्रीय विश्वविद्यालय)"]
+  },
+  "49-001": {
+    "r": "Printing press in India → introduced by the Portuguese at Goa in 1556 (first in Asia).",
+    "hi": ["Printing press (मुद्रणालय)"]
+  },
+  "49-002": {
+    "r": "Bengal Gazette → first newspaper in India; English, Calcutta, started 1780 by James Augustus Hicky.",
+    "h": "Hicky + 1780 = India's first newspaper.",
+    "hi": ["Newspaper (समाचार पत्र)"]
+  },
+  "49-004": {
+    "r": "Lord Wellesley → first imposed press censorship (Censorship of the Press Act, 1799); Lord Hastings removed the strict censorship in 1818.",
+    "hi": ["Press censorship (प्रेस सेंसरशिप)"]
+  },
+  "49-005": {
+    "r": "Vernacular Press Act 1878 → passed by Lord Lytton (1876-1880); repealed by Lord Ripon. Magistrates could demand bonds/security from Indian-language publishers.",
+    "h": "L-L: Lytton Locked the vernacular press; R-R: Ripon Repealed.",
+    "hi": ["Vernacular Press Act (देशी भाषा समाचार पत्र अधिनियम)"]
+  },
+  "49-010": {
+    "r": "Press freedom → bill began under William Bentinck, but the Press Act was passed in August 1835 by acting Governor-General Charles Metcalfe, 'Liberator of Indian Press'.",
+    "t": "Don't credit Bentinck: the 1835 Press Act came under Metcalfe."
+  },
+  "49-011": {
+    "r": "Surendra Nath Banerjee → first Indian jailed for his duty as a journalist (2 April 1883, for an article in 'The Bengalee').",
+    "hi": ["Journalist (पत्रकार)"]
+  },
+  "49-012": {
+    "r": "Tarak Nath Das → started the newspaper 'Free Hindustan' in America."
+  },
+  "49-013": {
+    "r": "Raja Ram Mohan Roy → Bengali weekly 'Sambad Kaumudi' (1821) and Persian weekly 'Mirat-ul-Akhbar' (1822).",
+    "t": "Acting Governor-General John Adams banned unlicensed Indian press in 1823."
+  },
+  "49-014": {
+    "r": "'Indian Mirror' → daily from Calcutta; founded 1861 by Debendra Nath Tagore and Manmohan Ghosh; Keshav Chandra Sen in its editorial team."
+  },
+  "49-015": {
+    "r": "Journal 'Ghadar' → first issue in Urdu on 1 November 1913; Gurmukhi edition from 9 December 1913; later also Marathi, Hindi, English, Gujarati, Pashto.",
+    "hi": ["Ghadar (ग़दर)"]
+  },
+  "49-016": {
+    "r": "'Ghadar' of the Ghadar Party (San Francisco, 1913; Lala Hardayal, Sohan Singh Bhakna, Kartar Singh) → a weekly journal.",
+    "hi": ["Weekly (साप्ताहिक)"]
+  },
+  "49-017": {
+    "r": "Amrita Bazar Patrika → founded 1868 by Shishir Kumar Ghosh and Motilal Ghosh (Jessore); Bengali paper turned English overnight in 1878 to escape the Vernacular Press Act.",
+    "t": "Don't confuse with 'Bengalee' (Girish Chandra Ghosh, 1862; taken over by S.N. Banerjee)."
+  },
+  "49-019": {
+    "r": "Tilak → 'Kesari' (Marathi) and 'Mahratta' (English), both started 1881; Kesari's first editor was Gopal Ganesh Agarkar.",
+    "h": "Kesari = Marathi, Mahratta = English (the names swap what you expect)."
+  },
+  "49-020": {
+    "r": "Bangawasi, Kaal and Kesari → all popular papers of the revolutionary period that criticised Congress for its liberal policies."
+  },
+  "49-021": {
+    "r": "Sandhya, Yugantar and Kaal → all newspapers that advocated revolutionary terrorism in the freedom struggle.",
+    "hi": ["Revolutionary (क्रांतिकारी)"]
+  },
+  "49-022": {
+    "r": "Young India (Gandhi's weekly preaching non-violence) → not revolutionary; Sandhya, Yugantar and Ghadar were revolutionary papers.",
+    "hi": ["Non-violence (अहिंसा)"]
+  },
+  "49-023": {
+    "r": "'Som Prakash' (Bengali weekly, 1858) → started by Ishwar Chandra Vidyasagar; first edited by Dwarkanath Vidyabhushan; supported farmers in the Indigo movement."
+  },
+  "49-024": {
+    "r": "'Leader' → mouthpiece of the Liberals; New India → Annie Besant; Young India → Gandhi; Free Press Journal → English daily.",
+    "hi": ["Liberals (उदारवादी)"]
+  },
+  "49-025": {
+    "r": "'Indian Opinion' (Gandhi, South Africa, 1903) → first editor Mansukh Lal Nazar (Secretary of Natal Congress).",
+    "t": "Gandhi founded it, but the first editor was Mansukh Lal Nazar."
+  },
+  "49-027": {
+    "r": "'Indian Opinion' → published in Gujarati, Hindi, Tamil and English; not in Urdu."
+  },
+  "49-028": {
+    "r": "'Young India' → began (7 May 1919, Bombay) as a Home Rule League paper (Jamnadas Dwarkadas, Shankar Lal Banker); Gandhi editor from 8 October 1919, weekly from Ahmedabad.",
+    "hi": ["Home Rule League (होम रूल लीग)"]
+  },
+  "49-029": {
+    "r": "'Young India' → English weekly nationalist journal, edited by Mahatma Gandhi during 1919–1931.",
+    "c": "No answer printed: BPSC deleted the question for writing 'The Young India'."
+  },
+  "49-030": {
+    "r": "'Udant Martand' → first Hindi newspaper, 30 May 1826, from Calcutta (Kolkata); by Pt. Jugal Kishore Shukla, every Tuesday.",
+    "hi": ["Udant Martand (उदन्त मार्तण्ड)"]
+  },
+  "49-031": {
+    "r": "'Hindoo Patriot' (1853) → first English newspaper published by Indians; first editor Girish Chandra Ghosh (1853-55).",
+    "t": "Don't pick 'The Hindu' or 'Young India'; Hindoo Patriot was first."
+  },
+  "49-032": {
+    "r": "Harish Chandra Mukherjee (editor of Hindoo Patriot from 1855) → strongly supported the Indigo Movement, helping exploited farmers of Bengal.",
+    "hi": ["Indigo Revolt (नील विद्रोह)"]
+  },
+  "49-033": {
+    "r": "Aurobindo (Arbind) Ghosh → associated with the English paper 'Vande Mataram'."
+  },
+  "49-034": {
+    "r": "'The Indian Nation' → published from Patna, founded 1931 by Darbhanga King Kameshwar Singh."
+  },
+  "49-035": {
+    "r": "K. Ramakrishna Pillai (born 1878, Neyyattinkara, Travancore) → editor of 'Swadeshabhimani'.",
+    "c": "Question wrongly names the paper 'Swadesh Vahini'; the book says it is 'Swadeshabhimani'."
+  },
+  "49-036": {
+    "r": "English newspaper 'The Independent' → Motilal Nehru; it demanded self-rule for India.",
+    "hi": ["Self-rule (स्वशासन)"]
+  },
+  "49-037": {
+    "r": "Bharat Mitra → Hindi; Rastra Mata → Marathi; Prajamitra → Gujarati; Nayak → Bengali.",
+    "h": "Bharat Mitra = Hindi (Bharat); Nayak = Bengali."
+  },
+  "49-038": {
+    "r": "Dainik Aaj → Shiv Prasad Gupta; The Leader → Madan Mohan Malviya; National Herald → Jawaharlal Nehru; The Pioneer → George Allen."
+  },
+  "49-039": {
+    "r": "Vijay Singh Pathik → made Bijoliya peasant movement (Mewar; begun 1913 by Sadhu Sitaram Das) known via 'Pratap' of Kanpur (Ganesh Shankar Vidyarthi).",
+    "hi": ["Peasant movement (किसान आंदोलन)"]
+  },
+  "49-040": {
+    "r": "Gandhiji → started weeklies 'Harijan' (English), 'Harijan Bandhu' (Gujarati) and 'Harijan Sevak' (Hindi).",
+    "hi": ["Harijan (हरिजन)"]
+  },
+  "49-041": {
+    "r": "Gandhi was not linked with 'Indian Mirror' (Manmohan Ghosh, Debendranath Tagore); he edited Young India, Harijan and Indian Opinion."
+  },
+  "49-042": {
+    "r": "'Harijan' weekly (Gandhi) → first issue on 11 February 1933 from Poona (Pune)."
+  },
+  "49-043": {
+    "r": "B.R. Ambedkar → Marathi fortnightly 'Bahishkrit Bharat' (1927); earlier founded Bahishkrit Hitakarini Sabha, Bombay (20 July 1924) for the untouchables.",
+    "hi": ["Untouchables (अस्पृश्य)"]
+  },
+  "49-046": {
+    "r": "Abul Kalam Azad → Urdu weekly 'Al-Hilal' (1912; banned in 1914)."
+  },
+  "49-048": {
+    "r": "Lala Lajpat Rai → Urdu daily 'Vande Matram' (Bande Matram) and English weekly 'The People' from Lahore (1920); earlier 'Young India' in the USA (1916)."
+  },
+  "49-049": {
+    "r": "Hindu → G. Subramaniya Iyer; Sudharak → Gopal Krishna Gokhale; Voice of India → Dadabhai Naoroji; Bengalee → Surendra Nath Banerjee."
+  },
+  "49-050": {
+    "r": "Free Hindustan → Taraknath Das; Indian Opinion → Mahatma Gandhi; Voice of India → Dadabhai Naoroji; Bengalee → Surendranath Banerjee."
+  },
+  "49-051": {
+    "r": "Kaal → Shivrama Mahadev Paranjape; Bengalee → Surendra Nath Banerjee; Sudharak → Gokhale; Somaprakash → Dwarkanath Vidyabhushan."
+  },
+  "49-052": {
+    "r": "Bombay Chronicle → Feroz Shah Mehta; Commonweal → Annie Besant; Leader → Madan Mohan Malviya; Searchlight → Sachidanand Sinha."
+  },
+  "49-053": {
+    "r": "Leader → Madan Mohan Malviya; Bombay Chronicle → Firozshah Mehta; Independent → Motilal Nehru; Justice → T.M. Nair."
+  },
+  "49-054": {
+    "r": "Abul Kalam Azad → Al-Hilal; Feroz Shah Mehta → Bombay Chronicle; Annie Besant → New India; Mahatma Gandhi → Young India."
+  },
+  "49-055": {
+    "r": "Wrong pair: Tahzeeb-ul-Akhlaq is Sir Syed Ahmed Khan's Urdu journal (1870), not Jinnah's. Correct: Al-Hilal–Azad; New India–Besant; Samvad Kaumudi–Ram Mohan Roy.",
+    "hi": ["Journal (पत्रिका)"]
+  },
+  "49-056": {
+    "r": "Wrong pair: The Pioneer was started by George Allen (Allahabad, 1865), not Gandhi. Gandhi → Indian Opinion, Harijan, Young India, Navjeevan."
+  },
+  "49-057": {
+    "r": "'Yugantar' → Bhupendra Nath Dutt and Barindra Kumar Ghosh, not Gandhi; Gandhi → Indian Opinion, Young India, Nav Jeevan."
+  },
+  "49-058": {
+    "r": "'Qaumi Awaz' → started by Jawaharlal Nehru and Rafi Ahmed Kidwai in 1945 from Lucknow (not Abul Kalam Azad).",
+    "t": "Don't pair Qaumi Awaz with Abul Kalam Azad; it was Nehru's."
+  },
+  "49-060": {
+    "r": "Commonweal → Annie Besant (correct pair). Also: Mook Nayak → B.R. Ambedkar; Young India → Gandhi; Kesari → Tilak."
+  },
+  "49-061": {
+    "r": "Samachar Darpan → J.C. Marshman; Mirat-ul-Akhbar → Raja Ram Mohan Roy; Kesari → B.G. Tilak; Young India → Mahatma Gandhi."
+  },
+  "49-062": {
+    "r": "Wrong pair: 'Independent' was Motilal Nehru's, not B.R. Ambedkar's. Correct: Rast Goftar–Dadabhai Naoroji; Kesari–Tilak; New India–Annie Besant."
+  },
+  "49-063": {
+    "r": "Places of publication: Swadesh → Gorakhpur; Bharat Bandhu → Hathras; Satyawadi → Agra; Shakti → Almora."
+  },
+  "49-064": {
+    "r": "Editors: The Hindu → G. Subramania Iyer; Kesari → Tilak; Bengalee → S.N. Banerjee; Hindustani → Ganga Prasad Verma; Sudharak → Gokhale."
+  },
+  "49-065": {
+    "r": "Bal Gangadhar Tilak → Kesari and Mahratta (correct pair); Annie Besant → New India; Mahatma Gandhi → Young India.",
+    "t": "Don't swap New India (Besant) with Young India (Gandhi)."
+  },
+  "49-066": {
+    "r": "Annie Besant → published 'The Commonweal' and 'New India'.",
+    "h": "Besant's two: C-N = Commonweal, New India."
+  },
+  "49-067": {
+    "r": "'The Commonweal' → English newspaper from Madras, edited by Annie Besant."
+  },
+  "49-068": {
+    "r": "Bipin Chandra Pal → New India; Aurobindo Ghosh → Vande Mataram; Brahma Bandhab Upadhyay → Sandhya; Mohammad Ali → Comrade."
+  },
+  "49-069": {
+    "r": "'Vande Mataram' (English, 1906) → founded by Bipin Chandra Pal, then edited by Aurobindo; Paris edition (10 September 1909) edited by Hardayal, published by Bhikaji Cama.",
+    "c": "No answer printed; of the options only Bhikaji Cama fits (publisher of the Paris edition)."
+  },
+  "49-070": {
+    "r": "'The Times of India' → not a nationalist paper; The Hindu, Bengalee and The Mahratta → nationalist papers.",
+    "hi": ["Nationalist (राष्ट्रवादी)"]
+  },
+  "49-071": {
+    "r": "'Dash Roja' periodical → started by Abdul Gaffar Khan during the National Movement."
+  },
+  "49-072": {
+    "r": "S.A. Dange → The Socialist; Muzaffar Ahmad → Navyug; Ghulam Husain → Inqilab; M. Singarvelu → Labour Kisan Gazette."
+  },
+  "49-073": {
+    "r": "'The Indian Mirror' (January 1886) → called the Indian National Congress 'the nucleus of a future Parliament of our country'."
+  }
+}

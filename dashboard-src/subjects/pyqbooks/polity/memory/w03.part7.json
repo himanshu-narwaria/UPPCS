@@ -1,0 +1,199 @@
+{
+ "24-097": {
+  "r": "Not correct: 'Money Bill introduced in Rajya Sabha' → only in Lok Sabha (Art 109(1)); Rajya Sabha returns it, with or without recommendations, within 14 days."
+ },
+ "24-103": {
+  "r": "Rajya Sabha can delay a Money Bill (treated here as 'Finance Bill') for at most fourteen days; an ordinary bill has no time limit."
+ },
+ "24-105": {
+  "r": "Money Bill amended by Rajya Sabha → deemed passed once Lok Sabha passes it again, accepting or rejecting the changes (Art 109); no joint session, no special majority."
+ },
+ "24-106": {
+  "r": "Bill merely involving expenditure from Consolidated Fund (Financial Bill, Art 117(3)) → can be introduced in either House; President's recommendation needed for its consideration.",
+  "t": "Financial Bill under Art 117(1) (Art 110 matters) is Lok Sabha-only; 117(3) expenditure bill can start in either House."
+ },
+ "24-107": {
+  "r": "Annual Financial Statement (Union Budget) → Article 112; financial year 1 April to 31 March; budget passes through six stages in Parliament.",
+  "hi": [
+   "Annual Financial Statement (वार्षिक वित्तीय विवरण)"
+  ]
+ },
+ "24-108": {
+  "r": "Art 112 → President causes the Annual Financial Statement (Budget), estimated receipts and expenditure, to be laid before both Houses each financial year."
+ },
+ "24-109": {
+  "r": "'Budget' does not appear in the Constitution; it uses 'Annual Financial Statement' (Art 112); Appropriation Bill and Consolidated Fund of India do appear."
+ },
+ "24-110": {
+  "r": "Not correct: 'Parliament votes on charged expenditure' → charged expenditure on Consolidated Fund (Art 112(3)) is only discussed, never voted."
+ },
+ "24-111": {
+  "r": "Parliamentary control over finance: Annual Financial Statement, Appropriation Bill before withdrawal (Art 114), supplementary grants and vote on account (Arts 115, 116), Finance Bill; no Budget Office review."
+ },
+ "24-112": {
+  "r": "If Lok Sabha does not pass the Union Budget → PM submits resignation of the Council of Ministers (government has lost its majority)."
+ },
+ "24-113": {
+  "r": "Private member's Bill → by any MP other than a Minister (not only nominated MPs); about a dozen passed since independence, so not a recent first.",
+  "hi": [
+   "Private member's Bill (गैर-सरकारी विधेयक)"
+  ]
+ },
+ "24-114": {
+  "r": "Economic Survey → presented in Parliament every year before the Budget; reviews progress and fiscal details of economic sectors for the current year.",
+  "hi": [
+   "Economic Survey (आर्थिक समीक्षा)"
+  ]
+ },
+ "24-115": {
+  "r": "Vote on Account (Art 116) → lets Union Government withdraw money from Consolidated Fund for a specific period when Appropriation Bill is not yet passed.",
+  "hi": [
+   "Vote on Account (लेखानुदान)"
+  ]
+ },
+ "24-116": {
+  "r": "Vote on Account (Art 116(1)(a)) → funds to run the administration pending passage of the full budget, e.g. near elections or before new financial year."
+ },
+ "24-118": {
+  "r": "Vote on Account covers only expenditure; Interim Budget covers both receipts and expenditure; the 'stable vs caretaker government' distinction is false.",
+  "t": "Don't treat Vote on Account and Interim Budget as same: only Interim Budget shows receipts."
+ },
+ "24-119": {
+  "r": "Estimates of expenditure → submitted to Lok Sabha as Demands for Grants (Art 113(2)); Lok Sabha may assent, refuse or reduce them.",
+  "hi": [
+   "Demands for Grants (अनुदान माँगें)"
+  ]
+ },
+ "24-120": {
+  "r": "Normal financial legislation: Budget presentation → discussion → Appropriation Bill → Finance Bill; Vote on Account, vote of credit, exceptional grants (Art 116) are outside it."
+ },
+ "24-121": {
+  "r": "President's prior sanction needed before Bills on: forming a new State, altering State boundaries, taxation in which States are interested, and Money Bills."
+ },
+ "24-122": {
+  "r": "Censure Motion differs from No-Confidence Motion: reasons must be stated; no separate leave of the House needed.",
+  "hi": [
+   "Censure Motion (निंदा प्रस्ताव)"
+  ],
+  "c": "Book prints two answers, (b) and (d); BPSC deleted the question."
+ },
+ "24-123": {
+  "r": "Cut motion → linked to Union Budget (opposes/reduces a demand for grant); types: token, policy, frugality cut; Censure, Calling Attention, Adjournment are non-budget motions.",
+  "hi": [
+   "Cut motion (कटौती प्रस्ताव)"
+  ]
+ },
+ "24-124": {
+  "r": "Cut motion → proposal to reduce a demand for grant in the budget; types: Disapproval of Policy, Economy and Token cut."
+ },
+ "24-125": {
+  "r": "Cut Motion → motion to reduce the amount of a demand for grants; aims to draw the House's attention to the matter specified."
+ },
+ "24-126": {
+  "r": "Wrong pair: Vote on Account (Art 116) only draws money till budget passes, not yearly sanction; Policy cut → Re one; Economy cut → set amount; Token cut → Rs one hundred."
+ },
+ "24-127": {
+  "r": "Calling Attention (Indian innovation) → draws a Minister's attention to an urgent public matter; it has restricted the scope of the Adjournment Motion (no censure element).",
+  "hi": [
+   "Calling Attention (ध्यानाकर्षण)"
+  ]
+ },
+ "24-128": {
+  "r": "Parliament controls Council of Ministers through Adjournment Motion, Question Hour and Supplementary Questions; starred → oral with supplementaries; unstarred → no supplementaries."
+ },
+ "24-129": {
+  "r": "Starred question (marked *) → oral answer, supplementaries allowed, max 20 listed a day; unstarred → not answered orally, no supplementaries.",
+  "h": "Star = Spoken answer."
+ },
+ "24-130": {
+  "r": "Adjournment motion → allows discussion on a definite matter of urgent public importance.",
+  "hi": [
+   "Adjournment Motion (स्थगन प्रस्ताव)"
+  ]
+ },
+ "24-131": {
+  "r": "Rule 184 (Lok Sabha) → discussion followed by voting; government avoids it as a lost vote can threaten it. A and R true, R explains A."
+ },
+ "24-132": {
+  "r": "Rule 377 → matters not raisable under other rules; notice to Secretary-General; Speaker's consent needed; daily limit raised from 20 to 30 in 2015.",
+  "c": "Answer not printed; current limit (30) matches no option; the older limit was 20."
+ },
+ "24-133": {
+  "r": "Guillotine → a closure motion: undiscussed clauses are put to vote with discussed ones when time is over, cutting short debate on the bill.",
+  "hi": [
+   "Closure motion (समापन प्रस्ताव)"
+  ]
+ },
+ "24-134": {
+  "r": "President can issue ordinance (Art 123) except when both Houses are in session; NDC is presided by the PM, so 'FM + CMs' is wrong.",
+  "hi": [
+   "Ordinance (अध्यादेश)"
+  ]
+ },
+ "24-135": {
+  "r": "Right to Property → legal right (Art 300-A) by 44th Amendment, 1978; Rajya Sabha can hold a non-Money Finance Bill; 42nd Amendment, 1976 added Socialist and Secular, not Democratic."
+ },
+ "24-136": {
+  "r": "Each House of Parliament has a separate secretariat independent of the Government (Art 98); idea mooted in January 1926 by Vithalbhai J. Patel."
+ },
+ "24-137": {
+  "r": "Art 98(1): separate secretariat staff for each House, but common posts allowed; Art 98(2): Parliament may by law regulate their recruitment and service conditions."
+ },
+ "24-138": {
+  "r": "Sovereignty of Indian Parliament → restricted by judicial review; its laws cannot violate the Basic Structure of the Constitution.",
+  "hi": [
+   "Judicial review (न्यायिक पुनर्विलोकन)"
+  ]
+ },
+ "24-139": {
+  "r": "Golden Jubilee of Indian Parliament → 13 May 2002 (Parliament constituted 13 May 1952), marking 50 years."
+ },
+ "24-140": {
+  "r": "New Parliament building → designed by Bimal Patel; inaugurated by PM Narendra Modi on 28 May 2023; old building by Edwin Lutyens and Herbert Baker."
+ },
+ "24-141": {
+  "r": "Indian Parliamentary Group → autonomous body (1949, motion of 16 August 1948); open to MPs and ex-MPs; Lok Sabha Speaker is ex-officio President; IPU national group.",
+  "c": "Answer not printed; explanation finds (ii) and (iii) true, a combination no option offers."
+ },
+ "24-142": {
+  "r": "Nationalist elected Speaker of Central Legislative Assembly in 1925 → Vithalbhai Patel, first to hold it (24 August 1925 to 28 April 1930)."
+ },
+ "25-001": {
+  "r": "Parliament controls the administration through Parliamentary Committees (Public Accounts, Estimates, Standing Committees).",
+  "hi": [
+   "Parliamentary Committees (संसदीय समितियाँ)"
+  ]
+ },
+ "25-002": {
+  "r": "Financial Committees of Parliament → Public Accounts Committee, Estimates Committee and Committee on Public Undertakings.",
+  "h": "Financial trio 'PEP': Public Accounts, Estimates, Public Undertakings."
+ },
+ "25-003": {
+  "r": "Largest Parliamentary Committee → Estimates Committee (30 members, all Lok Sabha, first 1950, one-year term); PAC 22 (15 + 7); Public Undertakings 22; Petitions 15.",
+  "hi": [
+   "Estimates Committee (प्राक्कलन समिति)"
+  ]
+ },
+ "25-006": {
+  "r": "Not a Parliamentary tool → CAG (independent constitutional authority, Art 148); PAC, Estimates Committee and Public Undertakings Committee are Parliament's tools."
+ },
+ "25-007": {
+  "r": "Parliament's joint Standing Committees → Lok Sabha and Rajya Sabha members roughly in ratio 2:1."
+ },
+ "25-008": {
+  "r": "PAC Chairman → appointed by Lok Sabha Speaker; PAC = 22 MPs (15 Lok Sabha + 7 Rajya Sabha), no outside experts; assisted by CAG."
+ },
+ "25-009": {
+  "r": "Public Accounts Committee → formed every year, not more than 22 members: 15 from Lok Sabha, 7 from Rajya Sabha; scrutinises the CAG's report.",
+  "h": "PAC = 15 + 7 = 22."
+ },
+ "25-011": {
+  "r": "PAC → examines CAG's annual audit reports; financial check on the executive; first set up 1921 under Government of India Act, 1919; 22 members (15 LS + 7 RS)."
+ },
+ "25-012": {
+  "r": "Estimates Committee (30) all from Lok Sabha; PAC and Public Undertakings (22 = 15 LS + 7 RS); Parliamentary Affairs Ministry under Cabinet Committee; its Minister nominates MPs to government bodies."
+ },
+ "25-013": {
+  "r": "PAC's main function → examine Government's accounts and CAG's report on Union accounts; exposes misuse of public expenditure."
+ }
+}

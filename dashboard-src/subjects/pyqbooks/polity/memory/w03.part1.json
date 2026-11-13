@@ -1,0 +1,190 @@
+{
+  "19-013": {
+    "r": "Ministries are allotted to Ministers by the President on the PM's advice; Ministries are NOT created by the PM on the Cabinet Secretary's advice.",
+    "t": "Cabinet Secretary heads the Cabinet Secretariat and chairs the Civil Services Board; he does not create Ministries.",
+    "hi": ["Cabinet Secretary (मंत्रिमंडल सचिव)"]
+  },
+  "19-014": {
+    "r": "Art 77(3) → President makes rules of business and allocates portfolios among ministers on the PM's advice; PM and Cabinet Secretary do not 'form' Ministries.",
+    "hi": ["Allocation of business (कार्य आवंटन)"]
+  },
+  "19-015": {
+    "r": "Parliamentary form of government → actual/real executive power exercised by the Prime Minister (Article 75).",
+    "hi": ["Real executive (वास्तविक कार्यपालिका)"]
+  },
+  "19-016": {
+    "r": "Art 77(1) → all executive action taken in the name of the President (not PM); Art 77(3) → President makes rules for business and its allocation among Ministers.",
+    "t": "Don't pick 'in the name of the Prime Minister'; executive action is always in the President's name."
+  },
+  "19-017": {
+    "r": "PM from Rajya Sabha can speak in Lok Sabha but cannot vote there → cannot vote in his own favour in a no-confidence motion.",
+    "h": "Speak in both Houses, vote only in your own House."
+  },
+  "19-018": {
+    "r": "Article 75 → appointment of PM and Ministers (75(1)); Ministers hold office during the pleasure of the President (75(2)).",
+    "hi": ["Pleasure of the President (राष्ट्रपति का प्रसाद)"]
+  },
+  "19-019": {
+    "r": "PM is generally a Lok Sabha member, but not compulsorily; can be from Rajya Sabha; Indira Gandhi → first PM from Rajya Sabha at appointment."
+  },
+  "19-020": {
+    "r": "Art 75(5) → PM need not be an MP at appointment, but must become a member of either House (LS or RS) within 6 months.",
+    "t": "Don't pick 'must join Lok Sabha'; any one House of Parliament is enough."
+  },
+  "19-021": {
+    "r": "Minimum age to become Prime Minister → 25 years (same as for a Lok Sabha member)."
+  },
+  "19-022": {
+    "r": "Art 75(1) → PM appointed by the President; other Ministers appointed by President on PM's advice; not elected by Lok Sabha or Parliament.",
+    "hi": ["Council of Ministers (मंत्रिपरिषद)"]
+  },
+  "19-023": {
+    "r": "PM has full discretion in choosing ministers (Art 75(1)); a non-member minister must enter either House within 6 consecutive months, else ceases (Art 75(5)).",
+    "h": "75(5) → '5' looks like 'S' for Six months."
+  },
+  "19-027": {
+    "r": "Cabinet membership is NOT restricted to the Lower House; a non-member can be minister for 6 months (Art 75(5)); cabinet needs Lok Sabha majority confidence."
+  },
+  "19-028": {
+    "r": "Prime Minister (with Council of Ministers) → collectively responsible to the Lok Sabha (Art 75(3)), not to the President or Cabinet.",
+    "hi": ["Collective responsibility (सामूहिक उत्तरदायित्व)"]
+  },
+  "19-029": {
+    "r": "Collective responsibility → to the House of the People; a constitutional obligation under Article 75(3); Article 74(3) does not exist."
+  },
+  "19-030": {
+    "r": "Council of Ministers → collectively responsible to Lok Sabha; when Lok Sabha is not an option, the nearest answer is Parliament.",
+    "hi": ["House of the People (लोक सभा)"]
+  },
+  "19-033": {
+    "r": "Union Council of Ministers → collectively responsible only to the Lok Sabha (Art 75(3)).",
+    "t": "Don't pick 'Parliament' when 'Only to Lok Sabha' is offered; Rajya Sabha cannot remove the ministry."
+  },
+  "19-035": {
+    "r": "(A) false: Council responsible only to Lok Sabha (Art 75(3)); (R) true: members of either House can be Union Ministers, but vote only in own House."
+  },
+  "19-036": {
+    "r": "Council responsible to Lok Sabha, not 'Parliament' (Art 75(3)); Ministers hold office at President's pleasure (75(2)); PM communicates legislative proposals to President (Art 78(a))."
+  },
+  "19-037": {
+    "r": "PM resigning on losing majority in Lok Sabha → a convention, not written in the Constitution (flows from collective responsibility, Art 75(3)).",
+    "hi": ["Convention (अभिसमय)"]
+  },
+  "19-038": {
+    "r": "In Indian polity, the Executive is subordinate to the Legislature; Council of Ministers is collectively responsible to the House of the People.",
+    "hi": ["Legislature (विधायिका)", "Executive (कार्यपालिका)"]
+  },
+  "19-039": {
+    "r": "Council of Ministers can move a Confidence Motion; No-Confidence Motion only in Lok Sabha; if passed by Lok Sabha majority → Council must resign.",
+    "t": "Don't confuse Confidence Motion (moved by the government) with No-Confidence/Censure Motion (moved against it).",
+    "hi": ["Confidence Motion (विश्वास प्रस्ताव)", "No-Confidence Motion (अविश्वास प्रस्ताव)"]
+  },
+  "19-041": {
+    "r": "A minister who resigns may make a statement on his resignation in Lok Sabha with the Speaker's permission; he cannot be compelled to do so."
+  },
+  "19-042": {
+    "r": "No-Confidence Motion against the Council of Ministers in Lok Sabha → needs at least 50 members to table it.",
+    "hi": ["No-Confidence Motion (अविश्वास प्रस्ताव)"]
+  },
+  "19-044": {
+    "r": "No-Confidence Motion: not mentioned in the Constitution; introduced only in Lok Sabha; procedure in Lok Sabha Rules of Procedure (Rule 198)."
+  },
+  "19-045": {
+    "r": "No-Confidence Motion: only in Lok Sabha (Rule 198); notice to Secretary-General, not Speaker; 28 such motions and 11 confidence motions till 15 August 2023; first by J.B. Kripalani (1963).",
+    "c": "Answer not printed; book notes the Commission deleted the question, as options (a) and (c) are both wrong per the explanation."
+  },
+  "19-046": {
+    "r": "Resignation of Council of Ministers does NOT bring President's Rule; President asks it to continue till an alternative arrangement (new government or early election)."
+  },
+  "19-047": {
+    "r": "Kailash Nath Katju (Madhya Pradesh) → in Nehru's Cabinet: Law Minister and Home Minister 1951, Defence Minister 1955; CM of Madhya Pradesh 1957-1962.",
+    "c": "Question says Defence first, then Home; the explanation gives Home (1951) before Defence (1955)."
+  },
+  "19-048": {
+    "r": "First Finance Minister of independent India → R.K. Shanmukham Chetty (1947-1948), in Nehru's Cabinet.",
+    "c": "Answer not printed; the correct person (Chetty) is not among the options."
+  },
+  "19-049": {
+    "r": "First Law Minister of independent India → Dr. B.R. Ambedkar; Law Minister in the 1946 Interim Government → Jogendra Nath Mandal.",
+    "t": "Don't confuse the first Cabinet (Ambedkar) with the Interim Government of 1946 (Jogendra Nath Mandal)."
+  },
+  "19-050": {
+    "r": "C.H. Bhabha → Works, Mines and Power (Interim Govt 1946) → Commerce (first Cabinet 1947); Rajendra Prasad, Jagjivan Ram, Baldev Singh kept same portfolios.",
+    "hi": ["Interim Government (अंतरिम सरकार)"]
+  },
+  "19-051": {
+    "r": "12th Prime Minister of India → H.D. Deve Gowda (counting acting PM Gulzari Lal Nanda); Narendra Modi → 15th PM."
+  },
+  "19-052": {
+    "r": "PM tenures: V.P. Singh 1989-90; Chandra Shekhar 1990-91; Deve Gowda 1996-97; I.K. Gujral 1997-98; Atal Bihari Vajpayee 1999-2004.",
+    "h": "Order VP → Chandra Shekhar → Deve Gowda → Gujral → Vajpayee follows the years 1989 to 1999."
+  },
+  "19-053": {
+    "r": "PM more than once → Jawaharlal Nehru, Indira Gandhi, Gulzari Lal Nanda (acting PM twice), Atal Bihari Vajpayee."
+  },
+  "19-054": {
+    "r": "PM more than once with gaps → Gulzari Lal Nanda (1964, 1966), Indira Gandhi (1966-1977, 1980-1984), Vajpayee (1996, 1998-2004); not Nehru or Shastri."
+  },
+  "19-055": {
+    "r": "PM who died outside India → Lal Bahadur Shastri (second PM), in Tashkent (capital of Uzbekistan), 11 January 1966."
+  },
+  "19-056": {
+    "r": "CMs who became PM: Narasimha Rao → undivided Andhra Pradesh; Morarji Desai → Bombay; Deve Gowda → Karnataka; Charan Singh → undivided Uttar Pradesh; Modi → Gujarat."
+  },
+  "19-057": {
+    "r": "Never a Chief Minister before becoming PM → Chandra Shekhar; Deve Gowda, Narasimha Rao and Morarji Desai were CMs earlier."
+  },
+  "19-058": {
+    "r": "Not a CM of any state before becoming PM → Chandra Shekhar; Morarji Desai, P.V. Narasimha Rao and Charan Singh had been CMs."
+  },
+  "19-059": {
+    "r": "Lok Sabha member while PM → Chandra Shekhar (PM 1990-1991, MP from Balia); Deve Gowda, I.K. Gujral, Manmohan Singh were not LS members then."
+  },
+  "19-060": {
+    "r": "PM who never attended Parliament → Chaudhari Charan Singh (28 July 1979 - 14 January 1980); Congress withdrew support before Lok Sabha sat."
+  },
+  "19-061": {
+    "r": "All were Union Finance Ministers: V.P. Singh (1984-87), R. Venkataraman (1980-82), Y.B. Chavan (1971-75), Pranab Mukherjee (2009-2012)."
+  },
+  "19-062": {
+    "r": "LPG (Liberalisation, Privatisation, Globalisation) New Economic Policy → announced by PM P.V. Narasimha Rao, 24 July 1991.",
+    "hi": ["Liberalisation (उदारीकरण)"]
+  },
+  "19-063": {
+    "r": "Dr. Manmohan Singh → former Finance Minister, RBI Governor and India's representative at IMF; never Chairman of the Finance Commission."
+  },
+  "19-064": {
+    "r": "Manmohan Singh (PM 2004-2014) → Rajya Sabha member from Assam (1991, 1996, 2001, 2007, 2013); from Rajasthan in 2019."
+  },
+  "19-065": {
+    "r": "Both true, R not the explanation: ministers make policy and civil servants follow it; parliamentary government works on cabinet collective responsibility."
+  },
+  "19-066": {
+    "r": "Deputy PM: not in the Constitution; a conventional title given to a Cabinet Minister (political decision); confers no PM powers. A and R true, R not explanation.",
+    "hi": ["Deputy Prime Minister (उप-प्रधानमंत्री)"]
+  },
+  "19-067": {
+    "r": "Office of Deputy Prime Minister → extra-constitutional growth; not mentioned in the Constitution, created by political necessity.",
+    "t": "Not created by the 44th or 85th Amendment; no amendment created it.",
+    "hi": ["Extra-constitutional (संविधानेतर)"]
+  },
+  "19-068": {
+    "r": "First Deputy PM → Sardar Vallabhbhai Patel (15 August 1947 - 15 December 1950), also Home Minister; integrated over 500 princely states.",
+    "hi": ["Princely states (देसी रियासतें)"]
+  },
+  "19-069": {
+    "r": "Union executive power → vested in President (Art 53(1)), not PM; ex-officio Chairman of Civil Services Board → Cabinet Secretary, not PM.",
+    "t": "PM has direct charge of the Cabinet Secretariat, but the Cabinet Secretary chairs the Civil Services Board."
+  },
+  "19-070": {
+    "r": "No rule that Cabinet Ministers must be Lok Sabha members; Cabinet Secretariat works under the PM's Office, not the Ministry of Parliamentary Affairs."
+  },
+  "19-071": {
+    "r": "Cabinet Committees: extra-constitutional (Rules of Business), set up by PM; if PM is a member he must chair; Parliamentary Affairs Committee chaired by Defence Minister.",
+    "hi": ["Cabinet Committees (मंत्रिमंडलीय समितियाँ)"]
+  },
+  "19-072": {
+    "r": "91st Amendment Act, 2003 → Council of Ministers incl. PM max 15% of Lok Sabha strength; added as Article 75(1A).",
+    "hi": ["Constitutional Amendment (संविधान संशोधन)"]
+  }
+}

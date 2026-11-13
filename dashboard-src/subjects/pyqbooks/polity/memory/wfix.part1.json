@@ -1,0 +1,40 @@
+{
+  "20-033": {
+    "r": "State Advocate General → appointed by Governor, not President; speaks in State Legislature, no vote (Art 177). Advisory jurisdiction → Supreme Court (Art 143), not High Courts.",
+    "hi": [
+      "Advocate General (महाधिवक्ता)"
+    ]
+  },
+  "27-113": {
+    "r": "V.R. Krishna Iyer → SC judge, never Chief Justice of India; with P.N. Bhagwati, pioneer of PIL (Public Interest Litigation), which lies in both High Courts and Supreme Court.",
+    "t": "PIL = Public Interest Litigation, not Public Inquiry or Public Investment Litigation.",
+    "hi": [
+      "Public Interest Litigation (जनहित याचिका)"
+    ]
+  },
+  "29-070": {
+    "r": "Art 173: legislator must be citizen, twenty-five+ (Assembly)/thirty+ (Council), so voter eligibility alone can't make one minister; RPA 1951: two+ years' jail → disqualified till six years after release.",
+    "t": "The six-year bar runs from release; it is not a permanent disqualification.",
+    "hi": [
+      "Representation of the People Act (लोक प्रतिनिधित्व अधिनियम)"
+    ]
+  },
+  "29-082": {
+    "r": "Chief Secretary → chosen by Chief Minister, appointed by Governor; head of the State's administrative machinery; has no fixed tenure.",
+    "hi": [
+      "Chief Secretary (मुख्य सचिव)"
+    ]
+  },
+  "30-040": {
+    "r": "Judicial custody → accused in Magistrate's custody, kept in jail (police custody = police lockup); police may interrogate only with court's approval. Arrested person goes before Magistrate within 24 hours.",
+    "hi": [
+      "Judicial custody (न्यायिक हिरासत)"
+    ]
+  },
+  "43-058": {
+    "r": "Commonwealth → has no charter, treaty or constitution; ex-British territories did not join automatically, a country must declare it (Burma, Egypt, Kuwait, UAE never joined).",
+    "hi": [
+      "Commonwealth (राष्ट्रमंडल)"
+    ]
+  }
+}

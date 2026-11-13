@@ -1,0 +1,420 @@
+{
+ "15-040": {
+  "r": "IDA (World Bank affiliate, set up 24 September 1960) → zero/low-interest loans ('credits') and grants to the world's poorest countries for poverty reduction.",
+  "t": "Don't confuse IDA with IFC or MIGA, the other World Bank affiliates in the options; IMF is a separate body."
+ },
+ "15-041": {
+  "r": "IMF lends only to member countries; its main function → help members solve balance of payments problems and keep the international monetary system stable.",
+  "hi": [
+   "International Monetary Fund (अंतर्राष्ट्रीय मुद्रा कोष)"
+  ]
+ },
+ "15-044": {
+  "r": "IMF loans → to meet temporary balance of payments deficits of member countries; IMF is not a development bank (not for projects, gold reserves or capital formation).",
+  "hi": [
+   "Balance of payments (भुगतान संतुलन)"
+  ]
+ },
+ "15-045": {
+  "r": "Bretton Woods Conference (44 nations, 1-22 July 1944, New Hampshire, USA) → created IMF and IBRD (World Bank) only; not the UN or WTO.",
+  "h": "Bretton Woods twins = IMF + World Bank."
+ },
+ "15-047": {
+  "r": "United Nations Monetary and Financial Conference, 1944 = Bretton Woods Conference → set up IMF and IBRD; GATT was signed separately in Geneva by 23 nations, 30 October 1947.",
+  "c": "Answer not printed (*): the question wrongly says GATT was set up at this conference; intended answer is (b) Bretton Woods Conference."
+ },
+ "15-048": {
+  "r": "IMF → formally established under the Bretton Woods Agreement on 27 December 1945.",
+  "t": "Don't fall for look-alike names such as 'Bretton Stone' or 'S. Woods' Agreement."
+ },
+ "15-049": {
+  "r": "IMF has 190 member countries; Andorra became the 190th member in October 2020."
+ },
+ "15-050": {
+  "r": "India → founding member of IMF and World Bank; became a member of both on 27 December 1945."
+ },
+ "15-052": {
+  "r": "India in IMF (as on June 2024) → 2.75% of SDR quota and 2.63% of votes.",
+  "t": "Don't swap the two: quota share (2.75%) is higher than vote share (2.63%)."
+ },
+ "15-053": {
+  "r": "Gold Tranche (Reserve Tranche) → IMF credit to members; an unconditional drawing right on the IMF, usable any time without conditions or fee; normally 25% of quota."
+ },
+ "15-054": {
+  "r": "Rapid Financing Instrument (RFI) and Rapid Credit Facility (RCF) → IMF lending windows for member countries with an urgent balance of payments need."
+ },
+ "15-055": {
+  "r": "'Paper gold' → Special Drawing Rights (SDR) of IMF: an international reserve asset and IMF's unit of account, added to members' foreign currency and gold reserves.",
+  "hi": [
+   "Special Drawing Rights (विशेष आहरण अधिकार)"
+  ]
+ },
+ "15-057": {
+  "r": "Chinese renminbi (yuan) added to IMF's SDR basket (decided November 2015, effective October 1, 2016), joining US dollar, euro, Japanese yen and pound sterling."
+ },
+ "15-058": {
+  "r": "World Economic Outlook → IMF; Human Development Report → UNDP; World Development Report → World Bank; Global Competitiveness Report → World Economic Forum.",
+  "t": "Don't link 'World Economic Outlook' to the World Economic Forum just because of the name."
+ },
+ "15-059": {
+  "r": "Global Financial Stability Report → IMF, released twice a year (April and October); assesses the global financial system and markets."
+ },
+ "15-060": {
+  "r": "Gita Gopinath (Harvard) → IMF Economic Counsellor and Research Director (Chief Economist), appointed October 2018; First Deputy Managing Director since 21 January 2022."
+ },
+ "15-061": {
+  "r": "WTO → main security guard of international trade; started 1 January 1995 under Marrakesh Agreement (signed 15 April 1994), replacing GATT, its earlier form.",
+  "hi": [
+   "World Trade Organization (विश्व व्यापार संगठन)"
+  ]
+ },
+ "15-064": {
+  "r": "WTO headquarters → Geneva, Switzerland."
+ },
+ "15-065": {
+  "r": "3rd WTO Ministerial Conference, Seattle (USA), 30 November-3 December 1999 → failed over linking trade with labour standards and environment issues."
+ },
+ "15-066": {
+  "r": "1st WTO Ministerial Conference, Singapore, 9-13 December 1996 → agreement on expanding world trade in information technology products."
+ },
+ "15-067": {
+  "r": "Doha (Qatar) → 4th WTO Ministerial Conference, November 2001, launched Doha Development Agenda; 12th MC Geneva June 2022; 13th MC Abu Dhabi 2024."
+ },
+ "15-068": {
+  "r": "WTO uses food safety standards of the Codex Alimentarius Commission (set up 1963 by FAO and WHO) as reference point in dispute settlement."
+ },
+ "15-069": {
+  "r": "WTO aims → free trade and resource flows, protection of intellectual property rights, balanced trade, East Bloc-West trade; started 1 January 1995."
+ },
+ "15-071": {
+  "r": "Roberto Azevedo (Brazil) → 6th WTO Director-General, replaced Pascal Lamy on 1 September 2013; Ngozi Okonjo-Iweala (Nigeria) → seventh DG from 1 March 2021.",
+  "t": "WTO's head is the Director-General, not a 'President' as the question says."
+ },
+ "15-072": {
+  "r": "India → WTO member since 1 January 1995 (founding); GATT member since 8 July 1948; WTO has 164 members (Afghanistan 164th, 29 July 2016)."
+ },
+ "15-073": {
+  "r": "Nepal → 147th WTO member on 23 April 2004."
+ },
+ "15-074": {
+  "r": "Serbia is not a WTO member; it only has observer status (Slovenia, Slovakia and Colombia are members)."
+ },
+ "15-075": {
+  "r": "WTO: set up 1 January 1995, born of the Uruguay Round (1986-93) of GATT; aims at trade liberalisation but is still far from achieving it (book)."
+ },
+ "15-076": {
+  "r": "Doha Round (launched at 4th WTO Ministerial, Doha, November 2001) → central issue: agriculture, especially farm subsidies."
+ },
+ "15-077": {
+  "r": "WTO Agreement on Agriculture (Uruguay Round, in force 1 January 1995) three pillars → market access, domestic support, export competition; anti-dumping duties are not a pillar.",
+  "hi": [
+   "Agreement on Agriculture (कृषि पर समझौता)"
+  ]
+ },
+ "15-078": {
+  "r": "Blue box → direct payments to farmers under production-limiting programmes (e.g. gap between MSP and market price); WTO subsidy boxes: green, amber, blue.",
+  "h": "Traffic lights: green = go (permitted), amber = slow down (reduce), red = stop (no red box in AoA).",
+  "t": "India's MSP itself is amber box; NITI Aayog's Price Deficiency Payment (MSP minus market price) would be blue box."
+ },
+ "15-080": {
+  "r": "WTO farm subsidy boxes → green, amber and blue only; there is no red box (and no white box) in the Agreement on Agriculture.",
+  "c": "Book marks (c) Red box, but its explanation reads '(c) & (d)': white box is also not a WTO box."
+ },
+ "15-081": {
+  "r": "Fertilizer input subsidy and cuts in power/irrigation bills → indirect farm subsidies (not direct); WTO does not ban indirect subsidies; book treats all Indian subsidies as indirect.",
+  "c": "Explanation itself says India gives some direct subsidy (food subsidy), yet marks 'all subsidies in India are indirect' correct."
+ },
+ "15-082": {
+  "r": "Special Safeguard Mechanism (SSM) → WTO tool letting developing countries temporarily raise tariffs on farm imports during import surges or price falls."
+ },
+ "15-083": {
+  "r": "Most-Favoured-Nation (MFN) clause (GATT/WTO) → a trade concession given to one member must go to all members; means equal treatment, not favouritism.",
+  "hi": [
+   "Most-Favoured-Nation (सर्वाधिक अनुग्रहप्राप्त राष्ट्र)"
+  ]
+ },
+ "15-084": {
+  "r": "GATT = General Agreement on Tariffs and Trade; signed 30 October 1947 at Geneva by 23 countries; in force from 1948, office at Geneva."
+ },
+ "15-086": {
+  "r": "Dunkel proposal (draft, December 1991, Uruguay Round of GATT) → related to intellectual property rights (TRIPS), plus services (GATS) and investment (TRIMs)."
+ },
+ "15-087": {
+  "r": "Arthur Dunkel → Director General of GATT (1980-1993); launched the Uruguay Round in September 1986, which led to WTO."
+ },
+ "15-088": {
+  "r": "Dunkel draft (book): mandatory for India to accept all proposals; cut farm subsidies; accepted by Parliament; it did not keep the Multi-fibre Agreement (replaced by Agreement on Textiles and Clothing)."
+ },
+ "15-089": {
+  "r": "Uruguay Round (1986-1993, 8th round, 123 countries) → GATT trade talks that led to creation of WTO."
+ },
+ "15-090": {
+  "r": "TRIMs = Trade-Related Investment Measures (WTO, Uruguay Round) → bars investment rules that favour domestic firms; applies only to trade in goods."
+ },
+ "15-091": {
+  "r": "TRIMs → quantitative restrictions on imports by foreign investors are prohibited; covers trade in goods only (not services); not concerned with regulating foreign investment itself."
+ },
+ "15-092": {
+  "r": "WTO Trade Facilitation Agreement → part of 2013 Bali Ministerial package; India ratified April 2016 (76th member); in force February 2017, not January 2016."
+ },
+ "15-093": {
+  "r": "TRIPS covers copyright, trade marks, industrial designs, geographical indications and more; labour standards are not part of TRIPS.",
+  "hi": [
+   "Intellectual Property Rights (बौद्धिक संपदा अधिकार)"
+  ]
+ },
+ "15-094": {
+  "r": "TRIPS protects trade marks, layout-designs of integrated circuits, geographical indications, patents, trade secrets, copyright; plant breeding is not included."
+ },
+ "15-095": {
+  "r": "Intangible investments → brand recognition, intellectual property, mailing list of clients (customer lists); inventory is a tangible asset.",
+  "h": "If you cannot touch it, it is intangible."
+ },
+ "15-096": {
+  "r": "National IPR Policy (May 2016) → reiterates India's commitment to Doha Development Agenda and TRIPS; DIPP is the nodal agency for IPR in India."
+ },
+ "15-097": {
+  "r": "Geographical Indications of Goods (Registration and Protection) Act, 1999 → enacted to meet WTO obligations under TRIPS.",
+  "hi": [
+   "Geographical Indication (भौगोलिक संकेतक)"
+  ]
+ },
+ "15-098": {
+  "r": "Trade Mark → individual/company right, can be licensed; GI → community right, cannot be licensed; GIs cover farm goods, handicrafts and manufactured goods too.",
+  "c": "Explanation garbles statement 2 (says GI 'is licensed but has to be registered') though answer (b) treats it as correct."
+ },
+ "15-099": {
+  "r": "WTO Agreement on Agriculture → developing countries like India also had to cut farm subsidies (export subsidy 24% by value over ten years; total AMS 13.3%)."
+ },
+ "15-100": {
+  "r": "'Agreement on Agriculture', 'Agreement on Sanitary and Phytosanitary Measures' and 'Peace Clause' → all World Trade Organization terms."
+ },
+ "15-101": {
+  "r": "WTO is criticised as puppet of MNCs, cutting sovereignty, favouring free trade over quality; but it does settle trade disputes (Dispute Settlement Body)."
+ },
+ "15-102": {
+  "r": "Broad-based Trade and Investment Agreement (BTIA) → India-European Union talks, begun June 2007 in Brussels; stalled since 2013."
+ },
+ "15-103": {
+  "r": "G20 → set up 1999 for Finance Ministers and Central Bank Governors; raised to Heads of State level after the 2007-08 crisis; digital public infrastructure was India's G20 priority."
+ },
+ "15-104": {
+  "r": "G20 members → about 85% of global GDP, more than 75% of global trade (not 50%), about two-thirds of world population."
+ },
+ "15-105": {
+  "r": "G20 = 19 countries + EU + African Union; includes Argentina, Mexico, South Africa, Turkey; Malaysia, New Zealand, Iran, Vietnam, Singapore are not members."
+ },
+ "15-106": {
+  "r": "G20 → 19 countries + EU + African Union; no permanent headquarters (not London); India is in Group-2 with Russia, South Africa and Turkey."
+ },
+ "15-107": {
+  "r": "India held the G20 presidency from 1 December 2022 to 30 November 2023; hosted the G20 Leaders' Summit for the first time in September 2023.",
+  "c": "Answer not printed (*): India withdrew its 2018 bid; no option fits exactly (presidency began December 2022)."
+ },
+ "15-108": {
+  "r": "First G20 Summit → Washington D.C., 2008 (true); India took G20 presidency from Indonesia, not Australia, on 1 December 2022."
+ },
+ "15-109": {
+  "r": "G20 Common Framework (2020) → endorsed by G20 with the Paris Club; supports Low Income Countries with unsustainable debt, beyond the DSSI."
+ },
+ "15-110": {
+  "r": "Base Erosion and Profit Shifting (BEPS) → tax planning by multinationals that shifts profits to low-tax places; context: curbing tax evasion by multinational companies."
+ },
+ "15-111": {
+  "r": "NAMA-11 → group of developing countries (India, Brazil, South Africa, Argentina, Egypt etc.) in WTO Non-Agricultural Market Access talks; seeks flexibility in opening industrial goods trade."
+ },
+ "15-112": {
+  "r": "Digital Economy Report → UNCTAD; first released September 2019, second in September 2021."
+ },
+ "15-113": {
+  "r": "World Economic Forum → founded 1971 by Klaus Schwab as a not-for-profit foundation; headquarters Geneva; known for its annual meeting at the end of January."
+ },
+ "15-114": {
+  "r": "WEF Annual Meeting 2016 → Davos-Klosters, Switzerland (January 2016); the 2024 meeting was also at Davos, 15-19 January, motto 'Rebuilding Trust'."
+ },
+ "15-115": {
+  "r": "WEF Davos Summit, 23 January 2018 → PM Narendra Modi named climate change, terrorism and protectionism as global challenges (not Cold War)."
+ },
+ "15-116": {
+  "r": "Global Talent Competitiveness Index 2020 (INSEAD, released at WEF Davos) → Switzerland 1, USA 2 (not 4), Singapore 3, India 72."
+ },
+ "15-117": {
+  "r": "Global Competitiveness Report / Global Competitiveness Index → World Economic Forum (yearly till 2020)."
+ },
+ "15-119": {
+  "r": "WEF Global Gender Gap Index (first 2006) → four sub-indexes: economic participation, educational attainment, political empowerment, health and survival; leisure is not one.",
+  "h": "HEEP: Health, Education, Economy, Politics."
+ },
+ "15-120": {
+  "r": "Global Gender Gap Index / Report → World Economic Forum (first 2006); India 127 of 146 (2023), 129 of 146 (2024).",
+  "hi": [
+   "Gender gap (लैंगिक अंतराल)"
+  ]
+ },
+ "15-122": {
+  "r": "India in WEF Global Gender Gap Index 2020 → 112th of 153; 2023 → 127th and 2024 → 129th of 146 (Iceland top, Sudan last)."
+ },
+ "15-123": {
+  "r": "First Gender Social Norms Index (GSNI) → UNDP, 5 March 2020; shows how social beliefs block gender equality in politics, work and education."
+ },
+ "15-124": {
+  "r": "Travel and Tourism Competitiveness Index → World Economic Forum (every two years); from 2021 replaced by Travel and Tourism Development Index."
+ },
+ "15-125": {
+  "r": "India → founding member of Asian Development Bank (1966) and Colombo Plan (1951); not a member of APEC or OECD.",
+  "t": "Don't assume India is in APEC just because it is an Asia-Pacific country."
+ },
+ "15-126": {
+  "r": "ADB's India Resident Mission → New Delhi (opened 1992)."
+ },
+ "15-127": {
+  "r": "India is a member of all three → AIIB (founding member, second-largest vote; HQ Beijing), MTCR (2016) and SCO (2017)."
+ },
+ "15-128": {
+  "r": "European Economic Community → created by Treaty of Rome, 1957; headquarters Brussels; became the European Community within the EU in 1993."
+ },
+ "15-129": {
+  "r": "EU: earlier European Community; Single European Act (1986) and Maastricht Treaty were milestones; citizens have dual citizenship; Switzerland is not an EU member."
+ },
+ "15-130": {
+  "r": "Poland joined the EU only in 2004 (not a member in 1997); EU now has 27 members incl. France, Germany, Italy, Poland; UK left 31 January 2020.",
+  "c": "Answer not printed (*): in 1997 the answer was (d) Poland; today all four options are EU members."
+ },
+ "15-131": {
+  "r": "European Stability Mechanism (2012, Luxembourg) → EU agency giving financial help to eurozone countries in distress; successor of European Financial Stability Facility."
+ },
+ "15-132": {
+  "r": "EU Stability and Growth Pact (1997) → limits budget deficit to 3% and debt to 60% of GDP; nothing about sharing infrastructure or technology."
+ },
+ "15-133": {
+  "r": "Digital Single Market Strategy → European Union (announced May 2015 by Juncker Commission); covers digital marketing, e-commerce and telecom."
+ },
+ "15-134": {
+  "r": "EU-US Trade and Technology Council → launched June 15, 2021 in Brussels to coordinate trade and technology issues; not to control technological progress (Statement-II false)."
+ },
+ "15-135": {
+  "r": "UNOPS S3i (set up March 2020) → invests in affordable housing, renewable energy and health infrastructure; mass rapid transport is not a focus."
+ },
+ "15-136": {
+  "r": "FAO's GIAHS (started 2002) → goal: identify and safeguard eco-friendly traditional farm practices, landscapes, agro-biodiversity and local knowledge; not modern technology or GI status."
+ },
+ "15-137": {
+  "r": "100th ILO Conference (1-17 June 2011) → adopted standards to protect domestic workers; ILO created 1919 under the Treaty of Versailles."
+ },
+ "15-138": {
+  "r": "ILO Conventions 138 (Minimum Age) and 182 (Worst Forms of Child Labour) → child labour; India's Cabinet approved ratifying both in March 2017.",
+  "hi": [
+   "Child labour (बाल श्रम)"
+  ]
+ },
+ "15-139": {
+  "r": "USA presses developing countries on ILO labour standards (threat of WTO sanctions) but is itself unconcerned with implementing them → A true, R false."
+ },
+ "15-140": {
+  "r": "World Social Protection Report → International Labour Organization (ILO)."
+ },
+ "15-141": {
+  "r": "World Social Security Report → earlier released by ILO; ILO now releases the World Social Protection Report instead."
+ },
+ "15-142": {
+  "r": "Crystal Award → World Economic Forum, given annually to artists and cultural leaders who inspire change."
+ },
+ "15-143": {
+  "r": "UNSC = United Nations Security Council → 5 permanent members (China, US, France, Russia, UK) + 10 non-permanent members elected for two years.",
+  "hi": [
+   "Security Council (सुरक्षा परिषद)"
+  ]
+ },
+ "15-145": {
+  "r": "WTO → generally forbids quantitative restrictions in trade; IMF → finance to correct balance of payments; SAARC → South Asian cooperation; IDA → soft loans."
+ },
+ "15-146": {
+  "r": "IMFC (24 members, meets twice a year) → discusses global economic concerns and advises IMF on the direction of its work; World Bank attends as observer."
+ },
+ "15-147": {
+  "r": "Headquarters → UNO New York; WTO Geneva; ILO Geneva; FAO Rome.",
+  "t": "Don't swap them: ILO is in Geneva, FAO is in Rome."
+ },
+ "15-148": {
+  "r": "Food and Agriculture Organization (FAO), UN agency fighting hunger → headquarters Rome."
+ },
+ "15-149": {
+  "r": "UN members: 191 till 2005; Montenegro 192nd (28 June 2006); South Sudan 193rd (14 July 2011); now 193 member states.",
+  "c": "Answer not printed (*): option (d) 191 was right till mid-2006; the count is now 193."
+ },
+ "15-150": {
+  "r": "Bank for International Settlements → not related to the UN (coordinates central banks); MIGA, IFC and ICSID are World Bank Group units, part of the UN system."
+ },
+ "15-151": {
+  "r": "UNCTAD 'Emerging Economies' → Brazil, Mexico and South Africa (also China, India, Argentina, Indonesia, Russia and others)."
+ },
+ "15-152": {
+  "r": "First APMCHUD → New Delhi, December 2006, theme 'A vision for sustainable urbanization in the Asia-Pacific by 2020'; biennial, hosted by different countries."
+ },
+ "15-153": {
+  "r": "Trans-Pacific Partnership → trade deal of 12 Pacific Rim countries (signed 4 February 2016), not all Rim nations, not maritime security; replaced by CPTPP (TPP-11) after US exit."
+ },
+ "15-154": {
+  "r": "Asia-Pacific Trade Agreement (APTA, earlier Bangkok Agreement, 1975) → Bangladesh, China, India, South Korea, Lao PDR, Mongolia, Sri Lanka; Myanmar is not a member."
+ },
+ "15-155": {
+  "r": "13th NAM Summit → Kuala Lumpur, Malaysia, February 2003; 19th → Kampala, Uganda, January 2024; NAM founded 1961 at Belgrade, now 121 countries."
+ },
+ "15-156": {
+  "r": "NAM Coordinating Bureau Ministerial Meeting 2019 → Caracas, Venezuela (20-21 July); 18th NAM Summit → Baku, Azerbaijan, October 2019."
+ },
+ "15-157": {
+  "r": "OPEC (founded 14 September 1960, Baghdad; 12 members) → emphasis on both production and prices of petroleum, to stabilise oil markets."
+ },
+ "15-158": {
+  "r": "China is not an OPEC member; OPEC (Baghdad 1960, HQ Vienna) has 12 members incl. Algeria, UAE; Indonesia suspended membership on 30 November 2016.",
+  "c": "Book prints two answers: (b) China, and (c) Indonesia, which suspended its membership in 2016."
+ },
+ "15-159": {
+  "r": "SAARC → 8 South Asian members; founded 8 December 1985 at Dhaka by 7 countries; HQ Kathmandu; Afghanistan joined 2007; Thailand and Cambodia are not members.",
+  "h": "MBBS PAIN: Maldives, Bangladesh, Bhutan, Sri Lanka, Pakistan, Afghanistan, India, Nepal."
+ },
+ "15-162": {
+  "r": "Indian Grain Storage Management and Research Institute (IGMRI) → Hapur, Uttar Pradesh; trains SAARC officials; set up 1958 as Grain Storage Research and Training Centre."
+ },
+ "15-163": {
+  "r": "First SAARC summit in India → November 1986; SAARC secretariat Kathmandu; 18th summit Kathmandu 2014; 19th (Islamabad, 2016) was cancelled.",
+  "c": "Explanation misprints SAARC's founding (Dhaka, 8 December) as 1986; it was founded a year earlier."
+ },
+ "15-164": {
+  "r": "UNICEF, IMF and WHO → global organisations; SAARC → regional body of 8 South Asian countries, so it is the odd one out."
+ },
+ "15-165": {
+  "r": "UNICEF (United Nations Children's Fund) → headquarters New York."
+ },
+ "15-166": {
+  "r": "Eleventh BRICS Summit 2019 → Brasilia, Brazil (November); 12th (2020) held by video due to COVID-19; 13th (2021) hosted by India."
+ },
+ "15-167": {
+  "r": "First BRIC summit → Yekaterinburg, Russia, 16 June 2009 (not Rio); South Africa joined last, September 2010 → BRIC became BRICS; Canada is not a member.",
+  "t": "Since 1 January 2024 Egypt, Ethiopia, Iran and UAE have also joined, taking BRICS to 9.",
+  "c": "Variant 'South Africa joined BRIC in' has no printed answer: its options lack 2010."
+ },
+ "15-172": {
+  "r": "9th BRICS Summit → Xiamen, China, 2017; 15th → Johannesburg, South Africa, 2023; 16th → Russia, 2024."
+ },
+ "15-173": {
+  "r": "New Development Bank (BRICS bank) → agreed at 6th BRICS summit, Fortaleza, July 2014; in force July 2015; HQ Shanghai; set up by BRICS, not APEC."
+ },
+ "15-175": {
+  "r": "Term 'BRIC' coined in 2001 by British economist Jim O'Neill (Goldman Sachs) in 'Building Better Global Economic BRICs'; his subject → economics."
+ },
+ "15-177": {
+  "r": "K.V. Kamath → first President of New Development Bank (2015); succeeded by Marcos Troyjo (2020) and Dilma Rousseff (March 2023)."
+ },
+ "15-178": {
+  "r": "BRIC: China's GDP exceeds the combined GDP of Brazil, Russia and India (true); China's population is not more than any two others combined (India + Brazil exceed it)."
+ },
+ "15-179": {
+  "r": "Highest per capita income among given BRICS nations → China (World Bank, 2022); Russia was highest in 2010; India is near the bottom.",
+  "c": "Book updates the answer to China using 2022 data; when asked (2010), Russia had the highest."
+ },
+ "15-180": {
+  "r": "India and Pakistan became full SCO members in 2017 at the Astana summit; SCO founded 15 June 2001, Shanghai; Shanghai Five (1996) never included Vietnam."
+ }
+}

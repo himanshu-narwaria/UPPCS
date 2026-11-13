@@ -1,0 +1,479 @@
+{
+"08-159": {
+  "r": "'Planning and the Poor' → book by B.S. Minhas."
+},
+"09-001": {
+  "r": "InvITs: dividend and interest income fully taxable at investor's slab (Statement-I wrong); InvITs recognised as borrowers under SARFAESI Act, 2002 (Statement-II correct).",
+  "hi": [
+    "Infrastructure Investment Trust (अवसंरचना निवेश ट्रस्ट)"
+  ]
+},
+"09-002": {
+  "r": "Interest Coverage Ratio → how easily a firm pays interest on its debt; helps judge present and emerging lending risk; higher ICR is better.",
+  "t": "Higher ICR means stronger debt-servicing ability; 'higher is worse' is the trap."
+},
+"09-003": {
+  "r": "Insolvency → state of being unable to pay debts; bankruptcy → legal process (conclusion) liquidating assets; IBBI (1 October 2016) regulates under IBC, 2016.",
+  "t": "Statements swap them: insolvency is the state, bankruptcy the legal outcome."
+},
+"09-004": {
+  "r": "Inter-Creditor Agreement (Project Sashakt, Sunil Mehta Committee, 23 July 2018) → faster resolution of stressed assets of Rs. 50 crore+ under consortium lending; binding if 66% lenders agree."
+},
+"09-005": {
+  "r": "S4A (Scheme for Sustainable Structuring of Stressed Assets) → RBI scheme, 13 June 2016, for deep restructuring of large corporate borrowers facing genuine difficulties.",
+  "hi": [
+    "Stressed assets (दबावग्रस्त परिसंपत्तियाँ)"
+  ]
+},
+"09-006": {
+  "r": "RBI 'Storage of Payment System Data' (6 April 2018) → all payment data stored only in India; no public-sector ownership rule; audit report goes to RBI, not CAG."
+},
+"09-007": {
+  "r": "Committee to boost cashless transactions → Neeraj Kumar Gupta Committee (April 2016); after demonetisation, Amitabh Kant committee on cashless economy."
+},
+"09-008": {
+  "r": "Merchant Discount Rate (MDR) → fee a bank charges a merchant for accepting customers' card payments; compensates card issuer, PoS bank and gateways."
+},
+"09-009": {
+  "r": "All ATMs linked by National Financial Switch (NFS) → built by RBI's IDRBT in 2004; taken over by NPCI in December 2009."
+},
+"09-010": {
+  "r": "NPCI (set up with RBI's help) → promotes financial inclusion; launched RuPay, a domestic card payment system, in 2012. Both statements correct.",
+  "hi": ["Financial inclusion (वित्तीय समावेशन)"]
+},
+"09-011": {
+  "r": "UPI (developed by NPCI) → instant inter-bank payments by mobile; likely result: mobile wallets not needed for online payments."
+},
+"09-012": {
+  "r": "CBDC → payments possible without US dollar or SWIFT; can carry programmed conditions like a spending time-frame (China's digital yuan expiry).",
+  "hi": [
+    "Central Bank Digital Currency (केंद्रीय बैंक डिजिटल मुद्रा)"
+  ]
+},
+"09-013": {
+  "r": "Bitcoin (January 2009, Satoshi Nakamoto) → not tracked or issued by central banks; peer-to-peer between Bitcoin addresses; parties can stay anonymous.",
+  "hi": [
+    "Cryptocurrency (क्रिप्टोकरेंसी)"
+  ]
+},
+"09-014": {
+  "r": "NFTs → unique cryptographic tokens on blockchain; digitally represent physical assets; cannot be exchanged at equivalency, so not a medium of commercial transactions.",
+  "t": "Fungible cryptocurrencies swap one-for-one; non-fungible tokens cannot."
+},
+"09-015": {
+  "r": "Broad Money (M3) = currency with public + demand deposits with banks + other deposits with RBI + time deposits with banks.",
+  "h": "M3 = M1 + time deposits with banks.",
+  "hi": ["Broad Money (व्यापक मुद्रा)"]
+},
+"09-017": {
+  "r": "Withdrawing Rs. 1,00,000 cash → demand deposits fall and currency with public rises equally; aggregate money supply (M3) unchanged."
+},
+"09-018": {
+  "r": "Liquidity, highest to lowest → currency, demand deposits, savings deposits, time deposits.",
+  "h": "C-D-S-T: Cash, Demand, Savings, Time, from instant to locked."
+},
+"09-019": {
+  "r": "Money multiplier rises with more banking habit (more deposits to lend); higher CRR or SLR lowers it; population rise need not raise it.",
+  "h": "More deposits → bigger multiplier; higher reserve ratios → smaller.",
+  "hi": [
+    "Money multiplier (मुद्रा गुणक)"
+  ]
+},
+"09-020": {
+  "r": "Money multiplier in India = Broad Money (M3) ÷ Reserve Money (high-powered money, M0 or R).",
+  "hi": [
+    "Reserve Money (आरक्षित मुद्रा)"
+  ]
+},
+"09-021": {
+  "r": "Black money → illegal income, or legal income hidden from tax, on which income tax is not paid; curbs include Voluntary Disclosure of Income Scheme.",
+  "hi": [
+    "Black money (काला धन)"
+  ]
+},
+"09-022": {
+  "r": "Main worry from black money → loss of revenue to the State Exchequer through tax evasion, cutting funds for welfare schemes."
+},
+"09-023": {
+  "r": "Demonetisation (8 November 2016, Rs. 500 and Rs. 1000 notes) → aims: curb black money and fake notes, less cash, more digital, wider tax base; not GDP growth."
+},
+"09-024": {
+  "r": "Paper Currency Act 1861 gave Government monopoly of note issue; first Government paper currency issued in 1862.",
+  "t": "Earlier notes came from private and Presidency banks (e.g. Bank of Hindustan, 1770-1832)."
+},
+"09-025": {
+  "r": "Decimal coinage → 1 April 1957 ('Naya paisa'); 'Naya' dropped from 1 June 1964, becoming just 'paisa'."
+},
+"09-027": {
+  "r": "Legal tender money → money a creditor is legally bound to accept in settlement of claims (banknotes; coins within set limits).",
+  "hi": [
+    "Legal tender (वैध मुद्रा)"
+  ]
+},
+"09-028": {
+  "r": "RBI can print notes up to Rs. 10,000 (Section 24, RBI Act 1934); Rs. 10,000 note issued 1938, demonetised 1946; reissued 1954, demonetised 1978."
+},
+"09-029": {
+  "r": "Note issue → Minimum Reserve System (1956, amended 1957): gold plus foreign securities at least Rs. 200 crore, gold at least Rs. 115 crore.",
+  "hi": [
+    "Minimum Reserve System (न्यूनतम आरक्षित प्रणाली)"
+  ]
+},
+"09-031": {
+  "r": "RBI notes are backed by gold coin and bullion, rupee coin, Government of India securities and foreign securities (Section 33, RBI Act 1934)."
+},
+"09-032": {
+  "r": "Coins issued by Government of India (Ministry of Finance), circulated by RBI; four mints: Mumbai, Noida, Kolkata, Hyderabad.",
+  "t": "Don't confuse: RBI issues notes; Ministry of Finance issues coins."
+},
+"09-034": {
+  "r": "Currency expansion → more money supply, lower value of money, higher prices."
+},
+"09-035": {
+  "r": "Demand-pull inflation causes → expansionary policies, fiscal stimulus, higher purchasing power; not inflation-indexed wages or rising interest rates.",
+  "h": "Demand-pull: more money and demand chasing the same output.",
+  "hi": [
+    "Demand-pull inflation (मांगजनित मुद्रास्फीति)"
+  ]
+},
+"09-036": {
+  "r": "Inflation → prices of goods rise and value of money falls; exchange rate does not improve (rupee also weakens).",
+  "h": "Inflation is a seesaw: prices go up, money's value goes down.",
+  "hi": [
+    "Inflation (मुद्रास्फीति)"
+  ]
+},
+"09-037": {
+  "r": "Fall in inflation rate → prices rising more slowly than before; it does not mean prices have fallen.",
+  "t": "Falling inflation is not falling prices; falling prices is deflation."
+},
+"09-038": {
+  "r": "Inflation benefits debtors, producers, traders, farmers; hurts creditors, moneylenders, pensioners, fixed-income groups, savings account holders."
+},
+"09-039": {
+  "r": "Inflation helps debtors (repay with cheaper money); creditors, fixed-interest bond investors, consumers and pensioners lose in real terms.",
+  "h": "Inflation is the borrower's friend, the lender's enemy."
+},
+"09-042": {
+  "r": "Zero inflation for a year needs the annual inflation rate to be zero in every week of the year (inflation measured week by week)."
+},
+"09-043": {
+  "r": "Inflation fell from 10.9% (1994-95) to 4.8% (1997-98): A true; foreign investment rose only slightly (4807 to 5353 million US $): R false."
+},
+"09-044": {
+  "r": "Deflation → persistent fall in general price level of goods and services; opposite of inflation.",
+  "t": "A fall in the rate of inflation is not deflation.",
+  "hi": [
+    "Deflation (अपस्फीति)"
+  ]
+},
+"09-045": {
+  "r": "Base effect → impact of previous year's price level on current inflation rate; a low base shows a high rate.",
+  "h": "Low base → high inflation rate; high base → low rate.",
+  "hi": [
+    "Base effect (आधार प्रभाव)"
+  ]
+},
+"09-046": {
+  "r": "Double-digit inflation curbed by containing budgetary deficit and unproductive expenditure; revenue deficit fell from 3.3% of GDP (1990-91) to 2.5% (1992-93)."
+},
+"09-047": {
+  "r": "Stagflation → high inflation, slow growth, high unemployment; causes: spending-led inflation, falling industrial output, weak demand, currency appreciation hurting exports.",
+  "h": "Stagflation = stagnation + inflation.",
+  "hi": [
+    "Stagflation (मुद्रास्फीतिजनित मंदी)"
+  ]
+},
+"09-048": {
+  "r": "Bottleneck inflation → supply falls sharply while demand stays same, due to supply bottlenecks or inefficient distribution; tough for government (A, R true; R explains A)."
+},
+"09-049": {
+  "r": "Headline inflation → change in CPI for a typical household basket; core inflation → CPI change excluding volatile food and fuel. Both correct.",
+  "h": "Core = headline minus the shaky items (food and fuel).",
+  "hi": [
+    "Core inflation (मूल मुद्रास्फीति)"
+  ]
+},
+"09-050": {
+  "r": "Core inflation = headline inflation excluding both food and fuel inflation; shows the long-run price trend."
+},
+"09-051": {
+  "r": "Inflation now measured by CPI (Combined); WPI was main index till April 2014, so 'calculated on WPI' is now incorrect."
+},
+"09-052": {
+  "r": "Inflation in India measured by CPI, WPI and Labour Cost of Living Index; RBI's key measure now CPI (Combined)."
+},
+"09-053": {
+  "r": "Headline inflation → CPI (Combined), base 2012 = 100; RBI adopted it as key measure in April 2014, replacing WPI.",
+  "t": "Old answers say WPI; since April 2014 the answer is CPI-Combined."
+},
+"09-056": {
+  "r": "At question time → inflation in India measured by Wholesale Price Index (WPI); later replaced by CPI (Combined)."
+},
+"09-057": {
+  "r": "Inflation target (4% CPI, ±2%, 5 August 2016 to 31 March 2021) set by Government of India with RBI, under RBI Act amended May 2016.",
+  "h": "4 ± 2: the band runs from 2 to 6 percent.",
+  "hi": [
+    "Inflation targeting (मुद्रास्फीति लक्ष्यीकरण)"
+  ]
+},
+"09-058": {
+  "r": "Annual inflation in 1991 (calendar year, monthly average WPI) → about 12.7%."
+},
+"09-059": {
+  "r": "Food weight higher in CPI (45.9%) than WPI (24.4%); WPI excludes services, CPI includes them; RBI uses CPI (Combined), not WPI, since April 1, 2014."
+},
+"09-060": {
+  "r": "CPI → covers goods and services; RBI uses CPI (Combined) for monetary policy; compiled by NSO and Labour Bureau, not Office of Economic Adviser.",
+  "t": "Office of Economic Adviser (Commerce Ministry) compiles WPI, not CPI."
+},
+"09-061": {
+  "r": "CPI-IW, CPI-AL, CPI-RL → Labour Bureau; CPI-UNME → CSO (discontinued April 2008); CPI-Urban, Rural, Combined → NSO.",
+  "c": "Answer not printed; explanation implies only IV (CPI-UNME) was compiled by CSO."
+},
+"09-063": {
+  "r": "CPI-IW base years → 1960 → 1982 (from 1988) → 2001 (from 2006) → 2016 (from September 2020); compiled by Labour Bureau."
+},
+"09-065": {
+  "r": "Wage compensation (dearness allowance) of Central Government employees → Consumer Price Index for Industrial Workers (CPI-IW).",
+  "hi": [
+    "Dearness Allowance (महंगाई भत्ता)"
+  ]
+},
+"09-066": {
+  "r": "Dearness allowance of employees fixed using Consumer Price Index for Industrial Workers (CPI-IW)."
+},
+"09-067": {
+  "r": "WPI compiled by Office of Economic Adviser, Ministry of Commerce and Industry; current base year 2011-12.",
+  "h": "Wholesale is trade, so WPI sits with the Commerce Ministry.",
+  "hi": [
+    "Wholesale Price Index (थोक मूल्य सूचकांक)"
+  ]
+},
+"09-068": {
+  "r": "WPI base 1993-94 = 100 came in April 2000, not 1998; it cut primary articles' weight, raised electricity's. Base 2011-12: manufactured 64.23%, primary 22.62%, fuel 13.15%."
+},
+"09-071": {
+  "r": "WPI with base 2004-05 → released 14 September 2010; base revised to 2011-12 on 12 May 2017 (effective April 2017)."
+},
+"09-074": {
+  "r": "WPI base years → 1981-82, then 1993-94 (question period), now 2011-12."
+},
+"09-075": {
+  "r": "CCEA (19 October 2009) shifted WPI base from 1993-94 to 2004-05 with monthly release; new series from September 2010 (Abhijit Sen Committee)."
+},
+"09-076": {
+  "r": "WPI now released monthly only (all groups since February 2012; weekly release cut from October 2009); WPI gives less weight to food than CPI-IW."
+},
+"09-077": {
+  "r": "Price index 330 (base 1960 = 100) → weighted mean of prices of selected items rose 3.3 times, not every item."
+},
+"09-078": {
+  "r": "Producer Price Index → average change in prices producers receive; output PPI (goods leaving production) and input PPI (goods entering production)."
+},
+"09-079": {
+  "r": "Cost-push inflation → leftward shift (decrease) of aggregate supply curve, caused by rise in wages (A and R true, R explains A).",
+  "h": "Cost-push: costs (wages) push prices up from the supply side.",
+  "hi": [
+    "Cost-push inflation (लागतजनित मुद्रास्फीति)"
+  ]
+},
+"09-080": {
+  "r": "Post-pandemic, central banks hiked interest rates to curb inflation, assuming monetary policy can counter rising prices (both true; II explains I); World Bank (2022) warned of recession."
+},
+"09-081": {
+  "r": "Reducing interest rate is expansionary, not anti-inflation; inflation is controlled by raising interest rates, credit control, cutting money supply, controlling demand, rationing.",
+  "h": "To cool prices, raise rates (contractionary policy)."
+},
+"09-082": {
+  "r": "Decreased money circulation (liquidity) helps control inflation; RBI uses monetary policy for this, so it is not only the Government's job."
+},
+"09-083": {
+  "r": "Food inflation reasons → changed consumption patterns with rising incomes; structural constraints in food supply chain. Foodgrain area had not fallen steadily by 30%."
+},
+"09-084": {
+  "r": "Book: global petrol price fell from 140 $ to 30 $ a barrel, so India's inflation was negative from October 2009 to February 2010 (A, R true; R explains A).",
+  "c": "Doubtful: India's WPI inflation was negative only around mid-2009 and rising by October 2009 to February 2010; (d) looks more apt."
+},
+"09-085": {
+  "r": "Oudh Commercial Bank (Faizabad, 1881) → first limited-liability bank with all-Indian board; Punjab National Bank (founded 1894, Lahore) → first Swadeshi bank.",
+  "t": "Don't confuse: first Indian-managed limited bank → Oudh Commercial; first Swadeshi bank → PNB."
+},
+"09-086": {
+  "r": "Financial inclusion steps → bank nationalisation, Regional Rural Banks, village adoption by bank branches (all three); also Lead Bank Scheme.",
+  "hi": [
+    "Financial inclusion (वित्तीय समावेशन)"
+  ]
+},
+"09-087": {
+  "r": "Earliest → Banking Regulation Act (10 March 1949); then First Plan (1951), SBI (July 1955), life insurance nationalised (1956), general insurance (1972)."
+},
+"09-088": {
+  "r": "Bank nationalisation → 14 major banks (assets above Rs. 50 crore) in July 1969; six more on 15 April 1980.",
+  "hi": [
+    "Bank nationalisation (बैंक राष्ट्रीयकरण)"
+  ]
+},
+"09-090": {
+  "r": "Chronology → first bank nationalisation (1969) → Regional Rural Banks (1975) → second nationalisation (1980) → NABARD (1982)."
+},
+"09-091": {
+  "r": "Nationalisation order → RBI (1949) → SBI (1955) → LIC (1956) → 14 major banks (1969)."
+},
+"09-093": {
+  "r": "Public sector banks excluding SBI Group → 20 at question time; after mergers (April 1, 2020), now 12 public sector banks including SBI.",
+  "c": "Answer not printed; explanation gives 20 for the question period (option c)."
+},
+"09-094": {
+  "r": "PSB amalgamation (announced August 2019; 10 banks into 4 from April 1, 2020; 12 PSBs left) → economies of scale, capital access, wider reach, global-size banks."
+},
+"09-095": {
+  "r": "Capital infusion into PSBs (Rs. 1,18,724 crore, 2008-09 to 2016-17) did not rise steadily; five SBI Associate Banks and Bharatiya Mahila Bank merged into SBI (2017)."
+},
+"09-096": {
+  "r": "EASE Index (Enhanced Access and Service Excellence) → measures performance of public sector banks; not ease of doing business for MSMEs."
+},
+"09-097": {
+  "r": "Commercial bank functions include buying and selling shares and securities for customers, and acting as executors and trustees of wills."
+},
+"09-098": {
+  "r": "Public sector bank → Government holds at least 51% stake; e.g. Indian Overseas Bank, SBI, PNB; now 12 PSBs including SBI."
+},
+"09-099": {
+  "r": "Bank of Punjab was a private bank; merged with Centurion Bank in 2005 to form Centurion Bank of Punjab."
+},
+"09-100": {
+  "r": "ICICI Bank is private, not nationalised; ICICI formed 1955 (World Bank initiative) as development financial institution; ICICI Bank incorporated 1994."
+},
+"09-101": {
+  "r": "ICICI Bank is not nationalised; Dena and Vijaya Banks merged into Bank of Baroda, Corporation Bank into Union Bank of India."
+},
+"09-102": {
+  "r": "State Bank of India → 1 July 1955, by nationalising Imperial Bank of India (RBI took 60% stake)."
+},
+"09-103": {
+  "r": "Largest commercial bank in India → State Bank of India (HQ Mumbai; 22,406 branches, 65,627 ATMs/CRMs as on 31 March 2023)."
+},
+"09-105": {
+  "r": "Only Indian bank in global top 100 (S & P, April 2020) → SBI (55th); April 2024: SBI 47th, HDFC Bank new entrant at 74th."
+},
+"09-106": {
+  "r": "SBI with NABARD formed 'Farmers Club' (Kishan club) in Uttar Pradesh to reach farmers and raise their bargaining power."
+},
+"09-107": {
+  "r": "SBI Chairman from 7 April 2011 → Pratip Chaudhuri (till 30 September 2013); Dinesh Kumar Khara from October 2020; Challa Sreenivasulu Setty selected 29 June 2024."
+},
+"09-108": {
+  "r": "PSB chairmen selected by Banks Board Bureau (from April 01, 2016), replaced by Financial Services Institutions Bureau (FSIB) from 1 July 2022."
+},
+"09-110": {
+  "r": "'Simply Click' credit card → SBI (15 September 2015) with seven e-commerce partners like Amazon India, BookMyShow, Ola Cabs."
+},
+"09-111": {
+  "r": "First Indian bank to open a branch in China → State Bank of India (2006).",
+  "t": "First Indian private bank branch in China → Axis Bank (Shanghai)."
+},
+"09-112": {
+  "r": "First Indian private bank branch in China → Axis Bank, Shanghai (January 2014), after Chinese regulator's nod in September 2013."
+},
+"09-113": {
+  "r": "First moving ATM in India → ICICI (private bank), Mumbai, 12 December 2002."
+},
+"09-114": {
+  "r": "'e-Kisaan Dhan' app for farmers → HDFC Bank (June 2020): mandi prices, farming news, weather, seed information plus banking services."
+},
+"09-115": {
+  "r": "New Bank of India merged with Punjab National Bank (1993); Oriental Bank of Commerce and United Bank of India merged into PNB from 1 April 2020."
+},
+"09-116": {
+  "r": "Bank of Rajasthan merged with ICICI Bank on 13 August 2010."
+},
+"09-117": {
+  "r": "Bank of Karad → closed after the securities scam; merged with Bank of India in 1994."
+},
+"09-118": {
+  "r": "Long-term industrial finance → IFCI (July 1948), ICICI (January 1955), IDBI (July 1964): all three."
+},
+"09-119": {
+  "r": "Bank types → Indian Bank: Public; ICICI Bank: Private; Citi Bank: Foreign; Saraswat Bank: Cooperative."
+},
+"09-120": {
+  "r": "Foreign bank with most branches in India → Standard Chartered (UK, 100); HSBC 26, Deutsche 17, Citibank 14, BNP Paribas 5."
+},
+"09-121": {
+  "r": "Bank origins → ABN Amro: Netherlands; Barclays: United Kingdom; Kookmin: South Korea.",
+  "t": "ABN Amro is not from USA; Kookmin is not from Japan."
+},
+"09-122": {
+  "r": "Chronology → SBI (1955) → Lead Bank Scheme (1969) → Regional Rural Banks (1975) → NABARD (1982).",
+  "h": "S-L-R-N: SBI, Lead Bank, RRB, NABARD."
+},
+"09-123": {
+  "r": "Private banks: FDI up to 49% from all sources via automatic route (February 2002, up from 20%); promoter minimum was 40%, not maximum 49%. Now FDI cap 74%."
+},
+"09-124": {
+  "r": "Rural branches of all commercial banks including RRBs → about 37% (30 June 2012); about 36% at end-March 2023."
+},
+"09-125": {
+  "r": "Lead Bank Scheme → RBI, December 1969, from Gadgil Study Group and Nariman Committee; a designated bank leads credit development in each district.",
+  "hi": [
+    "Lead Bank Scheme (अग्रणी बैंक योजना)"
+  ]
+},
+"09-129": {
+  "r": "Service Area Approach (April 1989) → under Lead Bank Scheme; each rural or semi-urban branch served 15 to 25 villages."
+},
+"09-130": {
+  "r": "District credit planning → done under the district's Lead Bank."
+},
+"09-131": {
+  "r": "SIDBI → set up 2 April 1990 by Act of Parliament; HQ Lucknow; principal institution for financing and developing MSME (small industries).",
+  "h": "SIDBI's head office is in Lucknow, UP.",
+  "hi": [
+    "Small Industries Development Bank of India (भारतीय लघु उद्योग विकास बैंक)"
+  ]
+},
+"09-136": {
+  "r": "Financial inclusion → banking for all, incl. zero or minimum balance accounts and financial services to low-income groups (all options)."
+},
+"09-137": {
+  "r": "Financial inclusion aims → services to the poor, growth of weaker sections, finance in rural areas, expanding banking infrastructure; shrinking it is not an aim."
+},
+"09-138": {
+  "r": "Hindrances to financial inclusion → low income, illiteracy and lack of bank branches (all three)."
+},
+"09-139": {
+  "r": "Committee on Financial Inclusion → Dr. C. Rangarajan (constituted June 26, 2006; final report January 4, 2008)."
+},
+"09-141": {
+  "r": "Small Finance Banks (RBI guidelines November 2014) → savings vehicles; credit to small businesses, small and marginal farmers, micro and small industries; no young-entrepreneur aim."
+},
+"09-142": {
+  "r": "Payments Banks → resident-owned mobile companies and supermarket chains can promote; can issue ATM/debit cards, not credit cards; cannot lend.",
+  "h": "Payments Bank takes deposits but never lends."
+},
+"09-143": {
+  "r": "Payments Banks recommended by Nachiket Mor Committee (formed 23 September 2013; report 7 January 2014) on financial services for small businesses and low-income households.",
+  "hi": [
+    "Payments Bank (भुगतान बैंक)"
+  ]
+},
+"09-144": {
+  "r": "Shadow banking → bank-like lending by lightly regulated non-banking financial intermediaries; term coined by Paul McCulley (2007).",
+  "hi": [
+    "Shadow banking (छाया बैंकिंग)"
+  ]
+},
+"09-145": {
+  "r": "Bank → wide range of financial activities for many customers; NBFI (no full banking licence) → mainly term-loan needs of large companies."
+},
+"09-146": {
+  "r": "NBFCs can acquire government securities (statement 1 false) but cannot accept demand deposits like savings accounts or issue cheques on themselves (statement 2 true).",
+  "hi": [
+    "Non-Banking Financial Company (गैर-बैंकिंग वित्तीय कंपनी)"
+  ]
+},
+"09-147": {
+  "r": "Ombudsman Scheme for NBFCs, 2018 → from February 23, 2018 under Section 45 L, RBI Act 1934; free complaint redressal for NBFC customers."
+}
+}

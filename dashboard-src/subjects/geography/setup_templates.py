@@ -1,3 +1,5 @@
+"""One-time copy of the page templates from the old History pipeline (since retired; it is in git
+history). The copies already live in this folder, so a re-run finds no source and changes nothing."""
 import shutil
 import os
 
@@ -19,5 +21,7 @@ for t in templates:
     if os.path.exists(src):
         shutil.copyfile(src, dst)
         print(f"Copied {t} ({os.path.getsize(dst):,} bytes)")
+    elif os.path.exists(dst):
+        print(f"Kept existing {t}")
 
 print("Templates ready in geography directory.")

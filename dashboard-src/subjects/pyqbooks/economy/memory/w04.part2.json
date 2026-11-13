@@ -1,0 +1,464 @@
+{
+ "10-026": {
+  "r": "India's HDI rank rises with more children going to school and more adults becoming literate (education level); not with safe drinking water or farm credit."
+ },
+ "10-027": {
+  "r": "HDR 1997 → about 53% of India's six crore (60 million) children below four years of age were under-nourished."
+ },
+ "10-028": {
+  "r": "UNDP's Human Development Report 1996 → called growth 'Jobless', 'Rootless', 'Ruthless', 'Voiceless' and 'Futureless'."
+ },
+ "10-029": {
+  "r": "Gender Inequality Index (GII) → introduced in UNDP's HDR 2010; dimensions: reproductive health, empowerment, labour market participation.",
+  "hi": [
+   "Gender Inequality Index (लैंगिक असमानता सूचकांक)"
+  ]
+ },
+ "10-030": {
+  "r": "False: 'higher adult literacy, lower infant mortality'. Malaysia and Indonesia both have 84% adult literacy, yet infant mortality is 11 and 47."
+ },
+ "10-031": {
+  "r": "Best human development among the given Asian countries → Korea: life expectancy 71.7 years, adult literacy 98%, infant mortality 6 per 1000."
+ },
+ "10-032": {
+  "r": "Gross National Happiness (GNH) → Bhutan; introduced by its 4th King Jigme Singye Wangchuck in the 1970s as an alternative to GDP.",
+  "hi": [
+   "Gross National Happiness (सकल राष्ट्रीय खुशहाली)"
+  ]
+ },
+ "10-035": {
+  "r": "World Happiness Report 2023 → India 126th of 137 countries (average 2020-2022); WHR 2024 → again 126th of 143."
+ },
+ "10-036": {
+  "r": "Universal Declaration of Human Rights covers all three: right to education (Art 26), equal access to public service (Art 21), adequate living standard incl. food (Art 25)."
+ },
+ "10-037": {
+  "r": "First State Human Development Report → Madhya Pradesh (1995); it computed the State's HDI and HDI for all its districts."
+ },
+ "10-038": {
+  "r": "Indian Human Development Report gives education, health, and infrastructure and amenities indices; it has no unemployment-related index."
+ },
+ "10-039": {
+  "r": "India's first National Human Development Report 2001 (April 2002) → Kerala highest HDI; Kerala still top in 2019, Bihar last."
+ },
+ "10-041": {
+  "r": "National HDI 2001 → Kerala first, Punjab second, U.P. 13th, Bihar 15th; descending order: Kerala, Punjab, U.P., Bihar."
+ },
+ "10-042": {
+  "r": "IHDR 2011 → Kerala first in HDI; 2011 Census → Kerala also had the highest unemployment rate. Both true, but R does not explain A."
+ },
+ "10-043": {
+  "r": "IHDR 2011 (HDI for 2008) → U.P. 18th, Jharkhand 19th, Bihar 21st, Odisha 22nd; U.P. highest among these."
+ },
+ "10-044": {
+  "r": "HDI 2019 → Bihar 0.574 (lowest among States); Kerala 0.782 (highest)."
+ },
+ "10-045": {
+  "r": "Bare Necessities Index (Economic Survey 2020-21) → rural, urban and all-India levels; 26 indicators on five dimensions (not six); not only for 2018."
+ },
+ "10-046": {
+  "r": "NITI Aayog State Health Index, fourth edition (2019-20, released December 2021) → Mizoram best among Smaller States; Kerala and Tamil Nadu top Larger States."
+ },
+ "10-047": {
+  "r": "Education Development Index 2009-10 (released February 2011) → top States: Kerala, Tamil Nadu, Punjab, Delhi (UTs Puducherry, Lakshadweep led overall)."
+ },
+ "10-048": {
+  "r": "School-going children aged 6-14 → 93% (question period); ASER 2022 → 98.4%."
+ },
+ "11-001": {
+  "r": "Aspirational Districts Programme (NITI Aayog) → launched January 2018; aims to transform 112 most under-developed districts; districts ranked monthly."
+ },
+ "11-002": {
+  "r": "Garib Kalyan Rojgar Abhiyaan → launched 20 June 2020 from village Telihar, district Khagaria (Bihar); work for returnee migrant workers after COVID-19."
+ },
+ "11-003": {
+  "r": "PM CARES Fund (March 2020) → public charitable trust; entirely voluntary contributions; no budgetary support; trustees act pro bono; for emergencies. All statements true."
+ },
+ "11-004": {
+  "r": "Ayushman Bharat Digital Mission (27 September 2021) → seamless portability across the country; hospitals are not required to adopt it, and not every citizen must join."
+ },
+ "11-005": {
+  "r": "India's public healthcare is largely curative (limited preventive/promotive care); States mainly organise health services. Both correct, but II does not explain I."
+ },
+ "11-006": {
+  "r": "World's largest health care scheme → Ayushman Bharat–PM Jan Arogya Yojana (September 2018); covers over 12 crore families (about 55 crore people).",
+  "hi": [
+   "Universal Health Coverage (सार्वभौमिक स्वास्थ्य कवरेज)"
+  ]
+ },
+ "11-007": {
+  "r": "Ayushman Bharat PM-JAY → free health cover of Rs. five lakh per family per year (not per person); cost shared Centre:State 60:40.",
+  "t": "The cover is per family, not per person."
+ },
+ "11-008": {
+  "r": "PM Jan Aarogya Yojana (Ayushman Bharat) → launched 23 September 2018 at Ranchi; world's largest health assurance scheme; Rs. 5 lakh per family per year."
+ },
+ "11-009": {
+  "r": "Ayushman Bharat PM-JAY → implemented by the National Health Authority (NHA); launched at Ranchi, 23 September 2018.",
+  "hi": [
+   "National Health Authority (राष्ट्रीय स्वास्थ्य प्राधिकरण)"
+  ]
+ },
+ "11-010": {
+  "r": "Rashtriya Swasthya Bima Yojana (2007) → launched by Ministry of Labour and Employment, not Health; Rajiv Gandhi Shilpi Swasthya Bima Yojana → Ministry of Textiles.",
+  "t": "RSBY moved to the Health Ministry only from 1 April 2015; it began under Labour."
+ },
+ "11-011": {
+  "r": "Rashtriya Swasthya Bima Yojana → health insurance only for unorganized sector workers (BPL); enrolment from 1 April 2008; now subsumed in PM-JAY."
+ },
+ "11-012": {
+  "r": "CM Chiranjeevi Scheme (Rajasthan, 1 May 2021) → 1576 packages; Rs. 4.50 lakh/family/year for serious ailments (later Rs. 25 lakh). Incorrect: '5 days before, 10 days after' coverage."
+ },
+ "11-013": {
+  "r": "Ayushman Bharat Mahatma Gandhi Rajasthan Swasthya Bima Yojana (renamed from Bhamashah, 2019) → Rs. 4.50 lakh critical illness, Rs. 50,000 general, per family per year."
+ },
+ "11-014": {
+  "r": "AYUSHMAN SAHAKAR (19 October 2020) → launched by Ministry of Agriculture and Farmers Welfare, not Finance; NCDC scheme helping cooperatives build health infrastructure."
+ },
+ "11-015": {
+  "r": "Mission Indradhanush (25 December 2014, Health Ministry) → immunization of all children and pregnant women; Intensified Mission Indradhanush on 8 October 2017.",
+  "hi": [
+   "Immunization (टीकाकरण)"
+  ]
+ },
+ "11-016": {
+  "r": "National Rural Health Mission → launched 12 April 2005; in 2013 became a sub-mission of the National Health Mission (with National Urban Health Mission)."
+ },
+ "11-017": {
+  "r": "NRHM launched 2005 in the Tenth Five Year Plan (2002-07), not the Eleventh; aims at a functional village-to-district health system incl. drinking water, sanitation.",
+  "t": "Don't put NRHM in the Eleventh Plan; 2005 falls in the Tenth Plan (2002-07)."
+ },
+ "11-019": {
+  "r": "NRHM (2005) target → infant mortality rate of 28 per 1000 live births by 2012.",
+  "c": "Answer not printed; the explanation's target (28 per 1000 by 2012) matches no option."
+ },
+ "11-020": {
+  "r": "ASHA (Accredited Social Health Activist) → trained female village health worker under NRHM; chosen from the village, preferably aged 25 to 45; links community and health system.",
+  "hi": [
+   "ASHA (आशा कार्यकर्ता)"
+  ]
+ },
+ "11-022": {
+  "r": "First National Health Policy → 1983 (Ministry of Health and Family Welfare); the newer one → National Health Policy 2017."
+ },
+ "11-023": {
+  "r": "Public health spending, India 2009-10 → 1.09% of GDP (Union 0.39%, States 0.70%); National Health Policy 2017 target: 2.5% of GDP by 2025."
+ },
+ "11-024": {
+  "r": "NFHS-3 (2005-06) → private sector the main source of healthcare for 70% urban and 63% rural households; NFHS-5 (2019-21) → 51.8% urban."
+ },
+ "11-025": {
+  "r": "Life expectancy at birth, India 2006-10 → males 65.8 years, females 68.1 years."
+ },
+ "11-026": {
+  "r": "National Nutrition Mission (POSHAN Abhiyaan) aims → malnutrition awareness among pregnant women and lactating mothers; cut anaemia in children, adolescent girls, women. Not millets or eggs.",
+  "hi": [
+   "Malnutrition (कुपोषण)"
+  ]
+ },
+ "11-027": {
+  "r": "Rashtriya Poshan Maah (National Nutrition Month) → September every year, under Poshan Abhiyaan."
+ },
+ "11-028": {
+  "r": "National Oral Health Programme → part of Non-Communicable Disease Control, not nutrition; Iodine Deficiency, Fluorosis and Iron Plus (anaemia) programmes are nutrition programmes."
+ },
+ "11-029": {
+  "r": "Shabri Sankalp Abhiyan (Uttar Pradesh, 2017) → National Nutrition Mission; campaign to eradicate malnutrition."
+ },
+ "11-030": {
+  "r": "ICDS (2 October 1975, Ministry of Women and Child Development) → six services incl. supplementary nutrition, immunization, nutrition and health education; not family planning.",
+  "hi": [
+   "Integrated Child Development Services (एकीकृत बाल विकास सेवाएँ)"
+  ]
+ },
+ "11-033": {
+  "r": "ICDS (1975) → supplementary feeding, pre-school education, immunization, health check-up, referral, health and nutrition education for under-6 children; no free books or school dress."
+ },
+ "11-034": {
+  "r": "National Programme for Control of Blindness → 1976; ICDS → 1975; National Leprosy Eradication Programme → 1983; National Rural Health Mission → 2005."
+ },
+ "11-035": {
+  "r": "PM Jan Arogya Abhiyan → 2018; PM Vaya Vandana Yojana → 2017; PM Rojgar Protsahan Yojana → 2016 (not 2015); Swachh Bharat Abhiyan → 2014.",
+  "c": "Answer not printed; List-II gives 2015 for PM Rojgar Protsahan Yojana, but it was launched in 2016."
+ },
+ "11-036": {
+  "r": "P.M. Garib Kalyan Package → 2020; Muskan Scheme → 2021; Mission Indradhanush → 2014; Pradhan Mantri Jan Arogya Yojana → 2018."
+ },
+ "11-037": {
+  "r": "YUVA 2.0 (PM's Scheme for Mentoring Young Authors) → Ministry of Education, launched 2 October 2022; mentors authors below 30 years of age."
+ },
+ "11-038": {
+  "r": "Skill development schemes → STRIVE, SANKALP, SHREYAS; STRIDE (UGC) → support for research projects, not a skill scheme.",
+  "t": "STRIDE vs STRIVE: STRIDE is UGC research; STRIVE is Skills Strengthening for Industrial Value Enhancement."
+ },
+ "11-039": {
+  "r": "Skill Development Initiative → Ministry of Labour and Employment, May 2007; aim: train 1 million persons in 5 years, then 1 million each year (unorganized sector)."
+ },
+ "11-040": {
+  "r": "PMKVY (July 2015) → flagship of Ministry of Skill Development and Entrepreneurship, run by NSDC; trains soft skills, entrepreneurship, financial and digital literacy; aligns workforce to NSQF.",
+  "t": "PMKVY belongs to MSDE, not the Ministry of Labour and Employment."
+ },
+ "11-041": {
+  "r": "Recognition of Prior Learning (RPL) → PMKVY component certifying skills already gained, e.g. construction workers' skills learnt through traditional channels."
+ },
+ "11-042": {
+  "r": "Union Budget 2023-24 → 30 Skill India International Centres across States; PMKVY 4.0 for new-age Industry 4.0 courses (coding, AI, robotics, drones)."
+ },
+ "11-043": {
+  "r": "NSQF → competency framework with levels one to ten; certification via formal, non-formal or informal learning (not only formal); enables mobility between vocational and general education."
+ },
+ "11-044": {
+  "r": "National Career Service (20 July 2015) → Mission Mode Project of Ministry of Labour and Employment, not DoPT; one-stop employment services for all citizens, not only uneducated youth."
+ },
+ "11-045": {
+  "r": "Skill India Campaign → launched by PM on 15 July 2015; managed by NSDC; trains Indians in varied skills, not mainly in information technology."
+ },
+ "11-046": {
+  "r": "Skill India Mission → 76 lakh youth trained till March 2016, of whom 26 lakh got jobs; 556.1 lakh trained till 19 July 2021."
+ },
+ "11-047": {
+  "r": "India's biggest Global Skill Park → Bhopal; foundation laid 3 July 2017; Sant Shiromani Ravidas Global Skills Park, the first multi-skills park."
+ },
+ "11-048": {
+  "r": "World Youth Skills Day → 15 July (declared by UNGA, 2014); theme 2021: 'Reimagining Youth Skills Post-Pandemic'; 2023: 'Skilling Teachers, Trainers and Youth for a Transformative Future'."
+ },
+ "11-049": {
+  "r": "DHRUV (PM Innovative Learning Programme) → launched 10 October 2019 to identify and mentor talented children at centres of excellence."
+ },
+ "11-050": {
+  "r": "Atal Innovation Mission (AIM) → flagship initiative of NITI Aayog to promote a culture of innovation and entrepreneurship across the country."
+ },
+ "11-052": {
+  "r": "NIDHI (National Initiative for Development and Harnessing Innovations) → DST umbrella programme turning ideas into startups; supports 20 students' startups each year. Both correct."
+ },
+ "11-053": {
+  "r": "SWAYAM (Study Webs of Active-Learning for Young Aspiring Minds) → free, affordable, quality education for all; based on access, equity, quality; bridges the digital divide."
+ },
+ "11-054": {
+  "r": "Unnat Bharat Abhiyan (Ministry of Education) → links higher education institutions (IIITs, NITs, IISERs) with rural communities to solve development problems through appropriate technology."
+ },
+ "11-055": {
+  "r": "Vidyanjali (Ministry of Education) → improve government schools through community and private sector volunteers (diaspora, alumni, retired teachers); not foreign campuses or money donations."
+ },
+ "11-056": {
+  "r": "'Apna Gaon, Apna Kam' → Rajasthan, 1 January 1991; aim: remove rural poverty by creating employment and public assets in villages."
+ },
+ "11-058": {
+  "r": "Saubhagya (PM Sahaj Bijli Har Ghar Yojana, 25 September 2017) → free electricity connections to households; nodal agency: Rural Electrification Corporation (REC)."
+ },
+ "11-059": {
+  "r": "Saubhagya Scheme (2017) → Ministry of Power; universal household electrification; 2.86 crore households electrified by 31 March 2022."
+ },
+ "11-060": {
+  "r": "PM Jan-Dhan Yojana → National Mission for Financial Inclusion, launched 28 August 2014; a bank account for every family.",
+  "hi": [
+   "Financial Inclusion (वित्तीय समावेशन)"
+  ]
+ },
+ "11-062": {
+  "r": "PM Jan-Dhan Yojana (28 August 2014) → RuPay debit card with accident insurance Rs. 1,00,000 (now Rs. 2 lakh for new accounts) and life cover Rs. 30,000.",
+  "c": "Answer not printed; the explanation says option (a), Rs. 1,00,000 accident and Rs. 30,000 life cover, was correct then."
+ },
+ "11-063": {
+  "r": "Aam Aadmi Bima Yojana → 2007; PM Aatmanirbhar Swasth Bharat Yojana → 2021; PM Jan Aarogya Yojana → 2018; PM Suraksha Bima Yojana → 9 May 2015 (Kolkata).",
+  "c": "No single answer (*): PM Suraksha Bima Yojana began in 2015, not 2016; otherwise the pairs give code 3 1 4 2, option (c)."
+ },
+ "11-064": {
+  "r": "Launch order: PM Jan-Dhan Yojana (28 August 2014) → Make in India (25 September 2014) → Sukanya Samriddhi (22 January 2015) → Atal Pension Yojana (9 May 2015).",
+  "c": "Answer not printed; the correct order IV, III, I, II is not among the options."
+ },
+ "11-065": {
+  "r": "Launch order: PM Jan-Dhan Yojana (28 August 2014) → Digital Gender Atlas (9 March 2015) → Mudra Bank (8 April 2015) → PM Suraksha Bima Yojana (9 May 2015)."
+ },
+ "11-066": {
+  "r": "Rastriya Vyosree (Vayoshri) Yojana → launched 1 April 2017 in Nellore district (Andhra Pradesh) by Social Justice Ministry; physical aids and assisted-living devices for BPL senior citizens.",
+  "c": "Answer not printed; the launch place, Nellore (Andhra Pradesh), is not among the options."
+ },
+ "11-067": {
+  "r": "Atal Jyoti Yojana, 2013 (Madhya Pradesh) → at least 10 hours of power supply assured for rural agriculture."
+ },
+ "11-068": {
+  "r": "PAHAL (Pratyaksha Hastaantarit Laabh) → Guinness record (2015) as world's largest cash transfer scheme; launched 15 November 2014 in 54 districts by Petroleum Ministry."
+ },
+ "11-069": {
+  "r": "PAHAL → LPG subsidy paid directly into customers' bank accounts (DBT); first scheme using JAM (Jan Dhan, Aadhaar, Mobile); all statements true.",
+  "h": "JAM = Jan Dhan + Aadhaar + Mobile.",
+  "hi": [
+   "Direct Benefit Transfer (प्रत्यक्ष लाभ अंतरण)"
+  ]
+ },
+ "11-070": {
+  "r": "Nai Roshni → minority women empowerment (2012-13); DISHA → IT training; PM Jan-Dhan Yojana → financial inclusion; Swavalamban (2010) → New Pension System."
+ },
+ "11-072": {
+  "r": "PM Ujjwala Yojana (1 May 2016, Ballia, U.P.) → free LPG connections to BPL women; Rs. 8000 crore; 5 crore families. Wrong: Rs. 2,800 support per connection.",
+  "h": "Ujjwala tagline: 'Swachh Indhan Behtar Jeevan' (clean fuel, better life)."
+ },
+ "11-074": {
+  "r": "Tejaswini Rural Women's Empowerment Programme (Madhya Pradesh) → financed by IFAD (International Fund for Agricultural Development); strengthens women's SHGs."
+ },
+ "11-075": {
+  "r": "Panch Dhara Yojana → Madhya Pradesh, November 1991; development of rural and tribal women."
+ },
+ "11-076": {
+  "r": "Beti Bachao Beti Padhao → launched 22 January 2015 at Panipat (Haryana); tackles declining Child Sex Ratio; joint effort of WCD, Health and HRD ministries.",
+  "hi": [
+   "Child Sex Ratio (शिशु लिंगानुपात)"
+  ]
+ },
+ "11-077": {
+  "r": "Dhan-Lakshmi Yojana → Centre's girl-child scheme, 3 March 2008 (Ministry of Women and Child Development); insurance cover to discourage child marriage and encourage education."
+ },
+ "11-078": {
+  "r": "Bhagyashree Scheme → Maharashtra, 8 March 2015, for BPL girls; replaced the State's 'Sukanya' scheme."
+ },
+ "11-079": {
+  "r": "Rupashree Prakalpa → West Bengal; one-time grant of Rs. 25,000 for marriage of adult daughters of poor families; in effect from 1 April 2018."
+ },
+ "11-080": {
+  "r": "Amma Scooter Scheme (Tamil Nadu, AIADMK Govt) → launched by PM Modi, 24 February 2018, Chennai, on Jayalalithaa's 70th birth anniversary; 50% subsidy (up to Rs. 25,000) statewide.",
+  "c": "Answer not printed; only statement 2 is fully correct (75%, 69th and Chennai-only are wrong), and no option gives 2 alone."
+ },
+ "11-081": {
+  "r": "DWCRA (Development of Women and Children in Rural Areas, 1982-83) → upliftment of rural BPL women through financial help and self-employment."
+ },
+ "11-082": {
+  "r": "Swawlamban (1982-83, earlier NORAD-assisted Mahila Aarthik Karykram) → training and skills for women in traditional and non-traditional trades, for employment or self-employment.",
+  "t": "Don't confuse with the 2010 Swavalamban scheme for workers (pension)."
+ },
+ "11-084": {
+  "r": "Swayam Siddha (2001) → holistic empowerment of women through SHGs; Swadhar → women in difficult circumstances. The question swaps them, so neither statement is correct."
+ },
+ "11-086": {
+  "r": "Indira Mahila Shakti Nidhi → Rajasthan, 18 December 2019 (Budget 2019-20); Rs. 1,000 crore fund for women's enterprises, skills and rehabilitation of victims."
+ },
+ "11-087": {
+  "r": "5 May 2013 → Government announced bank loans to Women SHGs at 7% interest, under the National Rural Livelihoods Mission (NRLM)."
+ },
+ "11-088": {
+  "r": "Wrong pair: Women Empire Plan – 1989. Correct: Mahila Samridhi Yojana – 2 October 1993; Mahila Swa-shakti (Women Self-Empowerment) Project – 1998, IFAD-aided."
+ },
+ "11-089": {
+  "r": "Rashtriya Mahila Kosh → credit needs of poor women; Mahila Samriddhi Yojana → savings among rural women; Indira Mahila Yojana → empowerment; Mahila Samakhya → education for women's equality.",
+  "h": "Kosh (fund) gives credit; Samriddhi (prosperity) builds savings."
+ },
+ "11-090": {
+  "r": "Mahila Samriddhi Yojana → 2 October 1993, thrift/micro-finance for rural women; merged with Indira Mahila Yojana into Mahila Swayam Siddhi Yojana on 12 July 2001."
+ },
+ "11-091": {
+  "r": "Maternity Benefit (Amendment) Act, 2017 → 26 weeks paid leave for first two children (up to 8 weeks before delivery); 12 weeks after two children. Only statement 3 correct.",
+  "t": "Not '3 months before + 3 months after': it is 26 weeks, of which at most 8 before delivery."
+ },
+ "11-092": {
+  "r": "Janani Suraksha Yojana (April 2005) → replaced National Maternity Benefit Scheme; safe motherhood under NRHM; cuts maternal and neo-natal mortality by promoting institutional delivery.",
+  "hi": [
+   "Institutional delivery (संस्थागत प्रसव)"
+  ]
+ },
+ "11-094": {
+  "r": "Janani Suraksha Yojana → promotes institutional deliveries and gives the mother money for delivery cost; no compensation for wage loss during pregnancy."
+ },
+ "11-095": {
+  "r": "Janani Suraksha Yojana → reduce maternal and neonatal mortality and promote institutional delivery among poor pregnant women; not a State Health Department scheme, not sick-infant care."
+ },
+ "11-096": {
+  "r": "Janani Shishu Suraksha Karyakram (1 June 2011) → free, cashless care in Government institutions for pregnant women (normal and caesarean delivery) and sick newborns up to 30 days."
+ },
+ "11-097": {
+  "r": "Pradhan Mantri Matru Vandana Yojana (revamped Indira Gandhi Matritva Sahyog Yojana) → conditional DBT aid to pregnant/lactating mothers for first live birth (second if girl)."
+ },
+ "11-098": {
+  "r": "'MAA' (Mother's Absolute Affection) → Ministry of Health and Family Welfare's nationwide programme to promote breastfeeding."
+ },
+ "11-099": {
+  "r": "Integrated Rural Energy Programme → minimum domestic energy (cooking, heating, lighting) for rural people, not income generation; IRDP and DWCRA → income-generating programmes for women."
+ },
+ "11-100": {
+  "r": "ABC index (Achievements of Babies and Children) → child health; unweighted average of four indicators: survival, immunization, nutrition, schooling."
+ },
+ "11-101": {
+  "r": "Gokul Gram Scheme → Gujarat (1995-96); basic infrastructure and better environment for all villages."
+ },
+ "11-102": {
+  "r": "Bharat Nirman (December 2005) → irrigation, drinking water, electrification, roads, housing, rural telephony; irrigation covers AIBP, river-linking, water-body restoration. Excludes: displaced-person rehabilitation, sanitation, Sarva Shiksha Abhiyan, agro-industries.",
+  "h": "Six parts 'I-D-E-R-H-T': Irrigation, Drinking water, Electricity, Roads, Housing, Telephony."
+ },
+ "11-108": {
+  "r": "Bharat Nirman (2005-06 to 2008-09; Phase-II to 2012) → 1 crore (10 million) hectares more irrigation; telephones for remaining villages. Wrong: roads to all 2000-population villages."
+ },
+ "11-111": {
+  "r": "National Rural Drinking Water Programme (renamed from ARWSP of 1972-73, on 1 April 2009) → the drinking water component of Bharat Nirman."
+ },
+ "11-112": {
+  "r": "Jal Jeevan Mission (Ministry of Jal Shakti) → Union Budget 2019-20; launched 15 August 2019; tap water to every rural household by 2024 ('Har Ghar Nal Se Jal')."
+ },
+ "11-113": {
+  "r": "AMRUT (June 2015) → five hundred cities covering over 60% of India's urban population (not 400 cities); revamps urban infrastructure.",
+  "hi": [
+   "Urban infrastructure (शहरी अवसंरचना)"
+  ]
+ },
+ "11-115": {
+  "r": "AMRUT thrust areas → water supply, sewerage/septage, storm water drains, public transport, green spaces and parks for children (all five).",
+  "h": "Five W-S-S-T-P: Water, Sewerage, Storm drain, Transport, Parks."
+ },
+ "11-116": {
+  "r": "Atal Khadyanna Yojana → Uttarakhand (2011); 10 kg wheat + 10 kg rice a month; APL pay Rs. 4/6 per kg, BPL Rs. 2/3 per kg."
+ },
+ "11-117": {
+  "r": "'One kg rice for rupee one' → Tamil Nadu (2008), the first such scheme; later Madhya Pradesh, Odisha, Andhra Pradesh followed."
+ },
+ "11-118": {
+  "r": "Persons with disabilities (Acts of 1995 and 2016) → free schooling till 18 years, preferential land for business, ramps in public buildings: all three.",
+  "hi": [
+   "Persons with Disabilities (दिव्यांगजन)"
+  ]
+ },
+ "11-119": {
+  "r": "Sugamya Bharat Abhiyan (Accessible India Campaign, 2015) → universal accessibility for persons with disabilities; by DEPwD, Ministry of Social Justice & Empowerment."
+ },
+ "11-120": {
+  "r": "Sangam Yojana (15 August 1996) → welfare of the handicapped; rural disabled persons form a 'Sangam' group, each given Rs. 15000 for economic activities.",
+  "t": "Nothing to do with Allahabad's Sangam or Ganga cleaning."
+ },
+ "11-122": {
+  "r": "'Sankalp' project → eradication of HIV/AIDS; run jointly by Hindustan Latex Ltd. and Employees' State Insurance Corporation."
+ },
+ "11-123": {
+  "r": "PMGSY (25 December 2000) → all-weather roads to unconnected rural habitations of 500+ population in plains (separate limit for hill, desert, tribal areas).",
+  "hi": [
+   "Pradhan Mantri Gram Sadak Yojana (प्रधानमंत्री ग्राम सड़क योजना)"
+  ]
+ },
+ "11-126": {
+  "r": "PMGSY (since 25 December 2000) → Budget 2001-02 gave Rs. 2,500 crore; Budgets 2023-24 and 2024-25 gave Rs. 19000 crore each."
+ },
+ "11-127": {
+  "r": "Pradhan Mantri Gramodaya Yojana (2000-01) → rural needs in five areas: primary education, health care, drinking water, housing, rural roads."
+ },
+ "11-128": {
+  "r": "Shyama Prasad Mukherji Rurban Mission (2016) → make selected rural areas socially, economically and physically sustainable regions (economic, social, basic, digital amenities)."
+ },
+ "11-129": {
+  "r": "Wrong pair: Rurban Mission – 2015 (launched 2016). Correct: Rural Housing Interest Subsidy Scheme – 2017; Sansad Adarsh Gram Yojana – 2014; DDU-GKY – 2014."
+ },
+ "11-130": {
+  "r": "Etawah Pilot Project → Albert Mayer (USA); conceived 1947, started September 1948 at Mahewa village; 64 villages, later 97."
+ },
+ "11-131": {
+  "r": "Pilot project for rural development (Etawah) → September 1948, Mahewa village (U.P.); originator Lt. Col. Albert Mayer; aided by U.P. Government and USA's Point-4 programme."
+ },
+ "11-132": {
+  "r": "Deen Dayal Upadhyay Gram Jyoti Yojana (Patna, 25 July 2015) → rational electricity supply to rural farm and non-farm consumers; aids rural education, health, sanitation, empowerment.",
+  "c": "Answer not printed; the explanation links all four options, so no single answer is given."
+ },
+ "11-133": {
+  "r": "Employment Guarantee Scheme → first started by Maharashtra (Government Resolution, 28 March 1972), part of its 15 Point Programme."
+ },
+ "11-134": {
+  "r": "Employment Assurance Scheme (2 October 1993, 1778 backward blocks) → wage work for at most two adults per BPL rural family (one man and one woman)."
+ },
+ "11-135": {
+  "r": "CRY (Child Rights and You) → an NGO for child rights, not a rural development scheme; TRYSEM, JRY, IRDP → rural development schemes."
+ }
+}

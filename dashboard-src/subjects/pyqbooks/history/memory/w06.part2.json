@@ -1,0 +1,241 @@
+{
+  "50-001": {
+    "r": "19th-century religious reform movements → mainly attracted intellectuals, urban upper castes and liberal princes (middle class); poor ordinary classes stayed largely outside.",
+    "hi": ["Reform movement (सुधार आंदोलन)"]
+  },
+  "50-002": {
+    "r": "Both true, R explains A: 19th-century socio-religious movements modernised India because rationalism and scientific temper were at their core.",
+    "hi": ["Rationalism (तर्कवाद)"]
+  },
+  "50-003": {
+    "r": "Educated Hindu middle class → first influenced by Western civilisation (rationalism, scientism, humanism); rejected superstition, pilgrimage and idolatry."
+  },
+  "50-004": {
+    "r": "Raja Ram Mohan Roy → 'Father of Indian Renaissance'; also 'Father of Modern India', 'Father of Indian Nationalism', 'First Modern Man', 'Yugadoot'.",
+    "hi": ["Renaissance (पुनर्जागरण)"]
+  },
+  "50-005": {
+    "r": "Father of Indian Nationalism → Raja Ram Mohan Roy (not Gokhale, Tilak or S.N. Banerjee, so 'None of the above'); also Father of Indian Renaissance, Maker of Modern India.",
+    "hi": ["Nationalism (राष्ट्रवाद)"]
+  },
+  "50-011": {
+    "r": "Ram Mohan Roy's first society → Atmiya Sabha (1815, monotheism); then Brahmo Sabha (1828), later Brahmo Samaj. Tattvabodhini Sabha (1839) → Devendranath Tagore.",
+    "h": "Order A-B-T: Atmiya 1815 → Brahmo 1828 → Tattvabodhini 1839.",
+    "hi": ["Atmiya Sabha (आत्मीय सभा)"]
+  },
+  "50-013": {
+    "r": "Brahmo Samaj → founded by Raja Ram Mohan Roy as Brahmo Sabha on 20 August 1828; rejected idolatry, believed in one God.",
+    "c": "No answer printed: the correct year 1828 is not among the options."
+  },
+  "50-014": {
+    "r": "Brahmo Samaj → founded by Ram Mohan Roy, 20 August 1828, Calcutta; Debendranath Tagore joined 1843 and appointed Keshab Chandra Sen its chief Acharya.",
+    "t": "Founder = Ram Mohan Roy, not Keshab Chandra Sen (who was only made Acharya by Debendranath Tagore).",
+    "hi": ["Brahmo Samaj (ब्रह्म समाज)"]
+  },
+  "50-018": {
+    "r": "Mughal emperor Akbar II → gave Ram Mohan Roy the title 'Raja' (1830); Roy died 27 September 1833 at Stapleton near Bristol, where his Samadhi is.",
+    "hi": ["Samadhi (समाधि)"]
+  },
+  "50-021": {
+    "r": "Keshab Chandra Sen → Tabernacle of New Dispensation and Indian Reform Association (29 October 1870). Calcutta Unitarian Committee → Ram Mohan Roy, Dwarkanath Tagore, William Adam."
+  },
+  "50-022": {
+    "r": "Keshab Chandra Sen → founded Bhartiya Brahmo Samaj (Brahmo Samaj of India), 11 November 1866, after Devendranath Tagore removed him as Acharya; Tagore's group became Adi Brahmo Samaj.",
+    "t": "Sadharan Brahmo Samaj (1878) → Anand Mohan Bose and Shivnath Shastri, against Sen's under-14 daughter's marriage."
+  },
+  "50-023": {
+    "r": "Adi Brahmo Samaj → Devendranath Tagore; Keshab Chandra Sen left after losing the 'Acharya' title and formed Brahmo Samaj of India (1866).",
+    "t": "Don't swap: Adi = Devendranath Tagore; Brahmo Samaj of India = Keshab Chandra Sen."
+  },
+  "50-024": {
+    "r": "Brahmo Samaj → based on monotheism (one God); opposed idolatry and anthropomorphism; universal worship of God.",
+    "hi": ["Monotheism (एकेश्वरवाद)"]
+  },
+  "50-025": {
+    "r": "Ram Mohan Roy opposed child marriage, Sati and idolatry, but strongly supported Western education through English (letter to Lord Amherst, 11 December 1823).",
+    "hi": ["Western education (पाश्चात्य शिक्षा)"]
+  },
+  "50-026": {
+    "r": "'Samachar Chandrika' (1822) → Bhavani Charan Bandyopadhyay, started to oppose Ram Mohan Roy's religious/social ideas; he had earlier edited 'Samvad Kaumudi'."
+  },
+  "50-027": {
+    "r": "Both correct: Ram Mohan Roy respected traditional Eastern philosophy and wanted Indians to adopt a rational, scientific approach, human dignity and equality of men and women."
+  },
+  "50-028": {
+    "r": "Brahmo Samaj → opposed idolatry and the dominance of priests (1, 2 correct). 'Vedas are infallible' was Dayanand Saraswati's doctrine, not Brahmo Samaj's.",
+    "t": "Don't confuse Brahmo Samaj (anti-idolatry, anti-priest) with Dayanand Saraswati (Vedas infallible)."
+  },
+  "50-029": {
+    "r": "A false, R true: 'Samvad Kaumudi' (4 December 1821) was launched by Ram Mohan Roy but officially edited by Bhavanicharan Bandopadhyay; it campaigned against Sati (widow burning).",
+    "hi": ["Sati (सती प्रथा)"]
+  },
+  "50-030": {
+    "r": "Debendranath Tagore → Tattvabodhini Sabha, Kolkata, 1839, to spread Ram Mohan Roy's ideas and the Upanishads; merged into Brahmo Samaj in 1859."
+  },
+  "50-031": {
+    "r": "Swami Vivekananda (1863-1902) → best representative of Neo-Hinduism; simplified Ramakrishna's teachings; spoke at Parliament of the World's Religions, Chicago, 1893.",
+    "hi": ["Neo-Hinduism (नव-हिंदूवाद)"]
+  },
+  "50-033": {
+    "r": "Swami Vivekananda → represented India at the Parliament of the World's Religions, Chicago, 1893; spoke on 'The meaning of the Hindu religion'.",
+    "c": "All options (1863, 1892, 1881, 1894) are wrong; MPPSC gave bonus marks."
+  },
+  "50-037": {
+    "r": "'Practical Vedanta' → Swami Vivekananda; Vedanta practised in every sphere of life; first speech on it in London, 10 November 1896.",
+    "hi": ["Vedanta (वेदांत)"]
+  },
+  "50-038": {
+    "r": "Swami Vivekananda → wrote Jnana Yoga, Karma Yoga, Raja Yoga and Bhakti Yoga."
+  },
+  "50-039": {
+    "r": "Ramakrishna Mission → founded 1897 by Swami Vivekananda in the name of his guru Ramakrishna Paramhamsa; headquarters Belur, Howrah (West Bengal).",
+    "t": "Founder = disciple Vivekananda, not Ramakrishna Paramhamsa himself."
+  },
+  "50-044": {
+    "r": "Ramakrishna Mission (Association) → founded by Swami Vivekananda in May 1897, with his sanyasi associates and lay disciples of Sri Ramakrishna."
+  },
+  "50-045": {
+    "r": "Sharadamani (Sharada Devi) → wife of Ramakrishna Paramhansa (married 1859)."
+  },
+  "50-046": {
+    "r": "\"I have no time to think about God because a lot of work has to be done on this earth\" → Ishwarchandra Vidyasagar."
+  },
+  "50-047": {
+    "r": "\"The British Empire is rotten to the core, corrupt in every direction and tyrannical and mean\" → Sister Nivedita."
+  },
+  "50-048": {
+    "r": "Swami Dayanand Saraswati → Arya Samaj, April 1875, Bombay (Mumbai); its headquarters set up at Lahore in 1877.",
+    "hi": ["Arya Samaj (आर्य समाज)"]
+  },
+  "50-051": {
+    "r": "Swami Dayanand Saraswati → revival of the Vedas, slogan 'Go back to the Vedas'; called 'Martin Luther of India'; raised 'Pakhand Khandini Pataka' (1867).",
+    "hi": ["Vedas (वेद)"]
+  },
+  "50-054": {
+    "r": "'Satyarth Prakash' (Light of Truth, 1875) → Swami Dayanand Saraswati; sacred book of Arya Samaj. Dayanand's original name Mool Shankar (born 1824, Morvi, Gujarat).",
+    "hi": ["Satyarth Prakash (सत्यार्थ प्रकाश)"]
+  },
+  "50-059": {
+    "r": "Shuddhi movement → Arya Samaj; to bring converts back into Hinduism.",
+    "hi": ["Shuddhi (शुद्धि)"]
+  },
+  "50-060": {
+    "r": "Both true, R not the explanation: Arya Samaj gave Hindus self-confidence and self-reliance; it also rejected belief in White Race superiority."
+  },
+  "50-062": {
+    "r": "Swami Dayanand → first used the word 'Swaraj', declared Hindi the national language, first urged Swadeshi and boycott of foreign goods.",
+    "hi": ["Swaraj (स्वराज)"]
+  },
+  "50-063": {
+    "r": "\"India for the Indians\" → Dayananda Saraswati (his political message against Western domination)."
+  },
+  "50-064": {
+    "r": "Chronology: Tulsidas (16th century) → Ram Mohan Roy (1772-1833) → Dayanand Saraswati (1824-1883) → Vivekananda (1863-1902).",
+    "t": "Dayanand (born 1824) came before Vivekananda (born 1863)."
+  },
+  "50-065": {
+    "r": "Prarthana Samaj → founded 1867 in Bombay (Maharashtra) by Atmaram Pandurang, inspired by Keshab Chandra Sen; M.G. Ranade joined in 1869.",
+    "t": "Founder is Atmaram Pandurang, not Ranade (a later member).",
+    "c": "No answer printed: the founder, Atmaram Pandurang, is not among the main question's options."
+  },
+  "50-070": {
+    "r": "Dev Samaj → founded 1887 at Lahore by Pandit Shiv Narayan Agnihotri (Bhagwan Devatma), an ex-Brahmo; teachings in 'Devshastra'."
+  },
+  "50-071": {
+    "r": "Satyashodhak Samaj → founded 1873 by Jyotiba Phule (non-Brahmin movement to free Shudras); he wrote 'Gulamgiri'.",
+    "hi": ["Satyashodhak Samaj (सत्यशोधक समाज)"]
+  },
+  "50-078": {
+    "r": "Satyashodhak Samaj (Jyotiba Phule, 1873) → main aim: uplift of backward classes, Dalits and lower castes; books 'Gulamgiri', 'Sarvjanik Satyadharm Pustak'.",
+    "hi": ["Backward classes (पिछड़ा वर्ग)"]
+  },
+  "50-080": {
+    "r": "Satyashodhak Samaj → an anti-caste movement in Maharashtra; Jyotiba Phule its first president, Savitribai head of the women's section.",
+    "hi": ["Anti-caste movement (जाति-विरोधी आंदोलन)"]
+  },
+  "50-083": {
+    "r": "Radhakant Deb → Bengali leader who backed orthodoxy; founded Dharma Sabha (1830) and opposed abolition of Sati.",
+    "hi": ["Orthodoxy (रूढ़िवाद)"]
+  },
+  "50-084": {
+    "r": "Radha Swami Satsang → founded 1861 by Shivdayal Sahab (Swamiji Maharaj); faith in 'Satnaam' and 'Anami'."
+  },
+  "50-085": {
+    "r": "Gopal Hari Deshmukh (1823–1892) → 'Lokahitvadi', the pen name for his social-reform articles in the weekly 'Prabhakar'."
+  },
+  "50-087": {
+    "r": "Vishnu Parashuram Pandit → led widow remarriage campaign in Maharashtra; founded Widow Remarriage Association (1850).",
+    "t": "B.M. Malabari is known for work against child marriage, not this campaign.",
+    "hi": ["Widow remarriage (विधवा पुनर्विवाह)"]
+  },
+  "50-088": {
+    "r": "Behramji M. Malabari (born 1853, Baroda) → greatest Parsi social reformer of 19th century; his efforts produced the Age of Consent Act, 1891."
+  },
+  "50-090": {
+    "r": "Age of Consent Act, 1891 → advocated by Parsi reformer Behramji Malabari (true); Tilak opposed it (statement 2 false).",
+    "t": "Tilak opposed, not supported, the Age of Consent Act."
+  },
+  "50-091": {
+    "r": "M.G. Ranade → relied on legislation for social reform; founded Indian National Social Conference (1887, with Raghunath Rao), meeting alongside Congress sessions."
+  },
+  "50-092": {
+    "r": "Wrong pair: Social Reform Association (Bombay, 1903) → Chandavarkar, Bhandarkar etc., not Shri Ram Bajpai. Correct: Servants of India–Gokhale (1905); Social Service League–N.M. Joshi; Seva Samiti–H.N. Kunzru."
+  },
+  "50-093": {
+    "r": "Rajahmundry Social Reform Association (1871) → Kandukuri Veeresalingam, 'father of Telugu Renaissance'; for widow remarriage, against nautch girls."
+  },
+  "50-094": {
+    "r": "National Social Conference → formed because Congress wanted its platform only for political affairs, not social reform."
+  },
+  "50-095": {
+    "r": "Correct: Brahmo Samaj under Keshab Chandra Sen campaigned for women's education; Vinoba Bhave's Sarvodaya Samaj worked among refugees. Wrong: Arya Samaj in 1835 (actually 1875); Lajpat Rai opposing Vedas."
+  },
+  "50-096": {
+    "r": "1856 → Hindu Widow Remarriage Act (Vidyasagar's campaign). Religious Disabilities Act never passed in India; Sati banned 1829 (Bentinck); Dalhousie's annexation policy 1848.",
+    "c": "No answer printed: only (iii) fits, and no code gives (iii) alone."
+  },
+  "50-098": {
+    "r": "D.K. Karve (Western India) → women's education and widow welfare; ran a shelter and school for widows; set up India's first women's university (1916).",
+    "hi": ["Women education (स्त्री शिक्षा)"]
+  },
+  "50-099": {
+    "r": "Ishwar Chandra Vidyasagar → his campaign got widow remarriage legalised: Hindu Widows' Remarriage Act, 1856."
+  },
+  "50-100": {
+    "r": "Ishwar Chandra Vidyasagar → secretary of Hindu Female School, later Bethune Female School (Bethune College)."
+  },
+  "50-101": {
+    "r": "False: Ram Mohan Roy supported Sati (he opposed it). True: Bentinck made Sati an offence in 1829; widow remarriage Act 1856; Arya Samaj 1875."
+  },
+  "50-102": {
+    "r": "Act V of 1843 → made slavery illegal in India under Lord Ellenborough; the Charter of 1833 had asked to end it.",
+    "hi": ["Slavery (दास प्रथा)"]
+  },
+  "50-103": {
+    "r": "Keshab Chandra Sen → key role in Native Marriage Act (Brahmo Marriage Act), 1872: minimum marriage age 14 for girls, 18 for boys."
+  },
+  "50-105": {
+    "r": "Native (Civil) Marriage Act 1872 (K.C. Sen) → girls' minimum age 14; legalised inter-caste marriage, banned polygamy.",
+    "t": "Age of Consent Act (1891, Malabari) forbade marriage of girls below 12; don't mix the two."
+  },
+  "50-106": {
+    "r": "B.M. Malabari (Parsi, born 1853) → editor of 'Indian Spectator' and 'Voice of India'; chief crusader for the Age of Consent Act 1891."
+  },
+  "50-107": {
+    "r": "Sharda Act (Child Marriage Restraint Act, 1929; Har Bilas Sharda) → prevents child marriage; minimum age 14 for girls and 18 for boys.",
+    "hi": ["Child marriage (बाल विवाह)"]
+  },
+  "50-109": {
+    "r": "Theosophical Society → founded 1875 in New York by Madame H.P. Blavatsky and Colonel Henry Steel Alcott; came to India 1879; headquarters Adyar 1882.",
+    "hi": ["Theosophical Society (थियोसोफिकल सोसाइटी)"]
+  },
+  "50-110": {
+    "r": "Annie Besant (joined 1889, came to India 1893) → main reason for Theosophical Society's success in India; headquarters at Adyar, Madras."
+  },
+  "50-111": {
+    "r": "Wrong pair: M.G. Ranade–Theosophical Society (Ranade was in Prarthana Samaj). Correct: Ram Mohan Roy–Brahmo Samaj; Dayanand–Arya Samaj; Vivekananda (not Ramakrishna)–Ramakrishna Mission."
+  },
+  "50-114": {
+    "r": "Wrong pair: Atmiya Sabha → Raja Ram Mohan Roy (1815), not Debendra Nath Tagore. Correct: Prarthana Samaj–Atmaram Pandurang; Brahmo Samaj of India–Keshav Chandra Sen; Radhaswami Satsang–Tulsi Ram."
+  }
+}

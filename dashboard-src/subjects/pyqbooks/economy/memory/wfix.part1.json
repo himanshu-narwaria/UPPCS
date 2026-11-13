@@ -1,0 +1,105 @@
+{
+  "02-064": {
+    "r": "Last decade: Real GDP growth rate did not rise steadily (fell after 2008 recession); GDP at market prices in rupees rose every year, until COVID-19 made 2020-21 growth negative.",
+    "hi": [
+      "Gross Domestic Product (सकल घरेलू उत्पाद)"
+    ],
+    "c": "The book's answer (b) fits the question period; its explanation adds that, after the 2020-21 fall, (d) is right for the present scenario."
+  },
+  "04-072": {
+    "r": "India → only country producing all five commercial silks (Mulberry, Tropical Tasar, Oak Tasar, Eri, Muga); China largest silk producer, India second. Sugar 2022-23: Brazil first, India second.",
+    "t": "India was the largest sugar producer in 2021-22, but in 2022-23 (USDA) Brazil is first.",
+    "hi": [
+      "Silk (रेशम)"
+    ]
+  },
+  "04-102": {
+    "r": "FSS Act 2006 replaced Prevention of Food Adulteration Act 1954; FSSAI has an independent Chairperson (Secretary rank) under Health Ministry's administrative control, not under DG Health Services.",
+    "hi": [
+      "Food adulteration (खाद्य अपमिश्रण)"
+    ]
+  },
+  "04-182": {
+    "r": "Centre no longer fixes Statutory Minimum Price of sugarcane; FRP replaced SMP from 2009-10 (Sugarcane Control Amendment Order 2009); sugar and sugarcane are essential commodities (Essential Commodities Act 1955).",
+    "hi": [
+      "Fair and Remunerative Price (उचित और लाभकारी मूल्य)"
+    ]
+  },
+  "04-186": {
+    "r": "CACP recommends MSP for 22 crops (not 32) plus FRP for sugarcane; NFSM (2007-08) is under Agriculture Ministry, not Consumer Affairs. MSP crops include barley, ragi, groundnut, sesamum.",
+    "h": "22 = 7 cereals + 5 pulses + 7 oilseeds + 3 commercial crops.",
+    "t": "Areca nut, coffee and turmeric get no MSP.",
+    "hi": [
+      "Minimum Support Price (न्यूनतम समर्थन मूल्य)"
+    ]
+  },
+  "04-212": {
+    "r": "Agri credit share 2022-23: Commercial Banks 76.86%, RRBs 12.34%, all cooperatives only 10.80%, so DCCBs don't lead; DCCBs fund and guide Primary Agricultural Credit Societies (PACS).",
+    "hi": [
+      "Primary Agricultural Credit Society (प्राथमिक कृषि साख समिति)"
+    ]
+  },
+  "05-210": {
+    "r": "Jute products → Titagarh; silk textile → Bangalore (Bengaluru); woollen hosiery → Ludhiana; woollen carpet → Bhadohi.",
+    "hi": [
+      "Carpet (कालीन)"
+    ]
+  },
+  "07-256": {
+    "r": "Global Trust Bank → taken over by Oriental Bank of Commerce (2004), not PNB; Kelkar's second report dropped its original call to abolish housing-loan interest exemption, offering two options instead."
+  },
+  "09-092": {
+    "r": "Gorewala Committee (All-India Rural Credit Survey) → SBI formed by merging Imperial Bank of India with State-associated banks; six commercial banks nationalised on April 15, 1980.",
+    "hi": [
+      "Nationalisation (राष्ट्रीयकरण)"
+    ]
+  },
+  "09-135": {
+    "r": "SIDBI head office → Lucknow (not Mumbai); Allahabad Bank → Kolkata (merged with Indian Bank, 2020); Indian Overseas Bank → Chennai.",
+    "h": "SIDBI serves MSMEs from UP's capital, Lucknow."
+  },
+  "09-159": {
+    "r": "Internal debt includes market borrowings, Treasury bills and special securities issued to RBI; public debt = internal + external, contracted against Consolidated Fund of India.",
+    "hi": [
+      "Internal debt (आंतरिक ऋण)"
+    ]
+  },
+  "09-235": {
+    "r": "Repo rate → rate at which RBI lends to banks (banks borrow from RBI); reverse repo → RBI borrows. Gini coefficient 1 = perfect inequality; 0 = perfect equality.",
+    "hi": [
+      "Gini Coefficient (गिनी गुणांक)"
+    ]
+  },
+  "09-236": {
+    "r": "Bank Rate → RBI lends to banks for long-term needs (rediscounts bills of exchange); Repo Rate → RBI lends for short term. Both statements swap these, so both incorrect.",
+    "hi": [
+      "Bank Rate (बैंक दर)"
+    ]
+  },
+  "09-386": {
+    "r": "Credit rating agencies regulated by SEBI (CRA Regulations 1999), not RBI; ICRA is a public limited company (listed BSE, NSE); Brickwork Ratings is a SEBI-registered Indian rating agency.",
+    "hi": [
+      "Credit rating agency (साख निर्धारण एजेंसी)"
+    ]
+  },
+  "16-175": {
+    "r": "Post offices exceed 1.5 lakh (159225 in December 2022); BSNL formed 2000 (not 1997); TRAI set up 1997 (not 2000). Only statement 1 correct.",
+    "t": "TRAI (1997) came before BSNL (2000); the statements swap the years.",
+    "hi": [
+      "Post office (डाकघर)"
+    ]
+  },
+  "16-187": {
+    "r": "BIS Standard Mark mandatory for all automotive tyres and tubes (from 18 May 2010); AGMARK → agricultural produce, notified by DMI (Agriculture Ministry) under 1937 Act, not FAO.",
+    "hi": [
+      "Bureau of Indian Standards (भारतीय मानक ब्यूरो)"
+    ]
+  },
+  "17-300": {
+    "r": "Infant Mortality Rate → deaths of infants under one year per 1000 live births in a year; not deaths within one month, not per 100.",
+    "t": "IMR counts deaths before the first birthday, not the fifth.",
+    "hi": [
+      "Infant Mortality Rate (शिशु मृत्यु दर)"
+    ]
+  }
+}

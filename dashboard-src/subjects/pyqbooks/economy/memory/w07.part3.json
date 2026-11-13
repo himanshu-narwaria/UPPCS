@@ -1,0 +1,197 @@
+{
+  "17-245": {
+    "r": "Uttar Pradesh sex-ratio (female/male) → 912/1000 (Census 2011); 898/1000 (2001)."
+  },
+  "17-246": {
+    "r": "Highest sex-ratio district of Bihar, Census 2011 → Gopalganj (1021)."
+  },
+  "17-247": {
+    "r": "Rajasthan, Census 2011: sex-ratio 928, below national 943; all districts below 1000; rural areas of all districts below 1000 except Pali → (i), (ii), (iii) correct."
+  },
+  "17-248": {
+    "r": "Highest sex-ratio district, Census 2011 → Mahe, Puducherry (1176 provisional; 1184 final); lowest → Daman, Daman & Diu (534)."
+  },
+  "17-249": {
+    "r": "Low sex-ratio in India → high maternal deaths, high female child deaths, female foeticide, plus naturally more male births (about 105 boys per 100 girls).",
+    "hi": ["Female foeticide (कन्या भ्रूण हत्या)"]
+  },
+  "17-250": {
+    "r": "Child sex-ratio (0-6 years) → continuously declining since 1961: 976 (1961) → 962 (1981) → 927 (2001) → 919 (2011).",
+    "hi": ["Child sex-ratio (शिशु लिंगानुपात)"]
+  },
+  "17-251": {
+    "r": "Child sex-ratio (0-6 years), Census 2011 → 914 provisional; 919 final."
+  },
+  "17-252": {
+    "r": "Child sex-ratio 2011 (provisional): Madhya Pradesh 912 (correct pair); UP 899, Rajasthan 883, Bihar 933. Final: UP 902, MP 918, Rajasthan 888, Bihar 935."
+  },
+  "17-253": {
+    "r": "Most boys per 100 girls aged 0-6, Census 2011 → Haryana (120); fewest → Arunachal Pradesh (102)."
+  },
+  "17-254": {
+    "r": "Child sex-ratio 2011: Chhattisgarh 969 > Uttar Pradesh 902 > Punjab 846 > Haryana 834."
+  },
+  "17-255": {
+    "r": "Child sex-ratio 2011 (provisional) descending: Mizoram (971) > Meghalaya (970) > Punjab (846) > Haryana (830); final: Mizoram and Meghalaya both 970, Haryana 834."
+  },
+  "17-256": {
+    "r": "Bihar child sex-ratio (0-6 years), Census 2011 final → 935."
+  },
+  "17-257": {
+    "r": "True: India's child sex-ratio fell 927 → 919 (2001-11); Haryana's rose 819 → 834; rural sex-ratio 949 > urban 929. False: female IMR is higher, not male."
+  },
+  "17-258": {
+    "r": "Highest share of Scheduled Castes in State population → Punjab (31.9%, 2011); then Himachal Pradesh 25.2%, West Bengal 23.5%, UP 20.7%.",
+    "t": "Highest SC percentage → Punjab; largest SC number → Uttar Pradesh.",
+    "hi": ["Scheduled Castes (अनुसूचित जातियाँ)"]
+  },
+  "17-259": {
+    "r": "Largest Scheduled Caste population (number), Census 2011 → Uttar Pradesh (41357608); then West Bengal, Bihar, Tamil Nadu, Andhra Pradesh."
+  },
+  "17-261": {
+    "r": "Scheduled Caste population zero, Census 2011 → Nagaland (ST population 1710973)."
+  },
+  "17-262": {
+    "r": "North-East: few SCs because tribal-dominated (A true); small cultivated area (about 22.2% vs 54.5% in India) is true but does not explain A."
+  },
+  "17-263": {
+    "r": "Punjab: richest State then (highest per capita GDP, 1991) and highest SC share (28.9% in 2001; 31.9% in 2011) → I and II true; III false."
+  },
+  "17-264": {
+    "r": "Scheduled Tribes share of India's population → 8.2% (Census 2001); 8.6% (Census 2011).",
+    "hi": ["Scheduled Tribes (अनुसूचित जनजातियाँ)"]
+  },
+  "17-265": {
+    "r": "ST share of population (1991 → 2011): Mizoram 94.8 → 94.4 > Arunachal Pradesh 63.7 → 68.8 > Manipur 34.4 → 35.1 > Odisha 22.4 → 22.8."
+  },
+  "17-266": {
+    "r": "Highest tribal share of population, Census 2011 → Mizoram (94.4%) among States; Lakshadweep (94.8%) among UTs."
+  },
+  "17-267": {
+    "r": "Largest Scheduled Tribe population (number), 2011 → Madhya Pradesh (15316784); then Maharashtra, Odisha, Rajasthan, Gujarat.",
+    "t": "Largest ST number → Madhya Pradesh; highest ST percentage → Mizoram."
+  },
+  "17-268": {
+    "r": "No Scheduled Tribe population (Census 2011) → Punjab, Haryana, Chandigarh, Delhi and Puducherry.",
+    "h": "PHC-DP: Punjab, Haryana, Chandigarh, Delhi, Puducherry have zero STs."
+  },
+  "17-269": {
+    "r": "ST population 2011 ascending: Arunachal Pradesh (951821) < Mizoram (1036115) < Nagaland (1710973) < Meghalaya (2555861)."
+  },
+  "17-270": {
+    "r": "Largest tribal population among pairs → Madhya Pradesh (15316784) and Chhattisgarh (7822902); Madhya Pradesh highest single State (Census 2011)."
+  },
+  "17-272": {
+    "r": "Lowest ST share of population, 2011 (given States) → Uttar Pradesh (0.6%); Tamil Nadu 1.1, Bihar 1.3, Kerala 1.5."
+  },
+  "17-273": {
+    "r": "Largest Scheduled Tribe in India (Census 2011) → Bhil (17071049); second Gond (13256928); third Santhal (6570807).",
+    "h": "B-G-S: Bhil, Gond, Santhal, biggest first."
+  },
+  "17-274": {
+    "r": "Second largest tribe in India → Gond (after Bhil); mainly Chhindwara (MP), Bastar (Chhattisgarh); staple millets kodo and kutki."
+  },
+  "17-275": {
+    "r": "PVTG criteria → pre-agricultural technology, low literacy, economic backwardness, declining or stagnant population (not caste, not sex ratio).",
+    "hi": ["Particularly Vulnerable Tribal Groups (विशेष रूप से कमजोर जनजातीय समूह)"]
+  },
+  "17-276": {
+    "r": "Most tribal habitations fully covered with safe drinking water → Madhya Pradesh (55770)."
+  },
+  "17-277": {
+    "r": "Census 1991: Bihar lowest literacy (true). 2011: Bihar lowest literacy (61.8%) and densest (1106); Kerala highest sex-ratio (1084); Meghalaya highest growth (27.9%)."
+  },
+  "17-278": {
+    "r": "Census 2001 true: Puducherry highest sex-ratio among UTs. False: highest SC share Punjab (28.9%), not Bihar; 1991-2001 growth 21.54%; least populous State Sikkim, not Mizoram."
+  },
+  "17-279": {
+    "r": "New National Population Policy (NPP) → February 2000: TFR to replacement level by 2010; stable population by 2045 (later changed to 2070).",
+    "hi": ["National Population Policy (राष्ट्रीय जनसंख्या नीति)"]
+  },
+  "17-280": {
+    "r": "NPP 2000 target → crude birth rate cut to 21 per 1000 by 2010 (one of 14 socio-demographic targets for 2010)."
+  },
+  "17-281": {
+    "r": "NPP 10-year action plan: self-help groups, free compulsory education (6 to 14 years), compulsory registration of marriages and pregnancies; special awards to women, not men."
+  },
+  "17-282": {
+    "r": "India → first (not second) country with a National Family Planning Programme; NPP 2000: replacement fertility 2.1 by 2010 at about 111 crore; Kerala first State at replacement fertility."
+  },
+  "17-283": {
+    "r": "NPP 2000 → long-term goal: population stabilization by 2045 (later moved to 2070); medium-term: TFR to replacement level 2.1 by 2010.",
+    "t": "2045 is the original NPP target; 2070 is the revised one. Read which the question wants."
+  },
+  "17-286": {
+    "r": "Replacement level for zero population growth → 2.1 children per woman."
+  },
+  "17-287": {
+    "r": "Replacement-level fertility → Total Fertility Rate (TFR) of 2.1 per woman.",
+    "hi": ["Total Fertility Rate (कुल प्रजनन दर)"]
+  },
+  "17-288": {
+    "r": "India's TFR, SRS 2016 → 2.3 (rural 2.5, urban 1.8); 2.2 in SRS 2018; 2.0 in NFHS-5 (2019-21), below replacement 2.1."
+  },
+  "17-289": {
+    "r": "India's TFR: NFHS-3 (2005-06) 2.7 → NFHS-4 (2015-16) 2.2 → NFHS-5 (2019-21) 2.0, below replacement 2.1."
+  },
+  "17-290": {
+    "r": "India's TFR: Census 2011 → 2.4; SRS 2018 → 2.2; NFHS-5 (2019-21) → 2.0."
+  },
+  "17-291": {
+    "r": "Highest TFR: UP at question time; NFHS-5 (2019-21) → Bihar (3.0), Meghalaya (2.9), UP (2.4), Jharkhand (2.3); lowest Sikkim (1.1), Goa (1.3)."
+  },
+  "17-292": {
+    "r": "Chhattisgarh TFR, NFHS-5 (2019-21) → 1.8 (urban 1.4, rural 1.9)."
+  },
+  "17-293": {
+    "r": "Rising Couple Protection Rate (CPR) lowers the birth rate most when it rises among younger couples."
+  },
+  "17-294": {
+    "r": "Population size and composition drive social change; fertility of working wives is lower than non-working → A and R true, R explains A."
+  },
+  "17-295": {
+    "r": "Female life expectancy 2001-06: Punjab 70.4 > Tamil Nadu 67.4 > Odisha 59.6 > UP 59.5; in 2016-20 Tamil Nadu (75.5) leads."
+  },
+  "17-296": {
+    "r": "Birth rate = death rate and no migration → population does not change → Stability of Population (population stabilization).",
+    "t": "Book's answer is 'Stability of Population', not 'Zero population growth' or 'Steady population'."
+  },
+  "17-297": {
+    "r": "India's crude death rate → below 9 per thousand: 7.6 (2005, Economic Survey 2006-07); 6.0 (2020, SRS May 2022).",
+    "hi": ["Crude death rate (अशोधित मृत्यु दर)"]
+  },
+  "17-298": {
+    "r": "India's death rate in 2000 → 8.5 per thousand (about 9); 6.0 per thousand in 2020 (SRS)."
+  },
+  "17-299": {
+    "r": "Lowest death rate 2015 (given States) → Maharashtra (5.8); West Bengal 5.9, Gujarat 6.1, Karnataka 6.6. In 2020 range: Delhi 3.6 to Chhattisgarh 7.9."
+  },
+  "17-302": {
+    "r": "IMR → deaths before age 1 per 1000 live births (not 10000); India's IMR 189.6 in 1950 and 30 in 2019 → statements 2 and 3.",
+    "hi": ["Infant mortality rate (शिशु मृत्यु दर)"]
+  },
+  "17-303": {
+    "r": "Registration of Births and Deaths Act, 1969 → every birth, still birth and death must be registered within 21 days."
+  },
+  "17-304": {
+    "r": "First State to start a death census → Karnataka."
+  },
+  "17-305": {
+    "r": "India's IMR at question time (about 2000) → nearly 70 per thousand; fell to 30 (2019) and 28 per thousand live births (2020, SRS)."
+  },
+  "17-306": {
+    "r": "IMR, Census 2011: India 44; lowest Goa and Manipur (11), Kerala 12; highest Madhya Pradesh (59), UP and Odisha (57)."
+  },
+  "17-307": {
+    "r": "Lowest child mortality, Census 2001 → Kerala (16 per thousand); Goa 36, Maharashtra 49, Tamil Nadu 53. India's IMR 71 (2001), 44 (2011)."
+  },
+  "17-308": {
+    "r": "Lowest urban IMR among options → Kerala; SRS 2022: Kerala 9, Tamil Nadu 10, Maharashtra 11, Gujarat 17 per thousand live births."
+  },
+  "17-309": {
+    "r": "IMR below all-India average → Tamil Nadu (17 in 2016, 13 in 2020; India 34 and 28); Rajasthan, UP, MP are above."
+  },
+  "17-310": {
+    "r": "IMR target: 11th Plan (2007-2012) → 28 per 1000 live births by 2012; 12th Plan (2012-17) → 25. IMR still 28 in 2020."
+  }
+}

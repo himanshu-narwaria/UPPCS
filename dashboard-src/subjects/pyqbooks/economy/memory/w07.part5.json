@@ -1,0 +1,190 @@
+{
+  "18-027": {
+    "r": "India's urban share, Census 2011 → 31.16% (provisional); final 31.1% (377106125 of 1210854977); rural 68.9%.",
+    "hi": ["Urban population (नगरीय जनसंख्या)"]
+  },
+  "18-032": {
+    "r": "Most urbanized religious group (Census 2011) → Jains (80% urban); Buddhists 43%, Muslims and Christians 40%, Hindus 29%, Sikhs 28%."
+  },
+  "18-033": {
+    "r": "Over one-fourth of India's urban population lives in Maharashtra (50818259) and Uttar Pradesh (44495063), Census 2011 (true in 2001 too)."
+  },
+  "18-034": {
+    "r": "Lowest urban population among States → Sikkim (153578); then Arunachal Pradesh (317369), Nagaland, Mizoram; lowest overall Lakshadweep (50332)."
+  },
+  "18-035": {
+    "r": "Largest urban population, Census 2001 and 2011 → Maharashtra > Uttar Pradesh > Tamil Nadu."
+  },
+  "18-036": {
+    "r": "Urban population descending (2001 and 2011): Maharashtra > Uttar Pradesh > Tamil Nadu > West Bengal."
+  },
+  "18-038": {
+    "r": "Urban population 2011 ascending: Sikkim (153578) < Arunachal Pradesh (317369) < Nagaland (570966) < Mizoram (571771)."
+  },
+  "18-039": {
+    "r": "Census 2011: least urbanized State → Himachal Pradesh (10%); most urbanized → Goa (62.2%); largest urban population → Maharashtra (50.8 million); smallest → Sikkim (0.15 million)."
+  },
+  "18-040": {
+    "r": "Among given States: most urbanized → Tamil Nadu; largest urban population → Maharashtra; most densely populated → Delhi; least dense → Arunachal Pradesh. Overall most urbanized (2011) → Goa."
+  },
+  "18-042": {
+    "r": "Most urbanized among Gujarat, Maharashtra, Tamil Nadu, West Bengal → Tamil Nadu (2001 and 2011)."
+  },
+  "18-043": {
+    "r": "Most urbanized, 2011: Goa 62.2% > Mizoram 52.1% > Tamil Nadu 48.4% > Kerala 47.7% > Maharashtra 45.2%; Tamil Nadu was 44.5% in 2001.",
+    "t": "Among big States the answer is Tamil Nadu; if Goa or Mizoram is an option, pick it."
+  },
+  "18-047": {
+    "r": "Most urbanized State → Goa: 49.8% urban (2001), 62.2% (2011)."
+  },
+  "18-048": {
+    "r": "Urbanization 2001 → 2011: Tamil Nadu 44.5 → 48.4% > Maharashtra 42.4 → 45.2% > Gujarat 37.4 → 42.6% > Karnataka > Punjab."
+  },
+  "18-050": {
+    "r": "Urbanization descending (2001 and 2011): Tamil Nadu > Maharashtra > Gujarat > West Bengal."
+  },
+  "18-051": {
+    "r": "Land-locked States, urban share 2011: Punjab 37.5% > Haryana 34.9% > Madhya Pradesh 27.6% > Jammu & Kashmir 27.4%."
+  },
+  "18-052": {
+    "r": "Urban population 2011: Maharashtra (50818259) > West Bengal > Andhra Pradesh > Gujarat. By urban %: Maharashtra 45.2 > Gujarat 42.6 > Andhra Pradesh 33.4 > West Bengal 31.9.",
+    "c": "Asks order of urbanization, but answer (b) follows total urban population; the % order is not among the options."
+  },
+  "18-053": {
+    "r": "Lowest urbanization among options (2011) → West Bengal (31.9%); Andhra Pradesh 33.4, Haryana 34.9, Mizoram 52.1."
+  },
+  "18-054": {
+    "r": "Urban share 2011 descending: Tamil Nadu 48.4% > Kerala 47.7% > Maharashtra 45.2% > Gujarat 42.6% (same in provisional data)."
+  },
+  "18-055": {
+    "r": "Highest urban density (urban population ÷ urban area, 2011) → West Bengal (5683/sq km); Maharashtra 5594, Punjab 4136, Tamil Nadu 2561."
+  },
+  "18-056": {
+    "r": "Lowest urbanization among options (2011) → Bihar (11.3%), second lowest after Himachal Pradesh (10.0%); Arunachal 22.9%, Sikkim 25.2%, Nagaland 28.9%."
+  },
+  "18-057": {
+    "r": "Lowest urban share, Census 2011 → Himachal Pradesh (10.0%), lowest of all States; Arunachal 22.9%, Sikkim 25.2%, Tripura 26.2%."
+  },
+  "18-058": {
+    "r": "Lowest urban share, Census 2011 → Himachal Pradesh (10.0%), lowest of all States/UTs; Odisha 16.7%, Jharkhand 24.0%, Rajasthan 24.9%."
+  },
+  "18-059": {
+    "r": "Least urbanized State, Census 2001 and 2011 → Himachal Pradesh."
+  },
+  "18-060": {
+    "r": "Least urbanized UT (2011) → Andaman and Nicobar Islands (37.7%); Dadra & Nagar Haveli 46.7, Puducherry 68.3, Lakshadweep 78.1, Delhi 97.5."
+  },
+  "18-061": {
+    "r": "UT urbanization 2011 descending: Delhi (97.5%) > Chandigarh (97.3%) > Lakshadweep (78.1%) > Daman & Diu (75.2%)."
+  },
+  "18-062": {
+    "r": "Fewest villages among options (2011) → Daman and Diu (25); Lakshadweep 27, Dadra and Nagar Haveli 70, Puducherry 95; fewest of all UTs Chandigarh (12)."
+  },
+  "18-063": {
+    "r": "True: for the first time since Independence urban increase exceeded rural (2011); urbanization 27.81% in 2001. False: 2011 rural/urban 68.84%/31.16%; 2001 rural 72.19%."
+  },
+  "18-064": {
+    "r": "Rural population share of India → 72.2% (Census 2001); 68.9% (Census 2011 final).",
+    "hi": ["Rural population (ग्रामीण जनसंख्या)"]
+  },
+  "18-065": {
+    "r": "Highest rural share, Census 2011 → Himachal Pradesh (90.0%); then Bihar 88.7%, Assam 85.9%, Odisha 83.3%."
+  },
+  "18-066": {
+    "r": "Largest rural population (number), Census 2011 → Uttar Pradesh (155317278; 77.7% rural)."
+  },
+  "18-067": {
+    "r": "Highest rural share (2001 → 2011) → Himachal Pradesh (90.2% → 90.0%); Bihar 89.5 → 88.7, Odisha 85.0 → 83.3, UP 79.2 → 77.7."
+  },
+  "18-068": {
+    "r": "Lowest child share of rural population (2011) → Kerala (10.4%); Punjab 11.2%, Haryana 13.2%, Jammu & Kashmir 17.5%."
+  },
+  "18-069": {
+    "r": "Lowest child sex-ratio in both rural and urban areas (2011) → Haryana (total 834; urban 832, rural 835)."
+  },
+  "18-070": {
+    "r": "Highest share of rural people in pucca houses (2001) → Punjab (83.4%; 97.9% in NSS 76th round, 2018)."
+  },
+  "18-071": {
+    "r": "Traders and manufacturers blur the village-town line (A true), but they do not wholly depend on village resources (R false)."
+  },
+  "18-072": {
+    "r": "Occupational structure of population → distribution of working population among different occupations.",
+    "hi": ["Occupational structure (व्यावसायिक संरचना)"]
+  },
+  "18-073": {
+    "r": "Urban centres in India are classified into 6 classes (Class I to VI) by population size."
+  },
+  "18-074": {
+    "r": "Census 'small towns' → Class IV, V and VI (population below 20000); towns fall in 6 classes by population."
+  },
+  "18-075": {
+    "r": "Fastest population growth by town class → Class I towns (Census 1991); Class III towns (Census 2001)."
+  },
+  "18-076": {
+    "r": "Class I cities' share of urban population → 62.32% (2001); 2011 (provisional): 468 Class I cities, 264.9 million, about 70%."
+  },
+  "18-077": {
+    "r": "True: Tamil Nadu biggest rise in urbanization 1961-2001 (17.17%); most urban centres in Class IV (1,560). False: average centre about 55,400, not 45,000; Class V-VI hold about 3%."
+  },
+  "18-078": {
+    "r": "Census 2001, all true: Maharashtra largest urban population; Goa most urbanized State; Class IV most numerous towns; Class I cities hold most urban population.",
+    "c": "Book prints answer '*': explanation says all four statements were true, so no option is 'not true'."
+  },
+  "18-079": {
+    "r": "Largest number of towns among options (Census 2011) → Uttar Pradesh."
+  },
+  "18-080": {
+    "r": "Census 2011: 468 Class I cities hold about 70.02% of urban population; 53 million-plus UAs hold about 42.6% → both true."
+  },
+  "18-081": {
+    "r": "Million-plus cities in India: 35 (Census 2001) → 53 (Census 2011).",
+    "h": "35 → 53: same two digits, swapped."
+  },
+  "18-083": {
+    "r": "Million-plus (metropolitan) cities' share of urban population → 42.61% in 2011 (53 cities, 160.7 of 377.1 million); 37.8% (about 38) in 2001."
+  },
+  "18-085": {
+    "r": "Mega-cities grow at varying rates (A true); Census 2001 had 6 mega cities (above 40 lakh), not four (R false); 9 such UAs in 2011."
+  },
+  "18-086": {
+    "r": "Census 2001 megacities (6): Mumbai, Delhi, Kolkata, Chennai, Hyderabad, Bengaluru; not Ahmedabad. 2011 adds Ahmedabad, Pune, Surat (9 UAs above 40 lakh)."
+  },
+  "18-087": {
+    "r": "Largest UAs, Census 2011: Greater Mumbai (18.41 million) > Delhi (16.31) > Kolkata (14.11) > Chennai (8.70) > Bengaluru (8.50). 2001: Mumbai, Delhi, Kolkata, Bangalore."
+  },
+  "18-090": {
+    "r": "UAs by population (2011), increasing: Ahmedabad (6.35 million) < Hyderabad (7.74) < Bengaluru (8.50) < Chennai (8.70)."
+  },
+  "18-091": {
+    "r": "Census 1991 city order: Bombay (13.7 million) > Kolkata (10.9) > Delhi (9.4) > Madras (3.8); by 2011 Delhi (16.31) overtook Kolkata (14.11)."
+  },
+  "18-092": {
+    "r": "Most million cities, Census 2001 → Uttar Pradesh (6); Maharashtra 4, Tamil Nadu 3, West Bengal 2. In 2011 → UP and Kerala (7 each), Maharashtra 6."
+  },
+  "18-093": {
+    "r": "No million-plus UA in 2011 → Odisha; Haryana (Faridabad), J&K (Srinagar) and Jharkhand (Jamshedpur, Dhanbad, Ranchi) have them."
+  },
+  "18-094": {
+    "r": "Madhya Pradesh million cities, Census 2001 → Indore (16.4 lakh), Bhopal, Jabalpur; Gwalior joined only in Census 2011."
+  },
+  "18-095": {
+    "r": "Million cities: 23 (1991) → 35 (2001). UP had 6 in 2001 (Varanasi, Kanpur, Agra, Lucknow, Meerut, Allahabad) and 7 in 2011.",
+    "h": "KAVAL (Kanpur, Agra, Varanasi, Allahabad, Lucknow) + Meerut = UP's 6 million cities of 2001."
+  },
+  "18-098": {
+    "r": "UP million cities 2011 (P) ascending: Allahabad (1216719) < Meerut (1424908) < Agra (1746467) < Lucknow (2901474)."
+  },
+  "18-099": {
+    "r": "UP urban agglomerations 2011 (P) descending: Ghaziabad (2358525) > Agra (1746467) > Varanasi (1435113) > Meerut (1424908)."
+  },
+  "18-100": {
+    "r": "Census 2001 million-plus cities (35) included Ludhiana, Kochi, Surat and Nagpur (all four above 10 lakh)."
+  },
+  "18-101": {
+    "r": "Last-ranked of the 53 million cities, Census 2011 (P) → Kota, Rajasthan (1001365); Mangalore (476000) is not a million city."
+  },
+  "18-102": {
+    "r": "Smallest million city: Rajkot among options (Census 2001); Kota, Rajasthan (1001365) as per Census 2011 (P)."
+  }
+}

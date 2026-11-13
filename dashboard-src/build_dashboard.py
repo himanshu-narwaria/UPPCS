@@ -106,7 +106,7 @@ def parse_views_notes(s, label):
     source_practice = meta.get("question_kind") == "source-practice"
     home = need(r'<section class="view" id="home".*?</section>', s, f"home view in {label}").group(0)
     toc = re.findall(r'<a href="#c(\d+)"><span class="no">\d+</span><span class="nm">([^<]+)</span>(?:<span class="p up">[^<]*</span>)?'
-                     r'<span class="q">(\d+) (?:UPPSC PYQs|practice questions)</span>', home)
+                     r'<span class="q">(\d+) (?:UPPSC PYQs|practice questions|past-paper questions)</span>', home)
     if not toc:
         fail(f"no chapter list in {label}")
     chapters = OrderedDict((int(n), {"title": html.unescape(t), "asked": int(q)}) for n, t, q in toc)
@@ -217,7 +217,7 @@ def parse_quick(path):
     source_practice = meta.get("question_kind") == "source-practice"
     home = need(r'<section class="view" id="home".*?</section>', s, f"home view in {label}").group(0)
     toc = re.findall(r'<a href="#c(\d+)"><span class="no">\d+</span><span class="nm">([^<]+)</span>(?:<span class="p up">[^<]*</span>)?'
-                     r'<span class="q">(\d+) (?:UPPSC PYQs|practice questions)</span>', home)
+                     r'<span class="q">(\d+) (?:UPPSC PYQs|practice questions|past-paper questions)</span>', home)
     if not toc:
         fail(f"no chapter list in {label}")
     topics = Counter(int(c) for c in re.findall(r'<article class="topic" id="c(\d+)-t\d+"', s))
@@ -230,7 +230,7 @@ def parse_quick(path):
         fail(f"{label}: heading says {facts_head.group(1)} repeated facts but the list has {n_rep}")
     foot = [strip_tags(x) for x in re.findall(r'<p class="foot">(.*?)</p>', home, re.S)]
     basis = foot[0] if foot else ""
-    m = re.search(r"Based on (\d+) (?:UPPSC|source practice) questions", basis)
+    m = re.search(r"Based on (\d+) (?:UPPSC|source practice|past-paper) questions", basis)
     if m and int(m.group(1)) != sum(c["asked"] for c in chapters.values()):
         fail(f"{label}: states {m.group(1)} questions but chapters add to {sum(c['asked'] for c in chapters.values())}")
     if not m:
@@ -295,7 +295,7 @@ def chapter_hours(chapters, plan, label):
 def year_svg(counts, highlight, label):
     years = list(range(min(counts), max(counts) + 1))
     vmax = max(counts.values())
-    step = next(s for s in (5, 10, 20, 25, 50, 100) if vmax / s <= 8)
+    step = next(s for s in (5, 10, 20, 25, 50, 100, 200, 250, 500, 1000, 2000, 2500, 5000, 10 ** 9) if vmax / s <= 8)
     top = -(-vmax // step) * step
     W, H, L, B, T = 640, 220, 38, 30, 12
     pw, ph = W - L - 8, H - B - T
@@ -363,6 +363,9 @@ def render_source_practice(sub, F, Q, files):
 
 def render_subject(sub, F, Q, P, files, exam_txt):
     k = sub["key"]
+    book = F.get("metadata", {}).get("question_kind") == "book-pyq"
+    qlabel = "past-paper MCQs" if book else "UPPSC MCQs"
+    qshort = "past-paper" if book else "UPPSC"
     ch = F["chapters"]
     max_q = max(1, max(c["asked"] for c in ch.values()))
     rep_by_ch = Counter(r["ch"] for r in F["repeats"])
@@ -397,19 +400,19 @@ def render_subject(sub, F, Q, P, files, exam_txt):
 <div class="bh"><div><p class="kind">Full notes</p><h3 id="{k}-full-h">{E(os.path.basename(full_h))}</h3></div>
 <a class="open" href="{href(full_h)}">Open full notes</a></div>
 <p class="basis">{E(F["basis"])} Updated {fmt_date(modified(full_h))}.</p>
-<div class="kpis"><div><b>{len(ch)}</b><span>chapters</span></div><div><b>{F["bank"]:,}</b><span>UPPSC MCQs to practise</span></div>
+<div class="kpis"><div><b>{len(ch)}</b><span>chapters</span></div><div><b>{F["bank"]:,}</b><span>{qlabel} to practise</span></div>
 <div><b>{len(F["repeats"])}</b><span>facts asked in 2+ papers</span></div><div><b>{min(years)}–{max(years)}</b><span>years of papers</span></div></div>
 <h4>Chapters <span class="hi">(अध्याय)</span></h4>
-<p class="lead">Chapters {top3[0]}, {top3[1]} and {top3[2]} carry the most UPPSC questions. Click a chapter to open it.</p>
-<div class="tw"><table><thead><tr><th>#</th><th>Chapter</th><th class="num">UPPSC MCQs</th><th class="num">Repeated facts</th></tr></thead><tbody>{"".join(rows)}</tbody></table></div>
+<p class="lead">Chapters {top3[0]}, {top3[1]} and {top3[2]} carry the most {qshort} questions. Click a chapter to open it.</p>
+<div class="tw"><table><thead><tr><th>#</th><th>Chapter</th><th class="num">{qlabel}</th><th class="num">Repeated facts</th></tr></thead><tbody>{"".join(rows)}</tbody></table></div>
 <div class="two">
 <div class="col"><h4>Most repeated facts <span class="hi">(बार-बार पूछे गए तथ्य)</span></h4>
 <p class="lead">The {len(top_rep)} facts asked in {cut} or more UPPSC papers. Learn these first.</p>
 <div class="tw"><table><thead><tr><th>#</th><th>Fact and papers</th><th class="num">Papers</th><th>Ch</th></tr></thead><tbody>{rep_rows}</tbody></table></div>
 <a href="{href(full_h, "repeated" if F["layout"] == "views" else "dash-repeats")}">All {len(F["repeats"])} repeated facts →</a></div>
 <div class="col"><h4>Questions by year <span class="hi">(वर्षवार प्रश्न)</span></h4>
-<p class="lead">UPPSC MCQs in the practice bank, by the year of the paper.</p>
-<div class="chart">{year_svg(years, F["after_years"], f"{sub['name']}: UPPSC MCQs per year")}</div>{key_html}
+<p class="lead">{qlabel} in the practice bank, by the year of the paper.</p>
+<div class="chart">{year_svg(years, F["after_years"], f"{sub['name']}: {qlabel} per year")}</div>{key_html}
 <h4>Latest papers</h4><ul class="latest">{latest}</ul></div>
 </div>
 {extras}

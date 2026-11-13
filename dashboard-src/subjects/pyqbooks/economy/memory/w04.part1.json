@@ -1,0 +1,377 @@
+{
+ "09-312": {
+  "r": "Commercial Paper (CP) → source of credit for corporate industry; introduced in India in 1990; unsecured promissory note; maturity 7 days to one year.",
+  "hi": [
+   "Commercial Paper (वाणिज्यिक पत्र)"
+  ]
+ },
+ "09-313": {
+  "r": "Convertible Bonds → pay a lower interest rate (option to swap for equity); the equity option gives some indexation to rising consumer prices. Both statements correct.",
+  "hi": [
+   "Convertible Bond (परिवर्तनीय बॉन्ड)"
+  ]
+ },
+ "09-314": {
+  "r": "Indian Government bond yields are influenced by all three: US Federal Reserve actions, RBI actions (monetary policy), and inflation and short-term interest rates."
+ },
+ "09-315": {
+  "r": "Inflation-Indexed Bonds (IIBs) → protect investors from inflation and let Government reduce coupon rates (cost saving); interest and capital gains on IIBs are not tax-free.",
+  "hi": [
+   "Inflation-Indexed Bond (मुद्रास्फीति-सूचकांकित बॉन्ड)"
+  ]
+ },
+ "09-316": {
+  "r": "Blue Chip → shares of large, well-established, financially sound companies with dependable earnings, giving a consistently high rate of return."
+ },
+ "09-317": {
+  "r": "Sweat Equity shares → issued to directors/employees at a discount or for non-cash consideration (know-how, IPR, value addition); a reward for their contribution."
+ },
+ "09-318": {
+  "r": "Gilt-edged market → market of Government securities (G-secs); called 'gilt-edged' because interest payment and redemption on the due date are certain.",
+  "t": "Don't confuse gilt-edged (Government securities) with bullion market (gold, silver).",
+  "hi": [
+   "Government Securities (सरकारी प्रतिभूतियाँ)"
+  ]
+ },
+ "09-320": {
+  "r": "SAPs (Structural Adjustment Programmes) → World Bank/IMF loan-linked policies for developing countries, not share market; Sensex, BSE, Nifty are share market terms."
+ },
+ "09-321": {
+  "r": "NIKKEI (Nikkei 225) → share price index of the Tokyo Stock Exchange, Japan."
+ },
+ "09-322": {
+  "r": "S&P 500 (Standard and Poor 500) → market-capitalization-weighted stock index of the 500 leading publicly traded companies of the United States."
+ },
+ "09-323": {
+  "r": "Dow Jones → New York; FTSE-100 → London; Hang Seng → Hong Kong (not Seoul); KOSPI → Seoul.",
+  "t": "Don't pair Hang Seng with Seoul: Hang Seng is Hong Kong, KOSPI is Seoul."
+ },
+ "09-324": {
+  "r": "Wrong pair: Singapore–Shcomp. Shcomp = Shanghai index; Singapore's index = STI. Correct: Japan–Nikkei, U.K.–FTSE, U.S.A.–Nasdaq."
+ },
+ "09-325": {
+  "r": "Brent Index → crude oil prices; Brent Complex = oil market around the North Sea of Northwest Europe."
+ },
+ "09-326": {
+  "r": "Among USA, India, China, Japan → India's market-cap exceeded its GDP (2007; all-time high 146.4% of GDP in December 2007)."
+ },
+ "09-327": {
+  "r": "Dividend → declared on Subscribed Capital (the part of issued capital bought by shareholders); dividend = share of company's net profit paid to shareholders.",
+  "t": "Not Issued or Authorized Capital; dividend goes on the capital actually subscribed by shareholders."
+ },
+ "09-328": {
+  "r": "Debenture holders → creditors of the company; debenture = medium/long-term loan certificate carrying a fixed rate of interest.",
+  "t": "Shareholders own the company; debenture holders only lend to it.",
+  "hi": [
+   "Debenture (ऋणपत्र)"
+  ]
+ },
+ "09-329": {
+  "r": "Debenture of a company → freely transferable, so ownership can change; LIC Policy, Bank Fixed Deposit, Kisan Vikas Patra → fixed ownership."
+ },
+ "09-330": {
+  "r": "Balance sheet → snapshot of a company's financial condition at a point in time; shows size and composition of assets, liabilities and equity.",
+  "hi": [
+   "Balance Sheet (तुलन पत्र)"
+  ]
+ },
+ "09-331": {
+  "r": "First Land Development Bank → Jhang (Punjab), 1920; gives long-term finance for land development and agricultural production."
+ },
+ "09-332": {
+  "r": "Land Development Bank → long-term loans to farmers (land development, higher agricultural production).",
+  "hi": [
+   "Land Development Bank (भूमि विकास बैंक)"
+  ]
+ },
+ "09-335": {
+  "r": "Land Development Bank → part of the Cooperative Credit Structure (quasi-commercial), with State Cooperative Banks and Primary Agricultural Credit Societies."
+ },
+ "09-336": {
+  "r": "Cooperative credit is three-tier: PACS (village level) → Central Cooperative Banks (district level) → State Cooperative Banks (state level).",
+  "h": "V-D-S ladder: Village PACS, District CCB, State StCB.",
+  "hi": [
+   "Cooperative Bank (सहकारी बैंक)"
+  ]
+ },
+ "09-339": {
+  "r": "Urban Cooperative Banks → can issue equity and preference shares; under Banking Regulation Act, 1949 via 1966 amendment; regulated by RCS/CRCS and RBI, not local boards."
+ },
+ "09-340": {
+  "r": "Urban Cooperative Banks in India: 1645 (end-March 2011); 1618 (end-March 2012); 1502 (end-March 2023); 1483 (December 2023).",
+  "c": "Answer not printed; no option matches the March 2012 figure (1618). Option 1645 is the March 2011 figure."
+ },
+ "09-341": {
+  "r": "Consumer Cooperative Stores → set up by the members; registered by the Registrar of Cooperative Societies."
+ },
+ "09-342": {
+  "r": "All four (NABARD, RRB, SBI, Allahabad Bank) give direct finance; NABARD lends directly to food parks, warehouses, cold chains, not to individuals."
+ },
+ "09-343": {
+  "r": "NABARD → set up July 1982, during the Sixth Five Year Plan; HQ Mumbai; apex bank for agricultural refinance.",
+  "hi": [
+   "NABARD (राष्ट्रीय कृषि और ग्रामीण विकास बैंक)"
+  ]
+ },
+ "09-349": {
+  "r": "NABARD → apex body for all credit needs of agriculture and rural development; set up 12 July 1982 under Act 61 of 1981; gives refinance."
+ },
+ "09-358": {
+  "r": "NABARD refinances Scheduled Commercial Banks, RRBs and State Land Development Banks; it does not refinance the Export-Import Bank."
+ },
+ "09-359": {
+  "r": "NABARD → nodal agency for the Rural Infrastructure Development Fund (RIDF); RIDF created 1995-96 with initial corpus of Rs. 2000 crore."
+ },
+ "09-360": {
+  "r": "First RRB → Prathama Grameen Bank, Moradabad (U.P.), 2 October 1975; the other first four: Malda, Gorakhpur, Bhiwani, Jaipur.",
+  "h": "RRBs born on Gandhi Jayanti (2 October) 1975.",
+  "hi": [
+   "Regional Rural Bank (क्षेत्रीय ग्रामीण बैंक)"
+  ]
+ },
+ "09-362": {
+  "r": "Taking over the Agricultural Refinance Corporation of India's functions → not an RRB function; RRBs lend to small/marginal farmers and rural people, supplementing commercial banks."
+ },
+ "09-363": {
+  "r": "Direct credit to rural households → Regional Rural Banks and Land Development Banks; NABARD gives no direct credit, it refinances other institutions.",
+  "t": "Don't confuse NABARD's refinance role with direct lending to households."
+ },
+ "09-364": {
+  "r": "Chronology: RRB (1975) → NABARD (1982) → SHG-Bank Linkage Programme (1992-93) → Kisan Credit Card (1998)."
+ },
+ "09-365": {
+  "r": "SHG-Bank Linkage Programme → started by NABARD in 1992-93; implemented by Commercial Banks, RRBs and Cooperative Banks, not by NABARD."
+ },
+ "09-366": {
+  "r": "SHG programme → originally initiated by NABARD (not SBI); SHG members jointly take responsibility for a member's loan; RRBs and Scheduled Commercial Banks support SHGs.",
+  "hi": [
+   "Self-Help Group (स्वयं सहायता समूह)"
+  ]
+ },
+ "09-367": {
+  "r": "Bhandari Committee (1994) → restructuring of Regional Rural Banks; identified 49 RRBs for restructuring; more powers to RRB Boards."
+ },
+ "09-368": {
+  "r": "Narasimham Committees (1991, Financial System; 1997, Banking Sector Reforms) → financial sector reforms; suggested reducing SLR and CRR.",
+  "hi": [
+   "Statutory Liquidity Ratio (वैधानिक तरलता अनुपात)"
+  ]
+ },
+ "09-371": {
+  "r": "Committee on Financial Sector Reforms → headed by Raghuram Rajan; set up 2007 by the Planning Commission; report submitted 2008."
+ },
+ "09-372": {
+  "r": "Raghuram Rajan Committee (2007) → Financial Sector Reforms."
+ },
+ "09-373": {
+  "r": "Bimal Jalan Panel → RBI's three-member committee to scrutinize applications for new bank licenses; report 25 February 2014."
+ },
+ "09-374": {
+  "r": "First Chairman, Disinvestment Commission (1996) → G.V. Ramkrishna; it gave 13 reports covering privatization of 57 public sector units."
+ },
+ "09-375": {
+  "r": "Rangarajan Committee (1993) → disinvestment of Government shares in public sector companies."
+ },
+ "09-377": {
+  "r": "Abhijit Sen working group (2007) → revision of the Wholesale Price Index series; report May 2008; recommended base year 2004-05."
+ },
+ "09-378": {
+  "r": "Financial Stability and Development Council (December 2010) → headed by Union Finance Minister; monitors macroprudential supervision; not an organ of NITI Aayog."
+ },
+ "09-379": {
+  "r": "Swabhimaan Campaign (10 February 2011) → financial inclusion; take banking to the doorsteps of the rural poor."
+ },
+ "09-381": {
+  "r": "Business Correspondent (Bank Saathi) → villagers in branchless areas can draw subsidies/social security benefits and make deposits and withdrawals; both correct."
+ },
+ "09-382": {
+  "r": "Gold Monetization Scheme and Sovereign Gold Bond Scheme (2015) → bring idle household gold into the economy; cut dependence on gold imports; not to promote FDI."
+ },
+ "09-383": {
+  "r": "Kisan Credit Card (August 1998) → covers both consumption and investment credit of farmers; run by Commercial Banks, RRBs, Small Finance Banks, Cooperatives."
+ },
+ "09-385": {
+  "r": "Banking Ombudsman → appointed by RBI; free of fee; NRIs with Indian accounts can complain; its orders are NOT final and binding on the parties."
+ },
+ "09-387": {
+  "r": "CRISIL, CARE and ICRA → all are credit rating agencies in India."
+ },
+ "09-388": {
+  "r": "Credit rating agencies, oldest first: CRISIL (1987) → ICRA (1991) → CARE (1993)."
+ },
+ "09-389": {
+  "r": "CRISIL (Credit Rating Information Services of India Ltd., 1987) → evaluates the creditworthiness of companies; one of India's oldest credit rating agencies."
+ },
+ "09-390": {
+  "r": "Phillips Curve (A.W. Phillips, 1958) → stable inverse relation between inflation and unemployment; a short-run trade-off.",
+  "hi": [
+   "Inflation (मुद्रास्फीति)",
+   "Unemployment (बेरोज़गारी)"
+  ]
+ },
+ "09-391": {
+  "r": "'Smart Money' → term used for credit card."
+ },
+ "09-392": {
+  "r": "'Plastic Money' → credit cards (mainly bank-issued), also debit, prepaid, smart and store cards used in place of bank notes."
+ },
+ "09-394": {
+  "r": "PIN → Personal Identification Number; numeric code issued with a payment card that adds a layer of security to electronic transactions."
+ },
+ "09-395": {
+  "r": "Credit card of a nationalized bank → NOT a prepaid payment instrument; Delhi Metro Rail Card, e-wallet, Airtel Money → prepaid instruments.",
+  "t": "Credit card = pay later on credit; prepaid instrument = pay first, then use."
+ },
+ "09-396": {
+  "r": "Prices → indispensable for the existence of a market (goods and services are bought and sold on the basis of price)."
+ },
+ "09-397": {
+  "r": "Market as an economic tendency → leads to consumerism.",
+  "hi": [
+   "Consumerism (उपभोक्तावाद)"
+  ]
+ },
+ "09-398": {
+  "r": "Buyer's market → supply exceeds demand; buyers have the advantage over sellers in price bargaining."
+ },
+ "09-399": {
+  "r": "Accounting → 'language of business' (communicates financial information); it gives all information a businessman needs. A and R true, R explains A."
+ },
+ "09-400": {
+  "r": "Condition → stipulation essential to the contract's main purpose; breach allows repudiation. Warranty → collateral; breach gives damages only. So A true, R false.",
+  "t": "Don't swap them: breach of condition → repudiate contract; breach of warranty → claim damages."
+ },
+ "09-401": {
+  "r": "Merchandise Turnover = Cost of Goods Sold/Average Stock; Current Ratio = Current Assets/Current Liabilities; Acid Test = Liquid Assets/Current Liabilities; Return on Total Assets = NPBIT/Total Assets.",
+  "c": "Answer not printed; item D is garbled ('Gross Capital Employed' for Return on Total Assets). The explanation's matching gives (b) 4 1 2 3."
+ },
+ "09-402": {
+  "r": "Auctions and dynamic (real-time) pricing markets → the book accepts both B2B and C2C commerce.",
+  "c": "Book prints two answers, (a) and (c)."
+ },
+ "09-403": {
+  "r": "C2B (consumer-to-business) model → consumers fix their own price and the business accepts or declines; opposite of the traditional B2C model."
+ },
+ "09-404": {
+  "r": "Vegetables, flowers, fruits → very short period market (supply fixed; price depends on demand)."
+ },
+ "09-405": {
+  "r": "Supply-side economics → producer's point of view; production (supply) drives growth; tax cuts for the wealthy trickle down to the economy."
+ },
+ "09-406": {
+  "r": "Total product constant → marginal product is zero (total product at its optimum level).",
+  "h": "MP = extra output from one more unit; no change in TP means MP is zero."
+ },
+ "09-407": {
+  "r": "Consumer equilibrium → consumer fulfils his needs with a given level of income and cannot gain by changing what he buys."
+ },
+ "09-408": {
+  "r": "Demand for a good rises if its substitute's price rises or its own price falls; not if a complement's price rises or income rises for an inferior good.",
+  "hi": [
+   "Substitute goods (स्थानापन्न वस्तुएँ)"
+  ]
+ },
+ "09-409": {
+  "r": "Fixed demand + rising supply → price likely to decrease (supply and price inversely related)."
+ },
+ "09-410": {
+  "r": "General price level rises with all three: higher money supply, lower aggregate output, higher effective demand."
+ },
+ "09-411": {
+  "r": "Money supply fixed + demand for money rises → rate of interest rises."
+ },
+ "09-412": {
+  "r": "Price-hike → businessmen make profit (A true); consumers curtail needs as money's purchasing power falls (R true); R does not explain A."
+ },
+ "09-413": {
+  "r": "Profit Volume (P/V) ratio = contribution as % of sales; improved by raising selling price, altering sales mix and reducing variable cost (all)."
+ },
+ "09-414": {
+  "r": "'Shadow Prices' for pricing public goods → J. Tinbergen; shadow price = estimated true (equilibrium) value of something not normally priced in the market."
+ },
+ "09-415": {
+  "r": "Cars → not a public good; Government administration, national defence and roads → public goods.",
+  "hi": [
+   "Public goods (सार्वजनिक वस्तुएँ)"
+  ]
+ },
+ "09-416": {
+  "r": "Commodity given free by Government (street light, free education) → opportunity cost shifts from its consumers to the tax-paying public.",
+  "hi": [
+   "Opportunity cost (अवसर लागत)"
+  ]
+ },
+ "09-417": {
+  "r": "Trade → exchange of goods/services for money; represents both demand and supply, not only demand."
+ },
+ "09-418": {
+  "r": "Commerce → removes impediments to exchange and deals with delivering products to consumers (distribution, not production); both statements correct."
+ },
+ "10-001": {
+  "r": "Theory of three stages of social development → Auguste Comte: theological → metaphysical → positive (scientific) stage.",
+  "h": "Comte's T-M-P: Theology, Metaphysics, Positive science."
+ },
+ "10-002": {
+  "r": "HDI and SDG rankings of Indian States → positively related, since SDG targets are closely tied to education and health. A and R true, R explains A."
+ },
+ "10-003": {
+  "r": "Development measures in order: Per-capita Income (US, 1934, Simon Kuznets' team) → PQLI (Physical Quality of Life Index) → HDI (Human Development Index)."
+ },
+ "10-004": {
+  "r": "PQLI → Morris D. Morris (mid-1970s); average of basic literacy, infant mortality and life expectancy; best pair for physical quality of life: infant mortality–literacy.",
+  "hi": [
+   "Infant mortality rate (शिशु मृत्यु दर)"
+  ]
+ },
+ "10-006": {
+  "r": "Human Development Report → published by UNDP; first HDR released in 1990."
+ },
+ "10-007": {
+  "r": "HDI → developed by Pakistani economist Mahbub-ul-Haq for UNDP's Human Development Report (first 1990); rooted in Amartya Sen's capability work.",
+  "hi": [
+   "Human Development Index (मानव विकास सूचकांक)"
+  ]
+ },
+ "10-009": {
+  "r": "Capability Approach → Prof. Amartya Sen (1980s); alternative to welfare economics, focusing on people's capability to live lives they value."
+ },
+ "10-010": {
+  "r": "UNDP → first to focus on the human aspect of development; first Human Development Report in 1990."
+ },
+ "10-011": {
+  "r": "HDI = composite of life expectancy, education and per capita income (per capita GNI since 2010; per capita GDP before); published by UNDP; value from zero to 1."
+ },
+ "10-012": {
+  "r": "Old HDI → literacy rate, life expectancy at birth, GDP per head at real purchasing power; since 2010 → life expectancy, mean and expected years of schooling, income.",
+  "c": "Answer not printed; option (b), GDP per head at real purchasing power, fits the old HDI method."
+ },
+ "10-013": {
+  "r": "HDI life expectancy goalposts → 85 and 25 years before 2010; now 85 and 20 years (index = 1 at 85, 0 at 20).",
+  "c": "Answer not printed; option (c) 85 and 25 matches the pre-2010 values in the explanation."
+ },
+ "10-014": {
+  "r": "HDI indicators → life expectancy at birth, education level, standard of living (GNI per capita PPP $); not included → social inequality, health and nutrition, urbanization.",
+  "c": "Answer not printed; explanation and 'Also asked' answer show (c) Social Inequality."
+ },
+ "10-019": {
+  "r": "HDI ranks for 2021 (HDR 2021/2022): Hong Kong 4th, Australia 5th, Japan 19th, Russia 52nd → descending order: Hong Kong, Australia, Japan, Russia."
+ },
+ "10-020": {
+  "r": "HDR 2021/2022 → India's HDI rank slipped from 130 (2020) to 132 in 2021, not 2022 (191 countries); HDR 2023/2024 → 134 in 2022.",
+  "t": "Both statements wrong: 'upgraded' is wrong and the year 2022 is wrong."
+ },
+ "10-021": {
+  "r": "HDI 2019 ranks (HDR 2020): Brazil 84, China 85, South Africa 114, India 131 → ascending: Brazil, China, South Africa, India."
+ },
+ "10-023": {
+  "r": "HDR 2015 → India 130th; HDI uses life expectancy, education and per capita income; India lowest among BRICS. Book marks all three correct.",
+  "c": "Statement A says 183 countries but the explanation says 188; the book still marks it correct."
+ },
+ "10-024": {
+  "r": "HDR 2018 → Norway ranked first in HDI (for 2017); HDR 2023/2024 → Switzerland 1st (0.967), Norway 2nd, for 2022."
+ },
+ "10-025": {
+  "r": "HDR 2015 → India 130th of 188 (HDI for 2014), UPPSC's answer; HDR 2014 → 135th of 187 (for 2013); HDR 2023/2024 → 134th of 193.",
+  "c": "Answer not printed; UPPSC accepted 130th (HDR 2015). The question's '186 countries' matches neither report."
+ }
+}

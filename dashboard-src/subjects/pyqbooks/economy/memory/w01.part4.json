@@ -1,0 +1,220 @@
+{
+ "04-055": {
+  "r": "Largest producers → Mango: Uttar Pradesh; Litchi: Bihar; Coconut: Kerala; Apple: Jammu & Kashmir."
+ },
+ "04-056": {
+  "r": "Wrong pair → Coffee: Mongolia (largest coffee producers: Brazil, Vietnam, Indonesia); Rubber: Thailand, Olive: Spain, Sugarcane: Brazil are correct."
+ },
+ "04-057": {
+  "r": "Coffee production 2016 (FAO, descending) → Brazil, Vietnam, Colombia, Indonesia; by 2022 Indonesia moved above Colombia."
+ },
+ "04-058": {
+  "r": "Largest coffee producer in India → Karnataka (about 70%, 248020 MT in 2022-23), then Kerala and Tamil Nadu."
+ },
+ "04-059": {
+  "r": "India's agri exports → traditional items (cashew, coffee, tea, spices), non-traditional items with uncertainty, non-traditional items with good prospects (all of the above)."
+ },
+ "04-060": {
+  "r": "Highest agricultural import by value (last five years) → vegetable oils, far ahead of pulses and fresh fruits."
+ },
+ "04-061": {
+  "r": "Pulse imported in largest quantity in 2015-16 → lentil (masoor); also in 2019-20 and 2020-21.",
+  "hi": [
+   "Lentil (मसूर)"
+  ]
+ },
+ "04-062": {
+  "r": "Largest forex earner among options → Basmati rice; rice is the most valuable item in India's agricultural exports."
+ },
+ "04-064": {
+  "r": "Largest agri export by value, 1997-98 to 1999-2000 → marine products; in recent years → cereals."
+ },
+ "04-065": {
+  "r": "India's share in world meat and meat preparations exports → 3.0% in 2017; 2.0% in 2020."
+ },
+ "04-066": {
+  "r": "Most preferred and most exported mango variety → Alphonso (Western India; Maharashtra main producer)."
+ },
+ "04-068": {
+  "r": "India's main agricultural import → edible oil (more than 50% of value of agri-imports).",
+  "hi": [
+   "Edible oil (खाद्य तेल)"
+  ]
+ },
+ "04-069": {
+  "r": "Edible oil imports exceed domestic production (2020-21: 133.52 vs 122.89 lakh tonnes) → true; customs duty on edible oils is reviewed and recently reduced, not nil → false.",
+  "hi": [
+   "Edible oil (खाद्य तेल)"
+  ]
+ },
+ "04-070": {
+  "r": "Niger (minor rainfed oilseed) → seeds contain about 37-47% oil."
+ },
+ "04-071": {
+  "r": "Leading mulberry silk producer (2022-23) → Karnataka; then Andhra Pradesh, Tamil Nadu, West Bengal."
+ },
+ "04-074": {
+  "r": "Raising farm productivity → efficient irrigation, quality seeds, pesticides and fertilizers (all; 'more than one of the above')."
+ },
+ "04-075": {
+  "r": "Low farm productivity causes → population pressure, small holdings, disguised unemployment, uncertain monsoon; co-operative farming is not (it raises productivity)."
+ },
+ "04-076": {
+  "r": "Agriculture's importance → national income, employment, industry, international trade, foodgrain supply (all); 17.6% of GVA, employs about half the workforce."
+ },
+ "04-077": {
+  "r": "2006-07: per capita GDP about Rs. 37,000 and wheat 75.8 MT (correct pairs); rice was 93.4 MT, not 180 MT."
+ },
+ "04-078": {
+  "r": "Agricultural income tax → only State Governments (item 46, State List, Seventh Schedule); exempt from Union income tax.",
+  "hi": [
+   "State List (राज्य सूची)"
+  ]
+ },
+ "04-079": {
+  "r": "Workforce in agriculture → 58.2% (Census 2001); about 55% (Census 2011).",
+  "c": "Answer not printed; the Census figures match none of the options exactly."
+ },
+ "04-080": {
+  "r": "Uttar Pradesh → most workers (59.3%) engaged in agriculture sector (Census 2011)."
+ },
+ "04-081": {
+  "r": "Labour force dependent on agriculture → about 65% at question time; about 55% as per Census 2011.",
+  "c": "Answer not printed; explanation points to (b) 65%."
+ },
+ "04-082": {
+  "r": "Not a cash crop → Jowar (a coarse foodgrain); jute, groundnut, sugarcane are cash crops.",
+  "hi": [
+   "Cash crop (नकदी फसल)"
+  ]
+ },
+ "04-083": {
+  "r": "Vishesh Krishi and Gram Udyog Yojana (VKGUY) → promote agricultural exports by offsetting high transport costs to port/airport."
+ },
+ "04-084": {
+  "r": "Kisan Bahi Yojana in Uttar Pradesh → started 1992."
+ },
+ "04-085": {
+  "r": "Rashtriya Krishi Vikas Yojana → launched August 2007; Rs. 25000 crore for 11th Plan; given as 100% central assistance (ACA), not 80% grant."
+ },
+ "04-087": {
+  "r": "RKVY (2007 umbrella scheme) includes soil test labs, fertilizer quality control labs, farm tools test labs, agricultural engineering → none excluded."
+ },
+ "04-088": {
+  "r": "Sengupta and Sdasyuk (1968) → 4 macro (climate), 11 meso (physiography), 60 micro agricultural regions (crop combinations)."
+ },
+ "04-089": {
+  "r": "Planning Commission (1988, for 8th Plan) → India divided into 15 agro-climatic zones.",
+  "hi": [
+   "Agro-climatic zone (कृषि-जलवायु क्षेत्र)"
+  ]
+ },
+ "04-090": {
+  "r": "National Horticulture Mission → started May 2005, in the 10th Five Year Plan; now a sub-scheme of MIDH (launched 2014-15)."
+ },
+ "04-092": {
+  "r": "NHM covers Uttar Pradesh; North Eastern and Himalayan States (J&K, Arunachal, Himachal) are under a separate mission, HMNEH."
+ },
+ "04-093": {
+  "r": "NHM objectives → higher horticulture growth, post-harvest management, human resource development; 'providing financial assistance' is not one."
+ },
+ "04-094": {
+  "r": "Krishi Shramik Samajik Suraksha Yojana (1 July 2001) → life insurance, survival benefit and pension for agricultural workers."
+ },
+ "04-095": {
+  "r": "Small Farmers Development Agency (SFDA) programme → started 1971 for small, marginal farmers and agricultural labourers.",
+  "c": "Answer not printed; 1971 is not among the options."
+ },
+ "04-096": {
+  "r": "NFSA → 67% of population (75% rural, 50% urban); has four schedules, not two (I subsidised prices, II nutritional standards, III advancing food security).",
+  "hi": [
+   "Food security (खाद्य सुरक्षा)"
+  ]
+ },
+ "04-097": {
+  "r": "NFSA 2013 → up to 75% rural, 50% urban; nutritional support to women and children; eldest woman (18+) is household head (all correct)."
+ },
+ "04-098": {
+  "r": "NFSA 2013 → not BPL-only (SECC method, non-BPL also benefit); eldest woman aged 18 or above is household head for ration card (only 2 true)."
+ },
+ "04-099": {
+  "r": "State Food Commission → Section 16, National Food Security Act, 2013; Chairperson, five other Members and a Member-Secretary."
+ },
+ "04-100": {
+  "r": "Commission for food under NFSA 2013 → the Act names it 'State Food Commission' (asked as 'Food Preservation Commission').",
+  "c": "Question uses the wrong name; the book itself notes NFSA 2013 says 'State Food Commission'."
+ },
+ "04-101": {
+  "r": "First to launch E-ration Card Service → Delhi (March 2015)."
+ },
+ "04-103": {
+  "r": "NFSM (October 2007) → raise rice, wheat, pulses, coarse cereals output, restore soil fertility, boost farm economy; strengthening credit facilities is not an objective."
+ },
+ "04-104": {
+  "r": "NFSM → October 2007 (from Rabi 2007-08); target rice +10, wheat +8, pulses +2 million tons by 2011-12; coarse cereals not covered then.",
+  "c": "Answer not printed; explanation says (d) coarse cereals was right at that time."
+ },
+ "04-110": {
+  "r": "PDS foodgrain prices raised → to lessen the subsidy burden of the scheme."
+ },
+ "04-111": {
+  "r": "Operation Flood (1970, NDDB) → milk production / White Revolution; Dr. Verghese Kurien → father of White Revolution.",
+  "hi": [
+   "White Revolution (श्वेत क्रांति)"
+  ]
+ },
+ "04-112": {
+  "r": "Milk production 2019-20 (Economic Survey 2020-21) → UP, Rajasthan, Madhya Pradesh, Gujarat, Andhra, Punjab, Maharashtra, Haryana; so MP > Gujarat > Punjab > Haryana."
+ },
+ "04-113": {
+  "r": "Nandini Krishak Samriddhi Yojana (UP, Nand Baba Mission) → only Sahiwal, Gir, Tharparkar, Gangatiri cows (true); 'one year experience' claim false."
+ },
+ "04-114": {
+  "r": "Wrong pair → Sheep – Tharparkar (Tharparkar is a cow breed, Gujarat and Rajasthan); Bhadawari → buffalo; Sindhi → cow; Jamunapari → goat."
+ },
+ "04-115": {
+  "r": "MPEDA → set up by Act of Parliament, 1972 (24 August 1972) (true); headquarters is not Kolkata (false)."
+ },
+ "04-116": {
+  "r": "Most important fish industry in India → natural inland fisheries (rivers, floodplains, estuaries, lakes, reservoirs)."
+ },
+ "04-117": {
+  "r": "Largest fish producer → China (36% of world aquatic animal production, 2022); then India (8%), Indonesia (7%)."
+ },
+ "04-118": {
+  "r": "Blue Revolution → fish production (pisciculture); National Fisheries Development Board set up 2006, HQ Hyderabad.",
+  "hi": [
+   "Blue Revolution (नीली क्रांति)"
+  ]
+ },
+ "04-120": {
+  "r": "Black Revolution → crude oil ('Black Gold'); Blue → fish; White → milk; Red → meat/tomato; Green → foodgrains; Yellow → oilseeds."
+ },
+ "04-121": {
+  "r": "Yellow Revolution → oilseeds (rapeseed-mustard); began 1986 with the Technology Mission on Oilseeds."
+ },
+ "04-123": {
+  "r": "Grey Revolution → fertilizers; Pink → onion; Silver → eggs; Red → tomato and meat.",
+  "h": "Pink onion skin, silver-white eggs, red tomato and meat, grey fertilizer."
+ },
+ "04-124": {
+  "r": "Golden Revolution → horticulture and honey; Grey → fertilizers; Yellow → oilseeds; Black → petroleum.",
+  "h": "Golden honey, yellow mustard flowers, black crude oil."
+ },
+ "04-125": {
+  "r": "Father of Green Revolution in the world → Norman E. Borlaug (Nobel Peace Prize 1970); in India → Dr. M.S. Swaminathan.",
+  "t": "Don't confuse world (Borlaug) with India (Swaminathan)."
+ },
+ "04-126": {
+  "r": "Indian Green Revolution began 1966; University of Agriculture, Pantnagar is called its birthplace."
+ },
+ "04-127": {
+  "r": "Green Revolution figures → M.S. Swaminathan (father), PM Indira Gandhi, Agriculture Minister C. Subramaniam; Rafi Ahmed Kidwai not linked."
+ },
+ "04-128": {
+  "r": "Green Revolution of late sixties → seed-fertilizer-water technology (HYV seeds, fertilizers, irrigation).",
+  "hi": [
+   "High-yielding variety (उच्च उपज किस्म)"
+  ]
+ }
+}

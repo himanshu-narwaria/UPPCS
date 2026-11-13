@@ -1,0 +1,205 @@
+{
+  "01-001": {
+    "r": "Mixed economy → public sector and private sector co-exist in the national economy; blends market economy with planned economy.",
+    "hi": ["Mixed economy (मिश्रित अर्थव्यवस्था)"]
+  },
+  "01-004": {
+    "r": "Indian economy → mixed economy (its main characteristic); combines aspects of capitalism and socialism.",
+    "t": "Don't confuse with socialist or Gandhian socialist economy; India is a mixed economy."
+  },
+  "01-007": {
+    "r": "India → labour-surplus economy: large population and unlimited workers willing to work at a subsistence wage.",
+    "hi": ["Labour-surplus (श्रम-अधिशेष)"]
+  },
+  "01-008": {
+    "r": "Underdeveloped economy → low per capita income and low rate of capital formation; low dependency ratio and tertiary-heavy workforce are not its features."
+  },
+  "01-009": {
+    "r": "India underdeveloped → inequitable income distribution, high dependency ratio, slower national income growth; change in banking/financial sector is not a sign. Code: none of these."
+  },
+  "01-010": {
+    "r": "Developing economy signs → occupation mainly agriculture, disguised unemployment, poor quality of human capital; high per capita protein intake is not one.",
+    "hi": ["Disguised unemployment (प्रच्छन्न बेरोजगारी)"]
+  },
+  "01-012": {
+    "r": "Indian economy → predominance of agriculture, low per capita income, massive unemployment; predominance of industry marks a developed economy, not India."
+  },
+  "01-013": {
+    "r": "Indian economy → developing economy; at present a middle income developing market economy.",
+    "hi": ["Developing economy (विकासशील अर्थव्यवस्था)"]
+  },
+  "01-014": {
+    "r": "Not a feature of Indian economy → lack of natural resources; low labour productivity, low per capita income, low capital formation are features."
+  },
+  "01-015": {
+    "r": "Voluntary social service → not an economic activity; farming, transportation and services are (input of resources → production → output)."
+  },
+  "01-016": {
+    "r": "Social behaviour → non-economic factor of growth; natural, energy and capital resources are economic factors."
+  },
+  "01-017": {
+    "r": "Second Generation Economic Reforms → oil sector, public sector, government and public institutions reforms; legal (judicial) system reform is not included."
+  },
+  "01-018": {
+    "r": "Indian model of development (mixed economy) → protects interests of both State (public sector) and Person (private sector)."
+  },
+  "02-001": {
+    "r": "National Income = NNP at factor cost = GNP at market prices – depreciation – indirect taxes + subsidies; NNP at market price = GNP – depreciation.",
+    "h": "Market price → factor cost: subtract indirect taxes, add subsidies.",
+    "hi": ["National Income (राष्ट्रीय आय)"]
+  },
+  "02-005": {
+    "r": "NNP = GNP – Depreciation; GNP = GDP + Net Factor Income from Abroad; so NNP = GDP + NFIA – Depreciation (both correct)."
+  },
+  "02-006": {
+    "r": "National income → money value of all final goods and services produced by normal residents of a country in a period (generally one year)."
+  },
+  "02-007": {
+    "r": "Open economy national income → Y = C + I + G + (X – M); X – M = net exports.",
+    "hi": ["Net exports (शुद्ध निर्यात)"]
+  },
+  "02-008": {
+    "r": "GDP methods → Product, Income, Expenditure; 'diminishing cost method' is not one.",
+    "h": "PIE: Product, Income, Expenditure."
+  },
+  "02-009": {
+    "r": "NNP and GNP → both measure the money value of national production, and the two are different.",
+    "c": "Answer not printed; explanation supports (a) value measures of national production and (d) both are different."
+  },
+  "02-010": {
+    "r": "Nominal GDP → GDP at current market prices, without inflation adjustment; used to find the GDP deflator and real GDP.",
+    "t": "Don't confuse with real GDP, which is valued at constant prices."
+  },
+  "02-011": {
+    "r": "Main problem in calculating India's national income → non-organized sector (no proper records); also unreliable data and double counting."
+  },
+  "02-012": {
+    "r": "NDP = GDP – Depreciation (not plus); none of the three statements (NDP formula, per capita income = NDP/population, NDP better for comparison) is true."
+  },
+  "02-013": {
+    "r": "Personal Disposable Income (PDI) = Personal income – Personal tax payments (direct taxes); it is spent or saved.",
+    "hi": ["Disposable income (प्रयोज्य आय)"]
+  },
+  "02-014": {
+    "r": "Prices and money income both doubled → real income unchanged."
+  },
+  "02-015": {
+    "r": "Economic growth measured by growth in GDP, GNP and per capita GNP; growth in World Bank financial aid is not considered."
+  },
+  "02-016": {
+    "r": "Amartya Sen's priorities for India → people-oriented (not commodity-oriented), economic security to poorest of the poor, safeguards against integration with world economy.",
+    "hi": ["Welfare economics (कल्याणकारी अर्थशास्त्र)"]
+  },
+  "02-017": {
+    "r": "'Planning should pay more attention to people than to commodities' → Amartya Sen (Nobel Prize in Economic Sciences, 1998)."
+  },
+  "02-018": {
+    "r": "Hindu rate of growth → slow growth of National Income/GDP (about 3.5%, 1950s–1980s); term first used by Prof. Raj Krishna, 1981."
+  },
+  "02-020": {
+    "r": "Economic growth → usually coupled with inflation (rising income raises demand for goods)."
+  },
+  "02-021": {
+    "r": "Labour's share in GNP becomes low when wages lag behind prices."
+  },
+  "02-022": {
+    "r": "Economic development → constructive change; economic growth → GDP; sustainable development → environment; quality of life → health."
+  },
+  "02-023": {
+    "r": "Last decade: public sector's share in GDP declined (private sector's rose) → true; GDP increased four times in 10 years → false."
+  },
+  "02-024": {
+    "r": "Boom → high business activity, rising income, output, employment; recession → gradual fall, business in low gear; depression → unprecedented unemployment, drastic fall; then recovery."
+  },
+  "02-025": {
+    "r": "Meltdown → steep fall in stock prices (only correct pair); recession → massive contraction of economic activity; slowdown → decrease in economic activity."
+  },
+  "02-026": {
+    "r": "New Economic Policy 1991 (liberalisation, privatisation, globalisation) is criticised by insiders and outsiders, largely on ideological grounds → A and R true, R explains A.",
+    "hi": ["Liberalisation (उदारीकरण)", "Globalisation (वैश्वीकरण)"]
+  },
+  "02-028": {
+    "r": "Liberalisation began with changes in industrial licensing → New Industrial Policy, 24 July 1991 (Narsimha Rao govt); all except 18 industries freed from licence."
+  },
+  "02-029": {
+    "r": "NEP: stabilisation → quick, demand-side (inflation, fiscal, balance of payments); structural adjustment → gradual multi-step, supply-side (trade, capital flow, industrial reforms).",
+    "hi": ["Structural adjustment (संरचनात्मक समायोजन)"]
+  },
+  "02-030": {
+    "r": "Pioneer of liberalisation of Indian economy → Dr. Manmohan Singh, Finance Minister in 1991.",
+    "t": "Don't pick P.V. Narsimha Rao; the 'pioneer' title goes to Finance Minister Manmohan Singh."
+  },
+  "02-031": {
+    "r": "India's occupational structure stayed nearly the same → investment pattern directed towards capital-intensive industries."
+  },
+  "02-032": {
+    "r": "Real sector (production and flow of goods) → farmers harvesting crops, textile mills making fabric; bank lending and overseas rupee bonds → financial sector."
+  },
+  "02-033": {
+    "r": "Major growth factors → natural resources, physical capital, population/labour, human capital, technology, law; technocrats and bureaucrats are not."
+  },
+  "02-034": {
+    "r": "Sign of economic growth and best index of development → sustained increase in real per capita income (year to year)."
+  },
+  "02-036": {
+    "r": "Most appropriate measure of economic growth and of standard of living → per capita real income (Per Capita Product / per capita NNP).",
+    "hi": ["Per capita income (प्रति व्यक्ति आय)"]
+  },
+  "02-038": {
+    "r": "Higher absolute and per capita real GNP is not higher development if poverty and unemployment increase; development = growth + better living standards.",
+    "hi": ["Economic development (आर्थिक विकास)"]
+  },
+  "02-039": {
+    "r": "Per capita income grows faster at current prices than at constant prices → constant prices remove the increase in price level (inflation)."
+  },
+  "02-040": {
+    "r": "First estimate of India's national income → Dadabhai Naoroji, 1867-68; per capita income Rs. 20."
+  },
+  "02-041": {
+    "r": "National Income Committee, 1949 → chairman P.C. Mahalanobis; members D.R. Gadgil and V.K.R.V. Rao."
+  },
+  "02-042": {
+    "r": "First scientific estimate of national income → Dr. V.K.R.V. Rao (1931-32); first attempt → Dadabhai Naoroji (1867-68).",
+    "t": "Don't confuse the first attempt (Naoroji) with the first scientific estimate (V.K.R.V. Rao)."
+  },
+  "02-043": {
+    "r": "National Income data → earlier CSO (set up 1951); now National Statistical Office (NSO), formed by merging CSO and NSSO.",
+    "hi": ["National Statistical Office (राष्ट्रीय सांख्यिकी कार्यालय)"]
+  },
+  "02-047": {
+    "r": "Capital formation data → RBI and Central Statistical Organisation (now NSO); roles set by K.N. Raj Committee (1981) on saving and investment estimates."
+  },
+  "02-048": {
+    "r": "Base year → the year whose prices are used to calculate real GDP (constant prices); present base year 2011-12.",
+    "hi": ["Base year (आधार वर्ष)"]
+  },
+  "02-049": {
+    "r": "2015: CSO changed both base year (2004-05 → 2011-12) and method (GVA at basic prices replaced GDP at factor cost)."
+  },
+  "02-052": {
+    "r": "GDP base year at constant prices → 1999-2000 when this was asked; now 2011-12.",
+    "c": "Answer not printed; explanation points to (a) 1999-2000."
+  },
+  "02-053": {
+    "r": "National income base year → 2004-05 when this was asked; now 2011-12.",
+    "c": "Answer not printed; explanation points to (c) 2004-05."
+  },
+  "02-054": {
+    "r": "CSO's new GDP series, February 1999 → base prices of 1993-94 (present base year 2011-12)."
+  },
+  "02-055": {
+    "r": "Economic development needs a multi-dimensional approach (A true); government focuses on both micro and macro issues, not mainly micro (R false)."
+  },
+  "02-056": {
+    "r": "Per capita income 2009-10 (rose 14.5%) → about Rs. 46,500 (Economic Survey: Rs. 46249 at current prices)."
+  },
+  "02-057": {
+    "r": "Per capita NNI 2013-14 (current prices, factor cost) → Rs. 79118 (new series), so none of the options."
+  },
+  "02-058": {
+    "r": "Highest per capita income growth at constant prices (2004-05 series), 1951-52 to 2015-16 → 2007-08 (8.6%)."
+  },
+  "02-059": {
+    "r": "Per capita income 2010-11 at 2004-05 prices (Quick Estimates) → Rs. 35,993."
+  }
+}

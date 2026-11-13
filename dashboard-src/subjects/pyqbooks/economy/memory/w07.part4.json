@@ -1,0 +1,212 @@
+{
+ "17-311": {
+  "r": "Highest child mortality (then UNICEF report) → Odisha (75 per 1000 live births). 2020 highest IMR: Madhya Pradesh (43), UP and Chhattisgarh (38)."
+ },
+ "17-312": {
+  "r": "In India more male than female children are born each year (A false); death rate of male children is higher than female (R true)."
+ },
+ "17-313": {
+  "r": "Highest share of malnourished children (MoSPI, 2011) → Madhya Pradesh (60%); Jharkhand 56.5%, Bihar 55.9%.",
+  "hi": [
+   "Malnutrition (कुपोषण)"
+  ]
+ },
+ "17-314": {
+  "r": "'Youth in India 2022' report → Ministry of Statistics and Programme Implementation (MoSPI); youth aged 15-29 = 27.2% of population in 2021."
+ },
+ "17-315": {
+  "r": "Average age of Indians in 2020 → 29 years (Economic Survey 2013-14); median age 28.4 in 2021, 30.27 in 2026 (National Health Profile 2022)."
+ },
+ "17-316": {
+  "r": "Census 1991: largest population share in age group 5 to 14 years. NFHS-5 (2019-21): 0-14 → 27%, 15-59 → 61%, 60+ → 12%."
+ },
+ "17-317": {
+  "r": "Population under 14 years (0-13), Census 2011 → about 29% (28.67) of India's 1210854977."
+ },
+ "17-318": {
+  "r": "Population aged 20 years and above, Census 2011 → about 59.29% of India's total population."
+ },
+ "17-319": {
+  "r": "Population below 35 years, Census 2011 → 65% (provisional); 65.6% (final)."
+ },
+ "17-320": {
+  "r": "Old age dependency ratio (60+ vs 15-59) in India → 14.2% in 2011 (10.9% in 1961); women 14.9%, men 13.6%.",
+  "hi": [
+   "Dependency ratio (निर्भरता अनुपात)"
+  ]
+ },
+ "17-321": {
+  "r": "Persons above 65 years in India → about 5% (2005); 4.8% in Census 2011 → the 5-6% option."
+ },
+ "17-322": {
+  "r": "India's 'Demographic Dividend' → its high share of working-age population (15-64 years).",
+  "hi": [
+   "Demographic dividend (जनसांख्यिकीय लाभांश)"
+  ]
+ },
+ "17-323": {
+  "r": "Demographic dividend (UPPCS 2022 answer) → working population of 15 to 59 years, since India's retirement age is generally 60.",
+  "t": "Don't reject 15-59 here: UPPCS 2022 accepted it because India's retirement age is generally 60."
+ },
+ "17-324": {
+  "r": "'Demographic bonus' → surge in population of productive (working) age; UNFPA: when working-age share (15 to 64) exceeds non-working share."
+ },
+ "17-325": {
+  "r": "Dependent population in a population pyramid → 0-14 years (also 65 and above); working population → 15-64 years."
+ },
+ "17-326": {
+  "r": "Dependency ratio falling → working-age (15-59) share relatively high; India's age dependency ratio 79% (1975) → 58% (2008) → about 48% (2021)."
+ },
+ "17-327": {
+  "r": "To reap the demographic dividend → promote skill development (close the gap between skill demand and supply).",
+  "hi": [
+   "Skill development (कौशल विकास)"
+  ]
+ },
+ "17-328": {
+  "r": "Not an adverse effect of population growth → bigger working population (a favourable effect); smaller holdings, unemployment, less food per head are adverse."
+ },
+ "17-329": {
+  "r": "Human resources and development: both links hold → economic development affects population growth, and population growth affects economic development."
+ },
+ "17-330": {
+  "r": "Census 2011: 2.1% of India's population disabled; only about 2% of them self-dependent."
+ },
+ "17-331": {
+  "r": "Most beggars (Census 2011; Social Justice Ministry, March 2018) → West Bengal (81244), then UP (65835); India total 413670."
+ },
+ "17-332": {
+  "r": "Christians in India: 10.7 million (1961) → 18.9 million (1991, 2.25%) → about 27.8 million (2011, 2.3%)."
+ },
+ "17-333": {
+  "r": "Religious communities ascending (2011): Jain (4451753) < Buddhist (8442972) < Sikh (20833116) < Christian (27819588).",
+  "h": "J-B-S-C, smallest first: Jain, Buddhist, Sikh, Christian."
+ },
+ "17-334": {
+  "r": "Largest Muslim population (2001 and 2011) → Uttar Pradesh (38483967 in 2011); then West Bengal, Bihar, Maharashtra, Assam."
+ },
+ "17-335": {
+  "r": "Highest Christian share of State population → Nagaland (90% in 1991; 87.93% in 2011); then Mizoram (87.16%), Meghalaya."
+ },
+ "17-336": {
+  "r": "Largest Buddhist population → Maharashtra (5838710 in 2001; 6531200 in 2011)."
+ },
+ "17-337": {
+  "r": "Kerala has the highest literacy (A true), but the highest Christian share is in Nagaland, not Kerala (R false)."
+ },
+ "17-338": {
+  "r": "Sex-ratio by religion, 2011 descending: Christian 1023 > Buddhist 965 > Jain 954 > Muslim 951."
+ },
+ "17-339": {
+  "r": "Lowest sex-ratio among religions (Census 2011 data, released 25 August 2015) → Sikh (903); Buddhist 965, Jain 954, Muslim 951."
+ },
+ "17-340": {
+  "r": "Highest literacy among religious groups, Census 2011 → Jains."
+ },
+ "17-341": {
+  "r": "Average household size, Census 2001: UP 6.5 > Haryana 5.7 > Gujarat 5.25 > West Bengal 5.05 > Kerala 4.73 > Tamil Nadu 4.25.",
+  "c": "Book prints answer '*': 1991 data unavailable, and no option matches the 2001 order."
+ },
+ "17-342": {
+  "r": "National Literacy Mission (Rajiv Gandhi, 5 May 1988) → target: sustainable threshold of 75% literacy by 2007.",
+  "hi": [
+   "National Literacy Mission (राष्ट्रीय साक्षरता मिशन)"
+  ]
+ },
+ "17-343": {
+  "r": "Andaman and Nicobar tribes → mainly Negroid race: Great Andamanese, Onges, Jarawas, Sentinelese."
+ },
+ "17-344": {
+  "r": "Bird decline in India → habitat loss and heavy use of insecticides, chemical fertilizers, mosquito repellants (not predators or organic inputs)."
+ },
+ "17-345": {
+  "r": "Population growth in India → more floods and pollution, less cultivable land, fewer wild animals; 'increase in wildlife' is not an effect."
+ },
+ "17-346": {
+  "r": "Ganga Plain → most densely populated part of India because Ganga is India's most harnessed river (A and R true; R explains A)."
+ },
+ "17-347": {
+  "r": "Progressive population-resource regions: West Bengal delta, Deccan Trap, Tamil Nadu, Punjab Plain and Ganga-Yamuna Doab, South-East Karnataka Plateau."
+ },
+ "18-001": {
+  "r": "City differs from village in social values, household composition, way of living and economic activities (all four)."
+ },
+ "18-002": {
+  "r": "Urban growth indicates rise in urban population, in number of urban centres, in total population and in urban income (all four)."
+ },
+ "18-003": {
+  "r": "Cultural diversity → element of urban, not rural, community; rural community has we-feeling, territory, self-sufficiency."
+ },
+ "18-004": {
+  "r": "Informal ties → not urban; urban life has competition, impersonal and formal relations, anonymity, loss of humanistic values, heterogeneity, market economy."
+ },
+ "18-005": {
+  "r": "T.K. Oommen (Indian sociologist) distinguished urban families by income source and changing values, structure of authority, and urban social milieu and social ecology (all)."
+ },
+ "18-006": {
+  "r": "Causes of urbanization → rural-urban migration (push and pull), more educational institutions in cities, industrialization; not high rural living standards.",
+  "hi": [
+   "Urbanization (नगरीकरण)"
+  ]
+ },
+ "18-008": {
+  "r": "Inclusive development (Economic Survey 2015-16) centres on marginal farmers, landless agricultural labourers, SC/ST; not persons in semi-urban areas.",
+  "hi": [
+   "Inclusive development (समावेशी विकास)"
+  ]
+ },
+ "18-009": {
+  "r": "India's urban population → 575 million by 2030 at current growth ('India 2018'); UN-Habitat 2022: 675.5 million by 2035."
+ },
+ "18-010": {
+  "r": "India → moderately-low urbanized country: 27.8% urban (2001), 31.1% (2011)."
+ },
+ "18-011": {
+  "r": "India is not over-urbanized (only 31.1% urban: 377.1 of 1210.85 million, 2011) → A false; big cities lack adequate infrastructure → R true."
+ },
+ "18-012": {
+  "r": "China far more urbanized than India (2005: 41% vs 29%; in 1950 India 17%, China 13%); poor planning true but not the reason → R not explanation."
+ },
+ "18-013": {
+  "r": "Census 2001, all true then: urban population 285 million (28.6 crore, 27.78%), more than USA's total population (28.14 crore); urbanization largely self-reliant."
+ },
+ "18-015": {
+  "r": "India's urban population (28.6 crore, 2001) exceeded USA's total (28.14 crore) due to spectacular urban growth → A and R true, R explains A."
+ },
+ "18-016": {
+  "r": "Urban expansion → platform for industrial growth, modern service sector growth and better income opportunities (all); cities run on secondary and tertiary activities."
+ },
+ "18-017": {
+  "r": "Urbanization rose fast after 2001 (million-plus cities 35 → 53 in 2011); mobile revolution also true (tele-density 3.58% → 78.13%) but does not explain it."
+ },
+ "18-018": {
+  "r": "Not true: 'urbanization is uniform' → it is very uneven: Goa most urbanized (over half urban), Himachal Pradesh least (10%)."
+ },
+ "18-019": {
+  "r": "Both true: urbanization lowers birth rate (better family planning and healthcare access); higher literacy goes with lower birth rate."
+ },
+ "18-020": {
+  "r": "Urbanization in India → reduced both birth rate (more education and work) and death rate (better medical facilities)."
+ },
+ "18-021": {
+  "r": "First Census attempted 1872 (not 1871); regular decennial Census from 1881; urban share 1901-1941 rose 10.8% → 13.9% (not 18%) → only II true.",
+  "hi": [
+   "Census (जनगणना)"
+  ]
+ },
+ "18-022": {
+  "r": "Moderate urbanization stage → 1931-1961: urban population up 45.46 million (135.86%), urban share 12.2% → 18.3%."
+ },
+ "18-023": {
+  "r": "Largest decadal urban growth → 1971-81 (46.1%); 1961-71 38.2%, 1981-91 36.4%, 1991-2001 31.5%, 2001-2011 31.8%."
+ },
+ "18-024": {
+  "r": "Census urban criteria: statutory town, or population at least 5,000, 75% male workers non-agricultural, density 400/sq km. Physical expansion is not a criterion."
+ },
+ "18-026": {
+  "r": "Census Towns, Census 2011 → 3894 provisional, 3892 final (1362 in 2001); need 5000 people, 75% male non-farm workers, 400 persons/sq km.",
+  "hi": [
+   "Census town (जनगणना नगर)"
+  ]
+ }
+}

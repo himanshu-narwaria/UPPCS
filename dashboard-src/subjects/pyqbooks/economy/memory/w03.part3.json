@@ -1,0 +1,483 @@
+{
+ "09-148": {
+  "r": "Microfinance → basic financial services for poor and low-income households: credit, savings, insurance, fund (cash) transfers, leasing (all four given).",
+  "hi": [
+   "Microfinance (सूक्ष्म वित्त)"
+  ]
+ },
+ "09-149": {
+  "r": "RBI sub-committee on microfinance → Y.H. Malegam (formed October 15, 2010); recommended a separate NBFC-MFI category."
+ },
+ "09-150": {
+  "r": "Malegam Committee recommendation → new NBFC category: NBFC-Microfinance Institution (NBFC-MFI), 2011."
+ },
+ "09-151": {
+  "r": "'Gullak Bachcha Bank' → run by children at Bal Bhavan-Kilkari, Patna; opened November 14, 2009 by Nitish Kumar for thrift education."
+ },
+ "09-152": {
+  "r": "Bank assets → cash, money at call, investments, loans and advances (e.g. credit to farmers); deposits and RBI borrowings are liabilities.",
+  "h": "Bank owes deposits (liability); bank is owed loans (asset).",
+  "t": "Deposits are a bank's liabilities; loans are its assets."
+ },
+ "09-153": {
+  "r": "Deposits are a liability (must be repaid), not an asset; bank assets → cash and RBI balances, money at call and short notice, investments, advances."
+ },
+ "09-154": {
+  "r": "Most important liability of commercial banks → time deposits; then savings and demand deposits."
+ },
+ "09-155": {
+  "r": "Non-performing asset (NPA) → loan whose interest or principal is overdue for more than 90 days.",
+  "h": "NPA clock = 90 days.",
+  "hi": [
+   "Non-Performing Asset (गैर-निष्पादित परिसंपत्ति)"
+  ]
+ },
+ "09-156": {
+  "r": "Priority sector lending (at least 40% of bank credit) → agriculture, MSMEs, weaker sections, education, housing, export credit, renewable energy.",
+  "hi": [
+   "Priority sector (प्राथमिकता क्षेत्र)"
+  ]
+ },
+ "09-157": {
+  "r": "Loan terms → short-term up to 1 year (or 15 months); medium-term up to 3 (or 5) years; long-term beyond that."
+ },
+ "09-158": {
+  "r": "Teaser loans → housing loans with ultra-low initial fixed rate, then market rates; seen as subprime lending with future default risk; not for new entrepreneurs."
+ },
+ "09-160": {
+  "r": "Non-financial debt → credit instruments of governments, households, businesses outside financial sector: housing loans, credit card dues, treasury bills (all three)."
+ },
+ "09-161": {
+  "r": "Core Banking Solutions → networked branches let customers operate accounts from any branch; not RBI control or takeover of NPA-laden banks."
+ },
+ "09-162": {
+  "r": "June 2007 → Government of India acquired RBI's 59.7% stake in State Bank of India."
+ },
+ "09-163": {
+  "r": "NABARD was under RBI control at question time; RBI divested NABARD (2010, 2019) and NHB (2019) stakes; Government now holds 100% of both.",
+  "c": "Answer not printed; explanation points to NABARD (option c)."
+ },
+ "09-164": {
+  "r": "National Housing Bank (July 9, 1988, NHB Act 1987) → apex housing finance body, wholly owned by RBI till March 19, 2019; now 100% Government."
+ },
+ "09-165": {
+  "r": "Basel III → Basel Committee measures after 2007-09 crisis to strengthen bank regulation, supervision, risk management and ability to handle stress.",
+  "h": "Basel I 1988, Basel II 2004, then Basel III after the crisis."
+ },
+ "09-166": {
+  "r": "Basel II (June 2004) → international bank capital adequacy standards; three pillars: minimum capital, supervisory review, market discipline (disclosure).",
+  "hi": [
+   "Capital adequacy (पूंजी पर्याप्तता)"
+  ]
+ },
+ "09-167": {
+  "r": "CAR (CRAR) → bank capital vs risk-weighted assets, to absorb losses; fixed by central banks/regulators, not each bank; Basel III 8%; RBI 9% (11.5% with buffer).",
+  "hi": [
+   "Capital Adequacy Ratio (पूंजी पर्याप्तता अनुपात)"
+  ]
+ },
+ "09-168": {
+  "r": "DICGC → wholly owned RBI subsidiary (Act of 1961); insures each depositor up to Rs. 5 lakh per bank (from 4 February 2020; earlier Rs. 1 lakh).",
+  "h": "Deposit cover went from Rs. 1 lakh to Rs. 5 lakh in 2020.",
+  "hi": [
+   "Deposit insurance (जमा बीमा)"
+  ]
+ },
+ "09-169": {
+  "r": "Savings account interest rates → deregulated by RBI in October 2011; now fixed by banks themselves, not Finance Ministry or IBA."
+ },
+ "09-170": {
+  "r": "MCLR (from April 1, 2016) → internal minimum lending rate; brings transparency in loan pricing and fair rates for borrowers and banks."
+ },
+ "09-171": {
+  "r": "RBI → apex bank, regulates money supply, monitors NABARD; does not lend to business families."
+ },
+ "09-172": {
+  "r": "RBI (April 1, 1935) → banker to Government, frames monetary policy, Government's agent for IMF membership, manages Government borrowing."
+ },
+ "09-173": {
+  "r": "Fiscal agent and adviser to Government on monetary and financial matters → RBI (RBI Act, 1934)."
+ },
+ "09-174": {
+  "r": "RBI manages both Central securities and State Development Loans (by agreement with States); only Centre issues T-bills, States issue only bonds; T-bills issued at discount, redeemed at face value.",
+  "h": "T-bill: bought at a discount, paid back at full face value."
+ },
+ "09-175": {
+  "r": "Treasury bills → short-term Government of India debt sold by RBI through auction; first issued 1917; tenors 91, 182, 364 days.",
+  "h": "T-bill tenors are about three, six and twelve months.",
+  "hi": [
+   "Treasury bill (राजकोष बिल)"
+  ]
+ },
+ "09-176": {
+  "r": "Retail investors can buy T-bills and G-Secs in primary market (RBI Retail Direct, November 12, 2021); NDS-OM is RBI's G-Sec trading platform; CDSL promoted by BSE, not RBI."
+ },
+ "09-177": {
+  "r": "RBI is banker to all State Governments (and UTs Puducherry, Jammu & Kashmir) under Section 21A, RBI Act 1934, except Sikkim (limited debt agreement).",
+  "c": "Answer not printed; Sikkim is the only exception and is not among the options."
+ },
+ "09-178": {
+  "r": "RBI regulates banks' liquidity of assets (Repo, SLR, CRR), branch expansion (rural-urban ratio), bank mergers (with Competition Commission) and winding-up (all four)."
+ },
+ "09-179": {
+  "r": "RBI → established April 1, 1935 (RBI Act 1934), not 1949; nationalised 1949; HQ Kolkata, moved to Mumbai 1937; Governments' banker, forex custodian.",
+  "t": "1935 = founded; 1949 = nationalised. Don't swap them."
+ },
+ "09-186": {
+  "r": "Lender of last resort → RBI gives emergency liquidity to solvent banks in temporary crisis; not lending to industry or financing budget deficits."
+ },
+ "09-187": {
+  "r": "RBI does not issue all notes: one rupee note issued by Government of India, signed by Finance Secretary; other notes signed by RBI Governor."
+ },
+ "09-189": {
+  "r": "Credit creation → function of commercial banks, not RBI; RBI controls credit, frames monetary policy, is apex of scheduled banks."
+ },
+ "09-190": {
+  "r": "Foreign trade regulated by Ministry of Commerce and Industry, not RBI; RBI issues currency, banks for banks and government, controls credit, manages forex."
+ },
+ "09-191": {
+  "r": "RBI as bankers' bank → banks keep deposits with RBI; RBI lends to them in need and advises on monetary matters. RBI is India's central bank (1935)."
+ },
+ "09-193": {
+  "r": "Monetary policy complements fiscal policy; it acts indirectly through credit and money supply, fiscal policy acts directly on demand.",
+  "hi": [
+   "Monetary policy (मौद्रिक नीति)"
+  ]
+ },
+ "09-194": {
+  "r": "Monetary policy objectives → price stability, economic stability, exchange rate stability; equitable distribution of income and assets is not one."
+ },
+ "09-195": {
+  "r": "Monetary policy → formulated by RBI till 2016; now Monetary Policy Committee sets policy rate, aided by RBI's Monetary Policy Department; RBI keeps price stability.",
+  "c": "Answer not printed; explanation supports RBI (option b), with MPC now setting the rate."
+ },
+ "09-197": {
+  "r": "Monetary Policy Committee → decides RBI benchmark rates; six members (three RBI incl. Governor, three Government nominees for four years); RBI Governor chairs.",
+  "h": "MPC = three RBI + three Government = six; RBI Governor holds the chair.",
+  "t": "MPC has six members, not 12; chaired by RBI Governor, not Finance Minister."
+ },
+ "09-198": {
+  "r": "'Money and Credit' in India controlled by RBI, using quantitative and qualitative measures."
+ },
+ "09-199": {
+  "r": "Selective (qualitative) control → margin requirements, consumer credit regulation, credit rationing, moral suasion; quantitative → Bank Rate, OMO (securities sale), Repo, variable CRR/SLR.",
+  "h": "Quantitative = how much credit (rates, ratios, OMO); qualitative = where credit goes (margins, rationing).",
+  "hi": [
+   "Selective credit control (चयनात्मक साख नियंत्रण)"
+  ]
+ },
+ "09-203": {
+  "r": "Monetary policy tools → Bank Rate, open market operations; public debt and public revenue belong to fiscal policy."
+ },
+ "09-204": {
+  "r": "Open market operations → RBI buys government securities and T-bills to raise money supply, sells them to cut it.",
+  "h": "OMO: Buy = boost money supply; Sell = squeeze it.",
+  "hi": [
+   "Open market operations (खुले बाजार की क्रियाएँ)"
+  ]
+ },
+ "09-206": {
+  "r": "Variable reserve ratios and open market operations → tools of RBI's monetary policy to regulate credit and money supply."
+ },
+ "09-207": {
+  "r": "Sterilisation → RBI absorbs fresh money (e.g. capital inflows) to curb inflation or currency appreciation, mainly via open market operations (selling T-bills)."
+ },
+ "09-208": {
+  "r": "Operation Twist → RBI buys long-term and sells short-term securities together to lower long-term rates and promote long-term investment (US Fed first, 1961).",
+  "h": "Twist: buy long, sell short at the same time."
+ },
+ "09-209": {
+  "r": "Money supply rises when Central Bank buys government securities from public or Government borrows from it; deposits in banks and securities sales reduce it."
+ },
+ "09-210": {
+  "r": "RBI fights inflation by raising Bank Rate, Repo, CRR and SLR and selling government securities; buying securities would add money."
+ },
+ "09-211": {
+  "r": "High inflation → RBI sells (not buys) government securities; rupee falling fast → RBI sells dollars; lower US/EU rates bring inflows → RBI buys dollars."
+ },
+ "09-212": {
+  "r": "Statutory Reserve Requirement → minimum share of deposits kept as cash, gold or securities; lets Central Bank control advances (credit growth) banks create."
+ },
+ "09-213": {
+  "r": "SLR → way commercial banks provide credit to Government: banks hold reserves mostly in government securities (Section 24 (2A), Banking Regulation Act 1949).",
+  "t": "CRR is cash kept with RBI (no interest); SLR is liquid assets kept by banks themselves.",
+  "hi": [
+   "Statutory Liquidity Ratio (सांविधिक तरलता अनुपात)"
+  ]
+ },
+ "09-214": {
+  "r": "SLR cut by 50 basis points → banks get more lendable funds and may cut lending rates; SLR = share of deposits kept as cash, gold, securities."
+ },
+ "09-216": {
+  "r": "Prime Lending Rate (PLR) → set by commercial banks for best corporate borrowers, not by RBI; RBI fixes Bank Rate, CRR, SLR."
+ },
+ "09-217": {
+  "r": "MSF → banks borrow overnight from RBI by dipping into SLR at penal rate; Bank Rate aligned with MSF rate. NDTL → banks' net demand and time liabilities."
+ },
+ "09-218": {
+  "r": "Expansionary monetary policy → cut SLR, Bank Rate and Repo Rate; RBI would not raise Marginal Standing Facility rate (makes borrowing costlier)."
+ },
+ "09-219": {
+  "r": "Lower interest rate → borrowing easier, so investment (and consumption) expenditure rises."
+ },
+ "09-220": {
+  "r": "Financial sector reforms → lower CRR and SLR, deregulated interest rates, private entry into banking and insurance, NPA reforms (all options)."
+ },
+ "09-221": {
+  "r": "After reforms (Narsimham Committee) → SLR cut from 38.5% (1991) to 25% (1997); CRR from 13% (1996) to 9% (1999); now CRR 4.50%, SLR 18%."
+ },
+ "09-222": {
+  "r": "Cash Reserve Ratio (CRR) → mandatory share of banks' deposits kept as cash with RBI.",
+  "hi": [
+   "Cash Reserve Ratio (नकद आरक्षित अनुपात)"
+  ]
+ },
+ "09-223": {
+  "r": "Higher CRR → fewer loanable funds → less liquidity (money supply) in the economy.",
+  "h": "CRR up → lending down."
+ },
+ "09-224": {
+  "r": "Lower CRR → more bank liquidity, more investment, wider money supply, more credit creation (I, II, III true); real investment rate does not decline (IV false)."
+ },
+ "09-226": {
+  "r": "Higher CRR → banks deposit more with RBI and have less money to lend; credit creation and money supply fall, curbing inflation."
+ },
+ "09-229": {
+  "r": "Repo Rate → key monetary policy rate at which RBI lends short-term money to banks; a monetary (not fiscal) policy tool.",
+  "hi": [
+   "Repo Rate (रेपो दर)"
+  ]
+ },
+ "09-230": {
+  "r": "Repo (Repurchase Option) → used by RBI to regulate money supply and inflation, not to handle rupee sell-off in exchange market."
+ },
+ "09-232": {
+  "r": "Repo Rate → rate at which RBI lends short-term (overnight) funds to commercial banks against government securities under LAF.",
+  "h": "Repo: RBI gives money; Reverse Repo: RBI takes money."
+ },
+ "09-234": {
+  "r": "Reverse Repo Rate → rate at which banks lend to RBI (RBI borrows), absorbing surplus money overnight against government securities.",
+  "h": "Repo: RBI gives money; Reverse Repo: RBI takes money."
+ },
+ "09-237": {
+  "r": "CPI inflation rises when Bank Rate or Reverse Repo Rate is cut; raising Repo Rate or SLR reduces inflation.",
+  "c": "Answer not printed; book says (a) and (b) both correct and RPSC's key (d) is wrong."
+ },
+ "09-238": {
+  "r": "Higher Bank Rate → costlier borrowing for banks, less money supply; signals tight (contractionary) money policy.",
+  "h": "Bank Rate up = tight (dear) money; down = easy (cheap) money."
+ },
+ "09-239": {
+  "r": "Lower Bank Rate → banks borrow and lend more → more liquidity in the market."
+ },
+ "09-240": {
+  "r": "Bank Rate → rate at which RBI rediscounts bills of exchange, i.e. lends to commercial banks; a monetary policy tool.",
+  "hi": [
+   "Bank Rate (बैंक दर)"
+  ]
+ },
+ "09-243": {
+  "r": "June 2010 to June 2011 → Repo minus Reverse Repo = 1.00 percent; from 2011-12 Reverse Repo was set 1% below Repo (no longer so)."
+ },
+ "09-244": {
+  "r": "RBI policy, December 5, 2019 → Repo Rate 5.15%, Reverse Repo 4.90%; on 7 June 2024: Repo 6.50%, Bank Rate and MSF 6.75%."
+ },
+ "09-245": {
+  "r": "Repo Rate on September 30, 2014 → 8.00%; on 7 June 2024 → 6.50% (SDF 6.25%, MSF and Bank Rate 6.75%, CRR 4.50%, SLR 18.00%)."
+ },
+ "09-246": {
+  "r": "October 2001 → RBI cut Bank Rate by 0.5 percent, from 7% to 6.5%; MSF aligned with Bank Rate from February 2012."
+ },
+ "09-247": {
+  "r": "Bank Rate per RBI review of 29 September 2015 → 7.75%; 6.75% as on 7 June 2024."
+ },
+ "09-248": {
+  "r": "RBI Governors in order → I.G. Patel → Manmohan Singh → C. Rangarajan → D. Subbarao."
+ },
+ "09-249": {
+  "r": "RBI Governor (and up to 4 Deputy Governors) appointed by Central Government; Governor's powers from RBI Act; Centre's power to direct RBI is in RBI Act Section 7, not Constitution."
+ },
+ "09-250": {
+  "r": "Raja J. Chelliah was never RBI Governor; Governors: Manmohan Singh (1982 to 1985), C. Rangarajan (1992 to 1997), Bimal Jalan (1997 to 2003)."
+ },
+ "09-251": {
+  "r": "RBI Governors → Raghuram Rajan (2013–2016), Urjit Patel (2016–2018), Shaktikanta Das (25th Governor, from 12 December 2018)."
+ },
+ "09-252": {
+  "r": "Committee on Financial Sector Assessment (2006) → chaired by RBI Deputy Governor Rakesh Mohan, co-chaired by Finance Secretary; report March 2009."
+ },
+ "09-253": {
+  "r": "RBI accounting year → January–December, then July–June (from 1940), now April–March (from 2020-21, a nine-month transition year)."
+ },
+ "09-255": {
+  "r": "Negotiable Instruments Act → passed December 1881, in force 1 March 1882; 2018 amendment added sections 143A, 148 to protect payees of dishonoured cheques."
+ },
+ "09-256": {
+  "r": "UTI → mutual fund; Canbank Financial Services → Canara Bank subsidiary; SBI → commercial bank; U.P. State Financial Corporation → State Government enterprise.",
+  "c": "Answer not printed; book says each option differs from the rest on some basis, so no single answer."
+ },
+ "09-257": {
+  "r": "Company limited by shares → members' liability limited to the unpaid amount on their shares (Companies Act 2013)."
+ },
+ "09-258": {
+  "r": "LLP → limited liability with partnership flexibility; minimum two partners, no maximum; perpetual succession; partners may manage and set governance by agreement.",
+  "t": "'Partners should be less than 20' is wrong: LLP has no upper limit."
+ },
+ "09-259": {
+  "r": "International Financial Services Centre → GIFT City, Gandhinagar (Gujarat); IFSCA set up April 27, 2020 under IFSCA Act, 2019."
+ },
+ "09-260": {
+  "r": "IFCI (1 July 1948, statutory corporation) → India's first development financial institution, giving medium and long-term finance to industry.",
+  "hi": [
+   "Development bank (विकास बैंक)"
+  ]
+ },
+ "09-261": {
+  "r": "Apex institution for industrial finance → IDBI (July 1964), serving medium and large industries."
+ },
+ "09-262": {
+  "r": "Order → IFCI (1948), ICICI (1955), UTI (February 1964), IDBI (July 1964).",
+  "h": "F-C-U-D: IFCI, ICICI, UTI, IDBI.",
+  "t": "UTI (February 1964) came just before IDBI (July 1964)."
+ },
+ "09-263": {
+  "r": "Order → IFCI (1948), ICICI (1955), IDBI (1964), NABARD (1982)."
+ },
+ "09-264": {
+  "r": "Founding years → IFCI 1948; ICICI 1955; IDBI 1964; SIDBI 1990."
+ },
+ "09-265": {
+  "r": "Founding years → ICICI 1955; IDBI 1964; Exim Bank 1982 (Act of 1981); BIFR 1987."
+ },
+ "09-266": {
+  "r": "Founding years → Allahabad Bank 1865; Alliance Bank of Shimla 1874; Awadh (Oudh) Commercial Bank 1881; Punjab National Bank 1894.",
+  "h": "Allahabad Bank is the oldest (1865); PNB the youngest (1894)."
+ },
+ "09-267": {
+  "r": "SAIL → marketing institution; SEBI (capital market), SIDBI and NABARD (agricultural credit) → apex institutions in their fields."
+ },
+ "09-268": {
+  "r": "SBI is a commercial bank, not an apex institution; NABARD, SIDBI and State Cooperative Bank are apex institutions."
+ },
+ "09-269": {
+  "r": "Order → LIC (1956), UTI (February 1964), IDBI (July 1964), SEBI (1988).",
+  "c": "Answer not printed; true order 1, 4, 2, 3 matches no option."
+ },
+ "09-271": {
+  "r": "IRDAI → from Malhotra Committee; autonomous body 1999; statutory body from April 2000; regulates insurance companies.",
+  "hi": [
+   "Insurance (बीमा)"
+  ]
+ },
+ "09-274": {
+  "r": "IRDAI panel on standard cyber liability insurance product (October 2020) → chaired by P. Umesh."
+ },
+ "09-275": {
+  "r": "Actuary → insurance professional who assesses risk and estimates premiums."
+ },
+ "09-276": {
+  "r": "Principle of Indemnity (restore insured to pre-loss position) applies to fire and marine insurance, not life insurance.",
+  "h": "No indemnity in life insurance: the loss from a death cannot be valued.",
+  "hi": [
+   "Indemnity (क्षतिपूर्ति)"
+  ]
+ },
+ "09-277": {
+  "r": "Provident Fund → contractual savings: mandatory, government-managed retirement savings from employee and employer contributions."
+ },
+ "09-278": {
+  "r": "State Provident Fund receipts → credited to Public Account, not Consolidated or Contingency Fund.",
+  "hi": [
+   "Public Account (लोक लेखा)"
+  ]
+ },
+ "09-279": {
+  "r": "Among private banks, development banks, Exim Bank and pension funds → pension funds' importance has fallen most."
+ },
+ "09-280": {
+  "r": "Forward Markets Commission (1953) → regulated commodity futures; merged with SEBI on 28 September 2015."
+ },
+ "09-281": {
+  "r": "SEBI → regulates mutual funds and stock markets; non-statutory 1988, statutory April 12, 1992 (SEBI Act 1992); HQ Mumbai.",
+  "h": "SEBI: born 1988, made statutory (given teeth) in 1992.",
+  "hi": [
+   "Securities and Exchange Board of India (भारतीय प्रतिभूति और विनिमय बोर्ड)"
+  ]
+ },
+ "09-287": {
+  "r": "Private sector mutual funds allowed in 1993 (first: Kothari Pioneer); UTI began the industry in 1964; SBI Mutual Fund first non-UTI fund (1987)."
+ },
+ "09-288": {
+  "r": "UTI's Unit Scheme 1964 (US-64) in news (1998) → net worth fell sharply; redemptions exceeded sales amid long stock market slump."
+ },
+ "09-289": {
+  "r": "UTI (February 1, 1964) → mobilise small savings, share earnings with small investors, invest to promote industrial development; split in two on 1 February 2003."
+ },
+ "09-290": {
+  "r": "Largest mutual fund → UTI at question time; now SBI Mutual Fund (by assets under management)."
+ },
+ "09-291": {
+  "r": "National Stock Exchange → set up November 1992 on Manohar J. Pherwani Committee's advice; head office Mumbai."
+ },
+ "09-292": {
+  "r": "NSE promoters → IDBI, SBI, IFCI, LIC, GIC, IDFC; now (31.03.2024) promoter holding is zero."
+ },
+ "09-293": {
+  "r": "Sensex → 30 stocks (not 50), market-cap weighted with proportional weightage; oldest stock exchange is Amsterdam, not New York (1792).",
+  "h": "Sensex = 30 stocks, not 50."
+ },
+ "09-294": {
+  "r": "Rise in SENSEX → overall rise in share prices of its group of 30 companies on Bombay Stock Exchange (free-float market-weighted)."
+ },
+ "09-297": {
+  "r": "BSE Greenex → 25 top 'green' companies by greenhouse gas emissions, market cap and liquidity."
+ },
+ "09-299": {
+  "r": "Highest turnover in 2000-01 → National Stock Exchange (8.39 lakh crore); NSE still has the highest turnover."
+ },
+ "09-300": {
+  "r": "Share market volatility → foreign fund flows, foreign market swings, monetary policy changes, liquidity, politics, economic outlook, corporate results."
+ },
+ "09-301": {
+  "r": "Dalal Street → Mumbai, home of Bombay Stock Exchange since 1874."
+ },
+ "09-302": {
+  "r": "'Bull' and 'Bear' → share market terms: bull market = prices rising; bear market = prices falling.",
+  "h": "A bull tosses up with its horns; a bear swipes down with its paws."
+ },
+ "09-303": {
+  "r": "Bear → investor expecting a security's price to fall; sells now, buys back after the fall."
+ },
+ "09-304": {
+  "r": "Stock market speculators → Bulls, Bears, Stags, Lame Ducks; a broker is an authorised member trading for customers, not a speculator."
+ },
+ "09-305": {
+  "r": "Insider trading → share market dealing using non-public material information; illegal."
+ },
+ "09-306": {
+  "r": "Beta → numeric measure of a stock's volatility (systematic risk) relative to the overall market."
+ },
+ "09-307": {
+  "r": "Capital market → share market; trades mostly long-term securities like stocks and bonds.",
+  "hi": [
+   "Capital market (पूंजी बाजार)"
+  ]
+ },
+ "09-308": {
+  "r": "Capital market → government bond market, stock market; money market → call money market, treasury bill market.",
+  "h": "Long-term funds = capital market; up to one year = money market."
+ },
+ "09-309": {
+  "r": "Most volatile part of organised money market → call money market (funds from overnight to 14 days).",
+  "h": "Call money: overnight; notice money: 2 to 14 days.",
+  "hi": [
+   "Call money (मांग मुद्रा)"
+  ]
+ },
+ "09-310": {
+  "r": "RBI is not a money market participant; it manages liquidity via LAF. Participants: banks, primary dealers, development finance institutions, mutual funds, NBFCs, corporates."
+ },
+ "09-311": {
+  "r": "Commercial Paper → short-term unsecured promissory note; Call Money → overnight inter-bank funds. CDs are issued by banks, not RBI; zero-coupon bonds pay no interest."
+ }
+}

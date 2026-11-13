@@ -1,0 +1,181 @@
+{
+  "17-034": {
+    "r": "A Chief Minister who is a member of the State Legislative Council (Upper House) cannot vote for President; electoral college = elected MPs and elected MLAs of States, Delhi, Puducherry."
+  },
+  "17-035": {
+    "r": "'Population' for Presidential vote value = 1971 Census, until figures of the first census after 2026 are published (Article 81(3) proviso)."
+  },
+  "17-036": {
+    "r": "President eligibility (Article 58(1)): citizen of India, age 35 completed, qualified for election to Lok Sabha; no educational qualification."
+  },
+  "17-037": {
+    "r": "President needs (Article 58(1)): citizenship (not necessarily by birth), age 35, and qualification for election to the House of the People (Lok Sabha).",
+    "t": "Qualification is for the House of the People (Lok Sabha), not just 'Parliament'; citizenship need not be by birth."
+  },
+  "17-038": {
+    "r": "Article 59(1): an MP or MLA elected President is deemed to vacate the seat on the date he enters upon office as President."
+  },
+  "17-039": {
+    "r": "Article 57 → President is eligible for re-election any number of times."
+  },
+  "17-040": {
+    "r": "Eligibility for re-election of the President → Article 57."
+  },
+  "17-041": {
+    "r": "Disputes about Presidential election → decided by the Supreme Court (Article 71); its decision is final."
+  },
+  "17-042": {
+    "r": "All three false: acts of a President whose election is voided by SC remain valid (Article 71(2)); election not postponed for Electoral College vacancies; no time limit for assent."
+  },
+  "17-043": {
+    "r": "Article 56(1) → President's term is 5 years from the date he enters upon his office."
+  },
+  "17-044": {
+    "r": "President addresses resignation to the Vice-President (Article 56(1)(a)), who at once informs the Lok Sabha Speaker (Article 56(2)).",
+    "h": "Resignation relay: President → Vice-President → Speaker."
+  },
+  "17-046": {
+    "r": "President removed by Parliament through impeachment for violation of the Constitution (Article 56(1)(b), procedure Article 61); either House can start it.",
+    "hi": ["Impeachment (महाभियोग)"]
+  },
+  "17-048": {
+    "r": "All true: PR by single transferable vote, secret ballot (Article 55); nomination needs 50 proposers and 50 seconders; MLA vote value on 1971 census. Impeachment → Article 61."
+  },
+  "17-053": {
+    "r": "Impeachment of President → Article 61: charge preferred by either House; the other House investigates; President may appear and be represented."
+  },
+  "17-054": {
+    "r": "Article 61 → impeachment of President for 'violation of the Constitution' (not defined); quasi-judicial procedure in Parliament; either House can initiate."
+  },
+  "17-058": {
+    "r": "Impeachment needs at least 14 days' written notice signed by at least one-fourth of total members of the House (Article 61(2)(a))."
+  },
+  "17-059": {
+    "r": "State Legislative Assemblies elect the President but take no part in impeachment (only Lok Sabha, Rajya Sabha do); Legislative Councils take part in neither."
+  },
+  "17-060": {
+    "r": "Impeachment of President is a quasi-judicial process in Parliament only (Article 61); State Legislative Assemblies are in the electoral college (Article 54(b)) but not in impeachment."
+  },
+  "17-062": {
+    "r": "Vacancy in President's office (death, resignation, removal) must be filled within six months (Article 62(2))."
+  },
+  "17-065": {
+    "r": "Vice-President can act as President for at most 6 months, since a President's vacancy must be filled within 6 months."
+  },
+  "17-066": {
+    "r": "Vacancy by death, resignation or removal → Vice-President acts as President until the new President enters office (Article 65(1))."
+  },
+  "17-067": {
+    "r": "Both President and Vice-President offices vacant → Chief Justice of India acts as President; if absent, senior-most SC judge (President (Discharge of Functions) Act 1969).",
+    "hi": ["Chief Justice of India (भारत के मुख्य न्यायाधीश)"]
+  },
+  "17-071": {
+    "r": "Article 361(2): no criminal proceedings against President or Governor during term; Article 361(4): civil proceedings allowed after two months' written notice. President is not above the Constitution.",
+    "c": "No answer printed: A is only partly true (civil suits possible with notice) and R is false, so no option fits."
+  },
+  "17-072": {
+    "r": "President dissolves Lok Sabha (Article 85(2)(b)) on the advice of the Union Cabinet / Council of Ministers headed by the PM (Article 74(1))."
+  },
+  "17-074": {
+    "r": "Prorogation needs Council of Ministers' advice (statement 1 false); a House can be prorogued even in session; President dissolves Lok Sabha (Article 85(2)(b)), usually on Ministers' advice."
+  },
+  "17-075": {
+    "r": "Joint sitting of both Houses → summoned by the President (Article 108); presided over by the Lok Sabha Speaker (Article 118(4))."
+  },
+  "17-078": {
+    "r": "Article 108: President notifies his 'intention' to summon a joint sitting when a Bill is rejected, amendments are disagreed, or six months pass without passing."
+  },
+  "17-080": {
+    "r": "President is a constituent part of Parliament (Article 79), addresses a joint meeting every year, issues ordinances (Article 123); he does not take part in House discussions."
+  },
+  "17-081": {
+    "r": "Both true, R explains A: Parliament = President + both Houses (Article 79); a Bill becomes law only with the President's assent (Article 111)."
+  },
+  "17-082": {
+    "r": "A Bill passed by Parliament becomes an Act only after the President's assent (Article 111)."
+  },
+  "17-083": {
+    "r": "Absolute veto (on Ministers' advice): Rajendra Prasad, PEPSU Appropriation Bill 1954. Pocket veto (at discretion): Gyani Zail Singh, Indian Post Office (Amendment) Bill 1986.",
+    "t": "The PEPSU Bill also saw a veto, but on Ministers' advice; the Post Office Bill pocket veto is the discretionary one the key wants."
+  },
+  "17-084": {
+    "r": "Pocket veto (taking no action on a Bill) used only once: President Gyani Zail Singh, 1986, Indian Post Office (Amendment) Bill.",
+    "h": "Zail Singh kept the 'Post' in his pocket.",
+    "hi": ["Pocket veto (जेबी वीटो)"]
+  },
+  "17-085": {
+    "r": "Article 111 → President declares assent to, or withholds assent from, a Bill passed by both Houses."
+  },
+  "17-087": {
+    "r": "Discretionary: return a Bill with objections, withhold a Bill, send messages to Parliament (Article 86(2)). Appointing Ministers and judges = executive; summoning joint session = legislative power."
+  },
+  "17-088": {
+    "r": "Per book, giving assent to Bills (Article 111) does not need Council of Ministers' advice; dissolving Lok Sabha, appointing ambassadors and other options do."
+  },
+  "17-089": {
+    "r": "Promulgating ordinances (when Parliament is not in session) is the President's legislative power; Parliament must approve within six weeks of reassembly; President can withdraw it anytime."
+  },
+  "17-090": {
+    "r": "President's discretion: return a Bill with objections, detain a Bill, seek information from the PM, ask Council of Ministers to reconsider its advice."
+  },
+  "17-091": {
+    "r": "2002 electoral reforms ordinance: President assented under Article 123 (ordinance power during Parliament's recess) after the Cabinet sent it back unchanged; ordinance has force of an Act."
+  },
+  "17-092": {
+    "r": "Article 123 ordinances: same force as an Act of Parliament; must be approved within six weeks of reassembly; President can withdraw them any time ('can never repeal' is false)."
+  },
+  "17-094": {
+    "r": "President's ordinance must be laid before both Houses and ceases six weeks after Parliament reassembles (Article 123(2))."
+  },
+  "17-095": {
+    "r": "An ordinance can amend any Central Act (not the Constitution) and can be retrospective; it cannot abridge Fundamental Rights any more than an Act can.",
+    "c": "Printed answer (a) I and II contradicts the explanation, which says II is incorrect and III correct, i.e. (c) I and III only."
+  },
+  "17-096": {
+    "r": "President appoints Finance Commission Chairman (Article 280(1)) and UT Chief Ministers (Article 239AA(5)); Planning Commission Vice-Chairman was appointed by the PM (now NITI Aayog)."
+  },
+  "17-097": {
+    "r": "President appoints the Attorney General (Article 76), CAG (Article 148) and State Governors (Article 155)."
+  },
+  "17-098": {
+    "r": "Vice-President is elected (Article 66), not appointed by the President; PM, Governor and CEC are appointed by the President."
+  },
+  "17-099": {
+    "r": "Article 160 → President may provide for discharge of a Governor's duties in any contingency."
+  },
+  "17-100": {
+    "r": "A State's Chief Minister is appointed by the Governor (Article 164(1)), not by the President."
+  },
+  "17-101": {
+    "r": "Article 143 → President may consult the Supreme Court on a question of law or fact; its advice is not binding on him.",
+    "hi": ["Advisory jurisdiction (परामर्शी क्षेत्राधिकार)"]
+  },
+  "17-103": {
+    "r": "Sending messages to Houses of Parliament (Article 86(2)) is a right of the President, not a 'power'; ordinances, consulting SC, pardon are powers."
+  },
+  "17-104": {
+    "r": "President cannot remove a Supreme Court judge on his own: removal needs an address by each House with the required majority, then the President's order (Article 124(4))."
+  },
+  "17-105": {
+    "r": "Pardoning power (Article 72: pardon, reprieve, respite, remission, suspend, remit, commute sentence) is a judicial power of the President.",
+    "hi": ["Pardoning power (क्षमादान शक्ति)"]
+  },
+  "17-106": {
+    "r": "Article 72 pardoning power: pardon, commutation, remission, respite, reprieve (also court-martial sentences); 'detention' and 'continuation' are not part of it."
+  },
+  "17-107": {
+    "r": "Article 72 → President pardons for offences against Union law, court-martial sentences and all death sentences."
+  },
+  "17-108": {
+    "r": "Pardoning power (Article 72) is open to limited judicial review; the President cannot use it without aid and advice of the Council of Ministers."
+  },
+  "17-109": {
+    "r": "President has titular (formal), de jure, constitutional and nominal authority, not real, popular or political authority."
+  },
+  "17-110": {
+    "r": "President lays before Parliament: Finance Commission recommendations (Article 281), CAG report (151(1)), National Commission for SCs report (338(6)); not PAC report (a parliamentary committee)."
+  },
+  "17-111": {
+    "r": "President cannot return a Finance Bill for reconsideration (it needs his recommendation; not introduced in Rajya Sabha). Returning ordinary Bills, dissolving Lok Sabha, appointing PM are prerogatives."
+  }
+}

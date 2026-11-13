@@ -1,0 +1,502 @@
+{
+  "13-073": {
+    "r": "Lifeline of the Pandya state → Vaigai/Vengi river (rises near Madurai); Pandya kingdom covered Madurai and Tirunelveli; capital Madura.",
+    "t": "Don't pick Godavari, Krishna or Tungabhadra; those are Deccan rivers, far north of Pandya land.",
+    "hi": ["River (नदी)"],
+    "c": "Book's option prints 'Vengi'; its own explanation equates it with the Vaigai, the river of Madurai."
+  },
+  "13-074": {
+    "r": "Sangam ports on the western coast → Tondi and Mushiri (also Naura, Nelisanda), per the Periplus of the Erythraean Sea; Korkai and Puhar are not western.",
+    "hi": ["Port (बंदरगाह)"]
+  },
+  "13-075": {
+    "r": "Korkai, Poompuhar and Muchiri → ports; Korkai = Pandya port; Poompuhar (Kaveripattinam) = early Chola capital-port; Muziris/Muchiri = Kerala port.",
+    "h": "Korkai-Pandya, Puhar-Chola, Muchiri-Chera: three Sangam kingdoms, three ports."
+  },
+  "13-076": {
+    "r": "Sangam texts: Kon, Ko and Mannan → titles of the King.",
+    "hi": ["King (राजा)"]
+  },
+  "13-077": {
+    "r": "Third Sangam → Madurai; all three Sangams held under Pandya patronage; 1st at Madurai (Saint Agastya), 2nd at Kapadapuram.",
+    "hi": ["Sangam Literature (संगम साहित्य)"]
+  },
+  "13-078": {
+    "r": "Sage who Aryanised South India → Agastya; also called 'Father of Tamil Literature'."
+  },
+  "13-079": {
+    "r": "Capitals: Chalukyas → Badami; Pallavas → Kanchipuram; Harsha → Kannauj; Pandyas → Madurai.",
+    "hi": ["Capital (राजधानी)"]
+  },
+  "13-080": {
+    "r": "Mahendravarman I → Pallava; Kadungon → Pandya; Amoghavarsha I → Rashtrakuta; Rajaraja I → Chola."
+  },
+  "13-081": {
+    "r": "Order: Pallava power under Mahendravarman I (600-630 AD) → Pala dynasty by Gopala (750) → Pratihara Bhoja (836-885) → Chola Parantaka I (907-953).",
+    "h": "South-East-North-South: Pallava, Pala, Pratihara, then Chola."
+  },
+  "13-082": {
+    "r": "Wrong pair: Chera–Puducheri; Chera capital was Vanchi. Correct: Pallava–Kanchipuram, Pandya–Madurai, Chola–Tanjavur, Hoysala–Dwarasamudra."
+  },
+  "13-083": {
+    "r": "Chera capital → Karur/Karuvur (also called Vanchi; some sources say Thondi); Cheras ruled present Kerala and parts of Tamil Nadu.",
+    "t": "Don't confuse with Kanchipuram (Pallava) or Madurai (Pandya)."
+  },
+  "13-084": {
+    "r": "Pallava order: Mahendravarman I (600-630) → Narasimhavarman I (630-668) → Parameshvaravarman I (c. 670-700) → Nandivarman II (731-795)."
+  },
+  "13-085": {
+    "r": "Titles Mattavilasa, Vichitrachitta and Gunabhara → Pallava king Mahendravarman I (c. 600–630 CE); titles found in Mandagapattu rock-cut temple inscription."
+  },
+  "13-086": {
+    "r": "Chinese traveller who described China–India relations under the Chalukyas → Matwalin.",
+    "t": "Don't pick Fa-Hien (Gupta age) or Hiuen-Tsang (Harsha); the Chalukya-era account is Matwalin's."
+  },
+  "13-087": {
+    "r": "Chalukyas did not rule North India; ruled Deccan and South, capital Badami (Vatapi); Pulakesin II defeated Harshavardhana (618 AD); Chalukyas of Kalyani a later branch."
+  },
+  "13-088": {
+    "r": "Chalukya king Kumarapala (Jain, disciple of Hemachandra; ruled 29 years) → sent ministers to stop cruelty to animals in Kashi region."
+  },
+  "13-089": {
+    "r": "Kadamba capital → Banavasi (Vanavasi); founder Mayurasharman; annexed by Pulakesin II. Tanjore–Chola, Kanchi–Pallava, Badami–Chalukya.",
+    "h": "Mayura (peacock) flew to the Vana (forest) → Banavasi."
+  },
+  "13-090": {
+    "r": "Chief seaport of the Kakatiya kingdom → Motupalli; Marco Polo entered the Kakatiya land through it."
+  },
+  "13-091": {
+    "r": "South Indian king who sent an ambassador to Rome in 26 B.C. → Pandya; longest-ruling South Indian dynasty, capital Madurai."
+  },
+  "13-092": {
+    "r": "Trade with the Roman empire began with the Cheras (Sangam period); Roman objects found at Arikamedu (Puducherry)."
+  },
+  "13-093": {
+    "r": "Meenakshi temple → Madurai, Pandya capital; 1st and 3rd Sangam held here, presided by Agastya and Nakkirar."
+  },
+  "13-095": {
+    "r": "Meenakshi Mandir → Madurai; Venkateswara Mandir → Tirumala (Andhra Pradesh); Mahakal Mandir → Ujjain; Belur Math → Howrah (Ramakrishna Mission HQ).",
+    "hi": ["Temple (मंदिर)"]
+  },
+  "13-096": {
+    "r": "Huge gateways of South Indian temples → Gopurams; Dravidian style flourished under the Pandyas and Cholas.",
+    "t": "Don't confuse Gopuram (gateway) with Shikhara (tower over sanctum) or Mandapam (pillared hall).",
+    "hi": ["Gateway (गोपुरम/प्रवेश द्वार)"]
+  },
+  "14-001": {
+    "r": "'Father of History' → Herodotus (Greek); his 'Historica/The Histories' describes Indo-Persian relations in the 5th century B.C."
+  },
+  "14-002": {
+    "r": "Ashtadhyayi → Panini; Mahabhashya → Patanjali; Nirukta → Yaska; Varttika → Katyayan.",
+    "h": "Panini wrote the rules, Katyayan added notes (Varttika), Patanjali the great commentary (Mahabhashya)."
+  },
+  "14-003": {
+    "r": "Mudrarakshasa → Vishakhadatta; Gupta-period Sanskrit drama on how Chandragupta Maurya, helped by Kautilya, overthrew the Nandas."
+  },
+  "14-005": {
+    "r": "All four are Gupta-era classics: Amarakosh (Amarsimha), Kamasutra (Vatsyayana), Meghaduta (Kalidasa), Mudrarakshasa (Vishakhadatta).",
+    "hi": ["Gupta period (गुप्त काल)"]
+  },
+  "14-006": {
+    "r": "Dashakumaracharitam → Dandin; Kumarasambhava → Kalidasa; Sursagar → Surdas; Ramcharitmanas, Vinaya Patrika → Tulsidas."
+  },
+  "14-009": {
+    "r": "Janaki-haranam → Kumaradasa, not Kalidasa; Kalidasa wrote Malavikagnimitram, Abhigyan Shakuntalam, Kumarasambhavam."
+  },
+  "14-010": {
+    "r": "Shringar Shatak → Bhartrihari (part of Shataka-traya), not Kalidasa; Kalidasa wrote Meghaduta (lyric) and Raghuvamsham (epic)."
+  },
+  "14-011": {
+    "r": "Uttararamacharitam → Bhavabhuti (play on Rama's later life), not Kalidasa; Kalidasa wrote Meghadutam, Kumarasambhavam, Ritusamharam."
+  },
+  "14-012": {
+    "r": "'Bible' of North Indian classical music → Natyashastra, Sanskrit treatise on performing arts by Bharat Muni."
+  },
+  "14-013": {
+    "r": "Panini → Ashtadhyayi; Vatsyayana → Kamasutra; Chanakya → Arthashastra; Kalhana → Rajatarangini."
+  },
+  "14-015": {
+    "r": "Kalhana's Rajatarangini ('River of Kings') → history of Kashmir; Ashtadhyayi → Panini.",
+    "hi": ["Kashmir (कश्मीर)"]
+  },
+  "14-017": {
+    "r": "Gaudavaho (Prakrit epic) → Vakpati, court poet of Yasovarman of Kanauj; describes Yasovarman's digvijaya."
+  },
+  "14-018": {
+    "r": "Bharavi → Kiratarjuniyam; Harsha → Nagananda; Kalidasa → Malavikagnimitram; Rajasekhara → Karpuramanjari."
+  },
+  "14-019": {
+    "r": "Kiratarjuniyam → Bharavi; epic on the fight of Arjuna and Shiva (disguised as a kirata hunter)."
+  },
+  "14-020": {
+    "r": "Mahabharata-based works: Naishadhiyacharita (Sriharsha; Nala-Damayanti), Kiratarjuniyam (Bharavi), Sisupalavadha (Magha); not Dashakumaracharita (Dandi; 10 princes)."
+  },
+  "14-021": {
+    "r": "Vishakhadatta → Drama; Varahamihira → Astronomy; Charaka → Medicine; Brahmagupta → Mathematics."
+  },
+  "14-022": {
+    "r": "Charaka → Medicine; Brahmagupta → Mathematics; Varahamihira → Astrology; Vishakhadatta → Playwright."
+  },
+  "14-023": {
+    "r": "Charaka Samhita → Medicine (Ayurveda); Charaka = father of Indian medicine.",
+    "hi": ["Medicine (चिकित्सा/आयुर्वेद)"]
+  },
+  "14-024": {
+    "r": "Charaka Samhita (oldest surviving Ayurveda text) → 120 chapters in 8 sections."
+  },
+  "14-025": {
+    "r": "Amarkosha → Amarsimha, not Varahamihira; Varahamihira wrote Panchasiddhantika, Brihat Samhita, Brihat Jataka."
+  },
+  "14-026": {
+    "r": "Varahamihira's Panchasiddhantika → based on Greek astronomy (book adds Roman, Egyptian and Indian)."
+  },
+  "14-027": {
+    "r": "Nitisara, early book on politics → Kamandaka.",
+    "t": "Don't confuse with Kautilya's Arthashastra."
+  },
+  "14-028": {
+    "r": "Wrong pair: Subandhu–Kadambari; Kadambari → Banabhatta. Correct: Kalidasa–Raghuvansa, Bhasa–Svapnavasavadattam, Harsha–Ratnavali."
+  },
+  "14-029": {
+    "r": "Milindapanha → Pali text; dialogue between Buddhist monk Nagasena and Indo-Greek king Milinda (Menander).",
+    "h": "Milinda + panha (questions) = King Menander's questions to Nagasena."
+  },
+  "14-034": {
+    "r": "Text describing eight phases of agricultural work → Milindapanha (Pali; Nagasena–Menander dialogue)."
+  },
+  "14-035": {
+    "r": "Wrong pair: Khuman Raso–Karnidan; Khuman Raso → Dalpati Vijay. Correct: Prithviraj Raso–Chand Bardai; Bisaldeva Raso–Narapati; Shatrusal Raso–Dungar Singh."
+  },
+  "14-036": {
+    "r": "Jaina texts → Parishishtaparvan (Hemchandra), Trishashtilakshana Mahapurana (Chamund Rai); Nettipakarana and Avadanashataka are Buddhist.",
+    "hi": ["Jain texts (जैन ग्रंथ)"]
+  },
+  "14-037": {
+    "r": "Court poets: Amir Khusrau → Alauddin Khalji; Kalidasa → Chandragupta II; Harisena → Samudragupta; Banabhatta → Harshavardhana.",
+    "hi": ["Court poet (राजकवि)"]
+  },
+  "14-038": {
+    "r": "Kalhana's contemporary ruler → Jai Singh (Jaisimha, 1128-1149) of Kashmir; Rajatarangini has 8 Tarangas and 7826 verses."
+  },
+  "14-040": {
+    "r": "Kalhana's Rajatarangini (12th century) continued by Jonaraja (to Sultan Zainul Abedin's reign) and then his pupil Srivara."
+  },
+  "14-041": {
+    "r": "Saundarananda (Kavya) → Ashvaghosha, Buddhist poet."
+  },
+  "14-042": {
+    "r": "Nagananda, Ratnavali and Priyadarshika → Harshavardhana.",
+    "h": "Harsha's three plays: N-R-P, 'Naga Ratna Priya'."
+  },
+  "14-045": {
+    "r": "Encyclopedic work → Brihat Samhita of Varahamihira (Gupta period)."
+  },
+  "14-046": {
+    "r": "Bhavabhuti, Hastimalla, Kshemeshvara → playwrights; Bhavabhuti, court poet of Yashovarman of Kannauj (Mahaviracharitam, Malatimadhava, Uttararamacharitam); Hastimalla, Kannada poet under Hoysalas.",
+    "hi": ["Playwright (नाटककार)"]
+  },
+  "14-047": {
+    "r": "Correct: Mrichchhakatikam–Sudraka, Mudrarakshasa–Vishakhadatta, Harshacharita–Banabhatta. Wrong: Buddhacharita is by Ashvaghosha, not Vasubandhu."
+  },
+  "14-048": {
+    "r": "Only Kalidasa–Chandragupta II is right; Amarasimha was also in Chandragupta II's Navratna; Patanjali (not Panini) was with Pushyamitra Shunga.",
+    "hi": ["Nine gems (नवरत्न)"]
+  },
+  "14-049": {
+    "r": "Varahamihira → Brihat Samhita; Vishakhadatta → Devi-Chandraguptam; Sudraka → Mrichchhakatikam; Bilhana → Vikramankadevacharita; Prabandha Chintamani → Merutunga."
+  },
+  "14-050": {
+    "r": "Two correct: Hammira Mahakavya–Nayachandra Suri; Nitivakyamrita–Somadeva Suri. Wrong: Devichandragupta → Vishakhadatta; Milinda-panha → Nagasena."
+  },
+  "14-051": {
+    "r": "Parmar history sources: Navasahasankacharita (Padmagupta), Prabandha Chintamani (Merutunga), Udaipur Prashasti; Navasahasankacharita calls Mount Abu the Parmaras' origin."
+  },
+  "14-052": {
+    "r": "Wrong pair: Karpuramanjari–Harsha; it is by Rajashekhara, poet laureate of the Gurjara-Pratiharas."
+  },
+  "14-053": {
+    "r": "Shakuntalam → Kalidasa; his seven works: Abhigyanshakuntalam, Vikramorvashiyam, Malavikagnimitram, Raghuvamsham, Kumarasambhavam, Meghadutam, Ritusamharam.",
+    "h": "3 plays (Shakuntalam, Vikramorvashiyam, Malavikagnimitram), 2 epics (Raghu, Kumara), 2 lyrics (Megha, Ritu)."
+  },
+  "14-054": {
+    "r": "Mrichchhakatikam → Sudraka, not Kalidasa; Kalidasa wrote Meghaduta, Ritusamharam, Vikramorvashiyam."
+  },
+  "14-055": {
+    "r": "Hero of Kalidasa's Malavikagnimitram → Agnimitra, Shunga king of Vidisha (son of the Shunga founder); Kalidasa's first play, 5 acts."
+  },
+  "14-057": {
+    "r": "Svapnavasavadattam → Bhasa (Sanskrit play)."
+  },
+  "14-058": {
+    "r": "Madhyama-vyayoga → Bhasa; Kavyalankara → Bhamaha; Natyashastra → Bharata Muni; Mahabhashya → Patanjali."
+  },
+  "14-059": {
+    "r": "Gita Govinda → Jayadeva (twelfth century, Sanskrit), court poet of King Lakshman Sen of Bengal; twelve chapters."
+  },
+  "14-061": {
+    "r": "Trivikrama Bhatta → Nala Champu; Somadeva → Kathasaritsagara; Jayadeva → Gita Govinda; Kshemendra → Brihatkathamanjari."
+  },
+  "14-063": {
+    "r": "Ashtanga Samgraha → Medicine; Dasharupaka → Play (drama); Lilavati → Maths; Mahabhashya → Grammar."
+  },
+  "14-064": {
+    "r": "'Thy right is to work only, but never with its fruits' → Bhagavad Gita.",
+    "hi": ["Selfless action (निष्काम कर्म)"]
+  },
+  "14-065": {
+    "r": "Source silent about ancient Indian trade routes (per book) → Sangam literature; Milindapanha and Jataka tales are not."
+  },
+  "14-066": {
+    "r": "'What is here is found elsewhere, but what is not here is found nowhere else' → Mahabharata."
+  },
+  "14-067": {
+    "r": "Panchatantra (animal fables, Sanskrit) → by Vishnu Sharma; translated into 15 Indian and 40 (book: at least 50) foreign languages; Mughal version Ayar-e-Danish by Abul Fazl."
+  },
+  "14-069": {
+    "r": "Ramacharitam → Sandhyakar Nandi; Navasahasankacharita → Padmagupta; Kumarapalacharita → Hemachandra; Vikramankadevacharita → Bilhana."
+  },
+  "14-070": {
+    "r": "Sarvavarma → Katantra; Sudraka → Mrichchhakatikam; Vigyaneshwara → Mitakshara; Kalhana → Rajatarangini."
+  },
+  "14-071": {
+    "r": "Devana Bhatta → Smriti Chandrika; Hemadri → Chaturvarga Chintamani; Madhvacharya → Parashar Madhav; Ballal Sena → Daan Sagar."
+  },
+  "14-072": {
+    "r": "Mitakshara (Vijnanesvara): sons claim property in father's lifetime; Dayabhaga (Jimutavahana): only after his death. Both are inheritance laws, not caste-based codes.",
+    "hi": ["Inheritance (उत्तराधिकार)"]
+  },
+  "14-073": {
+    "r": "Algebra → Bhaskara II (Bhaskaracharya, 12th century); his Siddhantasiromani has Lilavati (maths), Bijaganita (algebra), Ganitadhyaya, Goladhyaya.",
+    "t": "Don't confuse Bhaskara II (Lilavati) with Bhaskara I or Aryabhatta."
+  },
+  "14-076": {
+    "r": "Aryabhatta → mathematician and astronomer; wrote Aryabhatiya; said earth is spherical and rotates on its axis; father of trigonometry."
+  },
+  "14-077": {
+    "r": "Decimal place value → Aryabhatta (per book)."
+  },
+  "14-078": {
+    "r": "Mattavilasa Prahasana → Pallava ruler Mahendravarman I; depicts social and religious life."
+  },
+  "14-079": {
+    "r": "Drama 'Lalit Vigraharaj' → Somadeva."
+  },
+  "14-080": {
+    "r": "Ancient name 'Nilotpala' for the Mahanadi → Vayu Purana."
+  },
+  "14-081": {
+    "r": "Manusmriti (Manav Dharmashastra) → mainly the social system; one of 18 major Smritis; Manu = first law-giver of India.",
+    "hi": ["Law-giver (विधि-निर्माता)"]
+  },
+  "14-084": {
+    "r": "Natyashastra → Bharatamuni; treatise on performing arts (drama, dance, music)."
+  },
+  "14-085": {
+    "r": "Zero → discovered by an anonymous Indian (second century B.C.); Arabs learnt it from India and spread it to Europe; Arab use from 873 A.D.",
+    "hi": ["Zero (शून्य)"]
+  },
+  "14-087": {
+    "r": "Wrong pair: The Natural History–Ptolemy; it is by Pliny the Elder (Roman). Correct: Life of Hiuen Tsang–Hui-li; Historiae Philippicae–Pompeius Trogus; The Histories–Herodotus."
+  },
+  "14-088": {
+    "r": "Most ancient instrument → Veena; Sitar, Sarod and Tabla came in the medieval era."
+  },
+  "15-001": {
+    "r": "Prithviraj Chauhan → Prithviraja III of Ajmer; beat Muhammad Ghori at First Tarain (1191 AD), lost Second Tarain (1192 AD).",
+    "hi": ["Battle (युद्ध)"]
+  },
+  "15-002": {
+    "r": "Chauhan ruler of Ajmer who took Delhi → Vigraharaj IV; beat the Tomaras, seized Eastern Punjab and Delhi; most powerful Chauhan ruler.",
+    "t": "Don't pick Prithviraj III; Delhi was already won by Vigraharaj IV."
+  },
+  "15-003": {
+    "r": "Inscriptions show Bihar's rulers had contact with Java-Sumatra; Pala king Devapala ('Param Saugat') granted five villages at Sailendra king Balaputradeva's request for a Nalanda vihara."
+  },
+  "15-004": {
+    "r": "Suvarnabhumi ruler who built a Nalanda monastery and asked Devapala for five villages → Balaputradeva (Sailendra)."
+  },
+  "15-005": {
+    "r": "Kumaradevi, Buddhist queen of Govind Chandra Gahadavala → built Dharma-Chakra-Jina Vihara at Sarnath."
+  },
+  "15-006": {
+    "r": "Hammir Mahakavya calls the Chauhans Suryavanshi (descendants of Chahman, son of the Sun); one of the four fire (Agni) clans.",
+    "hi": ["Solar dynasty (सूर्यवंश)"]
+  },
+  "15-007": {
+    "r": "Alha-Udal → Mahoba; commanders of Chandel king Parmardidev (Parmal, 1165-1203 CE); Alha-Khand by Jagnik; Prithviraj Raso by Chand Bardai."
+  },
+  "15-010": {
+    "r": "Prithviraja Vijaya → Jayanaka.",
+    "t": "Don't confuse with Prithviraj Raso, which is by Chand Bardai."
+  },
+  "15-011": {
+    "r": "Wrong pair: Abdur Rehman–Hammir Raso; Hammir Raso → Jodhraj. Correct: Chand Bardai–Prithviraj Raso; Jagnik–Alha-Khand; Narpati Nalh–Visal Dev Raso."
+  },
+  "15-012": {
+    "r": "City of Dhillika (Delhi), eighth century → founded by Anangpal of the Tomar dynasty, once feudatories of the Gurjara-Pratiharas."
+  },
+  "15-013": {
+    "r": "Jejakabhukti → ancient name of Bundelkhand; named after Jeja/Jejak (Jay Shakti), grandson of Chandel founder Nannuk.",
+    "h": "Jeja's bhukti (province) = Chandela land = Bundelkhand."
+  },
+  "15-014": {
+    "r": "Dhanga (Dangdev) → Chandela king of Jejakabhukti; gave up his body at the Ganga-Yamuna Sangam, Prayagraj."
+  },
+  "15-015": {
+    "r": "Chandela order: Yashovarman (925-950 AD) → Dhanga (950-1002) → Vidyadhara (1017/19-1029) → Kirtivarman (1060-1100)."
+  },
+  "15-016": {
+    "r": "Tribhuvan Narayan (Samidheshwar) temple, Chittor → Paramara Raja Bhoj of Malwa; three-faced Shiva idol like Elephanta's."
+  },
+  "15-017": {
+    "r": "Pundravardhana Bhukti → North Bengal; expanded beyond north Bihar under the Pala, Chandra and Sena dynasties."
+  },
+  "15-018": {
+    "r": "Founder of the Pala dynasty → Gopala; per Lama Taranath, born near Pundravardhana and elected king of Bengal."
+  },
+  "15-019": {
+    "r": "Odantapuri (Uddandapur) education centre → Bihar; founded by Pala ruler Gopala."
+  },
+  "15-020": {
+    "r": "Somapura Mahavihara (Paharpur) and Vikramshila → built by Pala king Dharmapala ('Param Saugat'); Haribhadra in his court; founded 50 religious schools (Taranath)."
+  },
+  "15-021": {
+    "r": "Vikramshila University → founded by Dharmapala (770-810 A.D.) of Bengal; main Buddhist centre after Nalanda's decline.",
+    "hi": ["University (विश्वविद्यालय)"]
+  },
+  "15-022": {
+    "r": "Vikramshila University (Maha Vihar) → Dharmapala of the Pala dynasty; chief seat of Buddhist study after Nalanda declined.",
+    "t": "Don't pick Gopala (Odantapuri) or Devapala (Nalanda grants); Vikramshila is Dharmapala's."
+  },
+  "15-029": {
+    "r": "Vikramshila University → Bhagalpur, Bihar; founded by Pala ruler Dharmapala (770-810 AD)."
+  },
+  "15-030": {
+    "r": "Vikramshila: in Bhagalpur (not Banka); founded by Dharmapala (not Gopala I); Vajrayana flourished; astronomy, logic, law, grammar, philosophy also taught."
+  },
+  "15-031": {
+    "r": "Kings chosen by the people → Gopala (Pala; Khalimpur inscription, to end Matsya Nyaya) and Nandivarman Pallavamalla (after Parameshvaravarman's death).",
+    "hi": ["Law of the fish (मत्स्य न्याय)"]
+  },
+  "15-032": {
+    "r": "Not an early medieval learning centre → Taxila (early Buddhist centre, Gandhara capital, now Rawalpindi, Pakistan); Nalanda, Vikramshila, Uddantapur were."
+  },
+  "15-033": {
+    "r": "Founder of the Rashtrakuta empire → Danti Durga (753 AD); performed the Hiranyagarbha ritual at Ujjayini."
+  },
+  "15-035": {
+    "r": "Born in a military camp → Rashtrakuta Amoghavarsha I (800 AD, Shribhavan near Narmada), while father Govind III returned from North Indian campaigns."
+  },
+  "15-036": {
+    "r": "Greatest Pratihara king → Mihir Bhoj (836-885 A.D.); Mahendrapala I Pratihara (885-910); Dharmapala = Pala; Harsha = Pushyabhuti."
+  },
+  "15-037": {
+    "r": "Titles 'Adi Varaha' and 'Prabhas' → Gurjara-Pratihara Mihir Bhoja I, a Vaishnava and the most powerful Pratihara."
+  },
+  "15-038": {
+    "r": "False: Mihir Bhoja was son of Nagabhatta II; he was son of Ramabhadra and Appa Devi. True: capital Kannauj (from c. 836 AD); Al-Masudi called him Baura."
+  },
+  "15-039": {
+    "r": "Pratihara order: Vatsaraja (775-800 AD) → Nagabhatta II (800-833) → Mahendrapala I (885-910) → Mahipala (912-944)."
+  },
+  "15-040": {
+    "r": "Not a Gurjara-Pratihara → Bharatrabhatta I. Pratiharas (Ujjain, later Kannauj): Nagabhatta I (730-760), Vatsaraja, Nagabhatta II, Mihir Bhoja I, Mahendrapala I, Devapala (948-949).",
+    "t": "This Devapala is a Pratihara king; don't confuse him with the Pala king Devapala."
+  },
+  "15-041": {
+    "r": "Arab traveller Suleman visited India under Pratihara king Mihir Bhoja (Bhoja I)."
+  },
+  "15-042": {
+    "r": "Jain scholar Hemchandra → court of Solanki king Kumarapala (1143-1172 A.D.) as adviser; first rose to fame under Jaysimha Siddharaja."
+  },
+  "15-043": {
+    "r": "Lakshmana Samvat (new era) → Sena king Lakshmanasena (1178-1206 A.D.; reigned 28 years).",
+    "hi": ["Era (संवत्)"]
+  },
+  "15-045": {
+    "r": "Medieval jurists → Vigyaneshvara (Mitakshara), Hemadri, Jimutavahana (Dayabhaga); Rajashekhara was a poet in the Pratihara court, not a jurist.",
+    "hi": ["Jurist (विधिवेत्ता)"]
+  },
+  "15-046": {
+    "r": "Sena order: (Samantasena) → Hemanta Sena → Vijay Sena → Ballal Sena → Lakshmana Sena → (Vishvarupasena); father-to-son succession."
+  },
+  "15-047": {
+    "r": "Rajashekhara → court of Pratihara Mahendrapala I and his son Mahipala I; wrote Karpuramanjari, Kavyamimamsa, Viddhasalabhanjika, Bal Ramayana; not Prabandhachintamani (Merutunga).",
+    "c": "Book accepts two answers, (b) Mahipal and (c) Mahendrapala-I, since he served both."
+  },
+  "15-049": {
+    "r": "Capitals: Pratihara → Kannauj; Chola → Tanjore; Paramara → Dhara; Solanki → Anhilwada."
+  },
+  "15-050": {
+    "r": "Two correct: Nannuka–Chandela; Nagabhata II–Gurjara Pratihara. Wrong: Jayashakti was Chandela (not Paramara); Bhoja was Paramara (not Rashtrakuta)."
+  },
+  "15-051": {
+    "r": "Founder of Gurjara-Pratihara dynasty → Nagabhatta I (730-760 AD); Agni-clan Rajputs; Gurjars first named in Pulakesin II's Aihole inscription and Harshacharita."
+  },
+  "15-052": {
+    "r": "Tripartite struggle for Kannauj (8-9th century) → Pala, Gurjara-Pratihara, Rashtrakuta; Pratiharas won; Cholas were not part.",
+    "h": "PPR: Pala (east), Pratihara (west), Rashtrakuta (south) fighting for Kannauj.",
+    "hi": ["Tripartite struggle (त्रिपक्षीय संघर्ष)"]
+  },
+  "15-054": {
+    "r": "Mahodaya → old name of Kannauj."
+  },
+  "15-055": {
+    "r": "'Nagar Mahodaya Shri' → Kannauj (name used under Mihir Bhoj)."
+  },
+  "15-056": {
+    "r": "Wrong pair: Jejakabhukti–Kaushambi; Jejakabhukti = Bundelkhand. Correct: Koil–Aligarh; Mahotsav Nagar–Mahoba; Mahodaya Shri–Kannauj."
+  },
+  "15-057": {
+    "r": "Rashtrakuta Govind III (Dhruva's successor) defeated Pratihara Nagabhatta II; victory recorded in Sanjan and Radhanpur copper plates."
+  },
+  "15-058": {
+    "r": "Aid to rebuild a demolished mosque at Khambhat → Chalukya king Jayasimha Siddharaja (per Muhammad Aufi; 1 lakh Balom)."
+  },
+  "15-059": {
+    "r": "Parmara dynasty founder → Upendra (Krishnaraj), 9th century AD; capital Dhara. Commission accepted (b) Kanak Pal, which the book calls wrong.",
+    "c": "No answer printed; Upendra is not among the options and the book disputes the commission's key (b) Kanak Pal."
+  },
+  "15-060": {
+    "r": "King Bhoja (Paramara) → ruled from Dhara; early Paramara capital Ujjain, later moved to Dhara.",
+    "h": "Scholars' lament on Bhoja's death: 'Adya Dhara Niradhara' (today Dhara is without support)."
+  },
+  "15-061": {
+    "r": "Samarangana Sutradhara (on mechanical/scientific devices) → Paramara king Bhoja; also wrote Saraswati Kanthabharan, Rajamartand, Yukti Kalpataru.",
+    "c": "Book prints (a) Bhoja but notes the commission's revised key changed the answer to (b) Govindraja."
+  },
+  "15-062": {
+    "r": "Udaipur Prashasti praises Paramara king Bhoja: did what no one else could; likened to Prithu; ruled from Kailash to the Malaya mountains."
+  },
+  "15-063": {
+    "r": "Bhojshala (Dhar, M.P.) → presiding deity Goddess Saraswati; built by Paramara Bhoj in 1035 A.D. as a Sanskrit school; now in Kamal Maula Mosque premises."
+  },
+  "15-064": {
+    "r": "Not a Paramara → Gangeyadeva (Kalachuri; took title Vikramaditya, revived gold coins); Upendra, Munj and Udayaditya were Paramaras."
+  },
+  "15-065": {
+    "r": "Arab writer who described Kalachuri Gangeyadeva and his capital Tripuri → Al-Biruni (Tarikh al-Hind)."
+  },
+  "15-066": {
+    "r": "Correct: Khajuraho–Bundelkhand; Tirupati–Rayalaseema. Wrong: Bodhgaya is in Bihar; Shirdi and Nashik are in Maharashtra."
+  },
+  "15-067": {
+    "r": "Gaudavaho → Vakpati, court poet of Yashovarman, king of Kannauj."
+  },
+  "15-068": {
+    "r": "Araghatta → animal-driven waterwheel (Persian wheel) for irrigation; mentioned in Panchatantra and Rajatarangini.",
+    "hi": ["Irrigation (सिंचाई)"]
+  },
+  "15-069": {
+    "r": "'Akbar of Kashmir' → Sultan Zain-ul-Abidin (original name Shahi Khan; took throne 1420 A.D., ruled about 50 years); liberal religious policy, patron of learning."
+  },
+  "15-071": {
+    "r": "Founder of Karnata dynasty → Nanyadev (1097-1147 AD); capital Simraungadh; ruled Mithila."
+  },
+  "15-072": {
+    "r": "Last Karnata king → Harisimha (1295/1296-1324 AD); patron of art and literature; started the Panji system."
+  },
+  "15-073": {
+    "r": "Kuruspal inscription (Bastar, Chhattisgarh) → king Someshwar (Someswardeva) of the Nagavamsa; records a village grant."
+  }
+}

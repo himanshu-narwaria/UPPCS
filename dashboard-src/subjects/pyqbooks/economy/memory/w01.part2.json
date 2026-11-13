@@ -1,0 +1,204 @@
+{
+  "02-060": {
+    "r": "Per capita annual income 1991-92 → about Rs. 7,500 (nearest option; Economic Survey 2022-23 gives Rs. 6835 at current prices)."
+  },
+  "02-061": {
+    "r": "Highest GDP growth in the 1990s → 1999-2000 (GNI growth 8.8%, 2011-12 series); 1996-97 had 7.7%."
+  },
+  "02-062": {
+    "r": "Highest growth rate among the options → 2006-07 (as per 2011-12 series, Economic Survey 2022-23)."
+  },
+  "02-063": {
+    "r": "Five years to 2010-11: GDP and per capita income growth did not rise steadily (2008-09 dip: GNI 2.9%, PCI 0.8%) → neither statement correct."
+  },
+  "02-065": {
+    "r": "Economic Survey 2020-21 (IMF estimate) → India's real GDP growth 11.5% in 2021-22 (financial year 2022) and 6.8% in 2022-23."
+  },
+  "02-066": {
+    "r": "GDP growth 2005-06 at 1999-2000 prices → 8.4% (CSO revised estimate, 31 May 2006) = 8 to 9 per cent; later revised to 9.5%."
+  },
+  "02-067": {
+    "r": "GDP growth 1998-99 → 6.5% (base year 1993-94); revised to 6.7% (base year 2004-05)."
+  },
+  "02-068": {
+    "r": "GDP growth up from 4.5% (2012-13) to 4.7% (2013-14) → high agriculture & allied growth (4.7% vs 1.4%) due to a favourable monsoon."
+  },
+  "02-069": {
+    "r": "Economic Survey 2009-10 showed agriculture & allied with negative growth in 2009-10 over 2008-09; revised data show positive growth in every sub-sector.",
+    "c": "Answer not printed; (a) fits Economic Survey 2009-10, but revised data show no sub-sector with negative growth."
+  },
+  "02-070": {
+    "r": "RBI's contemporary estimate of growth for 2002-03 → about 5-5.5%."
+  },
+  "02-071": {
+    "r": "Asian Development Report 2004 (released 28 April 2004) → India's growth for 2005 estimated at 6.9%."
+  },
+  "02-072": {
+    "r": "1997-98: growth fell to 4.3% (from 8.0% in 1996-97) and public investment fell to 6.6% of GDP → A and R true, R not the explanation."
+  },
+  "02-073": {
+    "r": "Growth rose (Sixth Plan 5.5%, Seventh 5.8%, Eighth 6.8%) as saving rate rose from 18.9% to 25.1% of GDP (1995-96) → A, R true; R explains A."
+  },
+  "02-074": {
+    "r": "Per capita income 1998-99 (descending) → Punjab, Maharashtra, Gujarat, Uttar Pradesh (DABC); in 2021-22 Gujarat leads, then Maharashtra, Punjab, Uttar Pradesh."
+  },
+  "02-075": {
+    "r": "Per capita NSDP (descending): question period → Maharashtra, Gujarat, Tamil Nadu, Karnataka (option d); 2021-22 → Karnataka, Tamil Nadu, Gujarat, Maharashtra.",
+    "c": "Answer not printed; explanation says option (d) was right for the question period."
+  },
+  "02-076": {
+    "r": "Lowest per capita income (NSDP, 2021-22) → Bihar (Rs. 47498); highest → Goa (Rs. 472070)."
+  },
+  "02-079": {
+    "r": "Highest per capita income 2009-10 (data of March 2011) → Goa; lowest → Bihar (same in 2021-22)."
+  },
+  "02-080": {
+    "r": "Highest per capita NSDP 2021-22 among options → Karnataka (Rs. 265623), just above Haryana (Rs. 264835); Haryana led at question time.",
+    "t": "Haryana is a very close second now and was first earlier; the book's current answer is Karnataka."
+  },
+  "02-081": {
+    "r": "Highest GSDP growth in 2010-11 among options → Bihar; in 2021-22 Chhattisgarh (11.71%) led these, Manipur (13.51%) highest overall."
+  },
+  "02-082": {
+    "r": "1990s: effective growth till 1996-97 (not stagnant); foodgrains rose 176.4 → 212.9 million tonnes (1990-91 to 2001-02) → both A and R false.",
+    "c": "Answer not printed; explanation says both A and R are incorrect, which no option covers."
+  },
+  "02-083": {
+    "r": "Book answer: A false (per capita income has improved along with national income since 1947); R true (sizeable population still below poverty line).",
+    "c": "Printed answer (d) says A false, R true, but the explanation says A true, R false."
+  },
+  "02-084": {
+    "r": "Rural incomes lower than urban → farmers lack scientific-agriculture knowledge, primary products priced below manufactured goods, low investment in agriculture (all three).",
+    "hi": ["Primary products (प्राथमिक उत्पाद)"]
+  },
+  "02-085": {
+    "r": "Capital formation → depends on savings and effective financial institutions; investment is its essential factor (both true).",
+    "hi": ["Capital formation (पूंजी निर्माण)"]
+  },
+  "02-086": {
+    "r": "Low growth despite high savings and capital formation → high capital-output ratio (capital needed for one unit of output).",
+    "h": "High COR = more capital for the same output = slower growth.",
+    "hi": ["Capital-output ratio (पूंजी-उत्पाद अनुपात)"]
+  },
+  "02-087": {
+    "r": "High saving economy but output rises little → high capital-output ratio; lower COR means higher productivity of capital and faster growth."
+  },
+  "02-088": {
+    "r": "Slow growth of per capita income in India → high capital-output ratio and high population growth (not capital formation or fiscal deficits)."
+  },
+  "02-089": {
+    "r": "Low per capita income in Uttar Pradesh → fast-growing population, lack of entrepreneurship, inadequate infrastructure; modernization of agriculture is not a cause."
+  },
+  "02-090": {
+    "r": "Economic growth must occur with capital formation (saving part of income and investing it) → the most important factor of growth."
+  },
+  "02-091": {
+    "r": "Most supportive for 8% or more growth in near future → implementing all stalled productive projects; GST, skills, ease of doing business help long-term."
+  },
+  "02-092": {
+    "r": "Slow growth of real per capita income → rapid population growth, high price rise, slow agricultural and industrial growth; foreign exchange is now sufficient."
+  },
+  "02-093": {
+    "r": "Highest gross domestic savings rate in 2001-2010 decade → 2007-08 (37.8% of GDP at current market prices)."
+  },
+  "02-094": {
+    "r": "Gross domestic savings rate then → 20-25% of GDP (23.9% in 1995-96; 22.8% in 1996-97)."
+  },
+  "02-095": {
+    "r": "Gross domestic savings rate 2012-13 → 33.9% of GDP, so none of the options."
+  },
+  "02-096": {
+    "r": "Savings ratio 2006-07 → above 32% of GDP (34.9% at current market prices)."
+  },
+  "02-097": {
+    "r": "Largest contributor to savings in India → household sector (2001-02: 23.6% of GDP out of total 26.0%)."
+  },
+  "02-098": {
+    "r": "Question period → share of private corporate sector in savings increased (3.4% in 2001-02 to 10.2% in 2005-06)."
+  },
+  "02-099": {
+    "r": "Highest share in household savings → physical assets (more than deposits, currency, shares and debentures)."
+  },
+  "02-100": {
+    "r": "Share in savings (descending) → household sector > private corporate sector > public corporations/enterprises > government.",
+    "h": "H-P-P-G: Household, Private, Public, Government."
+  },
+  "03-001": {
+    "r": "Nodal institution for coordination and implementation of SDGs (Agenda 2030) in India → NITI Aayog.",
+    "hi": ["Sustainable Development Goals (सतत विकास लक्ष्य)"]
+  },
+  "03-002": {
+    "r": "SDG Index 2016 → India 110th of 149 countries; SDG Index 2024 (SDSN) → 109th of 167 (score 63.99)."
+  },
+  "03-003": {
+    "r": "SDG Index 2017 → India 116th of 157 nations; 2023 → 112th of 166; 2024 → 109th of 167."
+  },
+  "03-004": {
+    "r": "SDG India Index (NITI Aayog) 2019 and 2020-21 → Uttar Pradesh in 'Performer' category; Kerala topped both; Gujarat not in top five."
+  },
+  "03-008": {
+    "r": "SDG India Index 2019 → Gujarat 'Performer' (64), not Front-Runner; 2020-21 → Gujarat Front-Runner (69); Kerala (75), Himachal, Tamil Nadu (74) front-runners.",
+    "c": "Answer not printed; by 2019 index (c) Gujarat fits, but by 2020-21 all four are Front-Runners."
+  },
+  "03-009": {
+    "r": "SDG Urban Index 2021-22 (NITI Aayog, November 2021) → 1. Shimla, 2. Coimbatore, 3. Chandigarh and Thiruvananthapuram; Indore not in top ten."
+  },
+  "03-010": {
+    "r": "SDG-6 → Clean Water and Sanitation: availability and sustainable management of water and sanitation for all by 2030 (17 SDGs)."
+  },
+  "03-011": {
+    "r": "SDG-10 → Reduced inequalities; SDG-13 → Climate Action; SDG-14 → Life below water; SDG-15 → Life on Land.",
+    "h": "Sea before land: 14 water, 15 land."
+  },
+  "03-012": {
+    "r": "Annual SDG Progress Report → presented by UN Secretary General from global indicator framework and national statistical data (true); Global Sustainable Development Report → once every four years."
+  },
+  "03-013": {
+    "r": "'Limits to Growth' → Club of Rome (born April 1968 at a meeting in Rome); report published 1972."
+  },
+  "03-014": {
+    "r": "Limits to Growth (Meadows, 1972) → limits reached in the next 100 years if trends continue unchanged; in 2004 Meadows cut it to 30 years."
+  },
+  "03-015": {
+    "r": "Environmental Kuznets Curve → inverted 'U': environment worsens with early growth, then improves after a certain level of per capita GDP.",
+    "hi": ["Environmental degradation (पर्यावरणीय क्षरण)"]
+  },
+  "03-016": {
+    "r": "Term 'Sustainable Development' introduced in 1980 → IUCN's world conservation strategy.",
+    "t": "Don't confuse 1980 (term introduced) with 1987 (Brundtland Report definition)."
+  },
+  "03-017": {
+    "r": "Sustainable development (Brundtland Report, 'Our Common Future') → meets present needs without compromising future generations' needs → A and R true, R explains A.",
+    "hi": ["Sustainable development (सतत विकास)"]
+  },
+  "03-018": {
+    "r": "Saving energy and resources for the future without sacrificing present comfort → sustainable development (modern concept from 1987 Brundtland Report)."
+  },
+  "03-020": {
+    "r": "Balancing resource use with conserving resources for the future → sustainable development (WCED report 'Our Common Future', 1987)."
+  },
+  "03-021": {
+    "r": "Sustainable development is inherently linked with carrying capacity → maximum population an area can support sustainably.",
+    "hi": ["Carrying capacity (वहन क्षमता)"]
+  },
+  "03-022": {
+    "r": "Base of sustainable development → environmental approach (outlook)."
+  },
+  "03-023": {
+    "r": "Sustainable economic development → development of present generation that conserves natural resources for future generations (inter-generational use of natural resources)."
+  },
+  "03-025": {
+    "r": "Neemrana, a model of sustainable economic development → Alwar district, Rajasthan."
+  },
+  "03-026": {
+    "r": "Sustainable tourism aim → manage tourism and environment while maintaining cultural integrity and ecological processes."
+  },
+  "03-027": {
+    "r": "India-Norway Task Force on Blue Economy for Sustainable Development → launched January 2019.",
+    "hi": ["Blue economy (नीली अर्थव्यवस्था)"]
+  },
+  "03-028": {
+    "r": "Social capital → level of mutual trust and harmony in society (relationships, networks, shared norms); not literacy, buildings or working-age population.",
+    "hi": ["Social capital (सामाजिक पूंजी)"]
+  }
+}

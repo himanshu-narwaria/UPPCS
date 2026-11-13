@@ -1,0 +1,210 @@
+{
+ "20-063": {
+  "r": "Public Finance → studies Government revenue, public expenditure and financial administration; NOT the functioning of commercial banks."
+ },
+ "21-001": {
+  "r": "Order of precedence: President → Vice-President → Prime Minister → Speaker (Lok Sabha) → Members of Parliament.",
+  "hi": [
+   "Order of Precedence (पूर्वता क्रम)"
+  ]
+ },
+ "21-002": {
+  "r": "Precedence: Chief Justice of India → Union Cabinet Minister → Chief Election Commissioner → Cabinet Secretary."
+ },
+ "21-003": {
+  "r": "Precedence: President; Vice-President; PM; Governors (within own State); Former Presidents; Deputy PM (5A); then CJI and Lok Sabha Speaker (equal).",
+  "t": "Former President ranks ABOVE the Chief Justice; Attorney General and Service Chiefs rank below."
+ },
+ "21-005": {
+  "r": "Precedence 9A → UPSC Chairman, Chief Election Commissioner and CAG (equal); High Court Chief Justice → 14; so 'more than one' comes first."
+ },
+ "21-006": {
+  "r": "Topmost civilian officer of Government of India → Cabinet Secretary; ex-officio head of Civil Services Board, Cabinet Secretariat, IAS and all Civil Services."
+ },
+ "22-001": {
+  "r": "Minimum age: Lok Sabha member → 25 years; Rajya Sabha (Council of States) → 30 years (Article 84(b)).",
+  "h": "Upper House, older members: Lok 25, Rajya 30."
+ },
+ "22-004": {
+  "r": "Not correct: rolls under President → electoral rolls prepared under Election Commission's control (Art 324(1)); Lok Sabha elections on adult suffrage (Art 326).",
+  "hi": [
+   "Adult suffrage (वयस्क मताधिकार)"
+  ]
+ },
+ "22-005": {
+  "r": "Lok Sabha nomination paper → any citizen of India whose name is on the electoral roll of any parliamentary constituency (Section 4(d), RP Act, 1951).",
+  "t": "Need not be a resident of the constituency he contests from."
+ },
+ "22-006": {
+  "r": "State-wise Lok Sabha seats → allotted by Population (Art 81), on the 1971 Census; equal-ratio rule not applied to States with population up to six million.",
+  "hi": [
+   "Census (जनगणना)"
+  ]
+ },
+ "22-009": {
+  "r": "Lok Sabha seat allocation on 1971 Census → frozen till 2026 by 84th Amendment Act, 2001 (Art 81(3) proviso); delimitation of constituencies also frozen.",
+  "h": "1971 census, frozen till 2026."
+ },
+ "22-012": {
+  "r": "Constitutional maximum of Lok Sabha → 550 (530 States + 20 UTs); earlier 552 with 2 Anglo-Indians (Art 331), whose nomination ended 25 January 2020."
+ },
+ "22-013": {
+  "r": "Lok Sabha seats raised by 7th Amendment, 1956 (520) and 31st Amendment, 1973 (525 → 545); present maximum 550 (530 States + 20 UTs)."
+ },
+ "22-014": {
+  "r": "31st Amendment Act, 1973 → Lok Sabha strength 525 → 545; State seats 500 → 525; UT seats 25 → 20."
+ },
+ "22-015": {
+  "r": "Maximum Lok Sabha strength (Art 81) → 550 (530 States + 20 UTs); present strength → 543 (524 States + 19 UTs).",
+  "t": "Don't mix 550 (maximum) with 543 (present); 2 Anglo-Indian nominations ended 25 January 2020."
+ },
+ "22-017": {
+  "r": "Art 81 → not more than 530 members from States and not more than 20 from Union Territories; of 543 seats in 2009, 530 were from States."
+ },
+ "22-019": {
+  "r": "Lok Sabha seats for UTs → up to 20 (Art 81); now 19 (Delhi 7, J&K 5, Dadra-Daman 2, others 1 each); UT seats in Rajya Sabha → 8."
+ },
+ "22-020": {
+  "r": "Art 330 → SC/ST reservation in Lok Sabha; Art 331 → Anglo-Indian nomination (ended January 2020, 104th Amendment, 2019); Art 332 → SC/ST in State Assemblies.",
+  "h": "330 = Lok Sabha, 332 = State Assemblies (Centre before State)."
+ },
+ "22-021": {
+  "r": "No ST reservation in Lok Sabha → Kerala and Tamil Nadu; Karnataka and Meghalaya got ST seats (2 each) after 2008 delimitation."
+ },
+ "22-022": {
+  "r": "No SC/ST Lok Sabha reservation → Arunachal Pradesh and Jammu & Kashmir; after 2008 both Meghalaya seats reserved for STs.",
+  "c": "Book prints two answers, (a) and (b)."
+ },
+ "22-023": {
+  "r": "After 2008 delimitation: SC seats in Lok Sabha → 84 (earlier 79); ST → 47 (earlier 41); general → 412; all voters elect reserved seats.",
+  "t": "No separate electorate: reserved SC/ST seats are voted on by all voters of the constituency."
+ },
+ "22-024": {
+  "r": "SC/ST seats in a State (Art 330(2)) → in proportion to their population share; e.g. 42-seat West Bengal SC 8 → 10, Andhra 6 → 7 after 2008.",
+  "c": "Answer not printed; explanation says no option fits, though 7 (Andhra after 2008) is listed; the answer depends on the State."
+ },
+ "22-025": {
+  "r": "Most ST-reserved Lok Sabha seats → Madhya Pradesh (6); Jharkhand, Odisha 5 each; Gujarat, Chhattisgarh, Maharashtra 4 each; none in UP and Bihar."
+ },
+ "22-028": {
+  "r": "Anglo-Indian nominees to Lok Sabha → President could nominate up to 2 (Art 331); provision not extended beyond 25 January 2020 (One Hundred and Fourth Amendment, 2019)."
+ },
+ "22-031": {
+  "r": "Lok Sabha dissolved before its term → by President on recommendation of PM/Council of Ministers (Art 85(2)(b)); not at President's or Speaker's discretion.",
+  "hi": [
+   "Dissolution (विघटन)"
+  ]
+ },
+ "22-033": {
+  "r": "Art 85(1): President summons Parliament at any time and place he thinks fit; gap between sessions max six months; no minimum sitting days and no 'three sessions' rule."
+ },
+ "22-034": {
+  "r": "Lok Sabha usually holds 3 sessions: Budget (February-May), Monsoon (July-August), Winter (November-December); Art 85 requires at least two a year."
+ },
+ "22-035": {
+  "r": "Lok Sabha sitting ends by Adjournment (by Speaker), Prorogation or Dissolution (both by President, Art 85(2)).",
+  "hi": [
+   "Prorogation (सत्रावसान)",
+   "Adjournment (स्थगन)"
+  ]
+ },
+ "22-036": {
+  "r": "Summoning = convocation; Prorogation ends a session; Dissolution ends the House; prorogation is by the President (Art 85(2)), not the leader of the House."
+ },
+ "22-038": {
+  "r": "Lok Sabha term → five years (Art 83(2)); in Emergency Parliament may extend it by law one year at a time, not beyond six months after Emergency ends."
+ },
+ "22-039": {
+  "r": "Art 85(1): gap between two sessions cannot exceed six months → Lok Sabha must meet at least two times a year."
+ },
+ "22-040": {
+  "r": "Quorum of Lok Sabha (and Rajya Sabha) → 1/10 of total members of the House (Art 100(3)).",
+  "hi": [
+   "Quorum (गणपूर्ति)"
+  ]
+ },
+ "22-043": {
+  "r": "Largest number of Lok Sabha members → Uttar Pradesh (80); West Bengal 42, Bihar 40, Madhya Pradesh 29."
+ },
+ "22-044": {
+  "r": "Largest representation in both Houses → Uttar Pradesh: 80 Lok Sabha seats, 31 Rajya Sabha seats.",
+  "h": "UP = 80 + 31."
+ },
+ "22-045": {
+  "r": "Lok Sabha seats now: UP 80, Maharashtra 48 (second), West Bengal 42 (third), Bihar 40, Tamil Nadu 39, Madhya Pradesh 29.",
+  "c": "Answer not printed; explanation implies Bihar then Maharashtra for the 1994 paper; today Maharashtra and West Bengal rank second and third."
+ },
+ "22-047": {
+  "r": "Rajasthan → 25 Lok Sabha seats (4 SC, 3 ST)."
+ },
+ "22-048": {
+  "r": "Uttarakhand → 5 Lok Sabha members."
+ },
+ "22-049": {
+  "r": "Before 2000: Bihar's 54 Lok Sabha seats = Madhya Pradesh 40 + Assam 14; after Jharkhand split, Bihar 40, Jharkhand 14; MP now 29."
+ },
+ "22-050": {
+  "r": "Equal Lok Sabha seats (before 2014) → Andhra Pradesh and West Bengal, 42 each; Telangana took 17, Andhra now 25; Punjab 13, Assam 14, Gujarat 26, Rajasthan 25."
+ },
+ "22-052": {
+  "r": "Lok Sabha seats: Maharashtra 48; Chhattisgarh 11; Andhra Pradesh 25; West Bengal 42; Tamil Nadu 39 (Telangana 17, UP 80)."
+ },
+ "22-053": {
+  "r": "One Lok Sabha seat each → Chandigarh, Sikkim, Mizoram, Andaman and Nicobar, Lakshadweep, Nagaland, Puducherry."
+ },
+ "22-054": {
+  "r": "Two Lok Sabha seats each → Tripura, Arunachal Pradesh, Goa, Manipur, Meghalaya."
+ },
+ "22-055": {
+  "r": "Largest Lok Sabha constituency by area → Ladakh (173266 sq km), then Barmer, Kachchh; smallest → Chandni Chowk, Delhi (10.59 sq km)."
+ },
+ "22-056": {
+  "r": "Among the options, largest UP Lok Sabha constituency by voters → Unnao; largest in the whole State → Ghaziabad."
+ },
+ "22-057": {
+  "r": "Malogam (Anjaw district, Arunachal Pradesh) → polling station for a lone woman voter in 2024 Lok Sabha polls; Arunachal East seat, Hayuliang Assembly seat."
+ },
+ "22-058": {
+  "r": "Shompen tribe (PVTG, Great Nicobar) → voted for the first time on 19 April 2024, for the Andaman and Nicobar Lok Sabha seat.",
+  "hi": [
+   "Particularly Vulnerable Tribal Groups (विशेष रूप से कमजोर जनजातीय समूह)"
+  ]
+ },
+ "22-059": {
+  "r": "Lok Sabha poll expenditure limit → raised to Rs 95 lakh by Election Commission (January 2022); Assembly limit Rs 40 lakh (earlier Rs 28 lakh).",
+  "c": "Answer not printed; options reflect an older limit and the explanation gives only the 2022 figures."
+ },
+ "22-060": {
+  "r": "Lok Sabha security deposit: earlier Rs 10,000 (general) / Rs 5,000 (SC/ST); since 2010 → Rs 25,000 / Rs 12,500; Assembly → Rs 10,000 / Rs 5,000."
+ },
+ "22-061": {
+  "r": "Candidate loses security deposit if he fails to get more than one-sixth (1/6) of valid votes polled in the constituency."
+ },
+ "22-062": {
+  "r": "First Lok Sabha general election → 25 October 1951 to 21 February 1952, for 489 seats; first session began 13 May 1952."
+ },
+ "22-063": {
+  "r": "5th Lok Sabha → tenure about 6 years (15 March 1971 to 18 January 1977)."
+ },
+ "22-064": {
+  "r": "9th Lok Sabha → constituted 2 December 1989, dissolved 13 March 1991."
+ },
+ "22-065": {
+  "r": "12th Lok Sabha → elections February-March 1998; constituted 10 March 1998; dissolved 26 April 1999."
+ },
+ "22-066": {
+  "r": "13th Lok Sabha → constituted 10 October 1999, dissolved early on 6 February 2004; did not complete its five-year term."
+ },
+ "22-067": {
+  "r": "Wrong pair: 7th Lok Sabha election → 1980, not 1982; 9th → 1989; 11th → 1996; 13th → 1999."
+ },
+ "22-068": {
+  "r": "Lok Sabha Elections 2024 → 7 phases, 19 April to 1 June 2024; schedule released 16 March; results 4 June 2024."
+ },
+ "22-069": {
+  "r": "Leader of Lok Sabha → Prime Minister (if a member); a Rajya Sabha PM nominates another minister (e.g. Pranab Mukherjee under Manmohan Singh, 14th Lok Sabha).",
+  "hi": [
+   "Leader of the House (सदन का नेता)"
+  ]
+ }
+}

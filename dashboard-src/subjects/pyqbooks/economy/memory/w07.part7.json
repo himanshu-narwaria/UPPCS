@@ -1,0 +1,184 @@
+{
+ "19-032": {
+  "r": "Highest population growth among Indonesia, Japan, Philippines, Singapore → Philippines (1.41% in 2015-20; Indonesia 1.14%)."
+ },
+ "19-033": {
+  "r": "Over-population usually marks high-density areas, not low-density ones (A false); low carrying capacity statement is true (R true)."
+ },
+ "19-034": {
+  "r": "Most densely populated continent → Asia (151 persons/sq km, 2022); Africa 48, Europe 34, South America 25, North America 20."
+ },
+ "19-035": {
+  "r": "Lowest density among South America, North America, Europe, Africa → North America (then and now)."
+ },
+ "19-036": {
+  "r": "Lowest density among Canada, Finland, Norway, Russia → Canada (4 persons/sq km, 2022); Russia 9, Norway and Finland 18."
+ },
+ "19-037": {
+  "r": "Lowest density among options → Mongolia (2 persons/sq km, 2022); Saudi Arabia 17, Afghanistan 63, Iraq 102."
+ },
+ "19-038": {
+  "r": "Most densely populated SAARC country → Maldives (1746/sq km, 2022); Bangladesh 1315, India 477, Sri Lanka 348, Pakistan 306, Nepal 208.",
+  "t": "Maldives, not Bangladesh, tops SAARC density; Bangladesh is second."
+ },
+ "19-039": {
+  "r": "Highest population density among Sri Lanka, India, Nepal, Pakistan → India."
+ },
+ "19-040": {
+  "r": "Most densely populated in East Asia → South Korea (524/sq km, 2022); Japan 329, North Korea 217, China 149."
+ },
+ "19-041": {
+  "r": "Most densely populated in South America (given) → Ecuador (72/sq km, 2022); Colombia 46, Venezuela 31, Bolivia 11."
+ },
+ "19-042": {
+  "r": "High density in Nile Valley and Java → intensive agriculture on fertile land (Nile called the 'Boon of Egypt')."
+ },
+ "19-043": {
+  "r": "Most favourable sex-ratio among Sweden, Switzerland, Netherlands, Finland → Finland (97.7 in 2022; fewest males per hundred females). Sweden 101.6."
+ },
+ "19-044": {
+  "r": "Sex-ratio 2011, best first: Bangladesh > Pakistan > India > China. 2022 males per 100 females: Bangladesh 98.3, Pakistan 101.8, China 104.2, India 106.6."
+ },
+ "19-045": {
+  "r": "Fear of falling world sex-ratio → increasing sex determination tests."
+ },
+ "19-046": {
+  "r": "World population by religion, descending: Christians > Muslims > Hindus > Buddhists.",
+  "h": "C-M-H-B, largest first: Christians, Muslims, Hindus, Buddhists."
+ },
+ "19-047": {
+  "r": "Literacy, question time: Sri Lanka > India > Pakistan > Bangladesh. Now (World Bank): Sri Lanka 92% > India 76% = Bangladesh 76% > Pakistan 58%."
+ },
+ "19-048": {
+  "r": "World urban share → 55.3% (2018, UN-DESA World Urbanization Prospects); projected 68.4% by 2050; 56.2% in 2020 (UN-Habitat)."
+ },
+ "19-049": {
+  "r": "Acceleration stage of the urbanization curve → second stage (urbanization speeds up as industrialization occurs)."
+ },
+ "19-050": {
+  "r": "World urban share → about 54.5% (2016, UN); 55.3% (2018); 57% (2022, World Bank)."
+ },
+ "19-051": {
+  "r": "About seventy percent of the world's population expected to be urban by 2050 (UN estimate at question time)."
+ },
+ "19-052": {
+  "r": "UN-Habitat (set up 1978) → UNGA mandate for socially and environmentally sustainable towns and adequate shelter for all; partners are not only governments → 1 and 3."
+ },
+ "19-053": {
+  "r": "Fastest urbanization in last three decades (UN-Habitat Global Report 2009) → Asia; world urban population 751 million (1950) → 4.2 billion (2018), Asia 54%."
+ },
+ "19-054": {
+  "r": "UN-Habitat city prosperity criteria → productivity, quality of life, equality etc.; optimum population is not one."
+ },
+ "19-055": {
+  "r": "World population became more urban than rural for the first time in 2008 (UNFPA).",
+  "c": "Book prints answer '*': the correct year 2008 is not among the options."
+ },
+ "19-056": {
+  "r": "Largest urban population → China (897.6 million, 2022); India 508.4, USA 276.9, Indonesia 159.6 million."
+ },
+ "19-057": {
+  "r": "Most urbanized continent → Australia/New Zealand (86.3%, 2020); North America 82.6, Europe 74.9, Africa 43.5 (World Cities Report 2022)."
+ },
+ "19-058": {
+  "r": "Most urbanized among East Asia, South Asia, Europe, Oceania → Europe (74.9%, 2020); Oceania 68.2, East Asia 64.8, South Asia 36.6.",
+  "t": "Oceania as a whole (68.2%) trails Europe, though Australia/New Zealand alone is most urbanized."
+ },
+ "19-059": {
+  "r": "At question time USA's total population exceeded India's urban population; now none of Indonesia, Brazil, Russia, USA does."
+ },
+ "19-060": {
+  "r": "Most urbanized country → Singapore (100% urban, 2022); Hong Kong, Kuwait, Monaco, Macao, Nauru etc. also 100%."
+ },
+ "19-061": {
+  "r": "Most urbanized in South America (given) → Uruguay (96%, 2022); Argentina 92.0%, Brazil and Venezuela 88%."
+ },
+ "19-062": {
+  "r": "Urbanization at question time: Pakistan > India > Bangladesh > Sri Lanka. 2022 (World Bank): Bangladesh 40% > Pakistan 38% > India 36% > Sri Lanka 19%."
+ },
+ "19-063": {
+  "r": "Most urbanized in South Asia (given): Pakistan at question time; now Bhutan (44%, 2022) > Pakistan 38% > India 36% > Sri Lanka 19%."
+ },
+ "19-064": {
+  "r": "Most urbanized in West Asia → Kuwait (100%, 2022); Qatar 99%, Israel 93%, Saudi Arabia 85%."
+ },
+ "19-065": {
+  "r": "Largest urban agglomeration → Tokyo (Tokyo-Yokohama), also Asia's largest city; top five 2018: Tokyo, Delhi, Shanghai, Sao Paulo, Mexico City."
+ },
+ "19-067": {
+  "r": "In world's 10 largest cities: only Greater Mumbai at question time; now Mumbai and Delhi (UN 2018 order: Tokyo, Delhi, Shanghai, Sao Paulo...).",
+  "c": "Book prints two answers: (c) Mumbai fitted when asked; (d) Delhi also fits today."
+ },
+ "19-068": {
+  "r": "Urbanization follows industrialization (A true); in developing countries urbanization is a movement in itself (R true) but not the explanation."
+ },
+ "19-069": {
+  "r": "Asian cities are over-urbanized because urban growth outpaced economic development (more slums) → A and R true, R explains A."
+ },
+ "19-070": {
+  "r": "Western cities have more females (women move for urban jobs); farming there is mechanized and male-dominated → A and R true, R explains A."
+ },
+ "19-071": {
+  "r": "Highest share of economically active women (1996, given) → China; 2023 female labour participation: China 61%, USA 57%, South Korea 56%, Russia 54%."
+ },
+ "19-072": {
+  "r": "International migrants = 2.8% of world population (173 million, 2000), not two percent (A false); Oceania has highest migrant share (R true). 2022 report: 281 million, 3.6%."
+ },
+ "19-073": {
+  "r": "Highest migrant share of population → UAE now (88%, 2020), then Qatar; Australia at question time."
+ },
+ "19-074": {
+  "r": "Largest migrant population → Europe (81.7 million, 2020); Northern America 53.3, Africa 15.8, Oceania 9.0."
+ },
+ "19-075": {
+  "r": "China's growth slowed sharply: one-child policy (1979) cut TFR from about 5.0 in the 1970s to below replacement by early 1990s → A and R true, R explains A."
+ },
+ "19-076": {
+  "r": "Lowest fertility among Australia, France, Italy, Sweden → Italy (TFR 1.3, 2024); Australia 1.6, Sweden 1.7, France 1.8."
+ },
+ "19-077": {
+  "r": "Lowest TFR among China, Italy, Sweden, USA: Italy at question time; now China (1.2) < Italy (1.3) < Sweden and USA (1.7)."
+ },
+ "19-078": {
+  "r": "Highest birth rate in South Asia (given) → Afghanistan (35 per 1000, TFR 4.5, 2022); Pakistan 27, Bangladesh 17, India 16."
+ },
+ "19-079": {
+  "r": "Highest life expectancy among Canada, Germany, Japan, Norway → Japan (84.8 years, 2022); Norway 83.4, Canada 82.8, Germany 81.0."
+ },
+ "19-080": {
+  "r": "Highest life expectancy in the world → Japan (84.8 years, 2022), then Liechtenstein (84.7) (HDR 2023/2024).",
+  "hi": [
+   "Life expectancy (जीवन प्रत्याशा)"
+  ]
+ },
+ "19-081": {
+  "r": "Asian country with more deaths than births → Japan (population growth -0.1% a year in 2005-10)."
+ },
+ "19-082": {
+  "r": "Highest maternal mortality among Nepal, India, Bangladesh, Indonesia → Nepal (174 per lakh live births, 2020); Indonesia 173, Bangladesh 123, India 103.",
+  "hi": [
+   "Maternal mortality ratio (मातृ मृत्यु अनुपात)"
+  ]
+ },
+ "19-083": {
+  "r": "Largest share of aged (65+) in South Asia (given) → Sri Lanka (12%, 2024); Bhutan and India 7%, Nepal 6%."
+ },
+ "19-084": {
+  "r": "About 80% of the world's population is not protected by social security.",
+  "hi": [
+   "Social security (सामाजिक सुरक्षा)"
+  ]
+ },
+ "19-085": {
+  "r": "Poorest South Asian country: Bangladesh (World Development Report 2006); Afghanistan per latest estimates."
+ },
+ "19-086": {
+  "r": "India → first country in the world to officially launch a National Family Planning Programme (1952).",
+  "hi": [
+   "Family planning (परिवार नियोजन)"
+  ]
+ },
+ "19-088": {
+  "r": "Best biodiversity estimate (book) → about forty-five million species, some 100 lost daily, only 1.5 million identified; IUCN: 1.5 to 1.8 million named, maybe 5 to 10 million exist."
+ }
+}

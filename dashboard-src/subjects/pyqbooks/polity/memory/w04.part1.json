@@ -1,0 +1,271 @@
+{
+ "25-014": {
+  "r": "PAC → reports to Speaker, presented in Lok Sabha (copy laid in Rajya Sabha); max 22 members: 15 from Lok Sabha + up to 7 from Rajya Sabha.",
+  "t": "Don't flip the split: 15 members come from Lok Sabha, only 7 from Rajya Sabha.",
+  "hi": [
+   "Public Accounts Committee (लोक लेखा समिति)"
+  ]
+ },
+ "25-015": {
+  "r": "PAC → formed every year, not more than 22 members (15 Lok Sabha + 7 Rajya Sabha); examines CAG audit report and reports to Parliament."
+ },
+ "25-016": {
+  "r": "PAC submits its report to the Speaker of Lok Sabha → presented in Lok Sabha; members: 15 (Lok Sabha) + 07 (Rajya Sabha) = 22.",
+  "h": "PAC formula 15 + 07 = 22; the bigger share and the report both go to Lok Sabha."
+ },
+ "25-019": {
+  "r": "PAC → examines CAG report and scrutinises appropriation and finance accounts of Government; has 22 members (15 LS + 7 RS), not '25 Lok Sabha members'."
+ },
+ "25-020": {
+  "r": "Chairman of PAC → appointed by Speaker of Lok Sabha from among its members; till 1966-67 from ruling party, since 1967-68 an opposition member.",
+  "hi": [
+   "Speaker (लोकसभा अध्यक्ष)"
+  ]
+ },
+ "25-021": {
+  "r": "Public Accounts Committee → Financial Committee; Committee on Petitions → Functional Committee; Joint Committee on Stock Market Scam → Ad hoc; Departmental Committees → Standing.",
+  "hi": [
+   "Ad hoc Committee (तदर्थ समिति)",
+   "Standing Committee (स्थायी समिति)"
+  ]
+ },
+ "25-022": {
+  "r": "Estimates Committee (first 1950) → 30 members, all from Lok Sabha, no Rajya Sabha member; PAC and Public Undertakings Committee → 22 (15 LS + 7 RS).",
+  "h": "Estimates = Exclusively Lok Sabha.",
+  "t": "Don't confuse Estimates Committee (30, Lok Sabha only) with PAC (22, both Houses).",
+  "hi": [
+   "Estimates Committee (प्राक्कलन समिति)"
+  ]
+ },
+ "25-025": {
+  "r": "Financial Committees (3) → Estimates, Public Accounts, Public Undertakings; Joint Committee on Salaries and Allowances of MPs is a Housekeeping Committee.",
+  "t": "Salaries and Allowances committee deals with money but is Housekeeping, not Financial."
+ },
+ "25-026": {
+  "r": "Three Financial Committees of Parliament → Public Accounts Committee, Estimates Committee, Committee on Public Undertakings.",
+  "h": "PEP: Public Accounts, Estimates, Public Undertakings.",
+  "hi": [
+   "Committee on Public Undertakings (सार्वजनिक उपक्रम समिति)"
+  ]
+ },
+ "25-027": {
+  "r": "CAG audit report → examined by Public Accounts Committee; Committee on Public Undertakings also examines CAG reports, so book accepts (a) and (c)."
+ },
+ "25-028": {
+  "r": "Parliamentary committees → Standing and Ad hoc; three main Standing Committees: Estimates, Public Accounts, Public Undertakings; 17 Department-related Standing Committees came in 1993.",
+  "c": "No answer printed (*): the explanation treats the listed committees as standing committees, so no option fits as 'not standing'."
+ },
+ "25-029": {
+  "r": "Lok Sabha Ethics Committee → initially ad hoc; cannot take up sub-judice matters; complaints not limited to Lok Sabha members. First Ethics Committee: Rajya Sabha, 1997.",
+  "hi": [
+   "Ethics Committee (आचार समिति)"
+  ]
+ },
+ "25-030": {
+  "r": "Parliamentary Committees exist on Public Undertakings, Government Assurances (tracks ministers' promises) and Estimates; none on Welfare of Minorities."
+ },
+ "25-031": {
+  "r": "Department-related Standing Committees: Social Justice & Empowerment, Urban Development, Labour → under Lok Sabha; Health and Family Welfare → under Rajya Sabha."
+ },
+ "25-032": {
+  "r": "Consultative Committees of MPs for Railway Zones → constituted by Ministry of Parliamentary Affairs; MPs of the respective zones are members.",
+  "t": "Not the Ministry of Railways, even though the committees are for railway zones.",
+  "hi": [
+   "Consultative Committee (परामर्शदात्री समिति)"
+  ]
+ },
+ "25-033": {
+  "r": "18th Lok Sabha committees 2024-25 (Speaker Om Birla): PAC → K.C. Venugopal; Estimates → Sanjay Jaiswal; Public Undertakings → Baijayant Panda (so 'Estimates – Panda' is wrong)."
+ },
+ "25-034": {
+  "r": "2G spectrum Joint Parliamentary Committee (2011) → 30 MPs: 20 from Lok Sabha + 10 from Rajya Sabha.",
+  "hi": [
+   "Joint Parliamentary Committee (संयुक्त संसदीय समिति)"
+  ]
+ },
+ "25-035": {
+  "r": "2G Scam Joint Parliamentary Committee → headed by P.C. Chacko; report given to Lok Sabha Speaker Meira Kumar."
+ },
+ "25-036": {
+  "r": "Committee on Subordinate Legislation → checks whether Executive properly uses delegated power to make regulations, rules, sub-rules, by-laws.",
+  "t": "Don't confuse with Committee on Government Assurances, which checks ministers' promises made on the floor of the House.",
+  "hi": [
+   "Subordinate Legislation (अधीनस्थ विधान)"
+  ]
+ },
+ "25-037": {
+  "r": "Committee on Subordinate Legislation → delegated rule-making by Executive; exists in both Houses, 15 members each, nominated by Speaker/Chairman; ministers cannot be members.",
+  "t": "The official name is 'Subordinate' Legislation, not 'Delegated', 'Executive' or 'Administrative' Legislation."
+ },
+ "25-038": {
+  "r": "Independent regulators (telecom, insurance, electricity) → reviewed by Parliament's ad hoc committees and Department-related Standing Committees (24); not Finance Commission, FSLRC or NITI Aayog."
+ },
+ "26-001": {
+  "r": "Prevention of Food Adulteration Act → enacted 1954; came into effect 1 June 1955."
+ },
+ "26-002": {
+  "r": "Protection of Civil Rights (PCR) Act, 1955, Section 15 → all offences are cognizable and summarily triable.",
+  "hi": [
+   "Cognizable offence (संज्ञेय अपराध)"
+  ]
+ },
+ "26-003": {
+  "r": "PCR Act 1955 offences → tried by Judicial Magistrate First Class (special courts); in UP, Chief Judicial Magistrate/Judicial Magistrate courts are designated Special Courts."
+ },
+ "26-004": {
+  "r": "PCR Act 1955 → all offences are cognizable, triable summarily and non-compoundable.",
+  "c": "Book prints two answers, (a) and (b)."
+ },
+ "26-005": {
+  "r": "PCR Act 1955 → Section 15(1): all offences cognizable; Section 10A(1): State Government can impose collective fine; punishment is imprisonment and fine.",
+  "c": "Book prints two answers, (a) and (d)."
+ },
+ "26-006": {
+  "r": "PCR Act 1955, Section 5 → refusing admission to hospital, dispensary or educational institution on ground of untouchability; jail one to six months plus fine.",
+  "hi": [
+   "Untouchability (अस्पृश्यता)"
+  ]
+ },
+ "26-007": {
+  "r": "PCR Act 1955, Section 10A → power of State Government to impose collective fine.",
+  "hi": [
+   "Collective fine (सामूहिक जुर्माना)"
+  ]
+ },
+ "26-008": {
+  "r": "Protection of Civil Rights Act, 1955 → Section 1(2): extends to the whole of India."
+ },
+ "26-009": {
+  "r": "PCR Act 1955 → punishes preaching and practice of untouchability and enforcing any disability from it; extends to whole of India (Section 1(2))."
+ },
+ "26-010": {
+  "r": "PCR Act 1955: Section 14 → offences by companies; Section 10 → abetment (public servant neglecting investigation); Section 12 → presumption by courts."
+ },
+ "26-011": {
+  "r": "PCR Act 1955, offence by a company → person in charge of its affairs (Director, Manager or Secretary) deemed guilty and punished."
+ },
+ "26-012": {
+  "r": "PCR Act 1955, Section 12 → court presumes act was on ground of untouchability when victim is a member of a Scheduled Caste.",
+  "t": "Presumption covers Scheduled Castes only, not Scheduled Tribes."
+ },
+ "26-013": {
+  "r": "Untouchability is not an offence when the accused and the victim belong to the same social group."
+ },
+ "26-014": {
+  "r": "PCR Act 1955, Section 12 → court can presume 'untouchability' motive when offence is against a member of the Scheduled Castes (unless contrary proved)."
+ },
+ "26-015": {
+  "r": "PCR Act 1955, Section 14A → protection of action taken in good faith (no suit against Central or State Government)."
+ },
+ "26-016": {
+  "r": "PCR Rules 1977 at Centre → Ministry of Home Affairs, Social Justice & Empowerment and Tribal Affairs (not Minority Affairs); main responsibility with States/UTs."
+ },
+ "26-017": {
+  "r": "Women's reservation in urban local bodies → 74th Amendment, not 73rd. Hindu Marriage Act 1955; Hindu Succession Act 1956; Sati (Prevention) Act 1987.",
+  "t": "Don't confuse 73rd with 74th Amendment: urban local bodies come under the 74th."
+ },
+ "26-018": {
+  "r": "Indian High Court Act → 1861; Indian Divorce Act → 1869; Royal Title Act → 1876; Indian Arms Act → 1878."
+ },
+ "26-019": {
+  "r": "Protection of Women from Domestic Violence Act, 2005 → came into force on 26 October 2006.",
+  "t": "Act year 2005, but in force from 2006."
+ },
+ "26-020": {
+  "r": "MISA (Maintenance of Internal Security Act, 1971; repealed 1977) → security law, not a social Act; Anti-Dowry, PCR, Immoral Traffic Acts are social Acts."
+ },
+ "26-021": {
+  "r": "Criminal Tribes Act → first enacted 1871 by the British; first in northern India, later extended to Bengal."
+ },
+ "26-022": {
+  "r": "SC and ST (Prevention of Atrocities) Act, 1989 → President's assent 11 September 1989; came into force 30 January 1990.",
+  "t": "Act year is 1989, but it came into force in 1990."
+ },
+ "26-024": {
+  "r": "SC and ST (Prevention of Atrocities) Act, 1989 → has 23 Sections."
+ },
+ "26-025": {
+  "r": "SC/ST (Prevention of Atrocities) Act, 1989, Section 23(1) → Central Government makes rules by notification in the Official Gazette."
+ },
+ "26-026": {
+  "r": "SC/ST (Prevention of Atrocities) Act, 1989 → 'economic boycott' defined in Section 2(bc)."
+ },
+ "26-027": {
+  "r": "SC/ST Atrocities Act, 1989 → public servant committing an offence under Section 3 → minimum one year imprisonment."
+ },
+ "26-028": {
+  "r": "SC/ST Atrocities Act, 1989: Section 14 → Special Court and Exclusive Special Court for speedy trial; Section 15 → Special Public Prosecutor.",
+  "hi": [
+   "Special Court (विशेष न्यायालय)"
+  ]
+ },
+ "26-029": {
+  "r": "SC/ST Atrocities Act, Section 14 → State Government, with concurrence of Chief Justice of High Court, notifies a Court of Session as Special Court for each district."
+ },
+ "26-030": {
+  "r": "Court of Session made Special Court under SC/ST Atrocities Act (Section 14) → purpose: speedy trial."
+ },
+ "26-031": {
+  "r": "Appeal under SC/ST (Prevention of Atrocities) Act, 1989 → lies to the High Court on both facts and law."
+ },
+ "26-032": {
+  "r": "SC/ST (Prevention of Atrocities) Act, 1989 → based on Doctrine of Protective Discrimination; implements the system under Article 15(4).",
+  "hi": [
+   "Protective discrimination (संरक्षात्मक विभेद)"
+  ]
+ },
+ "26-033": {
+  "r": "SC/ST (Prevention of Atrocities) Act, 1989, Section 16 → State Government imposes and realises collective fine.",
+  "t": "Not the District Magistrate or Special Court; the power is with the State Government."
+ },
+ "26-034": {
+  "r": "SC/ST Atrocities Act, 1989, Section 8 → court may presume abetment, common intention and common object."
+ },
+ "26-035": {
+  "r": "SC/ST Atrocities Act, 1989, Section 6 → applies certain Indian Penal Code provisions (e.g. Sections 34, 149); IPC now replaced by Bharatiya Nyaya Sanhita, 2023."
+ },
+ "26-036": {
+  "r": "SC/ST Atrocities Rules, 1995 → investigating officer to finish investigation within thirty days and report to Superintendent of Police; rule changed by Amendment Rules, 2016.",
+  "c": "No answer printed (*): the 30-day rule of 1995 was changed in 2016, so the book treats the question as outdated."
+ },
+ "26-037": {
+  "r": "SC/ST (Prevention of Atrocities) Act, 1989 → anticipatory bail is barred.",
+  "hi": [
+   "Anticipatory bail (अग्रिम जमानत)"
+  ]
+ },
+ "26-038": {
+  "r": "SC/ST Atrocities Act, 1989, Section 18 → anticipatory bail (Section 438) does not apply to arrests under this Act."
+ },
+ "26-039": {
+  "r": "SC/ST Atrocities Act offences → investigated by police officer not below Deputy Superintendent rank (Central rules of 1995)."
+ },
+ "26-040": {
+  "r": "Special Court (SC/ST Atrocities Act) can forfeit convict's property, remove suspect from area, take measurements/photographs; cannot authorise a non-police person for extra investigation."
+ },
+ "26-041": {
+  "r": "Special Court (SC/ST Atrocities Act) → can remove a person, forfeit property, take measurements; cannot impose collective fine."
+ },
+ "26-042": {
+  "r": "SC/ST Atrocities Act prosecution → accused cannot plead private defence or 'only slight harm'; can plead he belongs to victim's caste.",
+  "c": "No single answer printed (*); the explanation says both (a) and (c) are correct."
+ },
+ "26-043": {
+  "r": "SC/ST Atrocities Act → non-SC/ST person harming SC/ST member on allegation of witchcraft → jail six months to five years, plus fine."
+ },
+ "26-044": {
+  "r": "SC/ST Atrocities Act: 'Exclusive Special Court' → Section 2(1)(bd), not 2(d); 'Victim' → 2(ec); 'Dependent' → 2(bb); offences are by non-SC/ST persons."
+ },
+ "26-045": {
+  "r": "SC/ST (Prevention of Atrocities) Rules, 1995, Rule 17 → District Level Vigilance and Monitoring Committee, set up by District Magistrate in each district."
+ },
+ "26-046": {
+  "r": "SC/ST (Prevention of Atrocities) Rules, 1995, Rule 18 → 'Material for Annual Report'."
+ },
+ "26-047": {
+  "r": "RTI Act → passed Lok Sabha 11 May, Rajya Sabha 12 May 2005; President's assent 15 June 2005; in force 12 October 2005 (after 120 days); a legal right.",
+  "hi": [
+   "Right to Information (सूचना का अधिकार)"
+  ]
+ }
+}

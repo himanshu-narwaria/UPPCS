@@ -1,0 +1,532 @@
+{
+ "07-025": {
+  "r": "Art. 215 → High Courts are courts of record; Art. 222 → transfer of judges between High Courts; Art. 226 → writ jurisdiction; Art. 227 → superintendence over all courts.",
+  "hi": [
+   "Court of Record (अभिलेख न्यायालय)"
+  ]
+ },
+ "07-026": {
+  "r": "Part VIII (Union Territories): Art. 239 → administration of UTs; Art. 240 → President's regulations; Art. 241 → High Courts for UTs; Art. 242 → repealed."
+ },
+ "07-027": {
+  "r": "Art. 76 → Attorney General; Art. 148 → CAG; Art. 75(1) → appointment of Union Ministers; Art. 131 → original jurisdiction of Supreme Court."
+ },
+ "07-028": {
+  "r": "Art. 14 → equality before law; Art. 41 → right to work; Art. 42 → just, humane work conditions; Art. 45 → now early childhood care and education below six.",
+  "c": "Answer not printed; pairs fit option (b), but free and compulsory education is no longer the content of Art. 45, so the book leaves it unmarked."
+ },
+ "07-029": {
+  "r": "Art. 371C → special provisions for Manipur, not Meghalaya; 371A → Nagaland; 371B → Assam; 371D → Andhra Pradesh.",
+  "t": "Don't confuse Manipur (371C) with Meghalaya."
+ },
+ "08-001": {
+  "r": "12 Schedules now; originally 8; 9th added by 1st Amendment 1951 (validation of Acts); 10th by 52nd Amendment 1985 (anti-defection).",
+  "hi": [
+   "Schedule (अनुसूची)"
+  ]
+ },
+ "08-003": {
+  "r": "Constitution originally had 22 Parts (not 20) and 395 Articles (not 390); Ninth, Tenth, Eleventh and Twelfth Schedules were added by amendments (Ninth by First Amendment, 1951)."
+ },
+ "08-004": {
+  "r": "First Schedule → States and Union Territories; Second → salaries of public officials, Judges, CAG; Third → oaths and affirmations; Fourth → Rajya Sabha seats."
+ },
+ "08-005": {
+  "r": "Creating a new State or UT → amend the First Schedule (list of States and Union Territories)."
+ },
+ "08-006": {
+  "r": "Fourth Schedule → allocation of seats in the Council of States (Rajya Sabha)."
+ },
+ "08-007": {
+  "r": "Third Schedule → oaths for Union Ministers, Parliament candidates, MPs, Supreme Court judges, CAG, State ministers and legislators; President's oath is not in it."
+ },
+ "08-008": {
+  "r": "Third Schedule → oaths and affirmations; Fourth → Rajya Sabha seats; Seventh → Union, State and Concurrent subject lists; Eighth → languages."
+ },
+ "08-009": {
+  "r": "Scheduled Areas and Scheduled Tribes → Fifth Schedule, not Sixth; Sixth → tribal areas of Assam, Meghalaya, Tripura, Mizoram; Fourth → Rajya Sabha seats; Seventh → Union List.",
+  "t": "Don't confuse Fifth (Scheduled Areas) with Sixth (tribal areas of four North-East States)."
+ },
+ "08-010": {
+  "r": "4th Schedule → Council of States seats; 6th → tribal areas of Assam, Meghalaya, Tripura, Mizoram; 8th → languages; 9th → land reforms."
+ },
+ "08-011": {
+  "r": "7th Schedule → distribution of legislative powers (three lists); 8th → languages; 9th → validation of certain Acts; 10th → disqualification on defection.",
+  "h": "7-8-9-10: Lists, Languages, Land laws, Leaving party (defection)."
+ },
+ "08-013": {
+  "r": "Allocation of Rajya Sabha seats → Fourth Schedule, not Ninth; Third → oaths; Eighth → languages; Tenth → anti-defection."
+ },
+ "08-014": {
+  "r": "Ninth Schedule → added by First Amendment Act 1951, under PM Jawaharlal Nehru, to protect zamindari abolition laws.",
+  "hi": [
+   "Ninth Schedule (नौवीं अनुसूची)"
+  ]
+ },
+ "08-015": {
+  "r": "State land reform and zamindari abolition laws → protected in the 9th Schedule, inserted by First Amendment, June 1951.",
+  "hi": [
+   "Land reforms (भूमि सुधार)"
+  ]
+ },
+ "08-016": {
+  "r": "Parliament can place a law in the Ninth Schedule (true); such laws are not beyond court review, per Supreme Court ruling of 2007 (false). Entries: originally 13, now 284."
+ },
+ "08-017": {
+  "r": "Coelho case ('9th Schedule case') → courts can review Ninth Schedule laws for violating the basic structure of the Constitution.",
+  "hi": [
+   "Basic structure (मूल ढाँचा)"
+  ]
+ },
+ "08-018": {
+  "r": "Three legislative lists (Union, State, Concurrent) → Seventh Schedule."
+ },
+ "08-019": {
+  "r": "Original lists: Union List 97 entries (now 98); State List 66 (now 59); Concurrent List 47 (now 52).",
+  "h": "Union up by one, State down by seven, Concurrent up by five."
+ },
+ "08-020": {
+  "r": "Economic and Social Planning → Concurrent List, Entry 20; the Planning Commission was set up under this entry.",
+  "hi": [
+   "Concurrent List (समवर्ती सूची)"
+  ]
+ },
+ "08-022": {
+  "r": "Prevention of cruelty to animals → Concurrent List (Entry 17), Seventh Schedule."
+ },
+ "08-023": {
+  "r": "Criminal law (IPC, now BNS 2023) → Concurrent List; Police → State List; Foreign Affairs, Radio and Television → Union List."
+ },
+ "08-024": {
+  "r": "Population control and family planning → Concurrent List (Entry 20-A, 42nd Amendment 1976); public health and sanitation, treasure trove, per-person tax → State List."
+ },
+ "08-025": {
+  "r": "Concurrent List → adulteration of foodstuffs and goods (Entry 18), succession (Entry 5); inter-State trade → Union List (Entry 42); trade within State → State List (Entry 26)."
+ },
+ "08-026": {
+  "r": "Concurrent List → protection of wild animals and birds (Entry 17B) and price control; income on agriculture and electricity tax are not Concurrent. Parliament's law prevails in conflict."
+ },
+ "08-027": {
+  "r": "Rajya Sabha seat allocation → Fourth Schedule, not Second; Public Health → State List; Census → Union List; Anti-defection → Tenth Schedule."
+ },
+ "08-028": {
+  "r": "Education → moved from State List (Entry 11) to Concurrent List by 42nd Amendment, 1976; Concurrent List now has 52 subjects."
+ },
+ "08-030": {
+  "r": "42nd Amendment, 1976 → moved forests, education and protection of wild animals and birds from State List to Concurrent List.",
+  "h": "42nd moved a FEW subjects: Forests, Education, Wildlife."
+ },
+ "08-031": {
+  "r": "Stock Exchange → Union List (not Concurrent); Post Office Savings Bank → Union; Public Health → State; Forest → Concurrent (originally State)."
+ },
+ "08-032": {
+  "r": "Census → Union List; Police and public order → State List; population control and family planning → Concurrent List; space research → residuary (with Centre).",
+  "hi": [
+   "Residuary subject (अवशिष्ट विषय)"
+  ]
+ },
+ "08-033": {
+  "r": "Education links to all five: DPSP (Art. 45, 86th Amendment 2002), local bodies (Arts 243G, 243W), Fifth, Sixth and Seventh Schedules. Tenth Schedule → anti-defection."
+ },
+ "08-036": {
+  "r": "Banking, Insurance, Census → Union List; Gas → State List."
+ },
+ "08-037": {
+  "r": "Defence, Foreign Affairs, Railways → Union List; Agriculture → State List."
+ },
+ "08-038": {
+  "r": "Railway Police → State List; Education, Electricity, Forest → Concurrent List."
+ },
+ "08-039": {
+  "r": "Railway Police → State List (Railways → Union List); Corporation Tax, Census → Union List; Economic and Social Planning → Concurrent List.",
+  "t": "Don't confuse Railways (Union List) with Railway Police (State List)."
+ },
+ "08-040": {
+  "r": "Local government (Panchayati Raj) → State List, Entry 5, Seventh Schedule."
+ },
+ "08-041": {
+  "r": "Criminal Procedure → Concurrent List; Public Order, Prisons, Police → State List."
+ },
+ "08-042": {
+  "r": "Marriage, divorce, adoption → Concurrent List (List III), Entry 5, Seventh Schedule."
+ },
+ "08-043": {
+  "r": "Elections to Parliament, State Legislatures, President and Vice-President → List I, Entry 72; elections to State Legislature subject to Parliament's law → List II, Entry 37.",
+  "c": "Book prints two answers, (a) and (c)."
+ },
+ "08-044": {
+  "r": "Power to levy taxes and fees → Seventh Schedule (three lists); Art. 246 distributes legislative powers, including taxation, between Parliament and States."
+ },
+ "08-045": {
+  "r": "Inter-State quarantine and inter-State migration → Union List, Entry 81; inter-State trade and commerce → Union List, Entry 42; corporation tax is not a State subject."
+ },
+ "08-046": {
+  "r": "Land reforms → State List; land reform Acts protected by the Ninth Schedule, added by 1st Amendment Act, 1951."
+ },
+ "08-047": {
+  "r": "Anti-defection law → Tenth Schedule, added by 52nd Amendment Act, 1985; lays down disqualification of legislators on grounds of defection.",
+  "hi": [
+   "Anti-defection law (दल-बदल विरोधी कानून)"
+  ]
+ },
+ "08-049": {
+  "r": "Fifth Schedule (Scheduled Areas and Tribes) → Samatha vs State of Andhra Pradesh, 1997: transfer of tribal land to private parties for mining is void."
+ },
+ "08-050": {
+  "r": "Area under Fifth Schedule → transfer of tribal land to non-tribals can be prevented; President declares scheduled areas (10 States have them); Governor can amend regulations."
+ },
+ "08-051": {
+  "r": "Fifth Schedule → administration and control of Scheduled Areas and Scheduled Tribes in all States except Assam, Meghalaya, Tripura and Mizoram.",
+  "hi": [
+   "Scheduled Tribes (अनुसूचित जनजाति)"
+  ]
+ },
+ "08-052": {
+  "r": "Fifth Schedule → Scheduled Areas and Scheduled Tribes, except in Assam, Tripura, Meghalaya, Mizoram, whose tribal areas fall under the Sixth Schedule.",
+  "t": "Don't confuse Fifth (Scheduled Areas, several States) with Sixth (tribal areas of four North-East States)."
+ },
+ "08-053": {
+  "r": "Fifth and Sixth Schedules → special provisions to protect the interests of Scheduled Tribes."
+ },
+ "08-054": {
+  "r": "Sixth Schedule → tribal areas of Assam, Meghalaya, Tripura, Mizoram (through Arts 244(2), 275(1)); aim: preserve tribal culture.",
+  "h": "AMTM: Assam, Meghalaya, Tripura, Mizoram."
+ },
+ "08-055": {
+  "r": "Sixth Schedule covers Assam, Tripura, Meghalaya and Mizoram; Manipur is not covered.",
+  "t": "Manipur is a North-East State but not a Sixth Schedule State."
+ },
+ "08-058": {
+  "r": "Scheduled Areas → notified by President's order (Art. 244(1)); States with them must set up a Tribal Advisory Council (para 4, Fifth Schedule).",
+  "hi": [
+   "Tribal Advisory Council (जनजाति सलाहकार परिषद)"
+  ]
+ },
+ "08-059": {
+  "r": "Scheduled Area is notified by President's order (true); largest unit is the district, lowest a cluster of villages in a block (true); the Chief Ministers statement is false."
+ },
+ "08-060": {
+  "r": "Fifth Schedule area: State keeps its executive power there (no local body takeover); Union cannot take over its administration on Governor's recommendation; both statements false."
+ },
+ "08-061": {
+  "r": "Sixth Schedule Autonomous District Council: 30 members (true); Governor directs how Parliament's Acts apply in Assam's autonomous districts (true); '24 elected, 6 nominated' is false."
+ },
+ "08-062": {
+  "r": "Eleventh Schedule → Panchayati Raj; added by 73rd Amendment, 1992; 29 subjects.",
+  "h": "Panchayat trio: 73rd Amendment, Eleventh Schedule, 29 subjects."
+ },
+ "08-063": {
+  "r": "Powers and responsibilities of Panchayats → Eleventh Schedule (Art. 243G), added by 73rd Amendment Act 1992; 29 entries."
+ },
+ "09-001": {
+  "r": "Preamble gives the adoption date → 'this twenty-sixth day of November, 1949'.",
+  "hi": [
+   "Preamble (प्रस्तावना)"
+  ]
+ },
+ "09-002": {
+  "r": "On 26 January 1950 India was 'A Sovereign Democratic Republic'; 'socialist', 'secular' and 'integrity' were added by 42nd Amendment Act, 1976."
+ },
+ "09-004": {
+  "r": "Preamble reflects the mind of the Constitution's makers; K.M. Munshi called it the political horoscope."
+ },
+ "09-006": {
+  "r": "Preamble: 3 types of justice, 5 of liberty, 2 of equality, 1 fraternity → 3, 5, 2, 1.",
+  "h": "Justice: social, economic, political (3); Liberty: thought, expression, belief, faith, worship (5); Equality: status, opportunity (2)."
+ },
+ "09-007": {
+  "r": "Preamble order: Sovereign, Socialist, Secular, Democratic, Republic (as amended by 42nd Amendment, 1976); word 'People's' is not in it (it is in China's Constitution).",
+  "h": "Three S's, then D, then R: SSS-D-R."
+ },
+ "09-008": {
+  "r": "42nd Amendment inserted 'Socialist' and 'Secular' into the Preamble; 'Sovereign' and 'Republic' were already in the original Preamble."
+ },
+ "09-009": {
+  "r": "Preamble order: Sovereign → Socialist → Secular → Democratic → Republic; then Justice, Liberty, Equality, Fraternity."
+ },
+ "09-012": {
+  "r": "'Socialist' → added to the Preamble by 42nd Amendment Act (1976), along with 'secular' and 'integrity'.",
+  "hi": [
+   "Socialist (समाजवादी)",
+   "Secular (पंथनिरपेक्ष)"
+  ]
+ },
+ "09-015": {
+  "r": "42nd Amendment Act 1976 (on Swaran Singh Committee's advice) → added 'Socialist', 'Secular' and 'Integrity' to the Preamble."
+ },
+ "09-016": {
+  "r": "Preamble describes India as a Secular State; 'Secular' was added by 42nd Amendment Act, 1976."
+ },
+ "09-017": {
+  "r": "'Integrity' was not in the Preamble in 1975; added in 1976 by 42nd Amendment; Fraternity, Sovereign, Equality were original words."
+ },
+ "09-019": {
+  "r": "Preamble: grew from Nehru's Objectives Resolution; non-justiciable; can be amended (Kesavananda Bharati, 1973); cannot override specific provisions of the Constitution."
+ },
+ "09-021": {
+  "r": "42nd Amendment, 1976 changed the Preamble: 'Sovereign Democratic Republic' → 'Sovereign Socialist Secular Democratic Republic'; 'unity of the Nation' → 'unity and integrity of the Nation'."
+ },
+ "09-022": {
+  "r": "Original Preamble (26 November 1949): Sovereign, Democratic, Republic. 'Socialist', 'Secular' and 'Integrity' added by 42nd Amendment, 1976; 'Reliable', 'Non-religious' never in it."
+ },
+ "09-027": {
+  "r": "Preamble secures: Justice (social, economic, political); Liberty (thought, expression, belief, faith, worship); Equality (status, opportunity); Fraternity (dignity of individual, unity and integrity)."
+ },
+ "09-028": {
+  "r": "'Sovereign socialist secular democratic republic' was substituted for 'Sovereign Democratic Republic' by 42nd Amendment Act 1976, the only Preamble amendment so far; A and R true."
+ },
+ "09-029": {
+  "r": "'We, the People of India' (opening words of the Preamble) → people's sovereignty: India is governed by its Constitution, not by any external power."
+ },
+ "09-031": {
+  "r": "'All individuals are fully and equally human' → Universalism: everyone is entitled to human rights without discrimination."
+ },
+ "09-032": {
+  "r": "Secular in India → no official religion of the State; State treats all religions equally (positive secularism).",
+  "hi": [
+   "Secularism (पंथनिरपेक्षता)"
+  ]
+ },
+ "09-033": {
+  "r": "'Federal' is not in the Preamble; it has Sovereign, Socialist, Secular, Democratic, Republic."
+ },
+ "09-034": {
+  "r": "'Public Welfare' is not in the Preamble; Socialist, Secular and Sovereign are."
+ },
+ "09-035": {
+  "r": "Preamble liberty → thought, expression, belief, faith and worship; economic liberty is not included."
+ },
+ "09-036": {
+  "r": "Preamble justice → social, economic, political; 'religious justice' is not mentioned."
+ },
+ "09-037": {
+  "r": "'Socialist' and 'Secular' were not in the Preamble when the Constitution came into force in 1950; inserted by 42nd Amendment Act, 1976 (not 1977 or 1985)."
+ },
+ "09-038": {
+  "r": "Preamble → 'Soul of the Constitution'; K.M. Munshi called it the 'horoscope of our sovereign democratic republic'."
+ },
+ "09-040": {
+  "r": "B.R. Ambedkar → held that the Constitution must be treated as a basic and sacred document; chaired the Drafting Committee from 1947."
+ },
+ "09-041": {
+  "r": "Berubari case (1960) → Supreme Court first held that the Preamble is not an integral part of the Constitution."
+ },
+ "09-042": {
+  "r": "S.R. Bommai vs Union of India (1994) → Preamble is an integral part of the Constitution; Kesavananda Bharati (1973, 13 judges) → Basic Structure doctrine."
+ },
+ "09-043": {
+  "r": "Kesavananda Bharati case → Supreme Court treated the Preamble as part of the basic structure of the Constitution.",
+  "hi": [
+   "Basic structure (मूल ढाँचा)"
+  ]
+ },
+ "09-044": {
+  "r": "Preamble's ideals are elaborated in Fundamental Rights, Directive Principles and Fundamental Duties; the Preamble reflects the Constitution's objectives."
+ },
+ "09-046": {
+  "r": "Preamble → 3 types of justice: social, economic and political."
+ },
+ "09-048": {
+  "r": "Economic Justice → in the Preamble and in DPSP (e.g. Art. 38(1): a social order with social, economic and political justice)."
+ },
+ "09-049": {
+  "r": "Preamble → part of the Constitution (Kesavananda Bharati, 1973) but not enforceable in court; it has no legal effect on its own."
+ },
+ "09-050": {
+  "r": "Preamble: not enforceable in courts, important and useful, states aims of governance, aids judicial interpretation; amended only once, 1976 (42nd Amendment).",
+  "c": "No answer printed: explanation says all four statements are correct, but no option lists 1, 2, 3 and 4."
+ },
+ "09-051": {
+  "r": "Social equality is guaranteed by the Constitution → Right to Equality, Arts 14-18; the Preamble also aims at it."
+ },
+ "10-001": {
+  "r": "State (Garner) → community of people permanently occupying a definite territory, independent of external control, with an organised government the people obey.",
+  "hi": [
+   "State (राज्य)"
+  ]
+ },
+ "10-002": {
+  "r": "Four elements of a State: population, territory, government, sovereignty; sovereignty is the most important (pre-1947 India lacked it).",
+  "hi": [
+   "Sovereignty (संप्रभुता)"
+  ]
+ },
+ "10-003": {
+  "r": "India is a Commonwealth member and accepts the British Crown as Commonwealth head (1947 declaration), but this extra-constitutional step does not curtail its sovereignty."
+ },
+ "10-004": {
+  "r": "Idea of the Preamble → from the US Constitution; its language → from the Australian Constitution.",
+  "t": "Don't confuse the idea (USA) with the language (Australia)."
+ },
+ "10-005": {
+  "r": "Indian Constitution → Parliamentary form of government, modelled on the UK; executive draws legitimacy from and is accountable to the legislature.",
+  "hi": [
+   "Parliamentary system (संसदीय प्रणाली)"
+  ]
+ },
+ "10-006": {
+  "r": "In a Parliamentary system, the Legislature controls the Executive."
+ },
+ "10-007": {
+  "r": "Parliamentary (Cabinet) system → Government drawn from and responsible to Parliament; stays in power only while it has majority support in the popular house."
+ },
+ "10-008": {
+  "r": "Parliamentary form of government first emerged in Great Britain (UK)."
+ },
+ "10-009": {
+  "r": "India's parliamentary system differs from Britain's by having judicial review (from US Constitution); real and nominal executive, collective responsibility, bicameralism are common to both."
+ },
+ "10-010": {
+  "r": "British Parliament is sovereign; Indian Parliament's law-making power is limited, and constitutionality of amendments goes to a Supreme Court Constitution Bench. Both statements true."
+ },
+ "10-011": {
+  "r": "Indian Constitution features: Parliamentary government, independent judiciary, federal government; Presidential government is not a feature."
+ },
+ "10-012": {
+  "r": "India has Parliamentary, not Presidential, government: President is nominal head; real executive is Council of Ministers under PM; India is secular and federal."
+ },
+ "10-013": {
+  "r": "India is Parliamentary because the executive (Council of Ministers under PM) is collectively responsible to the legislature, mainly Lok Sabha (Art. 75(3)); A and R true, R explains A."
+ },
+ "10-014": {
+  "r": "India has a Parliamentary system because the Council of Ministers is responsible to the Lok Sabha; executive members come from the legislature."
+ },
+ "10-015": {
+  "r": "Main advantage of Parliamentary government → the executive stays responsible to the legislature, giving a responsible government."
+ },
+ "10-016": {
+  "r": "Parliamentary government implies: Cabinet members are MPs; ministers stay while they enjoy Parliament's confidence; Cabinet is not headed by Head of State. Non-MP minister goes after six months (Art. 75(5))."
+ },
+ "10-017": {
+  "r": "Parliamentary government: executive responsible to legislature, majority rule, collective responsibility, nominal and real executives, double membership, PM's leadership, dissolution of lower house."
+ },
+ "10-018": {
+  "r": "Cabinet form (responsible government) → mechanism of parliamentary democracy ensuring collective responsibility of the Government to the people."
+ },
+ "10-019": {
+  "r": "Presidential government → all executive powers vest in the President, who is both head of State and head of Government."
+ },
+ "10-020": {
+  "r": "Indian political system: democratic republic, parliamentary government, supreme power with the people; no unified authority, as powers are separated between Union and States."
+ },
+ "10-021": {
+  "r": "India is a democratic polity, a sovereign state, a democratic society and (through DPSP) a welfare state; all four true.",
+  "hi": [
+   "Welfare State (कल्याणकारी राज्य)"
+  ]
+ },
+ "10-022": {
+  "r": "Indian polity: government following the Constitution, democratic government, rule of law; authoritarian government is not a feature."
+ },
+ "10-023": {
+  "r": "Central and State governments both get their authority from the Constitution, which sets up the parliamentary (Westminster) system at Centre and in States."
+ },
+ "10-024": {
+  "r": "India is democratic and has its own written Constitution, but a constitution does not make a country democratic (UK is democratic without one); A and R true, R not explanation."
+ },
+ "10-025": {
+  "r": "Good governance features: accountability, transparency, rule of law; red tapism (excess regulation blocking action) is not one."
+ },
+ "10-026": {
+  "r": "Welfare State → State protects and promotes citizens' social and economic well-being, especially weaker sections; based on equal opportunity and fair distribution of wealth."
+ },
+ "10-027": {
+  "r": "'The State is everywhere: it leaves hardly a gap' → describes the Welfare State."
+ },
+ "10-028": {
+  "r": "Constitution's philosophy (Preamble): welfare state, socialist state, political equality through adult franchise; a Communist State is not part of it."
+ },
+ "10-029": {
+  "r": "India is a Parliamentary Democracy, not presidential, not a titular monarchy, not an aristocracy."
+ },
+ "10-030": {
+  "r": "Main source of political power in India → the People ('We the People of India'); India is a democratic republic."
+ },
+ "10-031": {
+  "r": "Basic feature of Presidential government → single executive (power centralised in the President)."
+ },
+ "10-032": {
+  "r": "Presidential government: President heads State and executive, appoints his Council of Ministers, cannot dissolve the legislature → all three true."
+ },
+ "10-033": {
+  "r": "Presidential government first formed in the USA (oldest, purest form); President elected indirectly by the people for a fixed term."
+ },
+ "10-034": {
+  "r": "Indian democracy rests on the people's right to choose and change the Government through elections."
+ },
+ "10-035": {
+  "r": "Democracy's superior virtue → it calls into activity the intelligence and character of ordinary men and women."
+ },
+ "10-036": {
+  "r": "'India is a Republic' → no hereditary ruler; Head of State (President) is elected, indirectly, through people's representatives.",
+  "hi": [
+   "Republic (गणराज्य)"
+  ]
+ },
+ "10-038": {
+  "r": "Distribution of powers between Union and States makes the Constitution federal; in a unitary constitution all power lies with a central authority.",
+  "hi": [
+   "Federal (संघीय)"
+  ]
+ },
+ "10-039": {
+  "r": "Indian Constitution → partly rigid, partly flexible: some parts amended by simple majority, some by two-thirds (Art. 368), some also need ratification by 50% of States."
+ },
+ "10-040": {
+  "r": "Indian vs British system: India has judicial review, as Indian Parliament is subject to the Constitution; British Parliament is sovereign (no written constitution)."
+ },
+ "10-041": {
+  "r": "Constitution gives a federal system and a very strong Centre (A, R true, R not explanation); Ambedkar: federal in normal times, unitary in war or Emergency."
+ },
+ "10-042": {
+  "r": "Federalism is not fully practical in India (A true), but India is a federal state with divided powers (R false): federal in nature, unitary in spirit; Wheare: quasi-federal."
+ },
+ "10-043": {
+  "r": "Independence of the judiciary → essential federal feature, since the judiciary interprets the Constitution."
+ },
+ "10-044": {
+  "r": "Single citizenship is a unitary, not federal, feature; federal features: written and rigid Constitution, division of powers, independent judiciary, bicameral legislature.",
+  "t": "Single citizenship, Governors appointed by President and Emergency powers are unitary features."
+ },
+ "10-045": {
+  "r": "Unitary elements in Indian federation: appointment of Governor, President's approval of State bills, constitutional crisis (emergency); written, rigid, supreme Constitution are federal features."
+ },
+ "10-046": {
+  "r": "Unitary elements: appointment of Governors, unequal representation in Rajya Sabha, All India Services (also strong Centre, single citizenship)."
+ },
+ "10-047": {
+  "r": "Federal system is the basic structure (Seventh Schedule, Arts 245-255) with a strong unitary bias (true); Union and State legislatures are not both sovereign; statements 3 and 4 false."
+ },
+ "10-048": {
+  "r": "Unitary government: swift decisions, flexibility, uniform laws; not 'ideal for large countries'. Its traits: strong Centre, single citizenship, integrated judiciary, All-India Services."
+ },
+ "10-049": {
+  "r": "President of India is elected indirectly because the parliamentary system is combined with republicanism (no hereditary Head of State); A and R true, R explains A."
+ },
+ "10-050": {
+  "r": "Political parties are the life-blood of democracy (they form governments, shape policies); people blame them for bad governance; book: both true, R explains A."
+ },
+ "10-051": {
+  "r": "Party-less democracy → supported by both Mahatma Gandhi and Jayaprakash Narayan.",
+  "c": "Book prints two answers: (c) Mahatma Gandhi and (d) Jayaprakash Narayan."
+ },
+ "10-052": {
+  "r": "India's federal design aims to weave a nation from diverse parts and protect integration; accommodating diversity made nationhood stronger; A, R true, R explains A."
+ },
+ "10-053": {
+  "r": "Indian political system shows 'continuity and change': it mixes modern, traditional and saintly styles from Mauryan times on; A, R true, R explains A."
+ },
+ "10-054": {
+  "r": "Women, Dalits, poor and minorities → biggest stakeholders of Indian democracy, which carries their desire for self-respect; A, R true, R explains A."
+ },
+ "10-055": {
+  "r": "Constitution is the world's longest written one; reasons: many constitutions' experience, detailed administrative provisions, large country, Union and State constitutions together.",
+  "c": "No answer printed: book says all four options are true reasons, so no single option is correct."
+ },
+ "10-056": {
+  "r": "USA → federal government (federal republic of 50 States); India → Union of 28 States and 8 UTs (Art. 1)."
+ },
+ "10-057": {
+  "r": "Indian federalism is not the result of an agreement among federating units; its features: written Constitution, divided powers, independent judiciary, unequal Rajya Sabha representation."
+ }
+}

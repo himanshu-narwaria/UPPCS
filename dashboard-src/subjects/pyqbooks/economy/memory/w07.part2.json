@@ -1,0 +1,199 @@
+{
+ "17-175": {
+  "r": "Smallest male-female literacy gap, Census 2011 → Meghalaya (3.1 points: male 76%, female 72.9%); then Mizoram, Kerala, Nagaland."
+ },
+ "17-176": {
+  "r": "Largest male-female literacy gap among Kerala, UP, Mizoram, Gujarat → Uttar Pradesh: 20.1 points (male 77.3%, female 57.2%; total 67.7%), Census 2011."
+ },
+ "17-177": {
+  "r": "Census 2011: Lakshadweep most literate UT (male and female); Kerala most literate State (male and female), not Mizoram → statements 1, 3, 4 correct.",
+  "c": "Book prints answer '*': correct set 1, 3, 4 is not among the options."
+ },
+ "17-178": {
+  "r": "Female literacy 2001: Chhattisgarh (51.9) > Odisha (50.5) > Madhya Pradesh (50.3) > Rajasthan (43.9); Kerala highest in India (2001 and 2011)."
+ },
+ "17-179": {
+  "r": "Female literacy, Census 2011: provisional → highest Kerala, lowest Rajasthan; final → highest Kerala, lowest Bihar.",
+  "t": "Provisional lowest = Rajasthan; final lowest = Bihar. Check which figures the question asks."
+ },
+ "17-180": {
+  "r": "Lowest male and female literacy, Census 2011 → Bihar (male 71.2%, female 51.5%), lowest among all States/UTs."
+ },
+ "17-181": {
+  "r": "Female literacy 1991 descending: Kerala (86.1) > Mizoram (78.6) > Goa (67.1) > Nagaland (54.8); same order in 2011."
+ },
+ "17-182": {
+  "r": "Female literacy 2011: Mizoram 89.3% > Goa 84.7% > Himachal Pradesh 75.9% = Maharashtra 75.9%."
+ },
+ "17-183": {
+  "r": "Highest female literacy among Tamil Nadu, Maharashtra, Mizoram, Chandigarh → Mizoram (2001 and 2011; 89.3% in 2011)."
+ },
+ "17-184": {
+  "r": "Lowest female literacy 2001 → Bihar (33.1%); Jharkhand 38.9, UP 42.2, Chhattisgarh 51.9. 2011 lowest three: Bihar < Rajasthan < Jharkhand."
+ },
+ "17-185": {
+  "r": "Lowest female literacy among UP, Rajasthan, Kerala, Andhra Pradesh (Census 2011) → Rajasthan (52.1%)."
+ },
+ "17-186": {
+  "r": "Lowest female literacy, Census 2011: provisional → Rajasthan (52.66%); final → Bihar (51.5%)."
+ },
+ "17-188": {
+  "r": "Highest female literacy among UTs, Census 2011 → Lakshadweep (87.9%); Chandigarh 81.2%, Puducherry 80.7%, Daman and Diu 79.5%."
+ },
+ "17-189": {
+  "r": "Literacy 2011 (given States): Uttarakhand highest (78.8%); Madhya Pradesh 69.3%, Uttar Pradesh 67.7%, Andhra Pradesh 67.0%."
+ },
+ "17-190": {
+  "r": "Lowest literacy State, Census 2011 → Bihar (63.82% provisional; 61.8% final); highest → Kerala (93.9% provisional; 94.0% final)."
+ },
+ "17-191": {
+  "r": "Highest illiteracy (2001) and lowest literacy (2011) → Bihar; lowest five in 2011: Bihar (61.8%), Arunachal, Rajasthan, Jharkhand, Andhra Pradesh (67.0%).",
+  "hi": [
+   "Illiteracy (निरक्षरता)"
+  ]
+ },
+ "17-193": {
+  "r": "Odisha → literacy below national average in 2001 and 2011 (72.9% vs 73.0%), unlike Maharashtra, Gujarat, West Bengal."
+ },
+ "17-194": {
+  "r": "Lowest-literacy UT, Census 2011 → Dadra and Nagar Haveli (76.2%); Chandigarh 86.0, Daman and Diu 87.1, Lakshadweep 91.8."
+ },
+ "17-195": {
+  "r": "Literacy 1991 among given UTs: Chandigarh 77.81 > Delhi 75.29 > Pondicherry 74.74 > Andaman 73.02 > Dadra 40.71; so Pondicherry and Delhi pair highest."
+ },
+ "17-196": {
+  "r": "Rural literacy: Goa highest among Maharashtra, Manipur, Goa, Gujarat (79.67% in 2001). Overall Kerala first (93.0% in 2011), Goa second (86.6%)."
+ },
+ "17-197": {
+  "r": "Most literate district of Madhya Pradesh: Narsinghpur (Census 2001); Jabalpur (81.1%, Census 2011)."
+ },
+ "17-198": {
+  "r": "Uttarakhand literacy, Census 2011 → 79.63% (provisional); 78.8% (final)."
+ },
+ "17-199": {
+  "r": "Uttar Pradesh literacy, Census 2011 → 67.7% (male 77.3%, female 57.2%).",
+  "c": "Book prints answer '*': 67.7% is not among the options."
+ },
+ "17-200": {
+  "r": "Uttar Pradesh's literacy rank among States/UTs → 31st (Census 2001); 29th (Census 2011)."
+ },
+ "17-201": {
+  "r": "Top UP districts by literacy, Census 2011 provisional: Ghaziabad (85.00%) > Gautam Buddh Nagar (82.20%) > Kanpur Nagar (81.31%) > Auraiya (80.25%)."
+ },
+ "17-202": {
+  "r": "Top four UP districts by literacy, Census 2011 (final): Gautam Buddha Nagar (80.1%) > Kanpur Nagar (79.7%) > Auraiya (78.9%) > Etawah (78.4%).",
+  "t": "Provisional data put Ghaziabad first; final data put Gautam Buddha Nagar first."
+ },
+ "17-203": {
+  "r": "Most literate UP district, Census 2011 (final) → Gautam Buddh Nagar (80.1%), then Kanpur Nagar (79.7%); Ghaziabad 78.1%, Lucknow 77.3%."
+ },
+ "17-204": {
+  "r": "Census 2001, UP literacy 56.3%: top districts Kanpur Nagar (77.63%) > Auraiya (71.50%) > Ghaziabad > Etawah; Auraiya highest among the options."
+ },
+ "17-205": {
+  "r": "Lowest female literacy, UP districts (2011): Shravasti overall (34.8%); among options Rampur (44.4%); Ballia 59.8%, Deoria and Gorakhpur 59.4%."
+ },
+ "17-206": {
+  "r": "UP, Census 2011: lowest literacy Shravasti (46.7%); lowest density Lalitpur (242); highest sex-ratio Jaunpur (1024), not Deoria; most populous city Ghaziabad, not Kanpur.",
+  "hi": [
+   "Sex-ratio (लिंगानुपात)"
+  ]
+ },
+ "17-207": {
+  "r": "India's highest sex-ratio → 1901 Census (972 per 1000); 2011 sex-ratio 943. Decline was not continuous.",
+  "hi": [
+   "Sex-ratio (लिंगानुपात)"
+  ]
+ },
+ "17-208": {
+  "r": "India's sex-ratio → fluctuating: fell from 972 (1901) to 927 (1991), rose to 933 (2001) and 943 (2011)."
+ },
+ "17-209": {
+  "r": "Sharpest fall in sex-ratio among options → 1961-71 (941 → 930). Series: 1931 950, 1951 946, 1991 927, 2001 933, 2011 943 (not 925)."
+ },
+ "17-211": {
+  "r": "India's sex-ratio was 946 in Census 1951; 1921 → 955, 1941 → 945, 1971 → 930."
+ },
+ "17-212": {
+  "r": "Sex-ratio by Census: 1951 → 946; 1991 → 927 (not 938); 2001 → 933; 2011 → 943 (provisional 940).",
+  "c": "Book prints two answers, (b) and (d): 1991 was 927, and the final 2011 figure is 943, not 940."
+ },
+ "17-213": {
+  "r": "Females per thousand males around 2000: India 927 (1991 Census), World 990."
+ },
+ "17-214": {
+  "r": "Sex-ratio (male : female), Census 2001 → 1000 : 933; Census 2011 → 1000 : 943."
+ },
+ "17-215": {
+  "r": "Sex-ratio, Census 2011 → 940 provisional, 943 final (females per 1000 males); 2001 → 933.",
+  "t": "940 is the provisional figure; 943 is the final. Read 'provisional' in the question."
+ },
+ "17-219": {
+  "r": "Sex-ratio 2011 descending: Kerala > Puducherry > Tamil Nadu > Andhra Pradesh."
+ },
+ "17-220": {
+  "r": "Highest sex-ratio State, Census 2011 → Kerala (1084); Tamil Nadu 996, Manipur 992, Meghalaya 989."
+ },
+ "17-222": {
+  "r": "Kerala → only State with more females than males (1059 in 2001; 1084 in 2011); among UTs Puducherry also above 1000 (1037).",
+  "h": "Kerala 1084: the only State past 1000."
+ },
+ "17-224": {
+  "r": "Females outnumber males among UTs (Census 2011) → Puducherry (sex-ratio 1037)."
+ },
+ "17-225": {
+  "r": "Sex-ratio 2011: Tamil Nadu 996 > Andhra Pradesh 993 > Odisha 979 > Karnataka 973."
+ },
+ "17-226": {
+  "r": "Sex-ratio 2011: Tamil Nadu highest of options (996); Andhra Pradesh 993; Karnataka and Goa 973."
+ },
+ "17-227": {
+  "r": "Sex-ratio 2001: Chhattisgarh 989 > Andhra Pradesh 978 > Himachal Pradesh 968 > Jharkhand 941."
+ },
+ "17-228": {
+  "r": "India's sex-ratio 2011 → 943; Jharkhand (949) above it; Gujarat (919), Maharashtra (929), Madhya Pradesh (931) below."
+ },
+ "17-229": {
+  "r": "Census 2011 (age 7 and above): males outnumber females in Bihar, Maharashtra, Uttar Pradesh and West Bengal (all four)."
+ },
+ "17-230": {
+  "r": "Lowest sex-ratio State → Haryana (861 in 2001; 879 in 2011); 2001: Sikkim 875, Punjab 876, UP 898."
+ },
+ "17-231": {
+  "r": "Lowest sex-ratio → Haryana (861 in 2001, 879 in 2011). 2011 lowest States: Haryana < Jammu & Kashmir < Sikkim < Punjab < UP."
+ },
+ "17-232": {
+  "r": "Lowest sex-ratio State, Census 2011 → Haryana (879); Jammu & Kashmir 889, Sikkim 890, Punjab 895."
+ },
+ "17-233": {
+  "r": "Lowest sex-ratio State, Census 2011 → Haryana (879); Punjab 895, Uttar Pradesh 912, Bihar 918."
+ },
+ "17-234": {
+  "r": "Lowest sex-ratio State, Census 2011 → Haryana (879); Punjab 895, Rajasthan 928, Odisha 979."
+ },
+ "17-235": {
+  "r": "Haryana → top in per capita income among given States but lowest sex-ratio in India (879, Census 2011).",
+  "h": "Haryana: rich in income, poor in daughters."
+ },
+ "17-236": {
+  "r": "Sex-ratio 2001: Gujarat lowest of options (920); Manipur 978, Tamil Nadu 987, Chhattisgarh 989."
+ },
+ "17-237": {
+  "r": "Least females per 1000 males, Census 2011 → Daman and Diu (618); Dadra and Nagar Haveli 774, Haryana 879, Puducherry 1037."
+ },
+ "17-238": {
+  "r": "Lowest sex-ratio in India (State/UT) → Daman and Diu: 710 (2001), 618 (2011)."
+ },
+ "17-241": {
+  "r": "Biggest sex-ratio fall 1991-2001 → Daman and Diu (960 → 710; 618 in 2011); Dadra and Nagar Haveli 952 → 812."
+ },
+ "17-242": {
+  "r": "Biggest sex-ratio rise 1991-2001 → Arunachal Pradesh (859 → 893; 938 in 2011); Kerala 1036 → 1059, Uttarakhand 936 → 962."
+ },
+ "17-243": {
+  "r": "Sex-ratio rose in 1991-2001 only in Uttarakhand (936 → 962); fell in Delhi (827 → 821), Haryana (865 → 861), Punjab (882 → 876)."
+ },
+ "17-244": {
+  "r": "UP sex-ratio: 898 (2001) → 908 (2011 provisional), a rise of 10; final 2011 figure 912 (rise of 14)."
+ }
+}

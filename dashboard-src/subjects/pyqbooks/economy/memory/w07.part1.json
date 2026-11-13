@@ -1,0 +1,197 @@
+{
+  "17-095": {
+    "r": "Population growth 1991-2001 → highest Nagaland, lowest Kerala; 2001-2011 → highest Meghalaya, lowest Nagaland.",
+    "h": "Nagaland flipped: top grower in 1991-2001, bottom in 2001-2011.",
+    "hi": ["Population growth rate (जनसंख्या वृद्धि दर)"]
+  },
+  "17-096": {
+    "r": "Decadal growth, Census 2011 (given States): lowest Andhra Pradesh (11.0%); West Bengal 13.8%, Tamil Nadu 15.6%, Bihar 25.4%."
+  },
+  "17-097": {
+    "r": "Decadal growth 2001-2011: Bihar highest among given States (25.4%); Rajasthan 21.3%, Madhya Pradesh 20.3%, Uttar Pradesh 20.2%."
+  },
+  "17-098": {
+    "r": "Uttar Pradesh decadal growth 2001-11 → 20.09% (provisional Census 2011); 20.2% as per final figures.",
+    "t": "Don't mix the provisional 20.09% with the final 20.2%."
+  },
+  "17-099": {
+    "r": "Uttarakhand: Pauri Garhwal and Almora districts recorded negative population growth during 2001-2011 (Census 2011)."
+  },
+  "17-100": {
+    "r": "Kerala's low population growth → heavy investment in literacy and public health, with high priority to social policies (not family planning spending alone).",
+    "hi": ["Public health (जन स्वास्थ्य)"]
+  },
+  "17-101": {
+    "r": "Uttar Pradesh → largest population (199812341 in 2011) but not the densest: West Bengal (903) in 2001, Bihar (1106) in 2011. A true, R false."
+  },
+  "17-102": {
+    "r": "UP's fast population growth in recent decades → improvement in health and control of diseases (also illiteracy, unemployment, poverty); 2011 decadal growth 20.2%."
+  },
+  "17-103": {
+    "r": "UP districts by population, Census 2011 (descending): Allahabad (5954391) > Moradabad > Ghaziabad > Lucknow (4589838).",
+    "h": "A-M-G-L: Allahabad, Moradabad, Ghaziabad, Lucknow."
+  },
+  "17-104": {
+    "r": "Census 2011 (provisional): lowest population Lakshadweep (64,429); lowest density Arunachal Pradesh (17); highest density NCT Delhi (11297), not Chandigarh; highest decadal growth Dadra and Nagar Haveli.",
+    "t": "Don't confuse Chandigarh with Delhi: the highest density is NCT Delhi."
+  },
+  "17-105": {
+    "r": "Kerala: high density (819 in 2001, third densest; 860 in 2011) and highest literacy (90.9%), but literacy does not explain density → A, R true; R not explanation."
+  },
+  "17-106": {
+    "r": "Correct: I (1991-2001 growth 21.54%) and IV (fewer unproductive consumers). Wrong: male-female literacy gap narrowed (24.8% → 21.6%), not widened; III false."
+  },
+  "17-107": {
+    "r": "India's population density has steadily increased: 77 persons/sq km (1901) → 382 persons/sq km (2011)."
+  },
+  "17-108": {
+    "r": "India's population density → 324/sq km (Census 2001; later revised to 325) → 382/sq km (Census 2011).",
+    "hi": ["Population density (जनसंख्या घनत्व)"]
+  },
+  "17-110": {
+    "r": "Highest density, Census 2011 → Bihar (1106); then West Bengal 1028, Kerala 860, Uttar Pradesh 829, Haryana 573; Tamil Nadu 555, Punjab 551.",
+    "h": "Top four densest: B-W-K-U (Bihar, West Bengal, Kerala, UP)."
+  },
+  "17-111": {
+    "r": "Highest/lowest density: 2001 → West Bengal (903) / Arunachal Pradesh (13); 2011 → Bihar (1106) / Arunachal Pradesh (17)."
+  },
+  "17-118": {
+    "r": "Density descending, Census 2011: Bihar (1106) > West Bengal (1028) > Kerala (860) > Uttar Pradesh (829); UP lowest of these four."
+  },
+  "17-121": {
+    "r": "Density 2001: West Bengal (903) > Bihar (881) > Kerala (820) > Uttar Pradesh (690); 2011: Bihar (1106) > West Bengal (1028) > Kerala (860) > UP (829).",
+    "c": "Book prints answer '*': no option matches the explanation's 2001 order West Bengal, Bihar, Kerala, UP."
+  },
+  "17-125": {
+    "r": "Census 1991: most densely populated State → West Bengal (767 persons/sq km); Census 2011 → Bihar."
+  },
+  "17-126": {
+    "r": "Density 1991 descending: West Bengal > Kerala > Bihar > Uttar Pradesh; 2011: Bihar (1106) > West Bengal (1028) > Kerala (860) > UP (829) > Haryana (573)."
+  },
+  "17-127": {
+    "r": "BIMARU States: densest → Bihar (685 in 1991; 1106 in 2011); 2011: UP 829, Madhya Pradesh 236, Rajasthan 200.",
+    "h": "BIMARU = BI-MA-R-U: Bihar, Madhya Pradesh, Rajasthan, Uttar Pradesh."
+  },
+  "17-128": {
+    "r": "Density 2011, high to low: Bihar (1106) > Punjab (551) > Jharkhand (414) > Uttarakhand (189)."
+  },
+  "17-129": {
+    "r": "Density 1991 descending: West Bengal (767) > Tamil Nadu (429) > Maharashtra (257) > Andhra Pradesh (242); same order in 2011."
+  },
+  "17-130": {
+    "r": "Census 2011, maximum density among options → Bihar (1106); Kerala 860, UP 829, Punjab 551, Maharashtra 365."
+  },
+  "17-131": {
+    "r": "Density ascending (2001 and 2011): Odisha (270) < Andhra Pradesh (308) < Tripura (350) < Punjab (551) [2011 figures]."
+  },
+  "17-132": {
+    "r": "Least dense States, ascending: 2001 → Arunachal Pradesh (13) < Mizoram (42) < Sikkim (76); 2011 → Arunachal (17) < Mizoram (52) < Sikkim (86) < Nagaland (119)."
+  },
+  "17-133": {
+    "r": "Least dense States ascending (1991 → 2011): Arunachal Pradesh (10 → 17) < Mizoram (33 → 52) < Sikkim (57 → 86) < Nagaland (73 → 119).",
+    "h": "A-M-S-N: 'A Man Sees Nagaland' = Arunachal, Mizoram, Sikkim, Nagaland."
+  },
+  "17-136": {
+    "r": "Census 1991: Jammu and Kashmir sparsest of the four (77/sq km); 2011 ascending: J&K (124) < Rajasthan (200) < Kerala (860) < Bihar (1106)."
+  },
+  "17-137": {
+    "r": "Census 2011: Mizoram density 52 (below 100); Nagaland 119, Manipur 128, Meghalaya 132 are above 100."
+  },
+  "17-138": {
+    "r": "Lowest-density UT, Census 2011 → Andaman and Nicobar Islands (46), second lowest in India after Arunachal Pradesh (17); Lakshadweep 2149, Daman and Diu 2191."
+  },
+  "17-140": {
+    "r": "Density 2011 ascending: Rajasthan (200) < Madhya Pradesh (236) < Gujarat (308) < Karnataka (319)."
+  },
+  "17-141": {
+    "r": "Census 1991: Sikkim lowest density (57) vs Nagaland (73), Meghalaya (79), Manipur (82); still lowest in 2011 (86)."
+  },
+  "17-142": {
+    "r": "Density 2011 ascending: Gujarat (308) < Karnataka (319) < Assam (398) < Haryana (573)."
+  },
+  "17-143": {
+    "r": "Wrong for 2001: 'Bihar most densely populated' → it was West Bengal (903); Bihar became densest in Census 2011. India's 2001 density 325."
+  },
+  "17-144": {
+    "r": "Census 2001: UP density 690 vs India 324 → UP more than twice India's density (true); densest State then West Bengal, not Bihar."
+  },
+  "17-145": {
+    "r": "Census 1991, all true: West Bengal most densely populated; Arunachal Pradesh least (10/sq km); UP decadal growth 1981-91 about 25.22% (11.1 → 13.9 crore)."
+  },
+  "17-146": {
+    "r": "Bihar district with highest density, Census 2011 → Sheohar (1880 per sq km)."
+  },
+  "17-147": {
+    "r": "Effective literacy rate in India → calculated on the population aged 7 years and above.",
+    "hi": ["Effective literacy rate (प्रभावी साक्षरता दर)"]
+  },
+  "17-148": {
+    "r": "Highest decadal rise in India's literacy → 1991-2001 (about 12.62%); rise in 2001-2011 about 8.20%."
+  },
+  "17-149": {
+    "r": "India's literacy, Census 2011: provisional 74.04%; final 73.0% (male 80.9%, female 64.6%), 8.2 points above 2001."
+  },
+  "17-150": {
+    "r": "India's literacy rate: Census 2001 → 64.8%; Census 2011 (final) → 73.0% (rural 67.8%, urban 84.1%)."
+  },
+  "17-151": {
+    "r": "Rise in India's literacy rate during 1991-2001 → 12.6%."
+  },
+  "17-152": {
+    "r": "Female literacy, Census 2011 → 64.6% final (male 80.9%); provisional 65.46%. None of 60.0, 63.0, 65.5, 68.5 fits → option (e)."
+  },
+  "17-153": {
+    "r": "Kerala → State claimed fully literate; literacy 89.81% (1991), 90.9% (2001), 94.0% (2011)."
+  },
+  "17-154": {
+    "r": "Most literate district, Census 2011 → Serchhip, Mizoram (98.76% provisional; 97.91% final), then Aizawl (97.89%); lowest Alirozpur, MP (37.22%)."
+  },
+  "17-155": {
+    "r": "First fully literate district outside Kerala → Bardhaman, West Bengal."
+  },
+  "17-156": {
+    "r": "Biggest literacy rise 2001-2011: Bihar among given States (14.8 points: 47.0% → 61.8%); among all States/UTs → Dadra and Nagar Haveli (18.6 points)."
+  },
+  "17-157": {
+    "r": "Literacy 2011: Manipur 79.2% > Punjab 75.8% > Assam 72.2% > MP 69.3%. Top States: Kerala 94.0%, Mizoram 91.3%, Goa 88.7%, Tripura 87.2%.",
+    "h": "Top four literate States: K-M-G-T (Kerala, Mizoram, Goa, Tripura)."
+  },
+  "17-159": {
+    "r": "Census 1991 literacy: Kerala (89.81%) first, then Mizoram (82.26%); 2011: Kerala 94% > Lakshadweep 91.8% > Mizoram 91.3% > Goa 88.7%."
+  },
+  "17-160": {
+    "r": "Female literacy 2011: Kerala (92.1) > Mizoram (89.3) > Goa (84.7) > Tripura (82.7) > Nagaland (76.1)."
+  },
+  "17-161": {
+    "r": "Mizoram → second in India in both literacy (91.3%) and urbanization (52.1%), Census 2011; first: Kerala in literacy (94.0%), Goa in urbanization (62.2%).",
+    "hi": ["Urbanization (नगरीकरण)"]
+  },
+  "17-163": {
+    "r": "Mizoram → highest literacy after Kerala in Census 2001 and 2011; so highest among UP, Manipur, Rajasthan, Mizoram and among North-East States."
+  },
+  "17-166": {
+    "r": "Literacy descending (same in 2001 and 2011): Kerala (94.0%) > Himachal Pradesh (82.8%) > Tamil Nadu (80.1) > Manipur (79.2)."
+  },
+  "17-167": {
+    "r": "Literacy descending (2001 and 2011): Kerala (94.0) > Mizoram (91.3) > Goa (88.7) > Maharashtra (82.3) [2011 %]."
+  },
+  "17-168": {
+    "r": "Four lowest-literacy States, 2011 ascending: Bihar (61.8%) < Arunachal Pradesh (65.4%) < Rajasthan (66.1%) < Jharkhand (66.4%).",
+    "h": "Bottom four, lowest first: B-A-R-J (Bihar, Arunachal, Rajasthan, Jharkhand)."
+  },
+  "17-169": {
+    "r": "Literacy 2001 ascending: Bihar (47.0) < UP (56.3) < Rajasthan (60.4) < MP (63.7). By 2011: Bihar (61.8%) < Rajasthan (66.1%) < UP (67.7%)."
+  },
+  "17-170": {
+    "r": "Most literate UT → Lakshadweep (86.7% in 2001; 91.8% in 2011); 2001: Chandigarh 81.9, Delhi 81.7, Pondicherry 81.2."
+  },
+  "17-171": {
+    "r": "Literacy 2011 descending: Tripura (87.2) > Himachal Pradesh (82.8) > Sikkim (81.4) > Nagaland (79.6)."
+  },
+  "17-172": {
+    "r": "Both wrong (2001): smallest male-female literacy gap → Mizoram (4%), then Meghalaya, Kerala third (6.5%); Rajasthan's literacy was below national average."
+  },
+  "17-173": {
+    "r": "Male-female literacy gap, Census 2011: provisional 16.68 points (82.14 vs 65.46); final 16.3 (80.9 vs 64.6). Female literacy about 65.5% (provisional)."
+  }
+}

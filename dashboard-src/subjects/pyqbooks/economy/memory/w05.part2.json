@@ -1,0 +1,205 @@
+{
+  "12-089": {
+    "r": "Unemployment → loss of income, so people near the poverty line fall below it; more people below poverty line means more poverty.",
+    "hi": ["Unemployment (बेरोज़गारी)"]
+  },
+  "12-090": {
+    "r": "Highest level of educated unemployment in India → Kerala (people cannot find jobs matching their qualifications)."
+  },
+  "12-091": {
+    "r": "Educated unemployment rises with high growth when professional or skilled education is lacking; book: A and R true, R explains A."
+  },
+  "12-092": {
+    "r": "Statement: unemployment allowance for all unemployed youth above 18 → only assumption I (youth need monetary support) follows; enough government funds is not implied."
+  },
+  "12-093": {
+    "r": "Roots of urban poverty lie in rural areas: low rural education → migrants get poor urban jobs and stay poor; A and R true, R explains A."
+  },
+  "12-094": {
+    "r": "Employed urban males per thousand, 1999-2000 (descending) → West Bengal, Assam, Nagaland, Meghalaya; same order in PLFS 2022-23 male LFPR.",
+    "h": "W-A-N-M: West Bengal > Assam > Nagaland > Meghalaya."
+  },
+  "12-095": {
+    "r": "Organised sector employment growth declined in 1994-2007: from 1.2% a year (1983-94) to –0.03% a year (Economic Survey 2009-10)."
+  },
+  "12-096": {
+    "r": "Most unemployment in India → Structural: mismatch between workers' skills and available jobs, due to poor education and training.",
+    "hi": ["Structural unemployment (संरचनात्मक बेरोज़गारी)"]
+  },
+  "12-097": {
+    "r": "Disguised (hidden) unemployment → marginal productivity of labour is zero; more persons employed in a job than needed, so removing them does not cut output.",
+    "h": "Disguised = in disguise: looks employed, adds nothing (marginal product zero).",
+    "hi": ["Disguised unemployment (प्रच्छन्न बेरोज़गारी)"]
+  },
+  "12-100": {
+    "r": "Disguised unemployment in India → mainly in the primary sector (agriculture and allied), due to heavy population pressure on land."
+  },
+  "12-102": {
+    "r": "Disguised unemployment in India → mainly agricultural sector in rural areas (I and II), not manufacturing or urban areas."
+  },
+  "12-103": {
+    "r": "Unemployed for a major part of the year → Usual Status unemployment (reference period 365 days, NSSO, now NSO); captures long-term open unemployment."
+  },
+  "12-104": {
+    "r": "NSSO unemployment measures: Usual Principal Status (one year), Current Weekly Status (one week), Current Daily Status (each day of the week); no 'Current Monthly Status'.",
+    "h": "Year, Week, Day: never Month."
+  },
+  "12-105": {
+    "r": "Unemployment data in India → collected and published by NSSO (Employment-Unemployment Surveys); NSSO merged with CSO to form NSO in 2019."
+  },
+  "12-106": {
+    "r": "Lowest employment elasticity → agriculture/mixed farming (0.04, 1999-2000 to 2009-2010); construction highest (1.13); finance 0.66; manufacturing 0.09.",
+    "hi": ["Employment elasticity (रोज़गार लोच)"]
+  },
+  "12-107": {
+    "r": "Causes of unemployment → rapid population growth, lack of skill, lack of manpower planning; growth of per capita income is not a cause."
+  },
+  "12-108": {
+    "r": "Labour Force Participation Rate (LFPR) → % of persons in the labour force (working, or seeking/available for work) in the working-age population.",
+    "hi": ["Labour force (श्रम बल)"]
+  },
+  "12-109": {
+    "r": "Female LFPR fell (31.1% in 2013-2014 to 23.3% in 2017-18) due to rising education of young women and rising household income; A and R true, R explains A."
+  },
+  "12-110": {
+    "r": "NSS 68th round (2011-12) unemployment rate: Current Daily Status 5.6%, Current Weekly Status 3.7%, Usual Status 2.7%.",
+    "h": "Daily > Weekly > Usual: the shorter the reference period, the higher the rate here."
+  },
+  "12-111": {
+    "r": "NSS 61st round → CDS unemployment about 8% in both rural (8.3%) and urban (8.2%) areas; 68th round (2011-12) → 5.6% all-India."
+  },
+  "13-001": {
+    "r": "Rules of Origin → criteria to fix a product's national source; they matter because duties and restrictions depend on import source; used for customs, trade statistics, MFN/preferential treatment."
+  },
+  "13-002": {
+    "r": "Supply Chain Resilience Initiative (SCRI) → launched 27 April 2021 by India, Japan and Australia (three, not five countries); ensures uninterrupted imports by diversifying suppliers."
+  },
+  "13-003": {
+    "r": "India's Foreign Trade Policy → Ministry of Commerce and Industry."
+  },
+  "13-004": {
+    "r": "Foreign Trade Policy 2015-20 vision → make India a major player in world trade by 2020; FTP 2023 targets US$ 2 trillion exports by 2030."
+  },
+  "13-005": {
+    "r": "India (Economic Survey 2022-23): merchandise exports < imports; services exports > imports; overall current account deficit; imports of iron and steel, fertilisers, machinery increased."
+  },
+  "13-006": {
+    "r": "India's total external merchandise trade in 2011-12 → Rs. 3811360 crore (Department of Commerce), so none of the given options is correct."
+  },
+  "13-008": {
+    "r": "India's Trade-to-GDP ratio (World Bank): above 50% since 2000 only in 2008 and 2011-2013; 45.69% in 2007; 40% in 2019 vs 44% in 2018; no option correct."
+  },
+  "13-009": {
+    "r": "India's merchandise trade as % of GDP rose from 29.5% (2004-05) to about 40.6% (2012-13); World Bank: 31.1% in 2023."
+  },
+  "13-010": {
+    "r": "Exports + imports of goods: 14.2% of GDP in 1990-91 → almost three times that by 2011-12."
+  },
+  "13-011": {
+    "r": "India's exports of goods and services in 2010-11 → about 22% of GDP; World Bank 2023: exports 21.9%, imports 24% of GDP."
+  },
+  "13-012": {
+    "r": "India's share in global goods exports → 1.8% (2021, 2022), not 3.2%; PLI scheme (incentive on incremental sales) used by local and foreign firms; Statement-I false, II true.",
+    "hi": ["Production Linked Incentive (उत्पादन से जुड़ा प्रोत्साहन)"]
+  },
+  "13-013": {
+    "r": "India's share in world exports: 1.85% in 1950, down to about 0.5-0.7% in the 1990s (answer 0.60%); 1.8% in 2022 (WTO)."
+  },
+  "13-014": {
+    "r": "India's share in world merchandise exports: 1.7% in 2013, 2018 and 2019; 1.6% in 2020; 1.8% in 2021 and 2022."
+  },
+  "13-016": {
+    "r": "India in commercial services exports: 8th in 2014 (US$ 155.6 billion, Economic Survey 2015-16); 7th in 2022 with 4.4% share (WTO)."
+  },
+  "13-017": {
+    "r": "Largest share in international trade now → China (14.4% of world merchandise exports, 2022); USA led in the question period and is the largest importer."
+  },
+  "13-018": {
+    "r": "India's largest trade partner region → Asia and ASEAN; Asian countries supply more than 50% of India's imports (60.92% in 2023-24)."
+  },
+  "13-022": {
+    "r": "In the question period India's largest import trade was with OPEC; now Asia supplies 60.92% of India's imports (2023-24)."
+  },
+  "13-023": {
+    "r": "2010-11 and 2011-12 → China and UAE together had the largest share in India's trade; 2023-24 → China, USA, UAE."
+  },
+  "13-024": {
+    "r": "India's largest trading partner: USA in 2006-07 (9.8%) and in 2021-22, 2022-23; China took the top spot in 2023-24, then USA, UAE."
+  },
+  "13-025": {
+    "r": "India's top trading partner: USA in 2019-20, 2021-22 and 2022-23 (China 2nd, UAE 3rd); China became largest in 2023-24.",
+    "t": "The answer depends on the year asked: USA for 2019-20 to 2022-23, China for 2023-24."
+  },
+  "13-028": {
+    "r": "India's largest trade surplus → with USA (2019-20 to 2022-23; about US$ 36.74 billion); USA is one of the few countries India has a surplus with."
+  },
+  "13-029": {
+    "r": "India's largest current account trade (goods + services) → with USA."
+  },
+  "13-030": {
+    "r": "Largest source of India's imports → China (15.06% in 2023-24), then Russia and UAE."
+  },
+  "13-032": {
+    "r": "South Asia trade: Indo-Sri Lanka trade fluctuated (no steady rise); textiles about 30% of India-Bangladesh trade; Bangladesh, not Nepal, is India's largest South Asian partner."
+  },
+  "13-033": {
+    "r": "USA re-emerged as India's largest import source in the early nineties (A true); India did not turn to USA for defence; Russia top arms supplier (36%, 2019-23)."
+  },
+  "13-034": {
+    "r": "Largest destination of India's exports now → USA (17.74% in 2023-24), then UAE, Netherlands, China; UAE led in the question period.",
+    "c": "Printed answer (d) USA uses current data; the explanation says (c) UAE was correct for the question period."
+  },
+  "13-035": {
+    "r": "2009-10 → UAE accounted for the largest share of India's exports.",
+    "t": "Don't mix years: UAE topped India's exports in 2009-10; USA tops at present."
+  },
+  "13-036": {
+    "r": "USA's share in India's exports: about 20% in the question period (option c); 17.41% in 2022-23 and 17.74% in 2023-24."
+  },
+  "13-037": {
+    "r": "India's trade balance (merchandise + services), December 2022 (provisional) → (–) 11.98 USD billion; final figure (–) 7.75 USD billion."
+  },
+  "13-038": {
+    "r": "India's trade balance was negative from 1949-50 onwards, except 1972-73 (Rs. 104 crore) and 1976-77 (Rs. 68 crore), when it was positive."
+  },
+  "13-040": {
+    "r": "India's trade deficit peaked at US$ 195.66 billion in 2012-13, then fell till 2016-17 as both POL and non-POL deficits declined; A and R true, R explains A."
+  },
+  "13-041": {
+    "r": "Balance of Trade → difference between value of exports and imports of goods only (visible items); services and transfers are not included.",
+    "hi": ["Balance of Trade (व्यापार संतुलन)"]
+  },
+  "13-042": {
+    "r": "Net exports = Exports – Imports (goods and services); positive = trade surplus, negative = trade deficit."
+  },
+  "13-043": {
+    "r": "Payment for foreign trade → recorded in the Balance of Payments (account of all international transactions of a country)."
+  },
+  "13-044": {
+    "r": "Balance of Payments → systematic record of all economic transactions (goods, services, assets) between residents and the rest of the world, usually for a year; current and capital accounts.",
+    "hi": ["Balance of Payments (भुगतान संतुलन)"]
+  },
+  "13-047": {
+    "r": "Balance of Payments includes visible trade (goods), invisible trade (services, transfers) and borrowings: all of the above."
+  },
+  "13-048": {
+    "r": "Current Account of BoP → Balance of Trade (goods) + Balance of Invisibles (services, transfers); foreign assets and SDRs are not part of it.",
+    "h": "Current account = T + I: Trade + Invisibles."
+  },
+  "13-049": {
+    "r": "Current Account Deficit → payments for goods, services, transfers and net income exceed receipts; occurs when a country imports (not exports) more; A true, R false.",
+    "hi": ["Current Account Deficit (चालू खाता घाटा)"]
+  },
+  "13-051": {
+    "r": "India's top import by rupee value in 2000-01 (among options) → pearls, precious and semi-precious stones, ahead of edible oils and fertilisers."
+  },
+  "13-052": {
+    "r": "India spends the most foreign exchange on petroleum products (crude and products US$ 209418 million, about 29.4% of imports in 2022-23)."
+  },
+  "13-054": {
+    "r": "Most important item in India's imports → petroleum (crude and products 26.52% of imports in 2023-24); iron and steel 3.52%, edible oils 2.20%."
+  },
+  "13-055": {
+    "r": "Two largest import items → petroleum products (fuel) and capital goods; petroleum products alone have the maximum share."
+  }
+}

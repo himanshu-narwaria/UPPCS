@@ -1,0 +1,205 @@
+{
+  "29-013": {
+    "r": "UP Legislative Council → Governor nominates 1/10 of members (per book); nominees have special knowledge of literature, science, arts, co-operative movement, social service (Article 171(3))."
+  },
+  "29-015": {
+    "r": "State Legislative Council → permanent House, cannot be dissolved; members serve six years, one-third retire every second year; elects own Chairman; one-third elected by Assembly.",
+    "t": "Industrialists are not a category that elects Council members."
+  },
+  "29-017": {
+    "r": "State Legislative Council → cannot be dissolved but can be abolished (Article 169); member's tenure 6 years. Rajya Sabha: neither; Lok Sabha and Assemblies: dissolved, not abolished.",
+    "h": "Council: abolish yes, dissolve no; Rajya Sabha: neither.",
+    "hi": ["Legislative Council (विधान परिषद)"]
+  },
+  "29-019": {
+    "r": "Madhya Pradesh has no Legislative Council though Seventh Amendment Act, 1956 provides for it; 6 bicameral States: UP, Maharashtra, Bihar, Karnataka, Andhra Pradesh, Telangana."
+  },
+  "29-020": {
+    "r": "Tamil Nadu, Rajasthan, Madhya Pradesh → unicameral; Uttar Pradesh, Karnataka, Bihar, Maharashtra → bicameral (have Legislative Council)."
+  },
+  "29-024": {
+    "r": "After 1956 reorganisation, 7 of 14 States were bicameral: UP, Bihar, Bombay, Madras, Mysore, Punjab, West Bengal; Councils abolished: West Bengal 1969, Punjab 1970, Tamil Nadu 1986.",
+    "c": "No answer printed (*): the correct number, 7, is not among the options."
+  },
+  "29-025": {
+    "r": "Article 170 → State Legislative Assembly: minimum 60, maximum 500 members, directly elected; Sikkim is an exception.",
+    "h": "Assembly size: 60 to 500."
+  },
+  "29-027": {
+    "r": "State Assembly → not more than 500 members, not 450 (Article 170(1)); minimum age to be chosen to the Assembly → 25 years."
+  },
+  "29-029": {
+    "r": "Article 170 → composition and direct election of Legislative Assemblies; Article 176 → Governor's special address; Article 178 → Speaker and Deputy Speaker."
+  },
+  "29-030": {
+    "r": "Minimum age → Legislative Assembly member 25 years (Article 173(b)); Legislative Council member 30 years.",
+    "h": "Upper House, higher age: Council 30, Assembly 25."
+  },
+  "29-031": {
+    "r": "Anglo-Indian representation in State Assemblies → was under Article 333 (Governor could nominate one member); this arrangement was later discontinued.",
+    "c": "No answer printed (*): Article 333 was right when asked, but the nomination provision no longer applies."
+  },
+  "29-032": {
+    "r": "Uttar Pradesh has the largest Legislative Assembly (403 members), more than Andhra Pradesh, West Bengal, Maharashtra."
+  },
+  "29-033": {
+    "r": "Himachal Pradesh Assembly → 68 seats; Arunachal Pradesh, Manipur, Meghalaya → 60 each."
+  },
+  "29-034": {
+    "r": "Manipur Assembly → 60 members (not 62); Goa → 40; Uttarakhand → 70; Uttar Pradesh → 403."
+  },
+  "29-035": {
+    "r": "J&K split (5 August 2019): Jammu & Kashmir → UT with legislature; Ladakh → UT without legislature; separate Lieutenant Governors."
+  },
+  "29-036": {
+    "r": "State Assembly elections → conducted by Election Commission of India (Article 324).",
+    "t": "Not the State Election Commission, even though these are State elections.",
+    "hi": ["Election Commission of India (भारत निर्वाचन आयोग)"]
+  },
+  "29-037": {
+    "r": "Disqualification of a State legislator (grounds in Article 191(1)) → Governor's decision is final (Article 192), acting on Election Commission's opinion."
+  },
+  "29-038": {
+    "r": "Final decision on disqualification of an MLA → Governor (Article 192), who must obtain and follow the Election Commission's opinion."
+  },
+  "29-039": {
+    "r": "Disqualification of MLAs for reasons other than the Tenth Schedule → decided by Governor, according to Election Commission's opinion (Article 192).",
+    "t": "Tenth Schedule cases are not decided by the Governor."
+  },
+  "29-040": {
+    "r": "Speaker of a State Legislative Assembly resigns by writing to the Deputy Speaker (Article 179(b)).",
+    "t": "Not the Governor or CM: the Speaker's resignation goes to the Deputy Speaker."
+  },
+  "29-041": {
+    "r": "Speaker vacates office if he ceases to be Assembly member, resigns (to Deputy Speaker) or is removed by resolution; not immediately on dissolution (Article 179)."
+  },
+  "29-042": {
+    "r": "After Assembly dissolution, Speaker stays in office until immediately before the first sitting of the new Assembly (Article 179)."
+  },
+  "29-043": {
+    "r": "Newly elected Speakers: Ramesh Tawadkar → Goa; Kultar Sandhwan → Punjab; T. Satyabrat → Manipur; Ritu Khandari → Uttarakhand."
+  },
+  "29-044": {
+    "r": "Ramkishore Shukla → has held Protem Speaker, Speaker and Deputy Speaker posts in Madhya Pradesh Legislative Assembly."
+  },
+  "29-045": {
+    "r": "Vidhan Sabha of a State is prorogued by the Governor (Article 174(2)).",
+    "hi": ["Prorogation (सत्रावसान)"]
+  },
+  "29-046": {
+    "r": "Governor addresses the Assembly at the first session after each general election and first session of each year; where State has no rule, Lok Sabha rules apply."
+  },
+  "29-047": {
+    "r": "Order of MP Assembly proceedings → oath or affirmation → Governor's address → introduction of Ministers → mention of death.",
+    "h": "Oath, Address, Ministers, Obituary."
+  },
+  "29-048": {
+    "r": "Rajasthan Assembly adjournment motion → needs Speaker's consent; specific matter of recent occurrence; only one per sitting; cannot raise a question of privilege.",
+    "hi": ["Adjournment Motion (स्थगन प्रस्ताव)"]
+  },
+  "29-049": {
+    "r": "Rajasthan Assembly Committee on Subordinate Legislation → examines 'orders' and Bill provisions delegating powers (Rules 240, 241); Speaker does not refer such Bills to it."
+  },
+  "29-050": {
+    "r": "Quorum of a House of State Legislature → ten members or one-tenth of total members, whichever is greater (Article 189(3)).",
+    "t": "It is 'whichever is greater', not 'whichever is less'.",
+    "hi": ["Quorum (गणपूर्ति)"]
+  },
+  "29-051": {
+    "r": "Rajasthan Assembly rules → Home Department's estimates do not come under Estimates Committee 'A'."
+  },
+  "29-052": {
+    "r": "State Legislative Assembly takes part in electing the President, Rajya Sabha members and Legislative Council members; not the Vice-President.",
+    "t": "MLAs vote for the President but not for the Vice-President."
+  },
+  "29-053": {
+    "r": "State Legislature business → in State official language(s), Hindi or English (Article 210(1)); Advocate General cannot vote; conduct of SC/HC Judges cannot be discussed."
+  },
+  "29-054": {
+    "r": "Contingency Fund of the State → placed at the disposal of the Governor for urgent or unforeseen expenditure.",
+    "hi": ["Contingency Fund (आकस्मिकता निधि)"]
+  },
+  "29-055": {
+    "r": "Contingency Fund of the State → established by the State Legislature by law; placed at Governor's disposal for advances on unforeseen expenditure."
+  },
+  "29-056": {
+    "r": "Article 162 → Extent of executive power of State: covers matters on which the State Legislature can make laws."
+  },
+  "29-057": {
+    "r": "State Legislature Articles: 168 → constitution of Legislature; 178 → Speaker and Deputy Speaker; 195 → salaries of members; 199 → definition of Money Bills."
+  },
+  "29-058": {
+    "r": "Ordinary bill passed by Assembly → Legislative Council can hold it 3 months first time (Article 197), about 4 months in all; Vidhan Sabha Speaker decides Money Bill."
+  },
+  "29-061": {
+    "r": "State Money Bills → introduced only in Legislative Assembly; Council returns it within 14 days with recommendations (Article 198(2)), which Assembly may accept or reject."
+  },
+  "29-062": {
+    "r": "Budget leaked before presentation in Assembly → Finance Minister must take individual responsibility and resign (oath of secrecy; Official Secrecy Act, 1923)."
+  },
+  "29-063": {
+    "r": "State Money Bill → introduced only on Governor's recommendation (Article 207(1)), never in Legislative Council; matters listed in Article 199(1)(a)-(f)."
+  },
+  "29-064": {
+    "r": "Chief Minister → appointed by the Governor under Article 164(1)."
+  },
+  "29-065": {
+    "r": "Governor acts on advice of Council of Ministers headed by CM, except where Constitution requires his discretion (Article 163(1)); so 'all functions on CM's advice' is wrong."
+  },
+  "29-066": {
+    "r": "91st Amendment Act, 2003 → Article 164(1A): State Council of Ministers, including CM, cannot exceed 15% of Assembly members."
+  },
+  "29-067": {
+    "r": "State Council of Ministers including CM → minimum 12, maximum fifteen per cent of Assembly members (Article 164(1A)).",
+    "h": "Floor 12 ministers, ceiling fifteen per cent."
+  },
+  "29-068": {
+    "r": "Chief Minister → formally appointed by Governor (Article 164(1)) but chosen by majority party members in Assembly; not selected by the Governor."
+  },
+  "29-069": {
+    "r": "Non-member Minister in a State → may continue six consecutive months; ceases to be Minister if not elected to State Legislature by then (Article 164(4))."
+  },
+  "29-071": {
+    "r": "Salaries and allowances of State Ministers → fixed by State Legislature by law (Article 164(5)); until then as in the Second Schedule."
+  },
+  "29-072": {
+    "r": "Article 167 → CM's duties: communicate to Governor all Council of Ministers' decisions on State affairs and legislative proposals; furnish information the Governor calls for."
+  },
+  "29-074": {
+    "r": "Courts cannot inquire into ministers' advice to the Governor (Article 163(3)); State Council of Ministers is collectively responsible to Legislative Assembly (Article 164(2)).",
+    "c": "No answer printed (*): the book confirms the Assertion but does not settle the Reason."
+  },
+  "29-075": {
+    "r": "State Council of Ministers → collectively responsible to the Legislative Assembly (Article 164(2)); Ministers hold office during Governor's pleasure (Article 164(1)).",
+    "hi": ["Collective responsibility (सामूहिक उत्तरदायित्व)"]
+  },
+  "29-076": {
+    "r": "J&K Chief Minister's tenure → earlier 6 years (Assembly term), not fixed, lasts while he has majority; J&K Reorganisation Act 2019 fixed Assembly term at 5 years.",
+    "c": "No answer printed (*): the term was 6 years when asked but is now 5, so no single option fits."
+  },
+  "29-077": {
+    "r": "First woman Chief Minister of an Indian State → Sucheta Kriplani, Uttar Pradesh, 1963."
+  },
+  "29-079": {
+    "r": "First CM of Madhya Pradesh → Pt. Ravishankar Shukla (1 November to 31 December 1956); State executive: Articles 153 to 167, Part VI."
+  },
+  "29-080": {
+    "r": "Govind Narayan Singh (fifth CM of Madhya Pradesh) → never Leader of the House in MP Legislative Assembly during his tenure."
+  },
+  "29-081": {
+    "r": "State Secretariat → apex wing of State administration; main force forming the principles of procedure for State Government's work."
+  },
+  "29-083": {
+    "r": "In the State Secretariat, every file goes to the Cabinet through the Chief Secretary."
+  },
+  "29-084": {
+    "r": "After Ayodhya incident (1992), Assemblies of UP, MP, Himachal Pradesh, Rajasthan were dissolved; Bihar's was not (it came under President's rule in 1995)."
+  },
+  "29-085": {
+    "r": "Andhra Pradesh → proposed reservation for Muslims in jobs and education (2004, struck down by High Court); 2007 → cut to 4 per cent within 50% limit."
+  },
+  "29-086": {
+    "r": "Goa → only State with a Common Civil Code, based on Portuguese Civil Code of 1867 (applied 1870); Uttarakhand enforced Uniform Civil Code on 27 January 2025.",
+    "hi": ["Uniform Civil Code (समान नागरिक संहिता)"]
+  }
+}

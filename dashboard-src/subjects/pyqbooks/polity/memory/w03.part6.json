@@ -1,0 +1,177 @@
+{
+ "24-032": {
+  "r": "Nominated members: 12 in Rajya Sabha; Lok Sabha's 2 Anglo-Indian seats ended 25 January 2020, so only Rajya Sabha has them; nominated member may be Minister; no vote for President.",
+  "c": "Book prints two answers, (a) and (c): since 25 January 2020 only the Rajya Sabha has nominated members, and a nominated member may become a Minister."
+ },
+ "24-033": {
+  "r": "Parliament can legislate for the Union of India, the Territory of India, and Indian subjects and their property anywhere in the world."
+ },
+ "24-035": {
+  "r": "Parliament may legislate on State List: to implement international agreements (Art 253); by consent of two or more States (Art 252); Rajya Sabha 2/3 resolution (Art 249); during Emergency.",
+  "h": "249-252-253 = Rajya resolution, States' request, Treaties."
+ },
+ "24-038": {
+  "r": "Art 253 → Parliament can make law for whole or any part of India to implement international treaties/agreements, even on State List, without any State's consent."
+ },
+ "24-039": {
+  "r": "Residuary subjects (not in State or Concurrent List) → Parliament has exclusive power to legislate (Art 248).",
+  "hi": [
+   "Residuary powers (अवशिष्ट शक्तियाँ)"
+  ]
+ },
+ "24-040": {
+  "r": "Art 120(1) → Parliament's business in Hindi or English; Speaker/Chairman may let a member who cannot express himself in either speak in his mother tongue."
+ },
+ "24-041": {
+  "r": "Yielding the floor → Speaker stops a member and lets another speak; Crossing the floor → changing party; Interpellation → asking Government to explain an act or policy."
+ },
+ "24-042": {
+  "r": "Zero Hour (Indian innovation): Lok Sabha 12 noon-1 pm, after Question Hour (11-12); Rajya Sabha 11 am-12 noon; maximum one hour.",
+  "hi": [
+   "Zero Hour (शून्य काल)"
+  ],
+  "c": "Book prints two answers, (c) and (d): Rajya Sabha's Zero Hour is 11 am-12 noon, Lok Sabha's 12 noon-1 pm."
+ },
+ "24-046": {
+  "r": "Zero Hour → members raise important matters that cannot be delayed; the book equates it with a question-answer session."
+ },
+ "24-047": {
+  "r": "General discussion on a Bill → second reading (first stage of consideration), then clause-by-clause; first reading = introduction; third reading = passing.",
+  "hi": [
+   "Second reading (द्वितीय वाचन)"
+  ]
+ },
+ "24-048": {
+  "r": "Bill at a joint sitting (Art 108(4)) → passed by a simple majority of total members of both Houses present and voting."
+ },
+ "24-049": {
+  "r": "If Lok Sabha is dissolved after President notifies a joint sitting, the joint sitting is still held as scheduled (bill does not lapse); a lapsed bill cannot go to one."
+ },
+ "24-050": {
+  "r": "Joint sitting → Article 108 (not 109, which covers Money Bills); presided over by the Lok Sabha Speaker."
+ },
+ "24-051": {
+  "r": "Joint sitting → Article 108, not 109 (Money Bill procedure); no joint sitting for a Constitution Amendment Bill, which each House passes by special majority (Art 368)."
+ },
+ "24-052": {
+  "r": "Joint sitting of the two Houses → presided over by the Speaker of the Lok Sabha.",
+  "hi": [
+   "Joint sitting (संयुक्त बैठक)"
+  ]
+ },
+ "24-053": {
+  "r": "Joint sitting presided by Lok Sabha Speaker (Art 118(4)); if absent → Deputy Speaker → Deputy Chairman of Rajya Sabha → person chosen by members present.",
+  "t": "Not the President or Vice-President; the Rajya Sabha Chairman never presides over a joint sitting."
+ },
+ "24-057": {
+  "r": "Joint sitting (Art 108): 1st in 1961 (Dowry Prohibition Bill); 2nd in 1978 (Banking Service Commission (Repeal) Bill, 1977); 3rd in March 2002 (POTA).",
+  "h": "D-B-P order: Dowry, Banking, POTA."
+ },
+ "24-059": {
+  "r": "Joint session (Art 108) → only to pass a Bill on which the two Houses disagree; not for President/VP elections or Constitution amendment; first on Dowry Bill."
+ },
+ "24-061": {
+  "r": "Joint sitting: only ordinary bills (not Money or Constitution Amendment bills); Rajya Sabha Deputy Chairman can preside if Speaker and Deputy Speaker absent; quorum 1/10, not 1/6."
+ },
+ "24-062": {
+  "r": "Joint sitting (Art 108) → only for ordinary legislation; Money Bill needs none (Rajya Sabha must return it in 14 days); Constitution Amendment passed by each House (Art 368).",
+  "t": "Joint sitting is never for Money Bills or Constitution Amendment Bills."
+ },
+ "24-065": {
+  "r": "An ordinary legislative Bill → can be introduced in either House of Parliament; a Money Bill only in Lok Sabha."
+ },
+ "24-066": {
+  "r": "Lapse on Lok Sabha dissolution (Art 107(5)): bill pending in LS, and LS-passed bill pending in RS; NOT a bill notified for joint sitting (108(5)) or RS bill unpassed by LS (107(4))."
+ },
+ "24-067": {
+  "r": "Bills do not lapse on prorogation (Art 107(3)); a bill pending in Rajya Sabha not yet passed by Lok Sabha does not lapse on Lok Sabha's dissolution (Art 107(4))."
+ },
+ "24-068": {
+  "r": "No tax levied or collected except by authority of law → Article 265; Art 266 → Consolidated Funds and Public Accounts; Art 300 → suits; Art 368 → amendment.",
+  "h": "265 = 'No taxation without law'."
+ },
+ "24-069": {
+  "r": "No one (CAG, Finance Minister or any Minister) can issue money from Consolidated Fund of India (Art 266) without Parliament's authorisation by appropriation (Art 114)."
+ },
+ "24-070": {
+  "r": "All Union Government revenues, taxes and other receipts → credited to the Consolidated Fund of India (Art 266).",
+  "hi": [
+   "Consolidated Fund of India (भारत की संचित निधि)"
+  ]
+ },
+ "24-071": {
+  "r": "Withdrawal of money from the Consolidated Fund of India → must be authorised by Parliament (Art 114)."
+ },
+ "24-072": {
+  "r": "Charged on Consolidated Fund: President's emoluments; RS Chairman/Deputy and LS Speaker/Deputy salaries; debt charges; SC judges; HC judges' pensions; CAG. Not listed: Election Commission members' salary."
+ },
+ "24-073": {
+  "r": "Not charged on Consolidated Fund → Vice-President's salary as VP (Art 112); he is paid as Rajya Sabha Chairman, whose salary is charged.",
+  "t": "Chairman of Rajya Sabha's salary is charged; there is no separate charged salary for the Vice-President."
+ },
+ "24-074": {
+  "r": "Not charged → Prime Minister's salary; charged (Art 112(3)): President, CJI, HC judges' pensions, CAG, RS Chairman/Deputy, LS Speaker/Deputy; charged items discussed, not voted.",
+  "hi": [
+   "Charged expenditure (भारित व्यय)"
+  ]
+ },
+ "24-075": {
+  "r": "Contingency Fund of India → Article 267; placed at President's disposal for advances to meet unforeseen expenditure.",
+  "hi": [
+   "Contingency Fund (आकस्मिकता निधि)"
+  ]
+ },
+ "24-076": {
+  "r": "Contingency Fund (Art 267(1)) → President can advance money for unforeseen expenditure before Parliament's authorisation; no prior approval needed."
+ },
+ "24-077": {
+  "r": "Union Budget prepared by Ministry of Finance (not Department of Revenue); Consolidated Fund withdrawal needs Parliament's authorisation (Art 114(3)); Public Account disbursements do not.",
+  "t": "Public Account is controlled by the Executive; no Parliament vote needed."
+ },
+ "24-078": {
+  "r": "Preparation and presentation of the Union Budget → Department of Economic Affairs (not Department of Revenue or Expenditure)."
+ },
+ "24-079": {
+  "r": "Annual Financial Statement (Art 112(1)) laid by Finance Minister on behalf of the President, not PM; no demand for grant except on President's recommendation (Art 113(3))."
+ },
+ "24-080": {
+  "r": "Demands for Grants (Art 113) → presented to Lok Sabha, usually one per ministry; budget 2025-26 had 102, 2021-22 had 101 → 'none of the above'."
+ },
+ "24-081": {
+  "r": "Article 110 → definition of Money Bill; Art 109 → special procedure for Money Bills; Art 111 → assent to Bills.",
+  "t": "Don't confuse 109 (procedure) with 110 (definition)."
+ },
+ "24-083": {
+  "r": "Money Bill (Art 110): only matters of tax, Government borrowing, custody of Consolidated/Contingency Funds, appropriation, charged expenditure, receipts and audit of Union/State accounts."
+ },
+ "24-085": {
+  "r": "NOT a Money Bill matter → imposition of fines or penalties; Money Bill covers taxes, borrowings, custody of Consolidated and Contingency Funds (Art 110)."
+ },
+ "24-086": {
+  "r": "Wrong: 'Rajya Sabha can detain Finance Bill 14 days' (that is Money Bill) and 'President cannot refuse Finance Bill' (he can return it); Rajya Sabha can amend Finance Bill."
+ },
+ "24-087": {
+  "r": "Not correct: 'Money Bill in either House' → only Lok Sabha; Speaker decides if a bill is a Money Bill; Rajya Sabha must return it within 14 days."
+ },
+ "24-088": {
+  "r": "Rajya Sabha can amend or reject a Financial Bill (I), but only recommend on a Money Bill within 14 days; joint sitting possible (not necessary) for Financial Bills, never for Money Bills."
+ },
+ "24-089": {
+  "r": "Whether a Bill is a Money Bill → decided by the Lok Sabha Speaker; his decision is final (Art 110(3))."
+ },
+ "24-090": {
+  "r": "Money Bill certified by Lok Sabha Speaker; his decision is final, not questioned by courts, Parliament or President; endorsed when sent to Rajya Sabha and to President."
+ },
+ "24-092": {
+  "r": "Money Bill → presented only in Lok Sabha (Art 109(1)); UPPSC's Hindi paper said 'Finance Bill' but meant Money Bill."
+ },
+ "24-093": {
+  "r": "Finance Bill (Art 117(1)) → introduced only in the Lower House (Lok Sabha), on the President's recommendation; never in Council of States."
+ },
+ "24-094": {
+  "r": "Money Bill: special procedure Art 109; not introduced in Rajya Sabha; RS may only recommend within fourteen days; Lok Sabha may accept or reject them; deemed passed if not returned."
+ },
+ "24-095": {
+  "r": "Money Bill → introduced only in Lok Sabha; Speaker's decision final; no joint session; Rajya Sabha can hold it at most 14 days (Art 109(2))."
+ }
+}

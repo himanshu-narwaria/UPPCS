@@ -1,0 +1,472 @@
+{
+ "39-040": {
+  "r": "99th Constitutional Amendment Act, 2014 → National Judicial Appointments Commission (NJAC); struck down by a five-judge Constitution Bench on October 15, 2015 to protect judicial independence.",
+  "hi": [
+   "National Judicial Appointments Commission (राष्ट्रीय न्यायिक नियुक्ति आयोग)"
+  ]
+ },
+ "39-041": {
+  "r": "52nd Amendment Act, 1985 → Anti-Defection Law (ban on floor crossing); added the 10th Schedule; later amended by the 91st Amendment Act, 2003.",
+  "t": "Don't confuse 52nd (1985, brought anti-defection law) with 91st (2003, which only amended it).",
+  "hi": [
+   "Anti-defection law (दल-बदल विरोधी कानून)"
+  ]
+ },
+ "39-045": {
+  "r": "58th Amendment Act, 1987 → authorised publication of the authoritative Hindi text of the Constitution, with all later amendments.",
+  "hi": [
+   "Authoritative text (प्राधिकृत पाठ)"
+  ]
+ },
+ "39-046": {
+  "r": "61st Amendment Act, 1988 → voting age lowered from 21 to 18 years; came into force on March 28, 1989.",
+  "hi": [
+   "Right to Vote (मताधिकार)"
+  ]
+ },
+ "39-047": {
+  "r": "61st Amendment → voting age for Lok Sabha and State Legislative Assembly elections cut from 21 years to 18 years."
+ },
+ "39-048": {
+  "r": "69th Amendment Act, 1991 → Delhi got the status of National Capital Territory (NCT).",
+  "hi": [
+   "National Capital Territory (राष्ट्रीय राजधानी क्षेत्र)"
+  ]
+ },
+ "39-051": {
+  "r": "79th Amendment (1999) → extended SC/ST and Anglo-Indian seat reservation in Lok Sabha and State Assemblies by 10 years; 95th Amendment (2009) extended it another 10 years.",
+  "hi": [
+   "Reservation (आरक्षण)"
+  ]
+ },
+ "39-053": {
+  "r": "93rd Amendment Bill → free and compulsory education for children aged 6-14; enacted as the 86th Amendment: added Art 21-A, amended Art 45, added Art 51-A(k).",
+  "t": "Bill number and Act number differ: the 93rd Bill became the 86th Amendment Act."
+ },
+ "39-054": {
+  "r": "86th Amendment Act, 2002 → Art 21A (Right to Education); RTE Act passed 2009; both came into force on 1 April 2010.",
+  "t": "Three dates: amendment 2002, RTE Act 2009, in force 2010 — 'came into force' means 2010.",
+  "hi": [
+   "Right to Education (शिक्षा का अधिकार)"
+  ]
+ },
+ "39-057": {
+  "r": "86th Amendment Act, 2002 → new Article 21-A: free and compulsory education for all children aged 6-14 as a Fundamental Right.",
+  "h": "21-A sits right after Art 21 (life): education grows out of the right to life.",
+  "hi": [
+   "Fundamental Rights (मौलिक अधिकार)"
+  ]
+ },
+ "39-059": {
+  "r": "Right to Education aims at 'Education for All'; earlier only a DPSP in Part IV (Art 45); became a Fundamental Right (Art 21A) by the Eighty-sixth, not 91st, Amendment, 2002.",
+  "hi": [
+   "Directive Principles (नीति निदेशक तत्व)"
+  ]
+ },
+ "39-060": {
+  "r": "89th Amendment Act, 2003 → split the combined SC-ST Commission into National Commission for SCs (Art 338) and National Commission for STs (Art 338A).",
+  "h": "338 = SCs; 338A = STs — the 'A' came later for the second commission.",
+  "hi": [
+   "Scheduled Tribes (अनुसूचित जनजाति)"
+  ]
+ },
+ "39-061": {
+  "r": "91st Amendment Act, 2003 → amended Arts 75 and 164: total ministers (incl. PM/CM) capped at 15% of Lok Sabha / State Assembly strength."
+ },
+ "39-062": {
+  "r": "91st Amendment Act, 2003 → inserted Art 75(1A): Council of Ministers incl. PM not more than 15% of Lok Sabha strength; in force from 1 January 2004.",
+  "t": "Option traps: 92nd (2004), 74th (1992), 86th (2002) — the ministry-size cap is only the 91st (2003)."
+ },
+ "39-064": {
+  "r": "91st Amendment (2003) → ceiling on the size of the Council of Ministers (15% of the House) via Art 75(1A), to strengthen the anti-defection law.",
+  "hi": [
+   "Council of Ministers (मंत्रिपरिषद)"
+  ]
+ },
+ "39-067": {
+  "r": "93rd Amendment Act (2006) → 27% reservation for OBCs in admission to educational institutions.",
+  "hi": [
+   "Other Backward Classes (अन्य पिछड़ा वर्ग)"
+  ]
+ },
+ "39-068": {
+  "r": "97th Amendment (notified 12 January 2012) → cooperative societies: added to Art 19(1)(c), new Art 43B and Part IX-B (Arts 243ZH to 243ZT).",
+  "hi": [
+   "Cooperative societies (सहकारी समितियाँ)"
+  ]
+ },
+ "39-070": {
+  "r": "Art 243ZJ → board of a cooperative society: number of directors set by State Legislature, but maximum 21."
+ },
+ "39-071": {
+  "r": "100th Amendment Act, 2015 → ratified 1974 India-Bangladesh Land Boundary Agreement: India gave 111 enclaves to Bangladesh and got 51; option (a) reverses this.",
+  "t": "Don't reverse the numbers: India → Bangladesh 111 enclaves; Bangladesh → India 51."
+ },
+ "39-072": {
+  "r": "101st Amendment Act, 2016 → Goods and Services Tax (GST); national GST introduced on 1st July 2017.",
+  "hi": [
+   "Goods and Services Tax (वस्तु एवं सेवा कर)"
+  ]
+ },
+ "39-073": {
+  "r": "Ninety Fourth Amendment Act, 2006 → Art 164; Ninety Fifth (2009) → Art 334; Ninety Sixth (2011) → Eighth Schedule; code A-1, B-2, C-3, D-4."
+ },
+ "39-074": {
+  "r": "105th Amendment Act, 2021 (assent by President Ram Nath Kovind, 18 August 2021) → States/UTs may keep their own lists of Socially and Educationally Backward Classes (SEBC).",
+  "hi": [
+   "Backward classes (पिछड़े वर्ग)"
+  ]
+ },
+ "39-075": {
+  "r": "Chronology: Golak Nath case (1967) → 24th Amendment (1971) → Kesavananda Bharati case (1973) → 42nd Amendment (1976).",
+  "h": "Case, Amendment, Case, Amendment — Court and Parliament took turns."
+ },
+ "39-076": {
+  "r": "Golaknath vs State of Punjab, 1967 → Supreme Court first limited Parliament's power to amend the Constitution.",
+  "t": "Don't confuse Golaknath (first limit, 1967) with the later Kesavananda Bharati or Minerva Mills cases."
+ },
+ "39-077": {
+  "r": "Kesavananda Bharati vs State of Kerala, 1973 → Basic Structure Doctrine: Parliament may amend even Fundamental Rights under Art 368, but not the basic structure.",
+  "hi": [
+   "Basic structure (मूल ढाँचा)"
+  ]
+ },
+ "39-078": {
+  "r": "Basic structure doctrine first given in Kesavananda Bharati vs State of Kerala (1973); it reversed Golak Nath and upheld the 24th Amendment.",
+  "h": "K for Kesavananda = K for 'Keystone': the basic structure holds up the arch."
+ },
+ "39-083": {
+  "r": "Basic structure theory → certain features of the Constitution are so essential that they cannot be abrogated even by amendment (Kesavananda Bharati, 1973)."
+ },
+ "39-084": {
+  "r": "25th Amendment, 1971 → laws giving effect to DPSP Arts 39(b) and (c) cannot be void for abridging Arts 14, 19 (or 31)."
+ },
+ "39-085": {
+  "r": "Statement I false: the 42nd Amendment (1976), not 44th, gave DPSP priority over Arts 14, 19. II true: Minerva Mills (1980) kept only Art 39(b), (c) priority."
+ },
+ "39-086": {
+  "r": "Indira Gandhi v. Raj Narain (1975) → 39th Amendment; Minerva Mills (1980) → 42nd; Kihoto Hollohan (1993) → 52nd; P. Sambamurthy (1987) → 32nd."
+ },
+ "39-087": {
+  "r": "Nari Shakti Vandan Adhiniyam (One Hundred and Sixth Amendment, 2023) → one-third seats for women in Lok Sabha, State Assemblies, Delhi Assembly, incl. within SC/ST quota; valid 15 years.",
+  "t": "Statement 1 is false: it does not take effect from the 18th Lok Sabha.",
+  "hi": [
+   "Women's reservation (महिला आरक्षण)"
+  ]
+ },
+ "39-088": {
+  "r": "Constitution (98th Amendment) Bill → National Judicial Commission; presented by Law Minister Arun Jaitley in the NDA Government."
+ },
+ "39-089": {
+  "r": "101st Amendment Act (2016) → GST: Art 246A (power to make GST law), Art 269A (inter-State GST), Art 279A (GST Council)."
+ },
+ "39-090": {
+  "r": "By May 2013, 98 Constitutional Amendments had been made; by January 2020, the 104th."
+ },
+ "40-001": {
+  "r": "Art 343(1) → Hindi in Devanagari is the Union's official language; Art 343(2) → English allowed for all official purposes for 15 years from commencement.",
+  "hi": [
+   "Official language (राजभाषा)"
+  ]
+ },
+ "40-002": {
+  "r": "Art 345 → State Legislature may by law adopt one or more languages in use in the State, or Hindi, as its official language(s) (subject to Arts 346, 347)."
+ },
+ "40-003": {
+  "r": "Official language (Part XVII, Articles 343 to 351): Articles 343, 344, 346, 348 amended only by Article 368(2) special majority; Official Language Act 1963 (English use) by simple majority.",
+  "c": "Book gives no single answer (*): it says the Hindi version points to (b) 2/3rd majority and the English version to (a) simple majority."
+ },
+ "40-004": {
+  "r": "Bodo is in the 8th Schedule (added by 92nd Amendment, 2003); Hindi is the Union's official language (Art 343), not the national language.",
+  "t": "Don't call Hindi the 'national language' — Art 343 makes it only the official language of the Union.",
+  "hi": [
+   "Eighth Schedule (आठवीं अनुसूची)"
+  ]
+ },
+ "40-005": {
+  "r": "Art 350A → every State and local authority to provide mother-tongue teaching at primary stage for linguistic-minority children; President may issue directions (added by 7th Amendment).",
+  "hi": [
+   "Mother tongue (मातृभाषा)",
+   "Linguistic minorities (भाषाई अल्पसंख्यक)"
+  ]
+ },
+ "40-006": {
+  "r": "First Official Language Commission (Art 344) → appointed 7 June 1955 under B.G. Kher, report 1956; reviewed by Parliamentary Committee under Govind Ballabh Pant (1957)."
+ },
+ "40-007": {
+  "r": "92nd Amendment (2003) added Bodo, Dogri, Maithili, Santhali; Schedule now 22 (Sindhi by 21st, 1967; Konkani, Manipuri, Nepali by 71st, 1992); Bhojpuri not included.",
+  "h": "2003 four: 'Bo-Do-Ma-San' — Bodo, Dogri, Maithili, Santhali.",
+  "hi": [
+   "Eighth Schedule (आठवीं अनुसूची)"
+  ]
+ },
+ "40-011": {
+  "r": "Sindhi and Konkani were both added to the Eighth Schedule by Constitutional Amendments (book answer: b & d); Rajasthani is not in the Eighth Schedule.",
+  "c": "Printed answer shows only (b) Sindhi, but the explanation starts '& (d)', so the book also accepts Konkani."
+ },
+ "40-013": {
+  "r": "Bhojpuri is NOT in the Eighth Schedule; Nepali, Dogri and Bodo are among its 22 languages."
+ },
+ "40-014": {
+  "r": "71st Amendment Act, 1992 → Konkani, Manipuri, Nepali added to the Eighth Schedule (not Maithili); 14 languages originally, 22 now.",
+  "h": "71st = 'KoMaNe': Konkani, Manipuri, Nepali."
+ },
+ "40-016": {
+  "r": "English is NOT in the Eighth Schedule; the Schedule had 14 languages initially and has 22 now (Hindi, Sanskrit, Urdu are in it)."
+ },
+ "40-017": {
+  "r": "Eighth Schedule languages: 18 before the 92nd Amendment Act, 2003; 22 after it (none of the printed options fits today)."
+ },
+ "40-019": {
+  "r": "Uttarakhand → made Sanskrit its second official language on January 1, 2010; Rishikesh declared a Sanskrit city (CM Ramesh Pokhariyal 'Nishank').",
+  "hi": [
+   "Second official language (द्वितीय राजभाषा)"
+  ]
+ },
+ "40-020": {
+  "r": "Among Bengali, Gujarati, Marathi, Telugu → Bengali has most speakers (Census 1991, 2001), Telugu second; Census 2011: Hindi first, Bengali second, Marathi third."
+ },
+ "40-021": {
+  "r": "Mother-tongue order, Census 2001: Bengali > Telugu > Marathi > Tamil. Census 2011: Hindi > Bengali > Marathi > Telugu > Tamil.",
+  "t": "Telugu was 2nd in 2001 but Marathi moved ahead of it in 2011 — check which census is meant."
+ },
+ "40-022": {
+  "r": "Hindi speakers: 41.03% (Census 2001) and 43.63% (Census 2011) — the largest language group in India."
+ },
+ "40-023": {
+  "r": "Brahui → spoken in Baluchistan but belongs to the Dravidian language family.",
+  "hi": [
+   "Dravidian (द्रविड़)"
+  ]
+ },
+ "40-024": {
+  "r": "Classical languages now total 11: Tamil first (12 October 2004), Sanskrit 2005, Telugu 2008…; Marathi, Pali, Prakrit, Assamese, Bengali added October 2024.",
+  "h": "2024's five: 'MAPP-B' — Marathi, Assamese, Pali, Prakrit, Bengali.",
+  "hi": [
+   "Classical language (शास्त्रीय भाषा)"
+  ]
+ },
+ "40-025": {
+  "r": "11 classical languages: Tamil, Sanskrit, Kannada, Telugu, Malayalam, Odia (earlier) + Marathi, Pali, Prakrit, Assamese, Bengali (3 October 2024)."
+ },
+ "40-026": {
+  "r": "Classical languages till 2014 (6): Tamil 2004, Sanskrit 2005, Telugu and Kannada 2008, Malayalam 2013, Odia 2014; Gujarati is not one."
+ },
+ "41-001": {
+  "r": "Sir Charles Metcalfe (acting Governor General), 1830 → called Indian village communities 'little republics', nearly self-sufficient.",
+  "hi": [
+   "Village community (ग्राम समुदाय)"
+  ]
+ },
+ "41-002": {
+  "r": "Lord Ripon (Viceroy from 1880) → 'Father of local self-government in India'; laid foundations of representative municipal institutions.",
+  "hi": [
+   "Local self-government (स्थानीय स्वशासन)"
+  ]
+ },
+ "41-003": {
+  "r": "Art 40 (Directive Principles) → State shall organise village Panchayats and give them powers to work as units of self-government.",
+  "hi": [
+   "Village Panchayat (ग्राम पंचायत)"
+  ]
+ },
+ "41-005": {
+  "r": "73rd Amendment (1992) → gave Panchayati Raj constitutional status as a unit of self-government; this third tier was added to the federal system in 1993.",
+  "t": "DPSP only directed States to form Panchayats; constitutional status came from the 73rd Amendment.",
+  "hi": [
+   "Panchayati Raj (पंचायती राज)"
+  ]
+ },
+ "41-009": {
+  "r": "73rd Amendment traces back to the 64th Amendment Bill (prepared 1989, introduced in Lok Sabha July 1989) → first attempt after independence to give Panchayats constitutional status."
+ },
+ "41-010": {
+  "r": "73rd Amendment, 1992 → constitutional status to Panchayati Raj; inserted Part IX and the 11th Schedule; in force 24 April 1993."
+ },
+ "41-013": {
+  "r": "Panchayats → Part IX, Arts 243 to 243-O, added by 73rd Amendment Act 1992; 11th Schedule lists 29 subjects for Panchayats."
+ },
+ "41-014": {
+  "r": "73rd Amendment (1992, in force 24 April 1993) → watershed: Part IX gave Panchayats constitutional status; 73rd and 74th Amendments came under PM P.V. Narsimha Rao.",
+  "hi": [
+   "Local self-government (स्थानीय स्वशासन)"
+  ]
+ },
+ "41-017": {
+  "r": "Art 243G → powers, authority and responsibilities of Panchayats (the 29 functions); State Legislature, by law, devolves them so Panchayats work as self-government units."
+ },
+ "41-018": {
+  "r": "73rd Amendment → regular Panchayat elections (Art 243K), at least one-third seats for women (243D), funds via State Finance Commission (243I), 29 subjects of 11th Schedule."
+ },
+ "41-021": {
+  "r": "11th Schedule (73rd Amendment Act, 1992) → 29 matters for Panchayats; Rural Sports is NOT one (libraries, fuel and fodder, technical training are)."
+ },
+ "41-022": {
+  "r": "Art 243A → Gram Sabha; 243B → Constitution of Panchayats; 243C → Composition of Panchayats. (243(a), (b), (c) only define District, Gram Sabha, Intermediate level.)",
+  "t": "Don't mix 243A (Gram Sabha's powers) with 243(b), which only defines 'Gram Sabha'."
+ },
+ "41-023": {
+  "r": "Art 243-C(1) → State Legislature makes law on the composition of Panchayats (not Governor, Parliament or President).",
+  "hi": [
+   "State Legislature (राज्य विधानमंडल)"
+  ]
+ },
+ "41-024": {
+  "r": "Not correct: 'every State must have all three levels'. Art 243B(2): intermediate Panchayat may be skipped where State population is not over 20 lakh."
+ },
+ "41-025": {
+  "r": "Panchayati Raj → three-tier: village, block (intermediate), district; intermediate tier optional in a State with population not exceeding twenty lakh [Art 243B(2)]."
+ },
+ "41-026": {
+  "r": "Art 243B → three-tier Panchayati Raj: village, intermediate (block), district; no intermediate tier needed in a State with population up to 20 lakh (2 million)."
+ },
+ "41-027": {
+  "r": "73rd Amendment (Part IX, Arts 243-243O; gives shape to Art 40) → three tiers; intermediate Panchayat not needed in States with population not exceeding 20 lakh.",
+  "h": "Small State (20 lakh or less) can skip the middle tier — a sandwich without the filling."
+ },
+ "41-028": {
+  "r": "Art 243J → State Legislature, by law, provides for maintenance of Panchayat accounts and their audit.",
+  "h": "243J → 'J' for 'Jaanch' (जाँच, checking) of accounts."
+ },
+ "41-029": {
+  "r": "Only 3 correct: Panchayats at village, intermediate, district levels [Art 243B(1)]. Gram Sabha = persons on village electoral rolls, not all residents; no 'fifty percent SC/ST women' rule."
+ },
+ "41-030": {
+  "r": "Art 243-J → maintenance and audit of Panchayat accounts by State law; part of 73rd Amendment Act, 1992 (Part IX, Arts 243-243O)."
+ },
+ "41-031": {
+  "r": "Art 243E → Panchayat term: five years from the date fixed for its first meeting; if dissolved early, fresh election within six months.",
+  "hi": [
+   "Tenure (कार्यकाल)"
+  ]
+ },
+ "41-032": {
+  "r": "Panchayat tenure 5 years [Art 243E(1)] — true. Not 1/4: not less than one-third of SC/ST reserved seats go to SC/ST women [Art 243D]."
+ },
+ "41-033": {
+  "r": "A Panchayat formed after early dissolution serves only the rest of the old term: old term began 10 February 2014, so new one ends 10 February 2019.",
+  "t": "Term runs from the first meeting (10 February 2014), not from election day or the new body's meeting."
+ },
+ "41-034": {
+  "r": "Dissolved Panchayat → election before 6 months from dissolution (Art 243E); normal term five years from first meeting."
+ },
+ "41-035": {
+  "r": "Chhattisgarh Panchayati Raj Act, 1993 → Gram Panchayat: 10 to 20 wards, one Panch each, plus Sarpanch; all elected, none nominated (ii, iii, vi wrong)."
+ },
+ "41-036": {
+  "r": "Maintenance of public order is NOT a local self-government function; public health, sanitation, public utilities, roads are (Art 243G Panchayats, Art 243W Municipalities).",
+  "hi": [
+   "Public order (लोक व्यवस्था)"
+  ]
+ },
+ "41-038": {
+  "r": "Judicial review is not a Panchayati Raj power — it belongs to the judiciary (Supreme Court); land reforms and poverty alleviation programmes are PRI tasks.",
+  "hi": [
+   "Judicial review (न्यायिक पुनरावलोकन)"
+  ]
+ },
+ "41-039": {
+  "r": "Bihar Panchayati Raj Acts 1947 and 1993 let Nyaya Panchayats imprison; Patna High Court struck that part down (1996); Bihar's 2006 Act allows no imprisonment.",
+  "c": "No answer printed; Bihar was the old exception, but its 2006 Act removed the power, so no option fits now."
+ },
+ "41-040": {
+  "r": "Statement 1 true: Part IX (Panchayats) inserted by 73rd Amendment Act, 1992 (in force 24 April 1993). Statement 2 false: Art 243-Q does not envisage only two municipality types."
+ },
+ "41-042": {
+  "r": "Panchayat is entry 5 of the State List (7th Schedule) → State Government decides on Panchayat elections, held through the State Election Commission."
+ },
+ "41-043": {
+  "r": "Decision to hold Panchayat elections → State Government (Art 243K); Panchayati Raj is a State List subject.",
+  "t": "Don't pick the State Election Commission or the Election Commission of India: the decision rests with the State Government."
+ },
+ "41-048": {
+  "r": "Panchayat elections every five years: Art 243-E(1) → term five years from first meeting; 243-E(3) → after dissolution, election within six months."
+ },
+ "41-049": {
+  "r": "74th Amendment relates to Municipalities, not Panchayats; Panchayats (73rd) → State Election Commission polls, fixed five-year term, fresh election within six months of dissolution.",
+  "h": "73 comes before 74 → village (Panchayat) before town (Municipality)."
+ },
+ "41-050": {
+  "r": "Madhya Pradesh → first State to implement the 73rd Amendment (Act of 1992, in force 24 April 1993) in true spirit."
+ },
+ "41-051": {
+  "r": "National Panchayati Raj Day → 24 April every year; first celebrated in 2010."
+ },
+ "41-052": {
+  "r": "National Panchayati Raj Day 2025 main event → 24 April 2025, Lohna Uttar Gram Panchayat, Madhubani (Bihar); 32nd anniversary of 73rd Amendment (in force 24 April 1993)."
+ },
+ "41-053": {
+  "r": "73rd Amendment (1992 Bill) did NOT give regular pay to Panchayat members; it did give mandatory elections, one-third seats for women, duties like agriculture and rural development."
+ },
+ "41-054": {
+  "r": "A true, R false: women's reservation as Pradhan, Pramukh, Adhyaksha changed their working; it was not a long-standing demand. Art 243-D: not less than one-third seats for women."
+ },
+ "41-055": {
+  "r": "Women's reservation in Panchayats → Art 243D(3): not less than one-third of directly elected seats, by rotation; it is not tied to the Art 334 expiry period."
+ },
+ "41-056": {
+  "r": "73rd Amendment: women get one-third (not 30%) of seats; no two-child disqualification. It did provide State Finance Commissions and elections within six months of dissolution.",
+  "c": "No answer printed: both (a) the 30% women's quota and (c) the two-child rule were not in the 73rd Amendment."
+ },
+ "41-058": {
+  "r": "73rd Amendment, 1992 → Art 243-D(3): not less than one-third of directly elected Panchayat seats reserved for women."
+ },
+ "41-059": {
+  "r": "Women's reservation: Panchayati Raj bodies (Art 243-D, one-third); later 106th Amendment, 2023 (Nari Shakti Vandan Adhiniyam) → one-third in Lok Sabha, State Assemblies, Delhi Assembly."
+ },
+ "41-061": {
+  "r": "Art 243D → reservation of seats for SCs and STs in Panchayats; 243A Gram Sabha, 243B constitution, 243C composition of Panchayats.",
+  "h": "243 A-B-C-D: gram sAbha, Building (constitution), Composition, D for 'Dalit/tribal reserveD seats'."
+ },
+ "41-062": {
+  "r": "Up to 2010 (asked in 2011), 50% women's reservation in Panchayats: Bihar, Madhya Pradesh, Himachal Pradesh; now many more States (e.g. Andhra Pradesh, Kerala, Rajasthan, Uttarakhand)."
+ },
+ "41-064": {
+  "r": "Uttar Pradesh Panchayat Laws (Amendment) Act, 1994 (in force 22 April 1994) → one-third of Panchayat seats reserved for women in U.P.",
+  "hi": [
+   "Women's reservation (महिला आरक्षण)"
+  ]
+ },
+ "41-065": {
+  "r": "SC seat reservation in Panchayat elections does not apply to Arunachal Pradesh — no SC population there (Census 2011)."
+ },
+ "41-066": {
+  "r": "PESA (Panchayats Extension to Scheduled Areas) Act → passed 1996 on Bhuria Committee recommendations; applies to Fifth Schedule areas in ten States.",
+  "hi": [
+   "Scheduled Areas (अनुसूचित क्षेत्र)"
+  ]
+ },
+ "41-068": {
+  "r": "PESA Act 1996 aims → self-governance, recognise tribal traditional rights, free tribals from exploitation; NOT autonomous regions. Not in force in Assam, Meghalaya, Tamil Nadu."
+ },
+ "41-070": {
+  "r": "Under PESA 1996, Gram Sabha owns minor forest produce and can stop land transfer; its consent is needed for minor-mineral leases only, not other minerals.",
+  "t": "Gram Sabha's say covers minor minerals only — so statement 3 ('any mineral') is false."
+ },
+ "41-071": {
+  "r": "Chhattisgarh Panchayat Raj Act, 1993 → Zila Panchayats in Scheduled Areas plan minor water bodies, control social-sector institutions and tribal sub-plans, do State-assigned functions."
+ },
+ "41-072": {
+  "r": "Gram Sabha → persons registered in the electoral rolls of a village-level Panchayat area; foundation of Panchayati Raj.",
+  "t": "Not all residents and not Panchayat members — only registered voters.",
+  "hi": [
+   "Gram Sabha (ग्राम सभा)"
+  ]
+ },
+ "41-073": {
+  "r": "Gram Sabha [Art 243(b)] → permanent village assembly of registered voters; its powers come from State Legislature law, NOT the Central Government."
+ },
+ "41-074": {
+  "r": "A Gram Panchayat can cover more than one village; Gram Sabha meets in each village (by rotation); Gram Panchayat meets at its headquarters."
+ },
+ "41-075": {
+  "r": "Chhattisgarh Act 1993 (amended 2004): Gram Sabha meets every three months; quorum 1/10 of members, one-third women; Sarpanch and Panchs ensure quorum; adjourned meeting needs no quorum."
+ },
+ "41-076": {
+  "r": "Madhya Pradesh (Panchayati Raj Avam Gram Swaraj Adhiniyam, 1993) → if Sarpanch and Up-Sarpanch are absent, a Panch elected by members present chairs the Gram Sabha."
+ },
+ "41-077": {
+  "r": "Rajasthan Panchayati Raj Act, 1994 → Section 89 amended: term 'Gram Vikas Adhikari' put in place of 'Gram Sevak'.",
+  "c": "Explanation words it the other way round ('Gram Vikas Adhikari' replaced with 'Gram sevak'); Section 89 is the tested fact."
+ }
+}

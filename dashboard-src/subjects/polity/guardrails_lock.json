@@ -1,9 +1,0 @@
-{
-  "polity_parsed_questions_count": 1280,
-  "polity_parsed_questions_hash": "b928f9b7498376770c39904ba5928017a092c63c955d07ed869cf6a7ac182f8a",
-  "polity_repeated_facts_count": 141,
-  "polity_repeated_facts_hash": "d1354a7890c440392870fd14690ae39bd7fa3d628c4a875ace0bc89f90b7c31b",
-  "env_pq_data_count": 633,
-  "env_pq_data_hash": "4d4e190975d4c2b1afcd0acaa60258e1a7536bba608b308e6922f705766cd050",
-  "env_rep_table_hash": "fa70c87d83f6e42b29f9a479145504230b87756aca8e83529e60b4d76cdeb37d"
-}

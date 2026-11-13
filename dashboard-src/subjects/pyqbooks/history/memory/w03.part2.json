@@ -1,0 +1,512 @@
+{
+  "16-001": {
+    "r": "Prophet Hazrat Muhammad → born c. 570 A.D. in Mecca (Saudi Arabia); died 632 A.D."
+  },
+  "16-003": {
+    "r": "'Hindu' came from foreigners' pronunciation of Sindhu (Indus); book's answer: Arabs, but its explanation says Persians/Iranians first used it. Iranians said Hindustan; Greeks said India.",
+    "c": "Printed answer (d) The Arabs contradicts the explanation, which credits Persians/Iranians."
+  },
+  "16-004": {
+    "r": "First successful Muslim invasion → Muhammad-bin-Qasim in Sindh, 712 A.D., defeating King Dahir; so 'None of these'. V.D. Mahajan dates it 711.",
+    "c": "Key 'None of these' is debatable: the explanation notes V.D. Mahajan gives 711 A.D., which is an option."
+  },
+  "16-006": {
+    "r": "First (successful) Muslim invader of India → Muhammad-bin-Qasim, early 8th century; Arab rule never spread east of Sindh and Multan."
+  },
+  "16-007": {
+    "r": "First Muslim invaders of India → the Arabs under Muhammad-bin-Qasim, Sindh, 712 A.D.; ousted Raja Dahir (capital Arod, near Karachi).",
+    "t": "Don't pick Ghaznavids or Ghurids; Turks came about three centuries after the Arabs."
+  },
+  "16-008": {
+    "r": "Muhammad-bin-Qasim → an Arab (born c. 695 A.D.); nephew and son-in-law of Al Hajjaj of Iraq; sent to Sindh by Caliph al-Walid at seventeen."
+  },
+  "16-009": {
+    "r": "Chachnama: Arod was capital of the Indus country (6th-7th century); Arabic history of Sindh, named after Raja Chach, father of Dahir."
+  },
+  "16-010": {
+    "r": "Chachnama (Arabic; Sindh history 680-718 A.D.) → Persian translation by Muhammad Ali bin Abu Bakr Kufi; English by Mirza Kalich Beg (1900)."
+  },
+  "16-011": {
+    "r": "Founder of the Ghaznavid dynasty → Alptigin, a Turkish slave-governor of the Samanids, with capital at Ghazni.",
+    "t": "Don't confuse founder Alptigin with Sebuktigin (his successor line) or Mahmud (the famous raider)."
+  },
+  "16-012": {
+    "r": "A true: Mahmud of Ghazni raided India 17 times (1000-1027 A.D.). R false: he sought wealth, not a permanent Muslim empire.",
+    "h": "Mahmud = money, not territory; 17 raids, no rule."
+  },
+  "16-013": {
+    "r": "Chandela king not defeated by Mahmud Ghaznavi → Vidyadhar, who repulsed him (1019-20 A.D.); Chandela capital Khajuraho, later Mahoba."
+  },
+  "16-015": {
+    "r": "Mahmud of Ghazni's court historian → Utbi (Kitab-ul-Yamini/Tarikh-i-Yamini); Firdausi → Shahnama ('Homer of the East'); Alberuni → Tahqiq-i-Hind."
+  },
+  "16-016": {
+    "r": "Shahnama → Firdausi (not Firishta), court poet of Mahmud of Ghazni, 'Homer of the East'; Firishta wrote Tarikh-i-Firishta.",
+    "t": "Don't confuse Firdausi (Shahnama, Ghazni) with Firishta (Tarikh-i-Firishta, Deccan).",
+    "c": "No answer printed; question wrongly names Farista as Shahnama's author; book says (b) Mahmud Ghaznavi is meant."
+  },
+  "16-018": {
+    "r": "First Muslim to study the Puranas → Al-Biruni; learnt Sanskrit; interested in astronomy, geography, medicine, maths, religion."
+  },
+  "16-019": {
+    "r": "Historian who came with Mahmud of Ghazni → Al-Beruni (11th century A.D.); translated Patanjali's Yoga-Sutra into Arabic; main work Tahqiq-i-Hind.",
+    "hi": ["Historian (इतिहासकार)"]
+  },
+  "16-022": {
+    "r": "Wrong about Alberuni: 'secular author' (he gave no sympathetic word on Mahmud's Somnath raid, 1025/1026). He was a Sanskrit scholar, trigonometry expert; born 973 A.D., Khwarizm."
+  },
+  "16-023": {
+    "r": "Somnath temple rebuilt after Mahmud Ghazni's raid (1025/26 AD) → Bhimadeva I, ruler at the time of the attack."
+  },
+  "16-024": {
+    "r": "Somnath (Gujarat, Arabian Sea): one of 12 Jyotirlingas; described by Al-Biruni. Present temple's Pran Pratishtha → President Rajendra Prasad, not S. Radhakrishnan.",
+    "hi": ["Jyotirlinga (ज्योतिर्लिंग)"]
+  },
+  "16-025": {
+    "r": "Silver coins with Sanskrit legend → Mahmud of Ghazni (Arabic and Sanskrit inscriptions, struck in India)."
+  },
+  "16-026": {
+    "r": "Conqueror of North India in 1192 → Shihabuddin Muhammad Ghori; Multan 1175, Gujarat 1178, lost First Tarain 1191, won Second Tarain 1192."
+  },
+  "16-027": {
+    "r": "First to defeat Muhammad Ghori → Mularaja II (Bhimadev II) of Gujarat, with regent mother Naika Devi; Ghori never again came via Gujarat."
+  },
+  "16-028": {
+    "r": "Ghori defeated Jayachandra of Kannauj → Battle of Chandawar (1194 A.D.), on the Yamuna in modern Firozabad district, near Agra.",
+    "t": "Don't confuse with Tarain 1191/1192, which were against Prithviraj Chauhan."
+  },
+  "16-031": {
+    "r": "Battle that founded Muslim domination → Second Battle of Tarain (1192 AD); Muhammad Ghori defeated Prithviraj Chauhan.",
+    "hi": ["Turning point (निर्णायक मोड़)"]
+  },
+  "16-032": {
+    "r": "Order: Mahmud Ghaznavi (1000-1027) → Muhammad Ghori (1175-1205) → Genghis Khan (1221, chasing Jalaluddin) → Taimur (1398)."
+  },
+  "16-033": {
+    "r": "Coins bearing Goddess Lakshmi → Muhammad Ghori."
+  },
+  "16-034": {
+    "r": "First Iqta in India → Qutbuddin Aybak, made in charge of Indian lands (1192 A.D.) and of Kuhram and Samana by Muhammad Ghori.",
+    "hi": ["Iqta (इक्ता)"]
+  },
+  "16-035": {
+    "r": "Ghori's slave who conquered Bihar and Bengal → Bakhtiyar Khalji (1193-1203 in Bihar); destroyed Nalanda and Vikramshila, took Odantpur; Lakshman Sen fled Bengal.",
+    "hi": ["Conquest (विजय)"]
+  },
+  "16-039": {
+    "r": "A and R true, R explains A: Turkish invasions succeeded because North India lacked political unity (many small warring kingdoms)."
+  },
+  "16-040": {
+    "r": "A and R true, R explains A: Turks (Mahmud, Ghori) succeeded as North India was split into small states; Ghori's conquest led to the Delhi Sultanate.",
+    "hi": ["Political unity (राजनीतिक एकता)"]
+  },
+  "17-001": {
+    "r": "Founder of the Slave dynasty → Qutbuddin Aybak (1206 A.D.); dynasty ruled 1206-1290, first of five Sultanate dynasties.",
+    "hi": ["Slave dynasty (गुलाम वंश)"]
+  },
+  "17-002": {
+    "r": "First Slave dynasty ruler → Qutbuddin Aybak (1206-1210 A.D.), capital Lahore; as a boy sold to Qazi Fakhruddin of Nishapur."
+  },
+  "17-003": {
+    "r": "'Lakh Baksh' (for generosity) → Qutbuddin Aybak; began Quwwat-ul-Islam mosque (Delhi), Adhai Din ka Jhonpra mosque (Ajmer) and the Qutub Minar.",
+    "h": "Lakh Baksh = gave away lakhs."
+  },
+  "17-006": {
+    "r": "Qutb Minar: begun by Aybak, completed by Iltutmish; lightning-damaged top rebuilt by Firuz Shah Tughluq (fourth floor restored, fifth added). Ghiyasuddin Tughluq had no role."
+  },
+  "17-008": {
+    "r": "Qutbuddin Aybak's capital → Lahore; Taj-ud-Din Yalduz (Governor of Kirman) took Ghazni after Ghori's death (1206 A.D.).",
+    "t": "Delhi became capital only under Iltutmish."
+  },
+  "17-009": {
+    "r": "Aybak died 1210 A.D. after falling from his horse while playing Chaugan (polo); buried at Lahore near Anarkali Bazaar."
+  },
+  "17-010": {
+    "r": "Made Delhi the Sultanate capital → Iltutmish (1211-36 AD), real founder of Delhi Sultanate; first regular Arabic silver (175 grain) and copper coins.",
+    "hi": ["Capital (राजधानी)"]
+  },
+  "17-012": {
+    "r": "Capital under Iltutmish → Delhi; he was the first Sultan to shift the capital (from Lahore to Delhi)."
+  },
+  "17-014": {
+    "r": "First legally independent Sultan of Delhi → Iltutmish; Caliph Al-Muntasir Billah of Baghdad gave him investiture and title 'Sultan-i-Azam' (1229 A.D.)."
+  },
+  "17-015": {
+    "r": "Ruler whose empire became part of Dar-ul-Islam → Iltutmish, after the Caliph of Baghdad sent him khillat (1229 A.D.)."
+  },
+  "17-016": {
+    "r": "'Slave of a slave' → Iltutmish: slave (and son-in-law) of Qutbuddin Aybak, who was himself Muhammad Ghori's slave."
+  },
+  "17-017": {
+    "r": "Not Iltutmish's rival → Malik Altunia. Rivals: Tajuddin Yalduz (Ghazni), Nasiruddin Qabacha (Sindh), Ali Mardan (Lakhnauti); Iltutmish took power after Aram Shah."
+  },
+  "17-018": {
+    "r": "First woman ruler of medieval India → Raziyya Sultan (1236-1240 A.D.), only woman on the Delhi Sultanate throne.",
+    "t": "Don't pick Chand Bibi, Durgavati or Noorjahan; they came later and never ruled Delhi."
+  },
+  "17-019": {
+    "r": "Genghis Khan reached the Indus (NW frontier) in Iltutmish's reign, chasing Khwarizm prince Jalaluddin Mengubirni; Iltutmish wisely refused him asylum.",
+    "hi": ["Mongols (मंगोल)"]
+  },
+  "17-023": {
+    "r": "Original name of Changez (Genghis) Khan → Temujin (Temuchin)."
+  },
+  "17-024": {
+    "r": "Only 1 correct: Chengiz Khan reached the Indus under Iltutmish. Wrong: Taimur's conquests began 1370, after Muhammad bin Tughluq (1325-1351); Deva Raya II received Abdur Razzaq."
+  },
+  "17-025": {
+    "r": "Iltutmish's first Subedar of Bihar → Malik Jani, after defeating Iwaz (Ghiyasuddin) near Teliyagarhi in 1225 A.D."
+  },
+  "17-026": {
+    "r": "Raziyya dethroned by the Turkish nobles, led by Malik Altunia, governor of Bhatinda.",
+    "hi": ["Nobles (अमीर/सरदार)"]
+  },
+  "17-027": {
+    "r": "Balban's full name → Ghiyasuddin Balban; ninth Mamluk Sultan; earlier Wazir and heir of Nasiruddin Mahmud."
+  },
+  "17-028": {
+    "r": "'Blood and iron' policy → Balban; Sultan as God's representative (Niyabat-i-Khudai), next only to the Prophet; autocratic, divine-right kingship.",
+    "hi": ["Blood and iron (रक्त और लौह)"]
+  },
+  "17-030": {
+    "r": "A and R true, R not the explanation: Balban (1266-1287 A.D.) centralised all power as a divine right; separately built forts in the north-west against Mongols."
+  },
+  "17-032": {
+    "r": "Balban's grand title → Zil-e-Ilahi ('Shadow of God'); king as Niyabat-e-Khudai.",
+    "t": "Don't confuse with Din-e-Ilahi (Akbar's faith) or Tuti-e-Hind (Amir Khusrau)."
+  },
+  "17-033": {
+    "r": "First Muslim ruler with a 'theory of kingship' like divine right → Balban: Sultan is God's representative, next to the Paigambar."
+  },
+  "17-034": {
+    "r": "Persian festival Nawruz introduced in India → Balban; also brought Iranian court customs Sijada (prostration) and Paibos (kissing feet)."
+  },
+  "17-036": {
+    "r": "Not true of Balban: Iqtadari system (Iltutmish's). True: Niyabat-e-Khudai theory, ended Turkan-e-Chahalgani, crushed Bengal revolt (Tughril, 1279); first used 'Zillillah'.",
+    "hi": ["The Forty (तुर्कान-ए-चहलगानी)"]
+  },
+  "17-038": {
+    "r": "'Helper of a Caliph' in the Garhmukteshwar mosque inscription → Balban."
+  },
+  "17-039": {
+    "r": "Tughril Khan's revolt (Bengal) → Balban's reign; sparked by Amin Khan's posting in Bengal; Tughril fled Balban's Bengal campaign."
+  },
+  "18-001": {
+    "r": "Sultan who planned a new religion → Alauddin Khalji; dropped it on Kotwal Ala-ul-Mulk's advice; took title Sikandar-i-Sani (second Alexander) on coins."
+  },
+  "18-003": {
+    "r": "Titles Yamin-ul-Khilafat and Nasir-e-Amir-ul-Mominin → Alauddin Khalji (also 'Sikandar Sani' on coins)."
+  },
+  "18-004": {
+    "r": "Barani on a king 'independent of rulers and orders of Shariat' → Alauddin Khalji."
+  },
+  "18-005": {
+    "r": "Alauddin's commander killed fighting the Mongols → Zafar Khan (original name Malik Hizabruddin)."
+  },
+  "18-006": {
+    "r": "Padmini (Chittor) → wife of Rana Ratan Singh; story told in Padmavat by Malik Muhammad Jayasi (1540 AD)."
+  },
+  "18-007": {
+    "r": "'Hazar-Dinari' → Malik Kafur, obtained by Alauddin Khalji during the Gujarat conquest."
+  },
+  "18-008": {
+    "r": "Malik Kafur ('Hazar Dinari', once bought for a thousand dinars) → taken by Nusrat Khan in the Gujarat campaign and presented to Alauddin Khalji.",
+    "c": "Explanation says Nusrat Khan seized Kafur by force; it was his earlier master who bought him, so 'bought by Nusrat Khan' is loose."
+  },
+  "18-009": {
+    "r": "A true: Alauddin's Deccan expeditions were for wealth. R false: he did not want to annex the Deccan states (K.S. Lal)."
+  },
+  "18-010": {
+    "r": "Devgiri ruler at Alauddin's invasion → Ramchandra Dev (1296 A.D.); he stopped Ellichpur tribute, so Malik Kafur attacked Devgiri in 1307."
+  },
+  "18-011": {
+    "r": "Alauddin's foes: Ranthambore → Hamirdeva; Chittor → Rana Ratan Singh; Devagiri → Raja Rai Ramchandra; Gujarat → Karnadeva."
+  },
+  "18-012": {
+    "r": "Alauddin's conquests in order: Gujarat (1299) → Ranthambor (1301) → Chittor (1303) → Warangal (1310).",
+    "h": "Odd years climb: 1299, 1301, 1303, then jump to 1310."
+  },
+  "18-013": {
+    "r": "Alauddin's campaigns in order: Jaisalmer (1299) → Ranthambore (1301) → Chittor (1303) → Warangal of the Kakatiyas (1309-1310)."
+  },
+  "18-014": {
+    "r": "Map route of the southern campaign → Malik Kafur ('Hazar-Dinari'), Alauddin's commander, found during the Gujarat conquest."
+  },
+  "18-015": {
+    "r": "Khalisa (crown) land expanded greatly → Alauddin Khalji, who took back Milk (state-gifted), Idrar (pension) and Waqf (charity) lands.",
+    "hi": ["Crown land (खालसा भूमि)"]
+  },
+  "18-016": {
+    "r": "Land revenue raised to one-half of produce → Alauddin Khalji (by measurement) and Muhammad-bin-Tughluq (Doab, by estimate); book accepts both.",
+    "c": "Book gives two answers, (b) and (c), since both Sultans charged 50%."
+  },
+  "18-018": {
+    "r": "Half the crop as revenue after measuring land → Alauddin Khalji; Muhammad-bin-Tughluq's half-share in the Doab was based on expected yield.",
+    "t": "Measurement = Alauddin; estimate (expected production) = Muhammad-bin-Tughluq."
+  },
+  "18-019": {
+    "r": "Alauddin: collected revenue by measuring land (I) and curbed provincial governors (III); measurement only around Delhi, not the whole empire (II false).",
+    "hi": ["Land revenue (भू-राजस्व)"]
+  },
+  "18-020": {
+    "r": "A true: Alauddin introduced price control in Delhi (Shehna Malik Kabool). R false: aim was to support a vast army against Mongols, not low wages to artisans."
+  },
+  "18-022": {
+    "r": "Strict price/market control → Alauddin Khalji; first Sultan to pay army in cash; Barani: normal wages would empty treasury in 5-6 years.",
+    "hi": ["Market control (बाजार नियंत्रण)"]
+  },
+  "18-024": {
+    "r": "Alauddin's market price control → highly successful (book); aimed to maintain a vast standing army; separate markets in Delhi (grain mandi, cloth and groceries)."
+  },
+  "18-025": {
+    "r": "Medieval 'Public Distribution System' → started by Alauddin Khalji (Sultanate period)."
+  },
+  "18-027": {
+    "r": "First 'Ghari' (house) tax → Alauddin Khalji; also a grazing tax on milch animals."
+  },
+  "18-028": {
+    "r": "Delhi Sultanate–Mongol boundary after 1306 A.D. → Ravi; Malik Kafur and Ghazi Malik stopped Kabak's Mongols there."
+  },
+  "18-029": {
+    "r": "Only 2 correct: Under Alauddin, Mongol Qutlugh Khwaja besieged Delhi. Wrong: first Mongol attack was under Iltutmish; Muhammad-bin-Tughlaq repelled Tarmashirin, held Kalanaur and Peshawar."
+  },
+  "18-030": {
+    "r": "Sultan who raised a special big army to guard the empire's borders → Alauddin Khalji, with a strong central government."
+  },
+  "18-031": {
+    "r": "Wrong pair: Warangal–Ramchandra Dev; Ramchandra Dev ruled Devgiri (later his son Shankar Dev). Correct: Devgiri–Shankar Dev, Hoysala–Veer Ballal, Madura–Veer Pandya."
+  },
+  "18-032": {
+    "r": "No Sultan in the options opposed the Caliph; Iltutmish got Caliph's recognition; Alauddin, Balban, Muhammad-bin-Tughluq were practically independent but never opposed him."
+  },
+  "18-033": {
+    "r": "Delhi ruler who declared himself Khalifa → Qutbuddin Mubarak Khalji (title Al-Imam, Khilafatullah); the only one to do so.",
+    "hi": ["Caliph (खलीफा)"]
+  },
+  "18-034": {
+    "r": "Kakatiya army defeated Alauddin's army at Warangal in 1303 (led by Fakhruddin Juna and Malik Chhajju); Kakatiya king Prataprudradev II."
+  },
+  "19-001": {
+    "r": "Alauddin's general who founded the Tughluq dynasty → Ghazi Malik (Ghiyasuddin Tughluq); governor of Multan and Depalpur; beat Mongols 29 times (Ibn Battuta)."
+  },
+  "19-003": {
+    "r": "First 14th-century ruler credited with digging irrigation canals → Ghiyasuddin Tughluq; land revenue fixed at 1/10 or 1/11; restored rights of Khuts and Muqaddams.",
+    "hi": ["Canal (नहर)"]
+  },
+  "19-004": {
+    "r": "Longest-ruling Sultanate dynasty (of these) → Tughluq (1320-1412); Slave 1206-1290, Khalji 1290-1320, Lodi 1451-1526."
+  },
+  "19-005": {
+    "r": "Most learned Delhi Sultan, versed in astronomy, mathematics and medicine → Muhammad-bin-Tughluq (1325-1351 AD)."
+  },
+  "19-006": {
+    "r": "New department Diwan-i-Amir-i-Kohi (Diwan-i-Kohi) for agriculture → Muhammad-bin-Tughluq; a 30 × 30 karoh tract farmed with crop rotation.",
+    "hi": ["Agriculture department (कृषि विभाग)"]
+  },
+  "19-007": {
+    "r": "Separate agriculture department 'Diwan-i-Amir-i-Kohi' with planned rotation of crops → Muhammad Tughlaq.",
+    "t": "Don't confuse Diwan-i-Kohi (Muhammad Tughlaq, agriculture) with Diwan-i-Khairat (Firuz, charity)."
+  },
+  "19-010": {
+    "r": "Capital shifted from Delhi to Daulatabad (Devgiri) → Muhammad-bin-Tughluq; Barani: Devgiri central to the empire; Ibn Battuta: to punish Delhi's rude letter-writers.",
+    "h": "Devgiri → Qutbabad (Mubarak Khalji) → Daulatabad (Muhammad Tughluq), per K.A. Nizami."
+  },
+  "19-012": {
+    "r": "First token currency in India → Muhammad-bin-Tughluq, due to lack of silver in the treasury (Barani); idea earlier tried in Iran under Gaykhatu.",
+    "hi": ["Token currency (सांकेतिक मुद्रा)"]
+  },
+  "19-014": {
+    "r": "A true: Muhammad-bin-Tughluq issued a gold coin Ibn Battuta called Dinar. R false: token currency was copper/bronze, not gold, and not for West Asian trade."
+  },
+  "19-015": {
+    "r": "A and R true, R explains A: token currency failed as the state did not control minting (forgery). Barani's five schemes: Doab tax, Devgiri capital, token currency, Khurasan, Qarachil."
+  },
+  "19-016": {
+    "r": "Ibn Battuta (Moroccan, 1304-1377) → came under Muhammad-bin-Tughluq (1333-1342); made Qazi of Delhi; envoy to China 1342; wrote Kitab-ul-Rihla.",
+    "hi": ["Traveller (यात्री)"]
+  },
+  "19-019": {
+    "r": "Detailed account of the Sultanate postal system → Ibn Battuta (from Tangier, Morocco), in Kitab-ul-Rihla.",
+    "hi": ["Postal system (डाक व्यवस्था)"]
+  },
+  "19-020": {
+    "r": "Yousuf Shah Chak, last Muslim ruler of Kashmir valley, exiled to Bihar by Akbar → died 1592 AD, buried at Nalanda."
+  },
+  "19-021": {
+    "r": "First Delhi Sultan to join public Holi celebrations → Muhammad-bin-Tughluq."
+  },
+  "19-022": {
+    "r": "'The king was freed from his people and they from their king' → Badayuni on Muhammad-bin-Tughluq's death (20 March 1351, near Thatta, chasing rebel Taghi)."
+  },
+  "19-023": {
+    "r": "Badayuni's remark 'the king was freed from his people and they from their king' (in Muntakhab-ut-Tawarikh) → on Muhammad-bin-Tughluq's death."
+  },
+  "19-024": {
+    "r": "Sultan who opened an employment office (employment exchange) for the jobless → Firuz Shah Tughluq.",
+    "hi": ["Employment exchange (रोजगार कार्यालय)"]
+  },
+  "19-026": {
+    "r": "Diwan-i-Khairat (charity department: poor Muslims, orphans, widows, marriages of poor girls) → Firuz Tughluq.",
+    "hi": ["Charity (दान/खैरात)"]
+  },
+  "19-027": {
+    "r": "Sultan with the most slaves → Firuz Tughluq (about one lakh eighty thousand); separate department Diwan-i-Bandgan; slaves paid 10 to 100 Tankas."
+  },
+  "19-028": {
+    "r": "Correct: Firuz Tughluq set up a slave department (Diwan-i-Bandgan). Wrong: Diwan-i-Arz was Balban's (book); horse branding was Alauddin's; Muhammad-bin-Tughluq succeeded by cousin Firuz."
+  },
+  "19-029": {
+    "r": "Public Works Department → Firuz Shah Tughluq; founded 200 new cities incl. Fatehabad, Hisar, Firozpur, Jaunpur, Firozabad."
+  },
+  "19-030": {
+    "r": "Biggest canal network → Firuz Shah Tughluq (e.g. Yamuna to Hisar 150 miles, Sutlej to Ghaggar 96 miles); first to levy Haqq-i-Sharb (irrigation tax).",
+    "h": "Firuz = Fountains and canals; Haqq-i-Sharb, sharb = water."
+  },
+  "19-033": {
+    "r": "Sultan who levied Jizya on Brahmins → Firuz Tughlaq; Jizya = religious tax on non-Muslims.",
+    "hi": ["Jizya (जजिया)"]
+  },
+  "19-034": {
+    "r": "Measures to improve fruit quality → Firuz Tughluq; planted 1200 new orchards near Delhi, restored 30 of Alauddin's gardens."
+  },
+  "19-035": {
+    "r": "Brought two Ashoka pillars to Delhi from Topra (Yamunanagar, Haryana) and Meerut → Firuz Shah Tughluq; Topra pillar set up at his Firozabad palace."
+  },
+  "19-037": {
+    "r": "Translation Department so Hindus and Muslims could understand each other → Firuz Tughluq; Sanskrit texts put into Persian."
+  },
+  "19-038": {
+    "r": "300 Sanskrit books seized at Nagarkot (Jwalamukhi temple) by Firuz Tughlaq → translated into Persian by Azizuddin Khan."
+  },
+  "19-039": {
+    "r": "First Indian ruler to fund Haj from the state treasury → Firuz Tughluq; also Dar-ul-Shafa (free hospital) and Diwan-i-Khairat.",
+    "hi": ["Free hospital (दार-उल-शफा)"]
+  },
+  "19-041": {
+    "r": "Last Tughluq ruler → Nasiruddin Mahmud Shah (1394-1412 A.D.); Khwaja Jahan made Jaunpur independent; rival Nusrat Shah ruled from Firozabad."
+  },
+  "19-042": {
+    "r": "Timur invaded India in 1398 A.D. during Nasiruddin Mahmud Shah's reign (1394-1412); left Khizr Khan as subedar of Multan, Depalpur and Lahore.",
+    "c": "No answer printed; none of the options is correct (the ruler was Nasiruddin Mahmud Shah)."
+  },
+  "19-044": {
+    "r": "Dynasty after Timur's invasion (1398) → Sayyid, founded 1414 AD by Khizr Khan, Timur's subedar of Lahore; Tughluqs ended 1412."
+  },
+  "19-045": {
+    "r": "Order: Rukn-ud-din (1236 A.D.) → Mubarak Khan Khalji (1316-1320) → Firuz Shah Tughluq (1351-1388) → Alam Shah (1445-1451)."
+  },
+  "20-001": {
+    "r": "Afghan-origin Sultanate dynasty → Lodi (1451-1526 A.D.), last Delhi Sultanate dynasty; ended when Babur beat Ibrahim Lodi at First Panipat (1526).",
+    "hi": ["Afghan (अफगान)"]
+  },
+  "20-002": {
+    "r": "Lodi order: Bahlul Lodi (1451-1489, founder) → Sikandar Lodi (1489-1517) → Ibrahim Lodi (1517-1526).",
+    "h": "B-S-I: Bahlul built, Sikandar strengthened, Ibrahim lost."
+  },
+  "20-003": {
+    "r": "Map → Bahlul Lodi's kingdom; place 'A' = Jaunpur, then called 'Shiraz-i-Hind'."
+  },
+  "20-004": {
+    "r": "Rana Sanga defeated Ibrahim Lodi → Battle of Khatoli (1518 A.D.).",
+    "t": "Don't confuse with Khanua, where Babur defeated Sanga."
+  },
+  "20-005": {
+    "r": "Agra founded (1504 A.D.) and made capital → Sikandar Lodi (Nizam Khan, Bahlul's son; throne 1489); wrote poems as 'Gulrukhi'.",
+    "hi": ["Pen name (उपनाम)"]
+  },
+  "20-010": {
+    "r": "Sultan who abolished several grain taxes → Sikandar Lodi; introduced Gaz-i-Sikandari for land measurement, later used by Sher Shah and Akbar."
+  },
+  "20-011": {
+    "r": "Order: Slave (1206-1290) → Khalji (1290-1320) → Sayyid (1414-1451) → Lodi (1451-1526).",
+    "h": "Sultanate: 'Sab Khana Tum Sab Lo' = Slave, Khalji, Tughluq, Sayyid, Lodi."
+  },
+  "20-012": {
+    "r": "Not from the Slave dynasty → Ibrahim Lodi (Lodi); Qutbuddin Aibak (1206-10), Iltutmish (1211-36), Balban (1266-86) were."
+  },
+  "21-001": {
+    "r": "Vijayanagara founded by Harihara and Bukka in 1336 (Sangama dynasty, named after their father); once feudatories of the Kakatiyas of Warangal.",
+    "hi": ["Empire (साम्राज्य)"]
+  },
+  "21-003": {
+    "r": "Vijayanagara Empire established → 1336 A.D. by Harihara I and his brother Bukka I, former Kakatiya officials.",
+    "t": "Don't confuse 1336 with 1236 or 1436; same year Harihara-Bukka began."
+  },
+  "21-004": {
+    "r": "Founders of Vijayanagara (1336 A.D., banks of the Tungabhadra) → brothers Harihara and Bukka."
+  },
+  "21-007": {
+    "r": "Sangama, Saluva, Tuluva → Vijayanagara dynasties: Sangama (1336-1485), Saluva (1485-1505), Tuluva (1505-1570), Aravidu (1570-1672).",
+    "h": "Vijayanagara dynasties in order: S-S-T-A, 'Sangama Saluva Tuluva Aravidu'."
+  },
+  "21-008": {
+    "r": "Harihara I → founded a city on the south bank of the Tungabhadra (Krishna tributary), ruling as agent of a deity owning all land south of the Krishna."
+  },
+  "21-009": {
+    "r": "Madhura Vijayam → Ganga Devi, wife of Kumara Kampana (son of Bukka I), on his conquest of Madurai (1365-1370)."
+  },
+  "21-010": {
+    "r": "First Vijayanagara ruler to take Goa from the Bahmanis → Harihara II (king after 1377 A.D.); also won Belgaum; title Maharajadhiraja."
+  },
+  "21-011": {
+    "r": "Dam on the Tungabhadra (c. 1410 AD) and a 24 km canal-cum-aqueduct to the capital → Devaraya I."
+  },
+  "21-012": {
+    "r": "All four true: Narasimha Saluva ended Sangama rule (1485 AD); Vira Narasimha deposed the last Saluva, founded Tuluva; then brother Krishnadeva Raya; then Achyuta Deva Raya."
+  },
+  "21-013": {
+    "r": "Battle of Golconda → Krishnadeva Raya vs Quli Qutb Shah, founder of the Qutb Shahi dynasty of Golconda."
+  },
+  "21-014": {
+    "r": "Permission to the Portuguese to build a fort at Bhatkal → Krishnadevaraya (Tuluva, 1509-1529 AD), at Albuquerque's request; bought guns and Arabian horses from them."
+  },
+  "21-015": {
+    "r": "Ashtadiggajas → eight Telugu poets in Krishnadeva Raya's court; his reign = golden age of Telugu literature; his title 'Andhra Bhoja'; Peddana foremost.",
+    "h": "Ashta (eight) + diggaja (elephants holding up the directions) = eight pillars of his court.",
+    "hi": ["Telugu literature (तेलुगु साहित्य)"]
+  },
+  "21-019": {
+    "r": "City founded by Krishnadeva Raya → Nagalapura (Nagalapuram), in honour of his mother; also credited with Hazara Rama and Vitthala temples."
+  },
+  "21-020": {
+    "r": "True: Krishnadevaraya wrote Amuktamalyada; called Andhra Bhoj. False: Allasani Peddana was a poet of Telugu and Sanskrit, not Sanskrit and Tamil."
+  },
+  "21-021": {
+    "r": "Suburban township Nagalapuram near Vijayanagara → Krishnadevaraya, named after his mother Nagala Devi."
+  },
+  "21-022": {
+    "r": "Hazara Rama temple, Vijayanagara → built in Krishnadeva Raya's reign."
+  },
+  "21-023": {
+    "r": "'Andhra Kavita Pitamah' → Allasani Peddana, greatest of the Ashtadiggajas; Krishnadeva Raya himself wrote the Telugu epic Amuktamalyada."
+  },
+  "21-024": {
+    "r": "Mallanarya's Bhava Chinta Ratna and Veerasaivamrita (Shaiva works, court of Krishnadeva Raya, 1509–1529 AD) → written in Kannada.",
+    "t": "Not Telugu: the Ashtadiggajas wrote Telugu, but Mallanarya wrote Kannada."
+  },
+  "21-025": {
+    "r": "Persian ambassador Abdur Razzaq → visited Vijayanagara under Devaraya II (1422-46 AD), Sangama dynasty.",
+    "t": "Don't mix: Nicolo Conti came under Deva Raya I; Abdur Razzaq under Deva Raya II."
+  },
+  "21-028": {
+    "r": "Nicolo Conti → Italian traveller who visited Vijayanagara in Deva Raya I's time."
+  },
+  "21-029": {
+    "r": "Nuniz (Portuguese, under Achyuta Deva Raya): Vijayanagara women were wrestlers, astrologers, accountants and soothsayers (all four); also dancers, servants, palanquin bearers."
+  },
+  "21-030": {
+    "r": "Telugu translators → Nannaya and Tikkana; with Yerrapragada they form the Kavi Traya, who rendered the Mahabharata into Telugu (11th-14th century).",
+    "hi": ["Translation (अनुवाद)"]
+  },
+  "21-031": {
+    "r": "Sayana, Vedic commentator → patronised by Vijayanagara rulers; he and brother Madhav Vidyaranya inspired the empire's founding."
+  },
+  "21-033": {
+    "r": "Enthroned 500 years before 2008 → Krishnadeva Raya (ruled 1509-1529 AD), greatest Vijayanagara emperor.",
+    "c": "Book calls the question erroneous (Harihara I and Kulottunga I also passed 500 years) and picks (b) as nearest."
+  },
+  "21-034": {
+    "r": "Battle of Talikota (1565 A.D.) → Vijayanagara defeated by Deccan Sultanates Bijapur, Bidar, Ahmadnagar, Golconda (Berar not included).",
+    "hi": ["Battle of Talikota (तालीकोटा का युद्ध)"]
+  }
+}

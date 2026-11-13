@@ -1,0 +1,122 @@
+{
+ "17-037": {
+  "r": "1921 → 'Great Divide' / 'Demographic Divide' year: the only Census with negative decadal growth (-0.31%); after it population grew at an accelerating pace.",
+  "h": "1921: the one Census when India's population fell."
+ },
+ "17-042": {
+  "r": "India's population grew phenomenally after 1951 (about 36 crore → over 102 crore by 2001) (A true); the 'Great Divide' year is 1921, not 1951 (R false)."
+ },
+ "17-043": {
+  "r": "Highest average annual exponential growth → 1971-81 (2.22%); 1961-71 → 2.20%; 2001-11 → 1.64%."
+ },
+ "17-044": {
+  "r": "Average annual exponential growth 1991-2001 (Census 2001) → 1.97% (about 1.9%); 2001-2011 → 1.64%."
+ },
+ "17-045": {
+  "r": "1951-2001: population density 117 → 325 per sq km (under three times); growth rate 1.25% → 1.97% (not doubled). Census 2011: density 382, growth 1.64%.",
+  "hi": [
+   "Population density (जनसंख्या घनत्व)"
+  ]
+ },
+ "17-046": {
+  "r": "India (question period): high growth rate; likely to overtake China (done, per UN 2024); one in six people is Indian; BPL was below 40% (21.92% in 2011-12)."
+ },
+ "17-047": {
+  "r": "India's population → 1,028,737,436 (Census 2001) and 1,21,08,54,977 (Census 2011), so none of the options fits."
+ },
+ "17-048": {
+  "r": "India's population, Census 1991 → 84.6 crore (846421039); Census 2011 → 1210854977; 1441.7 million in 2024, now the most populous country."
+ },
+ "17-049": {
+  "r": "India (Census 2001, book) → 16% of world population on 2.4% of Earth's land; adds 18 million a year to world population vs China's 10 million.",
+  "t": "Don't swap the figures: 16% is population share, 2.4% is land share."
+ },
+ "17-050": {
+  "r": "Census 2011: India has about 17.5% of world population (not 18.5%); population 121 crore; increase of 18.1 crore in 2001-2011; highest density in Delhi."
+ },
+ "17-051": {
+  "r": "Females in India's population (Census 2011) → 48.46% provisional, 48.53% final."
+ },
+ "17-052": {
+  "r": "Most populous State (Census 2011, provisional and final) → Uttar Pradesh (199,812,341), then Maharashtra (112,374,333)."
+ },
+ "17-053": {
+  "r": "UP population (199812341, Census 2011) exceeds Japan, Russia, Brazil, Nigeria, UK, Germany, Pakistan; in 2001 only China, India, USA, Indonesia, Brazil were bigger.",
+  "c": "Book prints two answers, (b) and (c): (c) fitted when asked, and after Census 2011 (b) fits too; two variants have no single answer (*)."
+ },
+ "17-056": {
+  "r": "UP (Census 2001) → literacy 56.3%, density 690 per sq km, largest SC population in Sitapur; most populous district Allahabad, not Kanpur Nagar."
+ },
+ "17-057": {
+  "r": "Smallest State by area → Goa (3702 sq km), not Sikkim; highest UT literacy → Lakshadweep, not Chandigarh; Maharashtra is second in population after UP."
+ },
+ "17-058": {
+  "r": "Census 2011 order → Uttar Pradesh > Maharashtra > Bihar > West Bengal > Andhra Pradesh (undivided); so R (Bihar, West Bengal, Maharashtra) is false."
+ },
+ "17-059": {
+  "r": "UP's share of India's population (Census 2011) → about 17% (16.49% provisional, 16.51% final)."
+ },
+ "17-060": {
+  "r": "Census 2011 population order → Uttar Pradesh > Maharashtra > Bihar > West Bengal > Andhra Pradesh (undivided); UP was top in 2001 too.",
+  "h": "U-M-B-W-A: UP, Maharashtra, Bihar, West Bengal, Andhra."
+ },
+ "17-068": {
+  "r": "Maharashtra → second in population (2011) and third in area (307,713 sq km) after Rajasthan and Madhya Pradesh."
+ },
+ "17-069": {
+  "r": "Bihar → third most populous State in both Census 2001 and 2011 (104099452), after Uttar Pradesh and Maharashtra."
+ },
+ "17-071": {
+  "r": "Bihar's share of India's population → 8.07% (about 8%) in Census 2001 (82998509); about 9% in Census 2011."
+ },
+ "17-073": {
+  "r": "More than one-third of India's population → Uttar Pradesh, Maharashtra and Bihar."
+ },
+ "17-074": {
+  "r": "Census 2011 population → Odisha 41974218 (smallest of the four), Karnataka 61095297, Tamil Nadu 72147030, Madhya Pradesh 72626809."
+ },
+ "17-075": {
+  "r": "Census 2011 population → Maharashtra 112374333 > Bihar 104099452 > Madhya Pradesh 72626809 > Karnataka 61095297 (minimum of the four)."
+ },
+ "17-076": {
+  "r": "Chhattisgarh (135192 sq km) is larger in area than West Bengal (88752 sq km), but West Bengal has more people; both statements true."
+ },
+ "17-077": {
+  "r": "Census 1991 population order → Maharashtra > West Bengal > Madhya Pradesh (then including Chhattisgarh) > Tamil Nadu."
+ },
+ "17-078": {
+  "r": "Census 2001 population → Puducherry > Chandigarh > Mizoram > Sikkim (least); Census 2011 → Puducherry > Mizoram > Chandigarh > Sikkim.",
+  "t": "Chandigarh and Mizoram swap places between 2001 and 2011; Sikkim is last both times."
+ },
+ "17-080": {
+  "r": "From 1971-81 to 1981-91 growth fell in both India (24.66% → 23.87%) and Madhya Pradesh (24.65% → 23.50%)."
+ },
+ "17-081": {
+  "r": "Highest decadal population growth, Census 2011 → Meghalaya (27.9%)."
+ },
+ "17-082": {
+  "r": "Highest decadal growth 1991-2001 → Nagaland (64.41%), then Sikkim, Manipur, Meghalaya; in Census 2011 Meghalaya is highest (27.9%)."
+ },
+ "17-084": {
+  "r": "Highest growth 1981-2001 among given States → Nagaland (56.08% in 1981-91, 64.53% in 1991-2001); it fell to -0.6% in 2001-2011."
+ },
+ "17-085": {
+  "r": "Highest decadal growth, Census 1991 → Nagaland (56.08%); in 2001-2011 Meghalaya highest (27.9%) and Nagaland lowest (-0.6%)."
+ },
+ "17-086": {
+  "r": "Lowest population growth 1991-2001 → Kerala; lowest in 2001-2011 → Nagaland."
+ },
+ "17-087": {
+  "r": "Lowest decadal growth 1991-2001 → Kerala; Census 2011 lowest → Nagaland (-0.6%), then Kerala (4.9%), Goa (8.2%).",
+  "h": "Kerala lowest in 2001; Nagaland negative in 2011."
+ },
+ "17-090": {
+  "r": "Lowest average annual population growth 1981-91 → Kerala (1.34%)."
+ },
+ "17-091": {
+  "r": "Nagaland → only State whose population fell in Census 2011 (-0.6%): 1990036 in 2001 → 1978502 in 2011.",
+  "hi": [
+   "Negative growth (ऋणात्मक वृद्धि)"
+  ]
+ }
+}
