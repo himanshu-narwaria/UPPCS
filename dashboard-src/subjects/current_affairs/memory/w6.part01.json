@@ -1,0 +1,1406 @@
+{
+ "u0724": {
+  "gist": "PM Modi completed 25 continuous years heading a government (Gujarat CM from October 7, 2001, then PM in 2014) on October 7, 2026.",
+  "facts": [
+   "June 10, 2026: became longest-serving elected PM for consecutive terms, surpassing Jawaharlal Nehru.",
+   "Nehru first took oath as elected PM on May 13, 1952 and served until May 27, 1964.",
+   "Modi's continuous PM tenure, May 26, 2014 to June 10, 2026: 4399 days.",
+   "March 22, 2026: longest-serving head of an elected government (CM + PM combined): 8,931 days.",
+   "Uzbekistan's 'Oliy Darajali Do'stlik' Order (Order of Highest Friendship) from President Shavkat Mirziyoyev, August 30, 2026.",
+   "2026 honours: Indonesia's Bintang Adipurna, Seychelles' Guardian of the Blue Horizon (first time given), FAO's Agricola Medal.",
+   "Also: Royal Norwegian Order of Merit, Sweden's Royal Order of the Polar Star, Israel's Medal of the Knesset."
+  ],
+  "hook": "Award-country pairs: Bintang Adipurna = Indonesia; Blue Horizon = Seychelles; White Double Cross = Slovakia; Polar Star = Sweden; Knesset = Israel; Nishan = Ethiopia; Agricola = FAO.",
+  "trap": "Two different records: 4399 days = continuous PM tenure; 8,931 days = CM + PM tenure combined.",
+  "hindi": [
+   "Prime Minister (प्रधानमंत्री)",
+   "Highest civilian honour (सर्वोच्च नागरिक सम्मान)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which country conferred the 'Guardian of the Blue Horizon' honour on PM Narendra Modi in June 2026, the first time it was ever given?",
+    "o": [
+     "Seychelles",
+     "Slovakia",
+     "Indonesia",
+     "Oman"
+    ],
+    "k": 0,
+    "why": "Seychelles gave 'Guardian of the Blue Horizon' on June 28, 2026; first time bestowed."
+   },
+   {
+    "q": "On June 10, 2026, PM Narendra Modi became the longest-serving elected PM for consecutive terms, surpassing the record of:",
+    "o": [
+     "Indira Gandhi",
+     "Jawaharlal Nehru",
+     "Manmohan Singh",
+     "Atal Bihari Vajpayee"
+    ],
+    "k": 1,
+    "why": "He passed Nehru, elected PM from May 13, 1952 to May 27, 1964."
+   }
+  ]
+ },
+ "u0725": {
+  "gist": "Sudhakar Dalela was appointed India's next Ambassador to Nepal on October 16, 2026.",
+  "facts": [
+   "Post: Ambassador of India to Nepal.",
+   "Appointed on October 16, 2026."
+  ],
+  "hindi": [
+   "Ambassador (राजदूत)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who was appointed India's next Ambassador to Nepal on October 16, 2026?",
+    "o": [
+     "Hansraj Singh Verma",
+     "Ajay A. Kumar",
+     "Sudhakar Dalela",
+     "Sanjeev Jain"
+    ],
+    "k": 2,
+    "why": "Sudhakar Dalela was named Ambassador to Nepal on October 16, 2026."
+   }
+  ]
+ },
+ "u0726": {
+  "gist": "On October 12, 2026, President Droupadi Murmu appointed new Governors for six states, including Keralam, Tamil Nadu and Karnataka.",
+  "facts": [
+   "Keralam: Om Prakash Mathur; Tamil Nadu: Rajendra Vishwanath Arlekar.",
+   "Odisha: Braj Mohan Ram; Karnataka: Dr. Sudha Yadav.",
+   "Uttarakhand: Dr. Dhal Singh Bisen; Sikkim: Dushyant Gautam."
+  ],
+  "hook": "Two 'Dr.' Governors: Dr. Sudha Yadav (Karnataka) and Dr. Dhal Singh Bisen (Uttarakhand).",
+  "hindi": [
+   "Governor (राज्यपाल)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was appointed Governor of Uttarakhand in the appointments announced on October 12, 2026?",
+    "o": [
+     "Dushyant Gautam",
+     "Braj Mohan Ram",
+     "Om Prakash Mathur",
+     "Dr. Dhal Singh Bisen"
+    ],
+    "k": 3,
+    "why": "The table lists Uttarakhand: Dr. Dhal Singh Bisen."
+   },
+   {
+    "q": "Rajendra Vishwanath Arlekar was appointed Governor of which state on October 12, 2026?",
+    "o": [
+     "Tamil Nadu",
+     "Keralam",
+     "Odisha",
+     "Sikkim"
+    ],
+    "k": 0,
+    "why": "The table lists Tamil Nadu: Rajendra Vishwanath Arlekar."
+   }
+  ]
+ },
+ "u0727": {
+  "gist": "Cricket captain Smriti Mandhana was named UNICEF India Celebrity Advocate on October 11, 2026, the International Day of the Girl Child.",
+  "facts": [
+   "Smriti Mandhana: captain of the Indian women's cricket team.",
+   "Named Celebrity Advocate of UNICEF India on October 11, 2026.",
+   "Occasion: International Day of the Girl Child."
+  ],
+  "hook": "Girl Child Day: the women's team captain becomes UNICEF's voice.",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "On which occasion was Smriti Mandhana named Celebrity Advocate of UNICEF India on October 11, 2026?",
+    "o": [
+     "International Women's Day",
+     "International Day of the Girl Child",
+     "National Sports Day",
+     "World Children's Day"
+    ],
+    "k": 1,
+    "why": "She was named on the occasion of the International Day of the Girl Child."
+   }
+  ]
+ },
+ "u0728": {
+  "gist": "Prakash Rajpurohit was approved as Deputy Election Commissioner in the Election Commission of India, succeeding Sanjay Kumar.",
+  "facts": [
+   "Approved by the Appointments Committee of the Cabinet (ACC) on October 10,2026.",
+   "Succeeded Sanjay Kumar.",
+   "Tenure extends up to April 8, 2030."
+  ],
+  "hindi": [
+   "Election Commission (निर्वाचन आयोग)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was appointed Deputy Election Commissioner in the Election Commission of India in October 2026, succeeding Sanjay Kumar?",
+    "o": [
+     "Mandeep Bhandari",
+     "Amit Garg",
+     "Prakash Rajpurohit",
+     "Sujeet Pandey"
+    ],
+    "k": 2,
+    "why": "The ACC approved Prakash Rajpurohit as Deputy Election Commissioner, succeeding Sanjay Kumar."
+   }
+  ]
+ },
+ "u0729": {
+  "gist": "Air Marshal Ashutosh Dixit was appointed the 29th Chief of the Air Staff from October 31, 2026, succeeding Amar Preet Singh.",
+  "facts": [
+   "29th Chief of the Air Staff (head of the Indian Air Force).",
+   "With effect from October 31, 2026.",
+   "Succeeds Amar Preet Singh."
+  ],
+  "trap": "Ashutosh Dixit (Air Force chief) is not Mahesh Dixit (Intelligence Bureau Director).",
+  "hindi": [
+   "Chief of the Air Staff (वायु सेना प्रमुख)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was appointed the 29th Chief of the Air Staff with effect from October 31, 2026?",
+    "o": [
+     "Tejpal Singh",
+     "Awadhesh Kumar Bharti",
+     "Amar Preet Singh",
+     "Ashutosh Dixit"
+    ],
+    "k": 3,
+    "why": "Ashutosh Dixit is the 29th Chief of the Air Staff, succeeding Amar Preet Singh."
+   }
+  ]
+ },
+ "u0730": {
+  "gist": "Vinay Kumar took oath as Bihar's State Chief Information Commissioner on October 1, 2026; Anjani Kumar Singh became State Information Commissioner.",
+  "facts": [
+   "Vinay Kumar: State Chief Information Commissioner, Bihar (oath October 1, 2026).",
+   "Anjani Kumar Singh: State Information Commissioner, Bihar."
+  ],
+  "trap": "Anjani Kumar Singh (Bihar Information Commissioner) is not Anjani Kumar (Ambassador to Ukraine).",
+  "hindi": [
+   "Information Commissioner (सूचना आयुक्त)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Who took oath as the State Chief Information Commissioner of Bihar on October 1, 2026?",
+    "o": [
+     "Vinay Kumar",
+     "Anjani Kumar Singh",
+     "V. Kameswar Rao",
+     "Harsh Vardhan"
+    ],
+    "k": 0,
+    "why": "Vinay Kumar took oath as State Chief Information Commissioner of Bihar."
+   }
+  ]
+ },
+ "u0731": {
+  "gist": "On October 5, 2026, the President appointed three former High Court Chief Justices as new judges of the Supreme Court.",
+  "facts": [
+   "Justice Sunita Agarwal: former Chief Justice, Gujarat High Court.",
+   "Justice Devendra Kumar Upadhyaya: former Chief Justice, Delhi High Court.",
+   "Justice Aparesh Kumar Singh: former Chief Justice, Telangana High Court."
+  ],
+  "hindi": [
+   "Supreme Court (सर्वोच्च न्यायालय)",
+   "High Court (उच्च न्यायालय)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Justice Devendra Kumar Upadhyaya, appointed a Supreme Court judge on October 5, 2026, was earlier Chief Justice of which High Court?",
+    "o": [
+     "Gujarat High Court",
+     "Delhi High Court",
+     "Bombay High Court",
+     "Telangana High Court"
+    ],
+    "k": 1,
+    "why": "He was the former Chief Justice of the Delhi High Court."
+   }
+  ]
+ },
+ "u0732": {
+  "gist": "Anup Bagchi was appointed MD and CEO of HDFC Bank for a three-year term, effective October 27, 2026.",
+  "facts": [
+   "Post: Managing Director and Chief Executive Officer, HDFC Bank.",
+   "Term: three years, from October 27, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Anup Bagchi was appointed Managing Director and CEO of which bank, effective October 27, 2026?",
+    "o": [
+     "YES Bank",
+     "Airtel Payments Bank",
+     "HDFC Bank",
+     "State Bank of India"
+    ],
+    "k": 2,
+    "why": "Anup Bagchi became MD and CEO of HDFC Bank for three years."
+   }
+  ]
+ },
+ "u0733": {
+  "gist": "Jurist Dr. Bimal N. Patel took oath as Judge of the International Tribunal for the Law of the Sea (ITLOS) on October 1,2026.",
+  "facts": [
+   "ITLOS = International Tribunal for the Law of the Sea.",
+   "Oath taken at the Tribunal's headquarters in Hamburg, Germany.",
+   "Dr. Patel: international law jurist, scholar and institution-builder."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where is the headquarters of ITLOS, where Dr. Bimal N. Patel took oath as a Judge in October 2026?",
+    "o": [
+     "The Hague, Netherlands",
+     "Geneva, Switzerland",
+     "Vienna, Austria",
+     "Hamburg, Germany"
+    ],
+    "k": 3,
+    "why": "He took oath at the Tribunal's headquarters in Hamburg, Germany."
+   }
+  ]
+ },
+ "u0734": {
+  "gist": "Mandeep Bhandari, a 2001-batch IAS officer, was appointed chairperson of CBSE on September 25, 2026.",
+  "facts": [
+   "Post: Chairperson, Central Board of Secondary Education (CBSE).",
+   "2001-batch IAS officer; appointed September 25, 2026.",
+   "Succeeded Lokhande Prashant Sitaram."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who was appointed chairperson of the Central Board of Secondary Education (CBSE) on September 25, 2026?",
+    "o": [
+     "Mandeep Bhandari",
+     "Deepti Gaur Mukerjee",
+     "Anurag Jain",
+     "Lokhande Prashant Sitaram"
+    ],
+    "k": 0,
+    "why": "Mandeep Bhandari became CBSE chairperson, succeeding Lokhande Prashant Sitaram."
+   }
+  ]
+ },
+ "u0735": {
+  "gist": "Indian-origin Sharmila Mona Sinha was inducted into the National Women's Hall of Fame, New York, on September 24, 2026.",
+  "facts": [
+   "Hall: National Women's Hall of Fame, New York, USA.",
+   "She is the second woman of Indian origin to get this honour.",
+   "The first was former PepsiCo CEO Indra Nooyi."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Sharmila Mona Sinha became the second Indian-origin woman in the US National Women's Hall of Fame in 2026. Who was the first?",
+    "o": [
+     "Kalpana Chawla",
+     "Indra Nooyi",
+     "Sunita Williams",
+     "Kamala Harris"
+    ],
+    "k": 1,
+    "why": "She is second after former PepsiCo CEO Indra Nooyi."
+   }
+  ]
+ },
+ "u0736": {
+  "gist": "Hansraj Singh Verma was appointed India's next Ambassador to the Republic of Cuba on September 18, 2026.",
+  "facts": [
+   "Post: Ambassador of India to Cuba.",
+   "Appointed on September 18, 2026."
+  ],
+  "hindi": [
+   "Ambassador (राजदूत)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Hansraj Singh Verma was appointed India's next Ambassador to which country on September 18, 2026?",
+    "o": [
+     "Iraq",
+     "Qatar",
+     "Cuba",
+     "Ukraine"
+    ],
+    "k": 2,
+    "why": "He was named Ambassador of India to the Republic of Cuba."
+   }
+  ]
+ },
+ "u0737": {
+  "gist": "IPS officer Sanjukta Parashar became the first woman Inspector General of CoBRA, CRPF's jungle warfare commando unit, on September 15, 2026.",
+  "facts": [
+   "CoBRA = Commando Battalions for Resolute Action.",
+   "It is the specialised jungle warfare commando unit of the CRPF.",
+   "First woman Inspector General (IG) of CoBRA; appointed September 15, 2026."
+  ],
+  "hook": "CoBRA strikes in the jungle: Commando Battalions for Resolute Action, part of CRPF.",
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who became the first woman Inspector General of CoBRA, the CRPF jungle warfare commando unit, in September 2026?",
+    "o": [
+     "Saba Shawl",
+     "Navya Shekhawat",
+     "Bhawana Kanth",
+     "Sanjukta Parashar"
+    ],
+    "k": 3,
+    "why": "IPS officer Sanjukta Parashar became the first woman IG of CoBRA."
+   }
+  ]
+ },
+ "u0738": {
+  "gist": "BJP leader Dr. Dinesh Sharma took oath as the 14th Lieutenant Governor of the Andaman and Nicobar Islands on September 15, 2026.",
+  "facts": [
+   "14th Lieutenant Governor of the Andaman and Nicobar Islands.",
+   "Took oath on September 15, 2026."
+  ],
+  "hindi": [
+   "Lieutenant Governor (उपराज्यपाल)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Dr. Dinesh Sharma took oath in September 2026 as the 14th Lieutenant Governor of which Union Territory?",
+    "o": [
+     "Andaman and Nicobar Islands",
+     "Ladakh",
+     "Puducherry",
+     "Delhi"
+    ],
+    "k": 0,
+    "why": "He became the 14th Lieutenant Governor of the Andaman and Nicobar Islands."
+   }
+  ]
+ },
+ "u0739": {
+  "gist": "Mohsin Raza was appointed Chairperson of the Uttar Pradesh Commission for Minorities on September 8, 2026, with 8 other members.",
+  "facts": [
+   "Post: Chairperson, Uttar Pradesh Commission for Minorities.",
+   "Appointed on September 8, 2026.",
+   "8 members include Sandeep Jain, Neha Khan, Syed Seraj Abbas Rizvi and Rumana Siddiqui."
+  ],
+  "trap": "UP Commission for Minorities = Mohsin Raza; National Commission for Minorities = Harjit Singh Grewal.",
+  "hindi": [
+   "Minorities Commission (अल्पसंख्यक आयोग)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was appointed Chairperson of the Uttar Pradesh Commission for Minorities on September 8, 2026?",
+    "o": [
+     "Harjit Singh Grewal",
+     "Mohsin Raza",
+     "Syed Seraj Abbas Rizvi",
+     "Bhagwat Prasad Makwana"
+    ],
+    "k": 1,
+    "why": "Mohsin Raza became Chairperson; Rizvi was one of the 8 members."
+   }
+  ]
+ },
+ "u0740": {
+  "gist": "Justice Mahesh Chandra Tripathi was sworn in as the 50th Chief Justice of the Bombay High Court on September 9, 2026.",
+  "facts": [
+   "50th Chief Justice of the Bombay High Court.",
+   "Sworn in on September 9, 2026."
+  ],
+  "hindi": [
+   "Chief Justice (मुख्य न्यायाधीश)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Justice Mahesh Chandra Tripathi was sworn in as the 50th Chief Justice of which High Court in September 2026?",
+    "o": [
+     "Patna High Court",
+     "Delhi High Court",
+     "Bombay High Court",
+     "Gujarat High Court"
+    ],
+    "k": 2,
+    "why": "He became the 50th Chief Justice of the Bombay High Court."
+   }
+  ]
+ },
+ "u0741": {
+  "gist": "Bhagwat Prasad Makwana was appointed Chairperson of the National Commission for Safai Karamcharis (NCSK) on September 6, 2026.",
+  "facts": [
+   "Chairperson: Bhagwat Prasad Makwana; Vice-Chairperson: Kaishab Bihari.",
+   "Members: Manoj Kumar Balmiki, Sushma Gaudiyal and Ravi Ramu Kalose.",
+   "Appointed by the Central Government on September 6, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who was appointed Chairperson of the National Commission for Safai Karamcharis (NCSK) on September 6, 2026?",
+    "o": [
+     "Kaishab Bihari",
+     "Manoj Kumar Balmiki",
+     "Sadhvi Niranjan Jyoti",
+     "Bhagwat Prasad Makwana"
+    ],
+    "k": 3,
+    "why": "Makwana became Chairperson; Kaishab Bihari became Vice-Chairperson."
+   }
+  ]
+ },
+ "u0742": {
+  "gist": "Air Marshal (Retd.) Jeetendra Mishra was named the first CEO of the Shri Ram Janmabhoomi Teerth Kshetra Trust on September 2, 2026.",
+  "facts": [
+   "First Chief Executive Officer (CEO) of the Trust.",
+   "General Secretary: Govind Dev Giri.",
+   "Treasurer: Mahesh Bhagchandka."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was named the first CEO of the Shri Ram Janmabhoomi Teerth Kshetra Trust in September 2026?",
+    "o": [
+     "Jeetendra Mishra",
+     "Govind Dev Giri",
+     "Mahesh Bhagchandka",
+     "Ashiss Kumar Dash"
+    ],
+    "k": 0,
+    "why": "Air Marshal (Retd.) Jeetendra Mishra was named the Trust's first CEO."
+   }
+  ]
+ },
+ "u0743": {
+  "gist": "Ajay A. Kumar was appointed India's next Ambassador to the Republic of Iraq on August 17, 2026.",
+  "facts": [
+   "Post: Ambassador of India to Iraq.",
+   "Appointed on August 17, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Ajay A. Kumar was appointed India's next Ambassador to which country on August 17, 2026?",
+    "o": [
+     "Nepal",
+     "Iraq",
+     "Cuba",
+     "Qatar"
+    ],
+    "k": 1,
+    "why": "He was named Ambassador of India to the Republic of Iraq."
+   }
+  ]
+ },
+ "u0744": {
+  "gist": "Alka Nangia Arora assumed charge as Controller General of Defence Accounts (CGDA) on August 1, 2026.",
+  "facts": [
+   "Post: Controller General of Defence Accounts (CGDA).",
+   "Took charge on August 1, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed charge as Controller General of Defence Accounts (CGDA) on August 1, 2026?",
+    "o": [
+     "Deepti Gaur Mukerjee",
+     "Lata Gupta",
+     "Alka Nangia Arora",
+     "Varsha Ashok Aglawe"
+    ],
+    "k": 2,
+    "why": "Alka Nangia Arora assumed charge as CGDA on August 1, 2026."
+   }
+  ]
+ },
+ "u0745": {
+  "gist": "Vice Admiral A.N. Pramod became Deputy Chief of Naval Staff (DCNS) on August 1, 2026, succeeding Vice Admiral Tarun Sobti.",
+  "facts": [
+   "Post: Deputy Chief of Naval Staff (DCNS); from August 1, 2026.",
+   "Succeeded Vice Admiral Tarun Sobti, who retired on July 31, 2026."
+  ],
+  "trap": "DCNS (Navy) went to A.N. Pramod; DCAS (Air Force) went to Tejpal Singh, on the same day.",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed charge as Deputy Chief of Naval Staff (DCNS) on August 1, 2026, succeeding Tarun Sobti?",
+    "o": [
+     "Tejpal Singh",
+     "Sandeep Jain",
+     "Vineet McCarty",
+     "A.N. Pramod"
+    ],
+    "k": 3,
+    "why": "Vice Admiral A.N. Pramod succeeded Tarun Sobti as DCNS."
+   }
+  ]
+ },
+ "u0746": {
+  "gist": "Tejpal Singh became Deputy Chief of the Air Staff (DCAS) of the Indian Air Force on August 1, 2026.",
+  "facts": [
+   "Post: Deputy Chief of the Air Staff (DCAS), Indian Air Force.",
+   "Succeeded Air Marshal Awadhesh Kumar Bharti."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed charge as Deputy Chief of the Air Staff (DCAS) of the Indian Air Force on August 1, 2026?",
+    "o": [
+     "Tejpal Singh",
+     "Awadhesh Kumar Bharti",
+     "Ashutosh Dixit",
+     "A.N. Pramod"
+    ],
+    "k": 0,
+    "why": "Tejpal Singh succeeded Awadhesh Kumar Bharti as DCAS."
+   }
+  ]
+ },
+ "u0747": {
+  "gist": "Varsha Ashok Aglawe became the 54th Director General and the first woman head of the Geological Survey of India (GSI) on July 31, 2026.",
+  "facts": [
+   "54th Director General of GSI; took charge July 31, 2026.",
+   "First woman to head GSI in its 176-year history.",
+   "Succeeded Asit Saha."
+  ],
+  "hook": "GSI waited 176 years for its first woman chief.",
+  "hindi": [
+   "Geological Survey of India (भारतीय भूवैज्ञानिक सर्वेक्षण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who became the first woman Director General of the Geological Survey of India in July 2026?",
+    "o": [
+     "Alka Nangia Arora",
+     "Varsha Ashok Aglawe",
+     "Deepti Gaur Mukerjee",
+     "Shabnam Sinha"
+    ],
+    "k": 1,
+    "why": "Varsha Ashok Aglawe, 54th DG, is the first woman to head GSI."
+   }
+  ]
+ },
+ "u0748": {
+  "gist": "Sandeep Thareja assumed office as the 47th Director General Armed Forces Medical Services (DGAFMS) on September 1, 2026.",
+  "facts": [
+   "47th Director General Armed Forces Medical Services (DGAFMS).",
+   "Took office on September 1, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed office as the 47th Director General Armed Forces Medical Services (DGAFMS) on September 1, 2026?",
+    "o": [
+     "Sandeep Jain",
+     "Sujeet Pandey",
+     "Sandeep Thareja",
+     "Amit Garg"
+    ],
+    "k": 2,
+    "why": "Sandeep Thareja became the 47th DGAFMS on September 1, 2026."
+   }
+  ]
+ },
+ "u0749": {
+  "gist": "Pralhad Joshi took additional charge as Union Minister of Education on July 26, 2026, after Dharmendra Pradhan resigned.",
+  "facts": [
+   "Took charge July 26, 2026, in addition to his existing portfolio.",
+   "Replaced Dharmendra Pradhan, who resigned from the Union Council of Ministers on July 25, 2026."
+  ],
+  "hindi": [
+   "Education Minister (शिक्षा मंत्री)",
+   "Union Council of Ministers (केंद्रीय मंत्रिपरिषद)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who took charge as Union Minister of Education on July 26, 2026, replacing Dharmendra Pradhan?",
+    "o": [
+     "Piyush Goyal",
+     "Amit Shah",
+     "Jagat Prakash Nadda",
+     "Pralhad Joshi"
+    ],
+    "k": 3,
+    "why": "Pralhad Joshi took charge of Education in addition to his existing portfolio."
+   }
+  ]
+ },
+ "u0750": {
+  "gist": "BJP leader Lata Gupta was appointed Chairperson of the Delhi Commission for Women (DCW) in July 2026.",
+  "facts": [
+   "Chairperson, Delhi Commission for Women (DCW), July 2026.",
+   "Members: Shyam Bala, Malti Verma, Lata Sodhi, Sanrika Sharma Jha and Renu Bhalla."
+  ],
+  "trap": "Chairperson is Lata Gupta; Lata Sodhi is only a member.",
+  "hindi": [
+   "Women's Commission (महिला आयोग)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who was appointed Chairperson of the Delhi Commission for Women (DCW) in July 2026?",
+    "o": [
+     "Lata Gupta",
+     "Renu Bhalla",
+     "Lata Sodhi",
+     "Malti Verma"
+    ],
+    "k": 0,
+    "why": "Lata Gupta became Chairperson; the others were appointed members."
+   }
+  ]
+ },
+ "u0751": {
+  "gist": "Piyush Goyal assumed charge as Secretary General and CEO of the National Human Rights Commission (NHRC) on July 24, 2026.",
+  "facts": [
+   "Posts: Secretary General and Chief Executive Officer, NHRC.",
+   "Took charge on July 24, 2026."
+  ],
+  "trap": "His NHRC post is Secretary General and CEO, not Chairperson.",
+  "hindi": [
+   "Human Rights Commission (मानवाधिकार आयोग)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed charge as Secretary General and CEO of the National Human Rights Commission on July 24, 2026?",
+    "o": [
+     "Anurag Jain",
+     "Piyush Goyal",
+     "Harjit Singh Grewal",
+     "Pralhad Joshi"
+    ],
+    "k": 1,
+    "why": "Piyush Goyal took charge as NHRC Secretary General and CEO on July 24, 2026."
+   }
+  ]
+ },
+ "u0752": {
+  "gist": "Deepti Gaur Mukerjee was appointed Secretary of the Department of Higher Education, Ministry of Education, in August 2026.",
+  "facts": [
+   "Post: Secretary, Department of Higher Education.",
+   "Ministry: Ministry of Education; August 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Deepti Gaur Mukerjee was appointed Secretary of which department in August 2026?",
+    "o": [
+     "Department of School Education",
+     "Department of Expenditure",
+     "Department of Higher Education",
+     "Department of Sports"
+    ],
+    "k": 2,
+    "why": "She became Secretary, Department of Higher Education, Ministry of Education."
+   }
+  ]
+ },
+ "u0753": {
+  "gist": "Infosys announced Ashiss Kumar Dash as its CEO Designate on July 23, 2026.",
+  "facts": [
+   "Company: Infosys.",
+   "Post: CEO Designate; announced July 23, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Infosys announced whom as its CEO Designate on July 23, 2026?",
+    "o": [
+     "Anup Bagchi",
+     "John Ternus",
+     "Vinay Tonse",
+     "Ashiss Kumar Dash"
+    ],
+    "k": 3,
+    "why": "Infosys named Ashiss Kumar Dash as CEO Designate on July 23, 2026."
+   }
+  ]
+ },
+ "u0754": {
+  "gist": "Rahul Himalian, Director (Tourism & Marketing) of IRCTC, got additional charge as its CMD from July 20, 2026.",
+  "facts": [
+   "Regular post: Director (Tourism & Marketing), IRCTC.",
+   "Additional charge: CMD of IRCTC for nine months from July 20, 2026, or until a regular incumbent joins."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Rahul Himalian was given additional charge as Chairman and Managing Director of which company from July 20, 2026?",
+    "o": [
+     "IRCTC",
+     "Hindustan Copper Limited",
+     "Hindustan Shipyard Limited",
+     "Bharat Petroleum Corporation Limited"
+    ],
+    "k": 0,
+    "why": "He got additional charge of CMD, IRCTC, for nine months."
+   }
+  ]
+ },
+ "u0755": {
+  "gist": "Anurag Jain assumed charge as the new CEO of NITI Aayog on August 17, 2026, for two years or until further orders.",
+  "facts": [
+   "Post: Chief Executive Officer (CEO), NITI Aayog.",
+   "Took charge August 17, 2026.",
+   "Term: two years from taking charge, or until further orders, whichever is earlier."
+  ],
+  "trap": "Three Anurags: Anurag Jain (NITI Aayog CEO), Anurag Kumar (Delhi Police Commissioner), Anurag Garg (NCB chief).",
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who assumed charge as the Chief Executive Officer of NITI Aayog on August 17, 2026?",
+    "o": [
+     "Anurag Kumar",
+     "Anurag Jain",
+     "Anurag Garg",
+     "Anup Bagchi"
+    ],
+    "k": 1,
+    "why": "Anurag Jain became CEO of NITI Aayog on August 17, 2026."
+   }
+  ]
+ },
+ "u0756": {
+  "gist": "Harjit Singh Grewal assumed charge as Chairperson of the National Commission for Minorities (NCM) on July 21, 2026.",
+  "facts": [
+   "Chairperson, National Commission for Minorities (NCM); took charge July 21, 2026.",
+   "Vice Chairperson: S. Munawari Begum.",
+   "Glen E Souza Ticlo: member representing the Christian community."
+  ],
+  "hindi": [
+   "Minorities Commission (अल्पसंख्यक आयोग)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed charge as Chairperson of the National Commission for Minorities on July 21, 2026?",
+    "o": [
+     "Mohsin Raza",
+     "S. Munawari Begum",
+     "Harjit Singh Grewal",
+     "Glen E Souza Ticlo"
+    ],
+    "k": 2,
+    "why": "Harjit Singh Grewal became NCM Chairperson; Munawari Begum became Vice Chairperson."
+   }
+  ]
+ },
+ "u0757": {
+  "gist": "Sanjeev Jain was appointed India's next Ambassador to North Korea (Democratic People's Republic of Korea) on July 6, 2026.",
+  "facts": [
+   "Post: Ambassador of India to the DPRK (North Korea).",
+   "Appointed on July 6, 2026."
+  ],
+  "trap": "Sanjeev Jain (envoy to North Korea) is not Sandeep Jain (Vice Chief of the Army Staff).",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Sanjeev Jain was appointed India's next Ambassador to which country on July 6, 2026?",
+    "o": [
+     "Qatar",
+     "Ukraine",
+     "Iraq",
+     "North Korea (DPRK)"
+    ],
+    "k": 3,
+    "why": "He was named Ambassador to the Democratic People's Republic of Korea."
+   }
+  ]
+ },
+ "u0758": {
+  "gist": "K. Srikar Reddy was appointed India's next Ambassador to Qatar on July 24, 2026.",
+  "facts": [
+   "Post: Ambassador of India to Qatar.",
+   "Appointed on July 24, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "K. Srikar Reddy was appointed India's next Ambassador to which country on July 24, 2026?",
+    "o": [
+     "Qatar",
+     "Cuba",
+     "Nepal",
+     "Ukraine"
+    ],
+    "k": 0,
+    "why": "K. Srikar Reddy was named Ambassador of India to Qatar."
+   }
+  ]
+ },
+ "u0759": {
+  "gist": "Amit Garg was appointed Director of the National Crime Records Bureau (NCRB) on July 6, 2026.",
+  "facts": [
+   "Post: Director, National Crime Records Bureau (NCRB).",
+   "Serves until October 31, 2027 (superannuation) or until further orders."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who was appointed Director of the National Crime Records Bureau (NCRB) on July 6, 2026?",
+    "o": [
+     "Sujeet Pandey",
+     "Amit Garg",
+     "Alok Kumar Mittal",
+     "Mahesh Dixit"
+    ],
+    "k": 1,
+    "why": "Amit Garg became NCRB Director on July 6, 2026."
+   }
+  ]
+ },
+ "u0760": {
+  "gist": "Former cricketer Sourav Ganguly was inducted into the ICC Cricket Hall of Fame on July 11, 2026, at Edinburgh, Scotland.",
+  "facts": [
+   "Honour: ICC Cricket Hall of Fame.",
+   "Ceremony: Edinburgh, Scotland, July 11, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was the ceremony held at which Sourav Ganguly was inducted into the ICC Cricket Hall of Fame on July 11, 2026?",
+    "o": [
+     "London, England",
+     "Dubai, UAE",
+     "Edinburgh, Scotland",
+     "Melbourne, Australia"
+    ],
+    "k": 2,
+    "why": "The ceremony was held in Edinburgh, Scotland."
+   }
+  ]
+ },
+ "u0761": {
+  "gist": "Sujeet Pandey was appointed Director of the Sardar Vallabhbhai Patel National Police Academy (SVPNPA) on July 6, 2026.",
+  "facts": [
+   "Post: Director, Sardar Vallabhbhai Patel National Police Academy (SVPNPA).",
+   "Appointed on July 6, 2026."
+  ],
+  "trap": "Same day, July 6, 2026: Sujeet Pandey (SVPNPA) and Amit Garg (NCRB).",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Sujeet Pandey was appointed on July 6, 2026 as Director of which institution?",
+    "o": [
+     "National Crime Records Bureau",
+     "Bureau of Police Research and Development",
+     "Intelligence Bureau",
+     "Sardar Vallabhbhai Patel National Police Academy"
+    ],
+    "k": 3,
+    "why": "He became Director of SVPNPA on July 6, 2026."
+   }
+  ]
+ },
+ "u0762": {
+  "gist": "Dr. Upendra P. Rajeev assumed charge as Director of the Vikram Sarabhai Space Centre (VSSC) on July 1, 2026.",
+  "facts": [
+   "Post: Director, Vikram Sarabhai Space Centre (VSSC).",
+   "Took charge on July 1, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Dr. Upendra P. Rajeev assumed charge on July 1, 2026 as Director of which centre?",
+    "o": [
+     "Vikram Sarabhai Space Centre",
+     "Satish Dhawan Space Centre",
+     "Space Applications Centre",
+     "Liquid Propulsion Systems Centre"
+    ],
+    "k": 0,
+    "why": "He became Director of the Vikram Sarabhai Space Centre (VSSC)."
+   }
+  ]
+ },
+ "u0763": {
+  "gist": "Sandeep Jain assumed charge as Vice Chief of the Army Staff (VCOAS) on July 1, 2026, succeeding Lt Gen Dhiraj Seth.",
+  "facts": [
+   "Post: Vice Chief of the Army Staff (VCOAS).",
+   "Took charge July 1, 2026; succeeded Lieutenant General Dhiraj Seth."
+  ],
+  "hook": "Chain: Dhiraj Seth left the Vice Chief seat; Sandeep Jain took it.",
+  "trap": "Sandeep Jain (Army Vice Chief) is not Sanjeev Jain (Ambassador to North Korea).",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed charge as Vice Chief of the Army Staff (VCOAS) on July 1, 2026?",
+    "o": [
+     "Sanjeev Jain",
+     "Sandeep Jain",
+     "Dhiraj Seth",
+     "Upendra Dwivedi"
+    ],
+    "k": 1,
+    "why": "Sandeep Jain succeeded Lt Gen Dhiraj Seth as VCOAS."
+   }
+  ]
+ },
+ "u0764": {
+  "gist": "General Dhiraj Seth became the 31st Chief of the Army Staff (COAS) on June 30, 2026, succeeding General Upendra Dwivedi.",
+  "facts": [
+   "31st Chief of the Army Staff; took office June 30, 2026.",
+   "Succeeded General Upendra Dwivedi.",
+   "Conferred the rank of Honorary General of the Nepal Army (August, 2026)."
+  ],
+  "hindi": [
+   "Chief of the Army Staff (थल सेना प्रमुख)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "General Dhiraj Seth assumed office on June 30, 2026 as India's which Chief of the Army Staff?",
+    "o": [
+     "29th",
+     "30th",
+     "31st",
+     "32nd"
+    ],
+    "k": 2,
+    "why": "Dhiraj Seth became the 31st COAS, succeeding Upendra Dwivedi."
+   }
+  ]
+ },
+ "u0765": {
+  "gist": "Mahesh Dixit assumed charge as Director of the Intelligence Bureau (IB) on June 30, 2026, succeeding Tapan Kumar Deka.",
+  "facts": [
+   "Post: Director, Intelligence Bureau (IB); from June 30, 2026.",
+   "Succeeded Tapan Kumar Deka."
+  ],
+  "hindi": [
+   "Intelligence Bureau (आसूचना ब्यूरो)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who assumed charge as Director of the Intelligence Bureau on June 30, 2026, succeeding Tapan Kumar Deka?",
+    "o": [
+     "Ashutosh Dixit",
+     "Rakesh Aggarwal",
+     "Mahesh Dixit",
+     "Praveen Kumar"
+    ],
+    "k": 2,
+    "why": "Mahesh Dixit succeeded Tapan Kumar Deka as IB Director."
+   }
+  ]
+ },
+ "u0766": {
+  "gist": "On July 1, 2026, the ACC extended Foreign Secretary Vikram Misri's tenure by one year, up to July 14, 2027.",
+  "facts": [
+   "Extension: one year, approved by the Appointments Committee of the Cabinet on July 1, 2026.",
+   "Continues until July 14, 2027, or until further orders."
+  ],
+  "hindi": [
+   "Foreign Secretary (विदेश सचिव)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Until when will Vikram Misri continue as Foreign Secretary after the one-year extension approved on July 1, 2026?",
+    "o": [
+     "July 31, 2027",
+     "August 30, 2027",
+     "August 22, 2027",
+     "July 14, 2027"
+    ],
+    "k": 3,
+    "why": "He continues as Foreign Secretary until July 14, 2027."
+   }
+  ]
+ },
+ "u0767": {
+  "gist": "The ACC extended Ravi Agrawal's tenure as CBDT Chairman by six months on June 30, 2026.",
+  "facts": [
+   "Post: Chairman, Central Board of Direct Taxes (CBDT).",
+   "Extension: six months, approved June 30, 2026.",
+   "Contract reappointment: July 1, 2026 to December 31, 2026."
+  ],
+  "hindi": [
+   "Direct Taxes (प्रत्यक्ष कर)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Whose tenure as Chairman of the Central Board of Direct Taxes (CBDT) was extended by six months in June 2026?",
+    "o": [
+     "Ravi Agrawal",
+     "Rahul Navin",
+     "Ravi Shankar",
+     "Ravi Ranjan"
+    ],
+    "k": 0,
+    "why": "The ACC extended Ravi Agrawal's CBDT tenure by six months."
+   }
+  ]
+ },
+ "u0768": {
+  "gist": "Dinesh Trivedi began work as India's 18th High Commissioner to Bangladesh on June 12, 2026, with Cabinet Minister-level status.",
+  "facts": [
+   "India's 18th High Commissioner to Bangladesh; assignment began June 12, 2026.",
+   "Presented his credentials on June 25, 2026.",
+   "Given status equal to a Union Cabinet Minister in the Table of Precedence."
+  ],
+  "hindi": [
+   "High Commissioner (उच्चायुक्त)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Dinesh Trivedi, who began his assignment on June 12, 2026, is India's 18th High Commissioner to which country?",
+    "o": [
+     "United Kingdom",
+     "Bangladesh",
+     "Malaysia",
+     "Sri Lanka"
+    ],
+    "k": 1,
+    "why": "He is India's 18th High Commissioner to Bangladesh."
+   }
+  ]
+ },
+ "u0769": {
+  "gist": "Harsh Vardhan, President of the Bihar Cricket Association, received the Global Prestige Award at the House of Lords, UK, on June 20, 2026.",
+  "facts": [
+   "Award: Global Prestige Award.",
+   "Venue: House of Lords, UK Parliament; June 20, 2026."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Harsh Vardhan, honoured with the Global Prestige Award at the House of Lords on June 20, 2026, is President of which body?",
+    "o": [
+     "Asian Tennis Federation",
+     "Board of Control for Cricket in India",
+     "Bihar Cricket Association",
+     "Commonwealth Chess Association"
+    ],
+    "k": 2,
+    "why": "Harsh Vardhan is President of the Bihar Cricket Association (BCA)."
+   }
+  ]
+ },
+ "u0770": {
+  "gist": "Anurag Kumar assumed charge as Commissioner of Police, Delhi, on July 17, 2026, succeeding Satish Golcha.",
+  "facts": [
+   "Post: Commissioner of Police, Delhi; from July 17, 2026.",
+   "Succeeded Satish Golcha."
+  ],
+  "hindi": [
+   "Commissioner of Police (पुलिस आयुक्त)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed charge as Commissioner of Police, Delhi, on July 17, 2026?",
+    "o": [
+     "Anurag Jain",
+     "Satish Golcha",
+     "Amit Garg",
+     "Anurag Kumar"
+    ],
+    "k": 3,
+    "why": "Anurag Kumar succeeded Satish Golcha as Delhi Police Commissioner."
+   }
+  ]
+ },
+ "u0771": {
+  "gist": "Alok Kumar Mittal was appointed Director General of the Bureau of Police Research and Development (BPR&D) in July 2026.",
+  "facts": [
+   "Post: Director General, BPR&D.",
+   "Tenure until June 30, 2029 (superannuation) or until further orders."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Alok Kumar Mittal was appointed in July 2026 as Director General of which body?",
+    "o": [
+     "Bureau of Police Research and Development",
+     "National Crime Records Bureau",
+     "Railway Protection Force",
+     "Indo-Tibetan Border Police"
+    ],
+    "k": 0,
+    "why": "He became DG of BPR&D, serving until June 30, 2029."
+   }
+  ]
+ },
+ "u0772": {
+  "gist": "Chandrasekharan Raghuram assumed charge as CMD of Hindustan Shipyard Limited on July 2, 2026.",
+  "facts": [
+   "Post: Chairman and Managing Director, Hindustan Shipyard Limited.",
+   "Succeeded Captain Ganti Venkateswarlu (Retired)."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Chandrasekharan Raghuram assumed charge as CMD of which company on July 2, 2026?",
+    "o": [
+     "Hindustan Copper Limited",
+     "Hindustan Shipyard Limited",
+     "Bharat Petroleum Corporation Limited",
+     "IRCTC"
+    ],
+    "k": 1,
+    "why": "He became CMD of Hindustan Shipyard Limited on July 2, 2026."
+   }
+  ]
+ },
+ "u0773": {
+  "gist": "Anjani Kumar was appointed India's next Ambassador to Ukraine on July 8, 2026.",
+  "facts": [
+   "Post: Ambassador of India to Ukraine.",
+   "Appointed on July 8, 2026."
+  ],
+  "trap": "Anjani Kumar (Ambassador to Ukraine) is not Anjani Kumar Singh (Bihar State Information Commissioner).",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Anjani Kumar was appointed India's next Ambassador to which country on July 8, 2026?",
+    "o": [
+     "Russia",
+     "Iraq",
+     "Ukraine",
+     "Qatar"
+    ],
+    "k": 2,
+    "why": "Anjani Kumar was named Ambassador of India to Ukraine."
+   }
+  ]
+ },
+ "u0774": {
+  "gist": "Tennis legend Leander Paes was appointed Player Ambassador of the Asian Tennis Federation (ATF) on July 7, 2026.",
+  "facts": [
+   "Post: Player Ambassador, Asian Tennis Federation (ATF).",
+   "Appointed on July 7, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Leander Paes was appointed Player Ambassador of which body on July 7, 2026?",
+    "o": [
+     "International Tennis Federation",
+     "All India Tennis Association",
+     "Olympic Council of Asia",
+     "Asian Tennis Federation"
+    ],
+    "k": 3,
+    "why": "He became Player Ambassador of the Asian Tennis Federation (ATF)."
+   }
+  ]
+ },
+ "u0775": {
+  "gist": "Veteran actor Anupam Kher received the Ashoka Award 2026 in July 2026 for his long, many-sided acting career.",
+  "facts": [
+   "Award: Ashoka Award 2026; July 2026.",
+   "Reason: distinguished contribution and multifaceted career as an actor."
+  ],
+  "hook": "A for A: Anupam got the Ashoka.",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which award did veteran actor Anupam Kher receive in July 2026?",
+    "o": [
+     "Ashoka Award 2026",
+     "Global Prestige Award",
+     "NBT Bhushan Samman",
+     "Agricola Medal"
+    ],
+    "k": 0,
+    "why": "Anupam Kher was honoured with the Ashoka Award 2026."
+   }
+  ]
+ },
+ "u0776": {
+  "gist": "Poet and lyricist Prasoon Joshi received the first-ever (inaugural) 'NBT Bhushan Samman' on July 4, 2026.",
+  "facts": [
+   "Award: inaugural 'NBT Bhushan Samman'; July 4, 2026.",
+   "Prasoon Joshi: poet, lyricist, screenwriter and advertising professional."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who received the inaugural 'NBT Bhushan Samman' on July 4, 2026?",
+    "o": [
+     "Anupam Kher",
+     "Prasoon Joshi",
+     "Gyanranjan",
+     "Sayani Gupta"
+    ],
+    "k": 1,
+    "why": "Prasoon Joshi was conferred the inaugural NBT Bhushan Samman."
+   }
+  ]
+ },
+ "u0777": {
+  "gist": "Anupam Misra assumed charge as CMD of Hindustan Copper Limited (HCL) on July 1, 2026.",
+  "facts": [
+   "Post: Chairman and Managing Director, Hindustan Copper Limited (HCL).",
+   "Took charge on July 1, 2026."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Anupam Misra assumed charge as CMD of which company on July 1, 2026?",
+    "o": [
+     "Bharat Petroleum Corporation Limited",
+     "Hindustan Shipyard Limited",
+     "Hindustan Copper Limited",
+     "IRCTC"
+    ],
+    "k": 2,
+    "why": "He became CMD of Hindustan Copper Limited (HCL)."
+   }
+  ]
+ },
+ "u0778": {
+  "gist": "The Centre appointed Dr Nitin Ramesh Gokarn as Chairman of the National Road Safety Board (NRSB) in July 2026.",
+  "facts": [
+   "Post: Chairman, National Road Safety Board (NRSB).",
+   "Appointed by the Central Government, July 2026."
+  ],
+  "hindi": [
+   "Road safety (सड़क सुरक्षा)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Dr Nitin Ramesh Gokarn was appointed Chairman of which body in July 2026?",
+    "o": [
+     "National Highways Authority of India",
+     "National Crime Records Bureau",
+     "Directorate General of Civil Aviation",
+     "National Road Safety Board"
+    ],
+    "k": 3,
+    "why": "He was appointed Chairman of the National Road Safety Board (NRSB)."
+   }
+  ]
+ },
+ "u0779": {
+  "gist": "Sikkim mountaineer Tshering Choden climbed Mount Elbrus in Russia, Europe's highest peak, on July 5, 2026.",
+  "facts": [
+   "Peak: Mount Elbrus, Russia (Europe's highest).",
+   "Climber: Tshering Choden of Sikkim; July 5, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Tshering Choden, who climbed Mount Elbrus on July 5, 2026, is a mountaineer from which state?",
+    "o": [
+     "Sikkim",
+     "Uttarakhand",
+     "Arunachal Pradesh",
+     "Himachal Pradesh"
+    ],
+    "k": 0,
+    "why": "Tshering Choden is a mountaineer from Sikkim."
+   }
+  ]
+ },
+ "u0780": {
+  "gist": "Congress leader D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka on June 3, 2026.",
+  "facts": [
+   "25th Chief Minister of Karnataka; sworn in June 3, 2026.",
+   "G. Parameshwara sworn in as Deputy Chief Minister."
+  ],
+  "hindi": [
+   "Chief Minister (मुख्यमंत्री)",
+   "Deputy Chief Minister (उपमुख्यमंत्री)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "D.K. Shivakumar was sworn in on June 3, 2026 as which Chief Minister of Karnataka?",
+    "o": [
+     "23rd",
+     "24th",
+     "25th",
+     "26th"
+    ],
+    "k": 2,
+    "why": "He became the 25th Chief Minister of Karnataka."
+   }
+  ]
+ },
+ "u0781": {
+  "gist": "V. Kameswar Rao took oath as Chief Justice of the Patna High Court on September 13, 2026.",
+  "facts": [
+   "Post: Chief Justice, Patna High Court.",
+   "Oath on September 13, 2026."
+  ],
+  "hindi": [
+   "Chief Justice (मुख्य न्यायाधीश)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "V. Kameswar Rao took oath as Chief Justice of which High Court on September 13, 2026?",
+    "o": [
+     "Bombay High Court",
+     "Patna High Court",
+     "Telangana High Court",
+     "Delhi High Court"
+    ],
+    "k": 1,
+    "why": "He took oath as Chief Justice of Patna High Court."
+   }
+  ]
+ },
+ "u0782": {
+  "gist": "Vineet McCarty became the 20th Commander-in-Chief of the Andaman & Nicobar Command (ANC) at Sri Vijaya Puram on June 1, 2026.",
+  "facts": [
+   "20th Commander-in-Chief, Andaman & Nicobar Command (ANC).",
+   "Took charge at Sri Vijaya Puram on June 1, 2026."
+  ],
+  "trap": "ANC military commander = Vineet McCarty; Lieutenant Governor of the islands = Dr. Dinesh Sharma.",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed charge as the 20th Commander-in-Chief of the Andaman & Nicobar Command on June 1, 2026?",
+    "o": [
+     "A.N. Pramod",
+     "Dinesh Sharma",
+     "Vineet McCarty",
+     "Tejpal Singh"
+    ],
+    "k": 2,
+    "why": "Vineet McCarty became the 20th C-in-C of ANC at Sri Vijaya Puram."
+   }
+  ]
+ },
+ "u0783": {
+  "gist": "Rajesh Kumar Singh assumed additional charge as Chairman of the Defence Research and Development Organisation (DRDO) on May 31, 2026.",
+  "facts": [
+   "Post: Chairman, DRDO (additional charge).",
+   "Took charge on May 31, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who assumed additional charge as Chairman of DRDO on May 31, 2026?",
+    "o": [
+     "Upendra P. Rajeev",
+     "Raj Kumar Goyal",
+     "Anurag Jain",
+     "Rajesh Kumar Singh"
+    ],
+    "k": 3,
+    "why": "Rajesh Kumar Singh took additional charge as DRDO Chairman on May 31, 2026."
+   }
+  ]
+ }
+}

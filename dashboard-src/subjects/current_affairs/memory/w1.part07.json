@@ -1,0 +1,550 @@
+{
+ "u0539": {
+  "gist": "Bhupender Yadav opened a national Centre of Excellence on Human–Wildlife Conflict at WII–SACON, Coimbatore, on July 10, 2026, and launched a national conflict portal.",
+  "facts": [
+   "Inaugurated by Environment Minister Bhupender Yadav on July 10, 2026.",
+   "Location: WII–SACON (Salim Ali Centre for Ornithology and Natural History), Coimbatore, Tamil Nadu.",
+   "He also launched the National Human–Wildlife Conflict Portal.",
+   "Released first edition of 'Current Status of Human–Wildlife Conflict in India: An Overview'."
+  ],
+  "hook": "",
+  "trap": "SACON is in Coimbatore (Tamil Nadu) and is a research institute of the Wildlife Institute of India.",
+  "hindi": [
+   "Human–wildlife conflict (मानव-वन्यजीव संघर्ष)",
+   "Ornithology (पक्षीविज्ञान)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the national Centre of Excellence on Human–Wildlife Conflict inaugurated in July 2026?",
+    "o": [
+     "SACON, Coimbatore",
+     "WII, Dehradun",
+     "ATREE, Bengaluru",
+     "CMLRE, Kochi"
+    ],
+    "k": 0,
+    "why": "It was set up at WII–SACON, Coimbatore, Tamil Nadu, on July 10, 2026."
+   }
+  ]
+ },
+ "u0540": {
+  "gist": "On June 5, 2026, Bhupender Yadav and Delhi CM Rekha Gupta opened 18 Namo Oxygen Parks in Delhi under 'Ek Ped Maa Ke Naam'.",
+  "facts": [
+   "Inaugurated June 5, 2026 (World Environment Day) by Bhupender Yadav and Delhi CM Rekha Gupta.",
+   "18 Namo Oxygen Parks opened across the national capital.",
+   "Part of the nationwide 'Ek Ped Maa Ke Naam' campaign.",
+   "Origin: in 2024 the DDA illegally cut over 1,100 mature trees in the Southern Ridge.",
+   "Southern Ridge: protected reserve forest called the 'lungs of the capital'."
+  ],
+  "hook": "",
+  "trap": "18 = parks opened in 2026; 1,100 = trees illegally cut in 2024.",
+  "hindi": [
+   "Reserve forest (आरक्षित वन)",
+   "Tree plantation (वृक्षारोपण)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Under which campaign were 18 Namo Oxygen Parks inaugurated in Delhi on World Environment Day 2026?",
+    "o": [
+     "Green India Mission",
+     "Ek Ped Maa Ke Naam",
+     "Nagar Van Yojana",
+     "Mission LiFE"
+    ],
+    "k": 1,
+    "why": "The parks were opened under the nationwide 'Ek Ped Maa Ke Naam' campaign."
+   }
+  ]
+ },
+ "u0541": {
+  "gist": "Hardeep Singh Puri launched E85 fuel at an IndianOil outlet in New Delhi on June 5, 2026, moving India toward flex-fuel vehicles.",
+  "facts": [
+   "Launched by Petroleum Minister Hardeep Singh Puri on June 5, 2026 (World Environment Day), New Delhi.",
+   "E85 = 80–85% ethanol + 14–19% petrol, made for flex-fuel vehicles.",
+   "Flex-fuel vehicles (FFVs) run on E20 to E100; engine detects ethanol content automatically.",
+   "E85 is priced nearly ₹20 per litre lower than petrol.",
+   "FFVs on E85 can cut lifecycle greenhouse gas emissions by around 61% vs petrol vehicles.",
+   "Blending rose from 1.53% (2014) to 20% (June 5, 2026), five years ahead of schedule."
+  ],
+  "hook": "E85 launch day = World Environment Day (June 5).",
+  "trap": "E85 is a high-ethanol fuel (80–85% ethanol); E20 is the normal 20% blend.",
+  "hindi": [
+   "Energy security (ऊर्जा सुरक्षा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What is the ethanol content of the E85 fuel launched in India on June 5, 2026?",
+    "o": [
+     "20–25 per cent",
+     "51–60 per cent",
+     "80–85 per cent",
+     "95–100 per cent"
+    ],
+    "k": 2,
+    "why": "E85 has 80–85 per cent ethanol and 14–19 per cent petrol."
+   },
+   {
+    "q": "By around how much can flex-fuel vehicles running on E85 cut lifecycle greenhouse gas emissions compared with petrol vehicles?",
+    "o": [
+     "61 per cent",
+     "20 per cent",
+     "85 per cent",
+     "40 per cent"
+    ],
+    "k": 0,
+    "why": "FFVs on E85 can reduce lifecycle GHG emissions by around 61 per cent."
+   }
+  ]
+ },
+ "u0542": {
+  "gist": "In May 2026, the Andaman and Nicobar Administration set two underwater Guinness World Records at Swaraj Dweep to promote scuba and marine tourism.",
+  "facts": [
+   "Two underwater Guinness World Records set in May 2026 at Swaraj Dweep.",
+   "Swaraj Dweep was earlier known as Havelock Island (South Andaman).",
+   "First record: 'Largest flag unfurled underwater' (Indian Tricolour).",
+   "Second record: 'Tallest human stack underwater'.",
+   "Record holder: Andaman and Nicobar Administration; aim: scuba, marine and responsible adventure tourism."
+  ],
+  "hook": "Havelock Island → Swaraj Dweep: old name, new name.",
+  "trap": "",
+  "hindi": [
+   "Marine tourism (समुद्री पर्यटन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "At which island did the Andaman and Nicobar Administration set two underwater Guinness World Records in May 2026?",
+    "o": [
+     "Swaraj Dweep",
+     "Shaheed Dweep",
+     "Great Nicobar",
+     "Little Andaman"
+    ],
+    "k": 0,
+    "why": "Both records were set at Swaraj Dweep, earlier called Havelock Island."
+   }
+  ]
+ },
+ "u0543": {
+  "gist": "The first conference on Transitioning Away from Fossil Fuels focused on cutting reliance on coal, oil and gas in a just, orderly, equitable way.",
+  "facts": [
+   "Focus: reducing dependence on coal, oil and gas in a just, orderly and equitable manner.",
+   "Background: the COP28 Global Stocktake decision.",
+   "First principle: participation by those ready to move forward.",
+   "Second principle: implementation as the guiding star, based on shared scientific certainty.",
+   "Third principle: focus on solutions that support the transition rather than delay it."
+  ],
+  "hook": "Three principles in three words: Ready, Implement, Solve.",
+  "trap": "Its background is COP28's Global Stocktake, not COP30.",
+  "hindi": [
+   "Fossil fuels (जीवाश्म ईंधन)",
+   "Just transition (न्यायसंगत परिवर्तन)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The First International Conference on Transitioning Away from Fossil Fuels traces its background to which decision?",
+    "o": [
+     "COP26 Glasgow Climate Pact",
+     "COP28 Global Stocktake decision",
+     "COP21 Paris Agreement",
+     "COP30 Belém Package"
+    ],
+    "k": 1,
+    "why": "Its background lies in the COP28 Global Stocktake decision."
+   }
+  ]
+ },
+ "u0544": {
+  "gist": "India's first satellite-tagged Ganges soft-shell turtle, an endangered species, was released in Kaziranga National Park and Tiger Reserve, Assam, on May 15, 2026.",
+  "facts": [
+   "Released May 15, 2026 in the 1,302 sq. km Kaziranga National Park and Tiger Reserve, Assam.",
+   "India's first satellite-tagged Ganges soft-shell turtle.",
+   "Species: Nilssonia gangetica; endangered; Schedule I under the Wildlife Protection Act, 1972.",
+   "Identified by arrowhead-shaped markings on top of its head.",
+   "Five of India's soft-shell turtle species are known from the Kaziranga landscape."
+  ],
+  "hook": "An arrow on its head points to the Ganges soft-shell turtle.",
+  "trap": "",
+  "hindi": [
+   "Turtle (कछुआ)",
+   "Endangered (संकटग्रस्त)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was India's first satellite-tagged Ganges soft-shell turtle released in May 2026?",
+    "o": [
+     "Kaziranga, Assam",
+     "Sundarbans, West Bengal",
+     "Chambal Sanctuary, Madhya Pradesh",
+     "Kukrail, Uttar Pradesh"
+    ],
+    "k": 0,
+    "why": "It was released in Kaziranga National Park and Tiger Reserve, Assam, on May 15, 2026."
+   }
+  ]
+ },
+ "u0545": {
+  "gist": "India ranks third worldwide in installed renewable capacity (250.50 GW at end-2025, per IRENA), behind China and the United States and ahead of Brazil.",
+  "facts": [
+   "IRENA end-2025: China 2,258.02 GW, USA 466.45 GW, India 250.50 GW, Brazil 228.20 GW.",
+   "IRENA's July 2026 revision moved India from 250.52 GW to 250.50 GW; rank unchanged.",
+   "MNRE, 30 September 2026: renewables 299.247 GW + nuclear 8.780 GW = 308.027 GW non-fossil.",
+   "Solar (171.051 GW) and wind (59.201 GW) lead India's renewable capacity.",
+   "50% non-fossil capacity target met June 2025; share reached 54.18% on 30 June 2026.",
+   "FY 2025–26 generation: fossil 70.73%, non-fossil 29.27%."
+  ],
+  "hook": "Top four order: China → USA → India → Brazil.",
+  "trap": "Capacity share is not generation share: non-fossil was 54.18% of capacity (June 2026) but only 29.27% of FY 2025–26 generation.",
+  "hindi": [
+   "Installed capacity (स्थापित क्षमता)",
+   "Renewable energy (नवीकरणीय ऊर्जा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to IRENA's end-2025 comparison, which country ranks just behind India in installed renewable capacity?",
+    "o": [
+     "Germany",
+     "Japan",
+     "Brazil",
+     "Canada"
+    ],
+    "k": 2,
+    "why": "India (250.50 GW) is third; Brazil follows with 228.20 GW."
+   },
+   {
+    "q": "As per MNRE, what was India's total non-fossil installed capacity on 30 September 2026?",
+    "o": [
+     "283.46 GW",
+     "299.247 GW",
+     "250.50 GW",
+     "308.027 GW"
+    ],
+    "k": 3,
+    "why": "Renewables 299.247 GW plus nuclear 8.780 GW gave 308.027 GW non-fossil."
+   }
+  ]
+ },
+ "u0546": {
+  "gist": "CMS COP15 in Campo Grande, Brazil (March 23–29, 2026), gave new or upgraded protection to 40 migratory species, subspecies and populations.",
+  "facts": [
+   "CMS = Convention on the Conservation of Migratory Species of Wild Animals, also called the Bonn Convention.",
+   "COP15: Campo Grande, Brazil, March 23–29, 2026; theme 'Connecting Nature to Sustain Life'.",
+   "40 species, subspecies and populations added or upgraded in Appendices I and II.",
+   "CMS now covers over 1,200 unique species.",
+   "Brazil holds the CMS COP Presidency for the next three years.",
+   "COP16: Bonn, Germany, in 2029, marking CMS's 50th anniversary (signed at Bonn, 1979)."
+  ],
+  "hook": "Signed at Bonn in 1979 → back to Bonn in 2029 for its 50th birthday.",
+  "trap": "CMS COP15 (Campo Grande) is a wildlife treaty meeting, not the UN climate COP.",
+  "hindi": [
+   "Migratory species (प्रवासी प्रजातियां)",
+   "Biodiversity (जैव विविधता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the 15th Conference of the Parties to the Convention on Migratory Species (CMS COP15) held in March 2026?",
+    "o": [
+     "Bonn, Germany",
+     "Campo Grande, Brazil",
+     "Belém, Brazil",
+     "Samarkand, Uzbekistan"
+    ],
+    "k": 1,
+    "why": "CMS COP15 was held in Campo Grande, Brazil, from March 23 to 29, 2026."
+   },
+   {
+    "q": "How many species, subspecies and populations received new or upgraded protection at CMS COP15 in 2026?",
+    "o": [
+     "40",
+     "15",
+     "1,200",
+     "50"
+    ],
+    "k": 0,
+    "why": "COP15 gave new or upgraded protection to 40 species, subspecies and populations."
+   }
+  ]
+ },
+ "u0547": {
+  "gist": "Ladakh's Project Him Sarovar, launched on April 10, 2026 by LG Vinai Kumar Saxena, stores snowmelt and glacial melt in small reservoirs for lean periods.",
+  "facts": [
+   "Launched April 10, 2026 by Vinai Kumar Saxena, Lieutenant Governor of Ladakh.",
+   "Water-security plan for Ladakh's cold desert: scientific snow harvesting, storing snowmelt and glacial melt.",
+   "Phase I: 50 water bodies (30 in Leh, 20 in Kargil), covering nearly 25% of villages.",
+   "By June 12, 2026, 5 reservoirs were complete; target 100 water bodies by next year."
+  ],
+  "hook": "Him (snow) + Sarovar (lake) = lakes of stored snowmelt.",
+  "trap": "50 = Phase I water bodies; 100 = target for next year.",
+  "hindi": [
+   "Cold desert (शीत मरुस्थल)",
+   "Water security (जल सुरक्षा)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Under Phase I of Ladakh's Project Him Sarovar (2026), how many water bodies were proposed?",
+    "o": [
+     "30",
+     "50",
+     "100",
+     "20"
+    ],
+    "k": 1,
+    "why": "Phase I proposed 50 water bodies: 30 in Leh and 20 in Kargil."
+   }
+  ]
+ },
+ "u0548": {
+  "gist": "IQAir's 8th World Air Quality Report (March 24, 2026) covered 9,446 cities in 143 countries; only 14% of cities met WHO's PM2.5 guideline.",
+  "facts": [
+   "Released March 24, 2026; 8th edition; covers 2025; 9,446 cities in 143 countries/regions.",
+   "Only 13 countries, regions and territories met WHO's annual PM2.5 guideline of 5 μg/m³.",
+   "Only 14% of global cities met the guideline in 2025, down from 17% in 2024.",
+   "Most polluted city: Loni, India (112.5 μg/m³); Delhi city fourth (99.6).",
+   "Most polluted country: Pakistan (67.3); India sixth (48.9).",
+   "Most polluted capital: New Delhi (82.2), then Dhaka (68.0) and Dushanbe (57.3)."
+  ],
+  "hook": "New Delhi tops the capitals at 82.2 while the WHO guideline is just 5.",
+  "trap": "Loni, not Delhi, is the most polluted city (Delhi city is fourth); New Delhi tops only the capitals list. Also 13 = countries meeting the WHO guideline; 14% = share of cities.",
+  "hindi": [
+   "Air quality (वायु गुणवत्ता)",
+   "Air pollution (वायु प्रदूषण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which was the most polluted capital city in IQAir's World Air Quality Report 2025, released in March 2026?",
+    "o": [
+     "New Delhi",
+     "Dhaka",
+     "Dushanbe",
+     "Kinshasa"
+    ],
+    "k": 0,
+    "why": "New Delhi topped the capitals with an average PM2.5 of 82.2 μg/m³."
+   },
+   {
+    "q": "Which city was the world's most polluted by annual average PM2.5 in 2025, per IQAir's World Air Quality Report?",
+    "o": [
+     "Delhi, India",
+     "Hotan, China",
+     "Loni, India",
+     "Byrnihat, India"
+    ],
+    "k": 2,
+    "why": "Loni, India topped with 112.5 μg/m³, ahead of Hotan (109.6) and Byrnihat (101.1)."
+   }
+  ]
+ },
+ "u0549": {
+  "gist": "On March 24, 2026, MoEFCC designated the 'Bhavasagara' Referral Centre at CMLRE, Kochi, as India's National Repository for Deep-Sea Fauna.",
+  "facts": [
+   "Designated on March 24, 2026 by the Ministry of Environment, Forest and Climate Change.",
+   "Bhavasagara Referral Centre is at CMLRE (Centre for Marine Living Resources & Ecology), Kochi, Kerala.",
+   "CMLRE works under the Ministry of Earth Sciences (MoES).",
+   "Stores deep-sea animal collections from India's Exclusive Economic Zone (EEZ).",
+   "Holds over 3560 identified, geo-referenced voucher specimens; supports deep-sea taxonomy training."
+  ],
+  "hook": "",
+  "trap": "Designated by MoEFCC, but CMLRE itself functions under MoES.",
+  "hindi": [
+   "Deep sea (गहरा समुद्र)",
+   "Marine biodiversity (समुद्री जैव विविधता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which facility was designated India's National Repository for Deep-Sea Fauna in March 2026?",
+    "o": [
+     "Zoological Survey of India, Kolkata",
+     "National Institute of Oceanography, Goa",
+     "Bhavasagara Referral Centre, Kochi",
+     "CMFRI Regional Centre, Visakhapatnam"
+    ],
+    "k": 2,
+    "why": "MoEFCC designated the Bhavasagara Referral Centre at CMLRE, Kochi, on March 24, 2026."
+   }
+  ]
+ },
+ "u0550": {
+  "gist": "CSE's State of India's Environment 2026 (February 25, 2026) says 2025 saw the sharpest rise in extreme weather in four years, on 99% of days.",
+  "facts": [
+   "Released by CSE and Down to Earth, February 25, 2026, at Anil Agarwal Dialogue, Nimli, near Alwar.",
+   "Jan 1–Nov 30, 2025: extreme weather on 99% of days; 4,419 deaths; 17.41 million hectares crops hit.",
+   "2024: 88% of days, 3,393 deaths; 2023: 89% of days, 3,208 deaths.",
+   "Worst-hit states: Himachal Pradesh (267 days), Kerala (173), Madhya Pradesh (162).",
+   "Only 15% of Indians (about 200 million) live within 10 km of a continuous air monitor.",
+   "Ocean acidity has risen 30–40% since the industrial era."
+  ],
+  "hook": "Extreme-weather days: 89% (2023) → 88% (2024) → 99% (2025), almost every day of 2025.",
+  "trap": "The SOE series began in 2014; CSE's Citizen's First Report dates to 1982.",
+  "hindi": [
+   "Extreme weather (चरम मौसम)",
+   "Heatwave (लू)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to CSE's State of India's Environment 2026 report, which state was worst hit by extreme weather in 2025?",
+    "o": [
+     "Kerala",
+     "Madhya Pradesh",
+     "Himachal Pradesh",
+     "Uttarakhand"
+    ],
+    "k": 2,
+    "why": "Himachal Pradesh had extreme weather on 267 days, ahead of Kerala (173) and Madhya Pradesh (162)."
+   },
+   {
+    "q": "Per the State of India's Environment 2026 report, on what share of days did India face extreme weather from January 1 to November 30, 2025?",
+    "o": [
+     "99%",
+     "88%",
+     "89%",
+     "85%"
+    ],
+    "k": 0,
+    "why": "Extreme weather occurred on 99% of days in that period of 2025."
+   }
+  ]
+ },
+ "u0551": {
+  "gist": "The Sixteenth IRENA Assembly ended on 12 January 2026 in Abu Dhabi, UAE, under the theme 'Powering Humanity: Renewable Energy for Shared Prosperity'.",
+  "facts": [
+   "Sixteenth Session of the IRENA Assembly concluded on 12 January 2026.",
+   "Venue: Abu Dhabi, United Arab Emirates.",
+   "Theme: 'Powering Humanity: Renewable Energy for Shared Prosperity'.",
+   "IRENA Youth Forum on the sidelines: young leaders from more than 60 countries."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Energy transition (ऊर्जा संक्रमण)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was the Sixteenth Session of the International Renewable Energy Agency (IRENA) Assembly held in January 2026?",
+    "o": [
+     "Bonn, Germany",
+     "Paris, France",
+     "Riyadh, Saudi Arabia",
+     "Abu Dhabi, UAE"
+    ],
+    "k": 3,
+    "why": "The Sixteenth IRENA Assembly concluded on 12 January 2026 in Abu Dhabi, UAE."
+   }
+  ]
+ },
+ "u0552": {
+  "gist": "Rajnath Singh commissioned ICGS Samudra Pratap, India's first indigenously designed pollution control vessel, built by Goa Shipyard, in Goa on January 05, 2026.",
+  "facts": [
+   "Commissioned by Raksha Mantri Rajnath Singh in Goa on January 05, 2026.",
+   "First of two Pollution Control Vessels built by Goa Shipyard Limited (GSL).",
+   "India's first indigenously designed pollution control vessel; over 60% indigenous content.",
+   "Largest ship in the Indian Coast Guard fleet to date.",
+   "Built mainly for pollution control, but its role is wider."
+  ],
+  "hook": "",
+  "trap": "It is an Indian Coast Guard Ship (ICGS), not an Indian Navy ship (INS).",
+  "hindi": [
+   "Pollution control (प्रदूषण नियंत्रण)",
+   "Self-reliance (आत्मनिर्भरता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which shipyard built ICGS Samudra Pratap, India's first indigenously designed pollution control vessel, commissioned in January 2026?",
+    "o": [
+     "Cochin Shipyard Limited",
+     "Goa Shipyard Limited",
+     "Garden Reach Shipbuilders",
+     "Mazagon Dock Shipbuilders"
+    ],
+    "k": 1,
+    "why": "It is the first of two Pollution Control Vessels built by Goa Shipyard Limited."
+   }
+  ]
+ },
+ "u0553": {
+  "gist": "The Global Methane Status Report, launched on 17 November 2025 at COP30 in Belém, shows agriculture as the largest source of human-caused methane.",
+  "facts": [
+   "Launched 17 November 2025 during COP30 in Belém, Brazil.",
+   "UNEP says the GMP includes 159 countries plus the European Commission.",
+   "As of April 2025, GMP members covered about 57% of global human-caused methane emissions.",
+   "Sector shares: agriculture about 42%, energy 38%, waste 20%.",
+   "G20+ countries: about 65% of emissions and 72% of technical mitigation potential by 2030."
+  ],
+  "hook": "Methane 42-38-20: Agriculture > Energy > Waste.",
+  "trap": "57% = share covered by GMP members; 65% = share emitted by G20+ countries.",
+  "hindi": [
+   "Methane (मीथेन)",
+   "Anthropogenic (मानवजनित)"
+  ],
+  "priority": 2,
+  "check": "The text never expands 'GMP' and does not clearly name who published the report; 'technicale' is a typo.",
+  "mcq": [
+   {
+    "q": "According to the Global Methane Status Report (November 2025), which sector has the largest share of global anthropogenic methane?",
+    "o": [
+     "Energy",
+     "Waste",
+     "Agriculture",
+     "Transport"
+    ],
+    "k": 2,
+    "why": "Shares: agriculture about 42%, energy 38% and waste 20%."
+   }
+  ]
+ },
+ "u0554": {
+  "gist": "COP30 in Belém (November 10-22, 2025) shifted climate talks to implementation, producing the Belém Package of about 29 decisions built on the Global Mutirão decision.",
+  "facts": [
+   "Held in Belém, Amazon region, November 10-22, 2025; an 'implementation-first' COP.",
+   "Belém Package: around 29 decisions as an implementation toolkit, based on the Global Mutirão decision.",
+   "Two-year Climate Finance Work Programme launched; Paris Agreement Article 9.1 reading strengthened.",
+   "Tropical Forest Forever Facility: Brazil-led, targets USD 125 billion; pays for protecting tropical forests.",
+   "Belém 4x Pledge: quadruple sustainable fuels by 2035 vs 2024; 23 countries endorsed; IEA tracks.",
+   "India: climate finance a legal obligation, demanded USD 1.3 trillion/year; opposed EU's CBAM."
+  ],
+  "hook": "Mutirão (Brazil) ≈ Shramdaan (India): a community coming together for shared work.",
+  "trap": "Belém Health Action Plan = first international climate adaptation plan only for health (USD 300 million); Belém Action Mechanism = just transition. Don't mix.",
+  "hindi": [
+   "Climate finance (जलवायु वित्त)",
+   "Shramdaan (श्रमदान)",
+   "Just transition (न्यायसंगत परिवर्तन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The 'Belém Package' adopted at COP30 (2025) was conceptually founded on which decision?",
+    "o": [
+     "Global Stocktake decision",
+     "Baku Adaptation Road Map",
+     "Marrakech Partnership",
+     "Global Mutirão decision"
+    ],
+    "k": 3,
+    "why": "The package's conceptual foundation was the Global Mutirão decision."
+   },
+   {
+    "q": "Under COP30's Belém 4x Pledge, sustainable fuel use is to be quadrupled by which year, relative to 2024?",
+    "o": [
+     "2030",
+     "2035",
+     "2040",
+     "2050"
+    ],
+    "k": 1,
+    "why": "The pledge targets quadrupling sustainable fuels by 2035 relative to 2024; the IEA tracks it."
+   }
+  ]
+ }
+}

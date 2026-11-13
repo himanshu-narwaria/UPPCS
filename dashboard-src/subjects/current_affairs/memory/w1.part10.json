@@ -1,0 +1,321 @@
+{
+ "u1259": {
+  "line": "Farmer ID (Digital Agriculture Mission): 11 crore created by 23 Oct 2026; deadline for 11 crore IDs was 31 March 2027. Gives farmers one digital identity.",
+  "hook": "Farmer ID = one digital identity that opens four doors: government schemes, bank credit, crop insurance, disaster relief.",
+  "trap": "",
+  "hindi": [
+   "Crop insurance (फसल बीमा)",
+   "Digital identity (डिजिटल पहचान)"
+  ],
+  "priority": 1
+ },
+ "u1260": {
+  "line": "India elected FATF Vice-President for the first time (June 2026): Vivek Aggarwal, July 2026 to June 2027. Next FATF President from July 1, 2026: Giles Thomson.",
+  "hook": "FATF = Financial Action Task Force.",
+  "trap": "Vivek Aggarwal = FATF Vice-President; Giles Thomson = next FATF President.",
+  "hindi": [
+   "Vice-President (उपाध्यक्ष)"
+  ],
+  "priority": 1
+ },
+ "u1261": {
+  "line": "Osmania University, Hyderabad → India's first university to receive four ISO certifications at once, granted by BIS (Bureau of Indian Standards).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Bureau of Indian Standards (भारतीय मानक ब्यूरो)"
+  ],
+  "priority": 1
+ },
+ "u1262": {
+  "line": "Census 2027 national toll-free helpline number → 1855.",
+  "hook": "",
+  "trap": "1855 is the Census 2027 helpline number, not a year.",
+  "hindi": [
+   "Census (जनगणना)",
+   "Toll-free helpline (निःशुल्क हेल्पलाइन)"
+  ],
+  "priority": 1
+ },
+ "u1263": {
+  "line": "India-AI Impact Summit 2026 → Bharat Mandapam, New Delhi (16-21 February 2026), by MeitY; three Sutras: People, Planet, Progress; seven themes: the Seven Chakras.",
+  "hook": "Three Ps = three Sutras (People, Planet, Progress); seven themes = Seven Chakras.",
+  "trap": "",
+  "hindi": [
+   "Artificial intelligence (कृत्रिम बुद्धिमत्ता)"
+  ],
+  "priority": 1
+ },
+ "u1264": {
+  "line": "World Mental Health Day → 10 October every year.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Mental health (मानसिक स्वास्थ्य)"
+  ],
+  "priority": 2
+ },
+ "u1265": {
+  "line": "Khalilur Rahman (Bangladesh) → elected President of the UN General Assembly's 81st session, defeating Andreas Kakouris (Cyprus); term starts 8 September 2026.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "General Assembly (महासभा)"
+  ],
+  "priority": 1
+ },
+ "u1266": {
+  "line": "QS World University Rankings 2027: MIT keeps global top spot; IIT Delhi tops India at 118th; 52 Indian universities included.",
+  "hook": "QS = Quacquarelli Symonds.",
+  "trap": "118th = IIT Delhi's global rank; 52 = number of Indian universities ranked.",
+  "hindi": [],
+  "priority": 1
+ },
+ "u1267": {
+  "line": "16th edition of the QS World University Rankings by Subject released; QS headquarters → London, United Kingdom.",
+  "hook": "",
+  "trap": "Don't confuse the subject-wise QS ranking (16th edition) with the overall QS World University Rankings.",
+  "hindi": [],
+  "priority": 2
+ },
+ "u1269": {
+  "line": "Peter Paul Rubens' 400-year-old painting 'Christ on the Cross' → auctioned for 2.3 million euros ($2.7 million).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Auction (नीलामी)"
+  ],
+  "priority": 3
+ },
+ "u1270": {
+  "line": "BSE Saatvik 100 → India's first Saatvik Index, launched by BSE.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u1271": {
+  "line": "Chennai Petroleum Corporation Limited (CPCL) → India's 28th Navratna CPSE, upgraded by the Department of Public Enterprises; FY26 turnover Rs. 59,400 crore.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Public enterprise (सार्वजनिक उद्यम)"
+  ],
+  "priority": 1
+ },
+ "u1272": {
+  "line": "Global Startup Ecosystem Report (GSER) 2026, by Startup Genome: Silicon Valley first; Bengaluru 15th; Beijing → Asia's top AI-native cluster.",
+  "hook": "",
+  "trap": "Silicon Valley = first overall; Beijing = top AI-native cluster in Asia only.",
+  "hindi": [
+   "Startup ecosystem (स्टार्टअप पारिस्थितिकी तंत्र)"
+  ],
+  "priority": 1
+ },
+ "u1275": {
+  "line": "India's first integrated Basmati and Organic Training Centre-cum-Demonstration Farm → being set up in Pilibhit, Uttar Pradesh.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Organic farming (जैविक खेती)"
+  ],
+  "priority": 1
+ },
+ "u1284": {
+  "line": "India's first commercial Mini/Micro-LED display facility → to be set up at Dholera, Gujarat.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u1285": {
+  "line": "New Ramsar sites: Patna Bird Sanctuary (Etah, UP) and Chhari-Dhand (Kutch, Gujarat); 99th was Shekha Jheel (Aligarh, UP). At 100 sites India: third globally, first in Asia.",
+  "hook": "Two UP bird sanctuaries: Shekha Jheel (Aligarh) = 99th site; Patna Bird Sanctuary (Etah) = newly added.",
+  "trap": "Patna Bird Sanctuary is in Etah district, Uttar Pradesh, not in Bihar.",
+  "hindi": [
+   "Wetland (आर्द्रभूमि)",
+   "Bird sanctuary (पक्षी विहार)"
+  ],
+  "priority": 1
+ },
+ "u1286": {
+  "line": "India Semiconductor Mission (ISM) 2.0 → announced in Union Budget 2026–27 with an initial provision of ₹1,000 crore.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Semiconductor (अर्धचालक)"
+  ],
+  "priority": 1
+ },
+ "u1288": {
+  "line": "World Environment Day → June 5 every year.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Environment (पर्यावरण)"
+  ],
+  "priority": 2
+ },
+ "u1289": {
+  "line": "International Workers' Day → May 1.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Workers' Day (श्रमिक दिवस)"
+  ],
+  "priority": 2
+ },
+ "u1290": {
+  "line": "35th Saraswati Samman (for 2025) → Ramkumar Mukhopadhyay, for 'Hara Parbati Katha'.",
+  "hook": "",
+  "trap": "35th is the edition number; 2025 is the award year. Don't mix them.",
+  "hindi": [],
+  "priority": 1
+ },
+ "u1291": {
+  "line": "Forbes' World's Billionaires List 2026 → Elon Musk is the world's richest person.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u1292": {
+  "line": "2026 Stockholm Water Prize → Kaveh Madani (Iran).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u1293": {
+  "line": "Bihar Day → 22 March; 2026 theme 'Unnat Bihar, Ujjwal Bihar' (Progressive Bihar, Bright Bihar).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u1294": {
+  "line": "68th National Productivity Week → 12–18 February 2026; theme 'Clusters as Growth Engine: Maximizing Productivity in MSMEs'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Productivity (उत्पादकता)"
+  ],
+  "priority": 2
+ },
+ "u1295": {
+  "line": "World Pulses Day → 10 February; 2026 theme 'Pulses of the World: from Modesty to Excellence'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Pulses (दलहन)"
+  ],
+  "priority": 2
+ },
+ "u1296": {
+  "line": "World Wetlands Day → 2 February; 2026 theme 'Wetlands and Traditional Knowledge: Celebrating Cultural Heritage'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Wetland (आर्द्रभूमि)",
+   "Traditional knowledge (पारंपरिक ज्ञान)"
+  ],
+  "priority": 2
+ },
+ "u1298": {
+  "line": "Pravasi Bharatiya Divas (PBD) → 9 January.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Overseas Indians (प्रवासी भारतीय)"
+  ],
+  "priority": 2
+ },
+ "u1299": {
+  "line": "National Pollution Control Day → 2 December; 2025 theme 'Sustainable Living for a Greener Future'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Pollution control (प्रदूषण नियंत्रण)"
+  ],
+  "priority": 2
+ },
+ "u1300": {
+  "line": "International Day for the Elimination of Violence against Women → 25 November.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Violence against women (महिलाओं के विरुद्ध हिंसा)"
+  ],
+  "priority": 2
+ },
+ "u1301": {
+  "line": "Vaibhav Sooryavanshi → fastest-ever List A half-century: 11 balls vs Sri Lanka A, breaking Kaushalya Weeraratne's record (50 runs in 12 balls).",
+  "hook": "",
+  "trap": "11 balls = new record (Sooryavanshi); 12 balls = old record (Weeraratne).",
+  "hindi": [],
+  "priority": 1
+ },
+ "u1305": {
+  "line": "Indian Space Industry E-Catalogue (India's first digital repository of space-sector capabilities) → launched at the 5th Indian Space Congress (ISC) 2026, New Delhi.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Space sector (अंतरिक्ष क्षेत्र)"
+  ],
+  "priority": 1
+ },
+ "u1306": {
+  "line": "Sanae Takaichi (Liberal Democratic Party, LDP) → Japan's first woman Prime Minister; PM Modi congratulated her on her historic win in Japan's House of Representatives elections.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "House of Representatives (प्रतिनिधि सभा)"
+  ],
+  "priority": 1
+ },
+ "u1307": {
+  "line": "CM Yogi Adityanath → launched the Uttar Pradesh Startup Policy, 2026 and the Uttar Pradesh Startup Mission Portal in Lucknow.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Policy (नीति)"
+  ],
+  "priority": 1
+ },
+ "u1308": {
+  "line": "WEF Energy Transition Index 2026: Sweden top (then Finland, Denmark); India 70th; Democratic Republic of the Congo last (120th).",
+  "hook": "",
+  "trap": "India = 70th; 120th = last place (Democratic Republic of the Congo).",
+  "hindi": [
+   "Energy transition (ऊर्जा संक्रमण)"
+  ],
+  "priority": 1
+ },
+ "u1309": {
+  "line": "SRS Bulletin 2024 (by ORGI, Home Ministry): birth rate 21 (2014) → 18.3 (2024); death rate 6.7 → 6.4 per 1,000 population. SRS = large-scale demographic survey.",
+  "hook": "SRS = Sample Registration System; ORGI = Office of the Registrar General & Census Commissioner, India.",
+  "trap": "Birth rate pair: 21 → 18.3; death rate pair: 6.7 → 6.4. ORGI is under the Ministry of Home Affairs, not the Health Ministry.",
+  "hindi": [
+   "Birth rate (जन्म दर)",
+   "Death rate (मृत्यु दर)",
+   "Sample Registration System (नमूना पंजीकरण प्रणाली)"
+  ],
+  "priority": 1
+ },
+ "u1310": {
+  "line": "Maharashtra → first Indian state to launch dedicated menopause clinics. World Menopause Day → 18 October every year.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Menopause (रजोनिवृत्ति)"
+  ],
+  "priority": 1
+ },
+ "u1311": {
+  "line": "2026 Pulitzer Prize for Illustrated Reporting and Commentary → Indian contributors Anand RK and Suparna Sharma among the winners.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ }
+}

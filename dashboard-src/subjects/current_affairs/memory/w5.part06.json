@@ -1,0 +1,735 @@
+{
+ "u1200": {
+  "gist": "Grand Slams 2026: Alcaraz won the Australian Open, Zverev the French and U.S. Opens, Sinner Wimbledon; Elena Rybakina won two women's titles.",
+  "facts": [
+   "Australian Open: Carlos Alcaraz (runner-up Novak Djokovic); Elena Rybakina (runner-up Aryna Sabalenka).",
+   "French Open: Alexander Zverev (runner-up Flavio Cobolli); Mirra Andreeva (runner-up Maja Chwalinska).",
+   "Wimbledon: Jannik Sinner (runner-up Alexander Zverev); Linda Noskova (runner-up Karolina Muchova).",
+   "U.S. Open: Alexander Zverev (runner-up Ben Shelton); Elena Rybakina (runner-up Aryna Sabalenka).",
+   "Men's doubles: Christian Harrison and Neal Skupski won the Australian and U.S. Opens.",
+   "Women's doubles: Katerina Siniakova and Taylor Townsend won the French and U.S. Opens."
+  ],
+  "hook": "Two singles titles each: Zverev (French + U.S.), Rybakina (Australian + U.S., both finals over Sabalenka).",
+  "trap": "Zverev won the French and U.S. Opens but lost the Wimbledon final to Sinner.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who won the men's singles title at Wimbledon 2026?",
+    "o": [
+     "Alexander Zverev",
+     "Carlos Alcaraz",
+     "Jannik Sinner",
+     "Novak Djokovic"
+    ],
+    "k": 2,
+    "why": "Jannik Sinner won Wimbledon 2026; Alexander Zverev was runner-up."
+   },
+   {
+    "q": "Which player won two women's singles Grand Slam titles (Australian Open and U.S. Open) in 2026?",
+    "o": [
+     "Aryna Sabalenka",
+     "Elena Rybakina",
+     "Mirra Andreeva",
+     "Linda Noskova"
+    ],
+    "k": 1,
+    "why": "Elena Rybakina won both, beating Aryna Sabalenka in each final."
+   }
+  ]
+ },
+ "u1201": {
+  "gist": "Major marathons 2026: Kenya's Sabastian Sawe set a new world record (1:59:30) in London; Ethiopia's Tigst Assefa won the Berlin and London women's races.",
+  "facts": [
+   "London Marathon 2026: Sabastian Sawe (Kenya), 1:59:30, new world record; women: Tigst Assefa (Ethiopia).",
+   "Berlin Marathon 2026: Guye Adola and Tigst Assefa (both Ethiopia).",
+   "Boston Marathon 2026: John Korir and Sharon Lokedi (both Kenya).",
+   "New Delhi Marathon 2026: Kartik Karkera and Nirmaben Thakor.",
+   "Mumbai Marathon 2026: Tadu Abate and Yeshi Chekole (both Ethiopia).",
+   "TCS World 10K Bengaluru 2026: Rodrigue Kwizera (Burundi) and Florence Niyonkuru (Rwanda)."
+  ],
+  "hook": "Tigst Assefa doubled up: Berlin and London.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who set a new marathon world record of 1:59:30 at the London Marathon 2026?",
+    "o": [
+     "Amos Kipruto",
+     "John Korir",
+     "Jacob Kiplimo",
+     "Sabastian Sawe"
+    ],
+    "k": 3,
+    "why": "Sabastian Sawe (Kenya) won London 2026 in 1:59:30, a new world record."
+   },
+   {
+    "q": "Who won the men's title at the New Delhi Marathon 2026?",
+    "o": [
+     "Kartik Karkera",
+     "Tadu Abate",
+     "Rodrigue Kwizera",
+     "Nathan Martin"
+    ],
+    "k": 0,
+    "why": "Kartik Karkera won the men's race; Nirmaben Thakor won the women's."
+   }
+  ]
+ },
+ "u1202": {
+  "gist": "The 20th Asian Games were held in Aichi-Nagoya, Japan (September 19 to October 4, 2026); China topped, India finished 4th with 85 medals.",
+  "facts": [
+   "20th edition; Aichi-Nagoya, Japan, September 19 to October 4, 2026.",
+   "Nagoya: third Japanese host city, after Tokyo (1958) and Hiroshima (1994).",
+   "Mascot 'Honohon' (means 'flame' in Japanese); slogan 'Imagine One Asia'.",
+   "46 teams (45 NOCs + OCA Refugee Team); 43 sports; 6 debut sports incl. padel, surfing, teqball.",
+   "Top three: China (169 gold, 341 total), Japan (83 gold), South Korea (39 gold).",
+   "India 4th: 21 gold, 27 silver, 37 bronze = 85; Uzbekistan 5th (21 gold, 70 total)."
+  ],
+  "hook": "Japan's Asian Games hosts: Tokyo 1958 → Hiroshima 1994 → Aichi-Nagoya 2026.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What was the official mascot of the 20th Asian Games 2026 in Aichi-Nagoya?",
+    "o": [
+     "Honohon",
+     "Miraitowa",
+     "Chenchen",
+     "Morveer"
+    ],
+    "k": 0,
+    "why": "'Honohon', meaning 'flame' in Japanese, was the official mascot."
+   },
+   {
+    "q": "In which position did India finish in the medal table at the Asian Games 2026?",
+    "o": [
+     "Third",
+     "Fourth",
+     "Fifth",
+     "Sixth"
+    ],
+    "k": 1,
+    "why": "India was 4th with 21 gold, 27 silver and 37 bronze (85 medals)."
+   }
+  ]
+ },
+ "u1203": {
+  "gist": "India finished fourth at the Asian Games 2026 (Aichi-Nagoya) with 85 medals, including 21 gold: its second-highest tally after 2022.",
+  "facts": [
+   "Opening flag-bearers: Manu Bhaker (shooting) and Pawan Sehrawat (kabaddi); closing: Neeru Dhanda (shooting).",
+   "Fourth in the medal table: 85 medals, 21 gold; India's second-highest Asian Games tally after the 2022 edition.",
+   "Athletics gave the most medals (24) but just one gold; archery gave nine medals, including five gold.",
+   "First Indian women: Pranavi Urs (individual golf gold), Kumkum Mohod (recurve individual gold), Anahat Singh (squash singles silver).",
+   "India's first-ever medals: Baranica Elangovan (Asian Games pole vault, bronze) and Jay Meena (soft tennis).",
+   "National records: Sawan Barwal (marathon silver); Vithya Ramraj (400m hurdles bronze) broke P.T. Usha's 42-year-old mark."
+  ],
+  "trap": "Opening flag-bearers = Manu Bhaker and Pawan Sehrawat; closing flag-bearer = Neeru Dhanda.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was India's flag-bearer at the closing ceremony of the Asian Games 2026?",
+    "o": [
+     "Manu Bhaker",
+     "Pawan Sehrawat",
+     "Neeru Dhanda",
+     "Lovlina Borgohain"
+    ],
+    "k": 2,
+    "why": "Neeru Dhanda (shooting) was the closing ceremony flag-bearer."
+   },
+   {
+    "q": "At the Asian Games 2026, Pranavi Urs became the first Indian woman to win an individual gold in which sport?",
+    "o": [
+     "Archery",
+     "Squash",
+     "Shooting",
+     "Golf"
+    ],
+    "k": 3,
+    "why": "Pranavi Urs became the first Indian woman to win an individual golf gold medal."
+   }
+  ]
+ },
+ "u1204": {
+  "gist": "The 23rd Commonwealth Games were held in Glasgow, Scotland, from July 23 to August 2, 2026; the mascot Finnie was a unicorn.",
+  "facts": [
+   "23rd edition; Glasgow, Scotland (U.K.), July 23 to August 2, 2026.",
+   "Fourth Games hosted in Scotland: Edinburgh 1970 and 1986, Glasgow 2014.",
+   "The United Kingdom has hosted the Commonwealth Games eight times across its constituent nations.",
+   "Mascot: Finnie, a unicorn (Scotland's national animal) with a traffic cone for a horn."
+  ],
+  "hook": "Finnie: a Scottish unicorn wearing a traffic cone as its horn.",
+  "trap": "Glasgow hosted in 2014 and 2026; Edinburgh hosted in 1970 and 1986.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What was the official mascot of the Commonwealth Games 2026 in Glasgow?",
+    "o": [
+     "Finnie",
+     "Perry",
+     "Clyde",
+     "Shera"
+    ],
+    "k": 0,
+    "why": "Finnie, a unicorn with a traffic cone for a horn, was the official mascot."
+   }
+  ]
+ },
+ "u1205": {
+  "gist": "Glasgow 2026 used a compact model: only 10 sports (19 at Birmingham 2022), reused venues and 2715 athletes; India finished 4th with 39 medals.",
+  "facts": [
+   "Only 10 sports, compared with 19 at Birmingham 2022.",
+   "Existing venues were reused instead of building large new stadiums; only 2715 athletes.",
+   "Sports included athletics, swimming, gymnastics, track cycling, netball, weightlifting, boxing, judo, bowls, 3 × 3 basketball.",
+   "Top three: Australia (70 gold, 171 total), England (29 gold), Canada (19 gold).",
+   "India 4th: 13 gold, 17 silver, 9 bronze = 39; Scotland 5th, also 13 gold and 39 total."
+  ],
+  "trap": "India and Scotland both had 13 gold and 39 medals; India was 4th, Scotland 5th.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "How many sports were held at the Commonwealth Games 2026 in Glasgow?",
+    "o": [
+     "10",
+     "19",
+     "15",
+     "12"
+    ],
+    "k": 0,
+    "why": "Only 10 sports were held, compared with 19 at Birmingham 2022."
+   },
+   {
+    "q": "What was India's position in the medal table at the Commonwealth Games 2026 in Glasgow?",
+    "o": [
+     "Third",
+     "Fifth",
+     "Fourth",
+     "Sixth"
+    ],
+    "k": 2,
+    "why": "India was 4th with 13 gold, 17 silver and 9 bronze (39 medals)."
+   }
+  ]
+ },
+ "u1206": {
+  "gist": "At Glasgow 2026, boxing gave India most golds (7); Mirabai Chanu won India's first gold; Asmita Dey and Harsh Singh won first-ever judo golds.",
+  "facts": [
+   "Opening flag-bearer: Mirabai Chanu; baton-bearer: Lovlina Borgohain; closing flag-bearer: Jaismine Lamboria.",
+   "Boxing gave India the most golds: 7 gold and 3 silver.",
+   "Mirabai Chanu (48 kg) won India's first gold: three straight Games golds, like Vinesh Phogat before her.",
+   "First-ever judo golds: Asmita Dey (women's 48 kg) and Harsh Singh (men's 60 kg).",
+   "David Dixon Award: Melanie Woods (Scotland, wheelchair racer).",
+   "Chad le Clos (South Africa) became the most decorated Commonwealth Games athlete with his 21st medal."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who won India's first gold medal at the Commonwealth Games 2026 in Glasgow?",
+    "o": [
+     "Sachin Siwach",
+     "Mirabai Chanu",
+     "Asmita Dey",
+     "Preeti Pawar"
+    ],
+    "k": 1,
+    "why": "Weightlifter Mirabai Chanu (women's 48 kg) won India's first gold at the Games."
+   },
+   {
+    "q": "Which athlete became the most decorated in Commonwealth Games history at Glasgow 2026, winning a 21st medal?",
+    "o": [
+     "Chad le Clos",
+     "Melanie Woods",
+     "Adam Peaty",
+     "Emma McKeon"
+    ],
+    "k": 0,
+    "why": "Chad le Clos of South Africa won his 21st medal."
+   }
+  ]
+ },
+ "u1207": {
+  "gist": "The 23rd FIFA World Cup (June 11 to July 19, 2026) was the first with 48 teams and the first co-hosted by three countries.",
+  "facts": [
+   "23rd edition, June 11 to July 19, 2026; first co-hosted by three countries: Canada, Mexico, U.S.A.",
+   "Played in 16 host cities.",
+   "First World Cup with 48 teams (32 teams during 1998-2022); 104 matches (64 in 2022).",
+   "Mascots: Maple (moose, Canada), Zayu (jaguar, Mexico), Clutch (bald eagle, U.S.A.).",
+   "Semi-finals: Spain vs France, Argentina vs England.",
+   "Third-place match: England beat France."
+  ],
+  "hook": "48 teams, 104 matches, 3 hosts, 3 mascots.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "How many teams took part in the FIFA World Cup 2026, co-hosted by Canada, Mexico and the U.S.A.?",
+    "o": [
+     "32",
+     "40",
+     "48",
+     "64"
+    ],
+    "k": 2,
+    "why": "The 2026 edition was the first with 48 teams, up from 32 during 1998-2022."
+   },
+   {
+    "q": "Which mascot of the FIFA World Cup 2026 represented Mexico?",
+    "o": [
+     "Maple",
+     "Zayu",
+     "Clutch",
+     "Honohon"
+    ],
+    "k": 1,
+    "why": "Zayu (Jaguar and Striker) represented Mexico; Maple Canada; Clutch the U.S.A."
+   }
+  ]
+ },
+ "u1208": {
+  "gist": "FIFA World Cup 2026 awards: Golden Ball to Rodri, Golden Boot to Kylian Mbappe (second in a row), Golden Glove to Unai Simon.",
+  "facts": [
+   "Golden Ball (Player of the Tournament): Rodri (Spain).",
+   "Golden Boot (top scorer): Kylian Mbappe (France).",
+   "Mbappe (France captain): first player to win the Golden Boot at two consecutive World Cups (2022, 2026).",
+   "Golden Glove (best goalkeeper): Unai Simon (Spain).",
+   "Best Young Player: Pau Cubarsi (Spain); Fair Play Trophy: Netherlands."
+  ],
+  "trap": "Golden Ball = best player (Rodri); Golden Boot = top scorer (Mbappe); Golden Glove = best goalkeeper (Unai Simon).",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who won the Golden Ball (Player of the Tournament) at the FIFA World Cup 2026?",
+    "o": [
+     "Kylian Mbappe",
+     "Rodri",
+     "Unai Simon",
+     "Pau Cubarsi"
+    ],
+    "k": 1,
+    "why": "Rodri (Spain) won the Golden Ball; Mbappe won the Golden Boot."
+   },
+   {
+    "q": "Which player became the first to win the Golden Boot at two consecutive FIFA World Cups (2022 and 2026)?",
+    "o": [
+     "Unai Simon",
+     "Rodri",
+     "Kylian Mbappe",
+     "Pau Cubarsi"
+    ],
+    "k": 2,
+    "why": "France captain Kylian Mbappe won the Golden Boot in 2022 and 2026."
+   }
+  ]
+ },
+ "u1209": {
+  "gist": "Upcoming cricket hosts: India gets the Women's Champions Trophy 2027 and Men's Champions Trophy 2029, and co-hosts the 2031 ODI World Cup with Bangladesh.",
+  "facts": [
+   "ICC Women's Champions Trophy 2027: India; ICC Men's Champions Trophy 2029: India.",
+   "14th ICC Men's ODI World Cup 2027: South Africa, Zimbabwe and Namibia.",
+   "15th ICC Men's ODI World Cup 2031: India and Bangladesh.",
+   "11th Men's T20I World Cup 2028: Australia and New Zealand; 12th (2030): England, Wales, Ireland and Scotland.",
+   "ICC U19 Women's T20 World Cup 2027: Bangladesh and Nepal; ACC Men's Asia Cup 2027: Bangladesh (ODI)."
+  ],
+  "trap": "ODI World Cup 2027 = South Africa, Zimbabwe, Namibia; ODI World Cup 2031 = India and Bangladesh.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which countries will co-host the 15th ICC Men's ODI World Cup in 2031?",
+    "o": [
+     "India and Sri Lanka",
+     "India and Bangladesh",
+     "Australia and New Zealand",
+     "South Africa and Zimbabwe"
+    ],
+    "k": 1,
+    "why": "The 15th ICC Men's ODI World Cup 2031 will be hosted by India and Bangladesh."
+   }
+  ]
+ },
+ "u1210": {
+  "gist": "Upcoming football hosts: Saudi Arabia (AFC Asian Cup 2027, FIFA World Cup 2034), Brazil (Women's World Cup 2027), Morocco-Portugal-Spain (World Cup 2030).",
+  "facts": [
+   "AFC Asian Cup 2027: Saudi Arabia.",
+   "FIFA Women's World Cup 2027: Brazil.",
+   "FIFA World Cup 2030: Morocco, Portugal and Spain; three centenary matches in Argentina, Paraguay and Uruguay.",
+   "FIFA World Cup 2034: Saudi Arabia."
+  ],
+  "hook": "Saudi Arabia twice: Asian Cup 2027 and World Cup 2034.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which country will host the FIFA World Cup 2034?",
+    "o": [
+     "Qatar",
+     "Morocco",
+     "Australia",
+     "Saudi Arabia"
+    ],
+    "k": 3,
+    "why": "The FIFA World Cup 2034 will be held in Saudi Arabia."
+   }
+  ]
+ },
+ "u1211": {
+  "gist": "Upcoming events: Commonwealth Games 2030 in Ahmedabad, UCI Road World Championship 2032 in Pune, Olympics 2028 Los Angeles and 2032 Brisbane, Asian Games 2030 Doha.",
+  "facts": [
+   "Commonwealth Games 2030 and World Police and Fire Games 2029: Ahmedabad, Gujarat.",
+   "UCI Road World Championship 2032: Pune; Asian Senior Wushu 2028: India; Asia Cup Archery (Leg-II) 2027: New Delhi.",
+   "Olympics: 34th in Los Angeles 2028; 35th in Brisbane 2032.",
+   "Asian Games: 21st in Doha 2030; 22nd in Riyadh 2034.",
+   "Summer Youth Olympic Games 2026: Dakar (Senegal); 47th Chess Olympiad 2028: Abu Dhabi.",
+   "National Games 2027: Meghalaya; 14th South Asian Games 2027: Pakistan."
+  ],
+  "hook": "Ahmedabad double: World Police and Fire Games 2029, then Commonwealth Games 2030.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which Indian city will host the Commonwealth Games 2030?",
+    "o": [
+     "Ahmedabad",
+     "New Delhi",
+     "Bhubaneswar",
+     "Pune"
+    ],
+    "k": 0,
+    "why": "The Commonwealth Games 2030 will be held in Ahmedabad, Gujarat."
+   },
+   {
+    "q": "Which city will host the 21st Asian Games in 2030?",
+    "o": [
+     "Riyadh",
+     "Tashkent",
+     "Doha",
+     "Almaty"
+    ],
+    "k": 2,
+    "why": "The 21st Asian Games 2030 go to Doha, Qatar; the 22nd (2034) to Riyadh."
+   }
+  ]
+ },
+ "u1212": {
+  "gist": "Indian inline speed skater Anandkumar Velkumar won silver in the men's 1000 meter sprint at the World Skating Games in Paraguay (2–18 October 2026).",
+  "facts": [
+   "Indian inline speed skater.",
+   "Silver medal in the men's 1000 meter sprint at the World Skating Games, Paraguay.",
+   "The Games were held 2–18 October 2026."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Anandkumar Velkumar, who won silver at the World Skating Games 2026 in Paraguay, competes in which sport?",
+    "o": [
+     "Figure skating",
+     "Ice hockey",
+     "Inline speed skating",
+     "Skateboarding"
+    ],
+    "k": 2,
+    "why": "He is an Indian inline speed skater; silver in the men's 1000 m sprint."
+   }
+  ]
+ },
+ "u1213": {
+  "gist": "The ICC Players of the Month for September 2026 were Shubman Gill (men) and Shafali Verma (women), both from India.",
+  "facts": [
+   "Men's: Shubman Gill (India).",
+   "Women's: Shafali Verma (India)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the ICC Women's Player of the Month award for September 2026?",
+    "o": [
+     "Smriti Mandhana",
+     "Deepti Sharma",
+     "Shafali Verma",
+     "Beth Mooney"
+    ],
+    "k": 2,
+    "why": "Shafali Verma (India) won the women's award; Shubman Gill won the men's."
+   }
+  ]
+ },
+ "u1214": {
+  "gist": "11-year-old Indian-origin chess prodigy Bodhana Sivanandan (England) became the youngest woman Grandmaster in September 2026.",
+  "facts": [
+   "Bodhana Sivanandan (England): 11-year-old Indian-origin chess prodigy.",
+   "Created history as the youngest woman Grandmaster (September 2026)."
+  ],
+  "trap": "Indian-origin, but listed under England, not India.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Bodhana Sivanandan, who became the youngest woman Grandmaster in September 2026, represents which country?",
+    "o": [
+     "India",
+     "England",
+     "USA",
+     "Singapore"
+    ],
+    "k": 1,
+    "why": "The 11-year-old Indian-origin prodigy is listed under England."
+   }
+  ]
+ },
+ "u1215": {
+  "gist": "Tamil Nadu chess player G.B. Harshavardhan became India's 97th Grandmaster in June 2026.",
+  "facts": [
+   "Chess player from Tamil Nadu.",
+   "Became India's 97th Chess Grandmaster (June 2026)."
+  ],
+  "trap": "India's GMs in 2026: 96th Ethan Vaz (Goa), 97th G.B. Harshavardhan, 98th Aswath S., 99th V.S. Rathanvel.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who became India's 97th Chess Grandmaster in June 2026?",
+    "o": [
+     "Aswath S.",
+     "Ethan Vaz",
+     "V.S. Rathanvel",
+     "G.B. Harshavardhan"
+    ],
+    "k": 3,
+    "why": "G.B. Harshavardhan of Tamil Nadu became India's 97th Grandmaster."
+   }
+  ]
+ },
+ "u1216": {
+  "gist": "Tamil Nadu chess player Aswath S. became India's 98th Chess Grandmaster.",
+  "facts": [
+   "Chess player from Tamil Nadu.",
+   "Became India's 98th Chess Grandmaster."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Aswath S., who became India's 98th Chess Grandmaster in 2026, is from which state?",
+    "o": [
+     "Goa",
+     "Assam",
+     "Tamil Nadu",
+     "Delhi"
+    ],
+    "k": 2,
+    "why": "Aswath S. is a Tamil Nadu based chess player."
+   }
+  ]
+ },
+ "u1217": {
+  "gist": "Tamil Nadu chess player V.S. Rathanvel became India's 99th Chess Grandmaster.",
+  "facts": [
+   "Chess player from Tamil Nadu.",
+   "Became the 99th Chess Grandmaster of India."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who became India's 99th Chess Grandmaster in 2026?",
+    "o": [
+     "Aswath S.",
+     "G.B. Harshavardhan",
+     "Mayank Chakraborty",
+     "V.S. Rathanvel"
+    ],
+    "k": 3,
+    "why": "V.S. Rathanvel of Tamil Nadu became India's 99th Grandmaster."
+   }
+  ]
+ },
+ "u1218": {
+  "gist": "Indian shooter Neeru Dhanda won the women's trap gold at the ISSF Shotgun World Cup 2026 in Lonato, Italy (July 11, 2026).",
+  "facts": [
+   "Indian woman shooter.",
+   "Gold in women's trap at the ISSF Shotgun World Cup 2026, Lonato, Italy (July 11, 2026)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Neeru Dhanda won the women's trap gold at the ISSF Shotgun World Cup 2026 held in:",
+    "o": [
+     "Lonato, Italy",
+     "Munich, Germany",
+     "Hangzhou, China",
+     "Doha, Qatar"
+    ],
+    "k": 0,
+    "why": "She won the women's trap gold in Lonato, Italy, on July 11, 2026."
+   }
+  ]
+ },
+ "u1219": {
+  "gist": "18-year-old Anahat Singh became the first Indian squash player crowned junior World Champion (July 2026), beating Egypt's Ruqayya Salem in the final.",
+  "facts": [
+   "18-year-old Indian woman squash player.",
+   "First Indian squash player to be crowned junior World Champion (July 2026).",
+   "Beat Egypt's Ruqayya Salem in the women's singles final at the World Squash Junior Championships 2026."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who became the first Indian squash player to be crowned junior World Champion in July 2026?",
+    "o": [
+     "Joshna Chinappa",
+     "Akanksha Salunkhe",
+     "Tanvi Khanna",
+     "Anahat Singh"
+    ],
+    "k": 3,
+    "why": "Anahat Singh beat Egypt's Ruqayya Salem in the final."
+   }
+  ]
+ },
+ "u1220": {
+  "gist": "14-year-old Ethan Vaz from Goa became India's 96th Grandmaster on June 27, 2026.",
+  "facts": [
+   "14-year-old chess player from Goa.",
+   "Became India's 96th Grandmaster (June 27, 2026)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Ethan Vaz, who became India's 96th Grandmaster in June 2026, is from which state?",
+    "o": [
+     "Goa",
+     "Tamil Nadu",
+     "Maharashtra",
+     "Kerala"
+    ],
+    "k": 0,
+    "why": "Ethan Vaz is a 14-year-old chess player from Goa."
+   }
+  ]
+ },
+ "u1221": {
+  "gist": "18-year-old Arnav Paparkar from Pune became the first Indian in 36 years to reach the boys' singles quarter-finals at the Wimbledon Junior Championships 2026.",
+  "facts": [
+   "18-year-old tennis player from Pune.",
+   "First Indian in 36 years to reach boys' singles quarter-finals at Wimbledon Juniors 2026 (July 8, 2026)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In 2026, Arnav Paparkar became the first Indian in how many years to reach the boys' singles quarter-finals at Wimbledon Juniors?",
+    "o": [
+     "26",
+     "30",
+     "36",
+     "42"
+    ],
+    "k": 2,
+    "why": "He was the first Indian in 36 years to reach that stage."
+   }
+  ]
+ },
+ "u1222": {
+  "gist": "19-year-old Bihar cricketer Akshara Gupta scored an unbeaten 306 in the BCA Women's U-19 One Day Trophy (June 2026), a new milestone.",
+  "facts": [
+   "19-year-old woman cricketer from Bihar.",
+   "Scored an unbeaten 306 runs in the BCA Women's U-19 One Day Trophy Tournament (June 2026)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "How many runs (not out) did Bihar's Akshara Gupta score in the BCA Women's U-19 One Day Trophy in June 2026?",
+    "o": [
+     "206",
+     "264",
+     "306",
+     "356"
+    ],
+    "k": 2,
+    "why": "She scored an unbeaten 306 runs."
+   }
+  ]
+ },
+ "u1223": {
+  "gist": "Former shooter Jaspal Rana died at 49 on June 12, 2026; he won 15 Commonwealth Games medals, including 9 gold, between 1994 and 2006.",
+  "facts": [
+   "Former Indian shooter; died aged 49 (June 12, 2026).",
+   "Won 15 Commonwealth Games medals: 9 gold, 4 silver, 2 bronze.",
+   "Medals came across four Games: 1994, 1998, 2002 and 2006."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "How many Commonwealth Games gold medals did shooter Jaspal Rana (died June 2026) win?",
+    "o": [
+     "4",
+     "9",
+     "15",
+     "2"
+    ],
+    "k": 1,
+    "why": "His 15 medals were 9 gold, 4 silver and 2 bronze."
+   }
+  ]
+ },
+ "u1224": {
+  "gist": "Cricketer Smriti Mandhana was named in TIME Magazine's 100 most influential people in sports (June 2026), the only Indian on the list.",
+  "facts": [
+   "Named by TIME Magazine among this year's 100 most influential people in sports (June 2026).",
+   "She was the only Indian on the list."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who was the only Indian named in TIME Magazine's 2026 list of the 100 most influential people in sports?",
+    "o": [
+     "Neeraj Chopra",
+     "Shubman Gill",
+     "Gukesh Dommaraju",
+     "Smriti Mandhana"
+    ],
+    "k": 3,
+    "why": "Smriti Mandhana was the only Indian on the list."
+   }
+  ]
+ },
+ "u1225": {
+  "gist": "Ex-shooter Raja Randhir Singh, India's first Asian Games shooting gold medallist (1978) and first Indian OCA President, died at 79 on May 27, 2026.",
+  "facts": [
+   "Former Indian shooter; died aged 79 (May 27, 2026).",
+   "First Indian shooter to win an Asian Games gold: Bangkok 1978.",
+   "Received the Arjuna Award in 1979.",
+   "In September 2024, became the first Indian elected President of the Olympic Council of Asia (OCA)."
+  ],
+  "trap": "Randhir Singh: first Indian OCA President (September 2024). Sheikh Joaan bin Hamad Al Thani: elected OCA President in January 2026.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who became the first Indian to be elected President of the Olympic Council of Asia, in September 2024?",
+    "o": [
+     "Narinder Batra",
+     "Raja Randhir Singh",
+     "P.T. Usha",
+     "Abhinav Bindra"
+    ],
+    "k": 1,
+    "why": "Raja Randhir Singh became the first Indian OCA President in September 2024."
+   }
+  ]
+ }
+}

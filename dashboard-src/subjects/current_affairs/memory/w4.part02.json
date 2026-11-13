@@ -1,0 +1,929 @@
+{
+ "u0424": {
+  "gist": "Startup India, launched by PM Narendra Modi on 16 January 2016, completed 10 years; India is now the world's third-largest startup ecosystem.",
+  "facts": [
+   "Launched 16 January 2016; 16 January declared National Startup Day in 2022.",
+   "Startups: fewer than 500 (2014) to more than 2 lakh (2026).",
+   "Unicorns: 4 to nearly 125; 49,429 entities recognised as startups in 2025.",
+   "DPIIT announced National Startup Awards 5.0 with 20 award categories.",
+   "States' Startup Ranking Framework 5.0: 34 States/UTs; Gujarat Best Performer in Category A.",
+   "Uttar Pradesh was a Top Performer in Category A, with Karnataka, Punjab and Tamil Nadu."
+  ],
+  "trap": "'Best Performer' (Gujarat; Arunachal Pradesh and Goa in Category B) is above 'Top Performer' (UP, Karnataka, Punjab, Tamil Nadu).",
+  "hindi": [
+   "Startup ecosystem (स्टार्टअप पारिस्थितिकी तंत्र)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In DPIIT's States' Startup Ranking Framework 5.0, which State was the Best Performer in Category A?",
+    "o": [
+     "Karnataka",
+     "Tamil Nadu",
+     "Uttar Pradesh",
+     "Gujarat"
+    ],
+    "k": 3,
+    "why": "Gujarat was Best Performer in Category A; Karnataka, Tamil Nadu and UP were Top Performers."
+   },
+   {
+    "q": "In the States' Startup Ranking Framework 5.0, Uttar Pradesh was placed in which group?",
+    "o": [
+     "Best Performer",
+     "Aspiring Leader",
+     "Leader",
+     "Top Performer"
+    ],
+    "k": 3,
+    "why": "Karnataka, Punjab, Tamil Nadu and Uttar Pradesh were Top Performers in Category A."
+   }
+  ]
+ },
+ "u0425": {
+  "gist": "On 5 May 2026, Cabinet approved two more semiconductor projects in Gujarat (about ₹3,936 crore), taking India Semiconductor Mission's approved projects to 12.",
+  "facts": [
+   "Approved 5 May 2026 under the India Semiconductor Mission; investment about ₹3,936 crore.",
+   "Expected to employ 2,230 skilled professionals.",
+   "Includes India's first commercial Mini/Micro-LED display facility using Gallium Nitride technology.",
+   "Crystal Matrix Limited at Dholera; Suchi Semicon Private Limited at Surat (assembly and test).",
+   "ISM total: 12 approved projects; cumulative investment about ₹1.64 lakh crore."
+  ],
+  "hindi": [
+   "Semiconductor (अर्धचालक)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "With the two projects approved on 5 May 2026, the total number of approved projects under the India Semiconductor Mission reached:",
+    "o": [
+     "8",
+     "10",
+     "12",
+     "14"
+    ],
+    "k": 2,
+    "why": "With these approvals, total approved projects under ISM reached 12."
+   }
+  ]
+ },
+ "u0426": {
+  "gist": "Tata Semiconductor Manufacturing's SEZ at Dholera, Gujarat, notified on 9 April 2026, hosts what PIB called India's first commercial chip fabrication plant.",
+  "facts": [
+   "Union Cabinet approved the Dholera fab project on February 29, 2024; SEZ notified April 9, 2026.",
+   "Area 66.166 hectares; capacity 50,000 wafer starts per month.",
+   "Investment ₹91,000 crore; about 21,000 jobs; an AI-enabled fab.",
+   "Earlier chip SEZs at Sanand, Gujarat: Micron, CG Semi and Kaynes Semicon.",
+   "Hubballi Durable Goods Cluster SEZ at Dharwad, Karnataka (23 June 2025) for electronics components."
+  ],
+  "trap": "Dholera = Tata's fab (makes chips); Sanand = Micron, CG Semi, Kaynes (assembly, testing, packaging).",
+  "hindi": [
+   "Special Economic Zone (विशेष आर्थिक क्षेत्र)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where is the SEZ of Tata Semiconductor Manufacturing Private Limited, described by PIB as India's first commercial chip fab, located?",
+    "o": [
+     "Sanand, Gujarat",
+     "Surat, Gujarat",
+     "Dharwad, Karnataka",
+     "Dholera, Gujarat"
+    ],
+    "k": 3,
+    "why": "Tata's SEZ at Dholera, Gujarat was notified on April 9, 2026."
+   }
+  ]
+ },
+ "u0427": {
+  "gist": "The 40th Global Financial Centres Index (16 September 2026) ranked New York first; GIFT City was India's top centre at 37th, up 9 places.",
+  "facts": [
+   "Top four: New York, London, Hong Kong, Singapore.",
+   "Made by Z/Yen Partners (London) and China Development Institute (Shenzhen); twice a year since 2007.",
+   "139 centres studied; 117 in the main index.",
+   "GIFT City 37th (up 9), Mumbai 49th (up 3), New Delhi 56th (down 2).",
+   "GIFT City and Mumbai: 'International Specialists'; New Delhi: 'International Diversified'.",
+   "IFSCA set up 27 April 2020 under the IFSCA Act, 2019."
+  ],
+  "trap": "GIFT City = Gujarat International Finance Tec-City, home of India's first operational IFSC.",
+  "hindi": [
+   "Financial centre (वित्तीय केंद्र)"
+  ],
+  "priority": 1,
+  "check": "Indian rank table is garbled; ranks (37, 49, 56) are read from a run-on line.",
+  "mcq": [
+   {
+    "q": "In the 40th Global Financial Centres Index (September 2026), which was India's highest-ranked financial centre?",
+    "o": [
+     "Mumbai",
+     "New Delhi",
+     "GIFT City",
+     "Bengaluru"
+    ],
+    "k": 2,
+    "why": "GIFT City ranked 37th, up 9 places, ahead of Mumbai (49th) and New Delhi (56th)."
+   }
+  ]
+ },
+ "u0428": {
+  "gist": "The second India Electric Mobility Index (NITI Aayog with WRI India, 16 September 2026) ranked Delhi first with 84; UP scored 51 (Front Runner).",
+  "facts": [
+   "IEMI 2025: second edition, released 16 September 2026, covers January–December 2025.",
+   "16 indicators; weights: transport electrification 50%, charging infrastructure 30%, research and innovation 20%.",
+   "Top: Delhi 84, Maharashtra 78, Karnataka 73, Chandigarh 71, Goa 65.",
+   "Large States: Maharashtra first, Karnataka second (the only two Top Performers).",
+   "Uttar Pradesh scored 51 (Front Runner); 58 in transport electrification.",
+   "Categories: Top Performer 65 or above; Front Runner 50–64."
+  ],
+  "trap": "Delhi is first overall (84); Maharashtra is first among large States (78).",
+  "hindi": [
+   "Electric mobility (विद्युत गतिशीलता)",
+   "Charging infrastructure (चार्जिंग अवसंरचना)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which State/UT ranked first overall in the India Electric Mobility Index 2025, released in September 2026?",
+    "o": [
+     "Maharashtra",
+     "Karnataka",
+     "Delhi",
+     "Chandigarh"
+    ],
+    "k": 2,
+    "why": "Delhi ranked first with 84 points, followed by Maharashtra with 78."
+   },
+   {
+    "q": "In the India Electric Mobility Index 2025, Uttar Pradesh scored 51 and was placed in which category?",
+    "o": [
+     "Top Performer",
+     "Aspirant",
+     "Emerging Performer",
+     "Front Runner"
+    ],
+    "k": 3,
+    "why": "UP scored 51 overall, which falls in the Front Runner band (50–64)."
+   }
+  ]
+ },
+ "u0429": {
+  "gist": "The IMF's October 2026 World Economic Outlook, 'Resilience Under Strain, Urgent Choices', projects world growth of 3.1% in 2026 and India 7.0% in FY 2026–27.",
+  "facts": [
+   "Released 13 October 2026; title 'Resilience Under Strain, Urgent Choices'.",
+   "World growth: 3.5% (2025), 3.1% (2026), 3.4% (2027).",
+   "India: 7.0% in both FY 2026–27 and FY 2027–28, raised by 0.5 percentage points.",
+   "India by calendar year: 7.4% (2026) and 7.0% (2027).",
+   "Global inflation: 4.7% in 2026, then 4.1% in 2027.",
+   "China 4.5% (2026); world average 3.2% for 2028–2031."
+  ],
+  "trap": "For India, IMF's '2026' column means FY 2026–27 (7.0%); calendar year 2026 is 7.4%.",
+  "hindi": [
+   "Economic outlook (आर्थिक परिदृश्य)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to the IMF's World Economic Outlook (October 2026), India's real GDP growth for FY 2026–27 is projected at:",
+    "o": [
+     "7.4%",
+     "7.0%",
+     "6.5%",
+     "7.8%"
+    ],
+    "k": 1,
+    "why": "IMF projects India's growth at 7.0% in both FY 2026–27 and FY 2027–28."
+   }
+  ]
+ },
+ "u0430": {
+  "gist": "Global MPI 2026 (UNDP–OPHI, 12 October 2026): 1.2 billion people acutely poor, the first rise since 2010; India among countries that halved MPI.",
+  "facts": [
+   "Released October 12, 2026 by UNDP and OPHI; 108 countries, 6.3 billion people.",
+   "1.2 billion (18.9%) acutely poor; first rise since the index began in 2010.",
+   "33 countries, including India, halved their MPI; China was fastest (2010 to 2014).",
+   "Lowest poverty: Serbia (MPI 0.000); highest: Chad (MPI 0.517, incidence 84.2%).",
+   "India (2019–2021 survey): MPI 0.069, incidence 16.4% (55.1% in 2005–2006).",
+   "India has the largest number of poor: 237.849 million (about 23.78 crore), a projection."
+  ],
+  "hook": "MPI = 3 dimensions (health, education, living standards), 10 indicators; poor if deprived in at least one-third (33.3%).",
+  "hindi": [
+   "Multidimensional poverty (बहुआयामी गरीबी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to the Global Multidimensional Poverty Index 2026, which country has the highest MPI value?",
+    "o": [
+     "Niger",
+     "Madagascar",
+     "Burundi",
+     "Chad"
+    ],
+    "k": 3,
+    "why": "Chad has the highest MPI (0.517) and poverty incidence of 84.2%."
+   },
+   {
+    "q": "The Global Multidimensional Poverty Index 2026 is jointly published by UNDP and:",
+    "o": [
+     "World Bank",
+     "NITI Aayog",
+     "OPHI",
+     "IMF"
+    ],
+    "k": 2,
+    "why": "It is jointly published by UNDP and the Oxford Poverty and Human Development Initiative."
+   }
+  ]
+ },
+ "u0431": {
+  "gist": "India's forex reserves hit a record $729.328 billion in the week ended 21 August 2026, the eighth straight weekly rise, as per RBI data.",
+  "facts": [
+   "Week ended August 21, 2026: up $12.422 billion to $729.328 billion.",
+   "Previous record: $728.494 billion (week ended February 27, 2026).",
+   "Eighth straight weekly rise; about $63 billion added in eight weeks.",
+   "Foreign currency assets $591.333 billion; gold $114.218 billion.",
+   "SDRs $18.852 billion; reserve position with IMF $4.925 billion.",
+   "FCNR(B) deposits gave the largest share, $65.40 billion (2013 scheme: about $26 billion)."
+  ],
+  "hindi": [
+   "Foreign exchange reserves (विदेशी मुद्रा भंडार)",
+   "Special Drawing Rights (विशेष आहरण अधिकार)"
+  ],
+  "priority": 1,
+  "check": "Says reserves reached $785.706 billion by September 4, 2026 (a jump of about $56 billion in two weeks); the FCNR(B) 'scheme' is never introduced.",
+  "mcq": [
+   {
+    "q": "In the week ended August 21, 2026, India's foreign exchange reserves reached a record of:",
+    "o": [
+     "$728.494 billion",
+     "$729.328 billion",
+     "$701.4 billion",
+     "$591.333 billion"
+    ],
+    "k": 1,
+    "why": "Reserves rose by $12.422 billion to an all-time high of $729.328 billion."
+   }
+  ]
+ },
+ "u0432": {
+  "gist": "On 14 July 2026, NSO (MoSPI) released India's first Trial Index of Services Production, for April 2026, with base year 2024–25.",
+  "facts": [
+   "ISP: India's first high-frequency measure of short-term changes in formal services output.",
+   "Fills a gap: the Index of Industrial Production does not cover services.",
+   "Trial covered 19 sub-sectors (about 60% of services); no single overall ISP yet.",
+   "April 2026 leader: accommodation and food services, 37.2% year-on-year growth.",
+   "Fourteen sub-sectors had double-digit growth in April 2026.",
+   "Base year 2024–25, broadly aligned with the new CPI series (reference year 2024)."
+  ],
+  "trap": "IIP measures industry; ISP measures services. ISP base year 2024–25; CPI reference year 2024.",
+  "hindi": [
+   "Services sector (सेवा क्षेत्र)",
+   "Base year (आधार वर्ष)"
+  ],
+  "priority": 1,
+  "check": "Released July 14, 2026, but coverage is stated 'as of July 24, 2026'.",
+  "mcq": [
+   {
+    "q": "India's first Trial Index of Services Production (ISP), released in July 2026, uses which base year?",
+    "o": [
+     "2011–12",
+     "2022–23",
+     "2024–25",
+     "2025–26"
+    ],
+    "k": 2,
+    "why": "The ISP base year is 2024–25, aligned broadly with the new CPI series."
+   }
+  ]
+ },
+ "u0433": {
+  "gist": "NITI Aayog's Investment Friendliness Index rates all 28 States and eight UTs on a 100-point scale; Gujarat tops it and UP is a Frontrunner.",
+  "facts": [
+   "Grew from the PM's call for an 'Investment-Friendly Charter' at NITI's Ninth Governing Council (July 2024).",
+   "Covers 28 States and eight UTs; 100-point scale; eight pillars, 84 indicators.",
+   "Heaviest pillars: Infrastructure 25%, Business climate 20%.",
+   "Top 5: Gujarat 56.6, Maharashtra 53.7, Tamil Nadu 53.3, Goa 53.1, Odisha 52.4.",
+   "Uttar Pradesh is among 15 Frontrunners (score 45–50).",
+   "Peer leaders: Uttarakhand 47.5 (hilly/NE), Goa 53.1 (UTs and city-States)."
+  ],
+  "hindi": [
+   "Investment (निवेश)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which State topped NITI Aayog's Investment Friendliness Index?",
+    "o": [
+     "Maharashtra",
+     "Tamil Nadu",
+     "Gujarat",
+     "Odisha"
+    ],
+    "k": 2,
+    "why": "Gujarat ranked first with 56.6, followed by Maharashtra with 53.7."
+   },
+   {
+    "q": "In NITI Aayog's Investment Friendliness Index, Uttar Pradesh was placed in which category?",
+    "o": [
+     "Top Performers",
+     "Aspiring States/UTs",
+     "Emerging Performers",
+     "Frontrunners"
+    ],
+    "k": 3,
+    "why": "UP is among the 15 Frontrunners scoring 45–50."
+   }
+  ]
+ },
+ "u0434": {
+  "gist": "WEF's Energy Transition Index 2026 (18 June 2026, with Accenture) ranked Sweden first among 120 countries; India rose two places to 70th.",
+  "facts": [
+   "Released June 18, 2026 by WEF with Accenture; 120 countries, 44 indicators.",
+   "Top 5: Sweden 75.3, Finland 74.1, Denmark 72.6, Estonia 70.9, Norway 70.5.",
+   "India ranked 70th (score 54.9), up two places.",
+   "Global energy investment hit a record USD 3.3 trillion in 2025."
+  ],
+  "hindi": [
+   "Energy transition (ऊर्जा संक्रमण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What was India's rank in the World Economic Forum's Energy Transition Index 2026?",
+    "o": [
+     "63rd",
+     "68th",
+     "70th",
+     "75th"
+    ],
+    "k": 2,
+    "why": "India climbed two places to rank 70th with a score of 54.9."
+   }
+  ]
+ },
+ "u0435": {
+  "gist": "PGI-D 2024–25 by the Ministry of Education graded 782 districts on school education; none reached Utkarsh, and Diu scored highest (469).",
+  "facts": [
+   "Released by Department of School Education and Literacy, Ministry of Education.",
+   "782 districts; 600 points; 70 indicators in 6 categories.",
+   "653 districts improved scores; Uttam-2 rose from 1 to 16; none reached Utkarsh (above 90%) or Uttam-1.",
+   "Top: Diu 469 (Uttam-2), Kolhapur 463, Barnala 461; Punjab and Kerala strong.",
+   "Kerala: all its 14 districts placed in Uttam-2 or Uttam-3.",
+   "Lowest: South West Garo Hills, Meghalaya (173); then West Khasi Hills (176)."
+  ],
+  "hindi": [
+   "School education (विद्यालयी शिक्षा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In the Performance Grading Index for Districts (PGI-D) 2024–25, which district scored the highest (469)?",
+    "o": [
+     "Kolhapur",
+     "Barnala",
+     "Diu",
+     "Ernakulam"
+    ],
+    "k": 2,
+    "why": "Diu scored 469 (Uttam-2); Kolhapur 463 and Barnala 461 followed."
+   }
+  ]
+ },
+ "u0436": {
+  "gist": "The Heritage Foundation's 32nd Index of Economic Freedom (March 2026) ranked 176 countries; Singapore is first and India 132nd ('Mostly Unfree').",
+  "facts": [
+   "Published by The Heritage Foundation, Washington, D.C.; first in 1995; 2026 is the 32nd edition.",
+   "176 countries ranked (index covers 184 economies); 12 indicators in four policy areas.",
+   "Top 5: Singapore 84.4, Switzerland, Ireland, Australia, Taiwan.",
+   "India 132nd (score 52.5): 'Mostly Unfree' (50–59.9).",
+   "'Repressed' (0–49.9): North Korea last, 176th (score 3.1).",
+   "Neighbours below 50: Pakistan 152nd, China 154th, Maldives 158th, Myanmar 164th."
+  ],
+  "hindi": [
+   "Economic freedom (आर्थिक स्वतंत्रता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Index of Economic Freedom, whose 32nd edition was released in March 2026, is published by:",
+    "o": [
+     "World Economic Forum",
+     "World Bank",
+     "Fraser Institute",
+     "The Heritage Foundation"
+    ],
+    "k": 3,
+    "why": "IEF is an annual report of the Washington, D.C.-based Heritage Foundation."
+   },
+   {
+    "q": "In the Index of Economic Freedom 2026, India's rank and category were:",
+    "o": [
+     "120th, Moderately Free",
+     "132nd, Mostly Unfree",
+     "152nd, Repressed",
+     "92nd, Mostly Unfree"
+    ],
+    "k": 1,
+    "why": "India ranked 132nd with a score of 52.5 in the 'Mostly Unfree' category."
+   }
+  ],
+  "trap": "India is 'Mostly Unfree'; Pakistan and China fall in the lower 'Repressed' group."
+ },
+ "u0437": {
+  "gist": "NITI Aayog released the second Fiscal Health Index on 11 March 2026; Odisha, Goa and Jharkhand are Achievers, and UP is a Front-Runner.",
+  "facts": [
+   "Released 11 March 2026 in New Delhi; second annual edition.",
+   "Five pillars: Quality of Expenditure, Revenue Mobilisation, Fiscal Prudence, Debt Index, Debt Sustainability.",
+   "Major State Achievers: Odisha, Goa, Jharkhand.",
+   "Front-Runners: Gujarat, Maharashtra, Chhattisgarh, Telangana, Uttar Pradesh, Karnataka.",
+   "Bihar moved up from Aspirational to Performer; Tamil Nadu slipped.",
+   "NE/Himalayan Achievers: Arunachal Pradesh and Uttarakhand."
+  ],
+  "trap": "Achievers are the top group; UP is a Front-Runner, not an Achiever. Punjab, Kerala and West Bengal are most debt-stressed.",
+  "hindi": [
+   "Fiscal health (राजकोषीय स्वास्थ्य)",
+   "Fiscal prudence (राजकोषीय विवेक)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In NITI Aayog's Fiscal Health Index 2026, which major States were placed in the 'Achievers' category?",
+    "o": [
+     "Odisha, Goa, Jharkhand",
+     "Gujarat, Maharashtra, Telangana",
+     "Punjab, Kerala, West Bengal",
+     "Bihar, Rajasthan, Haryana"
+    ],
+    "k": 0,
+    "why": "Achievers among major States: Odisha, Goa and Jharkhand."
+   },
+   {
+    "q": "In the Fiscal Health Index 2026, Uttar Pradesh was placed in which category?",
+    "o": [
+     "Achievers",
+     "Aspirational",
+     "Performers",
+     "Front-Runners"
+    ],
+    "k": 3,
+    "why": "Uttar Pradesh is listed among the Front-Runners."
+   }
+  ]
+ },
+ "u0438": {
+  "gist": "Forbes India's 100 Richest 2026 list (30 September 2026) ranks Gautam Adani & family first ($112.7 B), ahead of Mukesh Ambani ($86.3 B).",
+  "facts": [
+   "1st: Gautam Adani & family, $112.7 B (Diversified).",
+   "2nd: Mukesh Ambani, $86.3 B; 3rd: Savitri Jindal & family, $39.8 B.",
+   "4th: Lakshmi Mittal, $34.7 B; 5th: Sunil Mittal & family, $32.9 B (Telecom)."
+  ],
+  "trap": "In this Forbes India list Adani is 1st and Mukesh Ambani 2nd; always check which list is asked.",
+  "hindi": [
+   "Net worth (कुल संपत्ति)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who topped Forbes' 'India's 100 Richest 2026' list released on September 30, 2026?",
+    "o": [
+     "Mukesh Ambani",
+     "Shiv Nadar",
+     "Savitri Jindal & family",
+     "Gautam Adani & family"
+    ],
+    "k": 3,
+    "why": "Gautam Adani & family ranked first with $112.7 B."
+   }
+  ]
+ },
+ "u0439": {
+  "gist": "NITI Aayog's Export Preparedness Index 2024 (14 January 2026), the 4th edition, ranks Maharashtra first among large States; UP is 4th.",
+  "facts": [
+   "Released 14 January 2026 by NITI Aayog; 4th edition (first EPI: August 2020).",
+   "Linked to USD 1 trillion merchandise exports by 2030 and Viksit Bharat @2047.",
+   "Pillars: Export Infrastructure 20%, Business Ecosystem 40%, Policy & Governance 20%, Export Performance 20%.",
+   "Large States top 5: Maharashtra, Tamil Nadu, Gujarat, Uttar Pradesh, Andhra Pradesh.",
+   "Small/NE States/UTs: Uttarakhand 1st, Jammu and Kashmir 2nd, Nagaland 3rd.",
+   "UP ranked 4th and first among landlocked States (ODOP, dry ports, logistics reforms)."
+  ],
+  "hook": "Business Ecosystem weighs 40%, double each of the other three pillars (20% each).",
+  "hindi": [
+   "Export preparedness (निर्यात तैयारी)",
+   "Landlocked (स्थलरुद्ध)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In NITI Aayog's Export Preparedness Index 2024, which State ranked first among large States?",
+    "o": [
+     "Gujarat",
+     "Tamil Nadu",
+     "Maharashtra",
+     "Uttar Pradesh"
+    ],
+    "k": 2,
+    "why": "Large States: Maharashtra 1st, Tamil Nadu 2nd, Gujarat 3rd, Uttar Pradesh 4th."
+   },
+   {
+    "q": "In the Export Preparedness Index 2024, Uttar Pradesh is highlighted as:",
+    "o": [
+     "First among coastal States",
+     "Last among large States",
+     "First among North-Eastern States",
+     "First among landlocked States"
+    ],
+    "k": 3,
+    "why": "UP ranked 4th overall and first among landlocked States."
+   }
+  ]
+ },
+ "u0440": {
+  "gist": "Fortune India's Top 100 Billionaires 2026 (September 2026) keeps Mukesh Ambani first (₹8,67,624 crore), with Gautam Adani second.",
+  "facts": [
+   "1st: Mukesh Ambani, ₹8,67,624 crore ($91.12 billion) in 2026.",
+   "2nd: Gautam Adani, ₹8,52,104 crore ($89.49 billion).",
+   "3rd: Savitri Devi Jindal, up from 5th in 2025.",
+   "4th: Shapoor, Firoz, Zahan Mistry & family; 5th: Sunil Mittal & family.",
+   "Ambani and Adani held the same top-two ranks in 2025."
+  ],
+  "trap": "In this Fortune list Mukesh Ambani is 1st (values in ₹ crore); check which list a question names.",
+  "hindi": [
+   "Billionaire (अरबपति)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In Fortune India's Top 100 Billionaires 2026 list, who rose from 5th rank in 2025 to 3rd rank in 2026?",
+    "o": [
+     "Sunil Mittal & family",
+     "Shapoor Mistry & family",
+     "Savitri Devi Jindal",
+     "Gautam Adani"
+    ],
+    "k": 2,
+    "why": "Savitri Devi Jindal moved from 5th (2025) to 3rd (2026)."
+   }
+  ]
+ },
+ "u0441": {
+  "gist": "The Forbes World's Billionaires List 2026 is topped by Elon Musk ($839 B); Mukesh Ambani is the richest Indian at 21st ($99.7 B).",
+  "facts": [
+   "Top 5 (all USA): Elon Musk, Larry Page, Sergey Brin, Jeff Bezos, Mark Zuckerberg.",
+   "Elon Musk: $839 B (Tesla, SpaceX).",
+   "Indians: Mukesh Ambani 21st ($99.7 B); Gautam Adani 31st ($63.8 B).",
+   "Savitri Jindal & family 51st; Lakshmi Mittal 70th; Shiv Nadar 71st.",
+   "Cyrus Poonawalla 95th; Dilip Shanghvi 100th."
+  ],
+  "hindi": [
+   "Billionaire (अरबपति)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In the Forbes World's Billionaires List 2026, who is the highest-ranked Indian?",
+    "o": [
+     "Gautam Adani",
+     "Shiv Nadar",
+     "Savitri Jindal",
+     "Mukesh Ambani"
+    ],
+    "k": 3,
+    "why": "Mukesh Ambani ranked 21st globally with $99.7 B."
+   }
+  ]
+ },
+ "u0442": {
+  "gist": "Hurun Global Rich List 2026 (March 2026): India added 57 billionaires to reach 308 and stays the world's third-largest billionaire hub.",
+  "facts": [
+   "Released by Hurun Research Institute in March 2026.",
+   "India added 57 new billionaires (2025–26); total 308.",
+   "Third-largest billionaire hub, after the United States and China.",
+   "Indian billionaires' wealth up 10% to about ₹112.6 trillion; average ₹36,570 crore.",
+   "Mumbai: 95 billionaires, added 15 (New York added 14).",
+   "Shenzhen is Asia's billionaire capital (132); Mukesh Ambani remains richest Indian."
+  ],
+  "hindi": [
+   "Billionaire (अरबपति)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "According to the Hurun Global Rich List 2026, how many billionaires does India have?",
+    "o": [
+     "251",
+     "284",
+     "308",
+     "334"
+    ],
+    "k": 2,
+    "why": "India added 57 new billionaires, taking its total to 308."
+   }
+  ]
+ },
+ "u0443": {
+  "gist": "Government data (15 October 2026) show rising women's work: female labour force participation rose from 23.3% (2017–18) to 40.0% (2025).",
+  "facts": [
+   "Female LFPR (age 15+, usual status): 23.3% in 2017–18 to 40.0% in 2025.",
+   "Female WPR: 22.0% to 38.8% over the same period.",
+   "About 20 crore women aged 15+ were employed on average in 2025.",
+   "About 3.69 crore women-owned MSMEs (about 38%) as of October 2026.",
+   "Over 1.07 lakh recognised startups (about 48%) have at least one woman director or partner.",
+   "Women: about 70% of mobile manufacturing workforce; 15% of pilots; 29% of STEM researchers (2023–24)."
+  ],
+  "trap": "2025 LFPR = 40.0%; 2025 WPR = 38.8%. Don't swap them.",
+  "hindi": [
+   "Labour Force Participation Rate (श्रम बल भागीदारी दर)",
+   "Worker Population Ratio (कामगार जनसंख्या अनुपात)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "As per government data released in October 2026, the female Labour Force Participation Rate (age 15+) in 2025 was:",
+    "o": [
+     "23.3%",
+     "38.8%",
+     "48.0%",
+     "40.0%"
+    ],
+    "k": 3,
+    "why": "Female LFPR rose from 23.3% in 2017–18 to 40.0% in 2025."
+   }
+  ]
+ },
+ "u0444": {
+  "gist": "On 10 August 2026, NITI Aayog Vice-Chairman Ashok Kumar Lahiri launched a report on regulation of professional services, third in its Services Thematic Series.",
+  "facts": [
+   "Title: India's Services Sector: Insights on Regulatory Regime in Professional Services.",
+   "Launched August 10, 2026 by NITI Vice-Chairman Ashok Kumar Lahiri; PIB release August 14, 2026.",
+   "Third report under the Services Thematic Series.",
+   "Four-pronged strategy: professional development, best practices, moving up the value chain, emerging trends.",
+   "Warns that best practices do not mean copying foreign laws."
+  ],
+  "hindi": [
+   "Professional services (व्यावसायिक सेवाएँ)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who launched NITI Aayog's report 'India's Services Sector: Insights on Regulatory Regime in Professional Services' on August 10, 2026?",
+    "o": [
+     "B. V. R. Subrahmanyam",
+     "Suman Bery",
+     "Arvind Panagariya",
+     "Ashok Kumar Lahiri"
+    ],
+    "k": 3,
+    "why": "NITI Aayog Vice-Chairman Ashok Kumar Lahiri launched it on August 10, 2026."
+   }
+  ]
+ },
+ "u0445": {
+  "gist": "Textiles Minister Giriraj Singh opened IIHT SUTRA 2026, the first national conclave of Indian Institutes of Handloom Technology, on 12 August 2026 in New Delhi.",
+  "facts": [
+   "Held 12 August 2026 at Dr Ambedkar International Centre, New Delhi.",
+   "Organised by the Office of the Development Commissioner (Handlooms), Ministry of Textiles.",
+   "Theme: 'IIHTs: Weaving the Future of the Indian Handloom Sector–Educate. Innovate. Transform.'",
+   "Handloom supports nearly 3.5 million weavers and workers; over 72% are women.",
+   "India has six Central IIHTs and five State IIHTs."
+  ],
+  "hindi": [
+   "Handloom (हथकरघा)",
+   "Weaver (बुनकर)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "IIHT SUTRA 2026, inaugurated on 12 August 2026 in New Delhi, is the first national conclave of:",
+    "o": [
+     "Indian Institutes of Handloom Technology",
+     "National Institutes of Fashion Technology",
+     "Indian Institutes of Technology",
+     "Indian Institutes of Crafts and Design"
+    ],
+    "k": 0,
+    "why": "Giriraj Singh inaugurated it as the first national conclave of the IIHTs."
+   }
+  ]
+ },
+ "u0446": {
+  "gist": "Health Minister J.P. Nadda launched the SUMAN Roadmap 2030 on 29 June 2026 to end preventable maternal and newborn deaths; target MMR below 70.",
+  "facts": [
+   "Launched June 29, 2026 at the 16th Conference of the Central Council of Health and Family Welfare.",
+   "Led by the Health Ministry's Maternal Health Division under RMNCHA+N.",
+   "Goal: MMR below 70 per 100,000 live births by 2030 (SDG target).",
+   "Targets 130 districts across 13 States.",
+   "SUMAN Panchayats and 'Mothers' Picnic' spread awareness; JANANI portal and SUMAN Call Centre.",
+   "Uses AI-enabled labour rooms and Non-Pneumatic Anti-Shock Garment in emergencies."
+  ],
+  "hindi": [
+   "Maternal health (मातृ स्वास्थ्य)",
+   "Antenatal care (प्रसवपूर्व देखभाल)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The SUMAN Roadmap 2030, launched in June 2026, aims to bring India's maternal mortality ratio below what level per 100,000 live births by 2030?",
+    "o": [
+     "100",
+     "87",
+     "70",
+     "50"
+    ],
+    "k": 2,
+    "why": "It targets the SDG goal of MMR below 70 per 100,000 live births by 2030."
+   }
+  ]
+ },
+ "u0447": {
+  "gist": "A study of CMIE household data (2014–2025) finds more families slipping down the income ladder: downward mobility rose from 14% to 26.8%.",
+  "facts": [
+   "Based on CMIE Consumer Pyramids Household Survey; same households tracked 2014 to 2025.",
+   "Groups by 2014 income: Top 10%, Next 40%, Bottom 50%.",
+   "Downward mobility: 14% (2015) to 26.8% (2025).",
+   "Upward mobility: 14.1% to 23.5%.",
+   "Households with no change fell from over 70% to below 50%.",
+   "Rural stress: nearly 29% of rural households worse off in 2025 than in 2014."
+  ],
+  "trap": "Downward mobility rose more (14% to 26.8%) than upward (14.1% to 23.5%).",
+  "hindi": [
+   "Income mobility (आय गतिशीलता)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "According to the income mobility study based on CMIE data (2014–2025), the share of households facing downward mobility in 2025 was:",
+    "o": [
+     "14%",
+     "23.5%",
+     "26.8%",
+     "29%"
+    ],
+    "k": 2,
+    "why": "Downward mobility rose from 14% in 2015 to 26.8% in 2025."
+   }
+  ]
+ },
+ "u0448": {
+  "gist": "India's FDI inflows rose 14% to USD 81.04 billion (provisional) in FY 2024–25; services drew the most, and Singapore was the top source.",
+  "facts": [
+   "FDI: USD 36.05 billion (FY 2013–14) to USD 81.04 billion (FY 2024–25, provisional).",
+   "Up 14% from USD 71.28 billion in FY 2023–24.",
+   "Top sectors: services 19%, computer software and hardware 16%, trading 8%.",
+   "Top States: Maharashtra 39%, Karnataka 13%, Delhi 12%.",
+   "Top sources: Singapore 30%, Mauritius 17%, United States 11%.",
+   "2014–25 FDI USD 748.78 billion, 143% more than 2003–14 (USD 308.38 billion)."
+  ],
+  "hook": "Source order S-M-U: Singapore 30, Mauritius 17, US 11.",
+  "hindi": [
+   "Foreign Direct Investment (प्रत्यक्ष विदेशी निवेश)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which country was the largest source of FDI equity inflows into India in FY 2024–25?",
+    "o": [
+     "Mauritius",
+     "United States",
+     "Singapore",
+     "Japan"
+    ],
+    "k": 2,
+    "why": "Singapore led with a 30% share, followed by Mauritius (17%)."
+   },
+   {
+    "q": "Which State received the highest share of FDI equity inflows in FY 2024–25?",
+    "o": [
+     "Karnataka",
+     "Gujarat",
+     "Delhi",
+     "Maharashtra"
+    ],
+    "k": 3,
+    "why": "Maharashtra had the highest share (39%), followed by Karnataka (13%)."
+   }
+  ]
+ },
+ "u0449": {
+  "gist": "Short economic news: first soil carbon payments to farmers, sugar export ban, first mega greenfield shipyard, IST rules, gig-worker grievance system and more.",
+  "facts": [
+   "First soil carbon payments: over ₹2.9 crore to 2,550 Punjab–Haryana farmers (PAU Ludhiana, 14 September 2026).",
+   "Sugar exports moved from 'Restricted' to 'Prohibited' till September 30, 2026 (DGFT, May 13, 2026).",
+   "First mega greenfield shipyard at Thoothukudi, Tamil Nadu; tripartite MoU on 20 April 2026.",
+   "IST Rules, 2026 notified August 27, 2026; IST = UTC+5:30, meridian 82°30′E passes through UP.",
+   "SARTHAK-PDS: ₹25,530 crore central outlay, approved May 27, 2026, till 31 March 2031.",
+   "Firsts: Karnataka – gig-worker digital grievance system; Kerala – 'extreme poverty–free' State (1 November 2025)."
+  ],
+  "hindi": [
+   "Carbon credit (कार्बन क्रेडिट)",
+   "Gig worker (गिग कामगार)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first mega greenfield shipyard, for which a tripartite MoU was signed on 20 April 2026, is proposed at:",
+    "o": [
+     "Paradip, Odisha",
+     "Kochi, Kerala",
+     "Kandla, Gujarat",
+     "Thoothukudi, Tamil Nadu"
+    ],
+    "k": 3,
+    "why": "The tripartite MoU of 20 April 2026 is for a shipyard at Thoothukudi, Tamil Nadu."
+   },
+   {
+    "q": "Which State became the first in India to launch a government-backed digital grievance redressal system for gig workers?",
+    "o": [
+     "Rajasthan",
+     "Telangana",
+     "Karnataka",
+     "Maharashtra"
+    ],
+    "k": 2,
+    "why": "Karnataka launched it through its Platform Based Gig Workers Welfare Board."
+   }
+  ]
+ },
+ "u0450": {
+  "gist": "Nirmala Sitharaman presented Union Budget 2026–27 on 1 February 2026 around '3 Kartavyas'; fiscal deficit 4.3% of GDP and public capex ₹12.2 lakh crore.",
+  "facts": [
+   "Total expenditure ₹53.47 lakh crore (+7.7%); fiscal deficit 4.3% of GDP (2025–26 RE: 4.4%).",
+   "Debt-to-GDP 55.6%; target about 50% by March 2031; revenue deficit 1.5%.",
+   "Public capex ₹12.2 lakh crore (2025–26: ₹11.2 lakh crore).",
+   "Defence has the highest ministry allocation: ₹7.85 lakh crore (15% of spending).",
+   "VB-G RAM G gets the highest scheme allocation, ₹95,692 crore; MGNREGS still ₹30,000 crore.",
+   "New: Biopharma SHAKTI ₹10,000 crore; CCUS ₹20,000 crore; seven HSR corridors incl. Delhi–Varanasi."
+  ],
+  "trap": "Interest is 26% of total expenditure but 20% in the 'Rupee Goes To' chart; the two use different bases.",
+  "hindi": [
+   "Fiscal deficit (राजकोषीय घाटा)",
+   "Capital expenditure (पूंजीगत व्यय)",
+   "Revenue deficit (राजस्व घाटा)"
+  ],
+  "priority": 1,
+  "check": "Finance Commission grants for 2026–27 are given as ₹1.4 lakh crore in one place and ₹1.29 lakh crore in another.",
+  "mcq": [
+   {
+    "q": "In the Union Budget 2026–27, the fiscal deficit is estimated at what percentage of GDP?",
+    "o": [
+     "4.4%",
+     "4.8%",
+     "4.3%",
+     "3.5%"
+    ],
+    "k": 2,
+    "why": "Fiscal deficit is targeted at 4.3% of GDP, below 4.4% in 2025–26 (RE)."
+   },
+   {
+    "q": "Which of these is among the seven High-Speed Rail corridors proposed in the Union Budget 2026–27?",
+    "o": [
+     "Delhi–Varanasi",
+     "Delhi–Lucknow",
+     "Lucknow–Patna",
+     "Agra–Kanpur"
+    ],
+    "k": 0,
+    "why": "Proposed corridors include Delhi–Varanasi and Varanasi–Siliguri."
+   }
+  ]
+ },
+ "u0451": {
+  "gist": "Economic Survey 2025–26 urges 'entrepreneurial policymaking under uncertainty' and projects FY27 real GDP growth of 6.8%–7.2%, with potential growth near 7%.",
+  "facts": [
+   "First Advance Estimates: FY26 real GDP growth 7.4%, GVA 7.3%; fastest-growing major economy for the fourth year.",
+   "Reorganised into 17 chapters; special essays on AI and quality of life in cities.",
+   "Average CPI inflation 1.7% (April–December 2025), lowest since the CPI series began.",
+   "Forex reserves USD 701.4 billion (16 January 2026), about 11 months of import cover.",
+   "Global Innovation Index rank 38th in 2025 (66th in 2019).",
+   "Extreme poverty fell to 5.3% in 2022–23 (revised World Bank line)."
+  ],
+  "trap": "FY26 growth 7.4% (First Advance Estimates) vs FY27 projection 6.8%–7.2% vs potential growth about 7%.",
+  "hindi": [
+   "Economic Survey (आर्थिक सर्वेक्षण)",
+   "Potential growth (संभावित वृद्धि)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to the Economic Survey 2025–26, India's real GDP growth for FY27 is projected at:",
+    "o": [
+     "6.3%–6.8%",
+     "6.8%–7.2%",
+     "7.4%–7.8%",
+     "6.5%–7.0%"
+    ],
+    "k": 1,
+    "why": "The Survey projects FY27 real GDP growth at 6.8%–7.2%; potential growth about 7%."
+   },
+   {
+    "q": "As per the Economic Survey 2025–26, India's rank in the Global Innovation Index 2025 was:",
+    "o": [
+     "66th",
+     "40th",
+     "38th",
+     "48th"
+    ],
+    "k": 2,
+    "why": "India's GII rank improved to 38th in 2025 from 66th in 2019."
+   }
+  ]
+ }
+}

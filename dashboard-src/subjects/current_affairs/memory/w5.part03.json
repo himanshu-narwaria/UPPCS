@@ -1,0 +1,953 @@
+{
+ "u1088": {
+  "gist": "India Women won the ACC Women's T20 Asia Cup 2026 in Dubai, with Sri Lanka Women runners-up; Shafali Verma was Player of the Tournament.",
+  "facts": [
+   "Hosted in Dubai, U.A.E., August 28 to September 13, 2026; 8 teams took part.",
+   "Champion: India Women; Runner-up: Sri Lanka Women.",
+   "Player of the Tournament: Shafali Verma (India); most runs: 236.",
+   "Most wickets: Deepti Sharma (India), 14.",
+   "Only century: Smriti Mandhana vs Hong Kong; fastest fifty: Shafali Verma, 24 balls vs Sri Lanka."
+  ],
+  "hook": "Shafali triple: Player of the Tournament + most runs + fastest fifty.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was the Player of the Tournament at the ACC Women's T20 Asia Cup 2026?",
+    "o": [
+     "Shafali Verma",
+     "Deepti Sharma",
+     "Smriti Mandhana",
+     "Harmanpreet Kaur"
+    ],
+    "k": 0,
+    "why": "Shafali Verma was Player of the Tournament and top run-scorer with 236 runs."
+   }
+  ]
+ },
+ "u1089": {
+  "gist": "East Zone won the Duleep Trophy 2026-27 (August 23 to September 10, 2026), its 3rd title.",
+  "facts": [
+   "Held August 23 to September 10, 2026.",
+   "Winner: East Zone (3rd title)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which team won the Duleep Trophy 2026-27?",
+    "o": [
+     "West Zone",
+     "South Zone",
+     "Central Zone",
+     "East Zone"
+    ],
+    "k": 3,
+    "why": "East Zone won the Duleep Trophy 2026-27, its 3rd title."
+   }
+  ]
+ },
+ "u1090": {
+  "gist": "Australia Women won the 10th ICC Women's T20 World Cup 2026, hosted by England and Wales, beating England at Lord's for their 7th title.",
+  "facts": [
+   "10th edition; hosted by England and Wales, June 12 to July 5, 2026.",
+   "First time with 12 teams; a record 33 matches at seven venues.",
+   "The Netherlands made their maiden appearance.",
+   "Final at Lord's, London (July 5, 2026): Australia Women beat England Women; Australia's 7th title.",
+   "Player of the Tournament: Beth Mooney (Australia); most wickets: Shree Charani (India), 14."
+  ],
+  "trap": "10th edition of the tournament, but Australia's 7th title.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which team won the ICC Women's T20 World Cup 2026?",
+    "o": [
+     "England Women",
+     "Australia Women",
+     "India Women",
+     "South Africa Women"
+    ],
+    "k": 1,
+    "why": "Australia Women beat England Women in the final at Lord's for their 7th title."
+   },
+   {
+    "q": "Which Indian bowler took the most wickets at the ICC Women's T20 World Cup 2026?",
+    "o": [
+     "Shree Charani",
+     "Deepti Sharma",
+     "Renuka Singh",
+     "Radha Yadav"
+    ],
+    "k": 0,
+    "why": "Shree Charani (India) took the most wickets, 14."
+   }
+  ]
+ },
+ "u1091": {
+  "gist": "Wisden Cricketers' Almanack 2026 named Mitchell Starc, Deepti Sharma and Abhishek Sharma as the world's leading cricketers in their categories.",
+  "facts": [
+   "Leading Men's Cricketer in the World: Mitchell Starc (Australia).",
+   "Leading Women's Cricketer in the World: Deepti Sharma (India).",
+   "Leading T20 Cricketer in the World: Abhishek Sharma (India)."
+  ],
+  "hook": "Two Indian Sharmas: Deepti (women's) and Abhishek (T20).",
+  "trap": "Deepti Sharma = Leading Women's Cricketer; Abhishek Sharma = Leading T20 Cricketer.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was named Wisden's Leading T20 Cricketer in the World in the 2026 Almanack?",
+    "o": [
+     "Mitchell Starc",
+     "Abhishek Sharma",
+     "Sanju Samson",
+     "Vaibhav Suryavanshi"
+    ],
+    "k": 1,
+    "why": "Wisden 2026 named Abhishek Sharma (India) the Leading T20 Cricketer in the World."
+   }
+  ]
+ },
+ "u1092": {
+  "gist": "Royal Challengers Bengaluru won the 19th IPL (2026), beating Gujarat Titans in the final at Narendra Modi Stadium, Ahmedabad, for their 2nd title.",
+  "facts": [
+   "19th IPL: March 28 to May 31, 2026; 13 venues; 10 teams; 74 matches.",
+   "Final: May 31, 2026 at Narendra Modi Stadium, Ahmedabad, RCB vs Gujarat Titans.",
+   "Champion: Royal Challengers Bengaluru (2nd title); Player of the Final: Virat Kohli.",
+   "MVP and Orange Cap: Vaibhav Suryavanshi (RR), 776 runs; also fastest century, 36 balls.",
+   "Purple Cap: Kagiso Rabada (GT), 29 wickets; fastest fifty: Urvil Patel (CSK), 13 balls."
+  ],
+  "hook": "Suryavanshi triple: MVP + Orange Cap + fastest century.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which team won IPL 2026, the 19th edition of the league?",
+    "o": [
+     "Gujarat Titans",
+     "Rajasthan Royals",
+     "Chennai Super Kings",
+     "Royal Challengers Bengaluru"
+    ],
+    "k": 3,
+    "why": "Royal Challengers Bengaluru beat Gujarat Titans in the final for their 2nd title."
+   },
+   {
+    "q": "Who won the Orange Cap in IPL 2026?",
+    "o": [
+     "Virat Kohli",
+     "Kagiso Rabada",
+     "Urvil Patel",
+     "Vaibhav Suryavanshi"
+    ],
+    "k": 3,
+    "why": "Vaibhav Suryavanshi (RR) won the Orange Cap with 776 runs."
+   }
+  ]
+ },
+ "u1093": {
+  "gist": "India won the 10th ICC Men's T20 World Cup 2026, co-hosted with Sri Lanka, beating New Zealand in Ahmedabad for a record third title.",
+  "facts": [
+   "10th edition; co-hosted by India and Sri Lanka, February 7 to March 8, 2026; 20 teams, 55 matches.",
+   "Final: India beat New Zealand at Narendra Modi Stadium, Ahmedabad, on March 8, 2026.",
+   "India won a record third title.",
+   "Player of the Tournament: Sanju Samson (also most sixes, 24); Player of the Final: Jasprit Bumrah.",
+   "Highest score: Yuvraj Samra (Canada), 110; fastest fifty: Abhishek Sharma, 18 balls vs New Zealand.",
+   "Most catches: Glenn Phillips (New Zealand), 11."
+  ],
+  "trap": "Sanju Samson = Player of the Tournament; Jasprit Bumrah = Player of the Match in the final.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was the Player of the Tournament at the ICC Men's T20 World Cup 2026?",
+    "o": [
+     "Jasprit Bumrah",
+     "Abhishek Sharma",
+     "Sanju Samson",
+     "Glenn Phillips"
+    ],
+    "k": 2,
+    "why": "Sanju Samson was Player of the Tournament; Bumrah was Player of the Final."
+   },
+   {
+    "q": "India beat which team in the final of the ICC Men's T20 World Cup 2026?",
+    "o": [
+     "Sri Lanka",
+     "New Zealand",
+     "Australia",
+     "South Africa"
+    ],
+    "k": 1,
+    "why": "The final was India vs New Zealand at Ahmedabad on March 8, 2026."
+   }
+  ]
+ },
+ "u1094": {
+  "gist": "India won the 16th ICC Men's Under-19 World Cup 2026 in Zimbabwe and Namibia, beating England for a record 6th title.",
+  "facts": [
+   "16th edition; Zimbabwe and Namibia, January 15 to February 6, 2026.",
+   "Champion: India (record 6th title); Runner-up: England.",
+   "Player of the Series: Vaibhav Suryavanshi (India)."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which countries hosted the ICC Men's Under-19 World Cup 2026, won by India?",
+    "o": [
+     "Zimbabwe and Namibia",
+     "UAE and Oman",
+     "South Africa and Namibia",
+     "Sri Lanka and Bangladesh"
+    ],
+    "k": 0,
+    "why": "The 16th U-19 World Cup was held in Zimbabwe and Namibia."
+   }
+  ]
+ },
+ "u1095": {
+  "gist": "Royal Challengers Bengaluru won the TATA Women's Premier League (WPL) 2026, with Delhi Capitals as runner-up, for their 2nd title.",
+  "facts": [
+   "Champion: Royal Challengers Bengaluru (2nd title); Runner-up: Delhi Capitals.",
+   "Most Valuable Player and Purple Cap: Sophie Devine (Gujarat Giants).",
+   "Orange Cap (most runs): Smriti Mandhana (RCB).",
+   "The only hat-trick: Nandani Sharma (Delhi Capitals)."
+  ],
+  "trap": "Sophie Devine took both MVP and the Purple Cap (wickets); the Orange Cap (runs) went to Smriti Mandhana.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who won the Orange Cap for most runs in the Women's Premier League (WPL) 2026?",
+    "o": [
+     "Sophie Devine",
+     "Smriti Mandhana",
+     "Nandani Sharma",
+     "Shafali Verma"
+    ],
+    "k": 1,
+    "why": "Smriti Mandhana (RCB) won the Orange Cap; Sophie Devine won MVP and Purple Cap."
+   }
+  ]
+ },
+ "u1096": {
+  "gist": "India won the 13th ICC Women's Cricket World Cup 2025 at home, beating South Africa at DY Patil Stadium, Navi Mumbai: its 1st title.",
+  "facts": [
+   "13th edition hosted by India, September 30 to November 2, 2025.",
+   "Final at DY Patil Stadium, Navi Mumbai.",
+   "Champion: India (1st title); Runner-up: South Africa."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the final of the ICC Women's Cricket World Cup 2025, won by India, played?",
+    "o": [
+     "Eden Gardens, Kolkata",
+     "Wankhede Stadium, Mumbai",
+     "DY Patil Stadium, Navi Mumbai",
+     "Narendra Modi Stadium, Ahmedabad"
+    ],
+    "k": 2,
+    "why": "The final was played at the DY Patil Stadium, Navi Mumbai."
+   }
+  ]
+ },
+ "u1097": {
+  "gist": "Czech Republic won the Billie Jean King Cup Finals 2026 in Shenzhen, China, with Ukraine as runner-up.",
+  "facts": [
+   "Held 22 to 27 September 2026 in Shenzhen, China.",
+   "Winner: Czech Republic; Runner-up: Ukraine."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which country won the Billie Jean King Cup Finals 2026, held in Shenzhen?",
+    "o": [
+     "Ukraine",
+     "Italy",
+     "China",
+     "Czech Republic"
+    ],
+    "k": 3,
+    "why": "Czech Republic won; Ukraine was runner-up."
+   }
+  ]
+ },
+ "u1098": {
+  "gist": "Arthur Fils (France) and Coco Gauff (USA) won the singles titles at the Cincinnati Open 2026, held 11-23 August.",
+  "facts": [
+   "Held in Cincinnati, U.S.A., 11 to 23 August 2026.",
+   "Men's singles: winner Arthur Fils (France); runner-up Frances Tiafoe (U.S.A.).",
+   "Women's singles: winner Coco Gauff; runner-up Jessica Pegula (both U.S.A.)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Who won the men's singles title at the Cincinnati Open 2026?",
+    "o": [
+     "Frances Tiafoe",
+     "Jannik Sinner",
+     "Arthur Fils",
+     "Alexander Zverev"
+    ],
+    "k": 2,
+    "why": "Arthur Fils (France) won; Frances Tiafoe was runner-up."
+   }
+  ]
+ },
+ "u1099": {
+  "gist": "At the ATP Bonn Open 2026 in Germany, Jan Choinski won the singles and Indians Vijay Sundar Prashanth and Ramkumar Ramanathan won the doubles.",
+  "facts": [
+   "Held in Bonn, Germany, July 27 to August 2, 2026.",
+   "Men's singles: Jan Choinski (U.K.).",
+   "Men's doubles: Vijay Sundar Prashanth and Ramkumar Ramanathan (both India)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Indian pair won the men's doubles at the ATP Bonn Open 2026?",
+    "o": [
+     "Rohan Bopanna and Yuki Bhambri",
+     "Vijay Sundar Prashanth and Ramkumar Ramanathan",
+     "Siddhant Banthia and N. Sriram Balaji",
+     "Niki Kaliyanda Poonacha and Yuki Bhambri"
+    ],
+    "k": 1,
+    "why": "Vijay Sundar Prashanth and Ramkumar Ramanathan (both India) won the doubles."
+   }
+  ]
+ },
+ "u1100": {
+  "gist": "Jannik Sinner (Italy) and Elina Svitolina (Ukraine) won the singles at the Italian Open 2026 in Rome, May 5-17.",
+  "facts": [
+   "Played in Rome, Italy, May 5 to 17, 2026.",
+   "Men's: Jannik Sinner (Italy) won; runner-up Casper Ruud (Norway).",
+   "Women's: Elina Svitolina (Ukraine) won; runner-up Coco Gauff (U.S.A.)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Who won the women's singles at the Italian Open 2026?",
+    "o": [
+     "Elina Svitolina",
+     "Coco Gauff",
+     "Aryna Sabalenka",
+     "Marta Kostyuk"
+    ],
+    "k": 0,
+    "why": "Elina Svitolina (Ukraine) won; Coco Gauff was runner-up."
+   }
+  ]
+ },
+ "u1101": {
+  "gist": "Jannik Sinner (Italy) and Marta Kostyuk (Ukraine) won the singles at the Mutua Madrid Open 2026, April 21 to May 3.",
+  "facts": [
+   "Played in Madrid, Spain, April 21 to May 3, 2026.",
+   "Men's: Jannik Sinner (Italy) won; runner-up Alexander Zverev (Germany).",
+   "Women's: Marta Kostyuk (Ukraine) won; runner-up Mirra Andreeva (Russia)."
+  ],
+  "trap": "Two Ukrainian women won in Europe: Kostyuk in Madrid, Svitolina in Rome.",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Who won the women's singles at the Mutua Madrid Open 2026?",
+    "o": [
+     "Mirra Andreeva",
+     "Elina Svitolina",
+     "Marta Kostyuk",
+     "Aryna Sabalenka"
+    ],
+    "k": 2,
+    "why": "Marta Kostyuk (Ukraine) won; Mirra Andreeva (Russia) was runner-up."
+   }
+  ]
+ },
+ "u1102": {
+  "gist": "Jannik Sinner and Aryna Sabalenka won the singles at the Indian Wells Open (BNP Paribas Open) 2026, held March 4 to 15.",
+  "facts": [
+   "Held March 4 to 15, 2026.",
+   "Men's: Jannik Sinner (Italy) won; runner-up Daniil Medvedev (Russia).",
+   "Women's: Aryna Sabalenka (Belarus) won; runner-up Elena Rybakina (Kazakhstan)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Who won the women's singles at the Indian Wells Open (BNP Paribas Open) 2026?",
+    "o": [
+     "Elena Rybakina",
+     "Aryna Sabalenka",
+     "Coco Gauff",
+     "Marta Kostyuk"
+    ],
+    "k": 1,
+    "why": "Aryna Sabalenka (Belarus) won; Elena Rybakina was runner-up."
+   }
+  ]
+ },
+ "u1103": {
+  "gist": "Jannik Sinner and Aryna Sabalenka won the Miami Open 2026, completing the 'Sunshine Double' of Indian Wells and Miami in the same year.",
+  "facts": [
+   "Miami Open: March 17 to 29, 2026; winners Jannik Sinner (Italy) and Aryna Sabalenka (Belarus).",
+   "Runners-up: Jiri Lehecka (Czech Republic) and Coco Gauff (U.S.A.).",
+   "Sunshine Double = winning Indian Wells and Miami Open titles in the same year.",
+   "WTA Mumbai Open 2026: Mananchaya Sawangkaew (Thailand); ATP Delhi Open singles: Stefanos Sakellaridis (Greece).",
+   "ATP Chennai Challenger 2026 singles: Frederico Ferreira Silva (Portugal).",
+   "Davis Cup Finals 2025: Italy (4th title)."
+  ],
+  "hook": "Sunshine Double = Indian Wells + Miami, same year; 2026: Sinner and Sabalenka.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In tennis, winning both the Indian Wells Open and the Miami Open in the same year is called the:",
+    "o": [
+     "Sunshine Double",
+     "Career Slam",
+     "Golden Slam",
+     "Channel Slam"
+    ],
+    "k": 0,
+    "why": "Winning both titles in the same year is called the 'Sunshine Double'."
+   },
+   {
+    "q": "Which country won the Davis Cup Finals 2025?",
+    "o": [
+     "Spain",
+     "Australia",
+     "Italy",
+     "Germany"
+    ],
+    "k": 2,
+    "why": "Italy won the Davis Cup Finals 2025, its 4th title."
+   }
+  ]
+ },
+ "u1104": {
+  "gist": "India won both the men's (6th title) and women's (3rd title) Hockey Junior Asia Cup 2026 in Moqi, China.",
+  "facts": [
+   "Hosted in Moqi, China, September 4 to 13, 2026.",
+   "Men's: India won (6th title); runner-up South Korea.",
+   "Women's: India won (3rd title); runner-up China."
+  ],
+  "trap": "India men = 6th title; India women = 3rd title.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the Hockey Junior Asia Cup 2026, won by both Indian teams, hosted?",
+    "o": [
+     "Muscat, Oman",
+     "Moqi, China",
+     "Kakamigahara, Japan",
+     "Ipoh, Malaysia"
+    ],
+    "k": 1,
+    "why": "The Hockey Junior Asia Cup 2026 was hosted in Moqi, China."
+   }
+  ]
+ },
+ "u1105": {
+  "gist": "Germany (men, 4th title) and Argentina (women, 3rd title) won the FIH Hockey World Cup 2026, co-hosted by Belgium and the Netherlands.",
+  "facts": [
+   "Hosted jointly by Belgium and the Netherlands, 15 to 30 August 2026.",
+   "Men's: Germany won (4th title); runner-up Spain.",
+   "Women's: Argentina won (3rd title); runner-up Netherlands."
+  ],
+  "trap": "Men's champion Germany (4th title); women's champion Argentina (3rd title).",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which team won the men's FIH Hockey World Cup 2026?",
+    "o": [
+     "Spain",
+     "Netherlands",
+     "Belgium",
+     "Germany"
+    ],
+    "k": 3,
+    "why": "Germany won the men's title (4th); Spain was runner-up."
+   }
+  ]
+ },
+ "u1106": {
+  "gist": "At the Youth Hockey 5s Asian Championship 2026 in Muscat, India won the U18 men's title, while China won U20 women's with India runner-up.",
+  "facts": [
+   "Hosted in Muscat, Oman, 20 to 25 July 2026.",
+   "U18 Men's: champion India; runner-up Pakistan.",
+   "U20 Women's: winner China; runner-up India."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which team won the U18 men's title at the Youth Hockey 5s Asian Championship 2026 in Muscat?",
+    "o": [
+     "Pakistan",
+     "China",
+     "India",
+     "Malaysia"
+    ],
+    "k": 2,
+    "why": "India were champions; Pakistan were runners-up."
+   }
+  ]
+ },
+ "u1107": {
+  "gist": "Belgium won the FIH Hockey Pro League (Men's) 2025-26, its 2nd title, with England as runner-up.",
+  "facts": [
+   "Ran from December 9, 2025 to June 28, 2026.",
+   "Nine national teams took part.",
+   "Winner: Belgium (2nd title); runner-up: England."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which team won the FIH Hockey Pro League (Men's) 2025-26?",
+    "o": [
+     "Netherlands",
+     "England",
+     "Belgium",
+     "Germany"
+    ],
+    "k": 2,
+    "why": "Belgium won its 2nd title; England was runner-up."
+   }
+  ]
+ },
+ "u1108": {
+  "gist": "Netherlands won the FIH Women's Hockey Pro League 2025-26, its 6th title, with Argentina as runner-up.",
+  "facts": [
+   "Held December 9, 2025 to June 28, 2026.",
+   "Winner: Netherlands (6th title); runner-up: Argentina."
+  ],
+  "trap": "Pro League 2025-26: men = Belgium; women = Netherlands.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which team won the FIH Hockey Pro League (Women's) 2025-26?",
+    "o": [
+     "Netherlands",
+     "Argentina",
+     "England",
+     "Belgium"
+    ],
+    "k": 0,
+    "why": "Netherlands won its 6th title; Argentina was runner-up."
+   }
+  ]
+ },
+ "u1109": {
+  "gist": "India won the Men's Hockey Under-18 Asia Cup 2026 in Kakamigahara, Japan, its 3rd title, with Japan as runner-up.",
+  "facts": [
+   "Held in Kakamigahara, Japan, May 29 to June 6, 2026.",
+   "Winner: India (3rd title); runner-up: Japan."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was the Men's Hockey Under-18 Asia Cup 2026, won by India, held?",
+    "o": [
+     "Moqi, China",
+     "Muscat, Oman",
+     "Kakamigahara, Japan",
+     "Ipoh, Malaysia"
+    ],
+    "k": 2,
+    "why": "The U18 Asia Cup was held in Kakamigahara, Japan."
+   }
+  ]
+ },
+ "u1110": {
+  "gist": "India Women won the FIH Hockey Women's Nations Cup 2026 in Auckland, New Zealand, their 2nd title, with New Zealand Women as runner-up.",
+  "facts": [
+   "Held in Auckland, New Zealand, June 15 to 21, 2026.",
+   "Winner: India Women (2nd title); runner-up: New Zealand Women.",
+   "Top scorers: Ashley Sessa (USA) and Deepika Sehrawat (India), 6 goals each."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Indian player was joint top scorer at the FIH Hockey Women's Nations Cup 2026?",
+    "o": [
+     "Deepika Sehrawat",
+     "Salima Tete",
+     "Savita Punia",
+     "Navneet Kaur"
+    ],
+    "k": 0,
+    "why": "Ashley Sessa (USA) and Deepika Sehrawat (India) scored 6 goals each."
+   }
+  ]
+ },
+ "u1111": {
+  "gist": "France won its 1st FIH Hockey Men's Nations Cup (2025-26) in Cape Town, with hosts South Africa as runner-up.",
+  "facts": [
+   "Held in Cape Town, South Africa, June 11 to 20, 2026.",
+   "Winner: France (1st title); runner-up: South Africa."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which country won the FIH Hockey Men's Nations Cup 2025-26?",
+    "o": [
+     "South Africa",
+     "Ireland",
+     "New Zealand",
+     "France"
+    ],
+    "k": 3,
+    "why": "France won its 1st title; South Africa was runner-up."
+   }
+  ]
+ },
+ "u1112": {
+  "gist": "Vedanta Kalinga Lancers won the Men's Hero Hockey India League 2025-26, their 2nd title, beating Ranchi Royals.",
+  "facts": [
+   "Played in Chennai, Ranchi and Bhubaneswar, January 3 to 26, 2026.",
+   "Winner: Vedanta Kalinga Lancers (2nd title); runner-up: Ranchi Royals."
+  ],
+  "trap": "Men's HIL = Vedanta Kalinga Lancers; Women's HIL = SG Pipers.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which team won the Men's Hero Hockey India League 2025-26?",
+    "o": [
+     "Ranchi Royals",
+     "SG Pipers",
+     "Vedanta Kalinga Lancers",
+     "Shrachi Bengal Tigers"
+    ],
+    "k": 2,
+    "why": "Vedanta Kalinga Lancers won their 2nd title; Ranchi Royals were runners-up."
+   }
+  ]
+ },
+ "u1113": {
+  "gist": "SG Pipers won the Women's Hero Hockey India League 2025-26 in Ranchi, with Shrachi Bengal Tigers as runner-up.",
+  "facts": [
+   "Hosted in Ranchi, Jharkhand, December 28, 2025 to January 10, 2026.",
+   "Winner: SG Pipers; runner-up: Shrachi Bengal Tigers."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which team won the Women's Hero Hockey India League 2025-26?",
+    "o": [
+     "SG Pipers",
+     "Shrachi Bengal Tigers",
+     "Ranchi Royals",
+     "Vedanta Kalinga Lancers"
+    ],
+    "k": 0,
+    "why": "SG Pipers won; Shrachi Bengal Tigers were runners-up."
+   }
+  ]
+ },
+ "u1114": {
+  "gist": "Germany won the 14th FIH Hockey Men's Junior World Cup 2025 in Chennai and Madurai (8th title); India finished third.",
+  "facts": [
+   "14th edition; Chennai and Madurai (Tamil Nadu), November 28 to December 10, 2025.",
+   "Winner: Germany (8th title); runner-up: Spain.",
+   "India finished third."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which team won the FIH Hockey Men's Junior World Cup 2025, hosted in Tamil Nadu?",
+    "o": [
+     "Germany",
+     "India",
+     "Spain",
+     "Argentina"
+    ],
+    "k": 0,
+    "why": "Germany won its 8th title; Spain was runner-up and India third."
+   }
+  ]
+ },
+ "u1115": {
+  "gist": "Belgium won its first Sultan Azlan Shah Cup (31st edition) in Ipoh, Malaysia, in November 2025, with India as runner-up.",
+  "facts": [
+   "31st edition; Ipoh, Malaysia, November 23 to 30, 2025.",
+   "Winner: Belgium (first title); runner-up: India."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which country won the 31st Sultan Azlan Shah Cup hockey tournament (2025)?",
+    "o": [
+     "Belgium",
+     "India",
+     "Malaysia",
+     "Australia"
+    ],
+    "k": 0,
+    "why": "Belgium won its first title; India was runner-up."
+   }
+  ]
+ },
+ "u1116": {
+  "gist": "Spain won the FIFA U20 Women's World Cup 2026 in Poland (2nd title), with North Korea as runner-up.",
+  "facts": [
+   "Hosted by Poland, September 5 to 27, 2026.",
+   "Champion: Spain (2nd title); runner-up: North Korea (P.R.K.)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which country hosted the FIFA U20 Women's World Cup 2026?",
+    "o": [
+     "Spain",
+     "Poland",
+     "Colombia",
+     "Japan"
+    ],
+    "k": 1,
+    "why": "The tournament was hosted by Poland from September 5 to 27, 2026."
+   }
+  ]
+ },
+ "u1117": {
+  "gist": "East Bengal FC won the Durand Cup 2026, with Mohun Bagan Super Giant as runner-up.",
+  "facts": [
+   "Winner: East Bengal FC.",
+   "Runner-up: Mohun Bagan Super Giant."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which club won the Durand Cup 2026?",
+    "o": [
+     "Mohun Bagan Super Giant",
+     "Bengaluru FC",
+     "Diamond Harbour F.C.",
+     "East Bengal FC"
+    ],
+    "k": 3,
+    "why": "East Bengal FC won; Mohun Bagan Super Giant was runner-up."
+   }
+  ]
+ },
+ "u1118": {
+  "gist": "India won the SAFF Women's Championship 2026 in Margao, Goa (6th title), with Bangladesh as runner-up.",
+  "facts": [
+   "Held in Margao, Goa, May 25 to June 6, 2026.",
+   "Champion: India (6th title); runner-up: Bangladesh.",
+   "Most Valuable Player: Sanfida Nongrum; top scorer: Aveka Singh, 4 goals (both India).",
+   "Best goalkeeper: Panthoi Chanu Elangbam (India); Fair Play Award: Nepal."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was the SAFF Women's Championship 2026, won by India, held?",
+    "o": [
+     "Kathmandu",
+     "Margao, Goa",
+     "Male",
+     "Thimphu"
+    ],
+    "k": 1,
+    "why": "It was held in Margao, Goa, from May 25 to June 6, 2026."
+   }
+  ]
+ },
+ "u1119": {
+  "gist": "East Bengal FC won the 12th season of the Indian Super League (2025-26), its 1st ISL title.",
+  "facts": [
+   "12th ISL season: February 14 to May 21, 2026.",
+   "Champion: East Bengal FC (1st title)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which club won the Indian Super League (ISL) 2025-26, its 12th season?",
+    "o": [
+     "Mohun Bagan Super Giant",
+     "Bengaluru FC",
+     "East Bengal FC",
+     "Mumbai City FC"
+    ],
+    "k": 2,
+    "why": "East Bengal FC won its 1st ISL title."
+   }
+  ]
+ },
+ "u1120": {
+  "gist": "F.C. Barcelona Femeni won the UEFA Women's Champions League 2025-26 (4th title), with O.L. Lyonnes as runner-up.",
+  "facts": [
+   "Held October 7, 2025 to May 23, 2026.",
+   "Champion: F.C. Barcelona Femeni (4th title); runner-up: O.L. Lyonnes."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which club won the UEFA Women's Champions League 2025-26?",
+    "o": [
+     "O.L. Lyonnes",
+     "Chelsea",
+     "Arsenal",
+     "F.C. Barcelona Femeni"
+    ],
+    "k": 3,
+    "why": "F.C. Barcelona Femeni won its 4th title; O.L. Lyonnes was runner-up."
+   }
+  ]
+ },
+ "u1121": {
+  "gist": "Aston Villa won the UEFA Europa League 2025-26 (1st title), with S.C. Freiburg as runner-up.",
+  "facts": [
+   "Held September 24, 2025 to May 20, 2026.",
+   "Winner: Aston Villa (1st title); runner-up: S.C. Freiburg."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which club won the UEFA Europa League 2025-26?",
+    "o": [
+     "S.C. Freiburg",
+     "Aston Villa",
+     "Arsenal",
+     "Paris Saint-Germain"
+    ],
+    "k": 1,
+    "why": "Aston Villa won its 1st title; S.C. Freiburg was runner-up."
+   }
+  ]
+ },
+ "u1122": {
+  "gist": "Paris Saint-Germain won the UEFA Champions League 2025-26 (2nd title), with Arsenal as runner-up.",
+  "facts": [
+   "Held September 16, 2025 to May 30, 2026.",
+   "Champion: Paris Saint-Germain (2nd title); runner-up: Arsenal."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which club won the UEFA Champions League 2025-26?",
+    "o": [
+     "Arsenal",
+     "Aston Villa",
+     "Real Madrid",
+     "Paris Saint-Germain"
+    ],
+    "k": 3,
+    "why": "Paris Saint-Germain won its 2nd title; Arsenal was runner-up."
+   }
+  ]
+ },
+ "u1123": {
+  "gist": "East Bengal FC won the Indian Women's League 2025-26, held in Kolkata and Kalyani, for its 2nd title.",
+  "facts": [
+   "Held in Kolkata and Kalyani, December 20, 2025 to May 18, 2026.",
+   "Champion: East Bengal FC (2nd title)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which club won the Indian Women's League 2025-26?",
+    "o": [
+     "Gokulam Kerala",
+     "Kickstart FC",
+     "Odisha FC",
+     "East Bengal FC"
+    ],
+    "k": 3,
+    "why": "East Bengal FC won the Indian Women's League 2025-26, its 2nd title."
+   }
+  ]
+ },
+ "u1124": {
+  "gist": "Diamond Harbour F.C. won the Indian Football League (IFL) 2025-26, held February 27 to May 23, 2026.",
+  "facts": [
+   "Held February 27 to May 23, 2026.",
+   "Winner: Diamond Harbour F.C."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which club won the Indian Football League (IFL) 2025-26?",
+    "o": [
+     "Diamond Harbour F.C.",
+     "East Bengal FC",
+     "Mohun Bagan Super Giant",
+     "Bengaluru FC"
+    ],
+    "k": 0,
+    "why": "Diamond Harbour F.C. won the IFL 2025-26."
+   }
+  ]
+ },
+ "u1125": {
+  "gist": "Bangladesh won the SAFF U-20 Championship 2026 in Male, Maldives (2nd title), with India as runner-up.",
+  "facts": [
+   "Held in Male, Maldives, March 23 to April 3, 2026.",
+   "Winner: Bangladesh (2nd title); runner-up: India."
+  ],
+  "trap": "SAFF Women's 2026: India won; SAFF U-20 2026: Bangladesh won, India runner-up.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which country won the SAFF U-20 Championship 2026?",
+    "o": [
+     "India",
+     "Nepal",
+     "Bangladesh",
+     "Maldives"
+    ],
+    "k": 2,
+    "why": "Bangladesh won its 2nd title; India was runner-up."
+   }
+  ]
+ },
+ "u1126": {
+  "gist": "Services won the Santosh Trophy 2025-26 (December 15, 2025 to February 8, 2026), their 8th title, with Kerala as runner-up.",
+  "facts": [
+   "Held December 15, 2025 to February 8, 2026.",
+   "Winner: Services (8th title); runner-up: Kerala."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which team won the Santosh Trophy 2025-26?",
+    "o": [
+     "Kerala",
+     "West Bengal",
+     "Goa",
+     "Services"
+    ],
+    "k": 3,
+    "why": "Services won their 8th title; Kerala was runner-up."
+   }
+  ]
+ }
+}

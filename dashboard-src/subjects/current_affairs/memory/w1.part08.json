@@ -1,0 +1,1091 @@
+{
+ "u0661": {
+  "gist": "CM Samrat Choudhary opened CtrlS's Rs 400-crore AI-ready data centre in Patna; CtrlS also plans a 150 MW AI factory in Bodh Gaya.",
+  "facts": [
+   "Inaugurated by Chief Minister Samrat Choudhary on October 13,2026 (date as printed).",
+   "Rs 400-crore data centre of CtrlS Data centers Ltd, Patliputra industrial area, Patna.",
+   "Initial IT load capacity: 12 MW.",
+   "CtrlS signed an LoI to invest ₹10,000 crore in a 150 MW hyperscale AI factory, Bodh Gaya."
+  ],
+  "hook": "",
+  "trap": "12 MW = Patna data centre; 150 MW = proposed Bodh Gaya AI factory.",
+  "hindi": [
+   "Data centre (डेटा केंद्र)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Where is the 150 MW hyperscale AI factory proposed in Bihar by CtrlS Data Centers, which also opened a Patna data centre?",
+    "o": [
+     "Bodh Gaya",
+     "Patna",
+     "Muzaffarpur",
+     "Bhagalpur"
+    ],
+    "k": 0,
+    "why": "CtrlS signed an LoI to invest ₹10,000 crore in a 150 MW AI factory in Bodh Gaya."
+   }
+  ]
+ },
+ "u0662": {
+  "gist": "Bihar's Chief Minister launched the Sankalp Dashboard and Samanvay Portal (October 13,2026) to improve transparency and accountability of state departments.",
+  "facts": [
+   "Launched by Bihar's Chief Minister on October 13,2026 (date as printed).",
+   "Sankalp Dashboard puts the work of all 48 state departments on one digital platform.",
+   "Aim: better transparency and accountability."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Transparency (पारदर्शिता)",
+   "Accountability (जवाबदेही)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Bihar's Sankalp Dashboard, launched by the Chief Minister in October, brings the work of how many state departments onto one platform?",
+    "o": [
+     "38",
+     "75",
+     "58",
+     "48"
+    ],
+    "k": 3,
+    "why": "It brings the work of all 48 state departments onto one digital platform."
+   }
+  ]
+ },
+ "u0663": {
+  "gist": "Bihar's cabinet approved the state's first tech park at Gardanibagh, Patna, on 12 October 2026 to anchor an IT and ITES ecosystem.",
+  "facts": [
+   "Approved by the Bihar state cabinet on 12 October 2026.",
+   "Bihar's first tech park, at Gardanibagh, Patna.",
+   "Aim: anchor an IT and IT-enabled services (ITES) ecosystem in the capital.",
+   "Builder: NBCC (India) Ltd, a central public sector enterprise; state may sign an MoU with it."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Public sector enterprise (सार्वजनिक क्षेत्र उद्यम)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which central public sector enterprise will build Bihar's first tech park at Gardanibagh, Patna?",
+    "o": [
+     "NBCC (India) Ltd",
+     "RITES Ltd",
+     "Engineers India Ltd",
+     "IRCON International"
+    ],
+    "k": 0,
+    "why": "NBCC (India) Ltd, a central PSE, will build the tech park."
+   }
+  ]
+ },
+ "u0664": {
+  "gist": "Bihar unveiled its MSME Policy 2026 on 8 October 2026, opening MSME centres in all districts, to make Bihar Eastern India's manufacturing hub.",
+  "facts": [
+   "Unveiled 8 October 2026, with MSME centres opened in all districts.",
+   "Goal: make Bihar a manufacturing hub of Eastern India.",
+   "Draft targets: formalise 1 crore MSMEs; over 1 crore jobs; 500-plus MSMEs in global value chains.",
+   "Train 1 lakh MSMEs a year; four Technology/Extension Centres: Kosi, Bhagalpur, Munger, Purnea.",
+   "Capital subsidy 25% (Category A) or 30% (Category B); extra 10% for women, SC, ST, BC, Divyang, transgender.",
+   "Stamp duty: 100% reimbursement on land bought by new manufacturing enterprises."
+  ],
+  "hook": "Four centres = K-B-M-P: Kosi, Bhagalpur, Munger, Purnea.",
+  "trap": "Detailed targets and incentives come from the July 2026 draft; the policy was unveiled in October 2026.",
+  "hindi": [
+   "Micro, small and medium enterprises (सूक्ष्म, लघु एवं मध्यम उद्यम)",
+   "Capital subsidy (पूंजीगत सब्सिडी)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Bihar's MSME Policy 2026 (draft) proposes what capital subsidy in Category B districts?",
+    "o": [
+     "25%",
+     "30%",
+     "20%",
+     "10%"
+    ],
+    "k": 1,
+    "why": "Capital subsidy is 25% in Category A and 30% in Category B districts."
+   }
+  ]
+ },
+ "u0665": {
+  "gist": "Rising Bihar – Investor Summit 2026 was held on 1st October 2026 at Hotel Taj City Centre, Patna, to showcase Bihar's industrial vision.",
+  "facts": [
+   "Held on 1st October 2026 at Hotel Taj City Centre, Patna.",
+   "Theme: 'Bihar – The Emerging Investment Destination of India'.",
+   "A platform to showcase the Bihar government's vision for industrial growth."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Investment (निवेश)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "What was the theme of the Rising Bihar – Investor Summit 2026 held in Patna?",
+    "o": [
+     "Viksit Bihar 2047",
+     "Brand Bihar",
+     "Bihar – The Emerging Investment Destination of India",
+     "Parampara Se Pragati Tak"
+    ],
+    "k": 2,
+    "why": "The summit's theme was 'Bihar – The Emerging Investment Destination of India'."
+   }
+  ]
+ },
+ "u0666": {
+  "gist": "1991-batch IPS officer Vinay Kumar took voluntary retirement as Bihar's DGP and was appointed Bihar's Chief Information Commissioner.",
+  "facts": [
+   "Vinay Kumar is a 1991-batch IPS officer.",
+   "Took Voluntary Retirement Scheme (VRS) from the post of Bihar Director General of Police (DGP).",
+   "Appointed Chief Information Commissioner (CIC) of Bihar."
+  ],
+  "hook": "",
+  "trap": "His old post: DGP (police head); his new post: Chief Information Commissioner.",
+  "hindi": [
+   "Information Commissioner (सूचना आयुक्त)",
+   "Voluntary retirement (स्वैच्छिक सेवानिवृत्ति)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which former Bihar DGP, a 1991-batch IPS officer, was appointed Bihar's Chief Information Commissioner?",
+    "o": [
+     "S.D Sanjay",
+     "Vinay Kumar",
+     "P.K Shahi",
+     "Murari Kumar"
+    ],
+    "k": 1,
+    "why": "Vinay Kumar took VRS as Bihar DGP and became Chief Information Commissioner."
+   }
+  ]
+ },
+ "u0667": {
+  "gist": "Bihar's cabinet approved the draft Bihar Green Hydrogen Policy, 2026 on September 30, 2026, targeting 1,00,000 tonnes of green hydrogen a year by 2031.",
+  "facts": [
+   "Draft policy approved by the Bihar cabinet on September 30, 2026.",
+   "Aims to cut carbon emissions and reduce natural gas imports.",
+   "Target: 0.10 million metric tonnes (1,00,000 tonnes) of green hydrogen a year by 2031.",
+   "Vision: 1 GW electrolyser capacity and about 2.5 GW renewable energy capacity."
+  ],
+  "hook": "",
+  "trap": "1 GW = electrolyser capacity; 2.5 GW = renewable energy capacity.",
+  "hindi": [
+   "Green hydrogen (हरित हाइड्रोजन)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Under the draft Bihar Green Hydrogen Policy, 2026, how much green hydrogen does Bihar aim to produce per year by 2031?",
+    "o": [
+     "2.5 million tonnes",
+     "10,000 tonnes",
+     "1 million tonnes",
+     "1,00,000 tonnes"
+    ],
+    "k": 3,
+    "why": "The target is 0.10 million metric tonnes, or 1,00,000 tonnes, per year by 2031."
+   }
+  ]
+ },
+ "u0668": {
+  "gist": "On PM Narendra Modi's birthday, 17 September 2026, a silicon statue of him was installed at the new Deendayal Bhawan in Motihari, Bihar.",
+  "facts": [
+   "Installed on 17 September 2026, PM Narendra Modi's birthday.",
+   "A silicon statue of PM Modi.",
+   "Location: newly built Deendayal Bhawan, Motihari, Bihar."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Statue (प्रतिमा)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "In which Bihar town was a silicon statue of PM Narendra Modi installed on 17 September 2026?",
+    "o": [
+     "Motihari",
+     "Darbhanga",
+     "Gaya",
+     "Hajipur"
+    ],
+    "k": 0,
+    "why": "It was installed at the new Deendayal Bhawan in Motihari, Bihar."
+   }
+  ]
+ },
+ "u0669": {
+  "gist": "Surbhi Sundaram of Kishanganj won the 'Miss Beautiful Smile' title at the Jewel of South 2026 competition in Bengaluru.",
+  "facts": [
+   "Surbhi Sundaram is a resident of Kishanganj, Bihar.",
+   "Won the 'Miss Beautiful Smile' title.",
+   "Event: Jewel of South 2026 competition, Bengaluru."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which title did Surbhi Sundaram of Kishanganj win at the Jewel of South 2026 competition in Bengaluru?",
+    "o": [
+     "Miss Photogenic",
+     "Miss Talent",
+     "Miss Congeniality",
+     "Miss Beautiful Smile"
+    ],
+    "k": 3,
+    "why": "She won the 'Miss Beautiful Smile' title at Jewel of South 2026."
+   }
+  ]
+ },
+ "u0670": {
+  "gist": "Imtiaz Ahmed, a scientist from Revada village in Darbhanga, served as Project Director of ISRO's EOS-05 mission.",
+  "facts": [
+   "Imtiaz Ahmed is a scientist from Revada village, Jale block, Darbhanga.",
+   "He brought recognition to Darbhanga and the Mithila region.",
+   "Served as Project Director of ISRO's EOS-05 mission."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Imtiaz Ahmed, Project Director of ISRO's EOS-05 mission, comes from which district of Bihar?",
+    "o": [
+     "Darbhanga",
+     "Madhubani",
+     "Sitamarhi",
+     "Samastipur"
+    ],
+    "k": 0,
+    "why": "He is from Revada village in Jale block, Darbhanga."
+   }
+  ]
+ },
+ "u0671": {
+  "gist": "Bihar signed an MoU with Google India to train school teachers across the state in AI skills and practical tools.",
+  "facts": [
+   "Government of Bihar signed a Memorandum of Understanding (MoU) with Google India.",
+   "Aim: train school teachers across the state.",
+   "Training covers Artificial Intelligence (AI) skills and practical tools."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Memorandum of Understanding (समझौता ज्ञापन)",
+   "Artificial intelligence (कृत्रिम बुद्धिमत्ता)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "With which company did the Bihar government sign an MoU to train school teachers in Artificial Intelligence?",
+    "o": [
+     "Microsoft India",
+     "Infosys",
+     "Intel India",
+     "Google India"
+    ],
+    "k": 3,
+    "why": "Bihar signed the MoU with Google India for AI teacher training."
+   }
+  ]
+ },
+ "u0672": {
+  "gist": "Bihar launched 'Bihar Vidya Saathi', a 24×7 one-on-one learning platform for students of about 700 model schools.",
+  "facts": [
+   "A 24×7 one-on-one interactive learning platform.",
+   "For eligible students of about 700 designated model schools.",
+   "Covers classes 9-10 and the science stream of classes 11-12.",
+   "Combines teacher support, digital study resources and AI-powered learning tools."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "'Bihar Vidya Saathi', a 24×7 learning platform, serves students of about how many designated model schools?",
+    "o": [
+     "700",
+     "500",
+     "1,000",
+     "300"
+    ],
+    "k": 0,
+    "why": "It covers eligible students in about 700 designated model schools."
+   }
+  ]
+ },
+ "u0673": {
+  "gist": "Bihar's cabinet amended its social media rules to pay registered creators Rs. 10,000 per lakh views for scheme-promoting videos, up to Rs. 1 lakh.",
+  "facts": [
+   "Cabinet chaired by CM Samrat Choudhary amended the Bihar Social Media and Other Online Media Rules, 2024.",
+   "Incentive: Rs. 10,000 per one lakh views on qualifying videos.",
+   "Cap: Rs. 1 lakh per video; needs at least 10 lakh views for the maximum.",
+   "Only registered and empanelled influencers, pages and channels are eligible."
+  ],
+  "hook": "10 lakh views = ten blocks of one lakh × Rs. 10,000 = the Rs. 1 lakh cap.",
+  "trap": "",
+  "hindi": [
+   "Incentive (प्रोत्साहन)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Under Bihar's 2026 amendment to its social media rules, what is the maximum incentive per qualifying video?",
+    "o": [
+     "Rs. 10,000",
+     "Rs. 50,000",
+     "Rs. 1 lakh",
+     "Rs. 10 lakh"
+    ],
+    "k": 2,
+    "why": "Creators get Rs. 10,000 per lakh views, capped at Rs. 1 lakh per video."
+   }
+  ]
+ },
+ "u0674": {
+  "gist": "Justice V. Kameswar Rao was sworn in as Chief Justice of the Patna High Court on September 13, 2026.",
+  "facts": [
+   "Justice V. Kameswar Rao was sworn in as Chief Justice.",
+   "Court: Patna High Court.",
+   "Date of oath: September 13, 2026."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "High Court (उच्च न्यायालय)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Who was sworn in as Chief Justice of the Patna High Court on September 13, 2026?",
+    "o": [
+     "Justice Surya Kant",
+     "Justice V. Kameswar Rao",
+     "Justice Dipak Misra",
+     "S.D Sanjay"
+    ],
+    "k": 1,
+    "why": "Justice V. Kameswar Rao took oath as Patna High Court Chief Justice on September 13, 2026."
+   }
+  ]
+ },
+ "u0675": {
+  "gist": "The Ministry of Skill Development and Entrepreneurship approved a Skill India International Centre in Patna for Bihar youth seeking jobs abroad.",
+  "facts": [
+   "Approved by the Ministry of Skill Development and Entrepreneurship.",
+   "A Skill India International Centre in Patna.",
+   "Aim: support Bihar's youth seeking overseas employment."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Skill development (कौशल विकास)",
+   "Overseas employment (विदेशी रोजगार)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Union ministry approved a Skill India International Centre in Patna to help Bihar's youth get overseas jobs?",
+    "o": [
+     "Ministry of External Affairs",
+     "Ministry of Labour and Employment",
+     "Ministry of Skill Development and Entrepreneurship",
+     "Ministry of Education"
+    ],
+    "k": 2,
+    "why": "The Ministry of Skill Development and Entrepreneurship approved the centre."
+   }
+  ]
+ },
+ "u0676": {
+  "gist": "Bihar approved a yoga, spiritual and tourism (Adiyogi) centre at Ghazipur village, Tarapur, Munger, leasing 15.01 acres to Isha Foundation for 99 years.",
+  "facts": [
+   "Yoga, spiritual and tourism centre at Ghazipur village, Tarapur block, Munger district.",
+   "About 15.01 acres of government land leased to the Isha Foundation.",
+   "Lease: 99 years at a token annual rent of Rs. 1."
+  ],
+  "hook": "",
+  "trap": "15.01 = acres of land; 99 = years of lease.",
+  "hindi": [
+   "Lease (पट्टा)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "For how many years will Bihar lease land to the Isha Foundation for the Adiyogi centre at Tarapur, Munger?",
+    "o": [
+     "30",
+     "50",
+     "99",
+     "15"
+    ],
+    "k": 2,
+    "why": "About 15.01 acres will be leased for 99 years at Rs. 1 a year."
+   }
+  ]
+ },
+ "u0677": {
+  "gist": "Patna Smart City will use 19 AI-powered e-scooters called 'Nagar Netra' to monitor civic conditions in all 75 wards of Patna Municipal Corporation.",
+  "facts": [
+   "Part of Patna Smart City's Civic Services Surveillance and Monitoring Project.",
+   "19 AI-powered e-scooters named 'Nagar Netra'.",
+   "Cover all 75 wards; roughly one e-scooter for four wards."
+  ],
+  "hook": "Nagar Netra = 'eye of the city' (नगर नेत्र).",
+  "trap": "",
+  "hindi": [
+   "Surveillance (निगरानी)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "What are the 19 AI-powered e-scooters used by Patna Smart City for civic monitoring called?",
+    "o": [
+     "Nagar Mitra",
+     "Nagar Netra",
+     "Smart Saathi",
+     "Patna Prahari"
+    ],
+    "k": 1,
+    "why": "The e-scooters are called 'Nagar Netra' and cover all 75 wards."
+   }
+  ]
+ },
+ "u0678": {
+  "gist": "Bihar's first Fish Brood Bank has been set up at Raghopur Bakhri, Dumra, Sitamarhi, under PMMSY to produce quality, disease-free fish seed.",
+  "facts": [
+   "Location: Raghopur Bakhri, Dumra, Sitamarhi.",
+   "Set up under the Pradhan Mantri Matsya Sampada Yojana (PMMSY).",
+   "Aim: genetically improved brooders and disease-free, quality fish seed."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Fish seed (मत्स्य बीज)",
+   "Fisheries (मत्स्य पालन)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In which district has Bihar's first Fish Brood Bank been set up under PMMSY?",
+    "o": [
+     "Sitamarhi",
+     "Darbhanga",
+     "Purnea",
+     "Begusarai"
+    ],
+    "k": 0,
+    "why": "It is at Raghopur Bakhri in Dumra, Sitamarhi."
+   }
+  ]
+ },
+ "u0679": {
+  "gist": "Jan Suraaj Party founder Prashant Kishor won the Bankipur Assembly by-election, beating BJP's Neeraj Kumar by 19,324 votes.",
+  "facts": [
+   "Prashant Kishor, founder of the Jan Suraaj Party, won the Bankipur Assembly by-election.",
+   "He secured 64,151 votes.",
+   "Defeated BJP candidate Neeraj Kumar by 19,324 votes."
+  ],
+  "hook": "",
+  "trap": "64,151 = Kishor's total votes; 19,324 = winning margin.",
+  "hindi": [
+   "By-election (उपचुनाव)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Prashant Kishor of the Jan Suraaj Party won the by-election to which Bihar Assembly seat?",
+    "o": [
+     "Kumhrar",
+     "Digha",
+     "Patna Sahib",
+     "Bankipur"
+    ],
+    "k": 3,
+    "why": "He won the Bankipur by-election with 64,151 votes."
+   }
+  ]
+ },
+ "u0680": {
+  "gist": "AIIMS Patna launched AVBODHAN 2026, a three-day national hands-on training on endoscopic skull base surgery, the first of its kind in Eastern India.",
+  "facts": [
+   "Launched by AIIMS Patna.",
+   "Three-day national hands-on training programme on endoscopic skull base surgery.",
+   "Called the first comprehensive programme of its kind in Eastern India."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "AVBODHAN 2026, launched by AIIMS Patna, is a training programme in which surgical field?",
+    "o": [
+     "Robotic cardiac surgery",
+     "Endoscopic skull base surgery",
+     "Pancreatic cancer surgery",
+     "Knee replacement surgery"
+    ],
+    "k": 1,
+    "why": "It is a national hands-on training on endoscopic skull base surgery."
+   }
+  ]
+ },
+ "u0681": {
+  "gist": "'Kakori', a historical film by Kamlesh Mishra of Gopalganj, won a 72nd National Film Award for Best Historical Reconstruction/Compilation (non-feature).",
+  "facts": [
+   "Film: Kakori; director Kamlesh Mishra from Gopalganj, Bihar.",
+   "Category: Best Historical Reconstruction/Compilation Film, Non-Feature film section.",
+   "Award ceremony held on September 22, 2026."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In which category did the film 'Kakori', directed by Kamlesh Mishra, win at the 72nd National Film Awards?",
+    "o": [
+     "Best Historical Reconstruction/Compilation (Non-Feature)",
+     "Best Feature Film",
+     "Best Debut Film",
+     "Best Film on Social Issues"
+    ],
+    "k": 0,
+    "why": "It won Best Historical Reconstruction/Compilation in the Non-Feature film category."
+   }
+  ]
+ },
+ "u0682": {
+  "gist": "A lithium-ion battery manufacturing and assembly plant worth Rs. 87.55 crore will come up in Hathua Industrial Area (Phase III), Gopalganj.",
+  "facts": [
+   "Location: Hathua Industrial Area (Phase III), Gopalganj.",
+   "Investment: Rs. 87.55 crore.",
+   "To be set up by Shri Shirdi Sainath Power Infratech Private Limited."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Where will the Rs. 87.55 crore lithium-ion battery manufacturing plant in Bihar be set up?",
+    "o": [
+     "Bihta, Patna",
+     "Hathua, Gopalganj",
+     "Kajra, Lakhisarai",
+     "Hajipur, Vaishali"
+    ],
+    "k": 1,
+    "why": "It will be in Hathua Industrial Area (Phase III), Gopalganj."
+   }
+  ]
+ },
+ "u0683": {
+  "gist": "Bihar announced India's first Indoor Botanical Garden, to be developed on 5 acres near JP Ganga Path in Patna.",
+  "facts": [
+   "India's first Indoor Botanical Garden, in Patna.",
+   "On 5 acres near JP Ganga Path (Jaypee Ganga Path).",
+   "Aim: environmental conservation, biodiversity and tourism."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Botanical garden (वनस्पति उद्यान)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first Indoor Botanical Garden is to be developed in which city?",
+    "o": [
+     "Bengaluru",
+     "Lucknow",
+     "Kolkata",
+     "Patna"
+    ],
+    "k": 3,
+    "why": "Bihar will develop it on 5 acres near JP Ganga Path in Patna."
+   }
+  ]
+ },
+ "u0684": {
+  "gist": "Three Bihar products—Nalanda's Bawan Buti Sari and Fabric, Gaya's Pattharkatti Stone Craft and Bhojpur's Pidhiya Painting—received the GI tag.",
+  "facts": [
+   "Nalanda: Bawan Buti Sari and Fabric.",
+   "Gaya: Pattharkatti Stone Craft.",
+   "Bhojpur: Pidhiya Painting."
+  ],
+  "hook": "Pairs: Nalanda–Bawan Buti (cloth), Gaya–Pattharkatti (patthar = stone), Bhojpur–Pidhiya (painting).",
+  "trap": "Pattharkatti is Gaya's stone craft, not a painting; Pidhiya is Bhojpur's painting.",
+  "hindi": [
+   "Geographical indication (भौगोलिक संकेत)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which product from Bhojpur district of Bihar received the GI tag?",
+    "o": [
+     "Bawan Buti Sari",
+     "Pattharkatti Stone Craft",
+     "Pidhiya Painting",
+     "Madhubani Painting"
+    ],
+    "k": 2,
+    "why": "Bhojpur's Pidhiya Painting got the GI tag; the others are from Nalanda and Gaya."
+   }
+  ]
+ },
+ "u0685": {
+  "gist": "International Ayush Conclave 4.0 (Nepal Edition) was held in Kathmandu; Siwan homeopath Dr. Jay Prakash Yadav received the International Ayush Award 2026.",
+  "facts": [
+   "Three-day international conclave in Kathmandu, Nepal.",
+   "Organised by CIVIC (Council for Integrative Vaidhya Innovation & Collaboration), India, and NCC Nepal.",
+   "Dr. Jay Prakash Yadav, homeopathic physician from Siwan, got the International Ayush Award 2026."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Where was the International Ayush Conclave 4.0 (Nepal Edition) held?",
+    "o": [
+     "Kathmandu",
+     "Pokhara",
+     "Lumbini",
+     "Biratnagar"
+    ],
+    "k": 0,
+    "why": "The three-day conclave was held in Kathmandu, Nepal."
+   }
+  ]
+ },
+ "u0686": {
+  "gist": "CM Samrat Choudhary launched the Bihar Heli-Tourism and Air Tourism Service Scheme 2026 on July 13, 2026, linking Patna with Rajgir, Valmikinagar and Kaimur.",
+  "facts": [
+   "Launched July 13, 2026 by CM Samrat Choudhary.",
+   "Subsidised helicopter services: Patna to Rajgir, Valmikinagar and Kaimur.",
+   "Regular services from July 18, every Saturday and Sunday.",
+   "State subsidy of up to Rs 15,422 per ticket.",
+   "10-minute helicopter tour of Patna for Rs 2,100 per person.",
+   "A 20-seater aircraft flies to Valmikinagar Tiger Reserve."
+  ],
+  "hook": "",
+  "trap": "Rs 15,422 = maximum subsidy per ticket; Rs 2,100 = Patna joyride fare.",
+  "hindi": [
+   "Tourism (पर्यटन)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Under Bihar's Heli-Tourism and Air Tourism Service Scheme 2026, what does the 10-minute helicopter tour of Patna cost per person?",
+    "o": [
+     "Rs 15,422",
+     "Rs 1,500",
+     "Rs 2,100",
+     "Rs 5,000"
+    ],
+    "k": 2,
+    "why": "The 10-minute Patna helicopter tour costs Rs 2,100 per person."
+   }
+  ]
+ },
+ "u0687": {
+  "gist": "15-year-old Akshara Gupta of Raxaul scored an unbeaten 306 off 126 balls in the BCA Women's Under-19 One-Day Tournament at Bhagalpur.",
+  "facts": [
+   "From Raxaul, East Champaran; captain of Bihar Under-19 Women's Cricket Team.",
+   "Unbeaten 306 off 126 balls, BCA Women's Under-19 One-Day Tournament, Bhagalpur.",
+   "Youngest in Bihar to score an unbeaten triple century in a competitive match.",
+   "First Bihar female cricketer in four consecutive BCCI women's tournaments within two years."
+  ],
+  "hook": "",
+  "trap": "306 = runs; 126 = balls faced.",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "How many runs did Akshara Gupta score, unbeaten, in the BCA Women's Under-19 One-Day Tournament at Bhagalpur?",
+    "o": [
+     "126",
+     "306",
+     "300",
+     "256"
+    ],
+    "k": 1,
+    "why": "She scored an unbeaten 306 off just 126 balls."
+   }
+  ]
+ },
+ "u0688": {
+  "gist": "Bihar's Forest Department will develop the state's first eco-resort in the Rajgir forests of Nalanda district, modelled on Amazon rainforest eco-lodges.",
+  "facts": [
+   "Announced by the Bihar Forest Department.",
+   "Bihar's first eco-resort, in the forests of Rajgir, Nalanda district.",
+   "Designed on the lines of Amazon rainforest eco-lodges, for sustainable tourism."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Sustainable tourism (सतत पर्यटन)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Where will Bihar's first eco-resort be developed by the state Forest Department?",
+    "o": [
+     "Valmikinagar, West Champaran",
+     "Kaimur hills",
+     "Bodh Gaya, Gaya",
+     "Rajgir, Nalanda"
+    ],
+    "k": 3,
+    "why": "The eco-resort will be in the forests of Rajgir, Nalanda district."
+   }
+  ]
+ },
+ "u0689": {
+  "gist": "Maniappa Panchayat in Matihani block, Begusarai, won the National Panchayat Award 2026 for top Panchayat Advancement Index rankings.",
+  "facts": [
+   "Maniappa Panchayat, Matihani block, Begusarai.",
+   "Selected for the National Panchayat Award 2026.",
+   "Top rankings in the Panchayat Advancement Index (PAI) across nine governance themes.",
+   "Mukhiya Murari Kumar received the award at Bharat Mandapam, New Delhi."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Village head (मुखिया)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which panchayat of Begusarai district, Bihar, was selected for the National Panchayat Award 2026?",
+    "o": [
+     "Raghopur Panchayat",
+     "Ghazipur Panchayat",
+     "Maniappa Panchayat",
+     "Revada Panchayat"
+    ],
+    "k": 2,
+    "why": "Maniappa Panchayat in Matihani block, Begusarai, was selected."
+   }
+  ]
+ },
+ "u0690": {
+  "gist": "Bihar's cabinet approved the Young Professional Selection Policy–2026 to recruit young technical experts for the Science, Technology and Technical Education department.",
+  "facts": [
+   "Approved by the Bihar Cabinet.",
+   "Aim: strengthen technical expertise in science, technology and technical education institutions.",
+   "Streamlines recruitment of young professionals in the department and its subordinate institutions."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Technical education (तकनीकी शिक्षा)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Bihar's Young Professional Selection Policy–2026 aims to strengthen institutions under which department?",
+    "o": [
+     "Science, Technology and Technical Education",
+     "Rural Development",
+     "Education",
+     "Industries"
+    ],
+    "k": 0,
+    "why": "It streamlines recruitment for the Science, Technology and Technical Education department."
+   }
+  ]
+ },
+ "u0691": {
+  "gist": "Bihar's Governor appointed S.D Sanjay as the new Advocate General under Article 165(1), after P.K Shahi resigned.",
+  "facts": [
+   "S.D Sanjay appointed new Advocate General of Bihar.",
+   "He follows P.K Shahi, who resigned.",
+   "Appointed by the Governor of Bihar under Article 165(1) of the Constitution."
+  ],
+  "hook": "",
+  "trap": "S.D Sanjay = new Advocate General; P.K Shahi = the one who resigned.",
+  "hindi": [
+   "Advocate General (महाधिवक्ता)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Under which Article of the Constitution did Bihar's Governor appoint S.D Sanjay as Advocate General?",
+    "o": [
+     "Article 76",
+     "Article 165(1)",
+     "Article 163",
+     "Article 217"
+    ],
+    "k": 1,
+    "why": "The Governor made the appointment under Article 165(1) of the Constitution."
+   }
+  ]
+ },
+ "u0692": {
+  "gist": "Bihar launched its Cyber Crime and Security Unit (CCSU) to set up India's first AI-based cyber helpline call centre, linked to helpline 1930.",
+  "facts": [
+   "Bihar government launched the Bihar Cyber Crime and Security Unit (CCSU).",
+   "Goal: India's first AI-based cyber helpline call centre.",
+   "Integrated with the national cyber fraud helpline number 1930."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Cyber crime (साइबर अपराध)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Bihar's AI-based cyber helpline call centre is integrated with which national cyber fraud helpline number?",
+    "o": [
+     "1100",
+     "1855",
+     "1930",
+     "112"
+    ],
+    "k": 2,
+    "why": "It is integrated directly with the national cyber fraud helpline number 1930."
+   }
+  ]
+ },
+ "u0693": {
+  "gist": "On June 5, 2026, Bihar's Rural Development Department launched the CGRM Portal for transparent, real-time monitoring of rural schemes.",
+  "facts": [
+   "Launched June 5, 2026 by Bihar's Rural Development Department.",
+   "CGRM = Centralized Grievance Redressal and Monitoring Portal.",
+   "Aim: transparency, accountability and real-time monitoring of rural development schemes."
+  ],
+  "hook": "CGRM = Centralized Grievance Redressal and Monitoring.",
+  "trap": "",
+  "hindi": [
+   "Grievance redressal (शिकायत निवारण)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which Bihar department launched the Centralized Grievance Redressal and Monitoring (CGRM) Portal on June 5, 2026?",
+    "o": [
+     "Panchayati Raj Department",
+     "Rural Development Department",
+     "Home Department",
+     "Urban Development Department"
+    ],
+    "k": 1,
+    "why": "Bihar's Rural Development Department launched the CGRM Portal."
+   }
+  ]
+ },
+ "u0694": {
+  "gist": "CM Samrat Choudhary launched the Sahyog Portal and toll-free Sahyog Helpline 1100 on 11 May 2026 to resolve public grievances quickly.",
+  "facts": [
+   "Launched 11 May 2026 by Bihar CM Samrat Choudhary.",
+   "Toll-free Sahyog Helpline Number: 1100.",
+   "Objective: quick and transparent resolution of public grievances.",
+   "Part of Saat Nischay 3 – 'Sabka Samman, Jeevan Aasan'."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Grievance (शिकायत)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "What is the toll-free number of Bihar's Sahyog Helpline launched in May 2026?",
+    "o": [
+     "1930",
+     "1076",
+     "1100",
+     "181"
+    ],
+    "k": 2,
+    "why": "CM Samrat Choudhary launched the Sahyog Helpline Number 1100 on 11 May 2026."
+   }
+  ]
+ },
+ "u0695": {
+  "gist": "Patna's Digha and Kankarbagh Integrated Wastewater Project, built under Namami Gange, won 'Wastewater Project of the Year' at the Global Water Awards 2026 in Madrid.",
+  "facts": [
+   "Global Water Awards 2026 presented May 19, 2026 at the Global Water Summit, Madrid, Spain.",
+   "Winner: Digha and Kankarbagh Integrated Wastewater Project, Patna.",
+   "Category: Wastewater Project of the Year.",
+   "Implemented by Bihar Urban Infrastructure Development Corporation under the Namami Gange Programme."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Wastewater (अपशिष्ट जल)"
+  ],
+  "priority": 2,
+  "check": "The corporation's abbreviation is printed as '[BWIDCO]', which does not match 'Bihar Urban Infrastructure Development Corporation'.",
+  "mcq": [
+   {
+    "q": "Under which programme was Patna's Digha and Kankarbagh wastewater project, a Global Water Awards 2026 winner, implemented?",
+    "o": [
+     "AMRUT",
+     "Smart Cities Mission",
+     "Namami Gange Programme",
+     "Jal Jeevan Mission"
+    ],
+    "k": 2,
+    "why": "It was implemented under the Namami Gange Programme."
+   }
+  ]
+ },
+ "u0696": {
+  "gist": "Bihar launched 'Brand Bihar', a statewide initiative under the chief secretary's cell to improve the state's image and attract investment.",
+  "facts": [
+   "'Brand Bihar': statewide initiative under the chief secretary's cell.",
+   "Aim: strengthen Bihar's identity and improve its public image.",
+   "Position Bihar as a destination for investment, innovation and opportunity."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Under whose cell has Bihar's 'Brand Bihar' initiative been launched?",
+    "o": [
+     "Chief Minister's Office",
+     "Governor's Secretariat",
+     "Industries Department",
+     "Chief Secretary's cell"
+    ],
+    "k": 3,
+    "why": "Brand Bihar is a statewide initiative under the chief secretary's cell."
+   }
+  ]
+ },
+ "u0697": {
+  "gist": "Bihar's cabinet approved the Bihar Electric Vehicle (Amendment) Policy-2026 on May 13, 2026, with subsidies to cut petrol-diesel use and empower women.",
+  "facts": [
+   "Approved May 13, 2026 by the cabinet led by CM Samrat Choudhary.",
+   "Rs 1 lakh direct subsidy for a non-commercial electric car bought in a woman's name.",
+   "E-two-wheeler: Rs 10,000 (general); Rs 12,000 (women and SC/ST).",
+   "Goods e-auto: Rs 50,000 (general); Rs 60,000 (SC/ST).",
+   "50% rebate in motor vehicle tax on all EVs registered in Bihar.",
+   "Purchase subsidies apply only for FY 2026-27."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Electric vehicle (विद्युत वाहन)",
+   "Subsidy (अनुदान)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Under Bihar's Electric Vehicle (Amendment) Policy-2026, what subsidy is given for a non-commercial electric car bought in a woman's name?",
+    "o": [
+     "Rs 50,000",
+     "Rs 1 lakh",
+     "Rs 12,000",
+     "Rs 60,000"
+    ],
+    "k": 1,
+    "why": "Women get a direct subsidy of Rs 1 lakh on a non-commercial electric car."
+   }
+  ]
+ },
+ "u0698": {
+  "gist": "On May 13, 2026, Bihar approved free transfer of 110.12 acres in Kishanganj for a CISF Regional Training Centre to train 1,000 personnel.",
+  "facts": [
+   "Approved by the Bihar government on May 13, 2026.",
+   "Free permanent transfer of 110.12 acres in Kishanganj district.",
+   "For a CISF Regional Training Centre (RTC).",
+   "The centre will train 1,000 CISF personnel."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Training centre (प्रशिक्षण केंद्र)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "In which Bihar district will the CISF Regional Training Centre come up on 110.12 acres?",
+    "o": [
+     "Purnea",
+     "Araria",
+     "Katihar",
+     "Kishanganj"
+    ],
+    "k": 3,
+    "why": "Bihar approved free transfer of 110.12 acres in Kishanganj district for the RTC."
+   }
+  ]
+ },
+ "u0699": {
+  "gist": "The third National Institute of Food Technology Entrepreneurship and Management (NIFTEM) will be set up in Hajipur, Bihar.",
+  "facts": [
+   "NIFTEM = National Institute of Food Technology Entrepreneurship and Management.",
+   "To be established in Hajipur, Bihar.",
+   "The heading calls it the 3rd NIFTEM."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Food technology (खाद्य प्रौद्योगिकी)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where will the 3rd National Institute of Food Technology Entrepreneurship and Management (NIFTEM) be established?",
+    "o": [
+     "Hajipur, Bihar",
+     "Muzaffarpur, Bihar",
+     "Patna, Bihar",
+     "Bhagalpur, Bihar"
+    ],
+    "k": 0,
+    "why": "The 3rd NIFTEM will be established in Hajipur, Bihar."
+   }
+  ]
+ },
+ "u0700": {
+  "gist": "Vietnam's President To Lam visited Bodh Gaya on May 5, 2026 and prayed at the Mahabodhi Temple during his three-day State Visit to India.",
+  "facts": [
+   "To Lam, President of Vietnam, visited Bodh Gaya, Bihar, on May 5, 2026.",
+   "Offered prayers at the Mahabodhi Temple.",
+   "Part of his three-day State Visit to India in May 2026."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "State visit (राजकीय यात्रा)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which foreign head of state offered prayers at the Mahabodhi Temple, Bodh Gaya, on May 5, 2026?",
+    "o": [
+     "To Lam",
+     "Lee Jae Myung",
+     "Prabowo Subianto",
+     "Janez Janša"
+    ],
+    "k": 0,
+    "why": "Vietnam's President To Lam visited Bodh Gaya on May 5, 2026."
+   }
+  ]
+ }
+}

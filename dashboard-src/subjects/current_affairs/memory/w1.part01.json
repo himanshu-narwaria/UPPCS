@@ -1,0 +1,434 @@
+{
+ "u0001": {
+  "line": "National Urban Conclave 2026 (25 Oct 2026) → Bhubaneswar; focus: strengthening urban governance, planning and service delivery towards Viksit Bharat 2047.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Urban governance (शहरी शासन)"
+  ],
+  "priority": 2
+ },
+ "u0002": {
+  "line": "RBI's new Data Centre and Cybersecurity Training Institute → inaugurated in Bhubaneswar, Odisha (25 Oct 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Cybersecurity (साइबर सुरक्षा)"
+  ],
+  "priority": 2
+ },
+ "u0003": {
+  "line": "IDBI Bank: 60.72% stake → 10955230 Canada Inc. (Fairfax Financial Holdings group); strategic disinvestment worth approx. ₹52,878.08 crore (approved 14 Oct 2026).",
+  "hook": "",
+  "trap": "The buyer is 10955230 Canada Inc.; Fairfax Financial Holdings is only the group it belongs to.",
+  "hindi": [
+   "Strategic disinvestment (रणनीतिक विनिवेश)"
+  ],
+  "priority": 1
+ },
+ "u0004": {
+  "line": "India Mobile Congress 2026, tenth edition (8 Oct) → inaugurated by PM Narendra Modi at Yashobhoomi, New Delhi; theme 'Scale Without Boundaries'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0005": {
+  "line": "Ministry of Education: five new Centres of Excellence for classical languages → Assamese, Bengali, Marathi, Pali and Prakrit (3 Oct 2026).",
+  "hook": "'ABM + 2P' = Assamese, Bengali, Marathi + Pali, Prakrit.",
+  "trap": "",
+  "hindi": [
+   "Classical language (शास्त्रीय भाषा)",
+   "Centre of Excellence (उत्कृष्टता केंद्र)"
+  ],
+  "priority": 1
+ },
+ "u0006": {
+  "line": "RoDTEP (Remission of Duties and Taxes on Exported Products) extended until 31 December 2026; scheme of the Ministry of Commerce and Industry.",
+  "hook": "RoDTEP letters = Remission of Duties and Taxes on Exported Products.",
+  "trap": "",
+  "hindi": [
+   "Export (निर्यात)"
+  ],
+  "priority": 1
+ },
+ "u0007": {
+  "line": "Jawahar Dweep Marine Oil Terminal (Mumbai Port, Maharashtra) → declared India's first plastic-free marine oil terminal (2 Oct 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Plastic-free (प्लास्टिक मुक्त)"
+  ],
+  "priority": 1
+ },
+ "u0008": {
+  "line": "UPSC completed 100 years (1 Oct 2026); India's first Public Service Commission was set up on 1 October 1926.",
+  "hook": "1926 + 100 = 2026: same date, 1 October, a century apart.",
+  "trap": "",
+  "hindi": [
+   "Union Public Service Commission (संघ लोक सेवा आयोग)"
+  ],
+  "priority": 1
+ },
+ "u0009": {
+  "line": "Rabi Marketing Season 2027–28: Cabinet raised MSP of all six mandated rabi crops; wheat ₹2,610/quintal; highest absolute rise → safflower (₹675/quintal).",
+  "hook": "",
+  "trap": "Highest absolute increase was for safflower (₹675), not wheat; wheat's figure ₹2,610 is its MSP, not its increase.",
+  "hindi": [
+   "Minimum Support Price (न्यूनतम समर्थन मूल्य)",
+   "Safflower (कुसुम)"
+  ],
+  "priority": 1
+ },
+ "u0010": {
+  "line": "Arogya Manthan 2026 (25 Sept) inaugurated by Health Minister Jagat Prakash Nadda; marked eight years of AB-PMJAY and five years of Ayushman Bharat Digital Mission.",
+  "hook": "",
+  "trap": "Eight years = Ayushman Bharat–PM Jan Arogya Yojana; five years = Ayushman Bharat Digital Mission. Don't swap.",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0011": {
+  "line": "72nd National Film Awards → Ekta Nagar, Gujarat (22 Sept 2026); Dadasaheb Phalke Award for the year 2024 → actor Anant Nag.",
+  "hook": "",
+  "trap": "The Phalke Award is 'for the year 2024' though given at the 72nd ceremony in 2026.",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0012": {
+  "line": "Semicon India 2026, fifth edition (17 Sept) → inaugurated by PM Narendra Modi in New Delhi; theme 'From Silicon to Systems: Building the Ecosystem'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Semiconductor (अर्धचालक)"
+  ],
+  "priority": 2
+ },
+ "u0013": {
+  "line": "18th BRICS Summit (12–13 Sept 2026) → New Delhi under India's chairmanship; theme: Building for Resilience, Innovation, Cooperation and Sustainability.",
+  "hook": "Theme initials spell B-R-I-C-S: Building, Resilience, Innovation, Cooperation, Sustainability.",
+  "trap": "",
+  "hindi": [
+   "Chairmanship (अध्यक्षता)"
+  ],
+  "priority": 1
+ },
+ "u0014": {
+  "line": "Fifth Swachh Vayu Survekshan 2026: above ten lakh → Lucknow, Indore, Jabalpur; three–ten lakh → Rourkela; below three lakh → Kalinganagar. Khelo India → Youth Affairs & Sports Ministry.",
+  "hook": "UP's capital Lucknow tops the big-city clean-air list.",
+  "trap": "Lucknow is first only in the 'more than ten lakh' group; Rourkela and Kalinganagar top the smaller groups.",
+  "hindi": [
+   "Clean air survey (स्वच्छ वायु सर्वेक्षण)"
+  ],
+  "priority": 1
+ },
+ "u0015": {
+  "line": "India's first Department of Military Medicine → Command Hospital, Central Command, Lucknow; inaugurated by Defence Minister Rajnath Singh (29 July 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Military medicine (सैन्य चिकित्सा)"
+  ],
+  "priority": 1
+ },
+ "u0016": {
+  "line": "Ministry of Panchayati Raj launched Samarth Portal for self-reliant panchayats (27 July 2026); 73rd Constitutional Amendment Act, 1992 gave panchayats constitutional status.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Self-reliant (आत्मनिर्भर)",
+   "Panchayati Raj (पंचायती राज)"
+  ],
+  "priority": 1
+ },
+ "u0017": {
+  "line": "Sarnath (Varanasi district, UP) → UNESCO World Heritage List at the 48th World Heritage Committee session, Busan, South Korea; India now has 45 sites.",
+  "hook": "",
+  "trap": "48 = session number (Busan); 45 = India's World Heritage Sites after Sarnath. Don't swap.",
+  "hindi": [
+   "World Heritage (विश्व धरोहर)"
+  ],
+  "priority": 1
+ },
+ "u0018": {
+  "line": "India's first indigenous hydrogen fuel cell train → between Jind and Sonipat, Haryana (17 July 2026); a hydrogen fuel cell's main by-product is water.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Fuel cell (ईंधन सेल)"
+  ],
+  "priority": 1
+ },
+ "u0019": {
+  "line": "INS Mahendragiri, sixth stealth frigate of Project 17A → commissioned at Visakhapatnam (11 July 2026); Defence Minister Rajnath Singh attended.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Frigate (युद्धपोत)"
+  ],
+  "priority": 2
+ },
+ "u0020": {
+  "line": "29th National e-Governance Conference (1–2 July 2026) → Jaipur, Rajasthan; theme 'Viksit Bharat 2047: AI-enabled, Data-driven and Secure Digital Governance'; adopted the Jaipur Declaration.",
+  "hook": "Held in Jaipur → Jaipur Declaration (venue and declaration share the name).",
+  "trap": "",
+  "hindi": [
+   "e-Governance (ई-शासन)",
+   "Declaration (घोषणा)"
+  ],
+  "priority": 1
+ },
+ "u0021": {
+  "line": "12th International Day of Yoga (21 June 2026) → PM Narendra Modi joined the celebrations in Kolkata, West Bengal.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "International Day of Yoga (अंतर्राष्ट्रीय योग दिवस)"
+  ],
+  "priority": 2
+ },
+ "u0022": {
+  "line": "Bharat Buildcon 2026 (18–21 June 2026) → organised in New Delhi.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0023": {
+  "line": "Union Cabinet chaired by PM Narendra Modi approved Phase (2A) of the Ahmedabad Metro Rail Project (10 June 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0024": {
+  "line": "D. K. Shivakumar sworn in as Chief Minister of Karnataka (3 June 2026), after Siddaramaiah.",
+  "hook": "",
+  "trap": "Shivakumar is the new CM; Siddaramaiah was the CM before him.",
+  "hindi": [
+   "Chief Minister (मुख्यमंत्री)"
+  ],
+  "priority": 1
+ },
+ "u0025": {
+  "line": "Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia district, Uttar Pradesh → India's 100th Ramsar site (June 2026).",
+  "hook": "Ballia's Surha Tal scores the century: Ramsar site number 100.",
+  "trap": "",
+  "hindi": [
+   "Wetland (आर्द्रभूमि)",
+   "Bird sanctuary (पक्षी अभयारण्य)"
+  ],
+  "priority": 1
+ },
+ "u0026": {
+  "line": "Ministry of Health and Family Welfare released the Rashtriya Bal Swasthya Karyakram (RBSK) 2.0 guidelines (May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Child health (बाल स्वास्थ्य)"
+  ],
+  "priority": 1
+ },
+ "u0027": {
+  "line": "Sikkim → declared to have India's first fully paperless judiciary (1 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Judiciary (न्यायपालिका)"
+  ],
+  "priority": 1
+ },
+ "u0028": {
+  "line": "C. Joseph Vijay sworn in as the new Chief Minister of Tamil Nadu (10 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0029": {
+  "line": "Himanta Biswa Sarma sworn in as Chief Minister of Assam for a second consecutive term (12 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Consecutive term (लगातार कार्यकाल)"
+  ],
+  "priority": 1
+ },
+ "u0030": {
+  "line": "New CMs: Kerala → V. D. Satheesan; Bihar → Samrat Choudhary (15 April, after Nitish Kumar); West Bengal → Suvendu Adhikari (9 May, oath by Governor R. N. Ravi).",
+  "hook": "",
+  "trap": "R. N. Ravi is the Governor of West Bengal who gave the oath; Suvendu Adhikari is the CM.",
+  "hindi": [
+   "Oath (शपथ)"
+  ],
+  "priority": 1
+ },
+ "u0031": {
+  "line": "Cabinet approved raising Supreme Court strength by 4 judges (May 2026); sanctioned strength becomes 37 judges, excluding the Chief Justice of India.",
+  "hook": "",
+  "trap": "37 is the strength excluding the CJI; the increase itself is only 4.",
+  "hindi": [
+   "Sanctioned strength (स्वीकृत संख्या)"
+  ],
+  "priority": 1
+ },
+ "u0032": {
+  "line": "Union Cabinet approved the Mission for Cotton Productivity (5 May 2026); total outlay ₹5,659.22 crore.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Cotton (कपास)",
+   "Productivity (उत्पादकता)"
+  ],
+  "priority": 1
+ },
+ "u0033": {
+  "line": "PM Narendra Modi visited Gujarat on 31 March 2026 to open and lay foundation stones for projects; inaugurated Samrat Samprati Museum, Gandhinagar.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Foundation stone (आधारशिला)"
+  ],
+  "priority": 2
+ },
+ "u0034": {
+  "line": "BRICS Youth Council Entrepreneurship Working Group Meeting → Indore, Madhya Pradesh (May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Entrepreneurship (उद्यमिता)"
+  ],
+  "priority": 2
+ },
+ "u0035": {
+  "line": "India's first indigenous hydrogen train approved to run on the Jind–Sonipat section (May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0036": {
+  "line": "Assam passed the Uniform Civil Code, Assam, Bill, 2026 → third Indian state to do so (May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Uniform Civil Code (समान नागरिक संहिता)"
+  ],
+  "priority": 1
+ },
+ "u0037": {
+  "line": "Over 90 crore Ayushman Bharat Health Accounts (ABHAs) created under Ayushman Bharat Digital Mission (30 May 2026); nearly half of holders are women.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Health account (स्वास्थ्य खाता)"
+  ],
+  "priority": 1
+ },
+ "u0038": {
+  "line": "India's first National AI & Digital Water Summit 2026 → Bengaluru (27 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0039": {
+  "line": "Northern Region Agriculture Conference → Lucknow, Uttar Pradesh (24 April 2026), organised by the Union Ministry of Agriculture and Farmers' Welfare.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Farmers' welfare (किसान कल्याण)"
+  ],
+  "priority": 1
+ },
+ "u0040": {
+  "line": "India's first alkaline battery manufacturing facility → commissioned in Jammu (April 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0041": {
+  "line": "Vice President C. P. Radhakrishnan paid an official bilateral visit to Sri Lanka (19–20 April 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Vice President (उपराष्ट्रपति)"
+  ],
+  "priority": 2
+ },
+ "u0042": {
+  "line": "Femina Miss India 2026 grand finale → KIIT (Kalinga Institute of Industrial Technology), Bhubaneswar, Odisha (18 April); Miss India World 2026 → Sadhvi Satish Sail.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0043": {
+  "line": "President Droupadi Murmu launched the 'Delhi Lakhpati Bitiya Yojana' (2 March 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0044": {
+  "line": "Nitish Kumar resigned from the post of Chief Minister of Bihar (April 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Resignation (इस्तीफा)"
+  ],
+  "priority": 2
+ },
+ "u0045": {
+  "line": "North India's first glass bridge → to be built over Sutlej Lake, Ropar district, Punjab (March 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0046": {
+  "line": "Union Cabinet approved Regional Connectivity Scheme Modified UDAN (25 March 2026): 100 airports to be developed; total outlay ₹28,840 crore.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Regional connectivity (क्षेत्रीय संपर्क)"
+  ],
+  "priority": 1
+ },
+ "u0047": {
+  "line": "PM Narendra Modi became India's longest-serving head of a government (22 March 2026), surpassing Pawan Kumar Chamling (Sikkim CM for 8,930 days).",
+  "hook": "",
+  "trap": "The record Modi passed was Pawan Kumar Chamling's (a Sikkim CM), not a former Prime Minister's.",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0048": {
+  "line": "Union Cabinet approved the Small Hydro Power (SHP) Development Scheme (18 March 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Hydro power (जल विद्युत)"
+  ],
+  "priority": 1
+ },
+ "u0049": {
+  "line": "Supreme Court, for the first time, allowed withdrawal of life-sustaining treatment for Harish Rana under the passive-euthanasia framework (11 March 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Passive euthanasia (निष्क्रिय इच्छामृत्यु)"
+  ],
+  "priority": 1,
+  "check": "Q114 asks the 'total outlay for this scheme' (₹2,584.60 crore), but this story is about passive euthanasia; it seems to belong to another item (likely the Small Hydro Power scheme)."
+ },
+ "u0050": {
+  "line": "Census 2027 mascots → Pragati (female enumerator) and Vikas (male enumerator) (5 March 2026).",
+  "hook": "Pragati + Vikas = progress + development; Pragati is the female one.",
+  "trap": "",
+  "hindi": [
+   "Census (जनगणना)",
+   "Enumerator (प्रगणक)"
+  ],
+  "priority": 1
+ }
+}

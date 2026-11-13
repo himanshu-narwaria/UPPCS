@@ -1,0 +1,1213 @@
+{
+  "u0360": {
+    "gist": "Portulans Institute's Network Readiness Index 2025 (February 4, 2026) ranked India 45th of 127 economies, with its score up to 54.43.",
+    "facts": [
+      "Released February 4, 2026 by the Portulans Institute; 127 economies, 53 indicators.",
+      "Four pillars: Technology, People, Governance and Impact.",
+      "Theme: 'AI Governance in a Global Context: Policy and Regulatory Approaches.'",
+      "India 45th; score 54.43, up from 53.63 in 2024.",
+      "India 2nd among lower-middle-income countries, behind Vietnam.",
+      "Top: United States (79.13); last: Burundi (127th)."
+    ],
+    "trap": "It is called NRI 2025 but was released on February 4, 2026.",
+    "hindi": [
+      "Information and communication technology (सूचना एवं संचार प्रौद्योगिकी)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In the Network Readiness Index 2025, released in February 2026, what was India's global rank?",
+        "o": [
+          "45th",
+          "53rd",
+          "38th",
+          "54th"
+        ],
+        "k": 0,
+        "why": "India rose to 45th with a score of 54.43, up from 53.63 in 2024."
+      }
+    ]
+  },
+  "u0361": {
+    "gist": "WEF's 21st Global Risks Report (January 14, 2026) warns of an 'Age of Competition'; geo-economic confrontation tops short-term risks.",
+    "facts": [
+      "Published January 14, 2026; 21st edition by the World Economic Forum.",
+      "Based on Global Risks Perception Survey (GRPS) and Executive Opinion Survey (EOS).",
+      "Top short-term (2-year) risk: geo-economic confrontation; then misinformation and disinformation.",
+      "Top long-term (10-year) risk: extreme weather events; then biodiversity loss.",
+      "Inequality is the most interconnected global risk.",
+      "India's top risk (EOS 2025): cyber insecurity; second: inequality of wealth and income."
+    ],
+    "trap": "Extreme weather is #1 in the long term but #4 in the short term; geo-economic confrontation is #1 short term.",
+    "hindi": [
+      "Misinformation (भ्रामक सूचना)",
+      "Inequality (असमानता)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "According to WEF's Global Risks Report 2026, which risk tops India's list for the next two years (EOS 2025)?",
+        "o": [
+          "Inequality of wealth and income",
+          "Economic downturn",
+          "Cyber insecurity",
+          "State-based armed conflict"
+        ],
+        "k": 2,
+        "why": "For India, EOS 2025 ranks cyber insecurity first, then inequality of wealth and income."
+      }
+    ]
+  },
+  "u0362": {
+    "gist": "Dezan Shira & Associates' Asia Manufacturing Index 2026 (January 12, 2026) placed India 6th of 11 Asian economies; China ranked first.",
+    "facts": [
+      "Published January 12, 2026 by Dezan Shira & Associates.",
+      "India 6th of 11; its strength: market size and workforce.",
+      "Top five: China, Malaysia, Vietnam, Singapore, South Korea.",
+      "China leads due to a strong industrial base and integrated supply chains."
+    ],
+    "hindi": [
+      "Manufacturing (विनिर्माण)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "In the Asia Manufacturing Index 2026 by Dezan Shira & Associates, what was India's rank among 11 Asian economies?",
+        "o": [
+          "4th",
+          "5th",
+          "6th",
+          "8th"
+        ],
+        "k": 2,
+        "why": "AMI 2026 placed India 6th, after China, Malaysia, Vietnam, Singapore and South Korea."
+      }
+    ]
+  },
+  "u0363": {
+    "gist": "World Inequality Report 2026 (3rd edition, December 2025) finds extreme global inequality; in India the top 10% earn 58% of income.",
+    "facts": [
+      "3rd edition by World Inequality Lab (December 2025); editors include Thomas Piketty and Lucas Chancel.",
+      "Globally: top 10% hold nearly 75% of wealth; bottom 50% own only 2%.",
+      "India: top 10% earn 58% of national income; bottom 50% get only 15%.",
+      "India: richest 10% own about 65% of wealth; top 1% about 40%.",
+      "India's female labour income share: 15.7% in both 2014 and 2024.",
+      "Climate: top 10% cause 77% of capital-linked emissions; poorest 50% only 3%."
+    ],
+    "hook": "India's income split '58–15': the top tenth takes 58%, the bottom half gets 15%.",
+    "hindi": [
+      "Inequality (असमानता)",
+      "Climate justice (जलवायु न्याय)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "According to the World Inequality Report 2026, what share of India's national income goes to the top 10%?",
+        "o": [
+          "58%",
+          "65%",
+          "40%",
+          "77%"
+        ],
+        "k": 0,
+        "why": "The top 10% earn 58% of India's national income; the bottom 50% get 15%."
+      }
+    ]
+  },
+  "u0364": {
+    "gist": "The Center for Global Development's Commitment to Development Index 2025 (November 20, 2025) ranked India 36th overall; Sweden topped.",
+    "facts": [
+      "Released November 20, 2025 by the Center for Global Development.",
+      "Measures how major economies' policies, beyond foreign aid, help or hurt poorer countries.",
+      "Top: Sweden (1st), Germany (2nd), Norway (3rd), then Finland and the UK.",
+      "Major economies lag: US 28th, China 34th.",
+      "India: 36th overall and 30th on the income-adjusted rank (progressive relative to its resource base).",
+      "India: 8th in Environment among 38 CDI economies; 38th in Trade and in Development Finance."
+    ],
+    "hindi": [],
+    "priority": 2,
+    "check": "The line 'India ranks 36th overall and 30th on the income-adjusted rank, not 29th' reads like an editorial correction left in the print.",
+    "mcq": [
+      {
+        "q": "In the Commitment to Development Index (CDI) 2025, released in November 2025, what was India's overall rank?",
+        "o": [
+          "28th",
+          "30th",
+          "34th",
+          "36th"
+        ],
+        "k": 3,
+        "why": "India ranked 36th overall and 30th on the income-adjusted rank."
+      }
+    ],
+    "trap": "India's best component is Environment (8th); its worst are Trade and Development Finance (38th)."
+  },
+  "u0365": {
+    "gist": "On October 19, 2026, the EU signed an Association Agreement with Andorra and San Marino, bringing them into the EU Single Market without membership.",
+    "facts": [
+      "Signed October 19, 2026 in Brussels by the European Commission on behalf of the EU.",
+      "Mixed Agreement: free movement of goods, services, capital and persons, with conditions.",
+      "Talks began in 2015; Monaco's talks suspended September 2023; concluded December 2023.",
+      "Council of the EU authorised signing and provisional application on 16 July 2026.",
+      "Full implementation needs approvals, including European Parliament consent; Article 112(3) allows provisional application.",
+      "Andorra (2011), San Marino (2012) use the euro by monetary agreement; may issue coins, not banknotes."
+    ],
+    "trap": "Monaco was in the talks, but they were suspended in September 2023; only Andorra and San Marino signed.",
+    "hindi": [
+      "Single Market (एकल बाज़ार)"
+    ],
+    "priority": 3,
+    "mcq": [
+      {
+        "q": "On October 19, 2026, the European Union signed an Association Agreement with which two European microstates?",
+        "o": [
+          "Andorra and Monaco",
+          "Liechtenstein and Andorra",
+          "Monaco and San Marino",
+          "Andorra and San Marino"
+        ],
+        "k": 3,
+        "why": "The EU signed with Andorra and San Marino; talks with Monaco were suspended in September 2023."
+      }
+    ],
+    "hook": "Nickname 'EEA Plus' (Maroš Šefčovič, December 2023); the official legal name stays Association Agreement."
+  },
+  "u0366": {
+    "gist": "UN DESA's World Urbanization Prospects 2025 (November 2025) named Jakarta the world's most populous city, ahead of Dhaka and Tokyo.",
+    "facts": [
+      "Released November 2025 by the UN Department of Economic and Social Affairs (UN DESA).",
+      "Jakarta, Indonesia: first, about 42 million people.",
+      "Dhaka, Bangladesh: second, 37 million; Tokyo slipped to third, 33 million.",
+      "Nine of the world's ten most populous cities are in Asia, including New Delhi and Kolkata."
+    ],
+    "hook": "Top three J-D-T, falling sizes: Jakarta 42, Dhaka 37, Tokyo 33 (million).",
+    "trap": "Tokyo is now third, not first; Jakarta leads.",
+    "hindi": [
+      "Urbanisation (शहरीकरण)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "According to the UN World Urbanization Prospects 2025, which city is the world's most populous?",
+        "o": [
+          "Tokyo",
+          "Dhaka",
+          "Jakarta",
+          "New Delhi"
+        ],
+        "k": 2,
+        "why": "Jakarta ranks first with about 42 million, then Dhaka (37 million) and Tokyo (33 million)."
+      }
+    ]
+  },
+  "u0367": {
+    "gist": "On October 14, 2026, India approved joining SIOFA, a body for sustainable high-seas fishing in the southern Indian Ocean.",
+    "facts": [
+      "SIOFA = Southern Indian Ocean Fisheries Agreement; India approved accession on October 14, 2026.",
+      "India a Cooperating Non-Contracting Party since 2022; full membership pending as of October 21, 2026.",
+      "Accession takes effect 30 days after depositing the instrument with FAO's Director-General.",
+      "Signed in Rome on July 7, 2006; in force June 21, 2012; HQ: Le Port, Réunion (France).",
+      "Covers squid, toothfish and alfonsino, not tuna; tuna is regulated by IOTC.",
+      "Fights Illegal, Unreported and Unregulated (IUU) fishing."
+    ],
+    "trap": "SIOFA excludes tuna; tuna comes under the Indian Ocean Tuna Commission (IOTC).",
+    "hindi": [
+      "Fisheries (मत्स्य पालन)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Where is the headquarters of the Southern Indian Ocean Fisheries Agreement (SIOFA), which India approved joining in October 2026?",
+        "o": [
+          "Le Port, Réunion",
+          "Rome, Italy",
+          "Victoria, Seychelles",
+          "Port Louis, Mauritius"
+        ],
+        "k": 0,
+        "why": "SIOFA, a Regional Fisheries Management Organisation, is headquartered in Le Port, Réunion (France)."
+      }
+    ]
+  },
+  "u0368": {
+    "gist": "Amit Shah chaired the first BIMSTEC Home Ministers' Meeting in New Delhi (October 13, 2026), which adopted the Delhi Declaration on security.",
+    "facts": [
+      "Held in New Delhi, October 13, 2026; all seven members adopted the Delhi Declaration.",
+      "Idea proposed at 4th Summit (Kathmandu, 2018); welcomed at 6th Summit (Bangkok, 2025).",
+      "Approved: draft Convention Against Human Trafficking, Drug Control Action Plan, anti-money-laundering MoU, and more.",
+      "BIMSTEC Centre of Excellence for disaster management proposed at Jamnagar, Gujarat.",
+      "BIMSTEC founded 6 June 1997 (Bangkok Declaration), first called BIST-EC; Secretariat in Dhaka.",
+      "Secretary-General Indra Mani Pandey (India) since 4 January 2024; 2026 Chair: Bangladesh."
+    ],
+    "hook": "BIST-EC = the four founders: Bangladesh, India, Sri Lanka, Thailand.",
+    "trap": "Myanmar joined in 1997, Nepal and Bhutan in 2004 — they were not founding members.",
+    "hindi": [
+      "Human trafficking (मानव तस्करी)",
+      "Money laundering (धन शोधन)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Who chaired the first BIMSTEC Home Ministers' Meeting held in New Delhi on October 13, 2026?",
+        "o": [
+          "Rajnath Singh",
+          "S. Jaishankar",
+          "Amit Shah",
+          "Ajit Doval"
+        ],
+        "k": 2,
+        "why": "Union Home Minister Amit Shah chaired the meeting, which adopted the Delhi Declaration."
+      },
+      {
+        "q": "Where is a BIMSTEC Centre of Excellence for disaster management proposed, as per the first BIMSTEC Home Ministers' Meeting (2026)?",
+        "o": [
+          "Jamnagar, Gujarat",
+          "Bhubaneswar, Odisha",
+          "Guwahati, Assam",
+          "Visakhapatnam, Andhra Pradesh"
+        ],
+        "k": 0,
+        "why": "A BIMSTEC Centre of Excellence is proposed at Jamnagar, Gujarat."
+      }
+    ]
+  },
+  "u0369": {
+    "gist": "FAO's 28th Committee on Forestry session (Rome, 28 September–2 October 2026) met under 'Forests for Food, Resilience and Prosperity'; India showcased restoration work.",
+    "facts": [
+      "COFO (set up 1971): FAO's top forestry body; 128 members; 10th World Forest Week held alongside.",
+      "SOFO 2026: 1.56 billion hectares degraded land; up to US$30 return per US$1 invested.",
+      "ISFR 2023: India's forest and tree cover 25.17%; forest cover alone 21.76%.",
+      "India ranks 9th in forest area, 3rd in net annual forest gain (FAO FRA 2025).",
+      "Bonn Challenge: restore 26 million hectares by 2030; MISHTI: 54,000 hectares mangroves by 2028.",
+      "Ramsar sites rose to 103 with Sukhna Wetland (Chandigarh) and Sauj Jheel (Uttar Pradesh), 15 October 2026."
+    ],
+    "hook": "Forest 21.76% + tree 3.41% = 25.17% total green cover.",
+    "trap": "21.76 appears twice: forest cover 21.76% and 21.76 million hectares restored during 2011–2020.",
+    "hindi": [
+      "Forest cover (वन आवरण)",
+      "Wetland (आर्द्रभूमि)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which Uttar Pradesh wetland was added as a Ramsar site on 15 October 2026, taking India's total to 103?",
+        "o": [
+          "Sur Sarovar",
+          "Sauj Jheel",
+          "Bakhira",
+          "Nawabganj"
+        ],
+        "k": 1,
+        "why": "Sukhna Wetland (Chandigarh) and Sauj Jheel (Uttar Pradesh) were added on 15 October 2026."
+      },
+      {
+        "q": "As per ISFR 2023, cited by India at FAO's COFO 28 in 2026, India's combined forest and tree cover is:",
+        "o": [
+          "21.76%",
+          "25.17%",
+          "3.41%",
+          "24.62%"
+        ],
+        "k": 1,
+        "why": "Combined cover is 8,27,357 sq km (25.17%): forest 21.76% plus tree cover 3.41%."
+      }
+    ]
+  },
+  "u0370": {
+    "gist": "Finland's President Stubb and Norway's PM Støre launched 'A Call for Control of Frontier AI Models' at the 81st UNGA on September 21, 2026.",
+    "facts": [
+      "Launched September 21, 2026 in New York, during the 81st UNGA High-Level Week.",
+      "Aim: keep advanced AI under human oversight and control.",
+      "Frontier AI = highly advanced models matching or beyond leading existing systems.",
+      "Initially 22 leaders from 20 countries plus European Commission; 31 leaders from 29 countries by 21 October 2026.",
+      "France joined on 23 September 2026; Singapore was the only Southeast Asian participant.",
+      "India, US, China, UK, Japan and South Korea were not listed supporters (as of 21 October)."
+    ],
+    "trap": "India is NOT among the listed supporters of this call.",
+    "hindi": [
+      "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "Which two leaders launched 'A Call for Control of Frontier AI Models' at the 81st UNGA in September 2026?",
+        "o": [
+          "Ursula von der Leyen and Emmanuel Macron",
+          "Mette Frederiksen and Alexander Stubb",
+          "António Guterres and Kaja Kallas",
+          "Alexander Stubb and Jonas Gahr Støre"
+        ],
+        "k": 3,
+        "why": "Finnish President Alexander Stubb and Norwegian PM Jonas Gahr Støre launched it on September 21, 2026."
+      }
+    ]
+  },
+  "u0371": {
+    "gist": "TIME100 Next 2026 (September 30, 2026) named cricketer Vaibhav Sooryavanshi, 15, its youngest member, and Skyroot's Pawan Kumar Chandana.",
+    "facts": [
+      "TIME100 Next launched 2019; five categories: Phenoms, Artists, Leaders, Innovators, Advocates.",
+      "Vaibhav Sooryavanshi (Samastipur, Bihar), Phenoms category, youngest on the list at 15.",
+      "IPL 2025: 35-ball century vs Gujarat Titans — youngest men's T20 centurion.",
+      "Under-19 World Cup final (6 February 2026): 175 off 80 balls; India's sixth title.",
+      "Pawan Kumar Chandana (Leaders): Skyroot Aerospace co-founder and CEO, ex-ISRO, IIT Kharagpur alumnus.",
+      "Skyroot: Vikram-S (18 November 2022) first private rocket to space; Vikram-1 first private orbital launch (18 July 2026)."
+    ],
+    "trap": "Vikram-S (2022, Mission Prarambh) reached space; Vikram-1 (2026, Mission Aagaman) made the first private orbital launch.",
+    "hindi": [],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which company, co-founded by TIME100 Next 2026 honouree Pawan Kumar Chandana, became India's first spacetech unicorn in May 2026?",
+        "o": [
+          "Skyroot Aerospace",
+          "Agnikul Cosmos",
+          "Pixxel",
+          "Dhruva Space"
+        ],
+        "k": 0,
+        "why": "Skyroot Aerospace became India's first spacetech unicorn in May 2026, valued at US$1.1 billion."
+      },
+      {
+        "q": "Vaibhav Sooryavanshi, the youngest member of TIME100 Next 2026, hails from which district?",
+        "o": [
+          "Patna, Bihar",
+          "Gaya, Bihar",
+          "Samastipur, Bihar",
+          "Muzaffarpur, Bihar"
+        ],
+        "k": 2,
+        "why": "He hails from Samastipur, Bihar, and was the list's youngest member at 15."
+      }
+    ]
+  },
+  "u0372": {
+    "gist": "Partners for Multilateralism (P4M) was launched on September 21, 2026 at the 81st UNGA, co-chaired by S. Jaishankar and António Costa.",
+    "facts": [
+      "Launched September 21, 2026 in New York, during the 81st UNGA.",
+      "Co-chairs: EAM Dr. S. Jaishankar and European Council President António Costa.",
+      "Founding partners: India, Australia, Barbados, Brazil, Canada, Kenya and the EU.",
+      "Open, voluntary platform for UN-centred multilateralism and institutional reform.",
+      "India stressed reformed multilateralism and the 4F crisis: Food, Fuel, Fertiliser, Finance.",
+      "UN80 Initiative was launched by UN Secretary-General António Guterres in March 2025."
+    ],
+    "hook": "4F crisis = Food, Fuel, Fertiliser, Finance.",
+    "trap": "Two Antónios: António Costa co-chairs P4M (European Council); António Guterres launched UN80 (UN chief).",
+    "hindi": [
+      "Multilateralism (बहुपक्षवाद)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which of these was NOT a founding partner of the Partners for Multilateralism (P4M) initiative launched in September 2026?",
+        "o": [
+          "Kenya",
+          "Barbados",
+          "Japan",
+          "Brazil"
+        ],
+        "k": 2,
+        "why": "Founding partners: India, Australia, Barbados, Brazil, Canada, Kenya and the EU."
+      }
+    ]
+  },
+  "u0373": {
+    "gist": "India hosted the 18th BRICS Summit at Bharat Mandapam, New Delhi (12–13 September 2026), adopting the New Delhi BRICS Leaders' Declaration.",
+    "facts": [
+      "Held 12–13 September 2026, Bharat Mandapam, New Delhi; declaration adopted on 12 September.",
+      "Theme: 'Building for Resilience, Innovation, Cooperation and Sustainability.'",
+      "India's fourth BRICS Presidency (from 1 January 2026); earlier 2012, 2016, 2021.",
+      "BRICS: 11 full members, 10 partner countries; about 49.5% of world population, 40% of GDP.",
+      "Modi proposed a BRICS Continuity and Implementation Mechanism.",
+      "Declaration condemned the 22 April 2025 Jammu and Kashmir attack (26 killed); no common currency announced."
+    ],
+    "hook": "The theme spells BRICS: Building for Resilience, Innovation, Cooperation and Sustainability.",
+    "trap": "11 full members vs 10 partner countries — don't swap.",
+    "hindi": [
+      "Presidency (अध्यक्षता)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "What was the theme of the 18th BRICS Summit hosted by India in September 2026?",
+        "o": [
+          "Solidarity, Equality, Sustainability",
+          "Navigating Our Future, Together",
+          "Turning Vision into Action",
+          "Building for Resilience, Innovation, Cooperation and Sustainability"
+        ],
+        "k": 3,
+        "why": "The theme was 'Building for Resilience, Innovation, Cooperation and Sustainability'."
+      },
+      {
+        "q": "India's BRICS Presidency that began on 1 January 2026 is its which presidency of the grouping?",
+        "o": [
+          "Third",
+          "Fourth",
+          "Fifth",
+          "Second"
+        ],
+        "k": 1,
+        "why": "India assumed its fourth BRICS Presidency in 2026, after chairing in 2012, 2016 and 2021."
+      }
+    ]
+  },
+  "u0374": {
+    "gist": "Under India's 2026 BRICS chairship, sectoral meetings were held across India, including Lucknow, Indore, Guwahati, Hyderabad and Bhubaneswar.",
+    "facts": [
+      "Lucknow (August 3–4, 2026): BRICS statistics chiefs' meeting; theme 'Quality Statistics as Driver of Change'.",
+      "Indore (June 9–13, 2026): BRICS Agriculture Conference adopted the Indore Declaration.",
+      "Guwahati Declaration on drug control adopted on July 7, 2026.",
+      "Hyderabad (August 4–5): Second Anti-Corruption Working Group meeting, hosted by DoPT.",
+      "Bhubaneswar (August 5–7): 13th Education Ministers' Meeting; Gurugram (June 25–26): 11th Energy Ministers' Meeting.",
+      "New Delhi: 16th NSA meeting under Ajit Doval (June 22–23); Foreign Ministers' meeting (May 14–15)."
+    ],
+    "hook": "City–meeting pairs: Lucknow-Statistics, Indore-Agriculture, Guwahati-Drugs, Hyderabad-Anti-corruption, Bhubaneswar-Education, Gurugram-Energy.",
+    "trap": "17th BRICS Summit 2025 was in Rio de Janeiro; 16th (2024) in Kazan; 18th (2026) in India.",
+    "hindi": [
+      "Drug control (मादक पदार्थ नियंत्रण)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Under India's 2026 BRICS chairship, which city hosted the Meeting of Heads of National Statistical Offices of BRICS countries?",
+        "o": [
+          "Indore",
+          "Lucknow",
+          "Bhubaneswar",
+          "Gurugram"
+        ],
+        "k": 1,
+        "why": "India hosted the NSO heads' meeting in Lucknow, Uttar Pradesh, on August 3–4, 2026."
+      },
+      {
+        "q": "The BRICS declaration on drug control adopted on July 7, 2026 is named after which city?",
+        "o": [
+          "Indore",
+          "Hyderabad",
+          "Guwahati",
+          "New Delhi"
+        ],
+        "k": 2,
+        "why": "BRICS Heads of Anti-Drug Agencies adopted the Guwahati Declaration on July 7, 2026."
+      }
+    ]
+  },
+  "u0375": {
+    "gist": "The 27th World Knowledge Forum (September 8–10, 2026, Seoul) discussed AI as the 'fire of the 21st century' under a Promethean theme.",
+    "facts": [
+      "Held September 8–10, 2026 at Jangchung Arena and The Shilla Seoul, South Korea.",
+      "Theme: 'The Promethean Moment: Architecting the Co-Intelligence Order.'",
+      "Founded 2000 by Maekyung Media Group; founder Chang Dae-whan.",
+      "Theme draws on Prometheus, who gave fire to humanity; AI is the new 'fire'.",
+      "Five pillars: Power, Capital, Intelligence, Planet, Humanity."
+    ],
+    "hook": "Prometheus gave fire → AI is the 'fire of the 21st century'.",
+    "hindi": [],
+    "priority": 3,
+    "mcq": [
+      {
+        "q": "In which city was the 27th World Knowledge Forum held in September 2026?",
+        "o": [
+          "Tokyo",
+          "Seoul",
+          "Busan",
+          "Singapore"
+        ],
+        "k": 1,
+        "why": "The 27th WKF was held on September 8–10, 2026 at Jangchung Arena and The Shilla Seoul."
+      }
+    ]
+  },
+  "u0376": {
+    "gist": "Bangladesh's Foreign Minister Khalilur Rahman was elected President of the 81st UNGA session, beginning his one-year term on September 8, 2026.",
+    "facts": [
+      "Khalilur Rahman (Bangladesh) beat Andreas Kakouris of Cyprus in a secret ballot.",
+      "One-year term began September 8, 2026.",
+      "81st session presidency went to the Asia-Pacific Group by regional rotation.",
+      "Theme: 'Restoring Trust, Managing Transformation: A United Nations that Delivers for All.'",
+      "Earlier Bangladeshi President: Humayun Rasheed Choudhury, 41st session, 1986."
+    ],
+    "hindi": [
+      "General Assembly (महासभा)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Who was elected President of the 81st session of the UN General Assembly, beginning September 8, 2026?",
+        "o": [
+          "Andreas Kakouris",
+          "Sara Beysolow Nyanti",
+          "Humayun Rasheed Choudhury",
+          "Khalilur Rahman"
+        ],
+        "k": 3,
+        "why": "Bangladesh's Khalilur Rahman won a secret ballot against Cyprus's Andreas Kakouris."
+      }
+    ]
+  },
+  "u0377": {
+    "gist": "At the 48th World Heritage Committee (Busan, July 19–29, 2026), 25 sites were added; Italy leads with 62 sites, India is sixth with 45.",
+    "facts": [
+      "48th session: Busan, Republic of Korea, July 19–29, 2026; 25 new sites added.",
+      "Italy 62 sites (56 cultural, 6 natural) after Sardinia's Domus de Janas; China 61, France 56.",
+      "India sixth: 45 sites — 37 cultural, 7 natural, 1 mixed.",
+      "Recent Indian sites: Sarnath (2026), Maratha Military Landscapes (2025), Moidams (2024).",
+      "Deepavali became India's 16th ICH element on December 10, 2025, at a session in Red Fort.",
+      "India re-elected to UNESCO's Executive Board for the 2025–29 term."
+    ],
+    "hook": "India's recent additions, one a year: Moidams 2024 → Maratha Military Landscapes 2025 → Sarnath 2026.",
+    "trap": "France has 56 sites in total; Italy's 56 is only its cultural count — Italy's total is 62.",
+    "hindi": [
+      "World Heritage Site (विश्व धरोहर स्थल)",
+      "Intangible Cultural Heritage (अमूर्त सांस्कृतिक विरासत)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which Indian site is listed as the 2026 addition to India's UNESCO World Heritage Sites?",
+        "o": [
+          "Moidams",
+          "Maratha Military Landscapes",
+          "Sarnath",
+          "Lothal"
+        ],
+        "k": 2,
+        "why": "Recent Indian additions: Sarnath (2026), Maratha Military Landscapes (2025) and Moidams (2024)."
+      },
+      {
+        "q": "Deepavali was inscribed on UNESCO's Intangible Cultural Heritage list on December 10, 2025, becoming India's which element?",
+        "o": [
+          "14th",
+          "15th",
+          "16th",
+          "17th"
+        ],
+        "k": 2,
+        "why": "Deepavali became the 16th Indian element on UNESCO's ICH list."
+      }
+    ]
+  },
+  "u0378": {
+    "gist": "On July 1, 2026, the UN's Independent International Scientific Panel on AI released its first report, warning AI is outpacing understanding and safeguards.",
+    "facts": [
+      "Report out July 1, 2026; informed first UN Global Dialogue on AI Governance (Geneva, 6–7 July 2026).",
+      "Panel created by UNGA Resolution A/RES/79/325 (26 August 2025), after the Global Digital Compact.",
+      "40 independent experts from all five UN regional groups; three-year terms.",
+      "Co-Chairs: Yoshua Bengio (Canada) and Maria Ressa (Philippines, 2021 Nobel Peace Prize).",
+      "Assesses only non-military AI; has no regulatory or enforcement powers.",
+      "IndiaAI Mission (March 2024): ₹10,371.92 crore outlay; over 38,000 GPUs onboarded."
+    ],
+    "trap": "The panel only gives scientific assessments; it cannot regulate or enforce.",
+    "hindi": [
+      "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "Who are the Co-Chairs of the UN Independent International Scientific Panel on AI, which released its first report on July 1, 2026?",
+        "o": [
+          "Geoffrey Hinton and Maria Ressa",
+          "Yoshua Bengio and Navi Pillay",
+          "Yoshua Bengio and Maria Ressa",
+          "Alexander Stubb and Yoshua Bengio"
+        ],
+        "k": 2,
+        "why": "The Co-Chairs are Yoshua Bengio (Canada) and Maria Ressa (Philippines)."
+      }
+    ]
+  },
+  "u0379": {
+    "gist": "The Second Pax Silica Summit (Washington, D.C., 25–26 June 2026) focused on secure AI supply chains; thirty-five countries including India signed an AI statement.",
+    "facts": [
+      "Held 25–26 June 2026 in Washington, D.C.",
+      "Thirty-five countries, including India, signed the Joint Statement on AI Opportunity Partnership.",
+      "India's delegation led by S. Krishnan, Secretary, MeitY.",
+      "Pax Silica: launched by the US in December 2025 to secure the whole AI supply chain.",
+      "India joined on 20 February 2026 as the 10th signatory, during the India AI Impact Summit.",
+      "Pax Pass: proposed logistics platform for AI goods; first pilot planned for Panama."
+    ],
+    "trap": "India joined Pax Silica in February 2026 (10th signatory); the June 2026 meeting was the Second Summit.",
+    "hindi": [
+      "Supply chain (आपूर्ति श्रृंखला)",
+      "Semiconductors (अर्धचालक)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "India joined the US-led Pax Silica initiative on 20 February 2026 as its which signatory?",
+        "o": [
+          "8th",
+          "10th",
+          "12th",
+          "35th"
+        ],
+        "k": 1,
+        "why": "India joined Pax Silica on 20 February 2026, becoming its 10th signatory."
+      }
+    ]
+  },
+  "u0380": {
+    "gist": "On 3 June 2026, the UNGA elected Austria, Kyrgyzstan, Portugal, Trinidad and Tobago, and Zimbabwe to the UN Security Council for 2027–2028.",
+    "facts": [
+      "Elected 3 June 2026; term from 1 January 2027 to 31 December 2028.",
+      "Western European and Others Group: Austria, Portugal; Asia-Pacific: Kyrgyzstan.",
+      "Latin America and Caribbean: Trinidad and Tobago; Africa: Zimbabwe.",
+      "Germany got 104 votes but failed to win either of the two seats.",
+      "Kyrgyzstan will sit on the Council for the first time since joining the UN in 1992."
+    ],
+    "trap": "Germany contested but lost; Austria and Portugal won the two Western European seats.",
+    "hindi": [
+      "Non-permanent member (अस्थायी सदस्य)",
+      "Security Council (सुरक्षा परिषद)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In the UN Security Council election of 3 June 2026, which country failed to win a seat despite receiving 104 votes?",
+        "o": [
+          "Austria",
+          "Kyrgyzstan",
+          "Portugal",
+          "Germany"
+        ],
+        "k": 3,
+        "why": "Germany received 104 votes and failed to win either of the two available seats."
+      }
+    ]
+  },
+  "u0381": {
+    "gist": "India attended the 52nd G7 Summit at Évian-les-Bains, France (June 15-17, 2026) — its 13th participation and PM Modi's 7th straight appearance.",
+    "facts": [
+      "52nd G7 Summit: Évian-les-Bains, France, June 15-17, 2026, under French presidency.",
+      "India and Brazil were invited outreach nations.",
+      "India's 13th participation; Modi's 7th consecutive appearance.",
+      "51st G7 (June 2025): Kananaskis, Alberta, Canada; 53rd (2027): to be hosted by the United States.",
+      "One Health Summit 2026: Lyon, France, April 5–7, matching World Health Day (7 April).",
+      "One Health links human, animal, plant and ecosystem health; backed by WHO, FAO, UNEP, WOAH."
+    ],
+    "trap": "13th = India's total G7 participations; 7th = Modi's consecutive appearances.",
+    "hindi": [],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Where was the 52nd G7 Summit, attended by India as an invited nation, held in June 2026?",
+        "o": [
+          "Évian-les-Bains, France",
+          "Kananaskis, Canada",
+          "Lyon, France",
+          "Apulia, Italy"
+        ],
+        "k": 0,
+        "why": "The 52nd G7 Summit was held in Évian-les-Bains, France, from June 15-17, 2026."
+      }
+    ]
+  },
+  "u0382": {
+    "gist": "India hosted the 11th Quad Foreign Ministers' Meeting in New Delhi on May 26, 2026, launching maritime surveillance, energy and critical-minerals initiatives.",
+    "facts": [
+      "11th Quad Foreign Ministers' Meeting: New Delhi, May 26, 2026.",
+      "Quad: India, US, Japan, Australia; roots in December 2004 tsunami relief.",
+      "First officials' meeting 2007 (Manila); FMs first met September 2019; leader level from 2021.",
+      "New: Indo-Pacific Maritime Surveillance Collaboration (IPMSC) and Quad Critical Minerals Framework.",
+      "IPMDA's Indian Ocean programme runs through the Information Fusion Centre–IOR, Gurugram.",
+      "Quad to work with Fiji on ports; China held about 91% of refined rare earths (2024)."
+    ],
+    "hindi": [
+      "Critical minerals (महत्वपूर्ण खनिज)",
+      "Maritime surveillance (समुद्री निगरानी)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Through which centre did India operationalise the IPMDA Indian Ocean Region programme, as welcomed at the 2026 Quad Foreign Ministers' Meeting?",
+        "o": [
+          "Information Fusion Centre–IOR, Gurugram",
+          "Maritime Operations Centre, Kochi",
+          "Eastern Naval Command, Visakhapatnam",
+          "Andaman and Nicobar Command, Port Blair"
+        ],
+        "k": 0,
+        "why": "India operationalised IPMDA's IOR programme through the Information Fusion Centre–IOR in Gurugram."
+      }
+    ]
+  },
+  "u0383": {
+    "gist": "The 48th ASEAN Summit (May 6–8, 2026, Lapu-Lapu City, Cebu, Philippines) focused on energy and food security under 'Navigating Our Future, Together.'",
+    "facts": [
+      "48th Summit: May 6–8, 2026, LapuLapu City, Cebu; chaired by President Ferdinand Marcos Jr.",
+      "Theme: 'Navigating Our Future, Together.'",
+      "Focus: energy and food security, ASEAN Power Grid, South China Sea Code of Conduct.",
+      "ASEAN founded 8 August 1967 (Bangkok Declaration); HQ Jakarta; 11 members after Timor-Leste joined (2025).",
+      "22nd ASEAN–India Summit (Kuala Lumpur, October 26, 2025) made 2026 ASEAN–India Year of Maritime Cooperation.",
+      "23rd ASEAN–India Summit expected in Manila in November 2026."
+    ],
+    "hindi": [
+      "Maritime cooperation (समुद्री सहयोग)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "The 22nd ASEAN–India Summit (October 2025) designated 2026 as the ASEAN–India Year of:",
+        "o": [
+          "Tourism",
+          "Innovation",
+          "Digital Transformation",
+          "Maritime Cooperation"
+        ],
+        "k": 3,
+        "why": "The 22nd Summit in Kuala Lumpur designated 2026 the ASEAN–India Year of Maritime Cooperation."
+      }
+    ]
+  },
+  "u0384": {
+    "gist": "The 11th Raisina Dialogue (New Delhi, March 5–7, 2026) had the theme 'Samskāra'; Finland's President Alexander Stubb was chief guest.",
+    "facts": [
+      "11th edition: March 5–7, 2026, New Delhi; inaugurated by PM Modi.",
+      "Theme: 'Samskāra: Assertion, Accommodation, Advancement.'",
+      "Chief guest/keynote speaker: Finnish President Alexander Stubb.",
+      "Organised by Observer Research Foundation (ORF) with the Ministry of External Affairs; started 2016.",
+      "Raisina Science Diplomacy Initiative launched by the Office of the Principal Scientific Adviser and ORF."
+    ],
+    "hook": "Theme's three A's: Assertion, Accommodation, Advancement.",
+    "hindi": [
+      "Geopolitics (भू-राजनीति)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Who was the chief guest at the 11th Raisina Dialogue held in New Delhi in March 2026?",
+        "o": [
+          "Alexander Stubb",
+          "Emmanuel Macron",
+          "Mark Carney",
+          "Friedrich Merz"
+        ],
+        "k": 0,
+        "why": "Finland's President Alexander Stubb was the chief guest/keynote speaker."
+      }
+    ]
+  },
+  "u0385": {
+    "gist": "The 16th India–EU Summit (New Delhi, January 27, 2026) concluded FTA talks and launched the first India–EU Security and Defence Partnership.",
+    "facts": [
+      "Held January 27, 2026, New Delhi: Modi, António Costa and Ursula von der Leyen.",
+      "Outcomes: FTA talks concluded; Security and Defence Partnership; 'Towards 2030' Strategic Agenda.",
+      "FTA talks began 2007, were suspended 2013 and resumed 2022.",
+      "EU: preferential access on 97% of tariff lines, covering 99.5% of Indian exports by value.",
+      "India: concessions on 92.1% of tariff lines, covering 97.5% of EU exports.",
+      "FTA not in force by October 2026; CBAM remains a concern."
+    ],
+    "trap": "97% = EU's tariff-line offer; 97.5% = share of EU exports covered by India's offer.",
+    "hindi": [
+      "Free Trade Agreement (मुक्त व्यापार समझौता)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "India–EU Free Trade Agreement negotiations, concluded at the 16th India–EU Summit in January 2026, first began in which year?",
+        "o": [
+          "2007",
+          "2013",
+          "2022",
+          "2004"
+        ],
+        "k": 0,
+        "why": "FTA talks began in 2007, were suspended in 2013 and resumed in 2022."
+      }
+    ]
+  },
+  "u0386": {
+    "gist": "The 20th G20 Summit (Johannesburg, November 22-23, 2025), the first on African soil, adopted an Ubuntu-inspired declaration; Modi proposed six initiatives.",
+    "facts": [
+      "Held November 22-23, 2025, Johannesburg; theme 'Solidarity, Equality, Sustainability.'",
+      "First G20 Summit in Africa; declaration reflects Ubuntu (shared humanity).",
+      "Mission 300: electricity for 300 million Africans by 2030.",
+      "Modi's 12th G20; proposals include Africa Skills Multiplier (one million trainers) and Drug–Terror Nexus Initiative.",
+      "ACITI Partnership (Australia–Canada–India) launched 22 November for green energy, AI and minerals.",
+      "Next: 21st in Doral, Florida (December 14–15, 2026); 22nd in Manchester, UK (2027)."
+    ],
+    "trap": "20th summit = Johannesburg (2025); 21st = Doral, US (2026); 22nd = Manchester, UK (2027).",
+    "hindi": [
+      "Debt relief (ऋण राहत)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Where is the 21st G20 Summit scheduled to be held on December 14–15, 2026?",
+        "o": [
+          "Manchester, UK",
+          "Republic of Korea",
+          "Johannesburg, South Africa",
+          "Doral, Florida, USA"
+        ],
+        "k": 3,
+        "why": "The 21st summit is scheduled for Doral, Florida, United States, on December 14–15, 2026."
+      },
+      {
+        "q": "Which initiative proposed by PM Modi at the G20 Johannesburg Summit 2025 targets one million African trainers?",
+        "o": [
+          "Africa Skills Multiplier",
+          "Mission 300",
+          "Open Satellite Data Partnership",
+          "Traditional Knowledge Repository"
+        ],
+        "k": 0,
+        "why": "The Africa Skills Multiplier targets one million African trainers."
+      }
+    ]
+  },
+  "u0387": {
+    "gist": "On September 29, 2026, King Mohammed VI appointed Fatima Ezzahra El Mansouri as Morocco's first woman Head of Government.",
+    "facts": [
+      "Appointed September 29, 2026, under Article 47 of Morocco's 2011 Constitution.",
+      "Third woman head of government in the Arab world, after Tunisia's Najla Bouden and Sarru Zaafrani Zenzri.",
+      "Elections to the 395-member House of Representatives on 23 September 2026; turnout 38.08%.",
+      "Authenticity and Modernity Party (PAM) largest with 97 seats; National Rally of Independents 66.",
+      "She is a lawyer, PAM's collective-leadership coordinator and former Mayor of Marrakech."
+    ],
+    "hindi": [
+      "Head of Government (शासनाध्यक्ष)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "Who became Morocco's first woman Head of Government in September 2026?",
+        "o": [
+          "Fatima Ezzahra El Mansouri",
+          "Najla Bouden",
+          "Sarru Zaafrani Zenzri",
+          "Maia Sandu"
+        ],
+        "k": 0,
+        "why": "King Mohammed VI appointed Fatima Ezzahra El Mansouri on September 29, 2026."
+      }
+    ]
+  },
+  "u0388": {
+    "gist": "A military mutiny in Niamey, Niger (August 28–29, 2026) against President Abdourahamane Tiani's government was suppressed.",
+    "facts": [
+      "Mutiny began about 12:20 a.m. on 29 August 2026 at Air Base 101, Niamey.",
+      "Niger's Defence Ministry and AES said it was suppressed; Russia reported help from its Africa Corps.",
+      "Niger: independent from France 3 August 1960; successful coups in 1974, 1996, 1999, 2010, 2023.",
+      "2023 coup (26 July) removed Mohamed Bazoum; 2025 Charter gave Tiani a 60-month transition.",
+      "AES = Niger, Mali, Burkina Faso; they left ECOWAS on 29 January 2025.",
+      "AU Constitutive Act Article 30 bars governments that take power unconstitutionally."
+    ],
+    "trap": "AES began as the Alliance of Sahel States (Liptako-Gourma Charter, 2023) and became a confederation in 2024.",
+    "hindi": [
+      "Military coup (सैन्य तख्तापलट)",
+      "Mutiny (विद्रोह)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "Which three countries form the Alliance of Sahel States (AES), which withdrew from ECOWAS on 29 January 2025?",
+        "o": [
+          "Niger, Mali and Chad",
+          "Niger, Chad and Sudan",
+          "Mali, Guinea and Burkina Faso",
+          "Niger, Mali and Burkina Faso"
+        ],
+        "k": 3,
+        "why": "Niger, Mali and Burkina Faso formed AES through the Liptako-Gourma Charter (16 September 2023)."
+      }
+    ]
+  },
+  "u0389": {
+    "gist": "Balendra Shah (Balen) became Nepal's youngest democratically elected PM on March 27, 2026, after Gen Z protests toppled the Oli government.",
+    "facts": [
+      "Became PM on March 27, 2026; party: Rastriya Swatantra Party (RSP).",
+      "Rapper, engineer and former Mayor of Kathmandu.",
+      "Gen Z movement erupted September 2025 after a ban on 26 social media platforms.",
+      "Anger over corruption and nepotism ('Nepo Kids'); PM K.P. Sharma Oli resigned.",
+      "Sushila Karki, a former Chief Justice, became interim PM — Nepal's first woman PM.",
+      "Balen's rise reflects young voters, anti-corruption politics and anti-establishment mood."
+    ],
+    "hindi": [
+      "Nepotism (भाई-भतीजावाद)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which party's 2026 election win made Balendra Shah Nepal's youngest democratically elected Prime Minister?",
+        "o": [
+          "Rastriya Swatantra Party",
+          "Nepali Congress",
+          "CPN-UML",
+          "Rastriya Prajatantra Party"
+        ],
+        "k": 0,
+        "why": "The Rastriya Swatantra Party (RSP) secured a strong mandate in the 2026 election."
+      },
+      {
+        "q": "Who became Nepal's first woman Prime Minister (interim) after the Gen Z movement of September 2025?",
+        "o": [
+          "Sushila Karki",
+          "Bidya Devi Bhandari",
+          "Arzu Rana Deuba",
+          "Pampha Bhusal"
+        ],
+        "k": 0,
+        "why": "Former Chief Justice Sushila Karki was sworn in as interim PM, the first woman in the post."
+      }
+    ],
+    "trap": "Balen = youngest democratically elected PM (2026); Sushila Karki = first woman PM (interim, after the 2025 protests)."
+  },
+  "u0390": {
+    "gist": "A rock–ice avalanche set off a catastrophic flash flood in Nepal's Rasuwa district on August 26, 2026; India sent rescue and forensic help.",
+    "facts": [
+      "August 26, 2026: flash flood in Rasuwa, near the Nepal–China border, on Lhende Khola–Bhote Koshi–Trishuli rivers.",
+      "ICIMOD: slope failure on Langtang Lirung caused a rock–ice avalanche — not a conventional GLOF.",
+      "Trishuli River rose about nine metres within 30 minutes at Galchhi.",
+      "India: NDRF teams in Bihar and Uttar Pradesh, tunnel-rescue staff, 19-member forensic team.",
+      "GLOF = flood when a glacial lake's ice or moraine dam fails.",
+      "The debris-laden flood damaged settlements, roads, bridges, hydropower projects and communication networks."
+    ],
+    "trap": "Rasuwa flood was mainly an avalanche-induced cascading hazard, not a conventional GLOF.",
+    "hindi": [
+      "Flash flood (आकस्मिक बाढ़)",
+      "Avalanche (हिमस्खलन)",
+      "Glacial lake (हिमनद झील)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "According to ICIMOD, what mainly triggered the flash flood in Nepal's Rasuwa district on August 26, 2026?",
+        "o": [
+          "A rock–ice avalanche from Langtang Lirung",
+          "A Glacial Lake Outburst Flood",
+          "An earthquake",
+          "A cloudburst over the Trishuli"
+        ],
+        "k": 0,
+        "why": "A slope failure on Langtang Lirung triggered a rock–ice avalanche, not a conventional GLOF."
+      }
+    ]
+  },
+  "u0391": {
+    "gist": "A 7.4-magnitude earthquake hit western Colombia on August 10, 2026 — the country's largest of the 21st century — leading to an emergency.",
+    "facts": [
+      "August 10, 2026; epicentre near San José del Palmar, Chocó Department; depth about 103 km.",
+      "Colombian Geological Service: largest-magnitude earthquake of the 21st century in Colombia.",
+      "Cause: the oceanic Nazca Plate subducts beneath the South American Plate.",
+      "Colombia lies on the Circum-Pacific Belt, about 40,000 km around the Pacific.",
+      "This subduction also built the Andes Mountains and feeds volcanism."
+    ],
+    "hindi": [
+      "Earthquake (भूकंप)",
+      "Tectonic plate (विवर्तनिक प्लेट)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "The 7.4-magnitude Colombia earthquake of August 10, 2026 is linked to which oceanic plate subducting beneath the South American Plate?",
+        "o": [
+          "Cocos Plate",
+          "Pacific Plate",
+          "Caribbean Plate",
+          "Nazca Plate"
+        ],
+        "k": 3,
+        "why": "Along Colombia's Pacific margin, the oceanic Nazca Plate subducts beneath the South American Plate."
+      }
+    ]
+  },
+  "u0392": {
+    "gist": "On 26 June 2026, India launched Operation Amistad to help Venezuela after two earthquakes of magnitude 7.2 and 7.5 on 24 June.",
+    "facts": [
+      "Launched 26 June 2026; earthquakes of magnitude 7.2 and 7.5 struck Venezuela on 24 June.",
+      "IAF sent two C-17 Globemaster III aircraft with medical staff and relief.",
+      "Two BHISHM Cubes (portable modular hospitals) deployed under the Aarogya Maitri Initiative.",
+      "BHISHM = Bharat Health Initiative for Sahyog, Hita and Maitri.",
+      "Past missions: Maitri (Nepal, 2015), Rahat (Yemen, 2015), Sankat Mochan (South Sudan, 2016), Kaveri (Sudan, 2023).",
+      "Samudra Setu (2020, COVID-19 repatriation), Devi Shakti (Afghanistan, 2021), Ganga (Ukraine, 2022)."
+    ],
+    "hindi": [
+      "Humanitarian assistance (मानवीय सहायता)",
+      "Disaster relief (आपदा राहत)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "India launched Operation Amistad in June 2026 to give earthquake relief to which country?",
+        "o": [
+          "Venezuela",
+          "Colombia",
+          "Ecuador",
+          "Peru"
+        ],
+        "k": 0,
+        "why": "Operation Amistad (26 June 2026) supported Venezuela after earthquakes of magnitude 7.2 and 7.5."
+      }
+    ],
+    "hook": "Amistad = 'Friendship' in Spanish — India's friendship mission to Venezuela.",
+    "trap": "Two Sudans: Sankat Mochan went to South Sudan (2016); Kaveri went to Sudan (2023)."
+  },
+  "u0393": {
+    "gist": "News shorts: California banned child marriage, Scotland legalised water cremation, Spain banned social media for under-16s, and India hosted CSPOC 2026.",
+    "facts": [
+      "California AB 1267 (signed September 30, 2026): marriage age 18, no exceptions; 18th US state.",
+      "Scotland: first UK nation to legalise water cremation (alkaline hydrolysis); about 7 times less CO2.",
+      "Maduro captured by US forces on January 3, 2026 (Operation Absolute Resolve); Delcy Rodríguez acting president.",
+      "Spain: first European country to ban social media for under-16s; second globally after Australia.",
+      "WTO MC-14 (March 2026), Yaoundé, Cameroon: no broad consensus; Bulgaria became 21st euro-area member (1 January 2026).",
+      "India hosted 28th CSPOC, New Delhi (14–16 January 2026); CEC Gyanesh Kumar chairs International IDEA Council 2026.",
+      "Durand Line (Pakistan–Afghanistan): about 2,640 km, drawn 1893; Finke River (Australia): world's oldest river system."
+    ],
+    "hook": "Double 18: marriage age 18, and California is the 18th state. China's CR450 hit 453 km/h — just above its name number.",
+    "hindi": [
+      "Child marriage (बाल विवाह)",
+      "Cremation (दाह संस्कार)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Under AB 1267, signed on September 30, 2026, California became which US state to completely ban child marriage?",
+        "o": [
+          "16th",
+          "18th",
+          "20th",
+          "12th"
+        ],
+        "k": 1,
+        "why": "Effective 1 January 2027, California became the 18th U.S. state to fully ban child marriage."
+      },
+      {
+        "q": "Which country hosted the 28th Conference of Speakers and Presiding Officers of the Commonwealth (CSPOC) in January 2026?",
+        "o": [
+          "United Kingdom",
+          "Canada",
+          "India",
+          "Australia"
+        ],
+        "k": 2,
+        "why": "India hosted the 28th CSPOC in New Delhi from 14–16 January 2026."
+      }
+    ],
+    "trap": "Spain is first in Europe but second in the world to ban social media for under-16s (Australia was first, December 2025)."
+  },
+  "u0394": {
+    "gist": "India ran Operation Sagar Bandhu for Sri Lanka after Cyclone Ditwah (November 2025); Ethiopia's Hayli Gubbi volcano erupted on 23 November 2025.",
+    "facts": [
+      "Cyclone Ditwah hit Sri Lanka in the last week of November 2025.",
+      "India's HADR mission for Sri Lanka: Operation Sagar Bandhu, meaning 'Ocean Friend'.",
+      "Deployed INS Vikrant, INS Udaygiri, INS Sukanya and an IAF C-130J aircraft.",
+      "Hayli Gubbi: volcano in Ethiopia's Afar region, near the Erta Ale volcanic range.",
+      "Erupted 23 November 2025 — its first documented explosive eruption in about 12,000 years."
+    ],
+    "hook": "Sagar Bandhu = Ocean Friend: India's navy ships as friends across the sea.",
+    "hindi": [
+      "Cyclone (चक्रवात)",
+      "Volcano (ज्वालामुखी)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which operation did India launch in November 2025 to give relief to Sri Lanka after Cyclone Ditwah?",
+        "o": [
+          "Operation Sindhu",
+          "Operation Kaveri",
+          "Operation Amistad",
+          "Operation Sagar Bandhu"
+        ],
+        "k": 3,
+        "why": "India launched Operation Sagar Bandhu (Ocean Friend) as an HADR mission for Sri Lanka."
+      },
+      {
+        "q": "The Hayli Gubbi volcano, which erupted on 23 November 2025 for the first time in about 12,000 years, is in which country?",
+        "o": [
+          "Eritrea",
+          "Ethiopia",
+          "Djibouti",
+          "Kenya"
+        ],
+        "k": 1,
+        "why": "Hayli Gubbi is in Ethiopia's Afar region, near the Erta Ale volcanic range."
+      }
+    ]
+  },
+  "u0395": {
+    "gist": "Summary table of 2025 and 2026 international indices with India's ranks, e.g. Global Hunger 100th, Press Freedom 157th, Rule of Law 88th.",
+    "facts": [
+      "Human Development Report 2025 (UNDP): India 130 of 193; Iceland top.",
+      "Global Innovation Index 2025 (WIPO): India 38th; Corruption Perceptions Index 2025: India 91st.",
+      "Global Peace Index 2026: India 127th; Global Terrorism Index 2026: India 13th (Pakistan 1st).",
+      "Index of Economic Freedom 2026 (Heritage Foundation): India 132nd; Global Fire Power 2026: India 4th.",
+      "Sustainable Development Report 2026: India 94th of 169; Democracy Index 2025 (EIU): India 47th.",
+      "Nature Conservation Index 2025: India 172nd of 180; International IP Index 2026: 43rd of 55."
+    ],
+    "trap": "Don't mix the Global Peace Index (India 127th) with the Global Terrorism Index (India 13th).",
+    "hindi": [
+      "Human Development (मानव विकास)",
+      "Economic freedom (आर्थिक स्वतंत्रता)"
+    ],
+    "priority": 1,
+    "check": "Two 'Top Rankings' cells are still scrambled in print: Nature Conservation Index 2025 (Estonia/Luxembourg) and IP Index 2026 (United States/France).",
+    "mcq": [
+      {
+        "q": "In UNDP's Human Development Report 2025, what was India's rank among 193 countries?",
+        "o": [
+          "127",
+          "132",
+          "130",
+          "116"
+        ],
+        "k": 2,
+        "why": "UNDP's HDR 2025 placed India 130 out of 193; Iceland ranked first."
+      },
+      {
+        "q": "As per the 2026 rankings summary, which country ranked 1st in the Global Terrorism Index 2026?",
+        "o": [
+          "Burkina Faso",
+          "Niger",
+          "Pakistan",
+          "Afghanistan"
+        ],
+        "k": 2,
+        "why": "GTI 2026: 1. Pakistan, 2. Burkina Faso, 3. Niger; India was 13th."
+      }
+    ]
+  },
+  "u1302": {
+    "gist": "Joint US–Israeli strikes on February 28, 2026 widened the Iran–Israel war and killed Supreme Leader Ali Khamenei; his son Mojtaba succeeded him.",
+    "facts": [
+      "February 28, 2026 strikes: US called it Operation Epic Fury; Israel, Operation Roaring Lion; Iran replied 'True Promise'.",
+      "Supreme Leader Ali Khamenei (since 1989) killed; son Mojtaba, selected by Assembly of Experts, announced March 9, 2026.",
+      "June 2025: Israel's 12-day Operation Rising Lion; Iran hit back with Operation True Promise 3.",
+      "US 'Operation Midnight Hammer': B-2 bombers struck Fordow, Natanz and Isfahan; India launched Operation Sindhu.",
+      "Strait of Hormuz (Iran–Oman) links Persian Gulf to Arabian Sea; Kharg Island handles ~90% of Iran's crude exports.",
+      "Modi: first leader honoured by both Israel (Knesset Medal, February 25, 2026) and Palestine (Grand Collar, 2018)."
+    ],
+    "hook": "Lions are Israel's: Rising Lion (June 2025), Roaring Lion (February 2026). US names: Midnight Hammer, Epic Fury. Iran: True Promise.",
+    "trap": "Rising Lion (Israel, June 2025) vs Roaring Lion (Israel, February 2026): one word apart.",
+    "hindi": [
+      "Strait (जलडमरूमध्य)",
+      "Supreme Leader (सर्वोच्च नेता)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "What name did the United States give to the joint US–Israeli strikes on Iran on February 28, 2026?",
+        "o": [
+          "Operation Midnight Hammer",
+          "Operation Epic Fury",
+          "Operation Roaring Lion",
+          "Operation Rising Lion"
+        ],
+        "k": 1,
+        "why": "The US called it Operation Epic Fury; Israel called it Operation Roaring Lion."
+      },
+      {
+        "q": "PM Modi received Israel's Speaker of the Knesset Medal on February 25, 2026. Which honour had Palestine conferred on him in 2018?",
+        "o": [
+          "Agricola Medal",
+          "Great Honour Nishan",
+          "Oliy Darajali Do‘stlik Order",
+          "Grand Collar of the State of Palestine"
+        ],
+        "k": 3,
+        "why": "In 2018 Modi received the Grand Collar of the State of Palestine from Mahmoud Abbas."
+      }
+    ]
+  }
+}

@@ -1,0 +1,689 @@
+{
+"u0285": {
+  "gist": "The Supreme Court held that Section 498A IPC protection against cruelty can extend to women in live-in relationships 'in the nature of marriage'.",
+  "facts": [
+    "Case: Dr. Lokesh B.H. & Others v. State of Karnataka & Another; decided 3 August 2026.",
+    "Two conditions: relationship in the nature of marriage, and a genuine intention to marry.",
+    "The woman bears the initial burden of proving both conditions.",
+    "Section 498A IPC punished cruelty by husband or his relatives: up to three years and fine.",
+    "Under the Bharatiya Nyaya Sanhita (BNS), the matching offence is Section 85.",
+    "Indra Sarma v. V.K.V. Sarma (2013): live-in between consenting adults is not an offence."
+  ],
+  "hook": "498A IPC = 85 BNS (cruelty to a woman).",
+  "trap": "",
+  "hindi": ["Cruelty (क्रूरता)", "Live-in relationship (सहजीवन संबंध)"],
+  "priority": 1,
+  "mcq": [{"q": "Which section of the Bharatiya Nyaya Sanhita corresponds to Section 498A IPC (cruelty), discussed by the Supreme Court in August 2026?",
+           "o": ["Section 80", "Section 85", "Section 69", "Section 103"],
+           "k": 1, "why": "The corresponding offence of Section 498A IPC is Section 85 of the BNS."}]
+},
+"u0286": {
+  "gist": "The Union Cabinet approved Samudra Manthan, the National Offshore Exploration Scheme, to speed up oil and gas exploration in deepwater and frontier offshore basins.",
+  "facts": [
+    "Approved on July 31, 2026; Phase-I outlay ₹84,084 crore up to FY 2030–31.",
+    "Central Sector Scheme of the Ministry of Petroleum and Natural Gas.",
+    "Vision announced by PM Modi from the Red Fort on Independence Day 2025.",
+    "Aims to add more than 600 MMTOE (Million Metric Tonnes of Oil Equivalent) of hydrocarbon reserves.",
+    "₹43,200 crore for 60 wells; government covers up to 50%, capped at ₹675 crore per well.",
+    "Other parts: data acquisition ₹28,534 crore; common infrastructure hubs ₹10,000 crore; manufacturing zone ₹2,000 crore."
+  ],
+  "hook": "Samudra Manthan = churning of the ocean; here India 'churns' the sea-bed for oil and gas.",
+  "trap": "",
+  "check": "The four listed components add up to ₹83,734 crore, not the stated ₹84,084 crore.",
+  "hindi": ["Offshore (अपतटीय)", "Exploration (अन्वेषण)"],
+  "priority": 1,
+  "mcq": [{"q": "What is the Phase-I outlay of 'Samudra Manthan – National Offshore Exploration Scheme' approved by the Cabinet in July 2026?",
+           "o": ["₹43,200 crore", "₹28,534 crore", "₹1,27,500 crore", "₹84,084 crore"],
+           "k": 3, "why": "The Cabinet approved a Phase-I outlay of ₹84,084 crore up to FY 2030–31."}]
+},
+"u0287": {
+  "gist": "DoT and the Madhya Pradesh government signed an MoU on 30 July 2026 to set up India's first Telecom Manufacturing Zone at Gwalior.",
+  "facts": [
+    "Planned as a 350-acre plug-and-play industrial cluster; bhumi pujan due on October 29, 2026.",
+    "Centre approved ₹493 crore for Phase-I core infrastructure.",
+    "SPV equity: Madhya Pradesh government 51%, Department of Telecommunications 49%.",
+    "Will cover mobile phones, telecom equipment, optical fibre, semiconductors, components and 5G-6G technologies.",
+    "Investment expected to cross ₹10,000 crore in the second phase.",
+    "Mobile-phone production rose from ₹18,000 crore to ₹6.2 lakh crore (FY 2014-15 to FY 2025-26)."
+  ],
+  "hook": "",
+  "trap": "",
+  "check": "The last paragraph, on the Prevention of Insults to National Honour Act 1971, is unrelated to the Telecom Manufacturing Zone.",
+  "hindi": ["Telecommunications (दूरसंचार)", "Manufacturing (विनिर्माण)"],
+  "priority": 1,
+  "mcq": [{"q": "India's first Telecom Manufacturing Zone, for which an MoU was signed in July 2026, will be set up in which city?",
+           "o": ["Indore", "Bhopal", "Gwalior", "Jabalpur"],
+           "k": 2, "why": "DoT and Madhya Pradesh signed an MoU to set up India's first TMZ at Gwalior."}]
+},
+"u0288": {
+  "gist": "The Public Examinations (Prevention of Unfair Means) Amendment Act, 2026 sharply raises penalties for exam cheating and sets fast-track trials.",
+  "facts": [
+    "Introduced by Dr. Jitendra Singh (27 July); passed both Houses by 30 July; assent 31 July 2026.",
+    "Amends the 2024 Act; covers UPSC, SSC, Railway Recruitment Boards, IBPS, NTA and central ministries.",
+    "Individuals: jail raised from 3–5 to 5–10 years; maximum fine ₹10 lakh to ₹50 lakh.",
+    "Service providers: fine up to ₹5 crore (from ₹1 crore); debarment up to eight years (from four).",
+    "Organised crime: 7–10 years' jail and a minimum ₹10 crore fine.",
+    "Investigation within two months; Special Fast Track Courts to finish trials within three months of charge sheet."
+  ],
+  "hook": "",
+  "trap": "Individual's maximum fine ₹50 lakh; service provider's maximum ₹5 crore; organised crime minimum ₹10 crore.",
+  "hindi": ["Unfair means (अनुचित साधन)", "Public examination (सार्वजनिक परीक्षा)"],
+  "priority": 1,
+  "mcq": [{"q": "Under the Public Examinations (Prevention of Unfair Means) Amendment Act, 2026, what is the jail term for individuals using unfair means?",
+           "o": ["3–5 years", "7–10 years", "3–10 years", "5–10 years"],
+           "k": 3, "why": "For individuals, imprisonment increases from 3–5 years to 5–10 years."}]
+},
+"u0289": {
+  "gist": "The Education Ministry released PGI 2.0 for 2025–26 on 7 July 2026; only Chandigarh reached Uttam-3, and no State/UT reached the top three grades.",
+  "facts": [
+    "PGI-S covers all 36 States/UTs; PGI-D covers 784 districts.",
+    "PGI introduced 2017; first report 2019 (for 2017-18); PGI-S: 70 indicators, maximum 1,000 points.",
+    "Highest: Chandigarh (766.0), the only Uttam-3 (761-820); lowest: Meghalaya (525.7); gap 240.3.",
+    "Inter-State performance gap fell from 51% (2017-18) to 31.4% (2025-26).",
+    "No State/UT in the top grades Utkarsh (941-1000), Uttam-1 or Uttam-2.",
+    "Prachesta-1 (701-760): DNH&DD, Punjab, Kerala, Delhi; Uttar Pradesh among 13 in Akanshi-1 (521-580)."
+  ],
+  "hook": "Grade ladder, top to bottom: Utkarsh → Uttam → Prachesta → Akanshi.",
+  "trap": "PGI started in 2017, but the first report came in 2019 (reference year 2017-18).",
+  "hindi": ["Grading index (श्रेणीकरण सूचकांक)", "School education (विद्यालयी शिक्षा)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "In the Performance Grading Index 2.0 (2025–26) for States/UTs, which was the only State/UT to attain the Uttam-3 grade?",
+     "o": ["Kerala", "Punjab", "Delhi", "Chandigarh"],
+     "k": 3, "why": "Only Chandigarh fell in the Uttam-3 band (761-820), with the top score of 766.0."},
+    {"q": "In the Performance Grading Index 2.0 (2025–26), which State/UT recorded the lowest score?",
+     "o": ["Bihar", "Meghalaya", "Arunachal Pradesh", "Uttar Pradesh"],
+     "k": 1, "why": "Meghalaya recorded the lowest score, 525.7; Chandigarh the highest, 766.0."}
+  ]
+},
+"u0290": {
+  "gist": "The Education Ministry released AISHE reports on 8 July 2026; India's higher education GER rose to 30.0 in 2023–24, with female GER above male.",
+  "facts": [
+    "AISHE 2023–24 is the 14th edition; 64,756 institutions incl. 1,289 universities and 48,246 colleges.",
+    "Total enrolment about 4.5 crore (3.4 crore in 2014–15); women 49.7%; 76.8% at undergraduate level.",
+    "GER 30.0 (29.5 in 2022–23); male 28.9, female 31.2; Gender Parity Index 1.08.",
+    "Uttar Pradesh is first in the list of seven States with highest student enrolment.",
+    "58,134 foreign students from 173 countries; Nepal has the largest share.",
+    "18 women-only universities and 19 open universities; about 17.3 lakh teachers; Pupil-Teacher Ratio 23."
+  ],
+  "hook": "",
+  "trap": "Female GER (31.2) is higher than male GER (28.9), so GPI is above one (1.08).",
+  "hindi": ["Gross Enrolment Ratio (सकल नामांकन अनुपात)", "Higher education (उच्च शिक्षा)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "According to AISHE 2023–24, released in July 2026, what was India's Gross Enrolment Ratio in higher education?",
+     "o": ["29.5", "28.9", "30.0", "31.2"],
+     "k": 2, "why": "India's higher education GER increased to 30.0 in 2023–24 from 29.5 in 2022–23."},
+    {"q": "As per AISHE 2023–24, which country accounts for the highest share of foreign students in India?",
+     "o": ["Nepal", "Afghanistan", "Bangladesh", "Bhutan"],
+     "k": 0, "why": "Of 58,134 foreign students from 173 countries, Nepal had the highest share."}
+  ]
+},
+"u0291": {
+  "gist": "The UDISE+ Report 2025–26, released on 7 July 2026, shows more teachers, lower dropout and better school facilities such as computers and internet.",
+  "facts": [
+    "Teachers rose 8.3%: from 94,83,294 (2022–23) to 1,02,73,020 (2025–26).",
+    "Dropout fell: preparatory 2.3% to 1.8%; secondary 8.2% to 7.0% (2024–25 to 2025–26).",
+    "Secondary GER rose from 68.5% to 71.7%; secondary retention 47.2% to 51.9%.",
+    "Single-teacher schools fell to 1,00,843; zero-enrolment schools fell from 7,993 to 5,663.",
+    "Schools with computers 69.9% and internet 67.4% in 2025–26.",
+    "Girls are 48.4% of enrolment; female teachers 54.9% (2025–26)."
+  ],
+  "hook": "UDISE+ = Unified District Information System for Education Plus.",
+  "trap": "Middle-level GER fell slightly (90.3% to 89.6%) even as secondary GER rose.",
+  "hindi": ["Pupil-Teacher Ratio (छात्र-शिक्षक अनुपात)", "Dropout rate (ड्रॉपआउट दर)"],
+  "priority": 1,
+  "mcq": [{"q": "According to the UDISE+ Report 2025–26, what was the secondary-level dropout rate in 2025–26?",
+           "o": ["8.2%", "7.0%", "1.8%", "2.3%"],
+           "k": 1, "why": "The secondary-level dropout rate declined from 8.2% to 7.0%."}]
+},
+"u0292": {
+  "gist": "On 15 July 2026, the Cabinet approved two elevated highway corridors in Varanasi and the National Investment Policy for Urea-2026.",
+  "facts": [
+    "Two Varanasi corridors cost about ₹25,446 crore; built by NHAI under the Hybrid Annuity Model.",
+    "Part of the Varanasi Decongestion Plan; aligned with PM Gati Shakti National Master Plan.",
+    "43.218-km Varuna River corridor: NH-31 to Varanasi Ring Road, ₹10,998.32 crore.",
+    "46.039-km Ganga River corridor: NH-19 to Varanasi Ring Road, ₹14,447.64 crore.",
+    "NIPU-2026 updates the New Investment Policy, 2012, to achieve urea self-reliance.",
+    "Plans eight to nine new gas-based plants adding about 10 million tonnes yearly; returns on equity 12%–16%."
+  ],
+  "hook": "",
+  "trap": "Varuna corridor: 43.218 km, NH-31; Ganga corridor: 46.039 km, NH-19 – don't swap.",
+  "hindi": ["Self-reliance (आत्मनिर्भरता)", "Fertilizer (उर्वरक)"],
+  "priority": 1,
+  "mcq": [{"q": "The 46.039-km elevated corridor approved for Varanasi in July 2026 runs along which river?",
+           "o": ["Varuna", "Gomti", "Ganga", "Assi"],
+           "k": 2, "why": "The 46.039-km corridor along the Ganga will connect NH-19 to Varanasi Ring Road."}]
+},
+"u0293": {
+  "gist": "Delhi notified EV Policy 2.0 for 1 July 2026–31 March 2030, moving new registrations of three- and two-wheelers to electric only.",
+  "facts": [
+    "Cabinet approved it on June 29, 2026; CM Rekha Gupta defended the petrol two-wheeler cut-off.",
+    "From 1 January 2027: only electric three-wheelers and N1-category trucks will be registered.",
+    "From 1 April 2028: only electric two-wheelers registered; existing vehicles may complete their life.",
+    "School buses: at least 10% electric within two years; 30% by 31 March 2030.",
+    "Direct investment over ₹7,000 crore; overall plan ₹15,000 crore.",
+    "Target 32,000 public charging points (about 9,000 working); ₹1,000 crore for charging."
+  ],
+  "hook": "",
+  "trap": "Three-wheelers and N1 trucks go electric-only from 1 January 2027; two-wheelers from 1 April 2028.",
+  "hindi": ["Electric vehicle (विद्युत वाहन)", "Air quality (वायु गुणवत्ता)"],
+  "priority": 2,
+  "mcq": [{"q": "Under Delhi EV Policy 2.0, from which date will only electric two-wheelers be registered in Delhi?",
+           "o": ["1 January 2027", "1 July 2026", "1 April 2028", "31 March 2030"],
+           "k": 2, "why": "From 1 April 2028, only electric two-wheelers will be registered in Delhi."}]
+},
+"u0294": {
+  "gist": "The Department of Health Research released a draft National Health Research Policy 2026, updating the 2011 policy and proposing much higher public research spending.",
+  "facts": [
+    "DHR is under the Ministry of Health and Family Welfare; public comments invited until July 27, 2026.",
+    "Public health-research spending: about 0.024% of GDP in 2026–27.",
+    "Target: 0.072% by 2037 and 0.15% by 2047 – over six times today's level.",
+    "Even then it stays below the 0.27% weighted average of high-income countries.",
+    "Proposes a National Health Research Agenda and a National Health Research Stewardship Committee."
+  ],
+  "hook": "0.024 → 0.072 (2037) → 0.15 (2047): triple first, then over six times.",
+  "trap": "",
+  "hindi": ["Health research (स्वास्थ्य अनुसंधान)", "Draft policy (मसौदा नीति)"],
+  "priority": 1,
+  "mcq": [{"q": "The draft National Health Research Policy 2026 proposes raising public health-research spending to what share of GDP by 2047?",
+           "o": ["0.072%", "0.27%", "0.024%", "0.15%"],
+           "k": 3, "why": "It proposes 0.072% by 2037 and 0.15% by 2047, from about 0.024% now."}]
+},
+"u0295": {
+  "gist": "A TRG Datacenters study ranked India ninth among nearly 100 countries least vulnerable to a major internet blackout; the United States ranked first.",
+  "facts": [
+    "India's digital vulnerability score: 23.4; it is among the ten best-prepared countries.",
+    "India has 22 submarine internet cables and 40 Internet Exchange Points.",
+    "About 70% of India's population uses the internet.",
+    "USA best prepared (score zero), then Indonesia (10.3) and United Kingdom (16.2).",
+    "TRG Datacenters is a US-based digital infrastructure provider, acquired by Tallvine Partners."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": ["Digital infrastructure (डिजिटल अवसंरचना)"],
+  "priority": 2,
+  "mcq": [{"q": "In a TRG Datacenters study on internet blackout preparedness, at which position was India ranked globally?",
+           "o": ["Third", "Fifth", "Twelfth", "Ninth"],
+           "k": 3, "why": "India ranked ninth with a digital vulnerability score of 23.4."}]
+},
+"u0296": {
+  "gist": "NITI Aayog's roadmap aims to turn Ayurveda into a regulated, evidence-based global healthcare system, integrated into national health systems by 2047.",
+  "facts": [
+    "Prepared by NITI Aayog's Health Division with PricewaterhouseCoopers under its Research Scheme.",
+    "Linked to Viksit Bharat @2047 and 'One Earth, One Health'.",
+    "India has about 3,55,000 trained Ayurveda practitioners; research spans nearly 70 countries.",
+    "WHO Global Traditional Medicine Centre is in Jamnagar, Gujarat; ICD-11 includes Ayurveda, Siddha, Unani.",
+    "Proposed Global Ayurveda Register under the National Commission for Indian System of Medicine.",
+    "Ayush and herbal exports: USD 1.09 billion (2014) to USD 2.16 billion (2023)."
+  ],
+  "hook": "Ayush exports roughly doubled: 1.09 → 2.16 billion USD.",
+  "trap": "",
+  "hindi": ["Traditional medicine (पारंपरिक चिकित्सा)"],
+  "priority": 1,
+  "mcq": [{"q": "Where is the WHO Global Traditional Medicine Centre, mentioned in NITI Aayog's Ayurveda roadmap, located?",
+           "o": ["Jamnagar, Gujarat", "Jaipur, Rajasthan", "New Delhi", "Haridwar, Uttarakhand"],
+           "k": 0, "why": "The WHO Global Traditional Medicine Centre is in Jamnagar, Gujarat."}]
+},
+"u0297": {
+  "gist": "Ken-Betwa project-affected tribal families and farmers renewed protests on 3 July 2026 near Chhatarpur, saying promises made in April were unfulfilled.",
+  "facts": [
+    "Protest by the Barana River near Kupi village, Chhatarpur; included Jal, Faansi and Mitti Satyagrahas.",
+    "MP Cabinet raised the package by about ₹202.50 crore; compensation ₹5 lakh to ₹12.5 lakh per family.",
+    "Project launched by PM Modi on 25 December 2024; first of 30 river-linking projects (National Perspective Plan).",
+    "Moves surplus Ken water to the Betwa basin; helps Bundelkhand in MP and UP; both are Yamuna tributaries.",
+    "Phase I: 77-metre Daudhan Dam, two powerhouses, 216.46-km link canal with a 2-km tunnel.",
+    "Canal will irrigate 1,93,899 hectares en route; 50.93 MCM reaches Betwa for Lalitpur."
+  ],
+  "hook": "Ken (surplus) → Betwa (deficit); both rivers end up in the Yamuna.",
+  "trap": "Phase I = Daudhan Dam and link canal; Phase II = Lower Orr Dam, Kotha Barrage and Bina Complex.",
+  "hindi": ["River linking (नदी जोड़ो)", "Rehabilitation (पुनर्वास)"],
+  "priority": 1,
+  "mcq": [{"q": "Phase I of the Ken-Betwa Link Project, whose affected families protested in July 2026, proposes which 77-metre-high dam?",
+           "o": ["Rajghat Dam", "Lower Orr Dam", "Parichha Weir", "Daudhan Dam"],
+           "k": 3, "why": "Phase I proposes the 77-metre-high Daudhan Dam and a 216.46-km link canal."}]
+},
+"u0298": {
+  "gist": "PM Modi inaugurated Noida International Airport (Phase-1) at Jewar on 28 March 2026; commercial flights began on 15 June 2026.",
+  "facts": [
+    "DGCA aerodrome licence: March 6, 2026; first commercial flight: IndiGo, arriving from Lucknow.",
+    "Located in Jewar, Gautam Buddha Nagar district; built at ₹11,200 crore.",
+    "Cargo terminal opened; foundation stone laid for an MRO (Maintenance, Repair and Overhaul) facility.",
+    "Uttar Pradesh now has five international airports, among the highest in India.",
+    "Developer: Yamuna International Airport Private Limited, a 100% subsidiary of Zurich Airport International AG (PPP).",
+    "Project approved in 2003 under PM Atal Bihari Vajpayee; Akasa Air to set up its first MRO here."
+  ],
+  "hook": "",
+  "trap": "Licence 6 March, inauguration 28 March, commercial operations 15 June 2026 – three different dates.",
+  "hindi": ["Public–private partnership (सार्वजनिक-निजी भागीदारी)", "Airport (हवाई अड्डा)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Which company is developing Noida International Airport at Jewar, inaugurated in March 2026?",
+     "o": ["Adani Airport Holdings", "GMR Airports", "Yamuna International Airport Private Limited", "Airports Authority of India"],
+     "k": 2, "why": "YIAPL, a 100% subsidiary of Zurich Airport International AG, develops and operates it."},
+    {"q": "Which airline operated the first commercial flight to Noida International Airport on 15 June 2026?",
+     "o": ["IndiGo", "Akasa Air", "Air India", "SpiceJet"],
+     "k": 0, "why": "The first commercial flight, operated by IndiGo, arrived from Lucknow."}
+  ]
+},
+"u0299": {
+  "gist": "NCRB's ADSI 2024 report (released 6 May 2026) shows accidental deaths rose to 4,67,857 while suicides fell slightly to 1,70,746.",
+  "facts": [
+    "Accidental deaths: 4,44,104 (2023) to 4,67,857 (2024); rate 31.9 to 33.3.",
+    "Age group 30–45 years had the most accidental deaths: 1,46,370 (31.3%).",
+    "Forces of nature: 7,903 deaths; lightning 35.7%, heat/sunstroke 23.2%.",
+    "Maharashtra had the largest share of accidental deaths (16.2%); Uttar Pradesh 9.2%.",
+    "Road accidents caused 1,75,142 deaths (87.8% of traffic-accident deaths); 59.7% of road accidents were rural.",
+    "Suicide rate 12.2 per lakh; family problems 33.5% and illness 18.0% of suicides."
+  ],
+  "hook": "",
+  "trap": "Total accidental deaths (4,67,857) and number of road accidents (4,67,967) look alike but are different figures.",
+  "hindi": ["Accidental death (आकस्मिक मृत्यु)", "Suicide (आत्महत्या)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "According to NCRB's ADSI 2024 report, which state had the highest share of accidental deaths in 2024?",
+     "o": ["Uttar Pradesh", "Madhya Pradesh", "Maharashtra", "Tamil Nadu"],
+     "k": 2, "why": "Maharashtra had 16.2%, ahead of Madhya Pradesh (9.8%) and Uttar Pradesh (9.2%)."},
+    {"q": "As per ADSI 2024, what share of accidental deaths due to forces of nature was caused by lightning?",
+     "o": ["23.2%", "35.7%", "43.4%", "31.3%"],
+     "k": 1, "why": "Of 7,903 deaths due to forces of nature, 35.7% were due to lightning."}
+  ]
+},
+"u0300": {
+  "gist": "The Election Commission announced Phase III of the Special Intensive Revision of electoral rolls on 14 May 2026, covering 16 States and 3 Union Territories.",
+  "facts": [
+    "Began on May 30, 2026; about 3.94 lakh Booth Level Officers cover 36.73 crore electors.",
+    "Not covered in Phase III: Himachal Pradesh, Jammu and Kashmir, and Ladakh.",
+    "Legal basis: Articles 324 and 326; Sections 16, 19, 21 and 22 of RP Act, 1950.",
+    "SC (ADR v. ECI, 27 May 2026) held SIR is within ECI's statutory mandate.",
+    "Phase I: Bihar (June–September 2025); electors 7.89 crore to about 7.42 crore.",
+    "Phase II: nine States incl. UP and three UTs; about 50.99 crore to 45.81 crore (−10.2%)."
+  ],
+  "hook": "",
+  "trap": "Phase III = 16 States + 3 UTs; the first two phases together covered 13 States/UTs.",
+  "check": "Text says Odisha, Mizoram, Sikkim and Manipur publish final rolls on 6 September, but the table gives Odisha 21 September and Mizoram 7 September.",
+  "hindi": ["Electoral roll (मतदाता सूची)", "Booth Level Officer (बूथ स्तरीय अधिकारी)"],
+  "priority": 1,
+  "mcq": [{"q": "Which of the following was NOT covered in Phase III of the Special Intensive Revision announced in May 2026?",
+           "o": ["Himachal Pradesh", "Uttarakhand", "Haryana", "Karnataka"],
+           "k": 0, "why": "Phase III will not cover Himachal Pradesh, Jammu and Kashmir, and Ladakh."}]
+},
+"u0301": {
+  "gist": "2026 Assembly polls in West Bengal, Tamil Nadu, Kerala, Assam and Puducherry brought BJP to power in Bengal and TVK in Tamil Nadu.",
+  "facts": [
+    "Schedule announced March 15, 2026; polling in April; counting on May 4, 2026.",
+    "West Bengal: BJP won 208 of 294; Suvendu Adhikari first BJP CM (May 9, 2026); TMC 80.",
+    "Tamil Nadu: TVK won 108 of 234; C. Joseph Vijay CM (May 10); first non-DMK/AIADMK CM since 1967.",
+    "Kerala: UDF won 102 of 140; V.D. Satheesan (INC) sworn in May 18, 2026.",
+    "Assam: BJP 82 of 126; Himanta Biswa Sarma's second consecutive term (May 12, 2026).",
+    "Puducherry: NDA 18 of 30 (AINRC 12); N. Rangasamy sworn in May 13, 2026."
+  ],
+  "hook": "House sizes: West Bengal 294, Tamil Nadu 234, Kerala 140, Assam 126, Puducherry 30.",
+  "trap": "TVK won 108 seats, but Vijay had support of 120 MLAs-elect with allies.",
+  "check": "West Bengal 'combined provisional' turnout (93.7%) is higher than both phase figures (93.19%, 91.66%), which is not possible. Kerala Governor's name is misspelt 'Rajednra'.",
+  "hindi": ["Legislative Assembly (विधानसभा)", "Voter turnout (मतदान प्रतिशत)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Who became the first BJP Chief Minister of West Bengal after the 2026 Assembly elections?",
+     "o": ["N. Rangasamy", "Suvendu Adhikari", "V.D. Satheesan", "C. Joseph Vijay"],
+     "k": 1, "why": "Suvendu Adhikari took oath as the first BJP Chief Minister of West Bengal on May 9, 2026."},
+    {"q": "In the 2026 Tamil Nadu Assembly election, how many seats did Tamilaga Vettri Kazhagam (TVK) win?",
+     "o": ["120", "59", "108", "118"],
+     "k": 2, "why": "TVK won 108 of 234 seats; Vijay had support of 120 MLAs-elect."}
+  ]
+},
+"u0302": {
+  "gist": "NCRB's Crime in India 2024 report (6 May 2026) shows total crime fell about 6%, but cybercrime rose 17.9% to 1,01,928 cases.",
+  "facts": [
+    "Total cases: 58,85,867 in 2024, down from 62.41 lakh in 2023; crime rate 448.3 to 418.9.",
+    "Cybercrime: 1,01,928 cases (+17.9%); financial fraud 73,987 cases (72.6%).",
+    "Crimes against women fell 1.5% to 4.41 lakh; Uttar Pradesh highest with 66,398 cases.",
+    "'Cruelty by husband or his relatives' formed 27.2% (1,20,227 cases) of crimes against women.",
+    "UP also highest in crimes against SCs (14,642) and dowry deaths (2,057 victims); MP highest against STs (3,165).",
+    "Drug overdose deaths up 50% to 978 (Tamil Nadu highest, 313); Kerala top charge-sheeting (94.5%)."
+  ],
+  "hook": "",
+  "trap": "'4.41 lakh' appears twice: crimes against women (2024) and hurt-category cases (2024).",
+  "hindi": ["Crime rate (अपराध दर)", "Dowry death (दहेज मृत्यु)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "According to NCRB's Crime in India 2024 report, which state recorded the highest number of crimes against women?",
+     "o": ["Uttar Pradesh", "Maharashtra", "Rajasthan", "Madhya Pradesh"],
+     "k": 0, "why": "Uttar Pradesh reported the highest crimes against women, with 66,398 cases."},
+    {"q": "As per Crime in India 2024, what share of cybercrime cases related to financial fraud?",
+     "o": ["54%", "72.6%", "17.9%", "27.2%"],
+     "k": 1, "why": "73,987 of 1,01,928 cybercrime cases, or 72.6%, were financial fraud."}
+  ]
+},
+"u0303": {
+  "gist": "The Prevention of Insults to National Honour (Amendment) Act, 2026 makes disrupting the singing of 'Vande Mataram' a crime, like the National Anthem.",
+  "facts": [
+    "President Droupadi Murmu gave assent on August 11, 2026.",
+    "Cabinet approved on May 5, 2026; Lok Sabha passed it on July 30, 2026 (Rajya Sabha earlier).",
+    "Amends the Prevention of Insults to National Honour Act, 1971.",
+    "Section 3 penalty: jail up to three years, or fine, or both – now also for Vande Mataram.",
+    "Vande Mataram by Bankim Chandra Chatterjee: first in Bangadarshan (1875), later in Anandamath (1882).",
+    "Set to music by Rabindranath Tagore, who sang it at the 1896 INC session."
+  ],
+  "hook": "Bankim's song timeline: '75 Bangadarshan → '82 Anandamath → '96 Tagore sings at INC.",
+  "trap": "Rajya Sabha cleared the Bill before the Lok Sabha passed it (30 July 2026).",
+  "hindi": ["National Song (राष्ट्रगीत)", "National Anthem (राष्ट्रगान)"],
+  "priority": 1,
+  "mcq": [{"q": "'Vande Mataram', given legal protection by a 2026 amendment, was first published in 1875 in which publication?",
+           "o": ["Anandamath", "Amrita Bazar Patrika", "Sandhya", "Bangadarshan"],
+           "k": 3, "why": "It was first published in Bangadarshan (1875) and later included in Anandamath (1882)."}]
+},
+"u0304": {
+  "gist": "The Panchayati Raj Ministry released Panchayat Advancement Index 2.0 for FY 2023–24 on National Panchayati Raj Day, 24 April 2026.",
+  "facts": [
+    "PAI measures Gram Panchayat performance; it was earlier called Panchayat Development Index (PDI).",
+    "Nine themes, from poverty-free livelihoods to women-friendly Panchayat; PAI 2.0 portal launched May 26, 2025.",
+    "33 of 36 States/UTs took part; West Bengal was the only State left out.",
+    "2,59,867 Panchayats gave validated data (97.30% of 2,66,999).",
+    "No Panchayat reached A+ (Achiever, 90+); 3,635 were A-grade, Tripura the most (943).",
+    "Uttar Pradesh had the most B-grade/Performer (18,905) and most D-grade/Beginner (6,124) Panchayats."
+  ],
+  "hook": "Grades: A+ Achiever, A Front Runner, B Performer, C Aspirant, D Beginner.",
+  "trap": "Tripura leads A-grade; Uttar Pradesh leads both B-grade and D-grade counts.",
+  "hindi": ["Panchayati Raj (पंचायती राज)", "Index (सूचकांक)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Which state did not participate in the Panchayat Advancement Index 2.0 (FY 2023–24) released in April 2026?",
+     "o": ["Uttar Pradesh", "Tripura", "Manipur", "West Bengal"],
+     "k": 3, "why": "27 of 28 States took part; West Bengal was the only non-participating State."},
+    {"q": "In the Panchayat Advancement Index 2.0 (FY 2023–24), which state had the highest number of B-grade (Performer) Panchayats?",
+     "o": ["Gujarat", "Uttar Pradesh", "Madhya Pradesh", "Tamil Nadu"],
+     "k": 1, "why": "Uttar Pradesh had 18,905 B-grade Panchayats, ahead of Gujarat with 11,963."}
+  ]
+},
+"u0305": {
+  "gist": "The Health Ministry launched JANANI, a digital platform tracking care of mothers and newborns, upgrading the old Reproductive and Child Health portal.",
+  "facts": [
+    "JANANI = Journey of Antenatal, Natal and Neonatal Integrated Care.",
+    "Launched at the National Summit on Innovation and Inclusivity.",
+    "Builds a longitudinal (over-time) health record: antenatal, delivery, postnatal, newborn care, family planning.",
+    "Key feature: QR-enabled digital Mother and Child Health (MCH) cards.",
+    "Can integrate with U-WIN and POSHAN platforms.",
+    "So far: 1.34 crore registrations, over 30 lakh pregnant women, over 30 lakh digital MCH cards."
+  ],
+  "hook": "JANANI (जननी = mother): a platform for mothers and newborns.",
+  "trap": "",
+  "hindi": ["Antenatal care (प्रसवपूर्व देखभाल)", "Maternal health (मातृ स्वास्थ्य)"],
+  "priority": 1,
+  "mcq": [{"q": "JANANI, launched by the Ministry of Health and Family Welfare in 2026, is an upgraded version of which existing portal?",
+           "o": ["U-WIN", "Reproductive and Child Health portal", "POSHAN Tracker", "Ayushman Bharat Digital Mission"],
+           "k": 1, "why": "JANANI is an upgraded version of the existing Reproductive and Child Health portal."}]
+},
+"u0306": {
+  "gist": "The Constitution (131st Amendment) Bill, 2026, to enlarge the Lok Sabha and restart delimitation, failed in the Lok Sabha on 17 April 2026.",
+  "facts": [
+    "Introduced 16 April 2026; got 298 votes for and 230 against.",
+    "With 528 present and voting, 352 votes were needed (special majority).",
+    "Proposed raising maximum Lok Sabha strength from 550 to 850 (815 from States, 35 from UTs).",
+    "Amendments proposed to Articles 81, 82 and 170, and a new definition of 'population'.",
+    "'Population' would mean the census chosen by Parliament by law; Delimitation Commission to redraw seats.",
+    "Aims included earlier implementation of one-third reservation for women."
+  ],
+  "hook": "815 (States) + 35 (UTs) = 850 seats.",
+  "trap": "More yes than no votes (298 vs 230), yet the Bill failed because 352 votes were required.",
+  "hindi": ["Delimitation (परिसीमन)", "Special majority (विशेष बहुमत)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "The Constitution (131st Amendment) Bill, 2026 proposed raising the maximum strength of the Lok Sabha from 550 to what?",
+     "o": ["815", "850", "750", "800"],
+     "k": 1, "why": "An amendment to Article 81 proposed raising maximum Lok Sabha strength from 550 to 850."},
+    {"q": "How many votes were required for the Constitution (131st Amendment) Bill, 2026 to pass in the Lok Sabha on 17 April 2026?",
+     "o": ["298", "265", "352", "528"],
+     "k": 2, "why": "With 528 members present and voting, 352 votes were required; it got only 298."}
+  ]
+},
+"u0307": {
+  "gist": "MoEFCC notified the Plastic Waste Management (Amendment) Rules, 2026 on 31 March 2026, refining definitions and making recycled-content labels mandatory.",
+  "facts": [
+    "They amend, not replace, the Plastic Waste Management Rules, 2016.",
+    "End-of-Life Disposal now includes co-processing, waste-to-energy, waste-to-oil and road construction.",
+    "Turning plastic into feedstock or new plastic counts strictly as recycling, not disposal.",
+    "Plastic Waste Processors now include recyclers and end-of-life disposal entities.",
+    "New terms: Registered Environment Auditor, Reuse and Seller.",
+    "Recycled plastic packaging must meet IS 14534:2023 and carry recycled-content labels."
+  ],
+  "hook": "",
+  "trap": "Feedstock or new plastic = recycling; energy recovery (waste-to-energy, road building) = end-of-life disposal.",
+  "hindi": ["Plastic waste (प्लास्टिक अपशिष्ट)", "Recycling (पुनर्चक्रण)"],
+  "priority": 1,
+  "mcq": [{"q": "Under the Plastic Waste Management (Amendment) Rules, 2026, recycled plastic packaging must comply with which Indian Standard?",
+           "o": ["IS 14534:2023", "IS 9833:2018", "IS 17088:2021", "IS 10500:2012"],
+           "k": 0, "why": "All recycled plastic packaging must comply with Indian Standard IS 14534:2023."}]
+},
+"u0308": {
+  "gist": "MHA released PRAHAAR, India's first national counter-terrorism policy and strategy, on 23 February 2026, for a uniform, technology-aware response to terror.",
+  "facts": [
+    "Strategy was announced in November 2024; came after the April 2025 Pahalgam terror attack.",
+    "Covers terrorism, terror financing, radicalisation, cyberattacks, drone threats and attacks on critical infrastructure.",
+    "Threats seen across land, air and water, plus the cyber domain.",
+    "Names Al-Qaeda and ISIS as using sleeper cells and propaganda; notes cross-border sponsored terrorism.",
+    "Flags drones, encrypted apps, dark web and crypto wallets used by terror groups.",
+    "CBRNED = Chemical, Biological, Radiological, Nuclear, Explosive and Digital materials."
+  ],
+  "hook": "CBRNED = CBRN + E (Explosive) + D (Digital).",
+  "trap": "",
+  "hindi": ["Counter-terrorism (आतंकवाद-रोधी)", "Radicalisation (कट्टरपंथीकरण)"],
+  "priority": 1,
+  "mcq": [{"q": "What is the name of India's first national counter-terrorism policy and strategy released by MHA in February 2026?",
+           "o": ["KAVACH", "SUDARSHAN", "PRAHAAR", "TRISHUL"],
+           "k": 2, "why": "MHA released India's first national counter-terrorism policy, PRAHAAR, on 23 February 2026."}]
+},
+"u0309": {
+  "gist": "Karnataka and Andhra Pradesh announced plans on 6 March 2026 to restrict children's social media use, as Australia already bars under-16 accounts.",
+  "facts": [
+    "Karnataka (Budget speech): social media ban for children below 16.",
+    "Andhra Pradesh: bar children below 13 within 90 days; considering rules for 13–16.",
+    "Economic Survey 2025–26 recommended age-based limits and stronger platform responsibility.",
+    "NHRC discussed the issue on March 16, 2026 (press release March 18).",
+    "Australia's Online Safety Amendment (Social Media Minimum Age) Act, 2024 applies from 10 December 2025.",
+    "Under it, platforms must take reasonable steps to stop under-16s from holding accounts."
+  ],
+  "hook": "",
+  "trap": "Karnataka: below 16; Andhra Pradesh: below 13 – don't swap.",
+  "hindi": ["Child safety (बाल सुरक्षा)"],
+  "priority": 2,
+  "mcq": [{"q": "Which Indian state announced in its March 2026 Budget speech a ban on social media for children below 16?",
+           "o": ["Andhra Pradesh", "Kerala", "Karnataka", "Tamil Nadu"],
+           "k": 2, "why": "On March 6, 2026, Karnataka announced a social media ban for children below 16."}]
+},
+"u0310": {
+  "gist": "Raksha Mantri Rajnath Singh released 'Defence Forces Vision 2047' on 10 March 2026, a roadmap for a future-ready, integrated, self-reliant military.",
+  "facts": [
+    "Released at South Block, New Delhi; prepared by Headquarters Integrated Defence Staff (HQ IDS).",
+    "Ministry of Defence declared 2025 the 'Year of Reforms'.",
+    "Era of Transition (till 2030): restructuring, deterrence, indigenous drones and surveillance.",
+    "Era of Consolidation (2030–2040): cyber and space integration; layered air and missile defence.",
+    "Era of Excellence (2040–2047): fully integrated, self-reliant, all-domain force."
+  ],
+  "hook": "T-C-E: Transition (to 2030) → Consolidation (to 2040) → Excellence (to 2047).",
+  "trap": "",
+  "hindi": ["Self-reliant (आत्मनिर्भर)", "Defence (रक्षा)"],
+  "priority": 1,
+  "mcq": [{"q": "Under 'Defence Forces Vision 2047', released in March 2026, what is the 2030–2040 phase called?",
+           "o": ["Era of Consolidation", "Era of Transition", "Era of Excellence", "Era of Integration"],
+           "k": 0, "why": "The Era of Consolidation (2030–2040) deepens cyber and space integration."}]
+},
+"u0311": {
+  "gist": "On 10 March 2026 the Cabinet approved Jal Jeevan Mission 2.0, shifting it from building infrastructure to a service-based drinking water model.",
+  "facts": [
+    "Total outlay ₹8.69 lakh crore; Centre's share ₹3.59 lakh crore (₹1.51 lakh crore extra).",
+    "Target: tap connections to all 19.36 crore rural households by December 2028.",
+    "About 15.80 crore households (81.61%) have tap water as of March 2026; 3.23 crore (17%) in 2019.",
+    "'Sujalam Bharat' digital platform gives each village a unique Sujal village ID.",
+    "Gram Panchayats certify 'Har Ghar Jal' only after operation and maintenance is ensured; 'Jal Utsav' yearly.",
+    "JJM launched on 15 August 2019, aiming at tap water for every rural household by 2024."
+  ],
+  "hook": "Centre's share: old 2.08 + extra 1.51 = 3.59 lakh crore.",
+  "trap": "Total ₹8.69 lakh crore vs Centre's ₹3.59 lakh crore. 'Jal Arpan' = Panchayat participation; 'Jal Utsav' = annual programme.",
+  "hindi": ["Drinking water (पेयजल)", "Tap connection (नल कनेक्शन)"],
+  "priority": 1,
+  "mcq": [{"q": "Under Jal Jeevan Mission 2.0, approved in March 2026, by when should all rural households get tap water connections?",
+           "o": ["March 2027", "December 2028", "August 2029", "March 2030"],
+           "k": 1, "why": "Target: tap connections to all 19.36 crore rural households by December 2028."}]
+},
+"u0312": {
+  "gist": "The Union Cabinet approved the Regional Connectivity Scheme – Revised (Modified) UDAN on 25 March 2026 for ten years, costing ₹28,840 crore.",
+  "facts": [
+    "Period: FY 2026–27 to 2035–36; funded by Government of India budget support.",
+    "Plans 100 airports from existing unserved airstrips; ₹12,159 crore over eight years.",
+    "O&M support for three years: up to ₹3.06 crore per airport and ₹0.90 crore per heliport/water aerodrome yearly.",
+    "About ₹2,577 crore proposed for around 441 aerodromes.",
+    "UDAN launched October 2016 to make flying affordable and link Tier-2 and Tier-3 cities.",
+    "By June 2026: 665 routes, 95 airports/heliports/water aerodromes; 1.64 crore passengers on 3.5 lakh+ flights."
+  ],
+  "hook": "",
+  "trap": "Title says 'Modified UDAN', text says 'Revised UDAN' – same scheme, ₹28,840 crore, approved 25 March 2026.",
+  "hindi": ["Regional connectivity (क्षेत्रीय संपर्क)", "Airstrip (हवाई पट्टी)"],
+  "priority": 1,
+  "mcq": [{"q": "Under the Revised UDAN scheme approved in March 2026, how many airports are to be developed from unserved airstrips?",
+           "o": ["100", "50", "200", "441"],
+           "k": 0, "why": "It proposes developing 100 airports from existing unserved airstrips, with ₹12,159 crore."}]
+},
+"u0313": {
+  "gist": "India celebrated its 77th Republic Day in 2026 at Kartavya Path with the theme '150 years of Vande Mataram'; two EU leaders were Chief Guests.",
+  "facts": [
+    "Chief Guests: Antonio Costa (European Council President) and Ursula von der Leyen (European Commission President).",
+    "30 tableaux: 17 from States/UTs and 13 from Union Ministries.",
+    "Sub-themes: 'Swatantrata ka Mantra – Vande Mataram' and 'Samriddhi ka Mantra – Atmanirbhar Bharat'.",
+    "Best State tableaux (judges): Maharashtra (Ganeshotsav) first, then Jammu & Kashmir and Kerala.",
+    "Best Ministry tableau: Ministry of Culture; Special Prize: Central Public Works Department.",
+    "Popular Choice (MyGov poll): Gujarat first, Uttar Pradesh (Culture of Bundelkhand) second, Rajasthan third."
+  ],
+  "hook": "",
+  "trap": "Judges' best tableau = Maharashtra; Popular Choice best = Gujarat (UP second).",
+  "hindi": ["Tableau (झांकी)", "Republic Day (गणतंत्र दिवस)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Which state's tableau won first place in the Popular Choice category at Republic Day 2026?",
+     "o": ["Uttar Pradesh", "Maharashtra", "Rajasthan", "Gujarat"],
+     "k": 3, "why": "In the MyGov Popular Choice poll, Gujarat was first, followed by Uttar Pradesh and Rajasthan."},
+    {"q": "What was the theme of India's 77th Republic Day celebrations in 2026?",
+     "o": ["150 years of Vande Mataram", "Viksit Bharat", "Swarnim Bharat: Virasat aur Vikas", "Nari Shakti"],
+     "k": 0, "why": "The 77th Republic Day was celebrated with the theme '150 years of Vande Mataram'."}
+  ]
+},
+"u0314": {
+  "gist": "On 29 January 2026 the Supreme Court put the UGC Equity Regulations, 2026 in abeyance, keeping the 2012 regulations in force for now.",
+  "facts": [
+    "Court flagged vagueness, possible misuse and exclusion in the 2026 Regulations.",
+    "The Regulations followed SC directions in Abeda Salim Tadvi v. Union of India (2019).",
+    "A Bench of Justices Surya Kant and Ujjal Bhuyan had directed UGC to notify enforceable rules.",
+    "Caste discrimination defined to cover SCs, STs and OBCs.",
+    "Every institution must set up an Equal Opportunity Centre with an Equity Committee headed by the institution head.",
+    "Equity Committee meets within 24 hours, reports in 15 working days; head acts within 7 days."
+  ],
+  "hook": "24 hours – 15 working days – 7 days: meet, report, act.",
+  "trap": "",
+  "hindi": ["Discrimination (भेदभाव)", "Equity (समता)"],
+  "priority": 1,
+  "mcq": [{"q": "Which regulations continue to operate after the Supreme Court kept the UGC Equity Regulations, 2026 in abeyance in January 2026?",
+           "o": ["UGC Regulations, 2018", "UGC Equity Regulations, 2019", "UGC Equity Regulations, 2012", "UGC Anti-Ragging Regulations, 2009"],
+           "k": 2, "why": "The Court directed that the older 2012 UGC Equity Regulations would continue for now."}]
+},
+"u0315": {
+  "gist": "NITI Aayog and GIZ India released 'Water Budgeting in Aspirational Blocks', studying water supply and demand in 18 blocks to improve local water security.",
+  "facts": [
+    "Covers 18 Aspirational Blocks in 10 States and a UT, using a digital water-budgeting platform.",
+    "Severe deficits: Namchi (94%), Gangiri (60%), Baldeogarh (53%).",
+    "Kotri and Abu Road (Rajasthan) over-extract groundwater beyond recharge.",
+    "Fatehpur (Bihar) generates runoff but fails to use the stored water well.",
+    "Aligned with the vision of Viksit Bharat@2047."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": ["Groundwater (भूजल)", "Water security (जल सुरक्षा)"],
+  "priority": 2,
+  "mcq": [{"q": "In NITI Aayog's report 'Water Budgeting in Aspirational Blocks', which block was reported with a 94% water deficit?",
+           "o": ["Gangiri", "Baldeogarh", "Namchi", "Kotri"],
+           "k": 2, "why": "The report lists Namchi with a 94% water deficit."}]
+},
+"u0316": {
+  "gist": "NDA won 202 of 243 seats in the 2025 Bihar Assembly election; Nitish Kumar became CM for the 10th time, then Samrat Chaudhary in 2026.",
+  "facts": [
+    "Polling in two phases: 6 and 11 November 2025 (121 and 122 seats); counting 14 November.",
+    "Turnout 67.25%, the highest since 1951; women 71.77%, men 62.73%.",
+    "BJP largest party with 89 seats; JD(U) 85; Mahagathbandhan reduced to 35.",
+    "RJD won 25 seats but had the highest vote share (23%).",
+    "Nitish Kumar sworn in on 20 November 2025 (10th time); resigned on 14 April 2026.",
+    "Samrat Chaudhary became Bihar's first BJP Chief Minister on 15 April 2026."
+  ],
+  "hook": "",
+  "trap": "Largest party by seats = BJP (89); highest vote share = RJD (23%).",
+  "check": "The new CM's surname is spelt both 'Choudhary' and 'Chaudhary' in the text.",
+  "hindi": ["Voter turnout (मतदान प्रतिशत)", "Chief Minister (मुख्यमंत्री)"],
+  "priority": 2,
+  "mcq": [{"q": "Who became the first Chief Minister of Bihar from the BJP, taking oath on 15 April 2026?",
+           "o": ["Vijay Kumar Sinha", "Nitish Kumar", "Maithili Thakur", "Samrat Chaudhary"],
+           "k": 3, "why": "Samrat Chaudhary took oath on April 15, 2026 as Bihar's first BJP Chief Minister."}]
+},
+"u0317": {
+  "gist": "Kashi Tamil Sangamam 4.0 was held in Varanasi from 2 to 15 December 2025, focusing on Tamil language learning and youth engagement.",
+  "facts": [
+    "Theme: 'Let Us Learn Tamil – Tamil Karkalam'.",
+    "Valedictory ceremony on 30 December 2025 with Vice President C.P. Radhakrishnan.",
+    "Anchored by the Ministry of Education; IIT Madras and BHU are principal knowledge partners.",
+    "Aligned with Ek Bharat Shreshtha Bharat; Government of Uttar Pradesh also takes part.",
+    "KTS 1.0: 2022; KTS 2.0: Dec 2023 at Namo Ghat; KTS 3.0: Feb 2025 on Sage Agastya."
+  ],
+  "hook": "Tamil Karkalam = 'Let us learn Tamil'.",
+  "trap": "",
+  "check": "Event dates are given as 2–15 December 2025, but the valedictory ceremony is dated 30 December 2025.",
+  "hindi": ["Cultural exchange (सांस्कृतिक आदान-प्रदान)"],
+  "priority": 1,
+  "mcq": [{"q": "What was the theme of Kashi Tamil Sangamam 4.0, held in Varanasi in December 2025?",
+           "o": ["Ek Bharat Shreshtha Bharat", "Sage Agastya", "Knowledge Bridge", "Let Us Learn Tamil – Tamil Karkalam"],
+           "k": 3, "why": "KTS 4.0 focused on Tamil learning under the theme 'Let Us Learn Tamil – Tamil Karkalam'."}]
+},
+"u0318": {
+  "gist": "The Cabinet approved Census 2027 on 12 December 2025 at ₹11,718.24 crore; it will be India's 16th Census and the first by digital means.",
+  "facts": [
+    "Eighth Census since Independence; the last completed Census was in 2011.",
+    "Census is a Union subject: Entry 69, Union List, Seventh Schedule; Census Act, 1948.",
+    "Phase I Houselisting: 1 April–30 September 2026; Phase II Population Enumeration: February 2027.",
+    "Reference date: 00:00 hours, 1 March 2027 (Ladakh and snow-bound areas enumerated September 2026).",
+    "Caste enumeration included (CCPA decision, April 30, 2025); 40-question schedule, Question 10 on caste.",
+    "Registrar General (under MHA) runs it; Android/iOS apps; about 30 lakh field staff; optional online self-enumeration."
+  ],
+  "hook": "16th Census, 8th after Independence; the count 'freezes' at midnight, 1 March 2027.",
+  "trap": "Approval date (12 December 2025) is not the reference date (00:00 hours, 1 March 2027). Census 2021 was postponed after COVID-19.",
+  "hindi": ["Census (जनगणना)", "Caste enumeration (जाति गणना)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Under which entry of the Union List is the Census a Union subject, as noted for Census 2027?",
+     "o": ["Entry 69", "Entry 94", "Entry 97", "Entry 81"],
+     "k": 0, "why": "The Census is a Union subject under Entry 69 of the Union List, Seventh Schedule."},
+    {"q": "What is the general reference date for Census 2027, approved by the Cabinet in December 2025?",
+     "o": ["1 October 2026", "00:00 hours, 1 March 2027", "1 April 2026", "12 December 2025"],
+     "k": 1, "why": "The reference date is generally 00:00 hours on 1 March 2027."}
+  ]
+},
+"u0319": {
+  "gist": "Round-up of national news: Yoga Day 2026 in Kolkata, Keralam rename approval, PM-RAHAT, BHASHINI, UP's Gharauni Act and the Ayodhya Dharma Dhwaja.",
+  "facts": [
+    "12th International Yoga Day (21 June 2026): Kolkata, Red Road; theme 'Yoga for Healthy Ageing'; Guinness record.",
+    "Cabinet approved renaming 'Kerala' as 'Keralam' on 24 February 2026 (Assembly resolution: 24 June 2024).",
+    "PM-RAHAT (launched 13 February 2026): treatment cover up to ₹1.5 lakh per accident victim for 7 days.",
+    "UP Rural Abadi Records (Gharauni) Act: Governor's assent 2 January 2026; gives legal basis to SVAMITVA property cards.",
+    "BHASHINI (BHASHa INterface for India): 36+ text languages, 22+ voice languages, 350+ AI models.",
+    "Ayodhya, 25 November 2025: PM hoisted Dharma Dhwaja (10 ft × 20 ft) on Ram Temple Shikhara."
+  ],
+  "hook": "",
+  "trap": "PM-RAHAT was launched on 13 February 2026 but got its official name by notification on 19 February 2026.",
+  "check": "PM-RAHAT is said to be notified on 5 May 2025, before its 13 February 2026 launch.",
+  "hindi": ["Manuscript (पांडुलिपि)", "Road accident (सड़क दुर्घटना)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Where was the main event of the 12th International Yoga Day held on 21 June 2026?",
+     "o": ["Visakhapatnam", "Kolkata", "Srinagar", "Lucknow"],
+     "k": 1, "why": "PM Modi joined the main event at Red Road, Kolkata, on June 21, 2026."},
+    {"q": "Uttar Pradesh's 'Gharauni Act' (assented January 2026) gives legal backing to property records made under which scheme?",
+     "o": ["SVAMITVA", "PM-KISAN", "DILRMP", "Bhu-Aadhaar"],
+     "k": 0, "why": "It institutionalises rural property records prepared through drone surveys under the SVAMITVA Scheme."}
+  ]
+}
+}

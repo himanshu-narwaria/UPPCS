@@ -1,0 +1,616 @@
+{
+ "u0523": {
+  "gist": "UNEP's 17th Emissions Gap Report, 'The Point of Return' (October 21, 2026), says crossing 1.5°C is now unavoidable; India is the third-largest emitter.",
+  "facts": [
+   "Global emissions: 58.4 GtCO2e in 2025 vs a revised 58.5 GtCO2e in 2024; no confirmed peak.",
+   "Cuts needed from 2025 levels: 18% by 2030, 45% by 2035, 69% by 2040.",
+   "Full NDC implementation gives only 5–8% cuts by 2030 and 11–15% by 2035.",
+   "India: 4.5 billion tonnes CO2e in 2025, third after China and the United States (excluding LULUCF).",
+   "India per person: 3.1 tonnes vs global average 6.4 tonnes; lowest among six largest emitters.",
+   "India and China together hold 95% of coal-power capacity under construction worldwide."
+  ],
+  "hook": "India: third in total (4.5 billion tonnes) but lowest per person (3.1 tonnes): big country, small footprint per head.",
+  "trap": "58.4 Gt = 2025 global emissions; 58.5 Gt = revised 2024 figure. 76% appears twice: G20 share of emissions and share covered by 124 Parties' updated NDCs.",
+  "hindi": [
+   "Emissions gap (उत्सर्जन अंतराल)",
+   "Greenhouse gas (ग्रीनहाउस गैस)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to UNEP's Emissions Gap Report 2026, what were India's greenhouse gas emissions per person in 2025?",
+    "o": [
+     "6.4 tonnes CO2e",
+     "4.5 tonnes CO2e",
+     "3.1 tonnes CO2e",
+     "3.6 tonnes CO2e"
+    ],
+    "k": 2,
+    "why": "India emitted 3.1 tonnes per person in 2025; the global average was 6.4 tonnes."
+   },
+   {
+    "q": "Per UNEP's Emissions Gap Report 2026, by how much must global emissions fall by 2035 compared with 2025 levels?",
+    "o": [
+     "18%",
+     "45%",
+     "69%",
+     "76%"
+    ],
+    "k": 1,
+    "why": "Required cuts from 2025 levels: 18% by 2030, 45% by 2035, 69% by 2040."
+   }
+  ]
+ },
+ "u0524": {
+  "gist": "On October 15, 2026, Sauj Lake (Uttar Pradesh) and Sukhna Wetland (Chandigarh) became Ramsar Sites, taking India's total to 103.",
+  "facts": [
+   "103rd: Sauj Lake, Mainpuri district, UP; Ganga floodplain, near Saman Bird Sanctuary.",
+   "102nd: Sukhna Wetland, edge of Chandigarh, at the base of the Outer Himalayas.",
+   "101st: Glaw Lake (Glaw Tuwi), Lohit district; Arunachal Pradesh's first Ramsar Site (3 August 2026).",
+   "100th: Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia, UP (5 June 2026).",
+   "Grew from 26 sites (2014) to 103 (2026); India third globally after UK (176) and Mexico (144).",
+   "Most sites: Tamil Nadu (20); largest: Sundarbans; smallest: Vembannur; first: Chilika and Keoladeo (1981)."
+  ],
+  "hook": "UP bookends: 100th (Surha Tal, Ballia) and 103rd (Sauj Lake, Mainpuri) are both in Uttar Pradesh.",
+  "trap": "Order: Glaw Lake = 101st (Arunachal) → Sukhna = 102nd (Chandigarh) → Sauj Lake = 103rd (UP).",
+  "hindi": [
+   "Wetland (आर्द्रभूमि)",
+   "Floodplain (बाढ़ का मैदान)"
+  ],
+  "priority": 1,
+  "check": "Heading dates Sukhna Wetland 'March 16, 2026', but the text says it was added on October 15, 2026.",
+  "mcq": [
+   {
+    "q": "Sauj Lake, declared India's 103rd Ramsar Site in October 2026, is in which district of Uttar Pradesh?",
+    "o": [
+     "Mainpuri",
+     "Ballia",
+     "Etah",
+     "Varanasi"
+    ],
+    "k": 0,
+    "why": "Sauj Lake, the 103rd Ramsar Site, is in Mainpuri district of Uttar Pradesh."
+   },
+   {
+    "q": "Which wetland became Arunachal Pradesh's first Ramsar Site when announced as India's 101st on 3 August 2026?",
+    "o": [
+     "Sukhna Wetland",
+     "Sauj Lake",
+     "Surha Tal",
+     "Glaw Lake"
+    ],
+    "k": 3,
+    "why": "Glaw Lake (Glaw Tuwi) in Lohit district was the 101st site and Arunachal's first."
+   }
+  ]
+ },
+ "u0525": {
+  "gist": "PM Modi inaugurated India's first Petroglyph Conservation Park at Sindhu Ghat, Leh, on October 15, 2026, to protect Ladakh's ancient rock art.",
+  "facts": [
+   "India's first Petroglyph Conservation Park → Sindhu Ghat, Leh (Ladakh).",
+   "Inaugurated by PM Modi on October 15, 2026.",
+   "Petroglyphs are ancient rock carvings.",
+   "The open-air park protects carvings from erosion, infrastructure expansion and unregulated tourism."
+  ],
+  "hook": "Petro = rock, glyph = carving: petroglyph = rock carving.",
+  "trap": "",
+  "hindi": [
+   "Rock art (शैल कला)",
+   "Archaeological heritage (पुरातात्विक विरासत)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was India's first Petroglyph Conservation Park inaugurated by PM Modi in October 2026?",
+    "o": [
+     "Kargil, Ladakh",
+     "Hanle, Ladakh",
+     "Nubra, Ladakh",
+     "Sindhu Ghat, Leh"
+    ],
+    "k": 3,
+    "why": "PM Modi inaugurated it at Sindhu Ghat in Leh on October 15, 2026."
+   }
+  ]
+ },
+ "u0526": {
+  "gist": "The Kigali Amendment to the Montreal Protocol, which phases down climate-warming HFCs used in cooling, marked its 10th anniversary on October 15, 2026.",
+  "facts": [
+   "Adopted at Kigali on October 15, 2016; entered into force in January 2019.",
+   "Aim: phase down HFCs; could avoid about 0.3–0.5°C of warming by 2100.",
+   "HFCs don't harm the ozone layer but warm hundreds or thousands of times more than CO2.",
+   "Called 'phase-down', not phase-out, because limited HFC use can continue.",
+   "India ratified in 2021: freeze by 2028, 10% cut by 2032, 85% cut by 2047.",
+   "Montreal Protocol (1987) phased out CFCs; nearly 99% of controlled ozone-depleting substances eliminated."
+  ],
+  "hook": "India's Kigali ladder: 2028 freeze → 2032 cut 10% → 2047 cut 85%.",
+  "trap": "Montreal Protocol (1987) = ozone-depleting substances like CFCs (phase-out); Kigali Amendment (2016) = HFCs (phase-down).",
+  "hindi": [
+   "Ozone layer (ओजोन परत)",
+   "Phase-down (चरणबद्ध कमी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under its Kigali Amendment commitments, by which year must India achieve an 85% reduction in HFCs?",
+    "o": [
+     "2028",
+     "2032",
+     "2047",
+     "2035"
+    ],
+    "k": 2,
+    "why": "India: freeze in 2028, 10% cut by 2032 and 85% reduction by 2047."
+   },
+   {
+    "q": "Which countries proposed in 2009 bringing HFCs under the Montreal Protocol, leading to the Kigali Amendment?",
+    "o": [
+     "Micronesia and Mauritius",
+     "Rwanda and Kenya",
+     "India and China",
+     "Maldives and Fiji"
+    ],
+    "k": 0,
+    "why": "The Federated States of Micronesia and Mauritius made the proposal in 2009."
+   }
+  ]
+ },
+ "u0527": {
+  "gist": "On 30 September 2026, the Union Cabinet approved Green Energy Corridor Phase III to strengthen state transmission networks and add battery storage for renewable power.",
+  "facts": [
+   "Approved by the Union Cabinet on 30 September 2026; target completion FY 2032–33.",
+   "Strengthens the Intra-State Transmission System (InSTS) within States and Union Territories.",
+   "Supports evacuation of up to 135 GW renewable energy and 50 GWh battery storage (BESS).",
+   "Total outlay ₹1,86,405 crore: InSTS ₹1,36,378 crore; battery storage ₹50,000 crore.",
+   "Central Financial Support ₹54,082 crore, to lower intra-state transmission charges.",
+   "Supports India's target of 900 GW non-fossil installed capacity by 2035."
+  ],
+  "hook": "Green Energy Corridor = a highway of power lines carrying green electricity from plants to the grid.",
+  "trap": "135 GW = renewable power to be evacuated; 50 GWh = battery storage to be deployed.",
+  "hindi": [
+   "Transmission (पारेषण)",
+   "Battery storage (बैटरी भंडारण)"
+  ],
+  "priority": 1,
+  "check": "Components ₹1,36,378 crore + ₹50,000 crore = ₹1,86,378 crore, not the stated total ₹1,86,405 crore.",
+  "mcq": [
+   {
+    "q": "Green Energy Corridor Phase III, approved in September 2026, aims to deploy how much Battery Energy Storage System capacity by FY 2032–33?",
+    "o": [
+     "135 GWh",
+     "50 GWh",
+     "900 GWh",
+     "54 GWh"
+    ],
+    "k": 1,
+    "why": "It targets 50 GWh of BESS plus evacuation of up to 135 GW of renewables."
+   },
+   {
+    "q": "Which transmission network does Green Energy Corridor Phase III (2026) mainly strengthen?",
+    "o": [
+     "Intra-State Transmission System",
+     "Inter-State Transmission System",
+     "Cross-border transmission links",
+     "Rural distribution feeders"
+    ],
+    "k": 0,
+    "why": "Phase III strengthens the Intra-State Transmission System (InSTS) within States and UTs."
+   }
+  ]
+ },
+ "u0528": {
+  "gist": "On World Ozone Day (16 September 2026), MoS Kirti Vardhan Singh launched India's Net Zero Portal and NAPCC Dashboard in Mumbai for transparent climate action.",
+  "facts": [
+   "Launched 16 September 2026 in Mumbai by MoS Environment Kirti Vardhan Singh, on World Ozone Day.",
+   "Net Zero Portal: voluntary registration and disclosure of Net Zero commitments by Indian entities.",
+   "NAPCC Dashboard: single view of progress of National Missions under the National Action Plan on Climate Change.",
+   "NDC for 2031–2035 (submitted 24 April 2026): 47% intensity cut, about 60% non-fossil capacity by 2035.",
+   "Early wins: 40% non-fossil target met in 2021, nine years early; 50% met June 2025.",
+   "Emissions intensity fell 37.38% by 2022 vs 2005; non-fossil about 55% of capacity (30 September 2026)."
+  ],
+  "hook": "Target ladders for 2015 → 2022 → 2026: non-fossil share 40 → 50 → 60%; intensity cut 33–35 → 45 → 47%.",
+  "trap": "The 2015 INDC and 2022 update targets are 'by 2030'; the 2026 NDC targets are 'by 2035'.",
+  "hindi": [
+   "Net Zero (शुद्ध शून्य)",
+   "Climate action (जलवायु कार्रवाई)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In which city were India's Net Zero Portal and the NAPCC Dashboard launched on World Ozone Day 2026?",
+    "o": [
+     "New Delhi",
+     "Chennai",
+     "Kolkata",
+     "Mumbai"
+    ],
+    "k": 3,
+    "why": "MoS Kirti Vardhan Singh launched them in Mumbai on 16 September 2026."
+   },
+   {
+    "q": "Under India's NDC for 2031–2035, submitted in April 2026, what share of installed power capacity should be non-fossil by 2035?",
+    "o": [
+     "About 40%",
+     "About 50%",
+     "About 60%",
+     "About 55%"
+    ],
+    "k": 2,
+    "why": "The 2026 NDC raised the non-fossil target to about 60% by 2035."
+   }
+  ]
+ },
+ "u0529": {
+  "gist": "The fifth Swachh Sagar, Surakshit Sagar drive (12–19 September 2026), led by the Earth Sciences Ministry, rallied citizens for coastal cleanup and ocean care.",
+  "facts": [
+   "Fifth edition held 12 to 19 September 2026; launched on 1 September.",
+   "Meaning: Clean Coast, Safe Sea; led by the Ministry of Earth Sciences (MoES).",
+   "Beach cleanups planned at 100-plus locations, with human chains, cycling rallies and marathons.",
+   "Included what MoES called the first national Ocean Olympiad for students and youth.",
+   "Campaign began on 5 July 2022; goals: consume responsibly, segregate waste at home, dispose responsibly."
+  ],
+  "hook": "Three goals follow an item's life: Consume → Segregate → Dispose (all responsibly).",
+  "trap": "The campaign started in 2022; the 2026 drive is its fifth edition.",
+  "hindi": [
+   "Coastal cleanup (तटीय सफाई)",
+   "Ocean conservation (महासागर संरक्षण)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which ministry leads the 'Swachh Sagar, Surakshit Sagar' campaign, whose fifth edition was held in September 2026?",
+    "o": [
+     "Ministry of Environment, Forest and Climate Change",
+     "Ministry of Jal Shakti",
+     "Ministry of Ports, Shipping and Waterways",
+     "Ministry of Earth Sciences"
+    ],
+    "k": 3,
+    "why": "The campaign is led by the Ministry of Earth Sciences (MoES)."
+   }
+  ]
+ },
+ "u0530": {
+  "gist": "Project Great Indian Bustard added three chicks, taking fourth-year captive hatchings to 26 and the captive stock to 94 birds (14 June 2026).",
+  "facts": [
+   "Announced by Environment Minister Bhupender Yadav on 14 June 2026.",
+   "Fourth breeding year: 26 chicks; 18 by artificial insemination, four natural, four from wild eggs.",
+   "Captive stock has grown to 94 birds.",
+   "Three chicks hatched in the wild in Rajasthan through a 'jumpstart' intervention.",
+   "Project launched by Rajasthan's Chief Minister on 5 June 2013, first in Desert National Park, Jaisalmer.",
+   "GIB (Godawan; Ardeotis nigriceps): Critically Endangered state bird of Rajasthan; grassland health indicator."
+  ],
+  "hook": "26 = 18 + 4 + 4 (artificial insemination + natural + wild eggs).",
+  "trap": "26 = chicks hatched in the fourth year; 94 = total captive stock.",
+  "hindi": [
+   "Great Indian Bustard (गोडावण)",
+   "Captive breeding (बंदी प्रजनन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "As of June 2026, how many birds were in the captive stock of Project Great Indian Bustard?",
+    "o": [
+     "26",
+     "18",
+     "44",
+     "94"
+    ],
+    "k": 3,
+    "why": "Captive stock grew to 94 birds; 26 chicks hatched in the fourth year."
+   },
+   {
+    "q": "Project Great Indian Bustard, launched by Rajasthan on 5 June 2013, began in which protected area?",
+    "o": [
+     "Desert National Park, Jaisalmer",
+     "Ranthambore National Park",
+     "Keoladeo National Park",
+     "Sariska Tiger Reserve"
+    ],
+    "k": 0,
+    "why": "It began initially in the Desert National Park (DNP), Jaisalmer."
+   }
+  ]
+ },
+ "u0531": {
+  "gist": "Bhupender Yadav inaugurated WWF's Global Conservation Conference in Jaipur on 21 September 2026, where growth in India's conservation networks was highlighted.",
+  "facts": [
+   "Inaugurated by Environment Minister Bhupender Yadav at Jaipur on 21 September 2026.",
+   "Protected areas: around 750 earlier → more than 1,000 now.",
+   "Tiger reserves: 47 → 58; elephant reserves: 30 → 33.",
+   "Ramsar sites: 24 → 103.",
+   "WWF (World Wide Fund for Nature): independent body formed in 1961, based in Switzerland."
+  ],
+  "hook": "",
+  "trap": "58 = tiger reserves; 33 = elephant reserves; 103 = Ramsar sites. Don't mix them.",
+  "hindi": [
+   "Protected area (संरक्षित क्षेत्र)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "At the WWF Global Conservation Conference in Jaipur (September 2026), how many tiger reserves did India cite?",
+    "o": [
+     "47",
+     "33",
+     "58",
+     "103"
+    ],
+    "k": 2,
+    "why": "Tiger reserves rose from 47 earlier to 58 as cited in 2026."
+   }
+  ]
+ },
+ "u0532": {
+  "gist": "The Union Cabinet approved the Pradhan Mantri Surya Sarovar Yojana to add 5,000 MW of floating solar with storage, generating power without using scarce land.",
+  "facts": [
+   "PM-SSY pairs Floating Solar PV (FSPV) projects with co-located Energy Storage Systems (ESS).",
+   "Target: add 5,000 MW of floating-solar capacity across all States and UTs.",
+   "Aid: ₹1 crore per MW after commissioning; up to ₹50 lakh per feasibility study.",
+   "Floating-solar potential about 102.18 GWp (NISE); only about 700 MW operational at approval.",
+   "Expected: cut about 10 million tonnes of carbon dioxide a year; 16,000–17,000 jobs.",
+   "Solar capacity rose over 58 times: 2.82 GW (March 2014) → 164.59 GW (31 July 2026)."
+  ],
+  "hook": "Surya (sun) + Sarovar (lake) = solar panels floating on lakes and reservoirs.",
+  "trap": "ALMM-enlisted module capacity crossed 200 GW (August 2026), but actual module manufacturing capacity was about 192 GW (June 2026); the source says they differ.",
+  "hindi": [
+   "Floating solar plant (तैरता सौर संयंत्र)",
+   "Energy storage (ऊर्जा भंडारण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "How much floating-solar capacity does the Pradhan Mantri Surya Sarovar Yojana (2026) seek to add?",
+    "o": [
+     "5,000 MW",
+     "700 MW",
+     "102.18 GW",
+     "40 GW"
+    ],
+    "k": 0,
+    "why": "PM-SSY seeks to add 5,000 MW of floating solar across all States and UTs."
+   },
+   {
+    "q": "What Central Financial Assistance will eligible projects get under the Pradhan Mantri Surya Sarovar Yojana after commissioning?",
+    "o": [
+     "₹50 lakh per MW",
+     "₹2 crore per MW",
+     "₹1 crore per project",
+     "₹1 crore per MW"
+    ],
+    "k": 3,
+    "why": "CFA is ₹1 crore per MW; feasibility studies may get up to ₹50 lakh per project."
+   }
+  ]
+ },
+ "u0533": {
+  "gist": "India launched its first Guide to Grasslands and Other Open Natural Ecosystems on August 17, 2026, at UNCCD COP17 in Ulaanbaatar, Mongolia.",
+  "facts": [
+   "Launched August 17, 2026 at an official side event of UNCCD COP17, Ulaanbaatar, Mongolia.",
+   "Under the Ministry of Environment, Forest and Climate Change; published by ATREE.",
+   "Aims to stop grasslands, scrublands and ravines being wrongly called 'wastelands'.",
+   "Covers Himalayan and Terai grasslands, Thar and Banni, Deccan savannas, ravines, coastal and desert landscapes.",
+   "UNCCD COP17 ran 17–28 August 2026; theme 'Restoring Land, Restoring Hope'.",
+   "2026 = International Year of Rangelands and Pastoralists (UNGA Resolution 76/253, 15 March 2022); FAO leads."
+  ],
+  "hook": "ONEs = Open Natural Ecosystems: grasslands are 'ONEs', not wastelands.",
+  "trap": "The Guide was launched at UNCCD COP17 (desertification convention), not at a UNFCCC climate COP.",
+  "hindi": [
+   "Grassland (घास का मैदान)",
+   "Desertification (मरुस्थलीकरण)",
+   "Pastoralist (पशुपालक)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was India's first Guide to Grasslands and Other Open Natural Ecosystems launched in August 2026?",
+    "o": [
+     "Ulaanbaatar, Mongolia",
+     "Riyadh, Saudi Arabia",
+     "Belém, Brazil",
+     "Samarkand, Uzbekistan"
+    ],
+    "k": 0,
+    "why": "It was launched at a side event of UNCCD COP17 in Ulaanbaatar, Mongolia."
+   },
+   {
+    "q": "The UN General Assembly proclaimed 2026 as the International Year of what?",
+    "o": [
+     "Millets",
+     "Glaciers' Preservation",
+     "Rangelands and Pastoralists",
+     "Camelids"
+    ],
+    "k": 2,
+    "why": "Resolution 76/253 proclaimed 2026 the International Year of Rangelands and Pastoralists."
+   }
+  ]
+ },
+ "u0534": {
+  "gist": "On 15 July 2026, the Supreme Court conditionally allowed Uttar Pradesh to go ahead with the Kukrail Night Safari and Zoological Park in Lucknow.",
+  "facts": [
+   "Supreme Court permission (15 July 2026) is conditional, not a blanket environmental clearance.",
+   "Site: inside the 2,027-hectare Kukrail Reserve Forest, on Lucknow's outskirts.",
+   "Kukrail has UP's first gharial rehabilitation centre, set up in 1975.",
+   "Project cost ₹1,510 crore; spread over 855 acres.",
+   "Phase I: Night Safari and Eco-tourism Zone; Phase II: Day Zoo.",
+   "Billed as India's first dedicated urban night safari."
+  ],
+  "hook": "Kukrail forest: 2,027 hectares, read it like the year 2027.",
+  "trap": "2,027 hectares = whole reserve forest; 855 acres = project area (different units too).",
+  "hindi": [
+   "Reserve forest (आरक्षित वन)",
+   "Gharial (घड़ियाल)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Kukrail Night Safari and Zoological Park, conditionally allowed by the Supreme Court in July 2026, is in which city?",
+    "o": [
+     "Kanpur",
+     "Gorakhpur",
+     "Prayagraj",
+     "Lucknow"
+    ],
+    "k": 3,
+    "why": "The project is in the Kukrail Reserve Forest on the outskirts of Lucknow."
+   },
+   {
+    "q": "Kukrail Reserve Forest in Lucknow houses Uttar Pradesh's first rehabilitation centre, set up in 1975, for which animal?",
+    "o": [
+     "Gharial",
+     "Dolphin",
+     "Turtle",
+     "Tiger"
+    ],
+    "k": 0,
+    "why": "It is home to UP's first gharial rehabilitation centre, established in 1975."
+   }
+  ]
+ },
+ "u0535": {
+  "gist": "Union Minister Prataprao Jadhav opened Prakriti Café, a workplace food outlet based on Ayush Ahaar, at Ayush Bhawan, New Delhi, on 22 July 2026.",
+  "facts": [
+   "Inaugurated by Union Minister Prataprao Jadhav on 22 July 2026.",
+   "Located at Ayush Bhawan, New Delhi.",
+   "A workplace food outlet that brings Ayush Ahaar principles into daily meals.",
+   "Promotes mindful eating and nutritious diets rooted in India's traditional knowledge."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Diet (आहार)",
+   "Traditional knowledge (पारंपरिक ज्ञान)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Prakriti Café, inaugurated at Ayush Bhawan, New Delhi in July 2026, is based on which initiative's principles?",
+    "o": [
+     "Poshan Abhiyaan",
+     "Eat Right India",
+     "Fit India Movement",
+     "Ayush Ahaar"
+    ],
+    "k": 3,
+    "why": "The café offers food inspired by the Ayush Ahaar initiative."
+   }
+  ]
+ },
+ "u0536": {
+  "gist": "India's Ethanol Blended Petrol Programme reached 20% blending in 2025, cutting crude dependence, supporting farmers and lowering road transport emissions.",
+  "facts": [
+   "E20 = 20% ethanol + 80% petrol; India first achieved 20% blending in 2025.",
+   "Ethanol Supply Year (ESY) runs 1 November to 31 October, since November 2023.",
+   "EBP launched 2003; 2018 Biofuels Policy aimed E20 by 2030; 2022 amendment advanced it to ESY 2025–26.",
+   "E10 achieved in June 2022; phased E20 rollout began 6 February 2023.",
+   "Capacity grew from 421 crore litres (2014) to about 2,000 crore litres (2026).",
+   "Gains since ESY 2014–15: forex savings over ₹1.97 lakh crore; farmer payments over ₹1.66 lakh crore."
+  ],
+  "hook": "E-number = ethanol %: E5 = 5%, E10 = 10%, E20 = 20%.",
+  "trap": "E85 is not 85% ethanol: in the US it contains about 51–83%, for flex-fuel vehicles.",
+  "hindi": [
+   "Ethanol blending (इथेनॉल मिश्रण)",
+   "Crude oil (कच्चा तेल)",
+   "Biofuel (जैव ईंधन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The 2022 amendment to the National Policy on Biofuels advanced India's E20 target to which Ethanol Supply Year?",
+    "o": [
+     "ESY 2025–26",
+     "ESY 2029–30",
+     "ESY 2023–24",
+     "ESY 2030–31"
+    ],
+    "k": 0,
+    "why": "The 2018 policy aimed at E20 by 2030; the 2022 amendment advanced it to ESY 2025–26."
+   },
+   {
+    "q": "Since November 2023, what period does India's Ethanol Supply Year (ESY) cover?",
+    "o": [
+     "1 April to 31 March",
+     "1 January to 31 December",
+     "1 November to 31 October",
+     "1 July to 30 June"
+    ],
+    "k": 2,
+    "why": "Since November 2023, the ESY runs from 1 November to 31 October."
+   }
+  ]
+ },
+ "u0537": {
+  "gist": "Tamil Nadu began placing 3D-printed artificial reef modules off Rameswaram under PMMSY to restore fish habitats and support coastal communities.",
+  "facts": [
+   "Off Rameswaram, Ramanathapuram district; Phase II of Tamil Nadu's artificial-reef programme.",
+   "Supported under Pradhan Mantri Matsya Sampada Yojana (PMMSY).",
+   "Each module weighs about 1 tonne; made by Chennai startup Tvasta (IIT Madras-incubated).",
+   "Partner: Visakhapatnam Regional Centre of ICAR-Central Marine Fisheries Research Institute; led by Dr Joe K. Kizhakudan.",
+   "Complex shapes with crevices and folds, unlike reinforced-concrete reefs.",
+   "Funded by Centre and State in a 60:40 ratio."
+  ],
+  "hook": "Matsya = fish: PMMSY money builds new homes (reefs) for fish.",
+  "trap": "Startup Tvasta is Chennai-based; the partner CMFRI centre is in Visakhapatnam.",
+  "hindi": [
+   "Artificial reef (कृत्रिम भित्ति)",
+   "Fisheries (मत्स्य पालन)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Off which coastal town has Tamil Nadu begun deploying 3D-printed artificial reef modules under PMMSY in 2026?",
+    "o": [
+     "Tuticorin",
+     "Nagapattinam",
+     "Kanyakumari",
+     "Rameswaram"
+    ],
+    "k": 3,
+    "why": "The modules are being deployed off Rameswaram in Ramanathapuram district."
+   }
+  ]
+ },
+ "u0538": {
+  "gist": "SDSN's Sustainable Development Report 2026 ranks India 94th of 169 countries (score 68.3), up 18 places since 2015, but still off track for 2030.",
+  "facts": [
+   "Released by SDSN on June 23, 2026; India 94th of 169, score 68.3 out of 100.",
+   "India rose 18 places, from 112th (2015) to 94th (2026); China improved 14 places.",
+   "Of 75 indicators: 25 on track, eight moderately improving, 33 stagnating, nine decreasing.",
+   "SDG 2: only cereal yield (3.6 t/ha, 2023) on track; stunting fell 37.9% → 35.5%.",
+   "Child wasting rose 16.9% (2017) → 18.7% (2020); adult obesity 4.91% → 7.27%.",
+   "Globally none of 17 SDGs is fully on course; 2025 was 1.43°C above pre-industrial."
+  ],
+  "hook": "112 − 18 = 94: India climbed 18 places since 2015.",
+  "trap": "169 appears twice: countries ranked and total SDG targets. India's trend shares use 75 indicators, not 169 targets.",
+  "hindi": [
+   "Stunting (बौनापन)",
+   "Malnutrition (कुपोषण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What was India's rank in the Sustainable Development Report 2026 released by SDSN in June 2026?",
+    "o": [
+     "112th",
+     "94th",
+     "68th",
+     "116th"
+    ],
+    "k": 1,
+    "why": "India ranked 94th among 169 countries with a score of 68.3."
+   },
+   {
+    "q": "Per the Sustainable Development Report 2026, which is India's only SDG 2 (Zero Hunger) indicator on track?",
+    "o": [
+     "Child stunting",
+     "Undernourishment",
+     "Cereal yield",
+     "Adult obesity"
+    ],
+    "k": 2,
+    "why": "Only cereal yield, 3.6 tonnes per hectare in 2023, is on track under SDG 2."
+   }
+  ]
+ }
+}

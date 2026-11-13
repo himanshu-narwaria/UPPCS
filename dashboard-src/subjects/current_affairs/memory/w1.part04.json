@@ -1,0 +1,406 @@
+{
+ "u0151": {
+  "line": "Startup TakeMe2Space developed India's first orbital computing satellite 'MOI-1A' (2 Oct 2026) → AI-based data processing in space itself.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Satellite (उपग्रह)"
+  ],
+  "priority": 1
+ },
+ "u0152": {
+  "line": "Bilateral air exercise 'Veer Guardian-2026' → India and Japan at Jodhpur Air Force Station, Rajasthan (22 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0153": {
+  "line": "22nd 'Yudh Abhyas-2026' → India and USA at Auli, Uttarakhand and Mahajan Field Firing Range, Rajasthan (15 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Military exercise (सैन्य अभ्यास)"
+  ],
+  "priority": 2
+ },
+ "u0154": {
+  "line": "Fourth 'Samudra Laksamana-2026' naval exercise → India and Malaysia at Lumut, Malaysia (9–12 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Naval exercise (नौसैनिक अभ्यास)"
+  ],
+  "priority": 2
+ },
+ "u0155": {
+  "line": "ISRO hot-tested the CE20 cryogenic engine for LVM3's seventh operational mission at ISRO Propulsion Complex, Mahendragiri (9 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0156": {
+  "line": "ISRO launched EOS-05 on GSLV-F17 from Sriharikota (4 Sept 2026) → India's first satellite imaging from geosynchronous orbit; orbit raised by Liquid Apogee Motor.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Earth observation (पृथ्वी अवलोकन)"
+  ],
+  "priority": 1
+ },
+ "u0157": {
+  "line": "Government targets for 2029: annual defence production ₹3 lakh crore; defence exports ₹50,000 crore (1 September 2026).",
+  "hook": "",
+  "trap": "₹3 lakh crore = production target; ₹50,000 crore = export target.",
+  "hindi": [
+   "Defence production (रक्षा उत्पादन)"
+  ],
+  "priority": 1
+ },
+ "u0158": {
+  "line": "DRDO's first test of Kusha, a long-range surface-to-air air defence missile, from APJ Abdul Kalam Island, Odisha (23 July 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Air defence (वायु रक्षा)"
+  ],
+  "priority": 1
+ },
+ "u0159": {
+  "line": "INS Malvan, second Mahe-class anti-submarine shallow-water warship → commissioned at Karwar, Karnataka (22 July 2026); built by Cochin Shipyard Limited.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Anti-submarine (पनडुब्बी रोधी)"
+  ],
+  "priority": 2
+ },
+ "u0160": {
+  "line": "'Vikram-1' by Skyroot Aerospace (Hyderabad), India's first privately developed orbital launch vehicle → successful flight under Mission Aagaman from Sriharikota (18 July 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Launch vehicle (प्रक्षेपण यान)"
+  ],
+  "priority": 1
+ },
+ "u0161": {
+  "line": "INS Mahendragiri, sixth indigenous stealth warship of Project 17A (Nilgiri class) → commissioned at Visakhapatnam, Andhra Pradesh (11 July 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Stealth warship (गुप्त युद्धपोत)"
+  ],
+  "priority": 2
+ },
+ "u0162": {
+  "line": "DRDO tested Pinaka guided rocket (60 km) at ITR Chandipur. Coast Guard's first indigenous hovercraft H-561 → Rassaim, Goa. Jainendra K. Jain → first Indian-origin Wolf Prize in Physics.",
+  "hook": "",
+  "trap": "Jain's prize is the 2025 Wolf Prize in Physics (composite fermions), shared with James P. Eisenstein and Mordehai Heiblum.",
+  "hindi": [
+   "Hovercraft (होवरक्राफ्ट)"
+  ],
+  "priority": 1
+ },
+ "u0163": {
+  "line": "India's seventh Regional Meteorological Centre (RMC) → established in Jammu (5 June 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Meteorological centre (मौसम विज्ञान केंद्र)"
+  ],
+  "priority": 2
+ },
+ "u0164": {
+  "line": "E85 fuel officially launched in New Delhi by Union Minister Hardeep Singh Puri at an Indian Oil outlet (June 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Fuel (ईंधन)"
+  ],
+  "priority": 1
+ },
+ "u0165": {
+  "line": "NASA's MAVEN (Mars Atmosphere and Volatile Evolution) mission concluded (June 2026).",
+  "hook": "MAVEN letters = Mars Atmosphere and Volatile EvolutioN.",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0166": {
+  "line": "VISTA → India's first indigenous stratospheric super-pressure balloon, by Red Balloon Aerospace, launched from Vijayawada, Andhra Pradesh (May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0167": {
+  "line": "DRDO and the Indian Air Force flight-tested the RudraM-II air-to-surface missile (2 June 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0168": {
+  "line": "Two-day National Conference on Rare Diseases → New Delhi (5–6 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Rare disease (दुर्लभ रोग)"
+  ],
+  "priority": 2
+ },
+ "u0169": {
+  "line": "World Health Statistics 2026 (15 May 2026): about 22.1 million COVID-19-associated excess deaths worldwide between 2020 and 2023.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0170": {
+  "line": "SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) → joint mission of Chinese Academy of Sciences (CAS) and European Space Agency (ESA) (May 2026).",
+  "hook": "SMILE letters = Solar wind Magnetosphere Ionosphere Link Explorer.",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0171": {
+  "line": "ISRO assessing a launch site in Japan for joint Chandrayaan-5 (LUPEX) mission. Cochin Airport → first with hydrogen buses. Haven-1 by Vast → first commercial private space station.",
+  "hook": "LUPEX = LUnar Polar EXploration.",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0172": {
+  "line": "DRDO successfully demonstrated Solid Fuel Ducted Ramjet (SFDR) technology at Integrated Test Range (ITR), Chandipur, Odisha (3 Feb 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Defence research (रक्षा अनुसंधान)"
+  ],
+  "priority": 1
+ },
+ "u0173": {
+  "line": "Agni-3, DRDO's intermediate-range ballistic missile (IRBM), range 3,000 to 3,500 km → test-fired from ITR, Chandipur, Odisha (6 February 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Missile test (मिसाइल परीक्षण)"
+  ],
+  "priority": 2
+ },
+ "u0174": {
+  "line": "V.O. Chidambaranar Port Authority (Tamil Nadu) → first Indian port to start implementing an advanced Anti-Drone System.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Anti-drone system (ड्रोन-रोधी प्रणाली)"
+  ],
+  "priority": 1
+ },
+ "u0175": {
+  "line": "17th Exercise DOSTI → Malé, Maldives (January 2026); trilateral coast guard exercise of India, Sri Lanka and the Maldives.",
+  "hook": "DOSTI = friendship (दोस्ती) of three coast guards: India, Sri Lanka, Maldives.",
+  "trap": "",
+  "hindi": [
+   "Coast guard (तटरक्षक)"
+  ],
+  "priority": 2
+ },
+ "u0176": {
+  "line": "Dr Jitendra Singh opened, at CSIR–NPL New Delhi, the world's second National Environmental Standard Laboratory and fifth National Primary Standard Facility for Solar Cell Calibration (5 Jan 2026).",
+  "hook": "",
+  "trap": "Second = Environmental Standard Laboratory; fifth = Solar Cell Calibration facility.",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0177": {
+  "line": "Consumer Electronics Show (CES) 2026 → Las Vegas (6–9 January 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3
+ },
+ "u0178": {
+  "line": "India's first indigenously developed commercial quantum computer → to be deployed at IIIT Dharwad (January 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0179": {
+  "line": "DHRUV64 → India's first indigenous 64-bit dual-core microprocessor, developed by C-DAC (Centre for Development of Advanced Computing) (15 December 2025).",
+  "hook": "The name carries the spec: DHRUV64 = 64-bit.",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0180": {
+  "line": "India's first Green Hydrogen Production Plant for trains → being set up at Jind, Haryana (December 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Green hydrogen (हरित हाइड्रोजन)"
+  ],
+  "priority": 1
+ },
+ "u0181": {
+  "line": "New Ramsar Sites (December 2025): Siliserh Lake → Alwar, Rajasthan; Kopra Jalashay → Bilaspur, Chhattisgarh.",
+  "hook": "",
+  "trap": "Siliserh = Rajasthan (Alwar); Kopra Jalashay = Chhattisgarh (Bilaspur).",
+  "hindi": [
+   "Wetland (आर्द्रभूमि)"
+  ],
+  "priority": 1
+ },
+ "u0182": {
+  "line": "Indian astronomers discovered a spiral galaxy named 'Alaknanda' (December 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Spiral galaxy (सर्पिल आकाशगंगा)"
+  ],
+  "priority": 2
+ },
+ "u0183": {
+  "line": "President Droupadi Murmu presented Lalit Kala Akademi awards to 20 artists of the 65th National Exhibition of Art (21 October 2026).",
+  "hook": "",
+  "trap": "65th = exhibition edition; 20 = artists awarded.",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0184": {
+  "line": "World Food Day 2026 (16 Oct) theme: 'Innovate Today, Nourish Tomorrow'; the day marks the founding anniversary of the FAO.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "World Food Day (विश्व खाद्य दिवस)"
+  ],
+  "priority": 2
+ },
+ "u0185": {
+  "line": "Wildlife Photographer of the Year 2026 → Federico Veronesi; Young Wildlife Photographer of the Year 2026 → Oscar Whitfield (13 October 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3
+ },
+ "u0186": {
+  "line": "UNESCO Prize for Girls' and Women's Education 2026 → Morocco's 'Project Soar in a Bag' and CARE Peru's 'Girls with Opportunities'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3
+ },
+ "u0187": {
+  "line": "Air Marshal Ashutosh Dixit → India's 29th Chief of the Air Staff from 31 October 2026, succeeding Air Chief Marshal Amar Preet Singh.",
+  "hook": "",
+  "trap": "Ashutosh Dixit = incoming 29th chief; Amar Preet Singh = outgoing chief.",
+  "hindi": [
+   "Chief of the Air Staff (वायुसेना प्रमुख)"
+  ],
+  "priority": 1
+ },
+ "u0188": {
+  "line": "World Space Week 2026 (4–10 October) theme: 'Rocket Revolution'; 4 October marks the launch of Sputnik-1, the first artificial satellite (1957).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0189": {
+  "line": "Amit Shah, Home and Cooperation Minister, inaugurated the 'Prahar' Counter-Terrorism Policy and Strategy Conference (28 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Counter-terrorism (आतंकवाद-रोधी)"
+  ],
+  "priority": 2
+ },
+ "u0190": {
+  "line": "World Tourism Day 2026 (27 Sept) theme: 'Digital Agenda and Artificial Intelligence to Redesign Tourism'; official host: El Salvador.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Tourism (पर्यटन)"
+  ],
+  "priority": 2
+ },
+ "u0191": {
+  "line": "72nd National Film Awards → Ekta Nagar, Gujarat (22 Sept 2026); Dadasaheb Phalke Award for 2024 → actor Anant Nag.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0192": {
+  "line": "Semicon India 2026, fifth edition (17 Sept) → inaugurated by PM Narendra Modi at Yashobhoomi, New Delhi; theme 'Silicon to Systems: Building the Ecosystem'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0193": {
+  "line": "World Ozone Day (16 September) commemorates the Montreal Protocol, adopted in 1987.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Ozone layer (ओजोन परत)"
+  ],
+  "priority": 2
+ },
+ "u0194": {
+  "line": "Nobel laureate Michael Kremer → World Bank Group Chief Economist and Senior Vice President for Development Economics (16 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0195": {
+  "line": "Former Chief Justice Dipak Misra received the Kalinga Ratna Award for 2026 (8 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0196": {
+  "line": "President Droupadi Murmu presented the National Teachers' Awards 2026 on Teachers' Day (5 Sept), birth anniversary of Dr. Sarvepalli Radhakrishnan.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Teachers' Day (शिक्षक दिवस)"
+  ],
+  "priority": 2
+ },
+ "u0197": {
+  "line": "Dr Dinesh Sharma → new Lieutenant Governor of the Andaman and Nicobar Islands (5 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Lieutenant Governor (उपराज्यपाल)"
+  ],
+  "priority": 1
+ },
+ "u0198": {
+  "line": "73rd Miss World 2026 → Joheirry Mola Dominguez (Dominican Republic); final held in Vietnam (5 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3
+ },
+ "u0199": {
+  "line": "Air Vice Marshal Shakti Sharma → first woman non-medical two-star officer in Indian defence services; Assistant Chief of the Air Staff (Education) (1 Sept 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0200": {
+  "line": "Ramon Magsaysay Award 2026 → Tommy Koh (Singapore), Runa Khan (Bangladesh) and Bo Kyi (Myanmar) (31 August 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ }
+}

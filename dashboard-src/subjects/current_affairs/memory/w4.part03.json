@@ -1,0 +1,1339 @@
+{
+ "u0555": {
+  "gist": "The IAF marked its 94th anniversary with a three-day air show over the Ganga at Namo Ghat, Varanasi, on 22, 24 and 25 October 2026.",
+  "facts": [
+   "Venue: Namo Ghat, Varanasi, over the Ganga.",
+   "Dates: 22, 24 and 25 October 2026; marked the IAF's 94th anniversary.",
+   "Show title: 'Wings Over Ganga'.",
+   "Anniversary theme: 'Indian Air Force – Infallible, Impervious and Precise'."
+  ],
+  "trap": "Show title = 'Wings Over Ganga'; anniversary theme = 'Infallible, Impervious and Precise'.",
+  "hindi": [
+   "Air show (हवाई प्रदर्शन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The IAF's 'Wings Over Ganga' air show, marking its 94th anniversary in October 2026, was held at:",
+    "o": [
+     "Namo Ghat, Varanasi",
+     "Dashashwamedh Ghat, Varanasi",
+     "Sangam, Prayagraj",
+     "Gomti Riverfront, Lucknow"
+    ],
+    "k": 0,
+    "why": "The IAF held the three-day display over the Ganga at Namo Ghat, Varanasi."
+   }
+  ]
+ },
+ "u0556": {
+  "gist": "CM Yogi Adityanath inaugurated the 50th (Golden Jubilee) India Carpet Expo at the Carpet Expo Mart, Bhadohi, on 4 October 2026.",
+  "facts": [
+   "Date: 4 October 2026; venue: Carpet Expo Mart, Bhadohi.",
+   "Edition: 50th, the Golden Jubilee.",
+   "CM also inaugurated or laid stones for 112 projects worth over ₹1,340 crore in Bhadohi."
+  ],
+  "hindi": [
+   "Carpet (कालीन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which edition of the India Carpet Expo was inaugurated at Bhadohi on 4 October 2026?",
+    "o": [
+     "25th",
+     "40th",
+     "50th",
+     "75th"
+    ],
+    "k": 2,
+    "why": "CM Yogi Adityanath inaugurated the 50th (Golden Jubilee) India Carpet Expo at Bhadohi."
+   }
+  ]
+ },
+ "u0557": {
+  "gist": "On 9 October 2026, the UP Cabinet approved paddy procurement for 2026–27: target 65 lakh metric tonnes at MSP ₹2,441 per quintal (common paddy).",
+  "facts": [
+   "MSP: ₹2,441/quintal for common paddy; ₹2,461/quintal for Grade-A.",
+   "Target 65 lakh metric tonnes; about 4,500 centres; eight procurement agencies.",
+   "Western UP: October 12, 2026 – February 15, 2027.",
+   "Eastern UP: November 1, 2026 – February 28, 2027.",
+   "Farmers to be paid within 48 hours."
+  ],
+  "trap": "Western UP starts earlier (12 October) than Eastern UP (1 November).",
+  "hindi": [
+   "Procurement (अधिप्राप्ति)",
+   "Paddy (धान)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under Uttar Pradesh's Paddy Procurement Policy 2026–27, what is the procurement target?",
+    "o": [
+     "50 lakh metric tonnes",
+     "65 lakh metric tonnes",
+     "70 lakh metric tonnes",
+     "45 lakh metric tonnes"
+    ],
+    "k": 1,
+    "why": "The target is 65 lakh metric tonnes through about 4,500 centres."
+   }
+  ]
+ },
+ "u0558": {
+  "gist": "UP approved its Coarse Cereals Procurement Policy 2026–27 on 9 October 2026 to buy bajra, jowar and maize from 1 October to 31 December 2026.",
+  "facts": [
+   "Procurement period: 1 October to 31 December 2026.",
+   "MSP per quintal: maize ₹2,410, bajra ₹2,900, hybrid jowar ₹4,023, Maldandi jowar ₹4,073.",
+   "Targets: bajra 2.20 lakh MT, jowar 50,000 MT, maize 15,000 MT.",
+   "Bajra in 33 districts (300 centres); jowar 13 districts (80); maize 25 districts (75).",
+   "Biometric verification and direct bank payments."
+  ],
+  "hindi": [
+   "Coarse cereals (मोटे अनाज)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under Uttar Pradesh's Coarse Cereals Procurement Policy 2026–27, the largest procurement target is for:",
+    "o": [
+     "Maize",
+     "Jowar",
+     "Bajra",
+     "Ragi"
+    ],
+    "k": 2,
+    "why": "Targets: bajra 2.20 lakh MT, jowar 50,000 MT and maize 15,000 MT."
+   }
+  ]
+ },
+ "u0559": {
+  "gist": "UP's Interest Waiver Scheme, 2026 (approved 9 October, notified 16 October 2026) waives interest on old state tax dues up to 31 December 2025.",
+  "facts": [
+   "Approved 9 October 2026; notified 16 October 2026.",
+   "Covers eligible tax demands outstanding up to 31 December 2025.",
+   "Interest waiver: 100% for dues up to ₹10 lakh; 90% for ₹10 lakh–₹1 crore.",
+   "75% for ₹1–5 crore; 50% for dues above ₹5 crore.",
+   "Open in 75 districts for 3 months; eligible penalties fully waived."
+  ],
+  "hook": "Bigger the due, smaller the waiver: 100 → 90 → 75 → 50.",
+  "hindi": [
+   "Interest waiver (ब्याज माफी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under the Uttar Pradesh Interest Waiver Scheme, 2026, what interest waiver applies to principal tax dues up to ₹10 lakh?",
+    "o": [
+     "50%",
+     "75%",
+     "90%",
+     "100%"
+    ],
+    "k": 3,
+    "why": "Principal dues up to ₹10 lakh get a 100% interest waiver."
+   }
+  ]
+ },
+ "u0560": {
+  "gist": "On 14 October 2026, Defence Minister Rajnath Singh said the proposed National Military Drone Technology Hub at IIT Kanpur was nearing final approval.",
+  "facts": [
+   "Proposed: National Military Drone Technology Hub at IIT Kanpur.",
+   "Update given by Defence Minister Rajnath Singh on 14 October 2026.",
+   "Status: significant progress; approval process nearing completion."
+  ],
+  "hindi": [
+   "Drone technology (ड्रोन प्रौद्योगिकी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where is the proposed National Military Drone Technology Hub, whose approval was said to be nearing completion in October 2026?",
+    "o": [
+     "IIT Kanpur",
+     "IIT (BHU) Varanasi",
+     "IIT Roorkee",
+     "IIT Delhi"
+    ],
+    "k": 0,
+    "why": "Rajnath Singh said the hub at IIT Kanpur was nearing approval."
+   }
+  ]
+ },
+ "u0561": {
+  "gist": "UP amended its Transport Department rules to give former Agniveers 20% horizontal reservation in Transport Enforcement Constable recruitment (reported 15 October 2026).",
+  "facts": [
+   "Cabinet approved the proposal on 15 September 2026; amended rules reported 15 October 2026.",
+   "20% horizontal reservation in Transport Enforcement Constable recruitment.",
+   "Age relaxation of 3 years for eligible former Agniveers.",
+   "Applies after completing four years of military service."
+  ],
+  "trap": "Cabinet approval: 15 September 2026; amended rules reported: 15 October 2026.",
+  "hindi": [
+   "Horizontal reservation (क्षैतिज आरक्षण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What reservation did Uttar Pradesh provide for former Agniveers in Transport Enforcement Constable recruitment in 2026?",
+    "o": [
+     "10% vertical",
+     "20% horizontal",
+     "15% horizontal",
+     "25% vertical"
+    ],
+    "k": 1,
+    "why": "Former Agniveers get 20% horizontal reservation with 3 years' age relaxation."
+   }
+  ]
+ },
+ "u0562": {
+  "gist": "UP approved the Uttar Pradesh Artificial Intelligence Mission (UP-AIM) on 9 October 2026 with ₹2,000 crore for 2026–27 to 2030–31.",
+  "facts": [
+   "Outlay ₹2,000 crore (2026–27 to 2030–31); ₹225 crore for 2026–27.",
+   "District AI Centres in all 75 districts; one AI Fellow per district at ₹40,000/month.",
+   "Over 200 AI skill labs; certify 1 lakh technical learners.",
+   "Targets: train 5 lakh youth, 50,000 AI professionals, support 100 AI startups.",
+   "Run by the IT & Electronics Department."
+  ],
+  "hindi": [
+   "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What is the proposed outlay of the Uttar Pradesh Artificial Intelligence Mission (UP-AIM) approved in October 2026?",
+    "o": [
+     "₹225 crore",
+     "₹1,000 crore",
+     "₹2,000 crore",
+     "₹5,000 crore"
+    ],
+    "k": 2,
+    "why": "UP-AIM has ₹2,000 crore for 2026–27 to 2030–31, with ₹225 crore for 2026–27."
+   }
+  ]
+ },
+ "u0563": {
+  "gist": "UP approved the Startup Procurement Scheme, 2026 on 9 October 2026, letting government departments buy from eligible startups through a GeM-linked startup module.",
+  "facts": [
+   "Approved 9 October 2026; government order issued 12 October 2026.",
+   "Nodal agency: UP Startup Mission; startup module linked to GeM.",
+   "For DPIIT-recognised startups under UP Startup Policy, 2026; HQ in UP or 50% workforce here.",
+   "Single tender up to ₹50 lakh (₹1 crore for sunrise sectors).",
+   "Payment: 30% on purchase order, 60% after supply, 10% after warranty."
+  ],
+  "hook": "Payments go 30-60-10: order, supply, warranty.",
+  "hindi": [
+   "Procurement (खरीद)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under the UP Startup Procurement Scheme, 2026, which body is the nodal agency?",
+    "o": [
+     "Invest UP",
+     "UP Electronics Corporation",
+     "UPSIDA",
+     "UP Startup Mission"
+    ],
+    "k": 3,
+    "why": "The UP Startup Mission is the nodal agency, with a GeM-linked startup module."
+   }
+  ]
+ },
+ "u0564": {
+  "gist": "On 9 October 2026, UP approved its Sustainable Aviation Fuel policy to make aviation fuel from farm waste like rice husk and bagasse.",
+  "facts": [
+   "Approved 9 October 2026; aim: make UP a Sustainable Aviation Fuel (SAF) hub.",
+   "Raw material: rice husk, wheat straw, sugarcane bagasse.",
+   "Units: Large ₹200–500 crore; Mega ₹500–1,500 crore; Ultra-Mega above ₹1,500 crore.",
+   "Incentives include 100% electricity-duty exemption for up to 10 years.",
+   "Nodal agency UPNEDA; policy valid for 5 years."
+  ],
+  "hindi": [
+   "Sustainable Aviation Fuel (सतत विमानन ईंधन)",
+   "Agricultural residue (कृषि अवशेष)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which agency is the nodal agency for Uttar Pradesh's Sustainable Aviation Fuel Manufacturing Promotion Policy, 2026?",
+    "o": [
+     "UPNEDA",
+     "Invest UP",
+     "UPSIDA",
+     "UPEIDA"
+    ],
+    "k": 0,
+    "why": "UPNEDA is the nodal agency for the SAF policy."
+   }
+  ]
+ },
+ "u0565": {
+  "gist": "UP approved the Sardar Vallabhbhai Patel Skill Training and Employment Zone Development Scheme on 9 October 2026, with ₹1,725 crore over 3 years.",
+  "facts": [
+   "Approved 9 October 2026.",
+   "Estimated spending: ₹1,725 crore over 3 years.",
+   "Aim: industry-oriented skill training and jobs in India and abroad."
+  ],
+  "hindi": [
+   "Skill training (कौशल प्रशिक्षण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What is the estimated expenditure of UP's Sardar Vallabhbhai Patel Skill Training and Employment Zone Development Scheme, approved in October 2026?",
+    "o": [
+     "₹1,725 crore over 3 years",
+     "₹2,000 crore over 5 years",
+     "₹1,340 crore over 2 years",
+     "₹725 crore over 3 years"
+    ],
+    "k": 0,
+    "why": "It was approved with an estimated ₹1,725 crore over 3 years."
+   }
+  ]
+ },
+ "u0566": {
+  "gist": "On 4 October 2026, CM Yogi Adityanath announced that Bhadohi district would be renamed Sant Ravidas Nagar Bhadohi.",
+  "facts": [
+   "Announced by CM Yogi Adityanath on October 4, 2026.",
+   "Proposed new name: Sant Ravidas Nagar Bhadohi."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In October 2026, CM Yogi Adityanath announced renaming Bhadohi district as:",
+    "o": [
+     "Sant Ravidas Nagar Bhadohi",
+     "Sant Kabir Nagar Bhadohi",
+     "Kashi Nagar Bhadohi",
+     "Ravidas Dham Bhadohi"
+    ],
+    "k": 0,
+    "why": "He announced the new name Sant Ravidas Nagar Bhadohi on October 4, 2026."
+   }
+  ]
+ },
+ "u0567": {
+  "gist": "The UP Government ran the 'Seva Sankalp Abhiyan' from 17 September to 17 October 2026 to publicise development projects and welfare schemes.",
+  "facts": [
+   "Period: 17 September to 17 October 2026.",
+   "Aim: publicise development projects, welfare schemes and government initiatives.",
+   "Encourages public participation."
+  ],
+  "hindi": [
+   "Campaign (अभियान)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Uttar Pradesh's 'Seva Sankalp Abhiyan' was conducted during:",
+    "o": [
+     "17 September – 17 October 2026",
+     "1 July – 15 August 2026",
+     "2 October – 31 October 2026",
+     "15 August – 15 September 2026"
+    ],
+    "k": 0,
+    "why": "The campaign ran from 17 September to 17 October 2026."
+   }
+  ]
+ },
+ "u0568": {
+  "gist": "In September 2026, UP introduced the Neem Karoli Baba Spiritual Tourism Circuit linking four pilgrimage sites connected with the saint.",
+  "facts": [
+   "Akbarpur (Firozabad): birthplace of Neem Karoli Baba.",
+   "Neem Karoli Ashram: Farrukhabad.",
+   "Hanuman Setu Temple: Lucknow.",
+   "Samadhi Temple: Vrindavan."
+  ],
+  "hook": "F-F-L-V: Firozabad (birth), Farrukhabad (ashram), Lucknow (Hanuman Setu), Vrindavan (samadhi).",
+  "trap": "Birthplace is Akbarpur in Firozabad; the ashram is in Farrukhabad.",
+  "hindi": [
+   "Spiritual tourism (आध्यात्मिक पर्यटन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In UP's Neem Karoli Baba Spiritual Tourism Circuit, the birthplace of Neem Karoli Baba is:",
+    "o": [
+     "Akbarpur (Firozabad)",
+     "Farrukhabad",
+     "Vrindavan",
+     "Lucknow"
+    ],
+    "k": 0,
+    "why": "Akbarpur in Firozabad is listed as Neem Karoli Baba's birthplace."
+   }
+  ]
+ },
+ "u0569": {
+  "gist": "The Tharu Janjati Museum and Living Heritage Landscape at Imlia Koder, Balrampur won Gold at the ICRT Indian Subcontinent Responsible Tourism Awards 2026.",
+  "facts": [
+   "Tharu Janjati Museum and Living Heritage Landscape: Imlia Koder, Balrampur.",
+   "Won Gold Award, 'Championing Cultural Diversity' category, on 4 September 2026.",
+   "Awards: ICRT Indian Subcontinent Responsible Tourism Awards 2026."
+  ],
+  "hindi": [
+   "Tribal museum (जनजातीय संग्रहालय)",
+   "Responsible tourism (उत्तरदायी पर्यटन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Tharu Janjati Museum, which won Gold at the ICRT Indian Subcontinent Responsible Tourism Awards 2026, is in which district?",
+    "o": [
+     "Bahraich",
+     "Lakhimpur Kheri",
+     "Balrampur",
+     "Shravasti"
+    ],
+    "k": 2,
+    "why": "The museum is at Imlia Koder, Balrampur."
+   }
+  ]
+ },
+ "u0570": {
+  "gist": "UP's Destitute Women Pension Scheme gives ₹1,000 a month to financially vulnerable widows, paid by DBT, usually ₹3,000 per quarter.",
+  "facts": [
+   "Amount: ₹1,000 per month; usually ₹3,000 per quarterly instalment through DBT.",
+   "Eligible: permanent UP residents aged 18 or above whose husbands have died.",
+   "Annual family income must be below ₹2 lakh.",
+   "Documents: ID proof, husband's death certificate, income certificate, bank details."
+  ],
+  "hindi": [
+   "Widow pension (विधवा पेंशन)",
+   "Destitute women (निराश्रित महिला)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under Uttar Pradesh's Destitute Women Pension Scheme, how much monthly pension does an eligible widow receive?",
+    "o": [
+     "₹500",
+     "₹1,000",
+     "₹1,500",
+     "₹3,000"
+    ],
+    "k": 1,
+    "why": "₹1,000 per month, usually credited quarterly as ₹3,000."
+   }
+  ]
+ },
+ "u0571": {
+  "gist": "On 19 August 2026, CM Yogi Adityanath announced a 500-acre 'Japan City' in YEIDA Sector 5A, near Noida International Airport, Jewar.",
+  "facts": [
+   "Announced 19 August 2026 at the UP–Japan Investment Meet 2026, New Delhi.",
+   "Size: 500 acres; location: YEIDA Sector 5A.",
+   "About 4 km from Noida International Airport, Jewar.",
+   "Integrated industrial, commercial and residential hub for Japanese companies."
+  ],
+  "hindi": [
+   "Investment (निवेश)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "UP's planned 500-acre 'Japan City', announced in August 2026, will be located in:",
+    "o": [
+     "YEIDA Sector 5A, near Jewar airport",
+     "Lucknow Industrial Corridor",
+     "GIDA, Gorakhpur",
+     "Kanpur Dehat"
+    ],
+    "k": 0,
+    "why": "It is planned in YEIDA Sector 5A, about 4 km from Noida International Airport, Jewar."
+   }
+  ]
+ },
+ "u0572": {
+  "gist": "UPSDM launched the 'Kaushal Sampark' QR code initiative on 15 August 2026 in Lucknow so trainees can send feedback and complaints directly.",
+  "facts": [
+   "Launched 15 August 2026 at UPSDM headquarters, Lucknow.",
+   "Led by Mission Director Pulkit Khare.",
+   "Trainees scan QR codes at training centres to send feedback, complaints, suggestions.",
+   "Aim: transparency and better training quality."
+  ],
+  "hindi": [
+   "Skill development (कौशल विकास)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The UP Skill Development Mission's 'Kaushal Sampark' initiative, launched on 15 August 2026, is a:",
+    "o": [
+     "QR code feedback system for trainees",
+     "Portal for registering training partners",
+     "Digital map of training centres",
+     "Scholarship scheme for ITI students"
+    ],
+    "k": 0,
+    "why": "Trainees scan QR codes at centres to send feedback, complaints and suggestions to UPSDM."
+   }
+  ]
+ },
+ "u0573": {
+  "gist": "In August 2026, ICID recognised the 140-year-old Parichha Weir on the Betwa in Jhansi as a World Heritage Irrigation Structure.",
+  "facts": [
+   "Recognised by International Commission on Irrigation and Drainage (ICID), August 2026.",
+   "Parichha Weir: 140 years old, in Jhansi, across the Betwa River.",
+   "1,174 metres long; supports irrigation in Bundelkhand.",
+   "WHIS Award-2026 ceremony: 14 October 2026, Marseille, France (26th ICID Congress)."
+  ],
+  "hindi": [
+   "Irrigation (सिंचाई)",
+   "World heritage (विश्व धरोहर)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Parichha Weir in Jhansi, recognised as a World Heritage Irrigation Structure in 2026, is built across which river?",
+    "o": [
+     "Ken",
+     "Yamuna",
+     "Dhasan",
+     "Betwa"
+    ],
+    "k": 3,
+    "why": "The 1,174-metre Parichha Weir is built across the Betwa River."
+   }
+  ]
+ },
+ "u0574": {
+  "gist": "In August 2026, Indo-Russian Rifles Pvt Ltd made and test-fired the first 100% indigenised AK-203 'Sher' assault rifle at Korwa, Amethi.",
+  "facts": [
+   "Maker: Indo-Russian Rifles Private Limited (IRRPL).",
+   "First 100% indigenised AK-203 'Sher' assault rifle; test-fired August 2026.",
+   "Location: Korwa Ordnance Factory, Amethi, Uttar Pradesh."
+  ],
+  "hindi": [
+   "Indigenisation (स्वदेशीकरण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The first 100% indigenised AK-203 'Sher' assault rifle was manufactured and test-fired in August 2026 at:",
+    "o": [
+     "Korwa Ordnance Factory, Amethi",
+     "Ordnance Factory, Kanpur",
+     "Small Arms Factory, Kanpur",
+     "Ordnance Factory, Firozabad"
+    ],
+    "k": 0,
+    "why": "IRRPL made and test-fired it at Korwa Ordnance Factory, Amethi."
+   }
+  ]
+ },
+ "u0575": {
+  "gist": "UP is developing 'Vedaranyam', described as India's first eco-spiritual park, at Thakurnagar near Naimisharanya, Sitapur.",
+  "facts": [
+   "Name: 'Vedaranyam', called India's first eco-spiritual park.",
+   "Location: Thakurnagar, near the helipad in Naimisharanya, Sitapur.",
+   "Being developed by the Uttar Pradesh Government."
+  ],
+  "hindi": [
+   "Eco-spiritual park (पर्यावरण-आध्यात्मिक उद्यान)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "'Vedaranyam', described as India's first eco-spiritual park, is being developed in which district of Uttar Pradesh?",
+    "o": [
+     "Sitapur",
+     "Mathura",
+     "Chitrakoot",
+     "Ayodhya"
+    ],
+    "k": 0,
+    "why": "It is coming up at Thakurnagar near Naimisharanya, Sitapur."
+   }
+  ]
+ },
+ "u0576": {
+  "gist": "India Tourism Data Compendium 2026: UP ranked first in domestic tourist visits in 2025 with 155.74 crore visits, including Mahakumbh crowds.",
+  "facts": [
+   "Source: India Tourism Data Compendium 2026.",
+   "UP first in domestic tourist visits in 2025: 155.74 crore.",
+   "Next: Tamil Nadu 36.30 crore, Andhra Pradesh 35.39 crore, West Bengal 29.43 crore.",
+   "Main centres: Ayodhya, Varanasi, Prayagraj, Mathura, Vindhyachal.",
+   "Figure includes visits during the Mahakumbh Mela 2025."
+  ],
+  "hindi": [
+   "Domestic tourism (घरेलू पर्यटन)"
+  ],
+  "priority": 1,
+  "check": "UP figure is 155.74 crore in the text but '1557.42 crore' in the list; 'Top Five' lists only four States.",
+  "mcq": [
+   {
+    "q": "According to the India Tourism Data Compendium 2026, which State ranked first in domestic tourist visits in 2025?",
+    "o": [
+     "Tamil Nadu",
+     "Andhra Pradesh",
+     "Uttar Pradesh",
+     "West Bengal"
+    ],
+    "k": 2,
+    "why": "UP ranked first with 155.74 crore domestic tourist visits in 2025."
+   }
+  ]
+ },
+ "u0577": {
+  "gist": "On 8 August 2026, Dr Jitendra Singh opened CSIR-NBRI's 'Prakriti Gyan Dham', India's first-of-its-kind eco-educational hub, at Banthra, Lucknow.",
+  "facts": [
+   "Inaugurated August 8, 2026 by Union Minister Dr. Jitendra Singh.",
+   "Site: Maharishi Parashar Bioresource Centre (MPBC), Banthra, Lucknow.",
+   "PAaVan Path: heritage trail of plants from many ecological regions.",
+   "Vibhav Enclave: rare and endangered plants; Bhairav Enclave: State Plants of States/UTs.",
+   "Bamboosteum: 43 indigenous and exotic bamboo species."
+  ],
+  "trap": "Vibhav = rare/threatened plants; Bhairav = State Plants.",
+  "hindi": [
+   "Carbon sequestration (कार्बन पृथक्करण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "'Prakriti Gyan Dham', an eco-educational hub inaugurated in August 2026, is located at:",
+    "o": [
+     "Banthra, Lucknow",
+     "Kukrail, Lucknow",
+     "Naimisharanya, Sitapur",
+     "Dudhwa, Lakhimpur Kheri"
+    ],
+    "k": 0,
+    "why": "It is at the Maharishi Parashar Bioresource Centre, Banthra, Lucknow."
+   }
+  ]
+ },
+ "u0578": {
+  "gist": "Lucknow hosted the Meeting of Heads of National Statistical Offices of BRICS countries on 3–4 August 2026 under India's BRICS Chairship 2026.",
+  "facts": [
+   "Dates: 3–4 August 2026; venue: Lucknow.",
+   "Held under India's BRICS Chairship 2026.",
+   "Statistics Track theme: 'Quality Statistics as Driver of Change'."
+  ],
+  "hindi": [
+   "National Statistical Office (राष्ट्रीय सांख्यिकी कार्यालय)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which city hosted the Meeting of Heads of National Statistical Offices of BRICS countries in August 2026?",
+    "o": [
+     "New Delhi",
+     "Varanasi",
+     "Lucknow",
+     "Agra"
+    ],
+    "k": 2,
+    "why": "It was held in Lucknow on 3–4 August 2026 under India's BRICS Chairship."
+   }
+  ]
+ },
+ "u0579": {
+  "gist": "The MY Bharat National Youth Volunteers Convention was held on 17 July 2026 at Indira Gandhi Pratishthan, Lucknow; Dr Mansukh Mandaviya addressed it.",
+  "facts": [
+   "Organised by the Department of Youth Affairs on 17 July 2026.",
+   "Venue: Indira Gandhi Pratishthan, Lucknow.",
+   "Over 1,500 youth volunteers from Uttar Pradesh.",
+   "Themes: 18 July 'Samvaad Se Samadhaan'; 19 July 'Samadhaan Se Sankalp'.",
+   "Linked to the vision of Viksit Bharat @2047."
+  ],
+  "hook": "Samvaad → Samadhaan → Sankalp: dialogue to solution to resolution.",
+  "hindi": [
+   "Youth volunteer (युवा स्वयंसेवक)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Union Minister addressed the MY Bharat National Youth Volunteers Convention in Lucknow in July 2026?",
+    "o": [
+     "Dr. Mansukh Mandaviya",
+     "Dr. Jitendra Singh",
+     "Rajnath Singh",
+     "Dharmendra Pradhan"
+    ],
+    "k": 0,
+    "why": "Union Minister Dr. Mansukh Mandaviya addressed the convention."
+   }
+  ]
+ },
+ "u0580": {
+  "gist": "On 7 July 2026, UP DGP Rajeev Krishna launched 'Operation Cy-Vajra', a statewide campaign against cybercrime, at Police Headquarters, Lucknow.",
+  "facts": [
+   "Launched 7 July 2026 by DGP Rajeev Krishna at Police Headquarters, Lucknow.",
+   "Statewide campaign against cybercrime.",
+   "Aims: arrest cybercriminals, recover defrauded money, promote cyber safety."
+  ],
+  "hindi": [
+   "Cybercrime (साइबर अपराध)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "UP Police's 'Operation Cy-Vajra', launched in July 2026, is a campaign against:",
+    "o": [
+     "Cybercrime",
+     "Drug trafficking",
+     "Illegal mining",
+     "Land encroachment"
+    ],
+    "k": 0,
+    "why": "DGP Rajeev Krishna launched it as a statewide campaign against cybercrime."
+   }
+  ]
+ },
+ "u0581": {
+  "gist": "On 8 July 2026, CM Yogi Adityanath launched the Chief Minister's Teachers' Cashless Medical Scheme in Varanasi: cashless treatment up to ₹5 lakh per family.",
+  "facts": [
+   "Launched 8 July 2026 at Pandit Deendayal Hastkala Sankul, Varanasi.",
+   "Cashless treatment up to ₹5 lakh per beneficiary family.",
+   "MoU with SBI for extra social security and insurance for teachers."
+  ],
+  "hindi": [
+   "Cashless treatment (नकदी रहित उपचार)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under UP's Chief Minister's Teachers' Cashless Medical Scheme, launched in July 2026, cashless treatment is available up to:",
+    "o": [
+     "₹2 lakh",
+     "₹5 lakh",
+     "₹10 lakh",
+     "₹3 lakh"
+    ],
+    "k": 1,
+    "why": "It gives cashless treatment up to ₹5 lakh per beneficiary family."
+   }
+  ]
+ },
+ "u0582": {
+  "gist": "On 6 July 2026, the UP Cabinet under CM Yogi Adityanath approved Startup Policy 2026, backing the State's USD 1 trillion economy vision.",
+  "facts": [
+   "Approved July 6, 2026 at a Cabinet meeting in Lucknow.",
+   "Promotes innovation, entrepreneurship, investment and jobs.",
+   "Supports UP's USD 1 trillion economy vision."
+  ],
+  "hindi": [
+   "Entrepreneurship (उद्यमिता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Uttar Pradesh's Startup Policy 2026, approved in July 2026, supports the State's vision of an economy worth:",
+    "o": [
+     "USD 1 trillion",
+     "USD 5 trillion",
+     "USD 500 billion",
+     "USD 2 trillion"
+    ],
+    "k": 0,
+    "why": "The policy supports the State's USD 1 trillion economy vision."
+   }
+  ]
+ },
+ "u0583": {
+  "gist": "Startup financial support is raised: sustenance allowance ₹20,000 a month for two years, prototype grant ₹10 lakh and seed funding ₹15 lakh.",
+  "facts": [
+   "Sustenance allowance: ₹17,500/month for one year → ₹20,000/month for two years.",
+   "Prototype grant: ₹5 lakh → ₹10 lakh.",
+   "Seed funding: ₹7.5 lakh → ₹15 lakh (up to ₹50 lakh in exceptional cases).",
+   "Emerging tech (AI, robotics, quantum, space): up to ₹20 lakh prototype, ₹30 lakh seed.",
+   "Deep-tech: up to ₹40 crore per startup; yearly cap ₹100 crore for up to 4 startups."
+  ],
+  "hook": "Doubling: prototype 5 → 10 lakh; seed 7.5 → 15 lakh.",
+  "hindi": [
+   "Seed funding (बीज पूंजी)"
+  ],
+  "priority": 1,
+  "check": "Unit has only the heading 'Financial Assistance'; it appears to be the incentives part of the UP Startup Policy 2026.",
+  "mcq": [
+   {
+    "q": "Under the startup financial assistance revised in Uttar Pradesh in 2026, the prototype grant was raised from ₹5 lakh to:",
+    "o": [
+     "₹7.5 lakh",
+     "₹10 lakh",
+     "₹15 lakh",
+     "₹20 lakh"
+    ],
+    "k": 1,
+    "why": "The prototype grant increased from ₹5 lakh to ₹10 lakh."
+   }
+  ]
+ },
+ "u0584": {
+  "gist": "On World Youth Skills Day (15 July 2026), UP Minister Kapil Dev Aggarwal launched the Kaushal Setu and Kaushal Sarathi portals in Lucknow.",
+  "facts": [
+   "Launched 15 July 2026 (World Youth Skills Day) at Indira Gandhi Pratishthan, Lucknow.",
+   "By Minister Kapil Dev Aggarwal (Vocational Education, Skill Development and Entrepreneurship).",
+   "Kaushal Setu: UPSDM portal for paperless registration of Training Partners.",
+   "Kaushal Sarathi: district-wise digital map of training centres, courses and contacts."
+  ],
+  "trap": "Setu = registering Training Partners; Sarathi = finding training centres on a map.",
+  "hindi": [
+   "Vocational education (व्यावसायिक शिक्षा)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The 'Kaushal Setu' portal, launched in Uttar Pradesh on 15 July 2026, is meant for:",
+    "o": [
+     "Paperless registration and empanelment of Training Partners",
+     "District-wise map of training centres",
+     "Trainee feedback through QR codes",
+     "Overseas job placement"
+    ],
+    "k": 0,
+    "why": "Kaushal Setu is a UPSDM portal for paperless registration and empanelment of Training Partners."
+   }
+  ]
+ },
+ "u0585": {
+  "gist": "On 1 July 2026, CM Yogi Adityanath launched the GNSS-based Digi Rover Special Land Survey Campaign from Saharanpur, covering all tehsils till 15 August.",
+  "facts": [
+   "Launched 1 July 2026 from Saharanpur by CM Yogi Adityanath.",
+   "Duration: 1 July–15 August 2026; all tehsils of the State.",
+   "Uses GNSS (Global Navigation Satellite System)-based Digi Rover devices for accurate land measurement."
+  ],
+  "hindi": [
+   "Land survey (भूमि सर्वेक्षण)",
+   "Tehsil (तहसील)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "From which district was Uttar Pradesh's GNSS-based Digi Rover Special Land Survey Campaign launched on 1 July 2026?",
+    "o": [
+     "Saharanpur",
+     "Gorakhpur",
+     "Lucknow",
+     "Meerut"
+    ],
+    "k": 0,
+    "why": "CM Yogi Adityanath launched the campaign from Saharanpur on 1 July 2026."
+   }
+  ]
+ },
+ "u0586": {
+  "gist": "By 31 July 2026, UP achieved 102.14% of its PMMVY registration target for FY 2026–27, registering 4,06,058 beneficiaries.",
+  "facts": [
+   "4,06,058 registered against a target of 3,97,567 (102.14%).",
+   "Over ₹86.55 crore paid by DBT in 2,61,369 instalments.",
+   "Benefit: ₹5,000 in two instalments for the first child.",
+   "₹6,000 for the second child if it is a girl."
+  ],
+  "hindi": [
+   "Maternity benefit (मातृत्व लाभ)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under the Pradhan Mantri Matru Vandana Yojana (PMMVY), what benefit is given for the second child if it is a girl?",
+    "o": [
+     "₹5,000",
+     "₹6,000",
+     "₹10,000",
+     "₹3,000"
+    ],
+    "k": 1,
+    "why": "₹5,000 for the first child; ₹6,000 for the second child if a girl."
+   }
+  ]
+ },
+ "u0587": {
+  "gist": "On 21 July 2026, the UP Cabinet approved the Rani Lakshmibai Scooty Scheme (₹400 crore) to give free scooters to 50,000 meritorious women graduates.",
+  "facts": [
+   "Approved 21 July 2026; budget ₹400 crore; 50,000 female graduates.",
+   "Eligibility: UP graduates of 2025–26 in the top 5%; family income up to ₹12 lakh.",
+   "Benefits: free scooter, RTO registration, insurance, ISI-marked helmet, 4 litres of petrol.",
+   "Relaxation: up to 10% below cut-off for differently abled, destitute or martyrs' daughters.",
+   "Bought through GeM; registered in the beneficiary's name; cannot be resold."
+  ],
+  "hindi": [
+   "Meritorious (मेधावी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "How many female graduates will get free scooters under UP's Rani Lakshmibai Scooty Scheme, approved in July 2026?",
+    "o": [
+     "25,000",
+     "50,000",
+     "1 lakh",
+     "40,000"
+    ],
+    "k": 1,
+    "why": "The ₹400 crore scheme gives free scooters to 50,000 meritorious female graduates."
+   }
+  ]
+ },
+ "u0588": {
+  "gist": "As of 30 June 2026, Uttar Pradesh ranked first in India with 4,226 Jan Aushadhi Kendras under PMBJP.",
+  "facts": [
+   "UP first nationally: 4,226 Jan Aushadhi Kendras (30 June 2026).",
+   "Scheme: Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP).",
+   "National target: 25,000 Kendras by March 2027.",
+   "Generic medicines 50–80% cheaper than branded ones.",
+   "Basket: 2,110 medicines and 315 surgical items, consumables and devices."
+  ],
+  "hindi": [
+   "Generic medicine (जेनेरिक दवा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "As of 30 June 2026, how many Jan Aushadhi Kendras had Uttar Pradesh opened, ranking first in India?",
+    "o": [
+     "2,110",
+     "4,226",
+     "3,150",
+     "25,000"
+    ],
+    "k": 1,
+    "why": "UP ranked first with 4,226 Jan Aushadhi Kendras under PMBJP."
+   }
+  ]
+ },
+ "u0589": {
+  "gist": "On 8 June 2026, Dr Jitendra Singh and CM Yogi Adityanath inaugurated the Regional Meteorological Centre in Lucknow for local, impact-based forecasts.",
+  "facts": [
+   "Inaugurated June 8, 2026 by Dr. Jitendra Singh and CM Yogi Adityanath.",
+   "Serves Uttar Pradesh, Uttarakhand and nearby regions; helps disaster preparedness.",
+   "Doppler Weather Radars: 17 (2014) to 50 (June 2026).",
+   "50 more radars proposed under Mission Mausam."
+  ],
+  "hindi": [
+   "Weather forecast (मौसम पूर्वानुमान)",
+   "Disaster preparedness (आपदा तैयारी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "How many Doppler Weather Radars did India's network have in June 2026, when the Regional Meteorological Centre in Lucknow was inaugurated?",
+    "o": [
+     "17",
+     "34",
+     "50",
+     "100"
+    ],
+    "k": 2,
+    "why": "The DWR network grew from 17 in 2014 to 50 in June 2026."
+   }
+  ]
+ },
+ "u0590": {
+  "gist": "On 9 June 2026, CM Yogi Adityanath launched Project GANGA to bring high-speed broadband to over 20 lakh rural and semi-urban households.",
+  "facts": [
+   "GANGA = Government Assisted Network for Growth & Advancement.",
+   "Launched June 9, 2026; broadband for over 20 lakh households in 2–3 years.",
+   "Targets 8,000–10,000 Digital Service Providers at Nyaya Panchayat level.",
+   "Around 50% of the digital entrepreneurs expected to be women.",
+   "Internet brand name: 'Ganga Fiber'."
+  ],
+  "trap": "Project GANGA is a broadband project, not a river-cleaning scheme.",
+  "hindi": [
+   "Broadband connectivity (ब्रॉडबैंड संपर्क)",
+   "Digital inclusion (डिजिटल समावेशन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Uttar Pradesh's Project GANGA, launched in June 2026, mainly aims to:",
+    "o": [
+     "Clean the Ganga river",
+     "Promote river cruise tourism",
+     "Build Ganga Expressway service roads",
+     "Expand high-speed rural broadband"
+    ],
+    "k": 3,
+    "why": "Project GANGA expands high-speed broadband under the brand 'Ganga Fiber'."
+   }
+  ]
+ },
+ "u0591": {
+  "gist": "On 30 May 2026, Rajnath Singh and CM Yogi Adityanath inaugurated Nausena Shaurya Vatika in Lucknow, centred on the decommissioned warship INS Gomti.",
+  "facts": [
+   "Inaugurated 30 May 2026 in Lucknow.",
+   "By Defence Minister Rajnath Singh and CM Yogi Adityanath.",
+   "Centrepiece: decommissioned naval warship INS Gomti."
+  ],
+  "hindi": [
+   "Navy (नौसेना)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which decommissioned warship is the centrepiece of Nausena Shaurya Vatika, inaugurated in Lucknow in May 2026?",
+    "o": [
+     "INS Gomti",
+     "INS Viraat",
+     "INS Vikrant",
+     "INS Khukri"
+    ],
+    "k": 0,
+    "why": "The Vatika's centrepiece is the decommissioned naval warship INS Gomti."
+   }
+  ]
+ },
+ "u0592": {
+  "gist": "UP won PM Surya Ghar awards in June 2026; by 20 October 2026 it led India with about 9.14 lakh rooftop solar installations.",
+  "facts": [
+   "Awards by MNRE in New Delhi, June 2026, for May 2026 performance.",
+   "First in high-consumer-base category: 1,02,035 applications, 64,734 installations, 779 vendors.",
+   "Lucknow: India's top rooftop-solar district (over 1 lakh); over 1.56 lakh installations by October 2026.",
+   "UP second nationally in the DISCOM inspection category.",
+   "October 2026: about 9.14 lakh installations (first in India), over 3,000 MW."
+  ],
+  "hindi": [
+   "Rooftop solar (छत पर सौर ऊर्जा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which district emerged as India's top-performing district for rooftop solar under PM Surya Ghar: Muft Bijli Yojana in 2026?",
+    "o": [
+     "Varanasi",
+     "Surat",
+     "Ahmedabad",
+     "Lucknow"
+    ],
+    "k": 3,
+    "why": "Lucknow was India's top district, surpassing 1 lakh rooftop solar installations."
+   }
+  ]
+ },
+ "u0593": {
+  "gist": "UP Tourism Minister Jaiveer Singh launched the 'Visit My State' campaign on 13 May 2026, giving children and families free museum entry for two months.",
+  "facts": [
+   "Launched 13 May 2026 by Tourism Minister Jaiveer Singh.",
+   "Called global uncertainty an 'opportunity in crisis'.",
+   "Free entry to state-run museums for children and families for two months."
+  ],
+  "hindi": [
+   "Museum (संग्रहालय)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Under Uttar Pradesh's 'Visit My State' campaign, launched in May 2026, what benefit is offered?",
+    "o": [
+     "Free entry to state-run museums for two months",
+     "Free bus travel to pilgrim sites",
+     "Discounted hotel stays for one month",
+     "Free heritage walks in Lucknow"
+    ],
+    "k": 0,
+    "why": "State-run museums give children and families free entry for two months."
+   }
+  ]
+ },
+ "u0594": {
+  "gist": "APEDA signed a 70-year lease to set up India's first integrated Basmati and organic training-cum-demonstration farm in Pilibhit, Uttar Pradesh.",
+  "facts": [
+   "Agency: APEDA (Agricultural and Processed Food Products Export Development Authority).",
+   "Lease period: 70 years.",
+   "India's first integrated Basmati and organic training-cum-demonstration farm.",
+   "Location: Pilibhit, Uttar Pradesh."
+  ],
+  "hindi": [
+   "Organic farming (जैविक खेती)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where will APEDA set up India's first integrated Basmati and organic training-cum-demonstration farm?",
+    "o": [
+     "Pilibhit",
+     "Meerut",
+     "Bareilly",
+     "Shahjahanpur"
+    ],
+    "k": 0,
+    "why": "APEDA signed a 70-year lease for the farm in Pilibhit, Uttar Pradesh."
+   }
+  ]
+ },
+ "u0595": {
+  "gist": "PM Modi inaugurated the 594-km Ganga Expressway in Hardoi on 29 April 2026; it runs through 12 districts from Meerut to Prayagraj.",
+  "facts": [
+   "Inaugurated by PM Narendra Modi in Hardoi district on April 29, 2026.",
+   "Foundation stone: December 18, 2021 at Shahjahanpur; work began April 2022.",
+   "594 km, access-controlled greenfield, six lanes (expandable to eight), design speed 120 km/h.",
+   "Cost about ₹36,230 crore; built on public-private partnership model.",
+   "12 districts: Meerut, Bulandshahr, Hapur, Amroha, Sambhal, Badaun, Shahjahanpur, Hardoi, Unnao, Rae Bareli, Pratapgarh, Prayagraj."
+  ],
+  "trap": "Inaugurated in Hardoi (2026); foundation stone laid in Shahjahanpur (2021).",
+  "hindi": [
+   "Expressway (द्रुतगामी मार्ग)",
+   "Public-private partnership (सार्वजनिक-निजी भागीदारी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In which district did PM Narendra Modi inaugurate the Ganga Expressway on April 29, 2026?",
+    "o": [
+     "Hardoi",
+     "Shahjahanpur",
+     "Meerut",
+     "Prayagraj"
+    ],
+    "k": 0,
+    "why": "It was inaugurated in Hardoi; the foundation stone was laid in Shahjahanpur in 2021."
+   },
+   {
+    "q": "What is the length of the Ganga Expressway inaugurated in April 2026?",
+    "o": [
+     "341 km",
+     "296 km",
+     "594 km",
+     "632 km"
+    ],
+    "k": 2,
+    "why": "It is a 594-km-long access-controlled greenfield corridor."
+   }
+  ]
+ },
+ "u0596": {
+  "gist": "Lucknow hosted 'Fruit Horizon 2026' on 6-7 May 2026, a national conclave on making India a global leader in premium fruit production and exports.",
+  "facts": [
+   "Dates: May 6-7, 2026; venue: Lucknow.",
+   "Two-day national conclave.",
+   "Focus: premium fruit production and exports."
+  ],
+  "hindi": [
+   "Fruit production (फल उत्पादन)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which city hosted the 'Fruit Horizon 2026' national conclave in May 2026?",
+    "o": [
+     "Lucknow",
+     "Saharanpur",
+     "Varanasi",
+     "Nagpur"
+    ],
+    "k": 0,
+    "why": "Lucknow hosted Fruit Horizon 2026 on May 6-7, 2026."
+   }
+  ]
+ },
+ "u0597": {
+  "gist": "UP revised minimum wages by a notification of 17 April (effective 1 April 2026), dividing the State into three categories by area.",
+  "facts": [
+   "Notified April 17 as an interim step; retrospective from April 1, 2026.",
+   "Under Minimum Wages Act, 1948, using powers of the United Provinces Industrial Disputes Act, 1947.",
+   "Category I: Gautam Buddha Nagar and Ghaziabad (high industry, high living cost).",
+   "Category II: districts with municipal corporations; Category III: all other districts.",
+   "Wages set by skill (unskilled, semi-skilled, skilled): basic amount plus Variable Dearness Allowance (VDA).",
+   "Category I monthly wages: ₹13,690 unskilled, ₹15,059 semi-skilled, ₹16,868 skilled."
+  ],
+  "trap": "Minimum Wages Act is of 1948; the UP powers used are under the 1947 Industrial Disputes Act.",
+  "hindi": [
+   "Minimum wage (न्यूनतम मजदूरी)",
+   "Dearness allowance (महंगाई भत्ता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under Uttar Pradesh's minimum wage revision effective April 1, 2026, which districts are placed in Category I?",
+    "o": [
+     "Lucknow and Kanpur Nagar",
+     "Varanasi and Prayagraj",
+     "Agra and Meerut",
+     "Gautam Buddha Nagar and Ghaziabad"
+    ],
+    "k": 3,
+    "why": "Gautam Buddha Nagar and Ghaziabad are Category I due to high industry and living costs."
+   }
+  ]
+ },
+ "u0598": {
+  "gist": "The UP Cabinet approved the fully state-funded 'Navayug Palika Yojana' to give urban bodies at 58 district headquarters smart-city style facilities.",
+  "facts": [
+   "Covers urban bodies in 58 district headquarters.",
+   "Includes 55 municipal councils, three town councils and Dadri Municipal Council (Gautam Buddha Nagar).",
+   "₹583.20 crore a year; ₹2,916 crore over five years (2025-26 to 2029-30).",
+   "Fully state-funded; no central government share.",
+   "Promotes digital governance and e-services, like smart cities."
+  ],
+  "hook": "583.20 × 5 = 2,916: yearly amount times five years.",
+  "hindi": [
+   "Municipal council (नगर पालिका परिषद)",
+   "Urban local body (नगरीय निकाय)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Uttar Pradesh's Navayug Palika Yojana will cover urban bodies in how many district headquarters?",
+    "o": [
+     "55",
+     "58",
+     "75",
+     "17"
+    ],
+    "k": 1,
+    "why": "Urban bodies in 58 district headquarters will get modern facilities."
+   }
+  ]
+ },
+ "u0599": {
+  "gist": "Defence Minister Rajnath Singh attended the third edition of the Sansad Khel Mahakumbh in Lucknow, which began in April 2026.",
+  "facts": [
+   "Third edition of Sansad Khel Mahakumbh began in April 2026.",
+   "Rajnath Singh attended it in Lucknow.",
+   "He stressed the rapid growth of sports infrastructure in India."
+  ],
+  "hindi": [
+   "Sports infrastructure (खेल अवसंरचना)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which edition of the Sansad Khel Mahakumbh, attended by Rajnath Singh in Lucknow, began in April 2026?",
+    "o": [
+     "First",
+     "Second",
+     "Third",
+     "Fifth"
+    ],
+    "k": 2,
+    "why": "The third edition of the Sansad Khel Mahakumbh began in April 2026."
+   }
+  ]
+ },
+ "u0600": {
+  "gist": "A 700-kg Vikramaditya Vedic Clock, presented by MP CM Mohan Yadav, was unveiled at Kashi Vishwanath Temple in April 2026 to revive Indian timekeeping.",
+  "facts": [
+   "Weight: 700 kg; placed at Kashi Vishwanath Temple in April 2026.",
+   "Presented by Madhya Pradesh CM Mohan Yadav.",
+   "Unveiled in the presence of UP CM Yogi Adityanath.",
+   "Aim: revive ancient Indian timekeeping traditions."
+  ],
+  "hindi": [
+   "Time reckoning (कालगणना)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who presented the 700-kg Vikramaditya Vedic Clock unveiled at Kashi Vishwanath Temple in April 2026?",
+    "o": [
+     "Mohan Yadav",
+     "Yogi Adityanath",
+     "Narendra Modi",
+     "Shivraj Singh Chouhan"
+    ],
+    "k": 0,
+    "why": "Madhya Pradesh CM Mohan Yadav presented the clock; Yogi Adityanath was present."
+   }
+  ]
+ },
+ "u0601": {
+  "gist": "Divya Singh, a 28-year-old Gorakhpur schoolteacher, became the first Indian woman and second woman in the world to cycle to Everest Base Camp.",
+  "facts": [
+   "Divya Singh: 28-year-old schoolteacher from Gorakhpur, Uttar Pradesh.",
+   "First Indian woman, and second woman globally, to cycle to Everest Base Camp.",
+   "Completed the journey in 14 days."
+  ],
+  "trap": "First Indian woman, but second woman globally.",
+  "hindi": [
+   "Base camp (आधार शिविर)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Divya Singh, the first Indian woman to cycle to Everest Base Camp, is from which district of Uttar Pradesh?",
+    "o": [
+     "Gorakhpur",
+     "Varanasi",
+     "Prayagraj",
+     "Bareilly"
+    ],
+    "k": 0,
+    "why": "She is a 28-year-old schoolteacher from Gorakhpur, Uttar Pradesh."
+   }
+  ]
+ },
+ "u0602": {
+  "gist": "GSI declared the Eparchaean Unconformity near Kalinjar Fort, Banda, a Geo-Heritage Site of National Importance on 6 March 2026.",
+  "facts": [
+   "Declared by the Geological Survey of India (GSI).",
+   "Site: Eparchaean Unconformity near Kalinjar Fort, Banda district.",
+   "Resolution adopted March 6, 2026 at the 176th GSI Foundation Day."
+  ],
+  "trap": "The geo-heritage site is the rock feature (Eparchaean Unconformity) near the fort, not the fort itself.",
+  "hindi": [
+   "Geo-heritage site (भू-विरासत स्थल)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Eparchaean Unconformity near Kalinjar Fort, declared a Geo-Heritage Site of National Importance in March 2026, is in which district?",
+    "o": [
+     "Jhansi",
+     "Lalitpur",
+     "Chitrakoot",
+     "Banda"
+    ],
+    "k": 3,
+    "why": "GSI declared the site near Kalinjar Fort, Banda district, on March 6, 2026."
+   }
+  ]
+ },
+ "u0603": {
+  "gist": "On 24 March 2026, CM Yogi Adityanath launched 'Nivesh Mitra 3.0', a digital platform to make investing in UP simpler.",
+  "facts": [
+   "Launched March 24, 2026 by CM Yogi Adityanath.",
+   "Digital platform to simplify and improve the investor experience.",
+   "Also unveiled the UP Private Business Park Development Scheme 2025.",
+   "And the Plug-and-Play Industrial Sheds Scheme."
+  ],
+  "hindi": [
+   "Investor (निवेशक)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "'Nivesh Mitra 3.0', launched by the UP Chief Minister in March 2026, is a:",
+    "o": [
+     "Digital platform for investors",
+     "Loan scheme for MSMEs",
+     "Global investors summit",
+     "Industrial corridor"
+    ],
+    "k": 0,
+    "why": "It is a digital platform designed to simplify and enhance the investor experience."
+   }
+  ]
+ },
+ "u0604": {
+  "gist": "The World Bank, Government of India and UP signed an agreement backing UP's Clean Air Plan for cleaner air and jobs for youth and women.",
+  "facts": [
+   "Parties: World Bank, Government of India and Government of Uttar Pradesh.",
+   "Supports the UP Government's Clean Air Plan.",
+   "Integrated solutions to improve the State's air quality.",
+   "Also aims to create jobs for youth and women."
+  ],
+  "hindi": [
+   "Air quality (वायु गुणवत्ता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which organisation signed an agreement with the Government of India and the Government of Uttar Pradesh to support UP's Clean Air Plan?",
+    "o": [
+     "World Bank",
+     "Asian Development Bank",
+     "New Development Bank",
+     "JICA"
+    ],
+    "k": 0,
+    "why": "The World Bank, Government of India and Government of UP signed the agreement."
+   }
+  ]
+ }
+}

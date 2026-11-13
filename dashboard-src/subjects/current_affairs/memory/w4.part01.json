@@ -1,0 +1,954 @@
+{
+ "u0396": {
+  "gist": "On 14 October 2026, CCEA approved 10955230 Canada Inc. (Fairfax group) to buy 60.72% of IDBI Bank for about ₹52,878.08 crore.",
+  "facts": [
+   "Buyer: 10955230 Canada Inc.; parent company Fairfax Financial Holdings Limited.",
+   "Stake sold: Government of India 30.48% + LIC 30.24% = 60.72%.",
+   "Bid ₹81 per share vs benchmark ₹75.99 (average of two independent valuations).",
+   "After the sale: Government about 15%, LIC about 19%.",
+   "Started as Industrial Development Bank of India on 1 July 1964; banking company from 1 October 2004.",
+   "RBI classed it a private sector bank from 21 January 2019, after LIC bought 51%."
+  ],
+  "hook": "60.72 = 30.48 (Govt) + 30.24 (LIC): two near-30s add up to about 61.",
+  "trap": "CCEA (Cabinet Committee on Economic Affairs) approved the buyer; the deal is still subject to regulatory conditions.",
+  "hindi": [
+   "Strategic disinvestment (रणनीतिक विनिवेश)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which company was approved in October 2026 as the buyer for the strategic sale of a 60.72% stake in IDBI Bank?",
+    "o": [
+     "Fairfax India Holdings",
+     "Emirates NBD",
+     "Life Insurance Corporation",
+     "10955230 Canada Inc."
+    ],
+    "k": 3,
+    "why": "CCEA approved 10955230 Canada Inc., whose parent is Fairfax Financial Holdings Limited."
+   },
+   {
+    "q": "In the IDBI Bank strategic sale approved in October 2026, what was the approved bid per share?",
+    "o": [
+     "₹75.99",
+     "₹60.72",
+     "₹81",
+     "₹52"
+    ],
+    "k": 2,
+    "why": "Bid was ₹81 per share against a benchmark of ₹75.99 per share."
+   }
+  ]
+ },
+ "u0397": {
+  "gist": "The 57th GST Council meeting (New Delhi, 8 October 2026), chaired by Nirmala Sitharaman, recommended simpler registration, faster refunds and easier compliance.",
+  "facts": [
+   "57th GST Council meeting: New Delhi, October 8, 2026; chair Nirmala Sitharaman.",
+   "Simpler registration form FORM GST REG-01; auto-approval of amendments except Principal Place of Business (PPoB).",
+   "Rule 14B: simple registration route for small e-commerce sellers.",
+   "Refund acknowledgement/deficiency memo time cut from 15 days to 10 days.",
+   "Minimum tax amount for issuing a show-cause notice: ₹10,000.",
+   "ITC on input services received on or after 1 November 2026 to count for inverted duty refunds."
+  ],
+  "hindi": [
+   "Show-cause notice (कारण बताओ नोटिस)",
+   "Input Tax Credit (इनपुट कर क्रेडिट)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "At the 57th GST Council meeting in October 2026, what minimum tax amount was recommended for issuing a show-cause notice?",
+    "o": [
+     "₹5,000",
+     "₹10,000",
+     "₹25,000",
+     "₹50,000"
+    ],
+    "k": 1,
+    "why": "The Council recommended a minimum tax amount of ₹10,000 for a show-cause notice."
+   }
+  ]
+ },
+ "u0398": {
+  "gist": "At its 63rd meeting (5-7 October 2026), RBI's MPC under Governor Sanjay Malhotra raised the repo rate by 25 basis points to 5.50%.",
+  "facts": [
+   "Repo rate up 25 basis points: 5.25% to 5.50%; decision unanimous.",
+   "From 7 October 2026: SDF 5.25%; MSF and Bank Rate 5.75%.",
+   "RBI forecast for FY 2026–27: real GDP growth 7.1%, CPI inflation 5.2%, core inflation 4.4%.",
+   "Actual Q1 FY 2026–27 (April–June 2026) real GDP growth: 7.8% (MoSPI).",
+   "Inflation target 4% (band 2% to 6%) for 1 April 2026 to 31 March 2031.",
+   "September CPI (released 12 October 2026, provisional): headline 5.54%, food 7.74%; base 2024=100."
+  ],
+  "trap": "7.1% is RBI's full-year FY 2026–27 forecast; 7.8% is the actual Q1 growth. 5.2% is projected CPI; 5.54% is September's actual.",
+  "hindi": [
+   "Repo rate (रेपो दर)",
+   "Monetary Policy Committee (मौद्रिक नीति समिति)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "At the 63rd MPC meeting in October 2026, the RBI's policy repo rate was changed to:",
+    "o": [
+     "5.25%",
+     "5.75%",
+     "5.50%",
+     "6.00%"
+    ],
+    "k": 2,
+    "why": "The MPC raised the repo rate by 25 basis points, from 5.25% to 5.50%."
+   },
+   {
+    "q": "For the period 1 April 2026 to 31 March 2031, India's notified CPI inflation target is:",
+    "o": [
+     "2%",
+     "4%",
+     "5.2%",
+     "6%"
+    ],
+    "k": 1,
+    "why": "Target is 4%, with a lower tolerance limit of 2% and upper limit of 6%."
+   }
+  ]
+ },
+ "u0399": {
+  "gist": "The Registration of Births and Deaths (Amendment) Act, 2026, in force from 1 October 2026, names different authorities for late registration by length of delay.",
+  "facts": [
+   "Amends Section 13 of the Registration of Births and Deaths Act, 1969.",
+   "Presidential assent: August 6, 2026; in force: October 1, 2026.",
+   "Delay over one year but within two years: order of DM, SDM or authorised Executive Magistrate (Section 13(3)).",
+   "Delay over two years: order of a Judicial Magistrate of the First Class (Section 13(3A)).",
+   "Normal reporting time: 21 days; registration within 30 days needs a late fee.",
+   "Start date notified by Registrar General, India (MHA) through S.O. 5081(E), 16 September 2026."
+  ],
+  "trap": "Under the 2023 amendment every delay over one year needed a DM/SDM order; the 2026 Act shifts over-two-year cases to a Judicial Magistrate.",
+  "hindi": [
+   "Judicial Magistrate (न्यायिक मजिस्ट्रेट)",
+   "Registration (पंजीकरण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under the Registration of Births and Deaths (Amendment) Act, 2026, a birth reported more than two years late can be registered only on the order of:",
+    "o": [
+     "District Magistrate",
+     "Sub-Divisional Magistrate",
+     "Registrar General of India",
+     "Judicial Magistrate of the First Class"
+    ],
+    "k": 3,
+    "why": "New Section 13(3A): delays over two years need a Judicial Magistrate of the First Class."
+   }
+  ]
+ },
+ "u0400": {
+  "gist": "PMJDY, India's National Mission for Financial Inclusion launched on 28 August 2014, completed 12 years on 28 August 2026 with 59.09 crore accounts.",
+  "facts": [
+   "Launched by PM Narendra Modi on 28 August 2014.",
+   "Accounts: 14.72 crore (2015) to 59.09 crore (19 August 2026), about fourfold.",
+   "Women hold 32.92 crore accounts (about 55.7%); rural and semi-urban 45.95 crore (77.8%).",
+   "Deposits: ₹15,670 crore (March 2015) to ₹3,16,514 crore (August 2026); average ₹5,356 per account.",
+   "Accident cover ₹2 lakh for accounts opened after August 28, 2018; overdraft up to ₹10,000.",
+   "Guinness record (January 2015): 18,096,130 accounts opened in one week, August 23-29, 2014."
+  ],
+  "hook": "Same birthday: launched 28 August 2014, 12 years on 28 August 2026.",
+  "hindi": [
+   "Financial inclusion (वित्तीय समावेशन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "As of 19 August 2026, how many bank accounts had been opened under PMJDY?",
+    "o": [
+     "14.72 crore",
+     "45.95 crore",
+     "41.29 crore",
+     "59.09 crore"
+    ],
+    "k": 3,
+    "why": "Accounts rose from 14.72 crore in 2015 to 59.09 crore by 19 August 2026."
+   }
+  ]
+ },
+ "u0401": {
+  "gist": "Under PMGKAY, eligible beneficiaries now get food subsidy as programmable Digital Rupee (e₹) tokens in CBDC wallets instead of bank transfers.",
+  "facts": [
+   "CBDC-based DBT for PMGKAY launched in Chandigarh and Dadra & Nagar Haveli on August 14, 2026.",
+   "Launched by Union Agriculture Minister Shivraj Singh Chouhan.",
+   "Pilots: Gujarat by Amit Shah (February 15, 2026); Puducherry by Prahlad Joshi (February 26, 2026).",
+   "Digital Rupee (e₹) is a tokenised digital rupee issued by RBI as a CBDC.",
+   "Chandigarh was an early adopter of food-subsidy DBT in September 2015."
+  ],
+  "trap": "Pilot began in Gujarat (February 2026); the PMGKAY launch was in Chandigarh and Dadra & Nagar Haveli (14 August 2026).",
+  "hindi": [
+   "Digital Rupee (डिजिटल रुपया)",
+   "Direct Benefit Transfer (प्रत्यक्ष लाभ अंतरण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was CBDC-based DBT for PMGKAY beneficiaries launched on August 14, 2026?",
+    "o": [
+     "Gujarat and Puducherry",
+     "Ladakh and Lakshadweep",
+     "Delhi and Goa",
+     "Chandigarh and Dadra & Nagar Haveli"
+    ],
+    "k": 3,
+    "why": "The Government launched it in Chandigarh and Dadra & Nagar Haveli on August 14, 2026."
+   }
+  ]
+ },
+ "u0402": {
+  "gist": "The Government approved RBI's proposal for field trials of ₹10 and ₹20 polymer banknotes; existing paper notes stay legal tender.",
+  "facts": [
+   "RBI proposed one billion notes of each: 200 crore notes, face value about ₹3,000 crore.",
+   "Proposal under Sections 24 (denominations) and 25 (design, form, materials) of the RBI Act, 1934.",
+   "BRBNMPL, an RBI subsidiary, started procuring polymer substrate.",
+   "Australia first issued a polymer banknote in 1988; more than 60 countries use them.",
+   "Currency in circulation up 12% to ₹41.23 lakh crore (end-March 2026); ₹500 notes about 86% of value.",
+   "Printing cost fell nearly 24% to ₹4,875 crore in 2025–26."
+  ],
+  "trap": "Section 24 = denominations; Section 25 = design, form and materials.",
+  "hindi": [
+   "Legal tender (वैध मुद्रा)",
+   "Banknote (बैंक नोट)"
+  ],
+  "priority": 1,
+  "check": "Coins in circulation printed as '₹40,814' with no unit (crore?).",
+  "mcq": [
+   {
+    "q": "India plans field trials of ₹10 and ₹20 polymer banknotes. Which country first issued a polymer banknote, in 1988?",
+    "o": [
+     "Canada",
+     "United Kingdom",
+     "Singapore",
+     "Australia"
+    ],
+    "k": 3,
+    "why": "Australia first issued a polymer banknote in 1988."
+   }
+  ]
+ },
+ "u0403": {
+  "gist": "The Bankers' Books Evidence Act, 2026 (in force 1 October 2026) replaces the 1891 Act and accepts physical, electronic and digital bank records as evidence.",
+  "facts": [
+   "Replaces the Bankers' Books Evidence Act, 1891 with a technology-neutral framework.",
+   "Lok Sabha passed it 5 August 2026, Rajya Sabha 10 August; assent 13 August 2026.",
+   "Bankers' books include records at off-site, virtual, cloud, backup and disaster recovery locations.",
+   "'Banks' include post office savings bank and money order offices.",
+   "Certified copies are prima facie (first-look), not conclusive, evidence.",
+   "NBFCs, payment aggregators and fintechs covered only if notified or under another law."
+  ],
+  "hindi": [
+   "Evidence (साक्ष्य)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Bankers' Books Evidence Act, 2026, which came into force on October 1, 2026, replaced the Bankers' Books Evidence Act of which year?",
+    "o": [
+     "1872",
+     "1891",
+     "1934",
+     "1949"
+    ],
+    "k": 1,
+    "why": "The 2026 Act replaces the Bankers' Books Evidence Act, 1891."
+   }
+  ]
+ },
+ "u0404": {
+  "gist": "The Indian Statistical Institute Bill, 2026 (Lok Sabha, 3 August 2026) would replace the 1959 Act and make ISI a statutory body corporate.",
+  "facts": [
+   "Introduced in Lok Sabha on 3 August 2026; replaces the 1959 Act (in force April 1, 1960).",
+   "ISI stays an institution of national importance under the Ministry of Statistics and Programme Implementation.",
+   "President of India would be the Visitor; can order reviews and nominate the Board Chairperson.",
+   "An 11-member Board would replace the 33-member Council.",
+   "Board: Chairperson, government representatives, four external experts and four ISI representatives.",
+   "The Director would be the Chief Executive Officer."
+  ],
+  "hook": "11 replaces 33: the new Board is one-third the size of the old Council.",
+  "hindi": [
+   "Institution of national importance (राष्ट्रीय महत्व का संस्थान)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Under the Indian Statistical Institute Bill, 2026, the 33-member Council would be replaced by a Board of how many members?",
+    "o": [
+     "9",
+     "15",
+     "21",
+     "11"
+    ],
+    "k": 3,
+    "why": "An 11-member Board would replace the 33-member Council."
+   }
+  ]
+ },
+ "u0405": {
+  "gist": "The VB-G RAM G Act, 2025 replaced MGNREGA from July 1, 2026 and raised the rural job guarantee from 100 to 125 days a year.",
+  "facts": [
+   "Full name: Viksit Bharat – Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025.",
+   "In force across rural India from July 1, 2026; repealed MGNREGA, 2005.",
+   "Guarantee raised from 100 to 125 days per year; wage floor ₹300/day for 2026–27.",
+   "Funding: 90:10 for Northeastern and Himalayan States; 60:40 for other States/UTs with legislatures.",
+   "Shivraj Singh Chouhan released over ₹25,000 crore as first instalment, the 'Mother Sanction'.",
+   "FY 2026–27 Central share ₹95,692.31 crore (Budget Estimate); total outlay over ₹1.51 lakh crore."
+  ],
+  "hook": "VB-G RAM G = Viksit Bharat – Guarantee for Rozgar And Ajeevika Mission (Gramin). Motto: 'Rozgar Bhi, Samman Bhi'.",
+  "trap": "Old MGNREGA guarantee = 100 days; new Act = 125 days. UTs without legislatures get full Central funding.",
+  "hindi": [
+   "Rural employment (ग्रामीण रोजगार)",
+   "Unemployment allowance (बेरोजगारी भत्ता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under the VB-G RAM G Act, 2025, in force from July 1, 2026, how many days of wage employment are guaranteed per rural household per financial year?",
+    "o": [
+     "100",
+     "120",
+     "125",
+     "150"
+    ],
+    "k": 2,
+    "why": "The Act raises the guarantee from 100 to 125 days per financial year."
+   },
+   {
+    "q": "Under the VB-G RAM G Act, 2025, what is the Centre–State funding ratio for States other than Northeastern and Himalayan States?",
+    "o": [
+     "90:10",
+     "75:25",
+     "50:50",
+     "60:40"
+    ],
+    "k": 3,
+    "why": "90:10 for Northeastern/Himalayan States; 60:40 for other States and UTs with legislatures."
+   }
+  ]
+ },
+ "u0406": {
+  "gist": "MoSPI's Provisional Estimates (5 June 2026) put India's real GDP growth for 2025–26 at 7.7%, with fourth-quarter growth at 7.8%.",
+  "facts": [
+   "Released by MoSPI on June 5, 2026, with fourth-quarter (January–March) estimates.",
+   "Real GDP 2025–26: ₹323.12 lakh crore vs ₹299.89 lakh crore in 2024–25 (growth 7.7%).",
+   "Nominal GDP 2025–26: ₹346.36 lakh crore, growth 8.9%.",
+   "Real GVA growth 7.9%; nominal GVA growth 9.1% (2025–26).",
+   "Fourth-quarter 2025–26 real GDP growth estimated at 7.8%."
+  ],
+  "trap": "Full-year 2025–26 real growth 7.7% vs Q4 growth 7.8%; real GDP 7.7% vs nominal GDP 8.9%.",
+  "hindi": [
+   "Provisional estimates (अनंतिम अनुमान)",
+   "Gross Domestic Product (सकल घरेलू उत्पाद)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to MoSPI's Provisional Estimates released on June 5, 2026, India's real GDP growth for 2025–26 is estimated at:",
+    "o": [
+     "7.7%",
+     "7.8%",
+     "8.9%",
+     "7.9%"
+    ],
+    "k": 0,
+    "why": "Real GDP rose from ₹299.89 lakh crore to ₹323.12 lakh crore: growth 7.7%."
+   }
+  ]
+ },
+ "u0407": {
+  "gist": "On 27 February 2026, MoSPI released a new GDP series with base year 2022–23, replacing 2011–12, as a recent normal post-COVID year.",
+  "facts": [
+   "New base year 2022–23 replaced 2011–12; released by MoSPI on 27 February 2026.",
+   "Q1 FY 2026-27 real GDP: ₹81.36 lakh crore, growth 7.8% (vs 6.9% a year earlier).",
+   "Q1 FY 2026-27 nominal GDP: ₹88.27 lakh crore, growth 10.3%.",
+   "Revised real growth: 2023-24 7.3%, 2024-25 7.2%, 2025-26 7.8%.",
+   "Q1 2026-27 growth: GFCF 11.9%, exports 12.0%, PFCE 7.1%."
+  ],
+  "trap": "New base year 2022–23; old base year 2011–12.",
+  "hindi": [
+   "Base year (आधार वर्ष)"
+  ],
+  "priority": 1,
+  "check": "Release dated 27 February 2026, yet the text quotes Q1 FY 2026-27 (April–June 2026) figures; these must come from a later release.",
+  "mcq": [
+   {
+    "q": "In February 2026, MoSPI released India's new GDP series with which base year?",
+    "o": [
+     "2011–12",
+     "2017–18",
+     "2022–23",
+     "2024–25"
+    ],
+    "k": 2,
+    "why": "The new series has base year 2022–23, replacing the 2011–12 series."
+   }
+  ]
+ },
+ "u0408": {
+  "gist": "National Health Accounts 2022–23: India's total health spending was ₹8,81,359 crore (3.37% of GDP); households paid 43.41% out of pocket.",
+  "facts": [
+   "Total Health Expenditure (THE) 2022–23: ₹8,81,359 crore = 3.37% of GDP; ₹6,373 per person.",
+   "Government Health Expenditure: ₹3,85,332 crore = 43.72% of THE, 1.48% of GDP.",
+   "Out-of-Pocket Expenditure: ₹3,82,629 crore = 43.41% of THE; ₹2,767 per person.",
+   "Current Health Expenditure 87.00% and capital 13.00% of THE; uses System of Health Accounts 2011.",
+   "By level of care (share of Current Health Expenditure): primary ~46%, secondary ~34%, tertiary ~15%.",
+   "In government current health spending, primary care took 51%."
+  ],
+  "trap": "Government share (43.72%) and out-of-pocket share (43.41%) are very close; government is slightly higher.",
+  "hindi": [
+   "Out-of-pocket expenditure (जेब से होने वाला खर्च)",
+   "Health expenditure (स्वास्थ्य व्यय)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to the National Health Accounts Estimates 2022–23, India's Total Health Expenditure as a share of GDP was:",
+    "o": [
+     "1.48%",
+     "2.50%",
+     "3.37%",
+     "4.20%"
+    ],
+    "k": 2,
+    "why": "THE was ₹8,81,359 crore, equal to 3.37% of GDP."
+   }
+  ]
+ },
+ "u0409": {
+  "gist": "The Insolvency and Bankruptcy Code, 2016 completed ten years in 2026, moving India from delay-based liquidation towards reviving companies.",
+  "facts": [
+   "IBC enacted May 28, 2016; IBBI set up October 1, 2016.",
+   "Till March 31, 2026: 8,987 cases admitted, 7,102 closed, 1,419 resolution plans approved.",
+   "4,099 companies rescued; creditors realised more than ₹4 lakh crore.",
+   "Realisation about 95% of fair value and about 167% of liquidation value.",
+   "FY 2024-25: banks recovered ₹1.04 lakh crore; ₹0.54 lakh crore (52.4%) via IBC.",
+   "Banks' gross NPA ratio (domestic): 2.15% on September 30, 2025."
+  ],
+  "hindi": [
+   "Insolvency and Bankruptcy Code (दिवाला और शोधन अक्षमता संहिता)",
+   "Non-performing asset (गैर-निष्पादित परिसंपत्ति)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The IBC completed ten years in 2026. When was the Insolvency and Bankruptcy Board of India established?",
+    "o": [
+     "May 28, 2016",
+     "October 1, 2016",
+     "December 1, 2016",
+     "March 31, 2017"
+    ],
+    "k": 1,
+    "why": "IBC was enacted on May 28, 2016; IBBI was established on October 1, 2016."
+   }
+  ]
+ },
+ "u0410": {
+  "gist": "UPI completed 10 years on April 11, 2026 since its 2016 pilot launch, growing from an experiment into the backbone of India's digital economy.",
+  "facts": [
+   "Pilot launch: 11 April 2016; 10 years completed April 11, 2026.",
+   "Record 22.64 billion transactions in March 2026; 24.51 billion in August 2026.",
+   "Over 81% of India's retail payment volume in FY 2024-25.",
+   "FY 2025–26: 24,161.69 crore transactions worth about ₹314 lakh crore.",
+   "Around 85% of India's digital payments (FY 2025–26); about 49% of global real-time payments (2025)."
+  ],
+  "hindi": [
+   "Unified Payments Interface (एकीकृत भुगतान इंटरफ़ेस)",
+   "Digital payment (डिजिटल भुगतान)"
+  ],
+  "priority": 1,
+  "check": "March 2026 (22.64 billion) is called the all-time high, but August 2026 shows 24.51 billion.",
+  "mcq": [
+   {
+    "q": "UPI completed 10 years in April 2026. In which year was its pilot launched?",
+    "o": [
+     "2014",
+     "2015",
+     "2016",
+     "2017"
+    ],
+    "k": 2,
+    "why": "UPI's pilot launch was on 11 April 2016."
+   }
+  ]
+ },
+ "u0411": {
+  "gist": "The Income-tax Act, 2025 came into force on 1 April 2026, replacing the Income-tax Act, 1961 with simpler language and a single 'Tax Year'.",
+  "facts": [
+   "In force from 1 April 2026; replaces the six-decade-old Income-tax Act, 1961.",
+   "'Tax Year' replaces 'Assessment Year' and 'Previous Year'.",
+   "CBDT notified the Income-tax Rules, 2026 to implement the Act.",
+   "Form 130 replaces Form 16 (TDS certificate issued by employers).",
+   "New Act: 536 Sections, 23 Chapters, 16 Schedules; TDS/TCS in sections 392,393 and 394.",
+   "New regime (AY 2026-27): zero tax up to ₹12 lakh; standard deduction ₹75,000 (was ₹50,000)."
+  ],
+  "trap": "Form 130 is new; Form 16 is the old TDS certificate. Zero-tax limit ₹12 lakh (new) vs ₹7 lakh (old).",
+  "hindi": [
+   "Tax Year (कर वर्ष)",
+   "Assessment Year (निर्धारण वर्ष)"
+  ],
+  "priority": 1,
+  "check": "1961 Act shown as '819+ sections and 298 Chapters' and gross direct tax 2025–26 as ₹7.99 lakh crore; both look doubtful.",
+  "mcq": [
+   {
+    "q": "Under the Income-tax Act, 2025, in force from 1 April 2026, which form replaces Form 16 (the TDS certificate issued by employers)?",
+    "o": [
+     "Form 26AS",
+     "Form 12BB",
+     "Form 130",
+     "Form 392"
+    ],
+    "k": 2,
+    "why": "Form 130 replaces the traditional Form 16."
+   }
+  ]
+ },
+ "u0412": {
+  "gist": "The 16th Finance Commission (chair Arvind Panagariya), covering 2026–27 to 2030–31, kept States' share of the divisible pool at 41%; UP's share is 17.62%.",
+  "facts": [
+   "Constitutional body under Article 280; 16th FC set up December 31, 2023 under Dr. Arvind Panagariya.",
+   "Report submitted 17 November 2025; tabled in Parliament 1 February 2026.",
+   "States' vertical share stays 41%; weights: income distance 42.5%, population (2011) 17.5%.",
+   "Total grants about ₹9.47 lakh crore for 2026–31; ₹7.91 lakh crore for local bodies.",
+   "Fiscal deficit: Centre to 3.5% of GDP by 2030–31; States' ceiling stays 3% of GSDP.",
+   "UP's share: 17.94% (15th FC) to 17.62% (16th FC), highest among States listed."
+  ],
+  "trap": "41% = States' vertical share (unchanged); 42.5% = weight for income distance. The 16th FC dropped revenue deficit, sector-specific and state-specific grants.",
+  "hindi": [
+   "Finance Commission (वित्त आयोग)",
+   "Centre–State fiscal relations (केंद्र-राज्य वित्तीय संबंध)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who chaired the 16th Finance Commission, constituted on December 31, 2023?",
+    "o": [
+     "N. K. Singh",
+     "Y. V. Reddy",
+     "Sanjay Malhotra",
+     "Arvind Panagariya"
+    ],
+    "k": 3,
+    "why": "The 16th FC was constituted under the chairmanship of Dr. Arvind Panagariya."
+   },
+   {
+    "q": "As recommended by the 16th Finance Commission (2026–31), the States' vertical share in the divisible pool of Union taxes is:",
+    "o": [
+     "42%",
+     "41%",
+     "42.5%",
+     "32%"
+    ],
+    "k": 1,
+    "why": "The Commission recommended the States' vertical share remain 41% of the divisible pool."
+   }
+  ]
+ },
+ "u0413": {
+  "gist": "On 14 October 2026, Cabinet approved NSAP for FY 2026–27 to 2030–31 (₹53,428 crore) and renamed it Pradhan Mantri Samajik Sahayata Yojana.",
+  "facts": [
+   "NSAP launched 15 August 1995; helps poor elderly, widows, disabled and families losing a breadwinner.",
+   "Outlay ₹53,428 crore over five years (FY 2026–27 to FY 2030–31).",
+   "Renamed: NSAP to Pradhan Mantri Samajik Sahayata Yojana; IGNOAPS to PM Vriddhavastha Pension Yojana.",
+   "Disability pension: ₹375/month (age 0–79), ₹625/month (80 and above).",
+   "Disability threshold cut from 80% to benchmark disability of at least 40%; eligible from birth.",
+   "3.20 crore beneficiaries across 36 States and UTs."
+  ],
+  "trap": "80 appears twice: age 80+ gets ₹625; 80% was the old disability threshold (now 40%).",
+  "hindi": [
+   "Social assistance (सामाजिक सहायता)",
+   "Widow pension (विधवा पेंशन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In October 2026, the Union Cabinet approved renaming the National Social Assistance Programme (NSAP) as:",
+    "o": [
+     "Pradhan Mantri Parivar Labh Yojana",
+     "Pradhan Mantri Divyangjan Pension Yojana",
+     "Pradhan Mantri Vriddhavastha Pension Yojana",
+     "Pradhan Mantri Samajik Sahayata Yojana"
+    ],
+    "k": 3,
+    "why": "NSAP becomes Pradhan Mantri Samajik Sahayata Yojana; the others are renamed sub-schemes."
+   },
+   {
+    "q": "Under the NSAP changes approved in October 2026, the disability pension eligibility threshold was reduced from 80% to:",
+    "o": [
+     "60%",
+     "50%",
+     "40%",
+     "33%"
+    ],
+    "k": 2,
+    "why": "Threshold reduced from 80% to benchmark disability of at least 40%, from birth."
+   }
+  ]
+ },
+ "u0414": {
+  "gist": "The CRS 2024 report (released 1 July 2026) shows India registered an estimated 99.1% of births and 99.4% of deaths in 2024.",
+  "facts": [
+   "Released by the Office of the Registrar General and Census Commissioner, India on July 1, 2026.",
+   "Registration level 2024: births 99.1%, deaths 99.4% (2000: 56.2% and 48.7%).",
+   "Sex Ratio at Birth: 933 females per 1,000 males (excluding Sikkim).",
+   "Highest SRB: Arunachal Pradesh (1,050); lowest: Nagaland (806).",
+   "Registered births rose by 2,66,319 (about 1.1%) from 2023 to 2024.",
+   "Stillbirths fell 19.3% to 81,117; infant deaths fell from 1,45,992 to 1,20,992."
+  ],
+  "trap": "SRB 933 comes from registered events; do not work it out from the 52.5% male / 47.5% female split.",
+  "hindi": [
+   "Civil Registration System (नागरिक पंजीकरण प्रणाली)",
+   "Sex ratio at birth (जन्म के समय लिंगानुपात)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to the CRS 2024 report, which State/UT recorded the highest registered Sex Ratio at Birth?",
+    "o": [
+     "Kerala",
+     "Meghalaya",
+     "Mizoram",
+     "Arunachal Pradesh"
+    ],
+    "k": 3,
+    "why": "Arunachal Pradesh topped with 1,050; Kerala was fifth with 970."
+   },
+   {
+    "q": "As per the CRS 2024 report, India's Sex Ratio at Birth (females per 1,000 males) based on registered events was:",
+    "o": [
+     "933",
+     "943",
+     "970",
+     "890"
+    ],
+    "k": 0,
+    "why": "SRB stood at 933 females per 1,000 males, excluding Sikkim."
+   }
+  ]
+ },
+ "u0415": {
+  "gist": "NFHS-6 (2023–24) fact sheets, released 29 May 2026, show more institutional births, better vaccination and women's empowerment; TFR stays 2.0.",
+  "facts": [
+   "Released May 29, 2026 by the Health Ministry; IIPS, Mumbai surveyed 6.79 lakh households in 715 districts.",
+   "95.9% of pregnant women got antenatal care; first-trimester care 70.0% to 76.2%; at least four visits 58.5% to 65.2%.",
+   "TFR stayed 2.0 (urban 1.6, rural 2.1); institutional deliveries 88.6% to 90.6%.",
+   "Full vaccination (12–23 months) 83.8% to 87.1%; rotavirus 36.4% to 85.4%.",
+   "Stunting fell 35.5% to 29.3%; overweight/obese women rose 24.0% to 30.7%.",
+   "Women using internet 33.3% to 64.3%; spousal violence 29.2% to 22.3%."
+  ],
+  "hook": "Women's internet use nearly doubled: 33.3 to 64.3.",
+  "trap": "NFHS-6 survey was done in 2023–24 but released in 2026; it is compared with NFHS-5 (2019–21).",
+  "hindi": [
+   "Total Fertility Rate (कुल प्रजनन दर)",
+   "Institutional delivery (संस्थागत प्रसव)",
+   "Stunting (बौनापन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which institute conducted the sixth National Family Health Survey (NFHS-6), whose fact sheets were released in May 2026?",
+    "o": [
+     "National Statistics Office",
+     "Indian Council of Medical Research",
+     "Office of the Registrar General of India",
+     "International Institute for Population Sciences, Mumbai"
+    ],
+    "k": 3,
+    "why": "NFHS-6 was conducted during 2023–24 by IIPS, Mumbai."
+   },
+   {
+    "q": "According to NFHS-6 (released May 2026), India's Total Fertility Rate is:",
+    "o": [
+     "1.6",
+     "2.1",
+     "2.0",
+     "2.2"
+    ],
+    "k": 2,
+    "why": "India's TFR remained at 2.0 (urban 1.6, rural 2.1)."
+   }
+  ]
+ },
+ "u0416": {
+  "gist": "The SRS Bulletin 2024, released by the Registrar General of India on 20 May 2026, shows birth rate 18.3, death rate 6.4 and IMR 24.",
+  "facts": [
+   "Released May 20, 2026 with the Special Bulletin on Maternal Mortality (2022-24).",
+   "Birth rate 18.3 (2014: 21.0); highest Bihar 26.8, lowest Andaman and Nicobar 9.9.",
+   "Death rate 6.4; highest Chhattisgarh 8.4, lowest Chandigarh 3.9.",
+   "IMR 24 (2014: 39); highest Chhattisgarh 36, lowest Manipur 2.",
+   "MMR 87 per 100,000 live births (2022-24) vs 130 in 2014-16.",
+   "Natural growth rate 11.9; Bihar 20.8 (high), Kerala 3.9 (low)."
+  ],
+  "trap": "Chhattisgarh tops both death rate (8.4) and IMR (36). 3.9 is twice: Chandigarh's death rate and Kerala's natural growth rate.",
+  "hindi": [
+   "Infant Mortality Rate (शिशु मृत्यु दर)",
+   "Maternal Mortality Ratio (मातृ मृत्यु अनुपात)",
+   "Birth rate (जन्म दर)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to the SRS Bulletin 2024, which State recorded the highest Infant Mortality Rate?",
+    "o": [
+     "Bihar",
+     "Uttar Pradesh",
+     "Madhya Pradesh",
+     "Chhattisgarh"
+    ],
+    "k": 3,
+    "why": "Chhattisgarh recorded the highest IMR at 36."
+   },
+   {
+    "q": "As per the SRS Special Bulletin (2022-24), India's maternal mortality ratio per 100,000 live births was:",
+    "o": [
+     "130",
+     "97",
+     "70",
+     "87"
+    ],
+    "k": 3,
+    "why": "MMR was 87 in SRS 2022-24, compared with 130 in 2014-16."
+   }
+  ]
+ },
+ "u0417": {
+  "gist": "MoSPI unveiled a new logo and a citizen-friendly mascot on 1 January 2026 to modernise its identity and build trust in official statistics.",
+  "facts": [
+   "New logo and mascot unveiled by MoSPI on 1 January 2026.",
+   "Ashoka Chakra = truth, transparency, good governance; ₹ symbol at the centre.",
+   "Logo message: 'Data for Development'; colours saffron, white, green and deep blue.",
+   "Mascot 'सांख्यिकी' to be used in National Sample Surveys by the NSS wing of NSO.",
+   "Finance Ministry unveiled a common logo for Regional Rural Banks on 18 December 2025."
+  ],
+  "hindi": [
+   "Statistics (सांख्यिकी)",
+   "Mascot (शुभंकर)"
+  ],
+  "priority": 2,
+  "check": "Mascot name is printed with a broken character ('सांख्य⼿की'); likely सांख्यिकी.",
+  "mcq": [
+   {
+    "q": "What message does the new MoSPI logo, unveiled on 1 January 2026, carry?",
+    "o": [
+     "Data for Development",
+     "Numbers for the Nation",
+     "Statistics for Viksit Bharat",
+     "Data Drives Democracy"
+    ],
+    "k": 0,
+    "why": "The logo carries the message 'Data for Development'."
+   }
+  ]
+ },
+ "u0418": {
+  "gist": "The Agriculture Ministry held the National Conference on Agriculture for Kharif Campaign 2026 on 28-29 May 2026 at NASC Complex, Pusa, New Delhi.",
+  "facts": [
+   "Held May 28-29, 2026 at NASC Complex, Pusa, New Delhi.",
+   "Chaired by Agriculture Minister Shivraj Singh Chouhan.",
+   "Agriculture Ministers from 22 States took part, called a historic first.",
+   "Khet Bachao Abhiyan ran from 1 June to 30 June 2026.",
+   "Another nationwide campaign announced for October 22 – November 30, 2026."
+  ],
+  "hindi": [
+   "Kharif crop (खरीफ फसल)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Following the Kharif Campaign 2026 conference, which campaign ran from 1 June to 30 June 2026?",
+    "o": [
+     "Mitti Bachao Abhiyan",
+     "Jal Shakti Abhiyan",
+     "Kisan Samman Abhiyan",
+     "Khet Bachao Abhiyan"
+    ],
+    "k": 3,
+    "why": "Khet Bachao Abhiyan was launched on 1 June 2026 and ran till 30 June 2026."
+   }
+  ]
+ },
+ "u0419": {
+  "gist": "On 13 May 2026, CCEA raised MSP for all 14 Kharif crops for 2026–27; sunflower seed got the biggest rise (₹622 per quintal).",
+  "facts": [
+   "CCEA chaired by PM Narendra Modi; Marketing Season 2026–27.",
+   "Biggest MSP rises: sunflower seed ₹622, cotton ₹557, nigerseed ₹515, sesamum ₹500 per quintal.",
+   "Paddy (common) MSP ₹2,441 and Grade A ₹2,461 per quintal.",
+   "Highest MSP: sesamum ₹10,346, then nigerseed ₹10,052 per quintal.",
+   "Union Budget 2018–19 rule: MSP at least 1.5 times the all-India weighted average (A2+FL) cost.",
+   "Highest margin over cost: moong (61%), then bajra and maize (56% each)."
+  ],
+  "trap": "Biggest increase = sunflower seed (₹622); highest MSP = sesamum (₹10,346).",
+  "hindi": [
+   "Minimum Support Price (न्यूनतम समर्थन मूल्य)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "For the Kharif Marketing Season 2026–27, which crop received the highest increase in MSP?",
+    "o": [
+     "Cotton",
+     "Sesamum",
+     "Nigerseed",
+     "Sunflower Seed"
+    ],
+    "k": 3,
+    "why": "Sunflower seed got the biggest rise, ₹622 per quintal."
+   },
+   {
+    "q": "Which Kharif crop has the highest MSP for Marketing Season 2026–27?",
+    "o": [
+     "Sesamum",
+     "Nigerseed",
+     "Moong",
+     "Cotton Long Staple"
+    ],
+    "k": 0,
+    "why": "Sesamum has the highest MSP at ₹10,346 per quintal."
+   }
+  ]
+ },
+ "u0420": {
+  "gist": "Third Advance Estimates (27 May 2026) put India's 2025–26 foodgrain output at a record 376.563 million tonnes, up 5.3% on last year.",
+  "facts": [
+   "Released May 27, 2026 by Agriculture Minister Shivraj Singh Chouhan.",
+   "Foodgrains 376.563 million tonnes vs 357.732 million tonnes in 2024–25 (about 18.8 million tonnes more).",
+   "Rice record 154.024 million tonnes; wheat 120.657 million tonnes.",
+   "Sugarcane record 500.063 million tonnes; groundnut record 13.074 million tonnes; oilseeds 43.059 million tonnes.",
+   "UP first in rice (198.05), wheat (358.77) and sugarcane (2,296.99) lakh tonnes.",
+   "Other leaders: maize and pulses Madhya Pradesh; oilseeds Rajasthan; cotton Maharashtra; jute West Bengal."
+  ],
+  "hook": "UP's triple crown: No. 1 in rice, wheat and sugarcane.",
+  "trap": "Cotton bale = 170 kg; jute bale = 180 kg.",
+  "hindi": [
+   "Foodgrains (खाद्यान्न)",
+   "Advance estimates (अग्रिम अनुमान)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "As per the Third Advance Estimates for 2025–26, India's total foodgrain production is estimated at:",
+    "o": [
+     "357.732 million tonnes",
+     "376.563 million tonnes",
+     "354.6 million tonnes",
+     "380.2 million tonnes"
+    ],
+    "k": 1,
+    "why": "Foodgrains at a record 376.563 million tonnes, up 5.3% from 357.732 million tonnes."
+   },
+   {
+    "q": "According to the 2025–26 Third Advance Estimates, which State ranks first in rice production?",
+    "o": [
+     "West Bengal",
+     "Telangana",
+     "Punjab",
+     "Uttar Pradesh"
+    ],
+    "k": 3,
+    "why": "UP leads with 198.05 lakh tonnes, ahead of Telangana and West Bengal."
+   }
+  ]
+ },
+ "u0421": {
+  "gist": "Basic Animal Husbandry Statistics 2025, released on National Milk Day (26 November 2025), shows India 1st in milk with 247.87 million tonnes.",
+  "facts": [
+   "Released November 26, 2025 (National Milk Day) by MoS Prof. S.P. Singh Baghel.",
+   "Based on the Integrated Sample Survey, March 1, 2024 to February 28, 2025.",
+   "Milk 2024-25: 247.87 million tonnes (+3.58%), India 1st; 485 g/day per person.",
+   "Eggs: 149.11 billion, India 2nd; meat: 10.50 million tonnes, India 4th.",
+   "Top States: milk – Uttar Pradesh (15.66%); eggs – Andhra Pradesh; wool – Rajasthan (47.85%).",
+   "Livestock GVA up about 195% (2014–15 to 2023–24); 31% of agricultural GVA."
+  ],
+  "hindi": [
+   "Animal husbandry (पशुपालन)",
+   "Per capita availability (प्रति व्यक्ति उपलब्धता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to Basic Animal Husbandry Statistics 2025, India's estimated milk production in 2024-25 was:",
+    "o": [
+     "239.30 million tonnes",
+     "230.58 million tonnes",
+     "255.12 million tonnes",
+     "247.87 million tonnes"
+    ],
+    "k": 3,
+    "why": "Milk was 247.87 million tonnes, up 3.58% from 239.30 million tonnes in 2023-24."
+   },
+   {
+    "q": "According to Basic Animal Husbandry Statistics 2025, which State is the top milk producer?",
+    "o": [
+     "Rajasthan",
+     "Madhya Pradesh",
+     "Uttar Pradesh",
+     "Gujarat"
+    ],
+    "k": 2,
+    "why": "Uttar Pradesh leads with 15.66%, ahead of Rajasthan (14.82%)."
+   }
+  ],
+  "trap": "UP is first in milk (15.66%) but second in meat (12.20%), behind West Bengal (12.46%)."
+ },
+ "u0422": {
+  "gist": "The MSMED (Amendment) Act, 2026 amends the 2006 Act to fight delayed payments, ease registration and speed up MSME dispute resolution.",
+  "facts": [
+   "Introduced in Rajya Sabha on 28 July 2026 by MSME Minister Jitan Ram Manjhi.",
+   "Rajya Sabha passed 3 August, Lok Sabha 7 August, assent 13 August 2026; Act No. 16 of 2026.",
+   "CPSEs must settle MSME invoices through TReDS (RBI-regulated invoice platform).",
+   "Mediation within 90 days; failed mediation goes to arbitration within 30 days.",
+   "Buyer challenging an award deposits 75%; court releases at least 50% after six months.",
+   "Memorandum filing free and voluntary; TReDS discounted invoices ₹40,000 crore (2021–22) to ₹3.47 lakh crore (2025–26)."
+  ],
+  "trap": "Bill was introduced first in the Rajya Sabha (28 July), not the Lok Sabha.",
+  "hindi": [
+   "Micro, Small and Medium Enterprises (सूक्ष्म, लघु एवं मध्यम उद्यम)",
+   "Mediation (मध्यस्थता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under the MSMED (Amendment) Act, 2026, Central Public Sector Enterprises must settle MSME invoices through which platform?",
+    "o": [
+     "GeM",
+     "MSME Samadhaan",
+     "Udyam Portal",
+     "TReDS"
+    ],
+    "k": 3,
+    "why": "CPSEs must settle MSME invoices through TReDS, regulated by the RBI."
+   }
+  ]
+ },
+ "u0423": {
+  "gist": "Cabinet approved the Mobile Phone Manufacturing Scheme (₹62,500 crore, FY 2026–27 to 2030–31) on 15 July 2026, succeeding PLI-LSEM.",
+  "facts": [
+   "Cabinet approval July 15, 2026; MeitY notified it on August 21, 2026.",
+   "Outlay ₹62,500 crore; runs five years, FY 2026–27 to FY 2030–31.",
+   "Succeeds PLI-LSEM, which ended 31 March 2026.",
+   "Incentive 2.25% to 5% on sales; up to 1.5% extra for local sourcing; Indian brands 3% extra.",
+   "Electronics production: ₹1.90 lakh crore (2014–15) to ₹13.11 lakh crore (2025–26, estimate).",
+   "Electronic goods: India's third-largest export category, USD 47.96 billion in FY 2025–26."
+  ],
+  "hindi": [
+   "Production Linked Incentive (उत्पादन से जुड़ा प्रोत्साहन)",
+   "Domestic value addition (घरेलू मूल्य संवर्धन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Mobile Phone Manufacturing Scheme (MPMS), approved by the Union Cabinet in July 2026, has a budgetary outlay of:",
+    "o": [
+     "₹40,000 crore",
+     "₹76,000 crore",
+     "₹22,919 crore",
+     "₹62,500 crore"
+    ],
+    "k": 3,
+    "why": "MPMS has a budgetary outlay of ₹62,500 crore for five years."
+   }
+  ]
+ }
+}

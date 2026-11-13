@@ -1,0 +1,713 @@
+{
+ "u0502": {
+  "gist": "India became the world's leading ship-recycling nation in 2025 with 35.4% of global ship recycling, meeting a Maritime India Vision 2030 target five years early.",
+  "facts": [
+   "India's share of global ship recycling: 35.4% in 2025 (30.1% in 2024).",
+   "Data from UNCTAD, cited by the Ministry of Ports, Shipping and Waterways on 22 June 2026.",
+   "Volume recycled: 2.99 million GT in 2025, up from 1.86 million GT in 2024.",
+   "Annual growth in recycling volume: nearly 60%.",
+   "Achieved a Maritime India Vision 2030 target five years ahead of schedule."
+  ],
+  "hook": "35.4% in 2025: 'thirty-five in twenty-five'.",
+  "trap": "35.4% is the 2025 share; 30.1% is the 2024 share.",
+  "hindi": [
+   "Ship recycling (जहाज पुनर्चक्रण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to UNCTAD data cited by the Ports Ministry in June 2026, what was India's share of global ship recycling in 2025?",
+    "o": [
+     "30.1%",
+     "35.4%",
+     "40.2%",
+     "28.6%"
+    ],
+    "k": 1,
+    "why": "India accounted for 35.4% of global ship recycling in 2025, up from 30.1% in 2024."
+   }
+  ]
+ },
+ "u0503": {
+  "gist": "The Navy commissioned stealth frigate INS Mahendragiri, the sixth Project 17A ship, into the Eastern Fleet at Visakhapatnam on July 11, 2026.",
+  "facts": [
+   "Commissioned July 11, 2026 at Visakhapatnam, Andhra Pradesh, into the Eastern Fleet.",
+   "Sixth Project 17A stealth frigate commissioned within about 18 months.",
+   "Named after the Mahendragiri range, Eastern Ghats; motto 'Mighty, Majestic, Matchless'.",
+   "Built by Mazagon Dock Shipbuilders Limited (MDL), Mumbai; designed by the Navy's Warship Design Bureau.",
+   "Over 75 percent indigenous; about 6,670 tonnes; speed up to 28 knots.",
+   "Project 17A (Nilgiri class): seven frigates, four by MDL and three by GRSE; seventh is Vindhyagiri."
+  ],
+  "hook": "Mahendragiri motto = three M's: Mighty, Majestic, Matchless.",
+  "trap": "Sixth Project 17A frigate commissioned overall, but the fourth built by MDL.",
+  "hindi": [
+   "Warship (युद्धपोत)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "INS Mahendragiri, commissioned at Visakhapatnam in July 2026, is a frigate of which project?",
+    "o": [
+     "Project 15B",
+     "Project 17A",
+     "Project 75",
+     "Project 28"
+    ],
+    "k": 1,
+    "why": "INS Mahendragiri is the sixth Project 17A stealth frigate commissioned."
+   },
+   {
+    "q": "Which Project 17A frigate was still under construction when INS Mahendragiri was commissioned in July 2026?",
+    "o": [
+     "Vindhyagiri",
+     "Dunagiri",
+     "Taragiri",
+     "Udaygiri"
+    ],
+    "k": 0,
+    "why": "The seventh ship, Vindhyagiri, was still under construction."
+   }
+  ]
+ },
+ "u0504": {
+  "gist": "On July 3, 2026, Sarbananda Sonowal unveiled the first India-made EXIM shipping container, built for Maersk, at the Maersk–CONCOR depot in Dadri, Uttar Pradesh.",
+  "facts": [
+   "Unveiled July 3, 2026 by Ports, Shipping and Waterways Minister Sarbananda Sonowal.",
+   "Made for global shipping company A.P. Moller–Maersk.",
+   "Place: Maersk–CONCOR Inland Container Depot, Dadri, Uttar Pradesh.",
+   "Backed by the ₹10,000-crore Container Manufacturing Promotion Scheme (Union Budget 2026–27).",
+   "Plan: raise yearly container-making capacity nearly tenfold to around 7.5 lakh TEUs.",
+   "Also: ICGS Achal ('firm'), an Adamya-class Fast Patrol Vessel, commissioned May 09, 2026 at Goa Shipyard."
+  ],
+  "hook": "Dadri (UP) = first 'Made in India' export box, for Maersk.",
+  "trap": "ICGS Achal = 'firm' (Adamya class, May 2026); ICGS Akshay = 'Indestructible' (June 2026).",
+  "hindi": [
+   "Export-import (निर्यात-आयात)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was India's first indigenously manufactured EXIM shipping container unveiled in July 2026?",
+    "o": [
+     "Mundra, Gujarat",
+     "Dadri, Uttar Pradesh",
+     "Nhava Sheva, Maharashtra",
+     "Tughlakabad, Delhi"
+    ],
+    "k": 1,
+    "why": "It was unveiled at the Maersk–CONCOR Inland Container Depot in Dadri, Uttar Pradesh."
+   },
+   {
+    "q": "India's first commercially procured India-made export container (July 2026) was built for which shipping company?",
+    "o": [
+     "MSC",
+     "CMA CGM",
+     "A.P. Moller–Maersk",
+     "Hapag-Lloyd"
+    ],
+    "k": 2,
+    "why": "The container was manufactured for global shipping company A.P. Moller–Maersk."
+   }
+  ]
+ },
+ "u0505": {
+  "gist": "DRDO and the IAF conducted the maiden flight-trial of TARA, India's first indigenous glide weapon system, off the Odisha coast on 7 May 2026.",
+  "facts": [
+   "TARA = Tactical Advanced Range Augmentation.",
+   "Maiden flight-trial by DRDO and the Indian Air Force off the coast of Odisha on 7 May 2026.",
+   "A modular range extension kit that turns unguided warheads into precision-guided weapons.",
+   "Designed by Research Centre Imarat (RCI), Hyderabad, with other DRDO labs.",
+   "Aim: raise the combat value of low-cost aerial weapons."
+  ],
+  "hindi": [
+   "Defence research (रक्षा अनुसंधान)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "TARA, flight-tested in May 2026 as India's first indigenous glide weapon system, stands for:",
+    "o": [
+     "Tactical Advanced Range Augmentation",
+     "Target Acquisition and Range Analysis",
+     "Tactical Air Rocket Artillery",
+     "Terminal Aerial Range Adapter"
+    ],
+    "k": 0,
+    "why": "TARA stands for Tactical Advanced Range Augmentation, a modular range extension kit."
+   }
+  ]
+ },
+ "u0506": {
+  "gist": "On May 24, 2026, Russia used its hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv.",
+  "facts": [
+   "Used by Russia on May 24, 2026 during a mass drone and missile attack on Kyiv.",
+   "Oreshnik means 'Hazel Tree': its warheads fall in streaks of fiery light.",
+   "Ukrainians called the first one fired 'Kedr' (Cedar).",
+   "Likely an intermediate-range ballistic missile; range 3,000 to 5,000 km."
+  ],
+  "trap": "Oreshnik = Hazel Tree (Russian name); Kedr = Cedar (Ukrainian nickname).",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "What does the name of Russia's 'Oreshnik' missile, used against Kyiv in May 2026, mean?",
+    "o": [
+     "Cedar",
+     "Hazel Tree",
+     "Birch",
+     "Thunder"
+    ],
+    "k": 1,
+    "why": "Oreshnik means 'Hazel Tree'; Ukrainians called the first one 'Kedr' (Cedar)."
+   }
+  ]
+ },
+ "u0507": {
+  "gist": "Cochin Shipyard delivered 'Malwan', a Mahe-class Anti-Submarine Warfare Shallow Water Craft, to the Indian Navy on March 31, 2026.",
+  "facts": [
+   "Delivered March 31, 2026 by Cochin Shipyard Limited (CSL), Kochi.",
+   "Part of the Mahe-class ASW Shallow Water Craft project.",
+   "Named after Malwan, a historic coastal town in Sindhudurg district, Maharashtra.",
+   "Name reflects the maritime legacy of Chhatrapati Shivaji Maharaj.",
+   "ASW SWCs detect and counter submarines in littoral (near-shore) waters."
+  ],
+  "trap": "Delivery (31 March 2026) is not the same as commissioning.",
+  "hindi": [],
+  "priority": 2,
+  "check": "The ship is spelt 'Malwan' here but 'Malvan' in the INS Malvan article (u0498).",
+  "mcq": [
+   {
+    "q": "The ASW Shallow Water Craft 'Malwan', delivered to the Indian Navy in March 2026, is named after a coastal town in which district?",
+    "o": [
+     "Ratnagiri",
+     "Sindhudurg",
+     "Junagadh",
+     "Raigad"
+    ],
+    "k": 1,
+    "why": "CSL specified that Malwan is located in Sindhudurg district, Maharashtra."
+   }
+  ]
+ },
+ "u0508": {
+  "gist": "GRSE, Kolkata delivered Agray, the fourth of eight ASW Shallow Water Craft it is building, to the Indian Navy on March 30, 2026.",
+  "facts": [
+   "Delivered March 30, 2026 at Kolkata.",
+   "Fourth of eight ASW SWCs being built by Garden Reach Shipbuilders and Engineers (GRSE), Kolkata.",
+   "About 77 metres long; class called the largest Indian Naval warships propelled by waterjets.",
+   "GRSE also delivered Sanshodhak, the fourth and final Survey Vessel (Large), for hydrographic surveys."
+  ],
+  "trap": "Agray is built by GRSE (Kolkata), not by Cochin Shipyard like the Mahe-class ships.",
+  "hindi": [
+   "Hydrographic survey (जल सर्वेक्षण)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Agray, an ASW Shallow Water Craft delivered to the Indian Navy on March 30, 2026, was built by:",
+    "o": [
+     "Cochin Shipyard Limited",
+     "Goa Shipyard Limited",
+     "Mazagon Dock Shipbuilders",
+     "Garden Reach Shipbuilders and Engineers"
+    ],
+    "k": 3,
+    "why": "Agray was indigenously designed and built by GRSE, Kolkata."
+   },
+   {
+    "q": "Sanshodhak, delivered by GRSE in 2026, is the fourth and final vessel of which class?",
+    "o": [
+     "Survey Vessel (Large)",
+     "Fast Patrol Vessel",
+     "Cadet Training Ship",
+     "Anti-Submarine Warfare Shallow Water Craft"
+    ],
+    "k": 0,
+    "why": "Sanshodhak is the fourth and final Survey Vessel (Large) of its class."
+   }
+  ]
+ },
+ "u0509": {
+  "gist": "India successfully test-fired the Agni-III intermediate-range ballistic missile from the Integrated Test Range, Chandipur, Odisha, on February 6, 2026.",
+  "facts": [
+   "Test-fired February 6, 2026 from the Integrated Test Range, Chandipur, Odisha.",
+   "Agni-III: indigenous, two-stage, solid-fuelled IRBM; range over 3000 km; 1.5-tonne payload.",
+   "Agni ranges: Agni-1 700 km, Agni-2 2,000 km, Agni-3 3,000 km, Agni-4 4,000 km, Agni-5 5,000 km.",
+   "Also: first Cadet Training Ship 'Krishna' (Yard 18003) launched 16 Feb 2026 at L&T, Kattupalli (Chennai).",
+   "Krishna is the first of three Cadet Training Ships."
+  ],
+  "hook": "Agni ranges: 1 → 700 km, then 2, 3, 4, 5 → thousand km each.",
+  "trap": "Agni-III range is about 3,000 km; the longest is Agni-5 at 5,000 km.",
+  "hindi": [
+   "Missile (प्रक्षेपास्त्र)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Agni-III, successfully test-fired on February 6, 2026, was launched from:",
+    "o": [
+     "Pokhran, Rajasthan",
+     "Integrated Test Range, Chandipur",
+     "Sriharikota",
+     "Thumba"
+    ],
+    "k": 1,
+    "why": "India test-fired Agni-III from the Integrated Test Range, Chandipur, Odisha."
+   },
+   {
+    "q": "As per the Agni series ranges given in the 2026 report, which Agni missile can strike targets up to 4,000 km?",
+    "o": [
+     "Agni-4",
+     "Agni-3",
+     "Agni-2",
+     "Agni-5"
+    ],
+    "k": 0,
+    "why": "Agni-4 is capable of striking targets up to 4,000 km; Agni-5 reaches 5,000 km."
+   }
+  ]
+ },
+ "u0510": {
+  "gist": "India reportedly inducted INS Aridaman, its third nuclear-powered ballistic missile submarine, while stealth frigate INS Taragiri was commissioned at Visakhapatnam.",
+  "facts": [
+   "INS Aridhaman/Aridaman: India's third nuclear-powered ballistic missile submarine (reported induction).",
+   "A larger vessel of about 7,000 tonnes.",
+   "Carries more K-15 missiles and K-4 SLBMs that can hit targets 3,500 km away.",
+   "Has nearly double the number of VLS tubes of its predecessors.",
+   "Stealth frigate INS Taragiri was officially commissioned at Visakhapatnam."
+  ],
+  "trap": "K-4 (range 3,500 km) and K-15 are submarine-launched missiles; Aridaman is the third such submarine.",
+  "hindi": [
+   "Nuclear submarine (परमाणु पनडुब्बी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "INS Aridaman, India's third nuclear-powered ballistic missile submarine, can carry K-4 missiles that hit targets about how far away?",
+    "o": [
+     "700 km",
+     "1,500 km",
+     "3,500 km",
+     "5,000 km"
+    ],
+    "k": 2,
+    "why": "The K-4 SLBMs carried by INS Aridaman can hit targets 3,500 km away."
+   }
+  ]
+ },
+ "u0511": {
+  "gist": "Dr. Jitendra Singh launched the production version of India's indigenous HANSA-3 NG pilot trainer aircraft at CSIR-NAL, Bengaluru, on November 29, 2025.",
+  "facts": [
+   "Launched November 29, 2025 by Dr. Jitendra Singh, MoS (Independent Charge), Science and Technology.",
+   "Developed by CSIR–National Aerospace Laboratories (NAL), Bengaluru.",
+   "All-composite airframe (not purely metal).",
+   "Meets demand for PPL (Private Pilot Licence) and CPL (Commercial Pilot Licence) training.",
+   "First designed by CSIR-NAL in the early 1990s; the new version is much upgraded."
+  ],
+  "hindi": [
+   "Trainer aircraft (प्रशिक्षक विमान)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The production version of the indigenous HANSA-3 NG pilot trainer aircraft was launched in November 2025 at:",
+    "o": [
+     "HAL, Bengaluru",
+     "CSIR–National Aerospace Laboratories, Bengaluru",
+     "DRDO, Hyderabad",
+     "IIT Kanpur"
+    ],
+    "k": 1,
+    "why": "Dr. Jitendra Singh launched it at CSIR–National Aerospace Laboratories (NAL), Bengaluru."
+   }
+  ]
+ },
+ "u0512": {
+  "gist": "DRDO is developing 'Dhvani', a Hypersonic Glide Vehicle that can make sharp manoeuvres at high altitude at speeds above Mach 5.",
+  "facts": [
+   "Developed by DRDO under its advanced hypersonic weapons programme.",
+   "Type: Hypersonic Glide Vehicle (HGV).",
+   "Speed above Mach 5 (more than 7,400 km/h): current missile defences can hardly intercept it.",
+   "Can make sharp, high-speed changes of direction at high altitudes.",
+   "Possible range 6,000 to 10,000 kilometers: nearly double the reach of Agni-V ICBM."
+  ],
+  "trap": "Dhvani is a glide vehicle (HGV), not a ballistic missile like Agni-V.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "DRDO's 'Dhvani' hypersonic missile is being developed as which type of system?",
+    "o": [
+     "Hypersonic Cruise Missile",
+     "Surface-to-Air Missile",
+     "Intercontinental Ballistic Missile",
+     "Hypersonic Glide Vehicle"
+    ],
+    "k": 3,
+    "why": "Dhvani is designed as a Hypersonic Glide Vehicle (HGV) flying above Mach 5."
+   }
+  ]
+ },
+ "u0513": {
+  "gist": "The 7th Global Fintech Fest was held in Mumbai from 8 to 11 September 2026, showing India's fintech growth built on Aadhaar, UPI and DPI.",
+  "facts": [
+   "7th edition of the Global Fintech Fest (GFF) held in Mumbai, 8 to 11 September 2026.",
+   "GFF began in 2020; called the world's largest fintech festival.",
+   "Theme: 'Potential to Impact: Agentic AI | Tokenisation | Quantum: Trusted, Connected, Global Systems for Inclusive Finance'.",
+   "Agentic AI: systems that sense, decide and act; Tokenisation: assets as programmable digital units.",
+   "India's fintech rise built on Aadhaar, UPI and Digital Public Infrastructure (DPI)."
+  ],
+  "hook": "GFF 2026 theme = A-T-Q: Agentic AI, Tokenisation, Quantum.",
+  "hindi": [
+   "Digital public infrastructure (डिजिटल सार्वजनिक अवसंरचना)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The 7th edition of the Global Fintech Fest (GFF) was held in which city in September 2026?",
+    "o": [
+     "Bengaluru",
+     "New Delhi",
+     "Mumbai",
+     "Gandhinagar"
+    ],
+    "k": 2,
+    "why": "The 7th edition of GFF was held in Mumbai from 8 to 11 September 2026."
+   },
+   {
+    "q": "Which three technologies formed the theme of the Global Fintech Fest 2026?",
+    "o": [
+     "Agentic AI, Tokenisation, Quantum",
+     "Blockchain, IoT, 5G",
+     "UPI, Aadhaar, DigiLocker",
+     "Cloud, Cybersecurity, Robotics"
+    ],
+    "k": 0,
+    "why": "The theme was 'Potential to Impact: Agentic AI | Tokenisation | Quantum'."
+   }
+  ]
+ },
+ "u0514": {
+  "gist": "The Indian Army began procuring 'Saksham', an indigenous Counter-Unmanned Aerial System grid made by BEL, to tackle hostile drones.",
+  "facts": [
+   "SAKSHAM = Situational Awareness for Kinetic Soft and Hard Kill Assets Management.",
+   "Indigenous C-UAS (counter-drone) grid system developed by Bharat Electronics Limited (BEL).",
+   "Aim: detect, track, identify and neutralise enemy drones in real time in border areas.",
+   "Procurement started by the Indian Army to counter emerging aerial threats."
+  ],
+  "hook": "SAKSHAM spelt out: Situational Awareness for Kinetic Soft and Hard kill Assets Management.",
+  "hindi": [
+   "Counter-drone system (ड्रोन-रोधी प्रणाली)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The 'Saksham' Counter-Unmanned Aerial System grid being procured by the Indian Army was developed by:",
+    "o": [
+     "DRDO",
+     "Hindustan Aeronautics Limited",
+     "Bharat Dynamics Limited",
+     "Bharat Electronics Limited"
+    ],
+    "k": 3,
+    "why": "Saksham is an indigenous C-UAS grid system developed by Bharat Electronics Limited (BEL)."
+   }
+  ]
+ },
+ "u0515": {
+  "gist": "On October 12, 2026, TRAI released its telecom performance report for the April–June 2026 quarter; internet subscriptions reached 1,114.17 million.",
+  "facts": [
+   "Released by TRAI on October 12, 2026; covers 1st April 2026 to 30th June 2026.",
+   "Internet subscriptions: 1,092.79 million (March) to 1,114.17 million (June 2026), up 1.96%.",
+   "Total telephone subscriptions 1,348.08 million; tele-density 94.31 per 100 people.",
+   "Private operators hold 92.50% of telephone subscriptions; public sector 7.50%.",
+   "Monthly wireless ARPU up 1.19% to ₹187.12; rural share fell to 41.24%.",
+   "Mobile data use up 8.30% to 84,424 PB; 28.39 GB per subscriber per month."
+  ],
+  "hook": "Tele-density 94.31: about 94 connections per 100 people.",
+  "trap": "Tele-density 94.31 includes machine-to-machine (M2M) links; without M2M it is 84.88.",
+  "hindi": [
+   "Tele-density (दूरसंचार घनत्व)"
+  ],
+  "priority": 1,
+  "check": "The source itself notes that rounded totals imply about 1.83% growth in mobile data subscriptions, while the official summary says 1.86%.",
+  "mcq": [
+   {
+    "q": "As per TRAI's performance indicator report for the quarter ending June 2026, India's overall tele-density was:",
+    "o": [
+     "84.88",
+     "93.26",
+     "94.31",
+     "92.50"
+    ],
+    "k": 2,
+    "why": "Overall tele-density rose from 93.26 to 94.31 connections per 100 people."
+   },
+   {
+    "q": "As per TRAI's report for April–June 2026, what share of all telephone subscriptions was held by private operators?",
+    "o": [
+     "92.50%",
+     "7.50%",
+     "84.88%",
+     "41.24%"
+    ],
+    "k": 0,
+    "why": "Private operators held 92.50%; public sector operators held 7.50%."
+   }
+  ]
+ },
+ "u0516": {
+  "gist": "On September 24, 2026, IIT Delhi announced an indigenous micro-GPU for embedded devices, shown on an FPGA, with a chip (ASIC) version planned.",
+  "facts": [
+   "Announced September 24, 2026 by IIT Delhi.",
+   "Led by M.Tech students Nammi Akash and M. Ravi Teja under Prof. Jayadeva and Prof. Kaushik Saha.",
+   "Custom floating-point GPU engine, built fully in Register Transfer Language (RTL).",
+   "Shown on a Spartan-7 FPGA (chip programmable after manufacture); ASIC (task-specific chip) planned.",
+   "Targets embedded devices: computers made for specific jobs."
+  ],
+  "trap": "Demonstrated on an FPGA; the ASIC version is only planned.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The indigenous micro-GPU announced by IIT Delhi in September 2026 was demonstrated on which chip?",
+    "o": [
+     "A Spartan-7 FPGA",
+     "An ASIC",
+     "An ARM processor",
+     "A RISC-V microcontroller"
+    ],
+    "k": 0,
+    "why": "The design was mapped to a Spartan-7 FPGA; ASIC development remains planned."
+   }
+  ]
+ },
+ "u0517": {
+  "gist": "On 21 September 2026, MoS Anupriya Patel launched the 7th National Formulary of India and announced approval of the Biovigilance Programme of India.",
+  "facts": [
+   "Launched 21 September 2026 by MoS Health Anupriya Patel at Dr. Ambedkar International Centre, New Delhi.",
+   "Occasion: 6th National Pharmacovigilance Week, organised by the Indian Pharmacopoeia Commission (IPC).",
+   "Launched: 7th Edition of National Formulary of India (NFI), medical-device safety guidance, ADR-PvPI 2.0 iOS app.",
+   "Biovigilance Programme of India: monitors adverse events from products used in organ and tissue transplants.",
+   "Covers products given to both donors and recipients."
+  ],
+  "trap": "7th = edition of NFI; 6th = National Pharmacovigilance Week.",
+  "hindi": [
+   "Organ transplantation (अंग प्रत्यारोपण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Biovigilance Programme of India, approved in 2026, extends safety monitoring to products used in:",
+    "o": [
+     "Veterinary medicine",
+     "Organ and tissue transplantation",
+     "Cosmetics",
+     "Food processing"
+    ],
+    "k": 1,
+    "why": "It covers medicines and biological products used in organ and tissue transplantation."
+   },
+   {
+    "q": "Which edition of the National Formulary of India (NFI) was launched in September 2026?",
+    "o": [
+     "5th",
+     "6th",
+     "7th",
+     "8th"
+    ],
+    "k": 2,
+    "why": "Anupriya Patel launched the 7th Edition of the NFI on 21 September 2026."
+   }
+  ]
+ },
+ "u0518": {
+  "gist": "The Union Cabinet approved the BHAVYA-Rasayan Scheme with Rs.3,030 crore to set up three dedicated Chemical Parks from FY 2026-27 to FY 2030-31.",
+  "facts": [
+   "BHAVYA = Bharat Audyogik Vikas Yojana; Rasayan scheme for three Chemical Parks.",
+   "Announced in Union Budget FY 2026–27; approved by the Union Cabinet chaired by PM Modi.",
+   "Total outlay Rs.3,030 crore: Rs.3,000 crore for infrastructure, Rs. 30 crore administrative.",
+   "Runs for 5 years: FY 2026-27 to FY 2030-31.",
+   "Centre gives up to Rs.1,000 crore per park; State must give at least Rs.500 crore."
+  ],
+  "hook": "Three 3s: three parks, Rs.3,030 crore total, Rs.3,000 crore for infrastructure.",
+  "trap": "Rs.1,000 crore = Centre's maximum grant per park; Rs.500 crore = State's minimum share.",
+  "hindi": [
+   "Chemical park (रसायन पार्क)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What is the total financial outlay of the BHAVYA-Rasayan Scheme for Chemical Parks?",
+    "o": [
+     "Rs. 3,000 crore",
+     "Rs. 3,030 crore",
+     "Rs. 1,000 crore",
+     "Rs. 5,000 crore"
+    ],
+    "k": 1,
+    "why": "Total outlay is Rs.3,030 crore: Rs.3,000 crore infrastructure plus Rs. 30 crore administrative."
+   },
+   {
+    "q": "How many dedicated Chemical Parks will be set up under the BHAVYA-Rasayan Scheme?",
+    "o": [
+     "Five",
+     "Two",
+     "Ten",
+     "Three"
+    ],
+    "k": 3,
+    "why": "The scheme is for establishing three dedicated Chemical Parks."
+   }
+  ]
+ },
+ "u0519": {
+  "gist": "Ladakh commissioned India's first geothermal wells, two 1000-metre-deep wells at Puga Valley, paving the way for India's first geothermal power plant.",
+  "facts": [
+   "Two 1000-metre-deep geothermal wells at Puga Valley, Ladakh: India's first, in the cold desert.",
+   "Altitude: 14,000 feet.",
+   "Inaugurated by VK Saxena, Lt Governor of Ladakh.",
+   "Will support a 1 MW pilot geothermal power project at Puga: India's first demonstration-scale project.",
+   "Maximum temperature of 135 degrees Celsius recorded at 400 metres depth."
+  ],
+  "hook": "Puga: 2 wells, 1000 m deep, for 1 MW.",
+  "trap": "135°C was recorded at 400 m depth, although the wells are 1000 m deep.",
+  "hindi": [
+   "Geothermal energy (भूतापीय ऊर्जा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first geothermal wells, commissioned by the Ladakh administration for a pilot power project, are located in which valley?",
+    "o": [
+     "Nubra Valley",
+     "Puga Valley",
+     "Zanskar Valley",
+     "Suru Valley"
+    ],
+    "k": 1,
+    "why": "Two 1000-metre-deep wells were commissioned at Puga Valley, Ladakh."
+   }
+  ]
+ },
+ "u0520": {
+  "gist": "Bharat Electricity Summit 2026 was held at Yashobhoomi, New Delhi, on 19-22 March 2026; it released resource adequacy and transmission plans.",
+  "facts": [
+   "Held 19 to 22 March 2026 at Yashobhoomi, New Delhi.",
+   "Theme: 'Electrifying Growth. Empowering Sustainability. Connecting Globally.'",
+   "Released: National Resource Adequacy Plan; Transmission Plan for over 900 GW non-fossil capacity by 2035–36.",
+   "FY 2025–26: record non-fossil addition of 55.29 GW (solar 44.61 GW, wind 6.05 GW).",
+   "As of 31 March 2026: total capacity 5,32,740 MW; non-fossil share 53.2%.",
+   "FY 2025–26 energy deficit only 0.03%; peak deficit only 0.01%."
+  ],
+  "hook": "'One Nation – One Grid – One Frequency': the world's largest synchronous national grid.",
+  "trap": "52,537 MW is capacity added only up to 31 January 2026; the full-year non-fossil addition is 55.29 GW.",
+  "hindi": [
+   "Transmission (पारेषण)",
+   "Renewable energy (नवीकरणीय ऊर्जा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "As of 31 March 2026, what share of India's total installed power generation capacity was non-fossil?",
+    "o": [
+     "44.6%",
+     "50.0%",
+     "53.2%",
+     "60.0%"
+    ],
+    "k": 2,
+    "why": "Non-fossil capacity was 2,83,468 MW, forming 53.2% of total installed capacity."
+   },
+   {
+    "q": "Bharat Electricity Summit 2026 (19-22 March) was held at which venue?",
+    "o": [
+     "Bharat Mandapam",
+     "Yashobhoomi",
+     "Vigyan Bhawan",
+     "India Expo Mart"
+    ],
+    "k": 1,
+    "why": "The Summit was held from 19 to 22 March 2026 at Yashobhoomi, New Delhi."
+   }
+  ]
+ },
+ "u0521": {
+  "gist": "Approval was granted (Finance Ministry release, October 4, 2025) for Maitri II, India's proposed fourth Antarctic research station in East Antarctica, ready by 2032.",
+  "facts": [
+   "Approval announced in a Ministry of Finance press release on October 4, 2025.",
+   "Maitri II: India's proposed fourth research station, in East Antarctica; to be ready by 2032.",
+   "First station: Dakshin Gangotri; active stations: Maitri (since 1989) and Bharati (since 2012).",
+   "Maitri is on the Schirmacher Oasis, a 20 km ice-free stretch, about 100 km inland.",
+   "Project executed by the National Centre for Polar and Ocean Research (NCPOR), Goa."
+  ],
+  "hook": "Antarctic line-up: Dakshin Gangotri → Maitri (1989) → Bharati (2012) → Maitri II (2032).",
+  "trap": "Maitri II will be the fourth station, though only two (Maitri, Bharati) are active now.",
+  "hindi": [
+   "Research station (अनुसंधान केंद्र)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Maitri II, approved in October 2025, will be India's which research station in Antarctica?",
+    "o": [
+     "Second",
+     "Third",
+     "Fourth",
+     "Fifth"
+    ],
+    "k": 2,
+    "why": "Maitri II will be India's proposed fourth research station, in East Antarctica."
+   },
+   {
+    "q": "Which body is executing the Maitri II Antarctic research station project?",
+    "o": [
+     "ISRO",
+     "India Meteorological Department",
+     "Geological Survey of India",
+     "NCPOR, Goa"
+    ],
+    "k": 3,
+    "why": "The project is being executed by the National Centre for Polar and Ocean Research (NCPOR), Goa."
+   }
+  ]
+ },
+ "u0522": {
+  "gist": "Short items: India's first shipbuilding SPV in Tamil Nadu, WAVES Animation Bazaar with India Joy 2025 in Hyderabad, and IISF 2025 in Panchkula.",
+  "facts": [
+   "NSHIP, TN (National Shipbuilding & Heavy Industries Park): India's first SPV for a mega shipbuilding cluster.",
+   "WAVES Animation Bazaar and 8th India Joy 2025: two-day event inaugurated November 1, 2025, Hyderabad.",
+   "Supported by Telangana government, Telangana VFX, Animation and Gaming Association and Union I&B Ministry.",
+   "11th India International Science Festival (IISF): December 6-9, 2025, Panchkula, Haryana.",
+   "IISF 2025 theme: 'Vigyan Se Samruddhi: for Atmanirbhar Bharat'."
+  ],
+  "hindi": [
+   "Science festival (विज्ञान महोत्सव)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The 11th India International Science Festival (IISF) 2025 was held in:",
+    "o": [
+     "Panchkula",
+     "Guwahati",
+     "Bhopal",
+     "Faridabad"
+    ],
+    "k": 0,
+    "why": "The 11th edition of IISF was held from December 6-9, 2025 in Panchkula, Haryana."
+   },
+   {
+    "q": "India's first Special Purpose Vehicle (SPV) for developing a mega shipbuilding cluster, NSHIP, is in which state?",
+    "o": [
+     "Gujarat",
+     "Tamil Nadu",
+     "Andhra Pradesh",
+     "Odisha"
+    ],
+    "k": 1,
+    "why": "The National Shipbuilding & Heavy Industries Park, Tamil Nadu (NSHIP, TN) is the first such SPV."
+   }
+  ]
+ }
+}

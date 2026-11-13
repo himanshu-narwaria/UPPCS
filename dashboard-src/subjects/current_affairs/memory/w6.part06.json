@@ -1,0 +1,827 @@
+{
+ "u1024": {
+  "gist": "WWF-India's EIACP Programme Centre launched a nationwide Green Diwali Campaign on October 20, 2026, supported by the Environment Ministry.",
+  "facts": [
+   "Nationwide Green Diwali Campaign launched October 20, 2026.",
+   "Runs from October 20 to November 8, 2026.",
+   "Supported by the Union Ministry of Environment, Forest and Climate Change."
+  ],
+  "check": "Body text writes 'ETACP' while the title says 'EIACP'.",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "WWF-India's EIACP centre launched which nationwide campaign on October 20, 2026?",
+    "o": [
+     "Mission LiFE Week",
+     "Green Diwali Campaign",
+     "Say No to Plastic",
+     "Ek Ped Maa Ke Naam"
+    ],
+    "k": 1,
+    "why": "It launched a nationwide Green Diwali Campaign, running till November 8, 2026."
+   }
+  ]
+ },
+ "u1025": {
+  "gist": "The Indian Army launched 'Bharat Rice' for defence personnel on October 12, 2026 and signed an MoU with the Food Corporation of India.",
+  "facts": [
+   "'Bharat Rice' launched for defence personnel; New Delhi; October 12, 2026.",
+   "MoU with Food Corporation of India: Army can use FCI warehouses, manpower and equipment in operational contingencies."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "With which organisation did the Indian Army sign an MoU on October 12, 2026, while launching 'Bharat Rice'?",
+    "o": [
+     "NAFED",
+     "Central Warehousing Corporation",
+     "Food Corporation of India",
+     "APEDA"
+    ],
+    "k": 2,
+    "why": "The Army signed an MoU with the Food Corporation of India."
+   }
+  ]
+ },
+ "u1026": {
+  "gist": "Jindal Steel Limited (JSL) won the 2026 Steelie Award for Excellence in People, announced by the World Steel Association on October 12, 2026.",
+  "facts": [
+   "Award: 2026 Steelie Award for Excellence in People.",
+   "Project: Dakshata Engineering safety: One Duty Position at a Time; announced by worldsteel."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which body announced the 2026 Steelie Awards, in which Jindal Steel Limited won for Excellence in People?",
+    "o": [
+     "Ministry of Steel",
+     "Indian Steel Association",
+     "Steel Industry Safety Council",
+     "World Steel Association"
+    ],
+    "k": 3,
+    "why": "The World Steel Association (Worldsteel) announced the winners on October 12, 2026."
+   }
+  ]
+ },
+ "u1027": {
+  "gist": "The Union Cabinet approved a Special Purpose Vehicle, the Integrated Transport & Logistics Authority (ITLA), on October 6, 2026.",
+  "facts": [
+   "ITLA = Integrated Transport & Logistics Authority, a Special Purpose Vehicle (SPV).",
+   "Approved by the Union Cabinet on October 6, 2026.",
+   "Apex body for transport and logistics planning, research, project appraisal, monitoring and data analytics."
+  ],
+  "hindi": [
+   "Logistics (रसद)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What does ITLA, approved by the Union Cabinet on October 6, 2026, stand for?",
+    "o": [
+     "Integrated Transport & Logistics Authority",
+     "Indian Transport and Logistics Agency",
+     "Inland Transport and Logistics Association",
+     "Integrated Trade and Logistics Authority"
+    ],
+    "k": 0,
+    "why": "ITLA is the Integrated Transport & Logistics Authority, an SPV."
+   }
+  ]
+ },
+ "u1028": {
+  "gist": "NABARD subsidiary NABKISAN Finance listed India's first social bond only for water, sanitation and hygiene (WASH) on NSE on October 1, 2026.",
+  "facts": [
+   "NABKISAN Finance Limited: subsidiary of NABARD.",
+   "India's first social bond dedicated only to the WASH (water, sanitation, hygiene) sector.",
+   "Listed on the National Stock Exchange (NSE), October 1, 2026."
+  ],
+  "hindi": [
+   "Sanitation (स्वच्छता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first social bond dedicated exclusively to the WASH sector was listed in October 2026 by:",
+    "o": [
+     "SIDBI",
+     "NABKISAN Finance Limited",
+     "Bank of Baroda",
+     "NHAI"
+    ],
+    "k": 1,
+    "why": "NABARD subsidiary NABKISAN Finance Limited listed it on the NSE."
+   }
+  ]
+ },
+ "u1029": {
+  "gist": "Mumbai Port Authority declared its Jawahar Dweep Marine Oil Terminal plastic-free on October 2, 2026, India's first plastic-free oil terminal.",
+  "facts": [
+   "Jawahar Dweep Marine Oil Terminal, Mumbai Port Authority.",
+   "Declared plastic-free on October 2, 2026; India's first plastic-free oil terminal."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which became India's first plastic-free oil terminal in October 2026?",
+    "o": [
+     "Paradip Oil Jetty",
+     "Vadinar Oil Terminal",
+     "Jawahar Dweep Marine Oil Terminal",
+     "Kandla Oil Jetty"
+    ],
+    "k": 2,
+    "why": "Mumbai Port Authority declared Jawahar Dweep terminal plastic-free."
+   }
+  ]
+ },
+ "u1030": {
+  "gist": "Bank of Baroda became India's second public sector bank after SBI to enter the pension fund business (announced October 1, 2026).",
+  "facts": [
+   "Second public sector bank, after SBI, to enter pension fund business.",
+   "Among the first banks to onboard Tatkal NPS on the BHIM App (second-phase rollout)."
+  ],
+  "hindi": [
+   "Pension fund (पेंशन निधि)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In October 2026, which bank became India's second public sector bank after SBI to enter the pension fund business?",
+    "o": [
+     "Punjab National Bank",
+     "Union Bank of India",
+     "Canara Bank",
+     "Bank of Baroda"
+    ],
+    "k": 3,
+    "why": "Bank of Baroda announced it on October 1, 2026."
+   }
+  ]
+ },
+ "u1031": {
+  "gist": "The National Statistics Office (MoSPI) signed an MoU with Pahle India Foundation, New Delhi, on October 8, 2026, on official statistics and research.",
+  "facts": [
+   "NSO, Ministry of Statistics and Programme Implementation, + Pahle India Foundation (PIF).",
+   "Aim: official statistics, research and data analysis; October 8, 2026."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "The National Statistics Office signed an MoU with which body on October 8, 2026?",
+    "o": [
+     "Pahle India Foundation",
+     "NITI Aayog",
+     "Indian Statistical Institute",
+     "Pahal Foundation"
+    ],
+    "k": 0,
+    "why": "NSO signed the MoU with Pahle India Foundation (PIF), New Delhi."
+   }
+  ]
+ },
+ "u1032": {
+  "gist": "On September 25, 2026, the Centre notified Paradip Port (Odisha) as a 'Mega Port'; it is the only mega port on the east coast.",
+  "facts": [
+   "Notified through Gazette Notification S.O. 5303(E), September 25, 2026.",
+   "Paradip: only mega port on the east coast.",
+   "Same notification: Deendayal (Kandla), Jawaharlal Nehru (Nhava Sheva) and Mundra also Mega Ports.",
+   "Paradip, Deendayal, Jawaharlal Nehru are major ports; Mundra is a non-major port."
+  ],
+  "trap": "Mundra is a Mega Port but not a major port; the other three are major ports.",
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which is the only 'Mega Port' on India's east coast, as notified on September 25, 2026?",
+    "o": [
+     "Visakhapatnam Port",
+     "Paradip Port",
+     "Kamarajar Port",
+     "Kolkata Port"
+    ],
+    "k": 1,
+    "why": "Paradip Port in Odisha is now the only mega port on the east coast."
+   }
+  ]
+ },
+ "u1033": {
+  "gist": "ICAR and the Food Corporation of India signed an MoU on September 30, 2026 for research on alternate fumigation for safe grain storage.",
+  "facts": [
+   "MoU: ICAR + FCI; research on alternate fumigation technologies; September 30, 2026.",
+   "Implemented by ICAR-CIPHET, Ludhiana, in two phases.",
+   "Phase-I outlay ₹3.28 crore for two years."
+  ],
+  "hindi": [
+   "Fumigation (धूमन)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which institute will implement the ICAR–FCI research on alternate fumigation technologies (MoU of September 2026)?",
+    "o": [
+     "ICAR-IARI, New Delhi",
+     "NIFTEM, Kundli",
+     "ICAR-CIPHET, Ludhiana",
+     "ICAR-NDRI, Karnal"
+    ],
+    "k": 2,
+    "why": "ICAR-CIPHET, Ludhiana will implement it in two phases."
+   }
+  ]
+ },
+ "u1034": {
+  "gist": "On September 23, 2026, the Ministry of Steel decided to set up a Steel Industry Safety Council (SISC), headed by the Steel Secretary.",
+  "facts": [
+   "SISC: apex industry safety body under the Ministry of Steel.",
+   "Chairman: Secretary, Ministry of Steel; decision dated September 23, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who will head the Steel Industry Safety Council (SISC) set up in September 2026?",
+    "o": [
+     "Union Minister of Steel",
+     "Director General of Mines Safety",
+     "Chairman, SAIL",
+     "Secretary, Ministry of Steel"
+    ],
+    "k": 3,
+    "why": "The Council will be headed by the Secretary, Ministry of Steel, as Chairman."
+   }
+  ]
+ },
+ "u1035": {
+  "gist": "NABL, a board of the Quality Council of India, launched India's first-of-its-kind accreditation scheme for Mobile Food Testing Laboratories on August 10, 2026.",
+  "facts": [
+   "NABL = National Accreditation Board for Testing and Calibration Laboratories (part of QCI).",
+   "Accreditation Scheme for Mobile Food Testing Laboratories; India's first of its kind.",
+   "Under the Integrated Assessment Programme; August 10, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "NABL launched India's first-of-its-kind accreditation scheme in August 2026 for which type of facility?",
+    "o": [
+     "Mobile Food Testing Laboratories",
+     "Drug Testing Laboratories",
+     "Soil Testing Laboratories",
+     "Water Testing Laboratories"
+    ],
+    "k": 0,
+    "why": "The scheme accredits Mobile Food Testing Laboratories."
+   }
+  ]
+ },
+ "u1036": {
+  "gist": "MIDHANI became India's first company to get GE Aerospace's Independent and International Metallic Material Laboratory (S400) approval on August 13, 2026.",
+  "facts": [
+   "MIDHANI = Mishra Dhatu Nigam Limited.",
+   "Got S400 approval from GE Aerospace for chemical, mechanical and metallurgical testing.",
+   "First company in India to achieve this; August 13, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "From which company did MIDHANI secure the S400 laboratory approval in August 2026?",
+    "o": [
+     "Boeing",
+     "GE Aerospace",
+     "Rolls-Royce",
+     "Airbus"
+    ],
+    "k": 1,
+    "why": "MIDHANI got the S400 approval from GE Aerospace."
+   }
+  ]
+ },
+ "u1037": {
+  "gist": "APEDA facilitated the first-ever commercial sea shipment of 18 metric tonnes of GI-tagged Mithila Makhana from Bihar to Australia on August 18, 2026.",
+  "facts": [
+   "First-ever commercial sea shipment of GI-tagged Mithila Makhana.",
+   "18 metric tonnes, Bihar to Australia; August 18, 2026."
+  ],
+  "trap": "Makhana exports: Mithila → Australia (18 MT); Darbhanga → Canada; Purnea → Greece.",
+  "hindi": [
+   "Geographical Indication (भौगोलिक संकेतक)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "To which country was the first-ever commercial sea shipment of GI-tagged Mithila Makhana sent in August 2026?",
+    "o": [
+     "Canada",
+     "Greece",
+     "Australia",
+     "UAE"
+    ],
+    "k": 2,
+    "why": "APEDA facilitated 18 MT of Mithila Makhana from Bihar to Australia."
+   }
+  ]
+ },
+ "u1038": {
+  "gist": "The Ministry of Tourism signed an MoU with IndiGo on July 30, 2026 for a global campaign, 'Incredible India by IndiGo'.",
+  "facts": [
+   "MoU: Ministry of Tourism + InterGlobe Aviation Limited (IndiGo); July 30, 2026.",
+   "Global communication initiative: 'Incredible India by IndiGo'.",
+   "Valid for an initial period of two years."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "What is the name of the global communication initiative under the Tourism Ministry–IndiGo MoU of July 2026?",
+    "o": [
+     "Dekho Apna Desh by IndiGo",
+     "Bharat Darshan by Air",
+     "Fly India Campaign",
+     "Incredible India by IndiGo"
+    ],
+    "k": 3,
+    "why": "They will jointly run 'Incredible India by IndiGo'."
+   }
+  ]
+ },
+ "u1039": {
+  "gist": "V.O. Chidambaranar Port Authority, Thoothukudi, became India's first port with ISO 50001:2018 certification for energy management in August 2026.",
+  "facts": [
+   "Port: V.O. Chidambaranar Port Authority, Thoothukudi, Tamil Nadu.",
+   "First port in India with ISO 50001:2018 (energy management system)."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which became the first port in India to receive ISO 50001:2018 certification for energy management in August 2026?",
+    "o": [
+     "V.O. Chidambaranar Port",
+     "Kamarajar Port",
+     "Paradip Port",
+     "Cochin Port"
+    ],
+    "k": 0,
+    "why": "V.O. Chidambaranar Port Authority, Thoothukudi got the certification."
+   }
+  ]
+ },
+ "u1040": {
+  "gist": "North Eastern Railway's Lucknow Division ran its first 'Avadh Mahashakti' freight train from Gonda Junction on August 20, 2026.",
+  "facts": [
+   "First 'Avadh Mahashakti' freight train; NER, Lucknow Division; August 20, 2026.",
+   "Started from Gonda Junction; went towards Moradabad Division via Sitapur."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "From which junction did NER's first 'Avadh Mahashakti' freight train start on August 20, 2026?",
+    "o": [
+     "Lucknow Junction",
+     "Gonda Junction",
+     "Sitapur Junction",
+     "Moradabad Junction"
+    ],
+    "k": 1,
+    "why": "It departed from Gonda Junction towards Moradabad Division via Sitapur."
+   }
+  ]
+ },
+ "u1041": {
+  "gist": "In July 2026, CDSCO approved Qdenga, a dengue vaccine by Takeda, the first dengue vaccine approved in India.",
+  "facts": [
+   "Vaccine: Dengue Tetravalent Vaccine (Live, Attenuated) – Qdenga.",
+   "Made by Takeda GmbH, Germany; imported by Takeda Biopharmaceuticals India.",
+   "First dengue vaccine approved in India; marketing authorisation by CDSCO, July 2026."
+  ],
+  "hindi": [
+   "Vaccine (टीका)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which is the first dengue vaccine approved in India, given marketing authorisation by CDSCO in July 2026?",
+    "o": [
+     "Dengvaxia",
+     "Covaxin",
+     "Qdenga",
+     "Rotavac"
+    ],
+    "k": 2,
+    "why": "CDSCO authorised Qdenga, the Dengue Tetravalent Vaccine by Takeda."
+   }
+  ]
+ },
+ "u1042": {
+  "gist": "The Ministry of Steel granted Miniratna Category-I status to MECON Limited on July 1, 2026.",
+  "facts": [
+   "MECON Limited: Miniratna Category-I from July 1, 2026.",
+   "Schedule 'A' Central Public Sector Enterprise under the Ministry of Steel."
+  ],
+  "trap": "Miniratna Category-I in 2026: MECON (Ministry of Steel) and Yantra India Limited (Defence).",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Ministry of Steel CPSE got Miniratna Category-I status on July 1, 2026?",
+    "o": [
+     "MIDHANI",
+     "NMDC",
+     "SAIL",
+     "MECON Limited"
+    ],
+    "k": 3,
+    "why": "The Ministry of Steel granted MECON Limited Miniratna Category-I status."
+   }
+  ]
+ },
+ "u1043": {
+  "gist": "Chaudhary Charan Singh International Airport, Lucknow, became India's first FSSAI-certified Eat Right Campus in June 2026, with a three-star rating.",
+  "facts": [
+   "India's first FSSAI-certified Eat Right Campus; June 2026.",
+   "Three-star rating.",
+   "Certificate valid March 24, 2026 to March 23, 2028."
+  ],
+  "hindi": [
+   "Food safety (खाद्य सुरक्षा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which became India's first FSSAI-certified Eat Right Campus in June 2026?",
+    "o": [
+     "Chaudhary Charan Singh International Airport, Lucknow",
+     "Navi Mumbai Airport",
+     "Visakhapatnam Railway Station",
+     "Chandigarh University"
+    ],
+    "k": 0,
+    "why": "Lucknow's CCS International Airport got the certification with three stars."
+   }
+  ]
+ },
+ "u1044": {
+  "gist": "NABARD launched 'Gramodyam', a rural entrepreneurship programme, on its 45th foundation day, July 12, 2026.",
+  "facts": [
+   "Gramodyam: rural entrepreneurship development programme; July 12, 2026.",
+   "Launched on NABARD's 45th foundation day.",
+   "With NSDC (under MSDE); Institute for Industrial Development (IID) is implementation partner."
+  ],
+  "hindi": [
+   "Entrepreneurship (उद्यमिता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "NABARD launched which rural entrepreneurship programme on its 45th foundation day in July 2026?",
+    "o": [
+     "Vanjeevi Didi",
+     "Gramodyam",
+     "Sujal Gram",
+     "Q-FORCE"
+    ],
+    "k": 1,
+    "why": "NABARD launched Gramodyam on July 12, 2026."
+   }
+  ]
+ },
+ "u1045": {
+  "gist": "On July 2, 2026, the Health Ministry notified Navi Mumbai Airport as a Port for Import of Drugs, taking the total to 42.",
+  "facts": [
+   "Navi Mumbai Airport notified as Port for Import of Drugs under Drugs Rules, 1945.",
+   "Total notified ports of entry for drug imports: 42."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "With Navi Mumbai Airport's notification in July 2026, how many ports of entry for import of drugs are there?",
+    "o": [
+     "36",
+     "40",
+     "42",
+     "45"
+    ],
+    "k": 2,
+    "why": "The total number of notified ports reached 42."
+   }
+  ]
+ },
+ "u1046": {
+  "gist": "The Department of Posts and TRAI signed a one-year MoU in New Delhi on July 10, 2026 for field surveys through the postal network.",
+  "facts": [
+   "One-year MoU: Department of Posts (DoP) + TRAI; July 10, 2026.",
+   "DoP does field surveys via its nationwide postal network.",
+   "TRAI gives the survey app, technical support, training and monitoring."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Under the July 2026 DoP–TRAI MoU, what role does the Department of Posts play?",
+    "o": [
+     "Provides the survey application",
+     "Funds the survey",
+     "Carries out field survey operations",
+     "Regulates telecom tariffs"
+    ],
+    "k": 2,
+    "why": "DoP carries out field surveys; TRAI provides the app and support."
+   }
+  ]
+ },
+ "u1047": {
+  "gist": "Paninian India unveiled the Yantur 4.5 kilo Newton turbofan engine programme in July 2026, believed India's first privately developed turbofan in its class.",
+  "facts": [
+   "Yantur 4.5 kilo Newton Turbofan Engine Programme; July 2026.",
+   "Believed to be India's first privately developed turbofan engine in its class."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which company unveiled the Yantur turbofan engine programme in July 2026?",
+    "o": [
+     "HAL",
+     "MIDHANI",
+     "Yantra India Limited",
+     "Paninian India Private Limited"
+    ],
+    "k": 3,
+    "why": "Paninian India Private Limited unveiled the Yantur 4.5 kN engine programme."
+   }
+  ]
+ },
+ "u1048": {
+  "gist": "DRDO successfully flight-tested the Pinaka Long Range Guided Rocket (LRGR) at the Integrated Test Range, Chandipur, on July 8, 2026.",
+  "facts": [
+   "Pinaka Long Range Guided Rocket (LRGR) flight-test.",
+   "Integrated Test Range (ITR), Chandipur; July 8, 2026."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where did DRDO flight-test the Pinaka Long Range Guided Rocket on July 8, 2026?",
+    "o": [
+     "Integrated Test Range, Chandipur",
+     "Pokhran",
+     "Sriharikota",
+     "Balasore Wheeler Island"
+    ],
+    "k": 0,
+    "why": "The test was at the Integrated Test Range (ITR), Chandipur."
+   }
+  ]
+ },
+ "u1049": {
+  "gist": "Chandigarh University opened an 'IndiaAI Data Lab' with Intel India in June 2026, the first private university in India to do so.",
+  "facts": [
+   "'IndiaAI Data Lab' with Intel India; June 2026.",
+   "India's first private university to set up this lab; aims at student employability."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "With which company did Chandigarh University set up the 'IndiaAI Data Lab' in June 2026?",
+    "o": [
+     "Microsoft India",
+     "Intel India",
+     "Google India",
+     "Infosys"
+    ],
+    "k": 1,
+    "why": "The lab was set up in collaboration with Intel India."
+   }
+  ]
+ },
+ "u1050": {
+  "gist": "The Indian Army launched 'Q-FORCE', an integrated app to manage logistics and sustainment, in May 2026.",
+  "facts": [
+   "Q-FORCE: integrated application by the Indian Army.",
+   "Purpose: streamline logistics and sustainment management; May 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "What is 'Q-FORCE', launched by the Indian Army in May 2026?",
+    "o": [
+     "A new commando unit",
+     "A quantum computing lab",
+     "An integrated logistics and sustainment app",
+     "A recruitment portal"
+    ],
+    "k": 2,
+    "why": "Q-FORCE is an app to streamline logistics and sustainment management."
+   }
+  ]
+ },
+ "u1051": {
+  "gist": "President Murmu presented the 'President of India's Police Colour' to Sikkim Police at Gangtok on May 28, 2026.",
+  "facts": [
+   "Award: President of India's Police Colour; Gangtok, May 28, 2026.",
+   "Sikkim: 15th state overall and 3rd in the North East to get it."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Sikkim Police received the President's Police Colour in May 2026. Sikkim is which state overall to get it?",
+    "o": [
+     "3rd",
+     "12th",
+     "15th",
+     "18th"
+    ],
+    "k": 2,
+    "why": "Sikkim is the 15th state overall and 3rd in the North East."
+   }
+  ]
+ },
+ "u1052": {
+  "gist": "RBI set up a high-security data centre in Bhubaneswar, Odisha, in February 2026, its second major data centre after Kharghar, Navi Mumbai.",
+  "facts": [
+   "High-security RBI data centre: Bhubaneswar, Odisha; February 2026.",
+   "RBI's second major data centre; Primary Data Centre is at Kharghar, Navi Mumbai."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where did RBI set up its second major high-security data centre in February 2026?",
+    "o": [
+     "Hyderabad",
+     "Kharghar",
+     "Chennai",
+     "Bhubaneswar"
+    ],
+    "k": 3,
+    "why": "The new data centre is in Bhubaneswar; the primary one is at Kharghar."
+   }
+  ]
+ },
+ "u1053": {
+  "gist": "CBI unveiled 'ABHAY', an AI chatbot that lets the public verify notices issued by CBI, launched by CJI Surya Kant on April 20, 2026.",
+  "facts": [
+   "ABHAY: AI-powered chatbot to verify CBI notices.",
+   "Launched by CJI Surya Kant at the 22nd D.P. Kohli Memorial Lecture; April 20, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "What is the name of CBI's AI-powered chatbot for verifying its notices, launched in April 2026?",
+    "o": [
+     "ABHAY",
+     "SAHAY",
+     "Dewi",
+     "ASC ARJUN"
+    ],
+    "k": 0,
+    "why": "The chatbot 'ABHAY' was launched by CJI Surya Kant."
+   }
+  ]
+ },
+ "u1054": {
+  "gist": "The Ministry of Panchayati Raj launched the 'Say No to Proxy Sarpanch' campaign on International Women's Day, March 8, 2026.",
+  "facts": [
+   "Nationwide social media campaign: 'Say No to Proxy Sarpanch'.",
+   "Launched on International Women's Day, March 8, 2026."
+  ],
+  "hindi": [
+   "Sarpanch (सरपंच)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "On which occasion did the Ministry of Panchayati Raj launch the 'Say No to Proxy Sarpanch' campaign in 2026?",
+    "o": [
+     "National Panchayati Raj Day",
+     "International Women's Day",
+     "Republic Day",
+     "Gandhi Jayanti"
+    ],
+    "k": 1,
+    "why": "It was launched on International Women's Day, March 8, 2026."
+   }
+  ]
+ },
+ "u1055": {
+  "gist": "Palamu Tiger Reserve's south division started 'Vanjeevi Didi' in February 2026 to train educated women from 17 villages as PTR ambassadors.",
+  "facts": [
+   "Initiative: 'Vanjeevi Didi'; incentive ₹3000 per month.",
+   "Covers 17 identified villages; trains educated women as PTR ambassadors."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which tiger reserve launched the 'Vanjeevi Didi' initiative in February 2026?",
+    "o": [
+     "Simlipal Tiger Reserve",
+     "Valmiki Tiger Reserve",
+     "Palamu Tiger Reserve",
+     "Dudhwa Tiger Reserve"
+    ],
+    "k": 2,
+    "why": "The south division of Palamu Tiger Reserve launched it."
+   }
+  ]
+ },
+ "u1056": {
+  "gist": "Defence Minister Rajnath Singh approved Miniratna Category-I status for Yantra India Limited (YIL), a defence PSU, on February 2, 2026.",
+  "facts": [
+   "Yantra India Limited (YIL): defence public sector undertaking (DPSU).",
+   "Miniratna Category-I approved February 2, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which defence PSU got Miniratna Category-I status on February 2, 2026?",
+    "o": [
+     "MECON Limited",
+     "Hindustan Shipyard Limited",
+     "MIDHANI",
+     "Yantra India Limited"
+    ],
+    "k": 3,
+    "why": "Rajnath Singh approved Miniratna Category-I for Yantra India Limited."
+   }
+  ]
+ },
+ "u1057": {
+  "gist": "UIDAI launched an Aadhaar mascot on January 8, 2026 to help people understand Aadhaar services easily.",
+  "facts": [
+   "Aadhaar mascot: resident-facing communication companion.",
+   "Launched by UIDAI on January 8, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which organisation launched a mascot on January 8, 2026 to simplify public understanding of its services?",
+    "o": [
+     "UIDAI",
+     "NPCI",
+     "Election Commission",
+     "TRAI"
+    ],
+    "k": 0,
+    "why": "UIDAI launched the Aadhaar mascot."
+   }
+  ]
+ },
+ "u1058": {
+  "gist": "PM Modi named the PMO building complex 'Seva Teerth' and inaugurated it, with Kartavya Bhavan-1 & 2, on February 13, 2026.",
+  "facts": [
+   "Name 'Seva Teerth' unveiled on February 13, 2026.",
+   "Seva Teerth houses the Prime Minister's Office and more.",
+   "Kartavya Bhavan-1 & 2 also inaugurated, for key ministries."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What is the name of the building complex (housing the PMO) unveiled by PM Modi on February 13, 2026?",
+    "o": [
+     "Kartavya Bhavan",
+     "Seva Teerth",
+     "Yashobhoomi",
+     "Vanijya Bhawan"
+    ],
+    "k": 1,
+    "why": "PM Modi unveiled the name Seva Teerth for the PMO complex."
+   }
+  ]
+ },
+ "u1059": {
+  "gist": "Tripura Gramin Bank became India's first Regional Rural Bank to run a solar-powered mobile ATM van ('TGB on wheels') in January 2026.",
+  "facts": [
+   "First Regional Rural Bank (RRB) with a solar-energy-based mobile ATM van.",
+   "Called 'TGB on wheels'; January 2026."
+  ],
+  "hindi": [
+   "Regional Rural Bank (क्षेत्रीय ग्रामीण बैंक)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which became India's first Regional Rural Bank to introduce a solar-energy-based mobile ATM van in January 2026?",
+    "o": [
+     "Assam Gramin Vikash Bank",
+     "Baroda UP Bank",
+     "Tripura Gramin Bank",
+     "Kerala Gramin Bank"
+    ],
+    "k": 2,
+    "why": "Tripura Gramin Bank launched 'TGB on wheels'."
+   }
+  ]
+ },
+ "u1060": {
+  "gist": "Assam-based Numaligarh Refinery Limited (NRL) got 'Navratna' status on December 2, 2025, becoming the 27th such CPSE.",
+  "facts": [
+   "Numaligarh Refinery Limited, Assam: 'Navratna' status.",
+   "27th CPSE with Navratna status; December 2, 2025."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Numaligarh Refinery Limited, granted Navratna status in December 2025, became the which Navratna CPSE?",
+    "o": [
+     "25th",
+     "26th",
+     "27th",
+     "28th"
+    ],
+    "k": 2,
+    "why": "NRL was accorded Navratna status as the 27th CPSE."
+   }
+  ]
+ }
+}

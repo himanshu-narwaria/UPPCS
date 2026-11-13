@@ -1,0 +1,412 @@
+{
+ "u0101": {
+  "line": "Germany and the Netherlands announced a new NATO 'tactical headquarters' in the Baltic region (May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3
+ },
+ "u0102": {
+  "line": "79th World Health Assembly (WHA) → Geneva, Switzerland (18–23 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0103": {
+  "line": "United Arab Emirates (UAE) decided to formally withdraw from OPEC (Organization of the Petroleum Exporting Countries) with effect from 1 May 2026.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0104": {
+  "line": "Shanghai Cooperation Organisation (SCO) defence ministers' meeting → Bishkek, Kyrgyzstan (28 April 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Defence minister (रक्षा मंत्री)"
+  ],
+  "priority": 2
+ },
+ "u0105": {
+  "line": "Global Report on Food Crises 2026 (GRFC): Pakistan among the top 10 countries with the most people facing high acute food insecurity (April 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Food insecurity (खाद्य असुरक्षा)"
+  ],
+  "priority": 2
+ },
+ "u0106": {
+  "line": "India hosted the first meeting of the 'BRICS Health Working Group' in 2026 → New Delhi (April 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0107": {
+  "line": "South Korean President Lee Jae Myung paid a state visit to India (19–21 April 2026); focus sectors with PM Modi: semiconductors and shipbuilding.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Shipbuilding (जहाज निर्माण)"
+  ],
+  "priority": 2
+ },
+ "u0108": {
+  "line": "9th Indian Ocean Conference (IOC 2026) → hosted by Mauritius (10–12 April 2026); theme: 'Collective Stewardship for Indian Ocean Governance'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0110": {
+  "line": "Uchral Nyam-Osor → assumed office as Prime Minister of Mongolia (30 March 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0111": {
+  "line": "Global Terrorism Index, 13th edition, by Institute for Economics & Peace (IEP) (21 March 2026): Pakistan most affected; India 13th among 163 countries.",
+  "hook": "Double 13: 13th edition, India ranked 13th.",
+  "trap": "",
+  "hindi": [
+   "Terrorism (आतंकवाद)"
+  ],
+  "priority": 1
+ },
+ "u0112": {
+  "line": "World Happiness Report 2026: Finland first for the ninth consecutive year; Iceland second, Denmark third; India 116th among 147 countries.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Happiness (खुशहाली)"
+  ],
+  "priority": 1
+ },
+ "u0113": {
+  "line": "Mobile World Congress (MWC) 2026 → Barcelona, Spain (2–5 March 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0114": {
+  "line": "Corruption Perceptions Index 2025 by Transparency International (headquarters Berlin, Germany): India 91st among 182 countries (released February 2026).",
+  "hook": "",
+  "trap": "The index is named 2025 but was released in February 2026.",
+  "hindi": [
+   "Corruption (भ्रष्टाचार)"
+  ],
+  "priority": 1
+ },
+ "u0115": {
+  "line": "Fourth India–Tanzania Joint Defence Cooperation Committee (JDCC) meeting → Zanzibar, Tanzania (Feb 2026); India led by Amitabh Prasad, Joint Secretary (Defence Cooperation); Tanzania by Ibrahim Mhona.",
+  "hook": "",
+  "trap": "Amitabh Prasad led the Indian side; Ibrahim Mhona led the Tanzanian side.",
+  "hindi": [
+   "Defence cooperation (रक्षा सहयोग)"
+  ],
+  "priority": 2
+ },
+ "u0116": {
+  "line": "World Governments Summit (WGS) 2026 → Dubai, UAE (3–5 February 2026); theme 'Shaping Future Governments'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0117": {
+  "line": "PM Narendra Modi → visited Malaysia (7–8 Feb 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0118": {
+  "line": "Lowy Institute (Australia) Asia Power Index 2025: USA first, China second, India third. First IIT campus in West Africa proposed in Nigeria.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0119": {
+  "line": "World Health Organization (WHO) declared a polio outbreak over in Indonesia (November 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Polio (पोलियो)"
+  ],
+  "priority": 2
+ },
+ "u0120": {
+  "line": "Miss Universe 2025 → Fátima Bosch of Mexico (21 Nov 2025). Cambridge Dictionary Word of the Year 2025 → 'parasocial'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0121": {
+  "line": "World Telecommunication Development Conference 2025 (WTDC-25) → Baku, Azerbaijan (17–28 November 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0122": {
+  "line": "Third International Ayurveda Conference → São Paulo, Brazil (14–15 November 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Ayurveda (आयुर्वेद)"
+  ],
+  "priority": 2
+ },
+ "u0123": {
+  "line": "India ranked 23rd in the Climate Change Performance Index 2026 (released November 2025).",
+  "hook": "",
+  "trap": "The index is named 2026 but came out in November 2025.",
+  "hindi": [
+   "Climate change (जलवायु परिवर्तन)"
+  ],
+  "priority": 1
+ },
+ "u0124": {
+  "line": "Nine core industries index grew 7.9% in September 2026; revised base year 2022–23; nine = coal, crude oil, natural gas, refinery products, fertilisers, steel, cement, electricity, iron ore.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Core industries (मुख्य उद्योग)",
+   "Base year (आधार वर्ष)"
+  ],
+  "priority": 1,
+  "check": "Q287 says 'Nine core industries' but Q288 calls it the 'Index of Eight Core Industries'."
+ },
+ "u0125": {
+  "line": "Cabinet continued National Social Assistance Programme (2026–27 to 2030–31) as Pradhan Mantri Samajik Sahayata Yojana: outlay ₹53,428 crore; ~3.20 crore beneficiaries; disability pension needs 40% disability.",
+  "hook": "",
+  "trap": "₹53,428 crore is the outlay; 3.20 crore is the number of beneficiaries.",
+  "hindi": [
+   "Social assistance (सामाजिक सहायता)",
+   "Disability pension (दिव्यांग पेंशन)"
+  ],
+  "priority": 1
+ },
+ "u0126": {
+  "line": "Cabinet approved ₹10,000 crore government commitment for a Small and Medium Enterprise Growth Fund (6 Oct 2026); it gives growth capital as direct equity investment.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Equity investment (इक्विटी निवेश)"
+  ],
+  "priority": 1
+ },
+ "u0127": {
+  "line": "Petroleum Minister Hardeep Singh Puri launched Central Gobardhan Scheme (1 Oct 2026): outlay ₹23,731 crore; FY 2026–27 to 2035–36; focus: compressed biogas.",
+  "hook": "Gobar-dhan: cow dung (गोबर) turned into wealth (धन) as biogas.",
+  "trap": "",
+  "hindi": [
+   "Compressed biogas (संपीड़ित बायोगैस)"
+  ],
+  "priority": 1
+ },
+ "u0128": {
+  "line": "MSP for marketing season 2027–28 (30 Sept 2026): all mandated rabi crops raised; safflower got highest increase ₹675/quintal; safflower MSP now ₹7,215/quintal.",
+  "hook": "",
+  "trap": "₹675 is safflower's increase; ₹7,215 is safflower's full MSP.",
+  "hindi": [
+   "Minimum Support Price (न्यूनतम समर्थन मूल्य)"
+  ],
+  "priority": 1
+ },
+ "u0129": {
+  "line": "Fourth Uttar Pradesh International Trade Show 2026 → India Expo Centre and Mart, Greater Noida (25 to 29 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Trade show (व्यापार प्रदर्शनी)"
+  ],
+  "priority": 1
+ },
+ "u0130": {
+  "line": "NITI Aayog released the second edition of the India Electric Mobility Index (16 Sept 2026); reference year 2025.",
+  "hook": "",
+  "trap": "Released in 2026, but the reference year is 2025.",
+  "hindi": [
+   "Electric vehicle (विद्युत वाहन)"
+  ],
+  "priority": 1
+ },
+ "u0131": {
+  "line": "World Circular Economy Forum 2026 → Mahatma Mandir Convention Centre, Gandhinagar, Gujarat; the Forum began as an initiative of Finland's innovation fund 'Sitra'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Circular economy (चक्रीय अर्थव्यवस्था)"
+  ],
+  "priority": 2
+ },
+ "u0132": {
+  "line": "Union Minister of Ports, Shipping and Waterways Sarbananda Sonowal → launched the Logistics Port Performance Index (LPPI) for FY 2024–25 (29 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Port (बंदरगाह)"
+  ],
+  "priority": 2
+ },
+ "u0133": {
+  "line": "Union Cabinet approved BHAVYA (Bharat Audyogik Vikas Yojna) for industrial parks (March 2026); outlay ₹33,660 crore; operational guidelines by DPIIT.",
+  "hook": "BHAVYA = BHArat Audyogik Vikas Yojna.",
+  "trap": "",
+  "hindi": [
+   "Industrial park (औद्योगिक पार्क)"
+  ],
+  "priority": 1
+ },
+ "u0134": {
+  "line": "Finance Minister Nirmala Sitharaman tabled Economic Survey 2025–26 (29 Jan 2026); prepared by the Economic Division, Department of Economic Affairs, Ministry of Finance.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Economic Survey (आर्थिक सर्वेक्षण)"
+  ],
+  "priority": 1
+ },
+ "u0135": {
+  "line": "Union Budget 2026–27 (1 Feb 2026), Nirmala Sitharaman: total expenditure ₹53,47,315 crore; fiscal deficit 4.3% of GDP; revenue deficit 1.5%; nominal GDP growth 10%; effective capex ₹17,14,523 crore.",
+  "hook": "",
+  "trap": "Fiscal deficit = 4.3% of GDP; revenue deficit = 1.5% of GDP. Total expenditure (₹53,47,315 crore) is not the effective capital expenditure (₹17,14,523 crore).",
+  "hindi": [
+   "Fiscal deficit (राजकोषीय घाटा)",
+   "Revenue deficit (राजस्व घाटा)",
+   "Capital expenditure (पूंजीगत व्यय)"
+  ],
+  "priority": 1
+ },
+ "u0136": {
+  "line": "Budget 2026–27 announced 7 high-speed rail corridors, total length nearly 4,000 km.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "High-speed rail (उच्च गति रेल)"
+  ],
+  "priority": 1
+ },
+ "u0137": {
+  "line": "NHAI set Guinness World Records while building a six-lane highway on the Bengaluru–Kadapa–Vijayawada Economic Corridor (NH-544G) (6 Jan 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Economic corridor (आर्थिक गलियारा)"
+  ],
+  "priority": 1
+ },
+ "u0138": {
+  "line": "Assam → first state to constitute its Eighth Pay Commission (February 2026); Chairman: Subhash Chandra Das.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Pay Commission (वेतन आयोग)"
+  ],
+  "priority": 1
+ },
+ "u0139": {
+  "line": "Export Promotion Mission (approved November 2025; outlay ₹25,060 crore; 2025–26 to 2030–31): two interventions under niryat protsahan sub-scheme to boost MSME exports (Jan 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Export promotion (निर्यात प्रोत्साहन)"
+  ],
+  "priority": 1
+ },
+ "u0140": {
+  "line": "Lucknow → first city in Uttar Pradesh to become a 'Zero Fresh Waste Dump City' (21 January 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Waste management (अपशिष्ट प्रबंधन)"
+  ],
+  "priority": 1
+ },
+ "u0141": {
+  "line": "Union Cabinet approved ₹5,000 crore equity support for SIDBI (Small Industries Development Bank of India) (21 January 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0142": {
+  "line": "Joint military exercise 'Mountain Guardian-2026' → India and the UAE at Chaubattia, Uttarakhand (5–18 October 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Military exercise (सैन्य अभ्यास)"
+  ],
+  "priority": 2
+ },
+ "u0143": {
+  "line": "ISRO announced the fourth Announcement of Opportunity cycle for Aditya-L1 solar observations (16 Oct 2026); it studies the Sun near L1; over 37 terabytes of data public.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0144": {
+  "line": "ISRO completed Gaganyaan Crew Module–Service Module separation tests at Vikram Sarabhai Space Centre, Thiruvananthapuram (16 October 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0145": {
+  "line": "Navy's first indigenous multipurpose vessel 'Samarthak' → delivered 27 Aug 2026, commissioned 16 Oct 2026; built by Larsen & Toubro at Kattupalli, Tamil Nadu.",
+  "hook": "",
+  "trap": "Delivered on 27 August; commissioned on 16 October.",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0146": {
+  "line": "NASA's revised Artemis plan (14 Oct 2026): return human Moon landing targeted by 2028; revised Artemis-III to send four astronauts into low Earth orbit.",
+  "hook": "",
+  "trap": "Artemis-III goes to low Earth orbit; the Moon landing target is 2028.",
+  "hindi": [
+   "Low Earth orbit (निम्न पृथ्वी कक्षा)"
+  ],
+  "priority": 2
+ },
+ "u0147": {
+  "line": "Ninth 'Kazind-2026' joint military exercise → India and Kazakhstan, at Oskemen, Kazakhstan (28 Sept–11 Oct 2026).",
+  "hook": "Kaz + Ind = Kazakhstan + India.",
+  "trap": "",
+  "hindi": [
+   "Joint military exercise (संयुक्त सैन्य अभ्यास)"
+  ],
+  "priority": 2
+ },
+ "u0148": {
+  "line": "India's first high-altitude snow leopard wildlife safari → launched in Ladakh (7 October 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Snow leopard (हिम तेंदुआ)"
+  ],
+  "priority": 1
+ },
+ "u0149": {
+  "line": "Technology Development Board – BigEndian Semiconductors (Bengaluru) deal for indigenous AI vision chip under 'Project VeerAI': ₹130 crore from RDI Fund; total cost ₹260 crore.",
+  "hook": "130 × 2 = 260: the fund gives half the cost.",
+  "trap": "₹130 crore = assistance; ₹260 crore = total project cost.",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0150": {
+  "line": "Second ASEAN–India Maritime Exercise 'AIME-2026' concluded in the Philippines (3 Oct 2026); Indian ships: INS Sahyadri and INS Kulish.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ }
+}

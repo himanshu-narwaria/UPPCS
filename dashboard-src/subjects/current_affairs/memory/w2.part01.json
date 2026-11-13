@@ -1,0 +1,673 @@
+{
+"u0250": {
+  "gist": "PM Modi inaugurated the Chinmaya Amrit Mahotsav Global Sammelan in New Delhi, closing year-long celebrations of 75 years of the Chinmaya Mission.",
+  "facts": [
+    "Inaugurated on October 23, 2026 at Bharat Mandapam, New Delhi; event ran 23–25 October.",
+    "Over 9,000 participants from India and abroad were expected.",
+    "PM interacted with a 'Holobot' (holographic image) of Swami Chinmayananda; recalled their 1993 Vadodara meeting.",
+    "Swami Chinmayananda (born Balakrishna Menon, 8 May 1916; died 3 August 1993) founded Chinmaya Mission in 1953.",
+    "His Gita Gyana Yagnas took Bhagavad Gita, Upanishads and Vedanta teachings to the public.",
+    "PM's focus: culture, social unity, self-reliance and youth role in Viksit Bharat by 2047."
+  ],
+  "hook": "",
+  "trap": "",
+  "check": "Mission founded in 1953, yet 75 years are celebrated in 2026 (1953 + 75 would be 2028).",
+  "hindi": ["Spiritual teacher (आध्यात्मिक गुरु)"],
+  "priority": 2,
+  "mcq": [{"q": "In October 2026, PM Modi inaugurated the Chinmaya Amrit Mahotsav Global Sammelan at which venue?",
+           "o": ["Yashobhoomi, New Delhi", "Vigyan Bhavan, New Delhi", "Bharat Mandapam, New Delhi", "Rudraksh Centre, Varanasi"],
+           "k": 2, "why": "PM inaugurated the Sammelan on October 23, 2026 at Bharat Mandapam, New Delhi."}]
+},
+"u0251": {
+  "gist": "UDAN, the regional air-connectivity scheme launched on 21 October 2016, completed 10 years of bringing flights to unserved and underserved areas.",
+  "facts": [
+    "RCS-UDAN = Regional Connectivity Scheme – Ude Desh ka Aam Nagrik; follows National Civil Aviation Policy, 2016.",
+    "First UDAN flight: Shimla–Delhi, April 2017.",
+    "By October 2026: 687 routes and 95 aerodromes (including 17 heliports, two water aerodromes).",
+    "Over 3.68 lakh flights carried 1.72 crore passengers.",
+    "Operational airports rose from 74 (2014) to 166 (2026); India is world's third-largest domestic aviation market.",
+    "Modified UDAN (4 July 2026): ₹28,840 crore, FY 2026–27 to 2035–36; 100 airports, 200 helipads."
+  ],
+  "hook": "UDAN = 'Ude Desh ka Aam Nagrik' – let the common citizen of the country fly.",
+  "trap": "Don't confuse the launch (21 October 2016) with the first flight (Shimla–Delhi, April 2017).",
+  "hindi": ["Regional connectivity (क्षेत्रीय संपर्क)", "Civil aviation (नागर विमानन)"],
+  "priority": 1,
+  "mcq": [{"q": "UDAN completed 10 years in October 2026. Between which cities did the first UDAN flight operate in April 2017?",
+           "o": ["Shimla and Delhi", "Lucknow and Delhi", "Kullu and Chandigarh", "Dehradun and Shimla"],
+           "k": 0, "why": "The first UDAN flight connected Shimla and Delhi in April 2017."}]
+},
+"u0252": {
+  "gist": "The Supreme Court held that internet access is a fundamental right, including for children, and rejected blanket bans on children's internet use.",
+  "facts": [
+    "Case: Just Rights for Children Alliance v. S. Harish; order delivered on October 15, 2026.",
+    "Bench: Justices J.B. Pardiwala and K. Vinod Chandran.",
+    "Right flows from Article 21 read with Article 19(1)(a); children have it irrespective of age.",
+    "Blanket limits called disproportionate; Court suggested parental supervision, child modes, private-by-default accounts.",
+    "Limits on inherently harmful content and services remain allowed.",
+    "Centre must build a National Hash & URL List Database to detect and remove CSEAM."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": ["Fundamental right (मौलिक अधिकार)"],
+  "priority": 1,
+  "mcq": [{"q": "In October 2026, the Supreme Court recognised internet access as a fundamental right under Article 21 read with which provision?",
+           "o": ["Article 14", "Article 19(1)(a)", "Article 21A", "Article 32"],
+           "k": 1, "why": "The Court recognised it under Article 21 read with Article 19(1)(a)."}]
+},
+"u0253": {
+  "gist": "The Right to Information Act, 2005 completed 21 years of full implementation on 12 October 2026; it supports transparency and accountability in government.",
+  "facts": [
+    "Presidential assent: 15 June 2005; fully operational: 12 October 2005.",
+    "Right to Know comes from Article 19(1)(a) – freedom of speech and expression.",
+    "State of U.P. v. Raj Narain (1975): SC recognised citizens' right to know about public acts.",
+    "PUCL v. Union of India (2003): voters' right to information about candidates upheld.",
+    "The RTI Act replaced the Freedom of Information Act, 2002.",
+    "It set up the Central Information Commission and State Information Commissions."
+  ],
+  "hook": "",
+  "trap": "Don't confuse assent (15 June 2005) with full operation (12 October 2005), the date used for the anniversary.",
+  "hindi": ["Right to Information (सूचना का अधिकार)", "Transparency (पारदर्शिता)"],
+  "priority": 1,
+  "mcq": [{"q": "The RTI Act, 2005, which completed 21 years in October 2026, replaced which earlier law?",
+           "o": ["Official Secrets Act, 1923", "Public Records Act, 1993", "Lokpal and Lokayuktas Act, 2013", "Freedom of Information Act, 2002"],
+           "k": 3, "why": "The RTI Act replaced the Freedom of Information Act, 2002."}]
+},
+"u0254": {
+  "gist": "The National SARAS Mela 2026 in Vijayawada, under DAY-NRLM, showcased rural women entrepreneurs' products; it is the first National SARAS Mela outside Delhi-NCR.",
+  "facts": [
+    "Held 13–31 October 2026 at Punnami Ghat, Vijayawada.",
+    "Organised under Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM).",
+    "About 1,500 SHG women and Lakhpati Didis from 34 states/UTs; more than 650 stalls.",
+    "Main attraction: a 16-foot installation, 'SHAKTI – The Spirit of Lakhpati Didi'.",
+    "First National SARAS Mela: Delhi, 1999, with about 65 beneficiaries.",
+    "So far 117 National SARAS Melas; annual sales exceed ₹200 crore."
+  ],
+  "hook": "",
+  "trap": "The first-ever SARAS Mela was in Delhi (1999); Vijayawada 2026 is the first National SARAS Mela outside Delhi-NCR.",
+  "hindi": ["Self-Help Group (स्वयं सहायता समूह)", "Rural livelihood (ग्रामीण आजीविका)"],
+  "priority": 1,
+  "mcq": [{"q": "The National SARAS Mela 2026, the first held outside Delhi-NCR, was organised in which city?",
+           "o": ["Visakhapatnam", "Hyderabad", "Bhubaneswar", "Vijayawada"],
+           "k": 3, "why": "It was held 13–31 October 2026 at Punnami Ghat, Vijayawada, the first outside Delhi-NCR."}]
+},
+"u0255": {
+  "gist": "On 11 October 2026 in Tamil Nadu, PM Modi opened the Poonamallee–Vadapalani stretch of Chennai Metro Phase II and launched highway, rail and port projects.",
+  "facts": [
+    "Poonamallee–Vadapalani metro stretch cost about ₹4,900 crore.",
+    "It has a 3.7-km double-decker structure and signalling designed for driverless operation.",
+    "Highway projects (about ₹3,700 crore): 36-km Vadugapatti–Therkuvenganallur (NH-744), 30-km Madurai Ring Road (NH-744A).",
+    "Rail projects over ₹750 crore, including Karaikal–Peralam line; five Amrit Bharat Stations inaugurated.",
+    "Ports: four projects at Chennai Port, eight at V.O. Chidambaranar Port, Coal Berth-3 at Kamarajar Port.",
+    "Dedicated the Sudha Gopalakrishnan Brain Centre at IIT Madras."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": ["Foundation stone (आधारशिला)"],
+  "priority": 2,
+  "mcq": [{"q": "The Poonamallee–Vadapalani stretch of Chennai Metro Phase II, opened in October 2026, has a double-decker structure of what length?",
+           "o": ["3.7 km", "36 km", "30 km", "7.3 km"],
+           "k": 0, "why": "A distinctive feature of this corridor is its 3.7-kilometre-long double-decker structure."}]
+},
+"u0256": {
+  "gist": "The Rural Development Ministry is starting DDU-GKY 2.0 training batches from October 2026, giving placement-linked skill training to poor rural youth.",
+  "facts": [
+    "DDU-GKY: Centrally Sponsored Scheme, launched 25 September 2014 under the National Rural Livelihoods Mission.",
+    "For youth aged 15–35 from poor rural households; courses last three to twelve months.",
+    "DDU-GKY 2.0: targets of over nine lakh candidates given to all 31 participating states/UTs for 2026–28.",
+    "24 states/UTs allotted 5.6 lakh candidates across 1,200+ projects; about 2,015 batches for 70,000 youth.",
+    "Since 2014–15: 18.47 lakh trained for 800+ job types; 12.43 lakh got jobs.",
+    "Revised 2.0 guidelines: May 2025. Goa leads preparations; J&K allocated 100% targets, started 91%."
+  ],
+  "hook": "",
+  "trap": "DDU-GKY is a Centrally Sponsored Scheme launched in 2014 under NRLM; 2.0 is its new round for 2026–28.",
+  "hindi": ["Skill development (कौशल विकास)", "Rural youth (ग्रामीण युवा)"],
+  "priority": 1,
+  "mcq": [{"q": "DDU-GKY, whose 2.0 training batches began in October 2026, gives skill training to rural youth of which age group?",
+           "o": ["18–30 years", "15–35 years", "14–29 years", "21–40 years"],
+           "k": 1, "why": "The scheme trains youth aged 15–35 years from poor rural households."}]
+},
+"u0257": {
+  "gist": "On 6 October 2026, the Union Cabinet approved the Integrated Transport & Logistics Authority (ITLA) as an SPV to plan and integrate all transport modes.",
+  "facts": [
+    "ITLA is a Special Purpose Vehicle (SPV); approved by the Cabinet chaired by PM Narendra Modi.",
+    "It will be the national apex body for integrated transport and logistics planning, research and appraisal.",
+    "It will prepare a National Transport Master Plan with a horizon of ten years or more.",
+    "It will technically appraise Government of India infrastructure projects costing ₹500 crore or more.",
+    "It will build a National Transport Data Repository (NTDR).",
+    "NTDR data: GSTN e-way bills, FASTag, Vahan, GPS systems and urban traffic systems."
+  ],
+  "hook": "ITLA links four modes in one plan: road, rail, water and air.",
+  "trap": "",
+  "hindi": ["Transport (परिवहन)", "Master plan (महायोजना)"],
+  "priority": 1,
+  "mcq": [{"q": "The Integrated Transport & Logistics Authority (ITLA), approved in October 2026, will appraise central infrastructure projects costing at least how much?",
+           "o": ["₹100 crore", "₹250 crore", "₹500 crore", "₹1,000 crore"],
+           "k": 2, "why": "ITLA will appraise Government of India infrastructure projects costing ₹500 crore or more."}]
+},
+"u0258": {
+  "gist": "UPSC completed 100 years on 1 October 2026; India's first Public Service Commission was set up on 1 October 1926.",
+  "facts": [
+    "Centenary event 'Manthan': Bharat Mandapam, New Delhi, 30 September–1 October 2026.",
+    "Lee Commission (1924, Arthur Hamilton Lee) recommended it; set up under PSC (Functions) Rules, 1926.",
+    "First Chairman: Sir Ross Barker; office at Metcalfe House, Delhi.",
+    "Renamed Federal PSC (1 April 1937), then Union PSC (26 January 1950).",
+    "1947: H.K. Kripalani first Indian Chairman; 1979: three-stage exam; 2011: CSAT introduced.",
+    "Satyendranath Tagore first Indian in ICS (joined 1864); ICS exam first held in India 1922 at Allahabad."
+  ],
+  "hook": "1926 → 1937 → 1950: PSC → Federal PSC → Union PSC.",
+  "trap": "Sir Ross Barker = first Chairman (1926); H.K. Kripalani = first Indian Chairman (1947). Tagore passed in 1863 but joined in 1864.",
+  "hindi": ["Public Service Commission (लोक सेवा आयोग)", "Centenary (शताब्दी)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "UPSC completed 100 years in 2026. Who was the first Chairman of India's Public Service Commission set up in 1926?",
+     "o": ["H. K. Kripalani", "Arthur Hamilton Lee", "Sir Ross Barker", "R.N. Banerjee"],
+     "k": 2, "why": "Sir Ross Barker, a member of the UK Home Civil Service, was its first Chairman."},
+    {"q": "UPSC completed 100 years in 2026. On which date was the Federal Public Service Commission renamed the Union Public Service Commission?",
+     "o": ["1 October 1926", "1 April 1937", "14 January 1949", "26 January 1950"],
+     "k": 3, "why": "On 26 January 1950, the Federal PSC was renamed the Union Public Service Commission."}
+  ]
+},
+"u0259": {
+  "gist": "The People's Plan Campaign 2026–27 began on 2 October 2026 to prepare Panchayat Development Plans for 2027–28 through citizen participation.",
+  "facts": [
+    "Theme: 'Sabki Yojana, Sabka Vikas'; started on Gandhi Jayanti, 2 October 2026.",
+    "PPC, also called Jan Yojana Abhiyan, was first launched on 2 October 2018; held every year.",
+    "Over 2.42 lakh Special Gram Sabhas scheduled on GPDP and Panchayat NIRNAY portals.",
+    "Three levels: Gram (GPDP), Block (BPDP) and District (DPDP) Panchayat Development Plans.",
+    "SHG federations prepare Village Prosperity and Resilience Plans (VPRPs).",
+    "Over 2.55 lakh Gram Panchayats upload GPDPs on eGramSwaraj; 18.13 lakh plans uploaded (2019–20 to 2025–26)."
+  ],
+  "hook": "",
+  "trap": "Campaign year 2026–27 prepares plans for financial year 2027–28.",
+  "hindi": ["Gram Sabha (ग्राम सभा)", "Participatory planning (सहभागी नियोजन)"],
+  "priority": 1,
+  "mcq": [{"q": "What was the theme of the People's Plan Campaign 2026–27 launched on 2 October 2026?",
+           "o": ["Sabki Yojana, Sabka Vikas", "Sabka Saath, Sabka Vikas", "Gram Swaraj, Desh Swaraj", "Hamari Panchayat, Hamari Yojana"],
+           "k": 0, "why": "PPC 2026–27 began on Gandhi Jayanti under the theme 'Sabki Yojana, Sabka Vikas'."}]
+},
+"u0260": {
+  "gist": "Environment Minister Bhupender Yadav launched implementation guidelines of National Coastal Mission 2.0, linking coastal conservation, climate resilience and livelihoods.",
+  "facts": [
+    "Guidelines launched on September 30, 2026 in New Delhi.",
+    "Central Sector Scheme of MoEFCC; outlay ₹767 crore for 2025–26 to 2030–31.",
+    "Earlier National Coastal Mission subsumed into NCM 2.0 from 16 May 2025.",
+    "NCM 1.0 (2021–22 to 2025–26) backed mangrove and coral-reef conservation and beach development.",
+    "Covers nine coastal States and four Union Territories.",
+    "Andaman & Nicobar: mangrove restoration; Gujarat: Conservation and Information Centre cum Marine Oceanarium planned."
+  ],
+  "hook": "",
+  "trap": "NCM 2.0 took over the old mission on 16 May 2025; only its guidelines came on 30 September 2026.",
+  "hindi": ["Coastal (तटीय)", "Conservation (संरक्षण)"],
+  "priority": 1,
+  "mcq": [{"q": "National Coastal Mission 2.0, whose guidelines were launched in September 2026, has what approved outlay for 2025–26 to 2030–31?",
+           "o": ["₹676 crore", "₹767 crore", "₹1,767 crore", "₹2,767 crore"],
+           "k": 1, "why": "NCM 2.0 is a Central Sector Scheme with an approved outlay of ₹767 crore."}]
+},
+"u0261": {
+  "gist": "Lakshadweep (11 October 2026) and Jammu & Kashmir (September 2026) were declared fully literate under the ULLAS adult literacy programme.",
+  "facts": [
+    "Lakshadweep (11 Oct 2026, by Administrator Praful Patel) became fully literate; J&K was 10th since June 2024.",
+    "ULLAS = Understanding Lifelong Learning for All in Society; for people aged 15+ who missed school.",
+    "Fully literate = at least 95% of people aged 15 and above can read and write.",
+    "Firsts: Ladakh (24 June 2024) first administrative unit; Mizoram (20 May 2025) first state.",
+    "Sikkim fifth state (27 May 2026); Uttarakhand sixth state (8 July 2026, 98.7%).",
+    "Sikkim: first paperless State judiciary, declared 1 May 2026 by CJI Surya Kant in Gangtok."
+  ],
+  "hook": "Ladakh first unit (2024), Mizoram first state (2025): L comes before M.",
+  "trap": "Himachal was the fifth State/UT (fourth state, September 2025); Sikkim was the fifth state (May 2026).",
+  "hindi": ["Literacy (साक्षरता)", "Adult education (प्रौढ़ शिक्षा)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Under the ULLAS programme, which state was declared India's first fully literate state in May 2025?",
+     "o": ["Goa", "Tripura", "Mizoram", "Sikkim"],
+     "k": 2, "why": "On 20 May 2025, Mizoram became the first state to attain full literacy under ULLAS."},
+    {"q": "Under ULLAS, a State/UT is declared fully literate when at least what share of people aged 15 and above can read and write?",
+     "o": ["90%", "95%", "98.7%", "100%"],
+     "k": 1, "why": "A state or UT is fully literate once at least 95% of those aged 15+ are literate."}
+  ]
+},
+"u0262": {
+  "gist": "Five heritage sites – four in Madhya Pradesh and the India–South Africa 'Sites of Satyagraha' – joined India's UNESCO Tentative List, taking it to 78.",
+  "facts": [
+    "Announced on September 29, 2026; India's Tentative List now totals 78.",
+    "Bagh Cave Paintings: nine Buddhist caves beside the Baghni River (Madhya Pradesh).",
+    "Udayagiri Caves: 20 caves, mainly from late fourth and early fifth centuries, under Gupta patronage.",
+    "Chambal Valley Temples (Morena): Bateshwar, Padavali, Kakanmath; Nagara style; Gurjara-Pratihara and Kachchhapaghata patronage.",
+    "Ginnorgarh Fort: Raj Gond fortified capital in Sehore district.",
+    "Sites of Satyagraha: nine sites, seven in India and two in South Africa (incl. Phoenix Settlement)."
+  ],
+  "hook": "Pairs: Bagh – Baghni River; Ginnorgarh – Sehore; Chambal temples – Morena; Udayagiri – Gupta.",
+  "trap": "",
+  "hindi": ["Tentative List (संभावित सूची)", "World Heritage (विश्व धरोहर)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "After five additions announced on September 29, 2026, how many entries are on India's UNESCO Tentative List?",
+     "o": ["69", "73", "78", "83"],
+     "k": 2, "why": "The five new entries brought India's UNESCO Tentative List total to 78."},
+    {"q": "Ginnorgarh Fort, added to India's UNESCO Tentative List in September 2026, lies in which district of Madhya Pradesh?",
+     "o": ["Sehore", "Morena", "Dhar", "Vidisha"],
+     "k": 0, "why": "Ginnorgarh Fort, a Raj Gond fortified capital, lies in Sehore district."}
+  ]
+},
+"u0263": {
+  "gist": "The 9th Rashtriya Poshan Maah was launched on 9 September 2026 in Varanasi, putting Anganwadi Centres at the centre of the fight against malnutrition.",
+  "facts": [
+    "Venue: Rudraksh International Cooperation and Convention Centre, Varanasi, Uttar Pradesh.",
+    "Led by the Ministry of Women and Child Development; ran 9 September–8 October 2026.",
+    "Theme: 'Hamari Anganwadi, Hamari Jimmedari' (Our Anganwadi, Our Responsibility).",
+    "Poshan Maah = National Nutrition Month, observed every September under the POSHAN framework.",
+    "Five priorities include dietary diversity and protein, hot-cooked meals, and maternal nutrition with PMMVY."
+  ],
+  "hook": "The 9th edition began on the 9th (9 September).",
+  "trap": "",
+  "hindi": ["Nutrition (पोषण)", "Malnutrition (कुपोषण)"],
+  "priority": 1,
+  "mcq": [{"q": "What was the theme of the 9th Rashtriya Poshan Maah launched in Varanasi in September 2026?",
+           "o": ["Suposhit Bharat, Saksham Bharat", "Poshan Bhi, Padhai Bhi", "Har Ghar Poshan Tyohar", "Hamari Anganwadi, Hamari Jimmedari"],
+           "k": 3, "why": "Its official theme was 'Hamari Anganwadi, Hamari Jimmedari' (Our Anganwadi, Our Responsibility)."}]
+},
+"u0264": {
+  "gist": "Five cheetah cubs born at Kuno on 5 October 2026 took India's cheetah count to 60; after one cub died, it fell to 59.",
+  "facts": [
+    "Mother KJP21 (32 months, Indian-born) is the third Indian-born female to give birth; father from Botswana.",
+    "Indian-born cheetahs: 41 after the births, 40 after the Aasha cub died (12 October 2026).",
+    "Project Cheetah launched at Kuno on 17 September 2022 with eight Namibian cheetahs.",
+    "Imports: eight from Namibia, 12 from South Africa (2023), nine from Botswana (2026); total 29.",
+    "Programme expanded to Gandhi Sagar Wildlife Sanctuary (Madhya Pradesh) in 2025.",
+    "Project uses African cheetah (A. j. jubatus); India's native Asiatic subspecies (A. j. venaticus) is Critically Endangered."
+  ],
+  "hook": "",
+  "trap": "Total population 60 → 59, but Indian-born 41 → 40; cumulative imports are 29.",
+  "check": "Botswana is said to have handed over eight cheetahs in November 2025, but nine arrived from Botswana on 28 February 2026.",
+  "hindi": ["Critically Endangered (गंभीर रूप से संकटग्रस्त)", "Wildlife (वन्यजीव)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Project Cheetah was launched at Kuno National Park on 17 September 2022 with cheetahs from which country?",
+     "o": ["South Africa", "Botswana", "Kenya", "Namibia"],
+     "k": 3, "why": "PM Modi released eight Namibian cheetahs into quarantine enclosures at Kuno."},
+    {"q": "After a cheetah cub died on 12 October 2026, what was India's total cheetah population?",
+     "o": ["60", "59", "41", "29"],
+     "k": 1, "why": "Births took the count to 60; after the Aasha cub's death it became 59."}
+  ]
+},
+"u0265": {
+  "gist": "Bhupender Yadav gave the first PRAMAAN certificates under the Indian Forest and Wood Certification Scheme, moving it from policy to ground-level use.",
+  "facts": [
+    "Presented in New Delhi on September 29, 2026.",
+    "Scheme: Indian Forest and Wood Certification Scheme (IFWCS), launched by the Ministry in December 2023.",
+    "Operating agency: Indian Institute of Forest Management (IIFM), Bhopal.",
+    "First certificates: Andhra Pradesh Forest Development Corporation (33,000 hectares of plantations) and farmer Govind Mohapatra (Odisha).",
+    "PRAMAAN = Programme for Recognition and Accreditation of Sustainable Management Practices for Agroforestry And Natural Forestry Resources.",
+    "PRAMAAN is an important tool for Indian producers, exporters and forest-based enterprises."
+  ],
+  "hook": "PRAMAAN sounds like 'प्रमाण' (proof): a certificate that proves sustainable forestry.",
+  "trap": "",
+  "hindi": ["Certification (प्रमाणन)", "Agroforestry (कृषि वानिकी)"],
+  "priority": 2,
+  "mcq": [{"q": "Which institute is the operating agency of the scheme under which the first PRAMAAN certificates were given in September 2026?",
+           "o": ["Forest Research Institute, Dehradun", "Wildlife Institute of India, Dehradun", "Indian Institute of Forest Management, Bhopal", "Indian Council of Forestry Research and Education"],
+           "k": 2, "why": "The event was organised by the IFWCS operating agency, IIFM Bhopal."}]
+},
+"u0266": {
+  "gist": "Hardeep Puri launched the unified GOBARdhan scheme on 1 October 2026 to grow India's Compressed Biogas sector using farm, cattle and city waste.",
+  "facts": [
+    "GOBARdhan = Galvanizing Organic Bio-Agro Resources Dhan; Cabinet approved it on 6 August 2026.",
+    "Central Sector Scheme led by Ministry of Petroleum and Natural Gas; ₹23,731 crore for FY 2026-27 to 2035-36.",
+    "Converts crop residue, cattle dung and municipal organic waste into clean energy and organic manure.",
+    "Original GOBARdhan began in 2018 under Swachh Bharat Mission (Grameen).",
+    "Unified scheme merges CBG parts earlier run by four ministries; builds on SATAT.",
+    "By 6 August 2026: 1,908 registered plants, 217 commissioned, 339 under construction."
+  ],
+  "hook": "GOBAR-dhan: cow dung (गोबर) turned into wealth (धन).",
+  "trap": "Cabinet approval 6 August 2026 vs formal launch 1 October 2026; the original GOBARdhan dates to 2018.",
+  "hindi": ["Compressed Biogas (संपीडित बायोगैस)", "Organic manure (जैविक खाद)"],
+  "priority": 1,
+  "mcq": [{"q": "The unified GOBARdhan scheme for Compressed Biogas, launched in October 2026, is led by which ministry?",
+           "o": ["Ministry of Petroleum and Natural Gas", "Ministry of Jal Shakti", "Ministry of New and Renewable Energy", "Ministry of Agriculture and Farmers Welfare"],
+           "k": 0, "why": "The Ministry of Petroleum and Natural Gas leads it, with a ₹23,731 crore outlay."}]
+},
+"u0267": {
+  "gist": "Bharat Taxi, India's first cooperative-led ride-hailing platform, launched in five Uttar Pradesh cities on 23 September 2026 on a 'Driver is the Owner' model.",
+  "facts": [
+    "UP cities: Lucknow, Gorakhpur, Varanasi, Kanpur and Prayagraj.",
+    "Operator: Sahakar Taxi Cooperative Limited (STCL), registered under Multi-State Cooperative Societies Act, 2002.",
+    "STCL established 6 June 2025; national launch 5 February 2026.",
+    "Authorised share capital ₹300 crore, in shares of ₹100 each.",
+    "Drivers are called Saarthis (also Sarathis); services include cab, auto, bike and rentals.",
+    "Safety: driver and vehicle checks, trip records, SOS and journey-sharing."
+  ],
+  "hook": "",
+  "trap": "Three dates: STCL set up 6 June 2025, national launch 5 February 2026, UP launch 23 September 2026.",
+  "hindi": ["Cooperative (सहकारी)", "Driver (चालक)"],
+  "priority": 1,
+  "mcq": [{"q": "Bharat Taxi, launched in five Uttar Pradesh cities in September 2026, is operated by which body?",
+           "o": ["National Cooperative Development Corporation", "Uttar Pradesh State Road Transport Corporation", "Open Network for Digital Commerce", "Sahakar Taxi Cooperative Limited"],
+           "k": 3, "why": "The operator is Sahakar Taxi Cooperative Limited, a multi-state cooperative society."}]
+},
+"u0268": {
+  "gist": "India Justice Report's first Consumer Justice Report 2026 ranked states on consumer commission capacity; Andhra Pradesh and Meghalaya topped their categories.",
+  "facts": [
+    "Released March 2026; title 'Assessing the Capacity of Redressal Commissions in India'.",
+    "Five themes, 11 equally weighted indicators; score out of ten; 19 large/mid and nine small states ranked.",
+    "Top: Andhra Pradesh (6.28) large/mid; Meghalaya (5.58) small; Uttar Pradesh 10th (4.36).",
+    "Pending cases rose about 21%: 4.27 lakh (end 2019) to 5.15 lakh (end 2024).",
+    "About 35% of cases pending over three years; Kerala about 79%, Uttar Pradesh about 62%.",
+    "CVC's 62nd Annual Report (2025): CVOs got 70,584 complaints directly; 64,905 disposed."
+  ],
+  "hook": "",
+  "trap": "IJR's report ranks consumer commissions; the CVC report (also in this news) is about vigilance complaints.",
+  "hindi": ["Consumer (उपभोक्ता)", "Pending cases (लंबित मामले)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Which state ranked first among large and mid-sized states in the India Justice Report's Consumer Justice Report 2026?",
+     "o": ["Madhya Pradesh", "Rajasthan", "Karnataka", "Andhra Pradesh"],
+     "k": 3, "why": "Andhra Pradesh ranked first with a score of 6.28 out of 10."},
+    {"q": "In the Consumer Justice Report 2026, what was Uttar Pradesh's rank among large and mid-sized states?",
+     "o": ["5th", "10th", "19th", "2nd"],
+     "k": 1, "why": "Uttar Pradesh ranked 10 with a score of 4.36."}
+  ]
+},
+"u0269": {
+  "gist": "The Jal Shakti Ministry released First Census of Springs reports on 25 September 2026; Volume II Part II counted 14,468 springs in ten states.",
+  "facts": [
+    "Released at the valedictory of the ninth India International Water Week, Bharat Mandapam; chaired by C. R. Patil.",
+    "Manipur has the most springs (3,941), followed by Maharashtra (3,652).",
+    "Reference year 2023–24; figures cover only these ten states, not all of India.",
+    "States: Andhra Pradesh, Assam, Goa, Maharashtra, Manipur, Odisha, Rajasthan, Telangana, Tripura, West Bengal.",
+    "Rajasthan recorded the fewest (13); Andhra Pradesh's 34 springs are all seasonal.",
+    "Earlier Volume II (Bihar, Karnataka, Kerala, Ladakh, Sikkim, Tamil Nadu) came out on 23 March 2026."
+  ],
+  "hook": "",
+  "trap": "14,468 is a ten-state total, not an all-India spring count.",
+  "hindi": ["Census (जनगणना)", "Perennial (बारहमासी)"],
+  "priority": 1,
+  "mcq": [{"q": "According to Volume II, Part II of India's First Census of Springs (September 2026), which state has the most springs?",
+           "o": ["Maharashtra", "Manipur", "Odisha", "West Bengal"],
+           "k": 1, "why": "Of 14,468 springs in ten states, Manipur recorded the largest number, followed by Maharashtra."}]
+},
+"u0270": {
+  "gist": "A 17 September 2026 update on the Electronics Components Manufacturing Scheme reported 106 approved projects across 15 States, with expected investment of ₹69,548 crore.",
+  "facts": [
+    "Electronics exports rose from over ₹38,000 crore (FY 2014–15) to ₹4.24 lakh crore (FY 2025–26).",
+    "As of August 2026: manufacturing started at 38 plants; 16 projects at advanced stages.",
+    "ECMS notified on 8 April 2025; outlay raised from ₹22,919 crore to ₹40,000 crore in Budget 2026–27.",
+    "Turnover-linked incentives for six years (plus optional one-year gestation); capex incentives for five years.",
+    "Electronics production rose from ₹1.9 lakh crore (FY 2014–15) to ₹13.11 lakh crore (FY 2025–26).",
+    "National target by 2030: $500 billion electronics manufacturing and $150 billion exports."
+  ],
+  "hook": "",
+  "trap": "India's 2030 targets ($500 billion ecosystem, $150 billion exports) are separate from ECMS project outcomes.",
+  "hindi": ["Electronic components (इलेक्ट्रॉनिक घटक)", "Manufacturing (विनिर्माण)"],
+  "priority": 1,
+  "mcq": [{"q": "The outlay of the Electronics Components Manufacturing Scheme (ECMS) was raised to how much in the Union Budget 2026–27?",
+           "o": ["₹22,919 crore", "₹59,350 crore", "₹69,548 crore", "₹40,000 crore"],
+           "k": 3, "why": "The initial outlay of ₹22,919 crore was increased to ₹40,000 crore in Budget 2026–27."}]
+},
+"u0271": {
+  "gist": "The Home Ministry reportedly proposed Article 371-K to give Ladakh special constitutional safeguards with a directly elected UT-level body; it remains a proposal.",
+  "facts": [
+    "Proposed at a 9 September 2026 meeting with Leh Apex Body (LAB) and Kargil Democratic Alliance (KDA).",
+    "Body would make laws on land, culture, language, forests, environment and natural resources.",
+    "'Sui generis' model = unique arrangement; no automatic statehood or regular UT legislature.",
+    "Ladakh became a UT without a legislature on October 31, 2019 (J&K Reorganisation Act, 2019).",
+    "Local demands: statehood, Sixth Schedule, job safeguards, separate Lok Sabha seats for Leh and Kargil.",
+    "Sixth Schedule (Articles 244(2), 275(1)) covers tribal areas of Assam, Meghalaya, Tripura, Mizoram."
+  ],
+  "hook": "Sixth Schedule states = 'AMTM': Assam, Meghalaya, Tripura, Mizoram.",
+  "trap": "Article 371-K is only a proposal; it is not statehood and not Sixth Schedule status.",
+  "hindi": ["Union Territory (केंद्र शासित प्रदेश)", "Sixth Schedule (छठी अनुसूची)"],
+  "priority": 1,
+  "mcq": [{"q": "In September 2026, the Union Home Ministry reportedly proposed which Article to give special constitutional safeguards to Ladakh?",
+           "o": ["Article 370", "Article 244(2)", "Article 371-K", "Article 371-J"],
+           "k": 2, "why": "MHA reportedly proposed Article 371-K for Ladakh at a 9 September 2026 meeting."}]
+},
+"u0272": {
+  "gist": "Ladakh LG Vinai Kumar Saxena opened twin flower fields in Leh on 17 September 2026, described as the world's highest-altitude twin flower fields.",
+  "facts": [
+    "Opened on Sewa Diwas to mark PM Narendra Modi's 76th birthday.",
+    "Located at Choglamsar and Stakna; altitude 10,600 feet; 40 acres together.",
+    "Over 25 lakh flowers: about 24 lakh Lilium and 1 lakh Gladiolus.",
+    "Foundation stone laid on June 22, 2026; MoU with CSIR–IHBT, Palampur (Himachal Pradesh).",
+    "Agriculture Department develops the fields, then hands them to SHGs and cooperatives at bloom.",
+    "First air consignment (29 September 2026): 15,000 A-grade Lilium stems from KBR Airport, Leh, for Delhi, Mumbai, Chandigarh."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": ["Floriculture (पुष्पकृषि)", "Self-Help Group (स्वयं सहायता समूह)"],
+  "priority": 2,
+  "mcq": [{"q": "The twin flower fields opened in Leh on 17 September 2026 are at Choglamsar and which other place?",
+           "o": ["Stakna", "Nubra", "Kargil", "Hemis"],
+           "k": 0, "why": "The fields are located at Choglamsar and Stakna, at 10,600 feet."}]
+},
+"u0273": {
+  "gist": "Indian Railways approved Kavach 4.0, the train-protection system, for remaining sections of North Eastern Railway's Varanasi and Izzatnagar divisions.",
+  "facts": [
+    "Varanasi division: announced September 28, 2026; ₹223 crore; 614.75 route km.",
+    "Izzatnagar division: announced August 12, 2026; ₹295 crore (estimated); 660 route km.",
+    "Kavach was developed by RDSO (Research Designs and Standards Organisation) with Indian industry.",
+    "Functions: enforce permitted speed, prevent Signal Passing at Danger (SPAD), reduce collision risk.",
+    "RDSO approved the Kavach 4.0 specification on 16 July 2024.",
+    "4.0 upgrades: better location accuracy, signal data in big yards, OFC station link, electronic interlocking interface."
+  ],
+  "hook": "",
+  "trap": "Varanasi: ₹223 crore, 614.75 km; Izzatnagar: ₹295 crore, 660 km – don't swap.",
+  "hindi": ["Railway safety (रेल सुरक्षा)", "Collision (टक्कर)"],
+  "priority": 1,
+  "mcq": [{"q": "Which organisation developed Kavach, approved in Version 4.0 for NER's Varanasi division in September 2026?",
+           "o": ["DRDO", "RDSO", "ISRO", "BEML"],
+           "k": 1, "why": "The Research Designs and Standards Organisation (RDSO) developed Kavach with Indian industry."}]
+},
+"u0274": {
+  "gist": "Assam's Uniform Civil Code Act, 2026 got Presidential assent on 29 September 2026, making Assam the first Northeast state with a UCC.",
+  "facts": [
+    "Bill introduced 25 May 2026 by Atul Bora; passed by voice vote on 27 May 2026.",
+    "Assam is the third state, after Uttarakhand and Gujarat, to adopt a state UCC law.",
+    "Linked to Article 44; STs excluded; repeals Assam Compulsory Registration of Muslim Marriages and Divorces Act, 2024.",
+    "Monogamy compulsory; bigamy/polygamy up to seven years' jail; marriage age 21 (men), 18 (women).",
+    "Marriage memorandum within 60 days; live-in registration within one month; live-in children fully legitimate.",
+    "Gujarat UCC: assent 17 September 2026; committee led by Justice Ranjana Prakash Desai."
+  ],
+  "hook": "UCC order: Uttarakhand → Gujarat → Assam (first in the Northeast).",
+  "trap": "Assam: passed 27 May, assent 29 September 2026. Gujarat: passed 24 March, assent 17 September 2026.",
+  "hindi": ["Uniform Civil Code (समान नागरिक संहिता)", "Monogamy (एकविवाह)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "With Presidential assent in September 2026, Assam became the third state to adopt a UCC law. Which two states came before it?",
+     "o": ["Goa and Gujarat", "Uttarakhand and Gujarat", "Uttarakhand and Uttar Pradesh", "Gujarat and Madhya Pradesh"],
+     "k": 1, "why": "Assam became the third state after Uttarakhand and Gujarat to adopt UCC legislation."},
+    {"q": "Under the Assam Uniform Civil Code Act, 2026, within what time must a live-in relationship be registered?",
+     "o": ["One month", "60 days", "90 days", "Six months"],
+     "k": 0, "why": "The Act makes registration of live-in relationships mandatory within one month."}
+  ]
+},
+"u0275": {
+  "gist": "UP's Mukhyamantri Krishak Samriddhi Yojana makes long-term farm loans cheaper for small and marginal farmers, at 6% interest with state support.",
+  "facts": [
+    "Announced by CM Yogi Adityanath on 21 December 2025 at Yuva Sahkar Sammelan and UP Cooperative Expo 2025.",
+    "UP Cabinet approved it on September 15, 2026; CM launched it in Lucknow on 23 September 2026.",
+    "Loans up to ₹6 lakh for eligible small and marginal farmers.",
+    "Farmer pays 6% a year (earlier 11%); State gives 5% interest support for on-time repayment.",
+    "Mini Nandini scheme: 10 indigenous cows (Sahiwal, Gir, Tharparkar); 50% subsidy up to ₹11.80 lakh.",
+    "Mukhyamantri Krishak Durghatna Kalyan Yojana: ₹5 lakh on accidental death of an eligible farmer."
+  ],
+  "hook": "11% − 5% state support = 6% paid by the farmer.",
+  "trap": "The 5% interest support is only for farmers who pay instalments on time.",
+  "check": "Nandini scheme supports 25-cow units, yet a 'unit with five Gangatiri cows' has a ₹30.50 lakh ceiling; this looks inconsistent.",
+  "hindi": ["Interest subsidy (ब्याज अनुदान)", "Small and marginal farmers (लघु एवं सीमांत किसान)"],
+  "priority": 1,
+  "mcq": [{"q": "Under UP's Mukhyamantri Krishak Samriddhi Yojana (launched September 2026), what interest rate do eligible farmers pay?",
+           "o": ["11% per annum", "5% per annum", "6% per annum", "4% per annum"],
+           "k": 2, "why": "Beneficiary rate is 6% per annum, down from 11%, with 5% state interest support."}]
+},
+"u0276": {
+  "gist": "PM Modi inaugurated SEMICON India 2026, the fifth edition, at Yashobhoomi, New Delhi, as India moves to the Semicon 2.0 programme.",
+  "facts": [
+    "Held 17–19 September 2026; theme 'Silicon to Systems: Building the Ecosystem'.",
+    "Over 600 exhibitors, 52 countries, six country and 12 state pavilions; 51,656 registrations, about 40,000 footfall; 56 MoUs.",
+    "Semicon 1.0: 12 units approved, over ₹1.64 lakh crore investment; nine are packaging units.",
+    "CDIL Semiconductor (Mohali) and Suchi Semicon (Surat) lines launched; five of 12 now operational.",
+    "Semicon 2.0: approved 15 July 2026, outlay ₹1,27,500 crore; six pillars notified 31 August 2026.",
+    "Targets: support 200 design start-ups; train one lakh technicians in five years."
+  ],
+  "hook": "",
+  "trap": "SEMICON India 2026 = fifth edition of the event; Semicon 2.0 = the government programme (₹1,27,500 crore).",
+  "hindi": ["Semiconductor (अर्धचालक)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "SEMICON India 2026, the fifth edition, was held at which venue?",
+     "o": ["Yashobhoomi, New Delhi", "Bharat Mandapam, New Delhi", "Mahatma Mandir, Gandhinagar", "India Expo Mart, Greater Noida"],
+     "k": 0, "why": "PM inaugurated it on 17 September 2026 at Yashobhoomi, the India International Convention and Expo Centre."},
+    {"q": "What is the budget outlay of Semicon 2.0, approved by the Union Cabinet on 15 July 2026?",
+     "o": ["₹76,000 crore", "₹1,27,500 crore", "₹1,64,000 crore", "₹40,000 crore"],
+     "k": 1, "why": "The Cabinet approved Semicon 2.0 on 15 July 2026 with a ₹1,27,500 crore outlay."}
+  ]
+},
+"u0277": {
+  "gist": "The Status of Policing in India Report 2026 by Common Cause and Lokniti-CSDS studied cybercrime victims, linking bribery and contacts with recovering lost money.",
+  "facts": [
+    "Released in New Delhi on 24 September 2026; theme 'Cybercrime – Victim Perspectives and Systemic Responses'.",
+    "Survey: 8,306 citizens in 15 States and Delhi.",
+    "NCRB: cybercrime cases rose 17.9%, from 86,420 (2023) to 1,01,928 (2024).",
+    "13% of respondents faced cybercrime in the past two to three years; 54% of victims faced financial fraud.",
+    "Those who paid a bribe: 38% full recovery; those who did not: 12%.",
+    "Common scam calls: unordered deliveries (33%), high-return investments (31%), fake bank officials (27%)."
+  ],
+  "hook": "",
+  "trap": "",
+  "hindi": ["Cybercrime (साइबर अपराध)", "Bribe (रिश्वत)"],
+  "priority": 2,
+  "mcq": [{"q": "The Status of Policing in India Report 2026, focused on cybercrime, was released by Common Cause and which organisation?",
+           "o": ["Lokniti-CSDS", "NCRB", "Bureau of Police Research and Development", "Tata Trusts"],
+           "k": 0, "why": "SPIR 2026 was released by Common Cause and Lokniti-CSDS on 24 September 2026."}]
+},
+"u0278": {
+  "gist": "The NCDC (Amendment) Act, 2026 widens the National Co-operative Development Corporation's mandate and lending powers, without extra central budget support.",
+  "facts": [
+    "Amends NCDC Act, 1962; NCDC is a statutory body (set up 1963) under the Ministry of Cooperation.",
+    "Introduced in Lok Sabha 10 August; passed Lok Sabha 11 August, Rajya Sabha 12 August 2026.",
+    "President's assent: 14 August 2026; commencement needs a separate notification (Section 1(2)).",
+    "Allows direct loans and grants to any cooperative society or eligible entity.",
+    "'Foodstuffs' widened to processed food; rural-area limit on cooperative industrial activity removed.",
+    "97th Constitutional Amendment (2011): Article 19(1)(c), Article 43B and Part IXB on cooperatives."
+  ],
+  "hook": "",
+  "trap": "The NCDC Act is of 1962, but NCDC itself was established in 1963.",
+  "hindi": ["Cooperative society (सहकारी समिति)"],
+  "priority": 1,
+  "mcq": [{"q": "The 97th Constitutional Amendment Act, 2011, recalled with the NCDC (Amendment) Act 2026, introduced which Article on cooperatives?",
+           "o": ["Article 43A", "Article 47", "Article 43B", "Article 48A"],
+           "k": 2, "why": "The 97th Amendment introduced Article 43B, promoting voluntary formation and autonomy of cooperatives."}]
+},
+"u0279": {
+  "gist": "The Supreme Court (Number of Judges) Amendment Act, 2026 raised puisne judges from 33 to 37, taking total strength to 38 judges.",
+  "facts": [
+    "Total sanctioned strength: 34 to 38 judges, including the CJI; first increase since 2019.",
+    "Cabinet approved four more judges on 5 May 2026; Lok Sabha passed it by voice vote (3 August).",
+    "Presidential assent: 11 August 2026.",
+    "Original 1956 Act allowed 10 judges plus the CJI (total 11).",
+    "Reason: pendency – 92,101 cases on 1 January 2026; 92,823 by 30 April 2026 (NJDG).",
+    "In 2025 the Court received 75,410 cases but disposed of 65,615 (gap 9,795)."
+  ],
+  "hook": "33 + four = 37 puisne judges; add the CJI = 38.",
+  "trap": "Puisne judges exclude the CJI (37); total strength includes the CJI (38).",
+  "hindi": ["Pending cases (लंबित मामले)", "Chief Justice of India (भारत के मुख्य न्यायाधीश)"],
+  "priority": 1,
+  "mcq": [{"q": "After the Supreme Court (Number of Judges) Amendment Act, 2026, what is the Court's total sanctioned strength including the CJI?",
+           "o": ["34", "37", "38", "35"],
+           "k": 2, "why": "Puisne judges rose from 33 to 37, so total strength rose from 34 to 38."}]
+},
+"u0280": {
+  "gist": "The Tribunals Reforms Act, 2026 creates a judiciary-led National Tribunals Commission to keep tribunals independent of the executive, replacing the 2021 Act.",
+  "facts": [
+    "Introduced by Law Minister Arjun Ram Meghwal; Lok Sabha passed it by voice vote on August 10, 2026.",
+    "Assent: August 13, 2026; in force from August 25, 2026.",
+    "Repeals the 2021 Act; applies to 16 tribunals, appellate tribunals and authorities.",
+    "Implements Madras Bar Association v. Union of India principles; SC had struck down 2021 Act provisions.",
+    "National Tribunals Commission: headquarters New Delhi; one Chairperson and four members (total five).",
+    "NTC members serve five years or till age 70, whichever is earlier."
+  ],
+  "hook": "",
+  "trap": "Assent on 13 August 2026, but in force from 25 August 2026.",
+  "hindi": ["Tribunal (न्यायाधिकरण)", "Judicial independence (न्यायिक स्वतंत्रता)"],
+  "priority": 1,
+  "mcq": [{"q": "Under the Tribunals Reforms Act, 2026, how many members, including the Chairperson, will the National Tribunals Commission have?",
+           "o": ["Seven", "Three", "Nine", "Five"],
+           "k": 3, "why": "One Chairperson and four members give a total strength of five."}]
+},
+"u0281": {
+  "gist": "On Swachh Vayu Diwas, 7 September 2026, the 5th Swachh Vayu Sarvekshan Awards ranked NCAP cities; Lucknow topped cities above 10 lakh population.",
+  "facts": [
+    "Held on International Day of Clean Air for Blue Skies; Chief Guest: NGT Chairperson Justice Prakash Shrivastava.",
+    "Above 10 lakh: Lucknow (198), Indore (197), Jabalpur (195); Madurai lowest (132.1).",
+    "3–10 lakh: Rourkela first (198.5); below 3 lakh: Kalinga first (198.5), Byrnihat last (108.5).",
+    "Best ward (above 30,000 population): Zone4Ward70, Lucknow; Pryj31, Allahabad, third in its category.",
+    "NCAP launched January 10, 2019; covers 130 cities in 24 States/UTs; ₹16,425 crore performance grant.",
+    "FY 2025-26: 108 of 130 cities improved PM10 over 2017-18; 14 cities met national standards."
+  ],
+  "hook": "Lucknow wins twice: top city (198) and top ward (Zone4Ward70).",
+  "trap": "Rourkela (3–10 lakh) and Kalinga (below 3 lakh) both scored 198.5 – same score, different categories.",
+  "hindi": ["Clean air (स्वच्छ वायु)", "Air pollution (वायु प्रदूषण)"],
+  "priority": 1,
+  "mcq": [
+    {"q": "Which city ranked first among cities with population above 10 lakh in the 5th Swachh Vayu Sarvekshan 2026?",
+     "o": ["Indore", "Jabalpur", "Lucknow", "Agra"],
+     "k": 2, "why": "In Category I, Lucknow topped with score 198, ahead of Indore (197)."},
+    {"q": "When was the National Clean Air Programme (NCAP), whose cities were ranked in Swachh Vayu Sarvekshan 2026, launched?",
+     "o": ["January 10, 2019", "June 5, 2018", "September 7, 2022", "April 1, 2017"],
+     "k": 0, "why": "NCAP was launched on January 10, 2019 and covers 130 cities."}
+  ]
+},
+"u0282": {
+  "gist": "The Panchayati Raj Ministry launched DAANVEER, a voluntary platform for citizens to donate verified digital-equipment bundles directly to Gram Panchayats.",
+  "facts": [
+    "Launched on July 29, 2026 by MoPR Secretary Vivek Bharadwaj at Krishi Bhawan, New Delhi.",
+    "Tagline: 'Give Back to Your Village'.",
+    "Works through the Meri Panchayat app linked with the DigiHaat marketplace.",
+    "Donors choose pre-approved computer bundles matched to State-specific technical specifications.",
+    "Developed by the Ministry of Panchayati Raj with NIC and DigiHaat.",
+    "Related platforms: SabhaSaar (AI minutes of Gram Sabhas), Gram Manchitra (GIS planning), eGramSwaraj (accounts)."
+  ],
+  "hook": "DAANVEER = daan (donation) + veer (brave): donors are the village's heroes.",
+  "trap": "",
+  "hindi": ["Donation (दान)", "Gram Panchayat (ग्राम पंचायत)"],
+  "priority": 1,
+  "mcq": [{"q": "DAANVEER, launched by the Ministry of Panchayati Raj in July 2026, works through which citizen app?",
+           "o": ["eGramSwaraj", "Meri Panchayat", "Gram Manchitra", "SabhaSaar"],
+           "k": 1, "why": "Citizens give digital-equipment bundles to Gram Panchayats through the Meri Panchayat application."}]
+},
+"u0283": {
+  "gist": "PM Modi launched the Nasha Mukt Yuva for Viksit Bharat Sankalp Abhiyan on 2 August 2026 to mobilise youth for a drug-free India.",
+  "facts": [
+    "Launched by video conference with over one crore youth at over 28,000 locations.",
+    "Backed by more than 125 spiritual and public organisations, institutions and NGOs.",
+    "Began as a 2025 pilot in Kashi (Uttar Pradesh) under the Kashi Declaration.",
+    "Runs for 100 weeks – 100 consecutive Sundays of art, sports, meditation and service activities.",
+    "PM called the youth the 'Amrit generation' and recovered addicts 'true warriors'."
+  ],
+  "hook": "100 Sundays = 100 steps towards a drug-free India.",
+  "trap": "",
+  "hindi": ["Drug-free (नशा मुक्त)", "Drug abuse (मादक पदार्थों का दुरुपयोग)"],
+  "priority": 1,
+  "mcq": [{"q": "The 'Nasha Mukt Yuva for Viksit Bharat Sankalp Abhiyan', launched in August 2026, began as a pilot project in which city?",
+           "o": ["Prayagraj", "Ayodhya", "Kashi", "Mathura"],
+           "k": 2, "why": "It originated as a pilot project in Kashi, Uttar Pradesh, in 2025."}]
+},
+"u0284": {
+  "gist": "The MMDR Amendment Act, 2026 brings mineral-bearing land under central control and limits State taxes on mineral rights.",
+  "facts": [
+    "Passed by both Houses on August 13, 2026; assent August 17, 2026; in force August 22, 2026.",
+    "Amends the Mines and Minerals (Development and Regulation) Act, 1957; it is Act No. 20 of 2026.",
+    "Background: July 2024, nine-judge bench (8:1) held royalty is a contractual payment, not a tax.",
+    "That case: Mineral Area Development Authority v. Steel Authority of India; States may tax under Entry 50.",
+    "Section 9D restricts State taxes, cesses and levies on mineral rights and mineral-bearing land.",
+    "Unpaid past State levies become invalid; amounts already paid will not be refunded."
+  ],
+  "hook": "",
+  "trap": "Royalty is a contractual payment, not a tax (8:1 ruling, July 2024).",
+  "hindi": ["Mineral (खनिज)", "Mining (खनन)"],
+  "priority": 1,
+  "mcq": [{"q": "In the Mineral Area Development Authority case (July 2024), cited with the MMDR Amendment Act 2026, the Supreme Court held royalty to be what?",
+           "o": ["A tax", "A contractual payment", "A cess", "A fee for services"],
+           "k": 1, "why": "A nine-judge bench ruled 8:1 that royalty is a contractual payment, not a tax."}]
+}
+}

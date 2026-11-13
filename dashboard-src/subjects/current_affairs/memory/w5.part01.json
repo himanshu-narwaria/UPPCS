@@ -1,0 +1,1537 @@
+{
+ "u0452": {
+  "gist": "Japan's JAXA launched the MMX mission on 20 October 2026 to achieve the world's first sample return from the Martian system.",
+  "facts": [
+   "Launched 20 October 2026 on H3 Flight No. 10 from Tanegashima Space Center, Japan.",
+   "Studies Mars's two moons, Phobos and Deimos; will return at least 10 grams from Phobos.",
+   "Arrival at Mars expected 2027; samples reach Earth in 2031; planned duration about five years.",
+   "Key question: are the moons captured asteroids or debris from a giant impact on Mars?",
+   "Carries 13 instruments; rover IDEFIX built jointly by France's CNES and Germany's DLR.",
+   "NASA gives MEGANE spectrometer, P-Sampler and Deep Space Network; NASA gets about 15% of samples."
+  ],
+  "hook": "Timeline 27 → 31: reach Mars 2027, back home 2031.",
+  "trap": "Samples come from Phobos, not Deimos. JAXA's C-Sampler takes subsurface material; NASA's P-Sampler takes surface particles.",
+  "hindi": [
+   "Asteroid (क्षुद्रग्रह)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The Martian Moons eXploration (MMX) mission launched by JAXA in October 2026 aims to return samples from which moon?",
+    "o": [
+     "Deimos",
+     "Titan",
+     "Europa",
+     "Phobos"
+    ],
+    "k": 3,
+    "why": "MMX will return at least 10 grams of material from Phobos."
+   }
+  ]
+ },
+ "u0453": {
+  "gist": "In late June 2026, an IndiGo Airbus A321 made India's first satellite-based landing approach by a commercial jet, using the indigenous GAGAN system.",
+  "facts": [
+   "DGCA supervised India's first Satellite-Based Landing System (SLS) approach in late June 2026.",
+   "Aircraft: IndiGo Airbus A321; used satellite guidance instead of an Instrument Landing System (ILS).",
+   "GAGAN = GPS Aided GEO Augmented Navigation; built by ISRO and Airports Authority of India.",
+   "Ground network: 15 reference stations (INRES), 2 master control centres (INMCC), 3 uplink stations (INLUS).",
+   "3 geostationary satellites carry GAGAN payloads; 4 communication networks link the stations.",
+   "NavIC gives positioning and timing; GAGAN corrects GPS for precise aircraft landing."
+  ],
+  "hook": "GAGAN ground count 15-2-3: 15 stations watch, 2 centres compute, 3 stations send up.",
+  "trap": "GAGAN only improves (augments) GPS signals; NavIC is India's own regional navigation satellite system.",
+  "hindi": [
+   "Satellite navigation (उपग्रह नौवहन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "GAGAN, used in India's first satellite-based landing approach by a commercial jet in 2026, was developed by ISRO along with which body?",
+    "o": [
+     "DGCA",
+     "Hindustan Aeronautics Limited",
+     "Airports Authority of India",
+     "Bharat Electronics Limited"
+    ],
+    "k": 2,
+    "why": "GAGAN was developed by ISRO and the Airports Authority of India; DGCA only supervised the demonstration."
+   }
+  ]
+ },
+ "u0454": {
+  "gist": "The US made SOLAR-1 operational on June 10, 2026; it is the first US satellite built only for continuous space-weather observation.",
+  "facts": [
+   "Operational on June 10, 2026; operated by NOAA (National Oceanic and Atmospheric Administration).",
+   "Its data goes to NOAA's Space Weather Prediction Center (SWPC) for forecasts and alerts.",
+   "SOLAR-1 = Space Weather Observations at L1 to Advance Readiness–1; earlier name SWFO-L1.",
+   "It orbits the Sun–Earth Lagrange Point 1 (L1).",
+   "Launched September 24, 2025 on a SpaceX Falcon 9 from Kennedy Space Center, Florida.",
+   "Final engine burn on January 23, 2026, after about four months and nearly one million miles."
+  ],
+  "hook": "SOLAR-1 sits at L1: both carry a '1'.",
+  "trap": "Launched in 2025 (September 24) but made operational in 2026 (June 10).",
+  "hindi": [
+   "Space weather (अंतरिक्ष मौसम)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "SOLAR-1, made operational in June 2026 as the first US satellite only for space-weather observation, orbits around which point?",
+    "o": [
+     "Sun–Earth Lagrange Point 2",
+     "Geostationary orbit over the Equator",
+     "Earth–Moon Lagrange Point 1",
+     "Sun–Earth Lagrange Point 1"
+    ],
+    "k": 3,
+    "why": "It was renamed SOLAR-1 after reaching its orbit around Sun–Earth Lagrange Point 1."
+   }
+  ]
+ },
+ "u0455": {
+  "gist": "On May 18, 2026, ISRO scientists reported ChaSTE data after the Vikram lander's 'hop', showing layered moon soil near the south pole.",
+  "facts": [
+   "Report shared May 18, 2026 on Chandrayaan-3's Vikram lander 'hop' experiment.",
+   "Vikram reignited its engines and landed nearly 50 cm away, testing ascent for future sample return.",
+   "ChaSTE (Chandra's Surface Thermophysical Experiment) is a lunar thermometer, re-inserted into the regolith (moon soil).",
+   "Found a two-layer structure in the top 6.5 cm of soil at the post-hop site.",
+   "Soil gets denser and stickier with depth; craters made temperatures drop faster (shadowing effect).",
+   "The engine firing blew away the top 3 cm of regolith."
+  ],
+  "hook": "Hop 50 cm, blew off 3 cm, found layers in 6.5 cm.",
+  "hindi": [
+   "Experiment (प्रयोग)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "During Chandrayaan-3's 'hop' experiment (findings shared in May 2026), about how far from its first position did the Vikram lander land?",
+    "o": [
+     "5 metres",
+     "50 cm",
+     "6.5 cm",
+     "50 metres"
+    ],
+    "k": 1,
+    "why": "Vikram reignited its engines and landed nearly 50 cm away from its initial position."
+   }
+  ]
+ },
+ "u0456": {
+  "gist": "On 4 May 2026, Pixxel and Sarvam partnered to build Pathfinder, India's first orbital data centre satellite, which will run AI in space.",
+  "facts": [
+   "Announced 4 May 2026: Pixxel–Sarvam strategic partnership for Pathfinder.",
+   "Pixxel will design, build, launch and operate it, and give the hyperspectral imaging payload.",
+   "Sarvam gives the AI backbone: India-built language models running on the satellite's GPUs.",
+   "Orbital data centre = satellites with data-centre-class GPUs that run AI in orbit (like edge computing).",
+   "Pathfinder is a single-satellite demonstrator, built at Pixxel's Gigapixxel facility (up to 100 units)."
+  ],
+  "hook": "Pixxel = pictures and the satellite body; Sarvam = the AI brain.",
+  "hindi": [
+   "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Pathfinder, announced in May 2026 as India's first orbital data centre satellite, is a partnership between Pixxel and which company?",
+    "o": [
+     "Dhruva Space",
+     "Piersight Space",
+     "SatSure Analytics",
+     "Sarvam"
+    ],
+    "k": 3,
+    "why": "Pixxel builds and operates Pathfinder; Sarvam provides the AI backbone."
+   }
+  ]
+ },
+ "u0457": {
+  "gist": "NASA's Artemis II, launched April 1, 2026, was a crewed lunar flyby, not a landing: first humans near the Moon since 1972.",
+  "facts": [
+   "Lifted off from Kennedy Space Center on April 1, 2026; first crewed Artemis flight.",
+   "Crewed lunar flyby: humans near the Moon for the first time in 53 years.",
+   "Tested NASA's Space Launch System and Orion spacecraft; the crew named Orion 'Integrity'.",
+   "Orion's heat shield worked as expected; char loss much lower than in Artemis I.",
+   "The last crewed Moon mission before this was Apollo 17 in 1972, which landed.",
+   "Artemis III: listed for 2027 as a low-Earth-orbit test of SpaceX and Blue Origin landers."
+  ],
+  "trap": "Artemis II = flyby only (no landing); Apollo 17 (1972) = landing.",
+  "hindi": [
+   "Heat shield (ऊष्मा कवच)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "What name did the crew give to the Orion spacecraft used in NASA's Artemis II mission (2026)?",
+    "o": [
+     "Endeavour",
+     "Liberty",
+     "Discovery",
+     "Integrity"
+    ],
+    "k": 3,
+    "why": "The Orion spacecraft used in Artemis II was named Integrity by the crew."
+   }
+  ]
+ },
+ "u0458": {
+  "gist": "ISRO, ASI and IAA held SMOPS-2026, the second International Conference on Spacecraft Mission Operations, in Bengaluru on 8-10 April 2026.",
+  "facts": [
+   "Second edition, SMOPS-2026, held 8 to 10 April 2026 in Bengaluru.",
+   "Organisers: ISRO, Astronautical Society of India (ASI), International Academy of Astronautics (IAA).",
+   "Theme: 'Innovative Operations for Smart and Sustainable Space Mission Management – Next Generation'.",
+   "Inaugurated on 8 April 2026 by A. S. Kiran Kumar, former Chairman of ISRO."
+  ],
+  "trap": "SMOPS-2026 was the second edition, not the first.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "SMOPS-2026, the second International Conference on Spacecraft Mission Operations, was held in which city?",
+    "o": [
+     "Hyderabad",
+     "Thiruvananthapuram",
+     "Sriharikota",
+     "Bengaluru"
+    ],
+    "k": 3,
+    "why": "SMOPS-2026 was held from 8 to 10 April 2026 in Bengaluru."
+   }
+  ]
+ },
+ "u0459": {
+  "gist": "Union Budget 2026-27 backs four astronomy facilities: NLST and NLOT in Ladakh, an upgraded Himalayan Chandra Telescope, and COSMOS-2 planetarium at Amaravati.",
+  "facts": [
+   "NLST (National Large Solar Telescope): Merak near Pangong Lake, Ladakh; 2-metre class; studies the Sun.",
+   "NLOT (National Large Optical–Infrared Telescope): Hanle, Ladakh; 13.7-metre segmented primary mirror.",
+   "Himalayan Chandra Telescope (HCT), Hanle: 2-metre telescope; first light 26 September 2000.",
+   "HCT is operated remotely from CREST near Bengaluru; upgrade planned to a 3.7-metre telescope.",
+   "COSMOS-2 Planetarium: at Amaravati, implemented by the Indian Institute of Astrophysics."
+  ],
+  "hook": "Merak = Sun (Solar telescope by Pangong Lake); Hanle = night sky (NLOT + HCT).",
+  "trap": "NLST (Solar) is at Merak; NLOT (Optical–Infrared) is at Hanle. One letter apart.",
+  "hindi": [
+   "Telescope (दूरबीन)",
+   "Planetarium (तारामंडल)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Under Union Budget 2026-27, where will the National Large Solar Telescope (NLST) be built?",
+    "o": [
+     "Hanle",
+     "Merak",
+     "Amaravati",
+     "Bengaluru"
+    ],
+    "k": 1,
+    "why": "The NLST will be built at Merak near Pangong Lake, Ladakh."
+   },
+   {
+    "q": "The proposed National Large Optical–Infrared Telescope (NLOT) at Hanle will have a primary mirror of what size?",
+    "o": [
+     "3.7 metre",
+     "2 metre",
+     "10.4 metre",
+     "13.7 metre"
+    ],
+    "k": 3,
+    "why": "NLOT will have a 13.7-metre segmented primary mirror."
+   }
+  ]
+ },
+ "u0460": {
+  "gist": "On January 21, 2026, IN-SPACe signed with the Pixxel-led 'Allied Orbits' consortium to build India's first indigenous commercial Earth Observation satellite constellation.",
+  "facts": [
+   "Agreement formalised January 21, 2026 by IN-SPACe under the EO-PPP programme.",
+   "Pixxel Space (Bengaluru) leads; members: Piersight Space, SatSure Analytics India, Dhruva Space.",
+   "First time a private consortium invests over ₹1,200 crore (over five years) in Indian space.",
+   "12 EO satellites with panchromatic, multispectral, hyperspectral and SAR (radar) sensors.",
+   "To be developed and operationalised by 2029 (official statement of August 12, 2026).",
+   "Aim: reduce dependence on foreign satellite data; serve climate and disaster work."
+  ],
+  "hook": "'12' twice: 12 satellites for ₹1,200 crore.",
+  "trap": "'Allied Orbits' (12-satellite EO constellation) is different from Pathfinder (Pixxel–Sarvam orbital data centre).",
+  "hindi": [
+   "Earth observation (पृथ्वी अवलोकन)",
+   "Public-private partnership (सार्वजनिक-निजी भागीदारी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "How many satellites will the Pixxel-led 'Allied Orbits' consortium launch under India's EO-PPP programme (agreement of January 2026)?",
+    "o": [
+     "8",
+     "15",
+     "12",
+     "24"
+    ],
+    "k": 2,
+    "why": "The consortium will launch a constellation of 12 state-of-the-art EO satellites."
+   }
+  ]
+ },
+ "u0461": {
+  "gist": "On December 24, 2025, ISRO's LVM3-M6 placed AST SpaceMobile's BlueBird Block-2 in low Earth orbit, LVM3's heaviest payload from Indian soil.",
+  "facts": [
+   "Launched December 24, 2025 by ISRO/NSIL for AST SpaceMobile (USA).",
+   "BlueBird Block-2 weighed 6,100 kg: heaviest payload launched by LVM3 from Indian soil.",
+   "Largest commercial communications satellite in low Earth orbit (223 m2 phased array).",
+   "104th launch from Sriharikota; ninth successful LVM3 mission; third dedicated commercial mission.",
+   "Aim: direct-to-mobile connectivity from space for ordinary smartphones."
+  ],
+  "trap": "Ninth successful LVM3 mission overall, but only the third dedicated commercial one.",
+  "hindi": [
+   "Low Earth orbit (निम्न भू-कक्षा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The BlueBird Block-2 satellite launched by ISRO's LVM3-M6 mission in December 2025 weighed about:",
+    "o": [
+     "4,400 kg",
+     "6,100 kg",
+     "5,800 kg",
+     "8,000 kg"
+    ],
+    "k": 1,
+    "why": "BlueBird Block-2 was the heaviest LVM3 payload from Indian soil at 6,100 kg."
+   }
+  ]
+ },
+ "u0462": {
+  "gist": "PM Modi inaugurated the 10th India Mobile Congress 2026 at Yashobhoomi, New Delhi; theme 'Scale Without Boundaries'.",
+  "facts": [
+   "10th edition; held October 7 to 10, 2026 at Yashobhoomi, New Delhi; PM inaugurated it on 8 October.",
+   "Organised by the Department of Telecommunications (DoT) and Cellular Operators Association of India (COAI).",
+   "Theme: 'Scale Without Boundaries'.",
+   "Four pillars: Srishti, Samvardhan, Sashakt, Suraksha.",
+   "AI for Good Build-a-thon 5.0 (October 10, 2026), theme 'Creating innovative agents in 5G'.",
+   "Build-a-thon 1st prize: Team Netaxis, RVCE Bangalore."
+  ],
+  "hook": "Four pillars = four S: Srishti, Samvardhan, Sashakt, Suraksha.",
+  "trap": "The event ran October 7-10, but the PM inaugurated it on 8 October.",
+  "hindi": [
+   "Telecommunications (दूरसंचार)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What was the theme of the India Mobile Congress (IMC) 2026?",
+    "o": [
+     "Scale Without Boundaries",
+     "The Future is Now",
+     "Innovate to Transform",
+     "Connect, Create, Innovate"
+    ],
+    "k": 0,
+    "why": "IMC 2026 was held under the overarching theme 'Scale Without Boundaries'."
+   }
+  ]
+ },
+ "u0463": {
+  "gist": "Google DeepMind's AnthroKrishi team built ALU and AMED models that turn satellite images into farm information; they began with a focus on India.",
+  "facts": [
+   "Built by Google DeepMind's AnthroKrishi team; first focused on India.",
+   "ALU = Agricultural Landscape Understanding: maps field boundaries, trees, farm wells and ponds.",
+   "AMED = Agricultural Monitoring and Event Detection: tracks crop, sowing and harvesting at field level.",
+   "Outputs are free through APIs; ALU is also a layer in Google Earth.",
+   "CarbonFarm uses the ALU API with Gemini for sustainable rice farming."
+  ],
+  "hook": "ALU = the Land map (where); AMED = the Events (what and when).",
+  "hindi": [
+   "Agriculture (कृषि)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Google DeepMind's AMED model, developed for agriculture with an initial focus on India, stands for:",
+    "o": [
+     "Agricultural Mapping and Earth Data",
+     "Advanced Monitoring of Environmental Data",
+     "Agricultural Market and Exchange Database",
+     "Agricultural Monitoring and Event Detection"
+    ],
+    "k": 3,
+    "why": "AMED stands for Agricultural Monitoring and Event Detection."
+   }
+  ]
+ },
+ "u0464": {
+  "gist": "Amit Shah flagged off India's first LNG-powered train from Sabarmati, Ahmedabad on September 27, 2026, to cut diesel use.",
+  "facts": [
+   "Flagged off September 27, 2026 by Union Home and Cooperation Minister Amit Shah.",
+   "Inaugural route: Sabarmati to Mahesana Junction, Gujarat.",
+   "A DEMU train with two converted Driving Power Cars, each 1,400 HP.",
+   "LNG can replace up to around 40 per cent of diesel use.",
+   "Each power car has a 2,200-litre LNG tank; over 2,000 km of field trials were done."
+  ],
+  "trap": "40% is diesel replacement, not a 40% cut in emissions. LNG train = Gujarat (Sabarmati–Mahesana); hydrogen train = Haryana (Jind–Sonipat).",
+  "hindi": [
+   "Liquefied natural gas (द्रवीकृत प्राकृतिक गैस)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first LNG-powered train, flagged off on September 27, 2026, ran its inaugural journey from Sabarmati to:",
+    "o": [
+     "Vadodara",
+     "Gandhinagar",
+     "Surat",
+     "Mahesana Junction"
+    ],
+    "k": 3,
+    "why": "The inaugural journey ran from Sabarmati to Mahesana Junction in Gujarat."
+   }
+  ]
+ },
+ "u0465": {
+  "gist": "NIELIT launched CYBER KUSHTI 2026 on August 15, 2026, a national cybersecurity and AI hackathon that rewards human judgement, not just speed.",
+  "facts": [
+   "Launched August 15, 2026 by Prof. (Dr.) M. M. Tripathi, Director General, NIELIT.",
+   "Parallel technical track of the 3rd NCCDFI 2026 (cyber security and digital forensics conference).",
+   "Partners: ISAC Foundation (National Security Database); CERT-In is Knowledge Partner.",
+   "Final round 'The Kesari': November 2026 at Dr. Ambedkar International Centre, New Delhi; ten finalist teams.",
+   "Winner gets the title 'Cyber Kesari 2026' and a Gada; runners-up: 'Rustam' and 'Pahalwan'."
+  ],
+  "hook": "Kushti (wrestling) theme: winner = Kesari with a Gada; then Rustam and Pahalwan.",
+  "hindi": [
+   "Cyber security (साइबर सुरक्षा)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "What title will the winning team of NIELIT's CYBER KUSHTI 2026 hackathon receive?",
+    "o": [
+     "Cyber Kesari 2026",
+     "Rustam",
+     "Pahalwan",
+     "Cyber Yodha"
+    ],
+    "k": 0,
+    "why": "The winner gets the title 'Cyber Kesari 2026' and a Gada; runners-up get Rustam and Pahalwan."
+   }
+  ]
+ },
+ "u0466": {
+  "gist": "The IndiaAI Mission held the AIKosh University Engagement Programme at Chitkara University, Rajpura, on 6 August 2026 to introduce students to AIKosh.",
+  "facts": [
+   "Held 6 August 2026 at Chitkara University, Rajpura, by IndiaAI Mission (MeitY).",
+   "More than 250 students took part in sessions and hands-on activities.",
+   "IndiaAI Mission was approved by the Government in March 2024.",
+   "AIKosh = India's unified AI data platform, a key pillar of IndiaAI Mission.",
+   "As on October 6, 2026: 16,000+ datasets, 350+ AI models, 200+ use cases."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "AIKosh, India's unified data platform for AI, is a key pillar of which mission?",
+    "o": [
+     "Digital India Mission",
+     "National Supercomputing Mission",
+     "National Quantum Mission",
+     "IndiaAI Mission"
+    ],
+    "k": 3,
+    "why": "AIKosh is a key pillar of the IndiaAI Mission and India's unified data platform."
+   }
+  ]
+ },
+ "u0467": {
+  "gist": "PM Modi inaugurated India's first indigenous hydrogen-powered train on the Jind–Sonipat section, Haryana, on 17 July 2026.",
+  "facts": [
+   "Inaugurated 17 July 2026 by PM Narendra Modi on the Jind–Sonipat section (Northern Railway), Haryana.",
+   "Two 1200 kW power cars give 2400 kW; eight trailer coaches; around 2,600 passengers.",
+   "Maximum operating speed 75 kmph; design speed 110 kmph.",
+   "Runs on a Proton Exchange Membrane Fuel Cell (PEMFC); gives only water vapour and heat.",
+   "Designs by RDSO; country's largest railway hydrogen storage at Jind holds nearly 3,000 kg.",
+   "Hydrogen energy 120 MJ/Kg versus diesel 43 MJ/Kg."
+  ],
+  "hook": "Hydrogen 120 vs diesel 43: nearly three times the energy per kg.",
+  "trap": "Operating speed 75 kmph, design speed 110 kmph: don't swap them.",
+  "hindi": [
+   "Fuel cell (ईंधन सेल)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first hydrogen-powered train, inaugurated on 17 July 2026, runs on which section?",
+    "o": [
+     "Sabarmati–Mahesana",
+     "Delhi–Rohtak",
+     "Kalka–Shimla",
+     "Jind–Sonipat"
+    ],
+    "k": 3,
+    "why": "The train was inaugurated on the Jind–Sonipat section of Northern Railway, Haryana."
+   },
+   {
+    "q": "Which type of fuel cell is the primary energy source of India's first hydrogen-powered train (2026)?",
+    "o": [
+     "Solid Oxide Fuel Cell",
+     "Alkaline Fuel Cell",
+     "Molten Carbonate Fuel Cell",
+     "Proton Exchange Membrane Fuel Cell"
+    ],
+    "k": 3,
+    "why": "The primary energy source is a Proton Exchange Membrane Fuel Cell (PEMFC)."
+   }
+  ]
+ },
+ "u0468": {
+  "gist": "The first UN Global Dialogue on AI Governance was held in Geneva on July 6–7, 2026; MoS Kirti Vardhan Singh led India's delegation.",
+  "facts": [
+   "Inaugural session: Geneva, Switzerland, July 6–7, 2026.",
+   "India led by Kirti Vardhan Singh, MoS for External Affairs and Environment.",
+   "Second session to be held in New York in May 2027.",
+   "A universal, multi-stakeholder UN platform; it complements, not replaces, existing initiatives.",
+   "Concerns: deepfakes swaying elections; heavy electricity and water use by AI data centres."
+  ],
+  "trap": "First session in Geneva (2026); second session in New York (2027).",
+  "hindi": [
+   "Governance (शासन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the inaugural United Nations Global Dialogue on AI Governance held in July 2026?",
+    "o": [
+     "New York",
+     "Paris",
+     "Vienna",
+     "Geneva"
+    ],
+    "k": 3,
+    "why": "The inaugural Dialogue was held in Geneva, Switzerland, on July 6–7, 2026."
+   }
+  ]
+ },
+ "u0469": {
+  "gist": "China's LineShine debuted at No. 1 on the 67th TOP500 list (June 23, 2026), displacing El Capitan as the world's fastest supercomputer.",
+  "facts": [
+   "67th TOP500 list announced June 23, 2026 at ISC 2026, Hamburg, Germany.",
+   "LineShine: National Supercomputing Centre in Shenzhen, China; 2.198 Exaflop/s on HPL.",
+   "First TOP500 system above two exaflops using CPUs only; draws about 42.2 megawatts.",
+   "Five exascale systems: LineShine (China); El Capitan, Frontier, Aurora (United States); JUPITER Booster (Germany).",
+   "Top Indian systems: AIRAWAT-PSAI (rank 211), Arka (219), PARAM Rudra-104 (245), Arunika (274).",
+   "PARAM Pragya, IIT Delhi Sonipat campus: opened by PM 8 August 2026; 400 A100 GPUs, 250 AI petaflops."
+  ],
+  "trap": "LineShine (China) replaced El Capitan (USA) at No. 1. India's best, AIRAWAT, is only rank 211.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which supercomputer debuted at No. 1 on the 67th TOP500 list released in June 2026?",
+    "o": [
+     "El Capitan",
+     "Frontier",
+     "Aurora",
+     "LineShine"
+    ],
+    "k": 3,
+    "why": "LineShine debuted at No. 1, displacing El Capitan."
+   },
+   {
+    "q": "PARAM Pragya, an AI-oriented supercomputing facility inaugurated by PM Modi in August 2026, is installed at:",
+    "o": [
+     "IIT Delhi's Sonipat campus",
+     "IIT Madras",
+     "C-DAC Pune",
+     "IISc Bengaluru"
+    ],
+    "k": 0,
+    "why": "The facility is installed at IIT Delhi's Sonipat campus in Haryana."
+   }
+  ]
+ },
+ "u0470": {
+  "gist": "The foundation stone of India's first advanced 3D chip packaging unit, by 3D Glass Solutions, was laid in Bhubaneswar, Odisha.",
+  "facts": [
+   "Project: Heterogeneous Integration Packaging Solutions, promoted by 3D Glass Solutions.",
+   "Location: Bhubaneswar, Odisha; total investment ₹1,943.53 crore.",
+   "Not a chip-making fab: a greenfield advanced packaging and glass-substrate ATMP unit.",
+   "One of 12 plants approved under the scheme (others include Tata's fab and Micron's unit).",
+   "Odisha: first State with both India's first compound semiconductor fab and a 3D glass-substrate packaging unit."
+  ],
+  "trap": "It is a packaging unit, not a chip fabrication plant.",
+  "hindi": [
+   "Semiconductor (अर्धचालक)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first advanced 3D chip packaging unit based on glass substrates is being set up in which city?",
+    "o": [
+     "Dholera",
+     "Sanand",
+     "Noida",
+     "Bhubaneswar"
+    ],
+    "k": 3,
+    "why": "The foundation stone of the unit was laid in Bhubaneswar, Odisha."
+   }
+  ]
+ },
+ "u0471": {
+  "gist": "MeitY and Drone Federation India launched NIDAR 2.0 (2026–27) on July 13, 2026 under the SwaYaan initiative to boost student drone innovation.",
+  "facts": [
+   "Launched July 13, 2026 in hybrid mode at Electronics Niketan, New Delhi.",
+   "NIDAR = National Innovation Challenge for Drone Application and Research; second edition.",
+   "Flagship of the SwaYaan initiative; called India's largest drone innovation challenge.",
+   "Focus moves to autonomous systems, indigenous avionics, navigation and core drone parts.",
+   "Also: Bharat Innovates 2026 held in Nice, 14-16 June 2026, with 120 Indian DeepTech innovators."
+  ],
+  "hindi": [
+   "Innovation (नवाचार)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "NIDAR 2.0, launched by MeitY and Drone Federation India in July 2026, is the flagship platform of which initiative?",
+    "o": [
+     "SwaYaan",
+     "Drone Shakti",
+     "iDEX",
+     "Kisan Drone"
+    ],
+    "k": 0,
+    "why": "NIDAR is the flagship innovation platform of the SwaYaan initiative."
+   }
+  ]
+ },
+ "u0472": {
+  "gist": "Pralhad Joshi launched the Green Hydrogen Certification Portal of India (GHCI) on June 17, 2026 to certify India's green hydrogen digitally.",
+  "facts": [
+   "Launched June 17, 2026 by Pralhad Joshi, Minister of New and Renewable Energy.",
+   "Launched at an MNRE national workshop on strengthening the National Green Hydrogen Mission.",
+   "Developed by the National e-Governance Division (NeGD) for MNRE.",
+   "Digital backbone of the Green Hydrogen Certification Scheme of India.",
+   "National Green Hydrogen Mission was launched in January 2023."
+  ],
+  "hindi": [
+   "Green hydrogen (हरित हाइड्रोजन)",
+   "Certification (प्रमाणन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which body developed the Green Hydrogen Certification Portal of India (GHCI), launched in June 2026?",
+    "o": [
+     "NITI Aayog",
+     "Bureau of Energy Efficiency",
+     "National e-Governance Division",
+     "Solar Energy Corporation of India"
+    ],
+    "k": 2,
+    "why": "The platform was developed by the National e-Governance Division (NeGD) for MNRE."
+   }
+  ]
+ },
+ "u0473": {
+  "gist": "India's 500 MWe Prototype Fast Breeder Reactor at Kalpakkam reached first criticality on 6 April 2026, entering stage two of the nuclear programme.",
+  "facts": [
+   "PFBR at Kalpakkam, Tamil Nadu: first criticality on 6th April 2026.",
+   "500 MWe reactor built by BHAVINI (Bharatiya Nabhikiya Vidyut Nigam Limited).",
+   "India enters the second stage of its three-stage nuclear power programme (Homi Jehangir Bhabha's vision).",
+   "India will be only the second country after Russia to run a commercial fast breeder reactor.",
+   "Also: NIELIT–Andhra Pradesh MoU (20 February 2026) for India's first Quantum-AI university campus at Amaravati."
+  ],
+  "hook": "Breeder = stage 2 of 3: the breeder 'breeds' the second stage.",
+  "trap": "Criticality means the chain reaction has started; full commercial operation comes later.",
+  "hindi": [
+   "Nuclear energy (परमाणु ऊर्जा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Prototype Fast Breeder Reactor that attained first criticality on 6 April 2026 is located at:",
+    "o": [
+     "Kalpakkam",
+     "Kudankulam",
+     "Tarapur",
+     "Rawatbhata"
+    ],
+    "k": 0,
+    "why": "The PFBR is at Kalpakkam in Tamil Nadu, built by BHAVINI."
+   },
+   {
+    "q": "Once the PFBR is fully operational, India will be only the second country to operate a commercial fast breeder reactor after:",
+    "o": [
+     "France",
+     "Russia",
+     "Japan",
+     "China"
+    ],
+    "k": 1,
+    "why": "India will become the second country in the world after Russia."
+   }
+  ]
+ },
+ "u0474": {
+  "gist": "At the Bharat Bodhan AI Conclave 2026 (Bharat Mandapam, February 12-13), Shri Pradhan launched the Bodhan AI Centre of Excellence and the Bharat EduAI Stack.",
+  "facts": [
+   "Bharat Bodhan AI Conclave 2026: two-day event at Bharat Mandapam, February 12-13, 2026.",
+   "Shri Pradhan launched the Bodhan AI Centre of Excellence (CoE in AI for Education).",
+   "Anchor: IIT Madras; centre set up as the IIT Madras Bodhan AI Foundation.",
+   "Supported by the Ministry of Education; built as Sovereign Digital Public Infrastructure.",
+   "Bharat EduAI Stack: open-source AI infrastructure for AI tutors, teacher training, administration, policy."
+  ],
+  "trap": "Bodhan AI (education, IIT Madras) is different from BODH (health AI benchmarking, IIT Kanpur).",
+  "hindi": [
+   "Centre of Excellence (उत्कृष्टता केंद्र)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which institution is the institutional anchor of the Bodhan AI Centre of Excellence for education launched in 2026?",
+    "o": [
+     "IIT Bombay",
+     "IIT Kanpur",
+     "IISc Bengaluru",
+     "IIT Madras"
+    ],
+    "k": 3,
+    "why": "IIT Madras is the anchor; the centre is the IIT Madras Bodhan AI Foundation."
+   }
+  ]
+ },
+ "u0475": {
+  "gist": "India hosted the India-AI Impact Summit at Bharat Mandapam, New Delhi, on February 16-21, 2026, the first such summit hosted by a Global South nation.",
+  "facts": [
+   "Held February 16-21, 2026 at Bharat Mandapam, New Delhi.",
+   "First time hosted by a Global South nation.",
+   "Three Sutras: People, Planet and Progress; seven Chakras (areas of cooperation).",
+   "Official logo identity: the Ashoka Chakra.",
+   "Global AI Impact Commons launched with 80+ impact stories from 30+ countries.",
+   "India AI mission GPUs: target 10000, now 38000; target of 570 Data Labs."
+  ],
+  "hook": "3 Sutras = 3 P (People, Planet, Progress); 7 Chakras turn them into action.",
+  "trap": "Three Sutras vs seven Chakras: don't swap the counts.",
+  "hindi": [
+   "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which three 'Sutras' guided the India-AI Impact Summit 2026?",
+    "o": [
+     "People, Planet, Progress",
+     "Peace, Prosperity, Partnership",
+     "Inclusion, Innovation, Investment",
+     "Trust, Safety, Growth"
+    ],
+    "k": 0,
+    "why": "The Summit was guided by the Sutras of People, Planet and Progress."
+   },
+   {
+    "q": "The official logo of the India-AI Impact Summit 2026 was based on which emblem?",
+    "o": [
+     "Lotus",
+     "Konark Wheel",
+     "Ashoka Chakra",
+     "Lion Capital"
+    ],
+    "k": 2,
+    "why": "The official logo's identity was the Ashoka Chakra."
+   }
+  ]
+ },
+ "u0476": {
+  "gist": "On October 12, 2026, J.P. Nadda laid the foundation of ICMR's first Centre for High Altitude Medicine at Keylong, Lahaul and Spiti, Himachal Pradesh.",
+  "facts": [
+   "Foundation stone: October 12, 2026, by Union Health Minister Jagat Prakash Nadda.",
+   "ICMR's first dedicated Centre for High Altitude Medicine and Public Health Research.",
+   "Location: Keylong, Lahaul and Spiti district, Himachal Pradesh.",
+   "Will study how mountain conditions and climate change affect health, especially of high-altitude and tribal people."
+  ],
+  "hindi": [
+   "Public health (जन स्वास्थ्य)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "ICMR's first dedicated Centre for High Altitude Medicine and Public Health Research (foundation laid October 2026) is located at:",
+    "o": [
+     "Keylong",
+     "Leh",
+     "Kaza",
+     "Manali"
+    ],
+    "k": 0,
+    "why": "The foundation stone was laid at Keylong in Lahaul and Spiti district, Himachal Pradesh."
+   }
+  ]
+ },
+ "u0477": {
+  "gist": "J.P. Nadda inaugurated Aarogya Manthan 2026 on September 25, 2026, marking 8 years of AB PM-JAY and 5 years of ABDM.",
+  "facts": [
+   "Inaugurated September 25, 2026 at Vigyan Bhawan, New Delhi, by J.P. Nadda.",
+   "Organised by the National Health Authority (NHA).",
+   "Marks 8 years of AB PM-JAY and 5 years of the Ayushman Bharat Digital Mission (ABDM).",
+   "Launched: NHPR Mobile App, NHCX guide for payers, Model Digital Health Facility guidebook.",
+   "Secure Data Environment (SDE) app built by NHA with IISc Bengaluru."
+  ],
+  "trap": "8 years = PM-JAY; 5 years = ABDM. Don't swap.",
+  "hindi": [
+   "Health assurance (स्वास्थ्य आश्वासन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Aarogya Manthan 2026 marked how many years of Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)?",
+    "o": [
+     "Five",
+     "Six",
+     "Eight",
+     "Ten"
+    ],
+    "k": 2,
+    "why": "It marked 8 years of AB PM-JAY and 5 years of ABDM."
+   }
+  ]
+ },
+ "u0478": {
+  "gist": "The International Society of Blood Transfusion recognised JAMA as the 49th human blood group system (ISBT 049), announced on September 14, 2026.",
+  "facts": [
+   "JAMA = 49th human blood group system, numbered ISBT 049.",
+   "Ratified at the ISBT Kuala Lumpur Congress 2026; announced September 14, 2026.",
+   "Found by UK and Israel researchers studying an Israeli woman and her brother.",
+   "Her antibody reacted with most people's red blood cells, but not with hers or her brother's.",
+   "JAMA is a separate antigen-based system, not a new type beside A, B, AB and O."
+  ],
+  "trap": "JAMA is a blood group system (the 49th), not a fifth blood type next to A, B, AB and O.",
+  "hindi": [
+   "Blood group (रक्त समूह)",
+   "Antibody (प्रतिपिंड)",
+   "Antigen (प्रतिजन)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "JAMA, recognised by the International Society of Blood Transfusion in 2026, is which number human blood group system?",
+    "o": [
+     "45th",
+     "47th",
+     "49th",
+     "51st"
+    ],
+    "k": 2,
+    "why": "ISBT recognised JAMA as the 49th human blood group system (ISBT 049)."
+   }
+  ]
+ },
+ "u0479": {
+  "gist": "WHO validated Bhutan's elimination of dog-transmitted human rabies on September 4, 2026, the first in the WHO South-East Asia Region.",
+  "facts": [
+   "Validated by WHO on September 4, 2026.",
+   "Bhutan: first country in the WHO South-East Asia Region to achieve this.",
+   "No human death from dog-mediated rabies since June 2023.",
+   "WHO lists Bhutan, Chile and Mexico as the three validated countries.",
+   "WHO criteria (2018): at least two years with no such deaths, plus capacity to stop re-emergence.",
+   "Dogs cause up to 99% of human rabies; global plan aims to end deaths by 2030."
+  ],
+  "hindi": [
+   "Vaccination (टीकाकरण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In September 2026, which country became the first in the WHO South-East Asia Region to be validated for eliminating dog-transmitted human rabies?",
+    "o": [
+     "Sri Lanka",
+     "Nepal",
+     "Maldives",
+     "Bhutan"
+    ],
+    "k": 3,
+    "why": "WHO validated Bhutan's elimination on September 4, 2026, a first in the region."
+   }
+  ]
+ },
+ "u0480": {
+  "gist": "President Droupadi Murmu inaugurated 'Saushrutam 2026' at the All India Institute of Ayurveda, New Delhi, on July 15, 2026 (Sushruta Jayanti).",
+  "facts": [
+   "Inaugurated July 15, 2026 (Sushruta Jayanti) at AIIA, New Delhi, by President Droupadi Murmu.",
+   "She also opened an AI-enabled 3 Tesla High-Field MRI facility at AIIA.",
+   "NCISM study on careers of women Ayurveda graduates was released.",
+   "Experts from nine countries; topics: Shalya Tantra, Kshara Sutra, Agnikarma, integrative oncology.",
+   "Acharya Sushruta: 'father of surgery in ayurveda'; author of the Sushruta Samhita."
+  ],
+  "hindi": [
+   "Surgery (शल्य चिकित्सा)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "'Saushrutam 2026', inaugurated by the President on Sushruta Jayanti, was held at:",
+    "o": [
+     "AIIMS, New Delhi",
+     "Bharat Mandapam, New Delhi",
+     "Vigyan Bhawan, New Delhi",
+     "All India Institute of Ayurveda, New Delhi"
+    ],
+    "k": 3,
+    "why": "The President inaugurated Saushrutam 2026 at the All India Institute of Ayurveda (AIIA), New Delhi."
+   }
+  ]
+ },
+ "u0481": {
+  "gist": "J.P. Nadda launched Aarogya Setu 2.0 on 29 June 2026 as a Personal Health Record app under the Ayushman Bharat Digital Mission.",
+  "facts": [
+   "Launched 29 June 2026 at Vigyan Bhawan, New Delhi, by J.P. Nadda.",
+   "Redesigned as a Personal Health Record (PHR) app under ABDM.",
+   "The original Aarogya Setu was built during COVID-19 for contact tracing.",
+   "New features: ABHA creation, AI digitisation of lab reports, PM-JAY Wallet, empanelled hospital search.",
+   "Launched alongside: Ayushman App, NHCX, Ayushman Sarathi WhatsApp chatbot, e-Sushrut Clinic, UHI, BHTS."
+  ],
+  "trap": "Old Aarogya Setu = COVID contact tracing; Aarogya Setu 2.0 = personal health record app.",
+  "hindi": [
+   "Health record (स्वास्थ्य अभिलेख)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Aarogya Setu 2.0, launched in June 2026, has been redesigned to work mainly as a:",
+    "o": [
+     "Contact-tracing app",
+     "Vaccine booking app",
+     "Telemedicine app",
+     "Personal Health Record app"
+    ],
+    "k": 3,
+    "why": "It will function as a Personal Health Record (PHR) application under ABDM."
+   },
+   {
+    "q": "Which WhatsApp chatbot, launched alongside Aarogya Setu 2.0 on 29 June 2026, provides PM-JAY services?",
+    "o": [
+     "Ayushman Mitra",
+     "Swasthya Saathi",
+     "Ayushman Sarathi",
+     "Arogya Dost"
+    ],
+    "k": 2,
+    "why": "The Ayushman Sarathi WhatsApp Chatbot provides PM-JAY services."
+   }
+  ]
+ },
+ "u0482": {
+  "gist": "The Health Ministry held the 10th National Summit on Innovation and Inclusivity in Chandigarh (30 April–1 May 2026), inaugurated by J.P. Nadda.",
+  "facts": [
+   "10th National Summit on Innovation and Inclusivity: Chandigarh, 30 April to 1 May 2026.",
+   "Organised by the Union Ministry of Health and Family Welfare; inaugurated by J.P. Nadda.",
+   "States and UTs showed health innovations and best practices.",
+   "Swasth Bharat Portal: one-stop platform putting national health programmes on one interface.",
+   "JANANI (Journey of Antenatal, Natal and Neonatal Integrated Care): ABDM-aligned RMNCH+A data platform."
+  ],
+  "hindi": [
+   "Maternal health (मातृ स्वास्थ्य)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The 10th National Summit on Innovation and Inclusivity on India's health future (2026) was held in:",
+    "o": [
+     "Chandigarh",
+     "Bhubaneswar",
+     "Lucknow",
+     "Pune"
+    ],
+    "k": 0,
+    "why": "It was organised in Chandigarh from 30 April to 1 May 2026."
+   }
+  ]
+ },
+ "u0483": {
+  "gist": "ICAR and ICMR jointly launched Mission SEHAT on 11 May 2026 in New Delhi to turn farm progress into better health.",
+  "facts": [
+   "SEHAT = Science Excellence for Health through Agricultural Transformation.",
+   "Launched 11 May 2026 in New Delhi by J.P. Nadda and Shivraj Singh Chouhan.",
+   "Joint mission of ICAR (agriculture research) and ICMR (medical research).",
+   "Goal: 'Healthy Food, Healthy Farms and a Healthy India'."
+  ],
+  "hook": "SEHAT joins Farm (ICAR) with Health (ICMR): two 'IC_R' councils.",
+  "hindi": [
+   "Nutrition (पोषण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Mission SEHAT, launched in May 2026 to link agriculture with health, was jointly launched by ICMR and:",
+    "o": [
+     "CSIR",
+     "FSSAI",
+     "ICAR",
+     "DBT"
+    ],
+    "k": 2,
+    "why": "The mission was jointly launched by ICAR and ICMR."
+   }
+  ]
+ },
+ "u0484": {
+  "gist": "CDSCO's expert committee recommended Takeda's TAK-003 (Qdenga) dengue vaccine for people aged 4 to 60 years in India.",
+  "facts": [
+   "Subject Expert Committee (SEC) under DCGI recommended TAK-003 (Qdenga) for ages 4 to 60.",
+   "Made by Takeda Pharma, a Japanese company.",
+   "Live-attenuated (weakened virus) vaccine for dengue serotypes 1, 2, 3 and 4; DENV2 backbone.",
+   "Schedule: 2 doses, three months apart.",
+   "NCVBDC: 2,89,235 cases and 485 deaths (2023); 1,21,824 cases and 131 deaths (2025)."
+  ],
+  "trap": "Qdenga is the brand name; TAK-003 is the code; Takeda is Japanese.",
+  "hindi": [
+   "Vaccine (टीका)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Takeda's dengue vaccine TAK-003 (Qdenga), recommended by the expert committee in India, is cleared for which age group?",
+    "o": [
+     "9 to 45 years",
+     "4 to 60 years",
+     "2 to 16 years",
+     "18 to 60 years"
+    ],
+    "k": 1,
+    "why": "The SEC cleared it for individuals aged 4 to 60 years."
+   }
+  ]
+ },
+ "u0485": {
+  "gist": "On 17 February 2026, at the India AI Impact Summit, India launched SAHI and BODH to make AI in healthcare safe and ethical.",
+  "facts": [
+   "Launched 17 February 2026 at the India AI Impact Summit 2026.",
+   "SAHI = Strategy for Artificial Intelligence in Healthcare for India: national guidance framework.",
+   "BODH = Benchmarking Open Data Platform for Health AI.",
+   "BODH built by IIT Kanpur with the National Health Authority; tests AI models without sharing data.",
+   "Atal Innovation Mission (NITI Aayog) launched the book 'AI-Preneurs of India' on 45 AI startups."
+  ],
+  "hook": "SAHI = the rules (Strategy); BODH = the test (Benchmarking).",
+  "trap": "BODH (health AI, IIT Kanpur) is different from Bodhan AI (education, IIT Madras).",
+  "hindi": [
+   "Healthcare (स्वास्थ्य सेवा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "BODH, the health AI benchmarking platform launched in February 2026, was developed by the National Health Authority with:",
+    "o": [
+     "IIT Madras",
+     "AIIMS New Delhi",
+     "IISc Bengaluru",
+     "IIT Kanpur"
+    ],
+    "k": 3,
+    "why": "BODH was developed by IIT Kanpur in collaboration with the National Health Authority."
+   }
+  ]
+ },
+ "u0486": {
+  "gist": "Amit Shah laid the foundation of a BSL-4 Bio-Containment Facility at GBRC, Gandhinagar, on 13 January 2026: India's first state-funded BSL-4 lab.",
+  "facts": [
+   "Foundation stone laid 13 January 2026 by Union Home Minister Amit Shah.",
+   "Location: Gujarat Biotechnology Research Centre (GBRC), Gandhinagar.",
+   "BSL-4 = highest level of biological containment, for deadly pathogens like Ebola, Nipah, Marburg.",
+   "India's only functional civilian BSL-4 lab now: National Institute of Virology (NIV), Pune."
+  ],
+  "trap": "Existing civilian BSL-4 lab = NIV Pune; new state-funded one = GBRC Gandhinagar.",
+  "hindi": [
+   "Biosafety (जैव सुरक्षा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first state-funded BSL-4 laboratory, whose foundation stone was laid in January 2026, is coming up at:",
+    "o": [
+     "Pune",
+     "Hyderabad",
+     "Gandhinagar",
+     "Bhubaneswar"
+    ],
+    "k": 2,
+    "why": "The BSL-4 facility is at the Gujarat Biotechnology Research Centre, Gandhinagar."
+   }
+  ]
+ },
+ "u0487": {
+  "gist": "WHO's Global TB Report 2025 (November 12, 2025) shows India carries 25% of the world's TB burden but cut incidence by 21% since 2015.",
+  "facts": [
+   "Released November 12, 2025; data from 184 countries and areas.",
+   "2024: 10.7 million people got TB worldwide (131 new cases per 100,000).",
+   "India's share 25%, the highest; then Indonesia (10%) and Philippines (6.8%).",
+   "India's incidence fell 21%: 237 per lakh (2015) to 187 per lakh (2024); global fall only 12%.",
+   "India's TB mortality fell from 28 to 21 per lakh (2015 to 2024).",
+   "Treatment coverage rose from 53% (2015) to over 92% (2024); 26.18 lakh patients diagnosed in 2024."
+  ],
+  "hook": "'21' twice for India: incidence fell 21%, and deaths are now 21 per lakh.",
+  "trap": "21% = India's fall in incidence; 12% = global fall. India's share of burden = 25%.",
+  "hindi": [
+   "Tuberculosis (क्षय रोग)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "According to the WHO Global TB Report 2025, by how much did TB incidence in India fall between 2015 and 2024?",
+    "o": [
+     "12%",
+     "17%",
+     "21%",
+     "25%"
+    ],
+    "k": 2,
+    "why": "India's TB incidence fell by 21%, from 237 to 187 per lakh population."
+   },
+   {
+    "q": "As per the WHO Global TB Report 2025, India's share of the global TB burden is:",
+    "o": [
+     "10%",
+     "25%",
+     "6.8%",
+     "21%"
+    ],
+    "k": 1,
+    "why": "India (25%) tops the list, followed by Indonesia (10%)."
+   }
+  ]
+ },
+ "u0488": {
+  "gist": "India launched a free nationwide HPV vaccination campaign for 14-year-old girls on 28 February 2026 from Ajmer, Rajasthan, to prevent cervical cancer.",
+  "facts": [
+   "Launched 28 February 2026 from Ajmer, Rajasthan; covers all 36 States and UTs.",
+   "Target: girls aged 14; about 1.2 crore benefit every year (RGI 2021 estimate).",
+   "Single dose of 0.5 ml, intramuscular, in the left upper arm; free and voluntary with parental consent.",
+   "Campaign mode for three months (90 days), then on routine immunisation days.",
+   "Registration on U-WIN platform; vaccine stocks managed on the e-VIN portal.",
+   "Cervical cancer: second most common cancer among Indian women (GLOBOCAN 2022)."
+  ],
+  "hook": "HPV drive: age 14, one dose, 1.2 crore girls a year.",
+  "trap": "U-WIN = registration and records; e-VIN = vaccine stock and logistics.",
+  "hindi": [
+   "Cervical cancer (गर्भाशय ग्रीवा कैंसर)",
+   "Immunisation (प्रतिरक्षण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's nationwide free HPV vaccination campaign (February 2026) was launched from which city?",
+    "o": [
+     "Jaipur",
+     "Ajmer",
+     "Varanasi",
+     "New Delhi"
+    ],
+    "k": 1,
+    "why": "The campaign was launched on 28 February 2026 from Ajmer, Rajasthan."
+   },
+   {
+    "q": "The nationwide HPV vaccination campaign launched in 2026 targets girls of which age?",
+    "o": [
+     "9 years",
+     "12 years",
+     "16 years",
+     "14 years"
+    ],
+    "k": 3,
+    "why": "It targets 14-year-old girls across all 36 States and UTs."
+   }
+  ]
+ },
+ "u0489": {
+  "gist": "ICMR's Regional Medical Research Centre, Bhubaneswar, has developed AdFalciVax, a low-cost recombinant multi-stage malaria vaccine candidate stable at room temperature.",
+  "facts": [
+   "Developed by the Regional Medical Research Centre (RMRC), Bhubaneswar, of ICMR.",
+   "Recombinant multi-stage vaccine candidate against Plasmodium falciparum; aims to cut infection and community transmission.",
+   "By June 17, 2026: licensed to five Indian companies; still preclinical (TRL 4), not yet approved.",
+   "Stays effective up to 12 months at normal room temperature, so no costly cold chain is needed.",
+   "Estimated cost only ₹20 per dose, versus ₹250 to ₹830 for existing vaccines.",
+   "WHO-recommended vaccines now: RTS,S/AS01 (Mosquirix) and R21/Matrix-M; India targets zero indigenous cases by 2027, elimination by 2030."
+  ],
+  "hook": "AdFalciVax: ₹20 a dose, 12 months without a fridge.",
+  "trap": "AdFalciVax is only a candidate (preclinical); the vaccines already in use are RTS,S and R21.",
+  "hindi": [
+   "Malaria vaccine (मलेरिया टीका)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "AdFalciVax, a multi-stage malaria vaccine candidate, was developed by ICMR's Regional Medical Research Centre located in:",
+    "o": [
+     "Bhubaneswar",
+     "Pune",
+     "Jabalpur",
+     "Dibrugarh"
+    ],
+    "k": 0,
+    "why": "It was developed by the Regional Medical Research Centre (RMRC), Bhubaneswar, of ICMR."
+   },
+   {
+    "q": "What is the estimated production cost per dose of ICMR's malaria vaccine candidate AdFalciVax?",
+    "o": [
+     "₹250",
+     "₹830",
+     "₹20",
+     "₹120"
+    ],
+    "k": 2,
+    "why": "AdFalciVax costs about ₹20 per dose, against ₹250 to ₹830 for existing vaccines."
+   }
+  ]
+ },
+ "u0490": {
+  "gist": "Ahuti Mk II, an electric multirotor interceptor drone by Hyderabad's Apollyon Dynamics, recorded a test speed of 498 km/h (confirmed 29 August 2026).",
+  "facts": [
+   "Built by Apollyon Dynamics, Hyderabad startup from the BITS Pilani Hyderabad Campus ecosystem.",
+   "Recorded test speed 498 km/h; confirmed 29 August 2026, entry published 1 September 2026.",
+   "Beat the previous benchmark of 325 km/h by 173 km/h.",
+   "Production interceptors target about 400 km/h operational speed.",
+   "Founders: Jayant Khatri and Sourya Choudhury; ₹2 lakh prototype grant from BITS Pilani SOLVE."
+  ],
+  "trap": "498 km/h = record by the test platform; about 400 km/h = target for production interceptors.",
+  "hindi": [
+   "Indigenous (स्वदेशी)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Ahuti Mk II, an Indian electric interceptor drone that set a speed record in 2026, recorded a test speed of:",
+    "o": [
+     "325 km/h",
+     "400 km/h",
+     "498 km/h",
+     "550 km/h"
+    ],
+    "k": 2,
+    "why": "Ahuti Mk II achieved a recorded test speed of 498 km/h."
+   }
+  ]
+ },
+ "u0491": {
+  "gist": "On May 13, 2026, SAMEER and ISRO's ISTRAC agreed to build deep-space X-band amplifiers using indigenous GaN chips from DRDO's GAETEC.",
+  "facts": [
+   "Agreement May 13, 2026: SAMEER and ISRO's ISTRAC; GaN chips from GAETEC, DRDO.",
+   "GaN (Gallium Nitride): semiconductor for high-frequency, high-power uses.",
+   "One 3.5 × 3 mm GaN chip can deliver up to 30 watts.",
+   "DRDO's SSPL makes 4-inch Silicon Carbide (SiC) wafers and GaN HEMTs up to 150 watts.",
+   "GaN-on-SiC MMIC production at GAETEC, Hyderabad; iDEX contract with Agnit Semiconductors.",
+   "Uses: radars, electronic warfare, communications, surveillance (ISR) and unmanned systems."
+  ],
+  "hindi": [
+   "Semiconductor (अर्धचालक)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which DRDO laboratory has developed indigenous processes to make 4-inch Silicon Carbide (SiC) wafers for GaN technology?",
+    "o": [
+     "SSPL",
+     "GTRE",
+     "RCI",
+     "DRDL"
+    ],
+    "k": 0,
+    "why": "The Solid State Physics Laboratory (SSPL) of DRDO developed these processes."
+   }
+  ]
+ },
+ "u0492": {
+  "gist": "INS Mangrol, the third ASW Shallow Water Craft built by Cochin Shipyard, was commissioned on 12 October 2026 at Naval Dockyard, Mumbai.",
+  "facts": [
+   "Commissioned 12 October 2026 at Naval Dockyard, Mumbai; presided by Vice Admiral Sanjay Vatsayan.",
+   "Third ASW-SWC (Anti-Submarine Warfare Shallow Water Craft) built by Cochin Shipyard Limited, Kochi.",
+   "Named after Mangrol town, Junagadh district, Gujarat; revives minesweeper INS Mangrol (M85), served till April 7, 2004.",
+   "Over 80% indigenous; Abhay sonar, torpedoes, Maareech torpedo decoy; waterjet propulsion.",
+   "ASW-SWC programme: 16 vessels, eight from CSL Kochi (Mahe class) and eight from GRSE Kolkata.",
+   "Mahe class commissioning: INS Mahe (24 November 2025), INS Malvan (22 July 2026), INS Mangrol."
+  ],
+  "hook": "Mahe class, 1-2-3: Mahe (Mumbai) → Malvan (Karwar) → Mangrol (Mumbai).",
+  "trap": "Mangrol (Gujarat town; commissioned Mumbai) vs Malvan (Maharashtra town; commissioned Karwar).",
+  "hindi": [
+   "Anti-submarine warfare (पनडुब्बी-रोधी युद्ध)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "INS Mangrol, commissioned into the Indian Navy in October 2026, is named after a coastal town in which district?",
+    "o": [
+     "Sindhudurg",
+     "Junagadh",
+     "Krishna",
+     "Ratnagiri"
+    ],
+    "k": 1,
+    "why": "Mangrol is a coastal town and fishing harbour in Junagadh district, Gujarat."
+   },
+   {
+    "q": "Which was the first ship of Cochin Shipyard's Mahe class to be commissioned (24 November 2025)?",
+    "o": [
+     "INS Mahe",
+     "INS Malvan",
+     "INS Mangrol",
+     "INS Arnala"
+    ],
+    "k": 0,
+    "why": "Order: INS Mahe (24 November 2025), INS Malvan, then INS Mangrol."
+   }
+  ]
+ },
+ "u0493": {
+  "gist": "Noida-based IG Defence completed a flight trial of KAL, an indigenous long-range one-way attack drone, at Pokhran Field Firing Range, Rajasthan.",
+  "facts": [
+   "Developed by IG Defence, a private firm headquartered in Noida.",
+   "Flight trial at Pokhran Field Firing Range, Rajasthan.",
+   "KAL: long-range one-way attack system for autonomous strike missions.",
+   "Declared range up to 1,000 km; endurance 7-8 hours.",
+   "Maximum take-off weight 200 kg; carries a 50 kg high-explosive warhead.",
+   "Speed: cruise 160 km/h, maximum 200 km/h; flies up to 5,000 m above sea level."
+  ],
+  "hook": "KAL: made in Noida (UP), tested at Pokhran, reaches 1,000 km.",
+  "hindi": [
+   "Indigenous (स्वदेशी)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "KAL, described as India's first indigenous long-range attack drone, was developed by IG Defence, a company headquartered in:",
+    "o": [
+     "Bengaluru",
+     "Hyderabad",
+     "Pune",
+     "Noida"
+    ],
+    "k": 3,
+    "why": "IG Defence is a private defence technology company headquartered in Noida."
+   },
+   {
+    "q": "What is the manufacturer-declared range of IG Defence's KAL long-range attack drone?",
+    "o": [
+     "Up to 500 km",
+     "Up to 1,000 km",
+     "Up to 2,000 km",
+     "Up to 200 km"
+    ],
+    "k": 1,
+    "why": "The declared range is up to 1,000 km, with 7-8 hours endurance."
+   }
+  ]
+ },
+ "u0494": {
+  "gist": "Azad Engineering, Hyderabad, delivered India's first indigenous 350 kg-thrust expendable turbojet engine, designed by DRDO's GTRE, on July 22, 2026.",
+  "facts": [
+   "Designed by DRDO's Gas Turbine Research Establishment (GTRE).",
+   "Industry partner: Azad Engineering, Hyderabad, which manufactured and assembled it.",
+   "Delivered to GTRE on July 22, 2026.",
+   "First indigenous expendable turbojet engine of the 350 kg thrust class.",
+   "Shows DRDO–private industry teamwork; may cut imports of compact propulsion systems."
+  ],
+  "hindi": [
+   "Thrust (प्रणोद)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which company manufactured India's first indigenous 350 kg-thrust expendable turbojet engine designed by DRDO's GTRE (2026)?",
+    "o": [
+     "Hindustan Aeronautics Limited",
+     "Bharat Forge",
+     "Larsen & Toubro",
+     "Azad Engineering"
+    ],
+    "k": 3,
+    "why": "GTRE chose Azad Engineering, Hyderabad, which delivered the engine on July 22, 2026."
+   }
+  ]
+ },
+ "u0495": {
+  "gist": "India Optel Limited launched indigenous 'GARUD' high-resolution binoculars for civilians on August 13, 2026 at DPSU Bhawan, New Delhi.",
+  "facts": [
+   "Launched August 13, 2026 at DPSU Bhawan, New Delhi, with Dr Garima Bhagat present.",
+   "IOL: Mini Ratna Category-I Defence PSU under the Department of Defence Production.",
+   "Made by Ordnance Factory, Dehradun, a unit of IOL.",
+   "Features: 8x magnification, 7.6-degree field of view, ±5 diopter, about 610 grams."
+  ],
+  "hindi": [
+   "Magnification (आवर्धन)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The 'GARUD' high-resolution binoculars launched for the civilian market in August 2026 were developed by which unit?",
+    "o": [
+     "Ordnance Factory, Dehradun",
+     "Ordnance Factory, Kanpur",
+     "Ordnance Factory, Jabalpur",
+     "Ordnance Factory, Chandrapur"
+    ],
+    "k": 0,
+    "why": "GARUD was developed and made by Ordnance Factory, Dehradun, a unit of India Optel Limited."
+   }
+  ]
+ },
+ "u0496": {
+  "gist": "Bengaluru's Astrobase Space Technologies unveiled EVEREST on August 7, 2026, described as India's first privately built Full-Flow Staged Combustion rocket engine.",
+  "facts": [
+   "Unveiled August 7, 2026 by Astrobase Space Technologies, Bengaluru.",
+   "FFSC = Full-Flow Staged Combustion: fuel and oxidiser go through separate pre-burners.",
+   "India's first LOX-methane high-thrust engine; fourth commercial FFSC globally (after SpaceX, Stoke Space, LandSpace).",
+   "Could support reusable launches of up to 30 tonnes to low Earth orbit.",
+   "As of August 22, 2026, full hot-fire testing was pending; figures are design targets."
+  ],
+  "trap": "Performance figures are company design targets; the engine was not yet fully hot-fire tested.",
+  "hindi": [
+   "Combustion (दहन)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "EVEREST, unveiled in August 2026 as India's first privately developed FFSC rocket engine, was built by:",
+    "o": [
+     "Skyroot Aerospace",
+     "Agnikul Cosmos",
+     "Astrobase Space Technologies",
+     "Pixxel"
+    ],
+    "k": 2,
+    "why": "Bengaluru-based Astrobase Space Technologies unveiled EVEREST on August 7, 2026."
+   }
+  ]
+ },
+ "u0497": {
+  "gist": "Cochin Shipyard launched Machilipatnam (BY 529), seventh vessel of its eight-ship Mahe-class ASW Shallow Water Craft series, at Kochi on July 29, 2026.",
+  "facts": [
+   "Launched July 29, 2026 at Kochi by Mrs Goolrukh Anand; Vice Admiral Atul Anand present.",
+   "Yard number BY 529; seventh in CSL's eight-ship Mahe-class series.",
+   "Named after Machilipatnam, port city and HQ of Krishna district, Andhra Pradesh.",
+   "Roles: coastal anti-submarine warfare, underwater surveillance, mine-laying; over 80% indigenous.",
+   "Contract for eight vessels signed April 30, 2019; whole programme: 16 ASW SWCs (CSL Mahe + GRSE Arnala)."
+  ],
+  "trap": "'Seventh' is its building order, not the seventh commissioned. Launched is not the same as commissioned.",
+  "hindi": [
+   "Coastal defence (तटीय रक्षा)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Machilipatnam (BY 529), launched by Cochin Shipyard in July 2026, is named after a port city in which state?",
+    "o": [
+     "Odisha",
+     "Tamil Nadu",
+     "Andhra Pradesh",
+     "Gujarat"
+    ],
+    "k": 2,
+    "why": "Machilipatnam is the historic port city and headquarters of Krishna district, Andhra Pradesh."
+   }
+  ]
+ },
+ "u0498": {
+  "gist": "INS Malvan, the second Mahe-class ASW Shallow Water Craft built by Cochin Shipyard, was commissioned at Karwar on July 22, 2026.",
+  "facts": [
+   "Commissioned July 22, 2026 at Karwar.",
+   "Second of eight ASW-SWCs built by CSL, Kochi; sixth of 16 ASW-SWCs commissioned.",
+   "Named after Malvan, a coastal town in Maharashtra linked to Chhatrapati Shivaji Maharaj.",
+   "Crest: 'Bagh Nakha' (Tiger's Claw); motto: 'Silent Claws'.",
+   "Over 80 percent indigenous content."
+  ],
+  "hook": "Malvan → Shivaji → Bagh Nakha (tiger's claw) → motto 'Silent Claws'.",
+  "trap": "Second of CSL's eight, but sixth of all 16 ASW-SWCs to be commissioned.",
+  "hindi": [
+   "Motto (आदर्श वाक्य)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What is the motto of INS Malvan, commissioned into the Indian Navy in July 2026?",
+    "o": [
+     "Silent Claws",
+     "Mighty, Majestic, Matchless",
+     "Strike Silently",
+     "Ever Vigilant"
+    ],
+    "k": 0,
+    "why": "The ship's motto is 'Silent Claws'; its crest carries the Bagh Nakha."
+   }
+  ]
+ },
+ "u0499": {
+  "gist": "Pune's Nibe Limited demonstrated Garudastra, a 120 mm vehicle-mounted long-range mortar, to the Indian Army at Infantry School, Mhow, on June 17, 2026.",
+  "facts": [
+   "Demonstrated June 17, 2026 at the Infantry School, Mhow, to the Indian Army.",
+   "Maker: Nibe Limited, Pune, with a foreign original equipment manufacturer (OEM).",
+   "A 120 mm mortar mounted on a mobile vehicle.",
+   "Shown on a No Cost–No Commitment (NC-NC) basis.",
+   "Offers fast mobility, high firepower, quick deployment and withdrawal."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Garudastra, demonstrated to the Indian Army at Mhow in June 2026, is a vehicle-mounted mortar of which calibre?",
+    "o": [
+     "81 mm",
+     "105 mm",
+     "155 mm",
+     "120 mm"
+    ],
+    "k": 3,
+    "why": "Garudastra is a 120 mm mortar mounted on a mobile vehicle platform."
+   }
+  ]
+ },
+ "u0500": {
+  "gist": "The Coast Guard (Bharatiya Tatrakshak) commissioned ICGS Akshay, a new-generation Fast Patrol Vessel built by Goa Shipyard Limited, on June 27, 2026.",
+  "facts": [
+   "Commissioned June 27, 2026 at Goa Shipyard Limited, Goa.",
+   "Type: new-generation Fast Patrol Vessel (FPV).",
+   "'Akshay' means Indestructible.",
+   "Roles: law enforcement, coastal security, search and rescue, marine environment protection.",
+   "Designed and built by Goa Shipyard Limited: Aatmanirbhar Bharat."
+  ],
+  "trap": "Akshay = 'Indestructible' (June 2026); Achal = 'firm' (May 2026). Both are Goa Shipyard patrol vessels.",
+  "hindi": [
+   "Coast Guard (तटरक्षक)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "What does the name of ICGS Akshay, the Fast Patrol Vessel commissioned in June 2026, mean?",
+    "o": [
+     "Firm",
+     "Indestructible",
+     "Fearless",
+     "Eternal"
+    ],
+    "k": 1,
+    "why": "Akshay means 'Indestructible'."
+   }
+  ]
+ },
+ "u0501": {
+  "gist": "Microsoft, Singtel, Tata Communications and Lightstorm will build I-2SEA, a submarine cable linking India, Malaysia and Singapore; contracts signed July 2, 2026.",
+  "facts": [
+   "Consortium: Microsoft, Singtel, Tata Communications and Lightstorm.",
+   "Lightstorm announced construction contracts on July 2, 2026.",
+   "Links India's east coast to Singapore and Malaysia (Kuala Lumpur).",
+   "Two landings in India: Machilipatnam (shortest access to Hyderabad) and South Chennai.",
+   "About 3,600 km long from Singapore to Machilipatnam.",
+   "NEC Corporation is system supplier; ASEAN Cableship is marine installation partner."
+  ],
+  "hindi": [
+   "Undersea cable (समुद्री केबल)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The I-2SEA submarine cable (contracts signed in July 2026) will land at which Indian town to give the shortest subsea access to Hyderabad?",
+    "o": [
+     "Visakhapatnam",
+     "Kakinada",
+     "Paradip",
+     "Machilipatnam"
+    ],
+    "k": 3,
+    "why": "The landing at Machilipatnam will provide the shortest subsea access to Hyderabad."
+   }
+  ]
+ }
+}

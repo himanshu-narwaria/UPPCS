@@ -1,0 +1,1371 @@
+{
+ "u0844": {
+  "gist": "Andrej Babis was sworn in as the Czech Republic's new Prime Minister on December 9, 2025, after October's parliamentary election.",
+  "facts": [
+   "Prime Minister of the Czech Republic.",
+   "Sworn in December 9, 2025, after the October parliamentary election."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Andrej Babis was sworn in as Prime Minister of which country on December 9, 2025?",
+    "o": [
+     "Slovakia",
+     "Slovenia",
+     "Hungary",
+     "Czech Republic"
+    ],
+    "k": 3,
+    "why": "He became the Czech Republic's new Prime Minister."
+   }
+  ]
+ },
+ "u0845": {
+  "gist": "Pakistan's President Asif Ali Zardari approved Field Marshal Asim Munir as Chief of Defence Forces (CDF), a newly created post, in December 2025.",
+  "facts": [
+   "Post: Chief of Defence Forces (CDF), a newly created position in Pakistan.",
+   "Approved by President Asif Ali Zardari; term of five years."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In December 2025, Field Marshal Asim Munir was appointed to which newly created post in Pakistan?",
+    "o": [
+     "Chief of Defence Forces",
+     "Chief of Army Staff",
+     "National Security Adviser",
+     "Chairman, Joint Chiefs of Staff Committee"
+    ],
+    "k": 0,
+    "why": "He became Chief of Defence Forces (CDF), a newly created position, for five years."
+   }
+  ]
+ },
+ "u0846": {
+  "gist": "Lucas Philippe was elected President of the INTERPOL General Assembly on November 27, 2025, succeeding Ahmed Naser Al-Raisi of the UAE.",
+  "facts": [
+   "Post: President, INTERPOL General Assembly.",
+   "Elected November 27, 2025; succeeded Ahmed Naser Al-Raisi (UAE)."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who was elected President of the INTERPOL General Assembly on November 27, 2025?",
+    "o": [
+     "Ahmed Naser Al-Raisi",
+     "Lucas Philippe",
+     "Roman Gofman",
+     "Michael Kremer"
+    ],
+    "k": 1,
+    "why": "Lucas Philippe succeeded Ahmed Naser Al-Raisi from the UAE."
+   }
+  ]
+ },
+ "u0847": {
+  "gist": "Samia Suluhu Hassan was sworn in for a second term as President of Tanzania on November 3, 2025.",
+  "facts": [
+   "President of Tanzania, second term.",
+   "Sworn in November 3, 2025."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Samia Suluhu Hassan was sworn in for a second term on November 3, 2025 as President of which country?",
+    "o": [
+     "Uganda",
+     "Zambia",
+     "Tanzania",
+     "Cameroon"
+    ],
+    "k": 2,
+    "why": "She began her second term as President of Tanzania."
+   }
+  ]
+ },
+ "u0848": {
+  "gist": "Paul Biya was sworn in as President of Cameroon for an eighth term on November 6, 2025.",
+  "facts": [
+   "President of Cameroon, eighth term.",
+   "Sworn in November 6, 2025."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Paul Biya was sworn in for an eighth term as President of which country on November 6, 2025?",
+    "o": [
+     "Senegal",
+     "Benin",
+     "Djibouti",
+     "Cameroon"
+    ],
+    "k": 3,
+    "why": "Paul Biya began his eighth term as President of Cameroon."
+   }
+  ]
+ },
+ "u0849": {
+  "gist": "Centrist senator Rodrigo Paz Pereira was sworn in as Bolivia's new president for a five-year term in November 2025.",
+  "facts": [
+   "President of Bolivia; five-year term.",
+   "Sworn in November 2025; a centrist senator."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Rodrigo Paz Pereira was sworn in as president of which country in November 2025?",
+    "o": [
+     "Bolivia",
+     "Chile",
+     "Peru",
+     "Colombia"
+    ],
+    "k": 0,
+    "why": "He was sworn in as Bolivia's new president for five years."
+   }
+  ]
+ },
+ "u0850": {
+  "gist": "Sanae Takaichi became Japan's 105th and first female Prime Minister; the page also lists global personalities and international obituaries.",
+  "facts": [
+   "Sanae Takaichi: designated Japan's 105th Prime Minister on February 18, 2026; Japan's first female PM.",
+   "77th Republic Day guests: European Council President Antonio Costa, European Commission President Ursula von der Leyen.",
+   "Tavengwa Mukuhlani of Zimbabwe: ICC Deputy Chair from September 17, 2026, until November 2027.",
+   "Carlos Alcaraz: Infosys global brand ambassador; Rishi Sunak: senior adviser to Microsoft and Anthropic.",
+   "Deaths: Jeffrey Archer, British novelist (October 5, 2026); Sonny Rollins, jazz saxophonist (aged 95).",
+   "David J. Farber, 'Grandfather of the Internet', died in Tokyo on February 7, 2026, aged 91.",
+   "Iran's Supreme Leader Ayatollah Ali Khamenei (in office from 1989) was killed in February 2026."
+  ],
+  "hook": "77th Republic Day: two EU Presidents as guests, Council (Costa) + Commission (von der Leyen).",
+  "trap": "105th = Takaichi's number as Japan's PM; 'first' = first female PM. Don't mix the two.",
+  "hindi": [
+   "Republic Day (गणतंत्र दिवस)",
+   "Chief Guest (मुख्य अतिथि)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who was designated Japan's 105th Prime Minister on February 18, 2026, becoming its first female PM?",
+    "o": [
+     "Han Seong-sook",
+     "Sanae Takaichi",
+     "Keiko Fujimori",
+     "Mette Frederiksen"
+    ],
+    "k": 1,
+    "why": "Sanae Takaichi became Japan's 105th and first female Prime Minister."
+   },
+   {
+    "q": "Who were the Chief Guests at India's 77th Republic Day Parade on January 26, 2026?",
+    "o": [
+     "Keir Starmer and Andy Burnham",
+     "Shavkat Mirziyoyev and To Lam",
+     "Antonio Costa and Ursula von der Leyen",
+     "Rishi Sunak and Carlos Alcaraz"
+    ],
+    "k": 2,
+    "why": "European Council's Antonio Costa and European Commission's Ursula von der Leyen were Chief Guests."
+   },
+   {
+    "q": "Who, widely known as the 'Grandfather of the Internet', passed away in Tokyo in February 2026?",
+    "o": [
+     "Robert Duvall",
+     "Lee Soon-jae",
+     "Jeffrey Archer",
+     "David J. Farber"
+    ],
+    "k": 3,
+    "why": "David J. Farber died in Tokyo on February 7, 2026, aged 91."
+   }
+  ]
+ },
+ "u0851": {
+  "gist": "Leh will get Ladakh's first Medical College from 2027-28, and CJI Surya Kant opened a permanent High Court bench there in October 2026.",
+  "facts": [
+   "Health Ministry approved Ladakh's first Medical College in Leh on October 13, 2026; from academic year 2027-28.",
+   "CJI Surya Kant opened the permanent bench of J&K and Ladakh High Court in Leh, October 18, 2026."
+  ],
+  "hindi": [
+   "Medical College (चिकित्सा महाविद्यालय)",
+   "High Court (उच्च न्यायालय)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In October 2026, CJI Surya Kant inaugurated the permanent bench of the High Court of Jammu & Kashmir and Ladakh at:",
+    "o": [
+     "Leh",
+     "Kargil",
+     "Srinagar",
+     "Jammu"
+    ],
+    "k": 0,
+    "why": "The permanent bench was inaugurated in Leh on October 18, 2026."
+   }
+  ]
+ },
+ "u0852": {
+  "gist": "Himachal CM Sukhvinder Singh Sukhu opened the state's first solar power project with battery storage at Rongtong, Spiti Valley, on October 14, 2026.",
+  "facts": [
+   "Himachal Pradesh's first solar power project integrated with a battery storage system.",
+   "Location: Rongtong near Kaza, Spiti Valley; inaugurated October 14, 2026."
+  ],
+  "hindi": [
+   "Solar power (सौर ऊर्जा)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Himachal Pradesh's first solar power project integrated with battery storage was inaugurated in October 2026 at:",
+    "o": [
+     "Keylong",
+     "Rongtong",
+     "Kaza town",
+     "Shimla"
+    ],
+    "k": 1,
+    "why": "It was opened at Rongtong near Kaza in Spiti Valley."
+   }
+  ]
+ },
+ "u0853": {
+  "gist": "J.P. Nadda laid the foundation of the ICMR Centre for High Altitude Medicine and Public Health Research at Keylong, Himachal Pradesh, on October 12, 2026.",
+  "facts": [
+   "Centre: ICMR Centre for High Altitude Medicine and Public Health Research.",
+   "Place: Keylong, Himachal Pradesh; foundation stone October 12, 2026.",
+   "Reported as the country's first High-Altitude Health Research Centre."
+  ],
+  "trap": "Both in Himachal, October 2026: Keylong = ICMR high-altitude health centre; Rongtong = solar + battery project.",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was the foundation stone of the country's first High-Altitude Health Research Centre (ICMR) laid in October 2026?",
+    "o": [
+     "Leh, Ladakh",
+     "Gangtok, Sikkim",
+     "Keylong, Himachal Pradesh",
+     "Rongtong, Himachal Pradesh"
+    ],
+    "k": 2,
+    "why": "J.P. Nadda laid the stone at Keylong, Himachal Pradesh, on October 12, 2026."
+   }
+  ]
+ },
+ "u0854": {
+  "gist": "Delhi Police removed Jantar Mantar as a designated protest site on October 12, 2026, and named three new protest grounds.",
+  "facts": [
+   "Jantar Mantar, New Delhi, denotified as protest site on October 12, 2026.",
+   "New protest sites: Ramlila Maidan (Central Delhi), Burari ground (north), CBD ground (Shahdara)."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which site in New Delhi was denotified as a designated protest site by the Delhi Police on October 12, 2026?",
+    "o": [
+     "Ramlila Maidan",
+     "CBD ground",
+     "Burari ground",
+     "Jantar Mantar"
+    ],
+    "k": 3,
+    "why": "Jantar Mantar was denotified; the other three became new protest sites."
+   }
+  ]
+ },
+ "u0855": {
+  "gist": "Sankoo became Ladakh's eighth district on October 16, 2026, after five new districts were created in April 2026.",
+  "facts": [
+   "Sankoo: eighth district of Ladakh, from October 16, 2026.",
+   "Five new districts in April 2026: Sham, Nubra, Changthang, Zanskar and Drass."
+  ],
+  "hook": "Five April districts: 'SNC-ZD' = Sham, Nubra, Changthang, Zanskar, Drass.",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which place became the eighth district of Ladakh on October 16, 2026?",
+    "o": [
+     "Sankoo",
+     "Zanskar",
+     "Nubra",
+     "Drass"
+    ],
+    "k": 0,
+    "why": "Sankoo became the eighth district; the others were created in April 2026."
+   }
+  ]
+ },
+ "u0856": {
+  "gist": "Sarbananda Sonowal flagged off the first international cargo voyage from Dibrugarh, Assam, at Bogibeel Terminal on October 5, 2026.",
+  "facts": [
+   "First international cargo voyage from Dibrugarh; flagged off October 5, 2026.",
+   "Venue: Bogibeel Terminal, Dibrugarh, Assam.",
+   "First time since Independence that cargo sailed from Dibrugarh to a foreign port."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "From which terminal was the first international cargo voyage from Dibrugarh flagged off on October 5, 2026?",
+    "o": [
+     "Pandu Terminal",
+     "Bogibeel Terminal",
+     "Jogighopa Terminal",
+     "Rowriah Terminal"
+    ],
+    "k": 1,
+    "why": "Sonowal flagged it off at Bogibeel Terminal, Dibrugarh."
+   }
+  ]
+ },
+ "u0857": {
+  "gist": "NHAI rolled out Tamil Nadu's first Multi-Lane Free Flow (MLFF) tolling at Paranur Toll Plaza on the Tambaram–Tindivanam section.",
+  "facts": [
+   "Tamil Nadu's first Multi-Lane Free Flow (MLFF) tolling system (no-stop toll).",
+   "Place: Paranur Toll Plaza, Tambaram–Tindivanam section; press release October 1, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Tamil Nadu's first Multi-Lane Free Flow (MLFF) tolling system was rolled out by NHAI at which toll plaza?",
+    "o": [
+     "Sriperumbudur",
+     "Killai",
+     "Paranur",
+     "Tindivanam"
+    ],
+    "k": 2,
+    "why": "NHAI rolled out MLFF at Paranur Toll Plaza (press release October 1, 2026)."
+   }
+  ]
+ },
+ "u0858": {
+  "gist": "APEDA facilitated the export of 1 MT of popped (Phool) Makhana from Purnea, Bihar, to Greece.",
+  "facts": [
+   "1 MT of Popped (Phool) Makhana exported from Purnea, Bihar.",
+   "Destination: Greece; facilitated by APEDA."
+  ],
+  "trap": "Purnea → Greece (popped makhana); Darbhanga → Canada (flavoured makhana, sea shipment).",
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "APEDA facilitated a consignment of popped (Phool) Makhana from Purnea, Bihar, to which country?",
+    "o": [
+     "Canada",
+     "Nepal",
+     "UAE",
+     "Greece"
+    ],
+    "k": 3,
+    "why": "The 1 MT consignment from Purnea was exported to Greece."
+   }
+  ]
+ },
+ "u0859": {
+  "gist": "MoS Pabitra Margherita opened a Grainage Building and Cold Storage at the CSB Silkworm Seed Production Centre, Rowriah, Jorhat (Assam), on October 8, 2026.",
+  "facts": [
+   "New Grainage Building and Cold Storage Facility, CSB Silkworm Seed Production Centre (SSPC).",
+   "Place: Rowriah, Jorhat, Assam; inaugurated October 8, 2026."
+  ],
+  "hindi": [
+   "Silkworm (रेशम कीट)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Where is the CSB Silkworm Seed Production Centre whose new grainage and cold storage facility opened on October 8, 2026?",
+    "o": [
+     "Rowriah, Jorhat, Assam",
+     "Dibrugarh, Assam",
+     "Tinsukia, Assam",
+     "Guwahati, Assam"
+    ],
+    "k": 0,
+    "why": "The facility is at SSPC, Rowriah, Jorhat in Assam."
+   }
+  ]
+ },
+ "u0860": {
+  "gist": "CJI Surya Kant inaugurated the country's first Victim Rights Centre in Patna on September 26, 2026.",
+  "facts": [
+   "Country's first Victim Rights Centre; Patna; September 26, 2026.",
+   "Set up on the premises of the Bihar State Legal Services Authority."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where did CJI Surya Kant inaugurate the country's first Victim Rights Centre on September 26, 2026?",
+    "o": [
+     "Leh",
+     "Patna",
+     "Lucknow",
+     "New Delhi"
+    ],
+    "k": 1,
+    "why": "It was opened in Patna, at the Bihar State Legal Services Authority."
+   }
+  ]
+ },
+ "u0861": {
+  "gist": "The MeitY IndiaAI Centre of Excellence in Artificial Intelligence was inaugurated in Thiruvananthapuram, Keralam, on September 30, 2026.",
+  "facts": [
+   "MeitY IndiaAI Centre of Excellence in Artificial Intelligence.",
+   "Thiruvananthapuram, Keralam; September 30, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In which city was the MeitY IndiaAI Centre of Excellence in Artificial Intelligence inaugurated on September 30, 2026?",
+    "o": [
+     "Bengaluru",
+     "Hyderabad",
+     "Thiruvananthapuram",
+     "Bhubaneswar"
+    ],
+    "k": 2,
+    "why": "It was inaugurated in Thiruvananthapuram, Keralam."
+   }
+  ]
+ },
+ "u0862": {
+  "gist": "The foundation stone of India's first port-based e-methanol plant was laid at Deendayal Port Authority, Kandla, Gujarat, on September 26, 2026.",
+  "facts": [
+   "India's first port-based e-methanol production plant.",
+   "Place: Deendayal Port Authority (DPA), Kandla, Gujarat; September 26, 2026.",
+   "Joint project of DPA and Assam Petro-Chemicals Limited (APCL), Namrup, Assam."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the foundation stone of India's first port-based e-methanol production plant laid in September 2026?",
+    "o": [
+     "Kamarajar Port",
+     "Dibrugarh",
+     "Visakhapatnam Port",
+     "Kandla (Deendayal Port)"
+    ],
+    "k": 3,
+    "why": "It was laid at the Deendayal Port Authority in Kandla, Gujarat."
+   }
+  ]
+ },
+ "u0863": {
+  "gist": "DTTDC and the Municipal Corporation of Delhi signed an MoU on September 20, 2026 to turn Chandni Chowk's Town Hall into a 'Global Heritage Centre'.",
+  "facts": [
+   "MoU between DTTDC and MCD; September 20, 2026.",
+   "Historic Town Hall, Chandni Chowk, to become a 'Global Heritage Centre'."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which historic building in Chandni Chowk is to be developed into a 'Global Heritage Centre' under a September 2026 MoU?",
+    "o": [
+     "Town Hall",
+     "Red Fort",
+     "Jama Masjid",
+     "Belvedere House"
+    ],
+    "k": 0,
+    "why": "DTTDC and MCD signed an MoU to develop the Town Hall."
+   }
+  ]
+ },
+ "u0864": {
+  "gist": "The about 140-year-old Parichha Dam in Jhansi, Uttar Pradesh, was recognised by ICID as a World Heritage Irrigation Structure on August 13, 2026.",
+  "facts": [
+   "Parichha Dam, Jhansi (UP): around 140 years old.",
+   "Recognised as World Heritage Irrigation Structure (WHIS) by ICID on August 13, 2026.",
+   "Got 'WHIS Award-26' at 26th ICID Congress and 77th Executive Council meeting, France, October 2026."
+  ],
+  "trap": "Recognition date (August 13, 2026) differs from the award ceremony (France, October 2026).",
+  "hindi": [
+   "Irrigation (सिंचाई)",
+   "Dam (बांध)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The Parichha Dam, recognised as a World Heritage Irrigation Structure in 2026, is located in which district of Uttar Pradesh?",
+    "o": [
+     "Lalitpur",
+     "Jhansi",
+     "Banda",
+     "Shahjahanpur"
+    ],
+    "k": 1,
+    "why": "The around 140-year-old Parichha Dam is in Jhansi, Uttar Pradesh."
+   }
+  ]
+ },
+ "u0865": {
+  "gist": "MP Chief Minister Dr. Mohan Yadav inaugurated the country's first virtual zoo at Kamla Nehru Prani Sangrahalaya in Indore.",
+  "facts": [
+   "Country's first virtual zoo.",
+   "Place: Kamla Nehru Prani Sangrahalaya, Indore, Madhya Pradesh."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The country's first virtual zoo was inaugurated at Kamla Nehru Prani Sangrahalaya in which city?",
+    "o": [
+     "Bhopal",
+     "Gwalior",
+     "Indore",
+     "Jabalpur"
+    ],
+    "k": 2,
+    "why": "CM Mohan Yadav inaugurated it in Indore, Madhya Pradesh."
+   }
+  ]
+ },
+ "u0866": {
+  "gist": "On August 7, 2026, the Centre with Arunachal Pradesh identified 27 places/features in the state by standard names on Survey of India maps.",
+  "facts": [
+   "27 places/features in Arunachal Pradesh given standard names.",
+   "On official Survey of India maps; announced August 7, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "How many places/features in Arunachal Pradesh were identified by standard names on Survey of India maps on August 7, 2026?",
+    "o": [
+     "23",
+     "27",
+     "36",
+     "42"
+    ],
+    "k": 1,
+    "why": "A total of twenty-seven (27) places/features were identified."
+   }
+  ]
+ },
+ "u0867": {
+  "gist": "A Dhimsa dance by 13,102 people at Bhogapuram, Andhra Pradesh, on July 31, 2026 set a Guinness record for the largest Dhimsa dance.",
+  "facts": [
+   "Guinness World Record: 'largest Dhimsa dance' (a traditional dance).",
+   "13,102 participants; July 31, 2026.",
+   "Venue: Alluri Sitarama Raju International Airport, Bhogapuram, Andhra Pradesh."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The Guinness record for the 'largest Dhimsa dance' was set on July 31, 2026 at which place?",
+    "o": [
+     "Jorhat, Assam",
+     "Bhubaneswar, Odisha",
+     "Ahmedabad, Gujarat",
+     "Bhogapuram, Andhra Pradesh"
+    ],
+    "k": 3,
+    "why": "It was performed at Alluri Sitarama Raju International Airport, Bhogapuram, Andhra Pradesh."
+   }
+  ]
+ },
+ "u0868": {
+  "gist": "Ladakh LG Vinai Kumar Saxena approved declaring 23 heritage sites in the UT as 'Protected Monuments' on July 30, 2026.",
+  "facts": [
+   "23 heritage sites declared 'Protected Monuments' in Ladakh.",
+   "Notification approved by LG Vinai Kumar Saxena on July 30, 2026."
+  ],
+  "hindi": [
+   "Protected Monument (संरक्षित स्मारक)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "How many heritage sites in Ladakh were declared 'Protected Monuments' on July 30, 2026?",
+    "o": [
+     "18",
+     "21",
+     "23",
+     "27"
+    ],
+    "k": 2,
+    "why": "LG Vinai Kumar Saxena approved 23 heritage sites as Protected Monuments."
+   }
+  ]
+ },
+ "u0869": {
+  "gist": "APEDA flagged off the first-ever sea shipment of flavoured Makhana (fox nuts) from Darbhanga, Bihar, to Canada on July 29, 2026.",
+  "facts": [
+   "First-ever sea shipment of value-added flavoured Makhana (fox nuts).",
+   "From Darbhanga, Bihar, to Canada; July 29, 2026; via APEDA."
+  ],
+  "hindi": [
+   "Fox nut (मखाना)"
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "The first-ever sea shipment of flavoured Makhana from Darbhanga, Bihar, in July 2026 was sent to which country?",
+    "o": [
+     "Canada",
+     "Greece",
+     "UAE",
+     "Australia"
+    ],
+    "k": 0,
+    "why": "APEDA flagged off the Darbhanga shipment to Canada on July 29, 2026."
+   }
+  ]
+ },
+ "u0870": {
+  "gist": "Karnataka banned the sale and distribution of gutka, pan masala and other tobacco or nicotine products for one year from August 10, 2026.",
+  "facts": [
+   "Ban on gutka, pan masala and products with tobacco or nicotine.",
+   "Across Karnataka for one year from August 10, 2026."
+  ],
+  "hindi": [
+   "Tobacco (तंबाकू)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which state banned gutka, pan masala and other tobacco/nicotine products for one year from August 10, 2026?",
+    "o": [
+     "Keralam",
+     "Karnataka",
+     "Telangana",
+     "Tamil Nadu"
+    ],
+    "k": 1,
+    "why": "The Karnataka government imposed the one-year ban."
+   }
+  ]
+ },
+ "u0871": {
+  "gist": "Scientists found an unusually high ozone concentration about 21 to 23 km above the North Bay of Bengal (press release, August 10, 2026).",
+  "facts": [
+   "Unusually high ozone concentration detected.",
+   "Height: about 21 to 23 kilometres above the North Bay of Bengal."
+  ],
+  "hindi": [
+   "Ozone layer (ओजोन परत)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "At about what height above the North Bay of Bengal was an unusually high ozone concentration detected (reported August 2026)?",
+    "o": [
+     "5 to 7 km",
+     "21 to 23 km",
+     "40 to 42 km",
+     "10 to 12 km"
+    ],
+    "k": 1,
+    "why": "It was detected about 21 to 23 kilometres above the North Bay of Bengal."
+   }
+  ]
+ },
+ "u0872": {
+  "gist": "Ladakh LG V.K. Saxena commissioned India's first and deepest two geothermal wells at Puga Valley on July 17, 2026.",
+  "facts": [
+   "India's first and deepest two geothermal wells, Puga Valley, Ladakh; July 17, 2026.",
+   "Drilled by ONGC Energy Centre to 1,000 metres depth, at over 14,000 feet altitude.",
+   "Maximum temperature about 135°C recorded at 400 metres depth."
+  ],
+  "hindi": [
+   "Geothermal energy (भूतापीय ऊर्जा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first and deepest two geothermal wells, commissioned in July 2026, are located at:",
+    "o": [
+     "Chumur, Ladakh",
+     "Spiti Valley, Himachal Pradesh",
+     "Puga Valley, Ladakh",
+     "Keylong, Himachal Pradesh"
+    ],
+    "k": 2,
+    "why": "LG V.K. Saxena commissioned them at Puga Valley, Ladakh."
+   }
+  ]
+ },
+ "u0873": {
+  "gist": "Amit Shah opened the first phase of the 'Museum of Word', India's first immersive language museum, in Kolkata on July 19, 2026.",
+  "facts": [
+   "India's first immersive language museum; celebrates linguistic and literary heritage.",
+   "At historic Belvedere House, National Library campus, Kolkata.",
+   "First phase inaugurated by Amit Shah on July 19, 2026."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "India's first immersive language museum, the 'Museum of Word', is located at:",
+    "o": [
+     "Salar Jung, Hyderabad",
+     "Town Hall, Chandni Chowk",
+     "Koba Tirth, Gandhinagar",
+     "Belvedere House, Kolkata"
+    ],
+    "k": 3,
+    "why": "It is at Belvedere House in the National Library campus, Kolkata."
+   }
+  ]
+ },
+ "u0874": {
+  "gist": "Amit Shah performed the Bhoomi Pujan of the world's largest curd production plant under the Amul Bengal Dairy Project in Kolkata on July 19, 2026.",
+  "facts": [
+   "World's largest curd production plant; Amul Bengal Dairy Project.",
+   "Bhoomi Pujan at New Town Convention Centre, Kolkata; July 19, 2026."
+  ],
+  "hook": "Same day, same city (Kolkata, July 19): Museum of Word + world's largest curd plant.",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The world's largest curd production plant, whose Bhoomi Pujan was done in July 2026, is under which project?",
+    "o": [
+     "Amul Bengal Dairy Project",
+     "Banas Dairy Project",
+     "Mother Dairy Project",
+     "Nandini Dairy Project"
+    ],
+    "k": 0,
+    "why": "Amit Shah performed its Bhoomi Pujan under the Amul Bengal Dairy Project."
+   }
+  ]
+ },
+ "u0875": {
+  "gist": "Civil Aviation Minister Ram Mohan Naidu Kinjarapu flagged off the first Daman–Delhi–Daman flight from the new NAMO Airport, Daman, on July 16, 2026.",
+  "facts": [
+   "Inaugural flight on the Daman–Delhi–Daman route.",
+   "From the newly operational NAMO Airport, Daman; July 16, 2026."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "The newly operational NAMO Airport, from which the Daman–Delhi–Daman flight began in July 2026, is in:",
+    "o": [
+     "Diu",
+     "Daman",
+     "Silvassa",
+     "Surat"
+    ],
+    "k": 1,
+    "why": "The inaugural flight left from NAMO Airport, Daman."
+   }
+  ]
+ },
+ "u0876": {
+  "gist": "Kamarajar Port became India's second Major Port, after Visakhapatnam, to offer an 18-metre draft (water depth for ships) in July 2026.",
+  "facts": [
+   "Second Major Port with 18 metres draft; first was Visakhapatnam Port.",
+   "Operational draft 18.0 metres; can take vessels with cargo parcels up to 1,70,000 DWT."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In July 2026, which port became the second Major Port of India, after Visakhapatnam, to offer an 18-metre draft?",
+    "o": [
+     "Kandla Port",
+     "Paradip Port",
+     "Kamarajar Port",
+     "Cochin Port"
+    ],
+    "k": 2,
+    "why": "Kamarajar Port joined Visakhapatnam with an 18-metre draft."
+   }
+  ]
+ },
+ "u0877": {
+  "gist": "Sarbananda Sonowal unveiled the first India-made EXIM shipping container at the Maersk-CONCOR depot in Dadri, Uttar Pradesh, on July 3, 2026.",
+  "facts": [
+   "First export-import (EXIM) shipping container made in India.",
+   "Unveiled at Maersk-CONCOR Inland Container Depot, Dadri, UP; July 3, 2026.",
+   "Built for global shipping major A.P. Moller–Maersk."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was India's first indigenously manufactured EXIM shipping container unveiled on July 3, 2026?",
+    "o": [
+     "Kamarajar, Tamil Nadu",
+     "Kandla, Gujarat",
+     "Sanand, Gujarat",
+     "Dadri, Uttar Pradesh"
+    ],
+    "k": 3,
+    "why": "It was unveiled at the Maersk-CONCOR ICD in Dadri, Uttar Pradesh."
+   }
+  ]
+ },
+ "u0878": {
+  "gist": "UP Cabinet approved renaming Jalalabad town in Shahjahanpur district as 'Parashurampuri' on July 6, 2026.",
+  "facts": [
+   "Jalalabad (Shahjahanpur district, UP) renamed 'Parashurampuri'; approved July 6, 2026.",
+   "Covers the area under Nagar Palika Parishad Jalalabad.",
+   "Jalalabad is traditionally seen as the birthplace of Lord Parashuram."
+  ],
+  "hook": "Parashuram's birthplace becomes Parashuram-puri.",
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Jalalabad town, renamed 'Parashurampuri' by the UP Cabinet in July 2026, lies in which district?",
+    "o": [
+     "Shahjahanpur",
+     "Jhansi",
+     "Mathura",
+     "Unnao"
+    ],
+    "k": 0,
+    "why": "Jalalabad town is in Shahjahanpur district."
+   }
+  ]
+ },
+ "u0879": {
+  "gist": "Ahmedabad set a Guinness World Record by planting 3.61 lakh saplings in one hour on July 12, 2026, using the Miyawaki method.",
+  "facts": [
+   "3.61 lakh saplings planted within one hour; July 12, 2026.",
+   "Miyawaki method: creates dense, fast-growing urban forests."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Ahmedabad set a Guinness World Record on July 12, 2026 by planting how many saplings in one hour?",
+    "o": [
+     "1.25 lakh",
+     "3.61 lakh",
+     "5.50 lakh",
+     "2.10 lakh"
+    ],
+    "k": 1,
+    "why": "Ahmedabad planted 3.61 lakh saplings within one hour."
+   }
+  ]
+ },
+ "u0880": {
+  "gist": "The 63-km, six-lane Lucknow–Kanpur Expressway, India's first built with machine-guided technology, was inaugurated on July 13, 2026.",
+  "facts": [
+   "Length: 63 km; six lanes; inaugurated July 13, 2026.",
+   "Ceremony at Jhau Kheda, Unnao district.",
+   "Country's first expressway built with automated and intelligent machine-guided construction technology."
+  ],
+  "hindi": [
+   "Expressway (द्रुतमार्ग)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The inauguration ceremony of the Lucknow–Kanpur Expressway on July 13, 2026 was held at Jhau Kheda in which district?",
+    "o": [
+     "Lucknow",
+     "Unnao",
+     "Kanpur Nagar",
+     "Shahjahanpur"
+    ],
+    "k": 1,
+    "why": "The ceremony was held at Jhau Kheda in Unnao district."
+   }
+  ]
+ },
+ "u0881": {
+  "gist": "The Natural History Museum, Mizoram University, Aizawl, became India's 21st Designated Repository under the Biological Diversity Act, 2002.",
+  "facts": [
+   "Natural History Museum (NHM), Mizoram University, Aizawl.",
+   "Designated Repository under Section 39 of the Biological Diversity Act, 2002.",
+   "India's 21st Designated Repository; notified by Environment Ministry."
+  ],
+  "hindi": [
+   "Biological diversity (जैव विविधता)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The Natural History Museum of Mizoram University became India's 21st Designated Repository under which law?",
+    "o": [
+     "Wildlife (Protection) Act, 1972",
+     "Environment (Protection) Act, 1986",
+     "Biological Diversity Act, 2002",
+     "Forest (Conservation) Act, 1980"
+    ],
+    "k": 2,
+    "why": "It was designated under Section 39 of the Biological Diversity Act, 2002."
+   }
+  ]
+ },
+ "u0882": {
+  "gist": "PM Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, Gujarat, on July 4, 2026.",
+  "facts": [
+   "CG Semi OSAT facility (chip assembly and testing).",
+   "Sanand, Gujarat; inaugurated by PM Modi on July 4, 2026."
+  ],
+  "hindi": [
+   "Semiconductor (अर्धचालक)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where did PM Modi inaugurate the CG Semi OSAT (semiconductor assembly and test) facility on July 4, 2026?",
+    "o": [
+     "Dholera, Gujarat",
+     "Jewar, Uttar Pradesh",
+     "Bhubaneswar, Odisha",
+     "Sanand, Gujarat"
+    ],
+    "k": 3,
+    "why": "The CG Semi OSAT facility is in Sanand, Gujarat."
+   }
+  ]
+ },
+ "u0883": {
+  "gist": "Killai village in Cuddalore district became Tamil Nadu's first fully operational Climate-Resilient Village on July 22, 2026.",
+  "facts": [
+   "Tamil Nadu's first fully operational Climate-Resilient Village; July 22, 2026.",
+   "Under the Tamil Nadu Climate Change Mission (state Department of Environment, Climate Change and Forests)."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which village became Tamil Nadu's first fully operational Climate-Resilient Village in July 2026?",
+    "o": [
+     "Killai",
+     "Paranur",
+     "Rowriah",
+     "Chumur"
+    ],
+    "k": 0,
+    "why": "Killai in Cuddalore district earned this status on July 22, 2026."
+   }
+  ]
+ },
+ "u0884": {
+  "gist": "India's first AI-powered bird detection and monitoring centre will be set up at Thane Creek Flamingo Sanctuary, Maharashtra.",
+  "facts": [
+   "India's first AI-powered bird detection and monitoring centre.",
+   "Approved by Maharashtra Government; funded by Mumbai Suburban District Planning Committee's special fund."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "India's first AI-powered bird detection and monitoring centre will be set up at which sanctuary?",
+    "o": [
+     "Bharatpur Bird Sanctuary",
+     "Thane Creek Flamingo Sanctuary",
+     "Chilika Lake Sanctuary",
+     "Sultanpur Bird Sanctuary"
+    ],
+    "k": 1,
+    "why": "Maharashtra approved it for Thane Creek Flamingo Sanctuary."
+   }
+  ]
+ },
+ "u0885": {
+  "gist": "Assam became the first Indian state to commercially produce Matcha tea in July 2026, at the Chota Tingrai Tea Estate, Tinsukia.",
+  "facts": [
+   "First state to commercially produce Matcha tea; July 2026.",
+   "Produced at Chota Tingrai Tea Estate, Tinsukia district."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which state became the first in India to commercially produce Matcha tea in July 2026?",
+    "o": [
+     "Darjeeling (West Bengal)",
+     "Keralam",
+     "Assam",
+     "Himachal Pradesh"
+    ],
+    "k": 2,
+    "why": "Assam produced Matcha at Chota Tingrai Tea Estate, Tinsukia."
+   }
+  ]
+ },
+ "u0886": {
+  "gist": "Dr. Jitendra Singh and CM Yogi Adityanath launched India's 8th Regional Meteorological Centre (RMC) at Lucknow on June 8, 2026.",
+  "facts": [
+   "New Regional Meteorological Centre (RMC) at Lucknow; June 8, 2026.",
+   "India's 8th RMC.",
+   "Launched by Dr. Jitendra Singh with UP CM Yogi Adityanath."
+  ],
+  "trap": "Jammu RMC opened June 5, 2026; Lucknow RMC (8th) opened June 8, 2026.",
+  "hindi": [
+   "Meteorological Centre (मौसम विज्ञान केंद्र)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The new Regional Meteorological Centre launched at Lucknow on June 8, 2026 is India's which RMC?",
+    "o": [
+     "6th",
+     "7th",
+     "8th",
+     "9th"
+    ],
+    "k": 2,
+    "why": "Lucknow's RMC is India's 8th Regional Meteorological Centre."
+   }
+  ]
+ },
+ "u0887": {
+  "gist": "West Bengal became the 36th State/UT to implement Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) on June 8, 2026.",
+  "facts": [
+   "36th State/UT to implement AB-PMJAY (health insurance scheme).",
+   "Date: June 8, 2026."
+  ],
+  "hindi": [
+   "Health insurance (स्वास्थ्य बीमा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which state became the 36th State/UT to implement Ayushman Bharat PM Jan Arogya Yojana on June 8, 2026?",
+    "o": [
+     "Odisha",
+     "Telangana",
+     "Delhi",
+     "West Bengal"
+    ],
+    "k": 3,
+    "why": "West Bengal became the 36th State/UT to implement AB-PMJAY."
+   }
+  ]
+ },
+ "u0888": {
+  "gist": "Dr. Jitendra Singh inaugurated the new Regional Meteorological Centre (RMC) at Jammu on June 5, 2026.",
+  "facts": [
+   "New Regional Meteorological Centre (RMC), Jammu.",
+   "Inaugurated June 5, 2026, by Dr. Jitendra Singh."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "On June 5, 2026, a new Regional Meteorological Centre was inaugurated at which city?",
+    "o": [
+     "Jammu",
+     "Srinagar",
+     "Leh",
+     "Lucknow"
+    ],
+    "k": 0,
+    "why": "Dr. Jitendra Singh opened the new RMC at Jammu on June 5, 2026."
+   }
+  ]
+ },
+ "u0889": {
+  "gist": "On World Environment Day, June 5, 2026, Bhupender Yadav and Delhi CM Rekha Gupta opened eighteen Namo Oxygen Parks in New Delhi.",
+  "facts": [
+   "Eighteen Namo Oxygen Parks inaugurated in New Delhi.",
+   "Occasion: World Environment Day, June 5, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "How many Namo Oxygen Parks were inaugurated in New Delhi on World Environment Day, June 5, 2026?",
+    "o": [
+     "Eight",
+     "Eighteen",
+     "Twelve",
+     "Twenty-three"
+    ],
+    "k": 1,
+    "why": "Eighteen Namo Oxygen Parks were inaugurated."
+   }
+  ]
+ },
+ "u0890": {
+  "gist": "Ladakh LG Vinai Kumar Saxena laid the foundation of the first Model Border Village at Chumur under the Vibrant Village Programme on June 2, 2026.",
+  "facts": [
+   "First Model Border Village at Chumur, Ladakh; June 2, 2026.",
+   "Under the Government of India's Vibrant Village Programme (VVP)."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Under which programme was the foundation stone of the first Model Border Village at Chumur, Ladakh laid in June 2026?",
+    "o": [
+     "Border Area Development Programme",
+     "Smart Village Mission",
+     "Vibrant Village Programme",
+     "PM Adarsh Gram Yojana"
+    ],
+    "k": 2,
+    "why": "It was laid under the Vibrant Village Programme (VVP)."
+   }
+  ]
+ },
+ "u0891": {
+  "gist": "India's first 'Algae Tree', a carbon-capturing device to fight air pollution, was inaugurated in Bhopal's Swami Vivekananda Park on May 1, 2026.",
+  "facts": [
+   "India's first 'Algae Tree': carbon-capturing technology against air pollution.",
+   "Swami Vivekananda Park, Bhopal; May 1, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "India's first 'Algae Tree', a carbon-capturing technology, was inaugurated in May 2026 in which city?",
+    "o": [
+     "Indore",
+     "Gurugram",
+     "Ahmedabad",
+     "Bhopal"
+    ],
+    "k": 3,
+    "why": "It was inaugurated in Bhopal's Swami Vivekananda Park."
+   }
+  ]
+ },
+ "u0892": {
+  "gist": "Assam CM Himanta Biswa Sarma opened India's first AI-powered 'phygital' bank branch, of Slice Small Finance Bank, in Guwahati on May 16, 2026.",
+  "facts": [
+   "India's first AI-powered 'phygital' (physical + digital) banking branch.",
+   "Slice Small Finance Bank, GS Road, Guwahati; May 16, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "India's first AI-powered 'phygital' banking branch, opened in Guwahati in May 2026, belongs to which bank?",
+    "o": [
+     "Slice Small Finance Bank",
+     "Airtel Payments Bank",
+     "YES Bank",
+     "HDFC Bank"
+    ],
+    "k": 0,
+    "why": "It is a branch of Slice Small Finance Bank at GS Road, Guwahati."
+   }
+  ]
+ },
+ "u0893": {
+  "gist": "The Indian Navy opened its premier Naval Sailing Node at Upper Lake (Bhojtal), Bhopal, on May 17, 2026.",
+  "facts": [
+   "Indian Navy's premier Naval Sailing Node.",
+   "Upper Lake, known as Bhojtal, Bhopal; May 17, 2026."
+  ],
+  "hook": "Bhopal twice in May 2026: Algae Tree (May 1) and Navy sailing node on Bhojtal (May 17).",
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The Indian Navy inaugurated its premier Naval Sailing Node in May 2026 at which lake?",
+    "o": [
+     "Dal Lake",
+     "Bhojtal (Upper Lake)",
+     "Hussain Sagar",
+     "Chilika Lake"
+    ],
+    "k": 1,
+    "why": "It was set up at Upper Lake (Bhojtal) in Bhopal."
+   }
+  ]
+ },
+ "u0894": {
+  "gist": "Kerala became the first state with a dedicated AI ministry in May 2026; the Union Cabinet approved renaming Kerala as 'Keralam' on February 24, 2026.",
+  "facts": [
+   "First Indian state with a dedicated, independent Artificial Intelligence ministry; May 2026.",
+   "Union Cabinet approved changing the state's name from 'Kerala' to 'Keralam' on February 24, 2026."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which state became the first in India to create a dedicated, independent ministry for Artificial Intelligence in May 2026?",
+    "o": [
+     "Karnataka",
+     "Telangana",
+     "Kerala",
+     "Tamil Nadu"
+    ],
+    "k": 2,
+    "why": "The Kerala government created a dedicated AI portfolio in May 2026."
+   }
+  ]
+ },
+ "u0895": {
+  "gist": "Odisha CM Mohan Charan Majhi and Ashwini Vaishnaw laid the foundation of India's first advanced 3D chip packaging unit in Bhubaneswar on April 19, 2026.",
+  "facts": [
+   "India's first advanced 3D chip packaging unit.",
+   "Info Valley, Bhubaneswar, Odisha; foundation stone April 19, 2026."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the foundation stone of India's first advanced 3D chip packaging unit laid on April 19, 2026?",
+    "o": [
+     "Sanand, Gujarat",
+     "Guwahati, Assam",
+     "Jewar, Greater Noida",
+     "Info Valley, Bhubaneswar"
+    ],
+    "k": 3,
+    "why": "It was laid at Info Valley, Bhubaneswar in Odisha."
+   }
+  ]
+ },
+ "u0896": {
+  "gist": "Telangana was declared Naxal-free in April 2026 after 42 cadres surrendered.",
+  "facts": [
+   "Telangana declared Naxal-free; April 2026.",
+   "Followed the surrender of 42 cadres."
+  ],
+  "hindi": [
+   "Naxalism (नक्सलवाद)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Telangana was declared Naxal-free in April 2026 after the surrender of how many cadres?",
+    "o": [
+     "27",
+     "36",
+     "42",
+     "23"
+    ],
+    "k": 2,
+    "why": "Telangana became Naxal-free after 42 cadres surrendered."
+   }
+  ]
+ },
+ "u0897": {
+  "gist": "Three Tripura panchayats won top national panchayat awards for 2025 on June 3, 2026; Sepahijala was ranked best District Panchayat.",
+  "facts": [
+   "Awards: Deen Dayal Upadhyay Panchayat Satat Vikas Puraskar 2025 and Nanaji Deshmukh Sarvottam Panchayat Satat Vikas Puraskar 2025.",
+   "Sepahijala district: best District Panchayat in the country."
+  ],
+  "hindi": [
+   "Panchayat (पंचायत)",
+   "Sustainable development (सतत विकास)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which district of Tripura was ranked the best District Panchayat in the country in the 2025 panchayat awards?",
+    "o": [
+     "Sepahijala",
+     "Dhalai",
+     "Gomati",
+     "Unakoti"
+    ],
+    "k": 0,
+    "why": "Sepahijala was ranked the best District Panchayat."
+   }
+  ]
+ },
+ "u0898": {
+  "gist": "PM Modi inaugurated the Samrat Samprati Sangrahalay, a Jain Heritage Museum at Koba Tirth, Gandhinagar, on Mahavir Jayanti, March 31, 2026.",
+  "facts": [
+   "Samrat Samprati Sangrahalay: Jain Heritage Museum.",
+   "Koba Tirth, Gandhinagar, Gujarat; March 31, 2026 (Bhagwan Mahavir Jayanti)."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The Samrat Samprati Sangrahalay, a Jain Heritage Museum inaugurated by PM Modi in March 2026, is at:",
+    "o": [
+     "Palitana, Bhavnagar",
+     "Koba Tirth, Gandhinagar",
+     "Shravanabelagola, Karnataka",
+     "Mount Abu, Rajasthan"
+    ],
+    "k": 1,
+    "why": "It was inaugurated at Koba Tirth in Gandhinagar, Gujarat."
+   }
+  ]
+ },
+ "u0899": {
+  "gist": "BPCL launched the country's first 'LPG ATM' (gas vending machine) in Gurugram, Haryana, in March 2026.",
+  "facts": [
+   "Country's first 'LPG ATM' (gas vending machine).",
+   "Launched by BPCL in Gurugram, Haryana; March 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which company launched the country's first 'LPG ATM' in Gurugram in March 2026?",
+    "o": [
+     "Indian Oil Corporation",
+     "Hindustan Petroleum",
+     "Bharat Petroleum Corporation Limited",
+     "GAIL"
+    ],
+    "k": 2,
+    "why": "BPCL launched the first LPG ATM in Gurugram, Haryana."
+   }
+  ]
+ },
+ "u0900": {
+  "gist": "Bihar was declared free of Naxal activities in February 2026, as per Bihar Police.",
+  "facts": [
+   "Bihar declared Naxal-free in February 2026.",
+   "Declaration as per Bihar's Police."
+  ],
+  "trap": "Bihar: Naxal-free February 2026; Telangana: Naxal-free April 2026.",
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which state was declared free of Naxal activities in February 2026, as per its police?",
+    "o": [
+     "Telangana",
+     "Odisha",
+     "Jharkhand",
+     "Bihar"
+    ],
+    "k": 3,
+    "why": "Bihar Police declared Bihar free of Naxal activities in February 2026."
+   }
+  ]
+ },
+ "u0901": {
+  "gist": "Bela Gram in Bhandara district (Vidarbha) became Maharashtra's first net-zero village in February 2026, through panchayat leadership.",
+  "facts": [
+   "Maharashtra's first net-zero village; February 2026.",
+   "Bhandara district, Vidarbha region.",
+   "In 2024 it won first prize, Carbon Neutral Vishesh Panchayat Puraskar (Rashtriya Panchayat Puraskar 2024)."
+  ],
+  "hindi": [
+   "Net zero (शुद्ध शून्य)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Bela Gram, Maharashtra's first net-zero village (February 2026), is in which district?",
+    "o": [
+     "Bhandara",
+     "Nagpur",
+     "Wardha",
+     "Thane"
+    ],
+    "k": 0,
+    "why": "Bela Gram is in Bhandara district of the Vidarbha region."
+   }
+  ]
+ },
+ "u0902": {
+  "gist": "Amit Shah unveiled an equestrian (horse-riding) statue of Chhatrapati Shivaji Maharaj in Gandhinagar, Gujarat, on February 17, 2026.",
+  "facts": [
+   "Equestrian statue of Chhatrapati Shivaji Maharaj.",
+   "Built by Maharashtra Samaj Gandhinagar; unveiled February 17, 2026."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Where did Amit Shah unveil an equestrian statue of Chhatrapati Shivaji Maharaj on February 17, 2026?",
+    "o": [
+     "Pune",
+     "Gandhinagar",
+     "Mumbai",
+     "Ahmedabad"
+    ],
+    "k": 1,
+    "why": "The statue, built by Maharashtra Samaj Gandhinagar, is in Gandhinagar, Gujarat."
+   }
+  ]
+ },
+ "u0903": {
+  "gist": "India's first national 'cow culture' museum was announced in February 2026 for the veterinary university campus in Mathura, Uttar Pradesh.",
+  "facts": [
+   "Country's first national 'cow culture' museum.",
+   "Site: Pandit Deendayal Upadhyaya Veterinary Science University campus, Mathura (UP); announced February 2026."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The country's first national 'cow culture' museum, announced in February 2026, will be set up in which city?",
+    "o": [
+     "Vrindavan",
+     "Ayodhya",
+     "Mathura",
+     "Varanasi"
+    ],
+    "k": 2,
+    "why": "It will be on the Pandit Deendayal Upadhyaya Veterinary Science University campus, Mathura."
+   }
+  ]
+ }
+}

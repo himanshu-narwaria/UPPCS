@@ -1,0 +1,2275 @@
+[u0452] Ch5 · JAXA Martian Moons eXploration (MMX) mission
+  context: A. Recent Astronomical Activities · PDF p. 121
+  The Japan Aerospace Exploration Agency (JAXA) launched the Martian Moons eXploration (MMX) mission on **20 October 2026** aboard **H3 Flight No. 10** from **Tanegashima Space Center, Japan**. It aims to achieve the world’s first sample return from the Martian system. Its planned duration is approximately five years.
+  **Key Highlights**
+  - **Mission objectives:** Study Phobos and Deimos, Mars’s two moons, and return **at least 10 grams of material from Phobos**.
+  - **Timeline:** Arrival at Mars is expected in **2027**, and sample delivery to Earth in **2031**.
+  - **Scientific significance:** Determine whether the moons are **captured asteroids** or debris from a **giant impact on Mars**, improving understanding of planetary formation and the delivery of water and organic compounds.
+  **Technical Features**
+  - **Spacecraft:** Three modules—propulsion, exploration and return—use solar panels for electricity and chemical propulsion for manoeuvres.
+  - **Orbit:** A **quasi-satellite orbit** around Mars near Phobos supports surface mapping and landing-site selection.
+  - **Instruments:** The spacecraft carries **13 mission instruments**. **TENGOO** provides approximately **40 cm imaging resolution**; **OROCHI** captures images at multiple wavelengths; **LIDAR** measures surface distance using laser pulses.
+  - **Spectrometers:** NASA’s **MEGANE** (Mars-moon Exploration with Gamma rays and Neutrons) measures gamma rays and neutrons to determine elemental composition. **MIRS** (MMX InfraRed Spectrometer) operates at **0.9–3.6 micrometres**, investigating minerals, water-related substances and organic matter.
+  - **Rover: IDEFIX**, jointly developed by France’s CNES and Germany’s DLR, will assess surface conditions before the spacecraft lands.
+  - **Sampling:** JAXA’s **C-Sampler** collects subsurface material, while NASA’s **P-Sampler** uses high-pressure nitrogen gas to gather surface particles.
+  - **Communication and return:** NASA’s **Deep Space Network** supports communication and navigation. A **Sample Return Capsule** will bring samples through Earth’s atmosphere; NASA will receive about **15%** for research and curation.
+
+[u0453] Ch5 · First GAGAN-Based Satellite
+  context: A. Recent Astronomical Activities · PDF p. 121, 122
+  In late June 2026, the Directorate General of Civil Aviation (DGCA) supervised India’s first Satellite-Based Landing System (SLS) approach by a commercial jet using the indigenous GAGAN system. An IndiGo Airbus A321 conducted the demonstration using satellite-derived guidance instead of relying on a conventional Instrument Landing System (ILS).
+  **Key Highlights**
+  - GAGAN (GPS Aided GEO Augmented Navigation) is India’s indigenous Satellite-Based Augmentation System developed by the Indian Space Research Organisation (ISRO) and the Airports Authority of India.
+  - It enhances GPS accuracy and provides integrity information for safer aircraft navigation. Certified to international standards, GAGAN supports satellite-based landing and serves sectors beyond aviation.
+  **Key Elements of GAGAN**
+  - GAGAN operates through an integrated network of ground stations, communication systems, and geostationary satellites. These elements monitor GPS signals in real-time, calculate corrections, and broadcast enhanced navigation information to aircraft.
+  | **Key Elements** | **No. of Elements Deployed** | **Role** |
+  | **Indian Reference Stations (INRES)** | **15** | Continuously monitor GPS signals across the country and detect any errors. |
+  | **Indian Master Control Centres (INMCC)** | **2** | Process data received from all reference stations, calculate signal corrections, and generate integrity information. |
+  | **Indian Land Uplink Stations (INLUS)** | **3** | Transmit correction and integrity information from the ground to GAGAN satellites. |
+  | **Communication Networks** | **4** | Connect all GAGAN stations and enable secure, real-time transmission of navigation data. |
+  | **Geostationary Satellites with GAGAN Payloads** | **3** | Broadcast corrected navigation signals across the service area. |
+  - By enhancing navigation accuracy and seamless operations across the region, it continues to reinforce India’s leadership in satellite-enabled aviation services.
+  **India’s Indigenous Navigation Ecosystem**
+  - The integrated architecture of GAGAN forms an important part of India’s broader satellite navigation programme.
+  - Alongside GAGAN, India has developed the **Navigation with Indian Constellation (NavIC),** its indigenous regional navigation satellite system. While NavIC provides positioning, navigation and timing services, GAGAN enhances GPS signals to support precise aircraft navigation and landing.
+
+[u0454] Ch5 · SOLAR-1
+  context: A. Recent Astronomical Activities · PDF p. 122
+  Space weather refers to changes in the space environment caused mainly by activity on the Sun. Powerful solar events can affect technological infrastructure and space missions. To strengthen its forecasting and early-warning system, the United States made **SOLAR-1 operational on June 10, 2026**. It is the **first U.S. satellite designed exclusively for continuous and operational space-weather observations.** The satellite is operated by the **National Oceanic and Atmospheric Administration (NOAA)**. Its observations are transmitted to NOAA’s **Space Weather Prediction Center (SWPC)**, which uses them to issue forecasts, watches, warnings and alerts.
+  **Key Highlights**
+  - SOLAR-1 stands for **Space Weather Observations at L1 to Advance Readiness–1**. It was previously known as **Space Weather Follow On–Lagrange 1, or SWFO-L1**.
+  - It was renamed SOLAR-1 after reaching its intended orbit around the Sun–Earth Lagrange Point 1.
+  **Launch and Journey to Deep Space**
+  - The spacecraft was launched on September 24, 2025, at 7:30 a.m. EDT from Launch Complex 39A at NASA’s Kennedy Space Center in Florida.
+  - It travelled aboard a SpaceX Falcon 9 rocket. NASA’s Launch Services Program managed the launch.
+  - After travelling for about four months and covering nearly one million miles, the spacecraft performed its final engine burn on January 23, 2026.
+  - It then entered its planned orbit around L1 and was formally renamed SOLAR-1.
+
+[u0455] Ch5 · Chandrayaan-3 Hop Experiment
+  context: A. Recent Astronomical Activities · PDF p. 122
+  A team of scientists from the Indian Space Research Organisation (ISRO) on **May 18, 2026** shared a report of the findings of the ‘Hop’ experiment conducted by the Vikram Lander of Chandrayaan-3 and the Chandra’s Surface Thermophysical Experiment (ChaSTE) on the Moon.
+  - A new study conducted during the final phase of the Chandrayaan-3 missions when the Vikram lander performed a successful hop experiment, has offered fresh insights into the Moon surface.
+  - During the final phase of its mission, Chandrayaan-3’s Vikram lander reignited its engines to perform a controlled “hop” experiment (primarily to test ascent capabilities for future sample-return missions) and landed nearby, nearly 50 cm away from its initial position.
+  - ChaSTE (Chandra’s Surface Thermophysical Experiment), a lunar thermometer was re-penetrated into the lunar regolith (soil) at the new location.
+  - By analysing the ChaSTE data following this historic “hop” monoeuvre by the Vikram lander, scientists have discovered that the post-hop location at the Moon’s southern polar region possesses a complex, layered soil structure that was significantly altered by the lander’s brief flight.
+  **Key findings from the study have emerged, which include:**
+  - **Layered Stratigraphy:** analysis revealed a distinct two-layer structure within the top 6.5 cm of the post-hop site which means that the top few centimetres of the Moon’s surface aren’t just a uniform pile of dust; they are made of distinct layers with different properties,
+  - **Geotechnical Variability:** the soil’s cohesion and density were found to increase significantly with depth which means that the Moon’s soil at the surface becomes more packed and sticky as we go deeper and **Twilight Thermal Profiles:** the data highlighted a “shadowing effect” where local craters and depressions caused temperatures to plunge faster than global models predicted.
+  - **Surface Erosion and Compaction:** The engine firing blew away the top 3 cm of regolith, exposing and slightly compacting the material underneath.
+
+[u0456] Ch5 · India’s First Orbital Data Centre Satellite Pathfinder
+  context: A. Recent Astronomical Activities · PDF p. 122, 123
+  Recently on **4 May 2026**, Pixxel announced a strategic partnership with Sarvam to develop and build **Pathfinder**, described as **India’s first orbital data centre satellite**. Pixxel will design, build, launch and operate the satellite, while Sarvam will provide the AI backbone for running full-stack language models, training and inference directly in orbit. The mission is important because it brings together **remote sensing, high-performance computing and India-built AI** on a single satellite platform.
+  **Orbital Data Centre**
+  - An **orbital data centre** is a space-based computing system in which satellites carry high-performance processors such as **data-centre-class GPUs**.
+  - These processors can run AI models in orbit, rather than depending entirely on ground-based data centres.
+  - In ordinary satellite missions, satellites collect images or signals and send large volumes of raw data to Earth.
+  - In an orbital data centre model, computation happens closer to where the data is generated. This is similar to **edge computing**, where data is processed near its source instead of being sent to a distant cloud server.
+  - Pathfinder is a **single-satellite demonstrator**. Its purpose is to test whether powerful computing hardware, similar to that used in ground data centres, can work reliably in the space environment.
+  **Role of Pixxel and Sarvam**
+  - **Pixxel’s role:**
+    · Pixxel will design, build, launch and operate Pathfinder. It will also provide the hyperspectral imaging payload.
+    · The satellite will be developed at **Gigapixxel**, Pixxel’s upcoming facility designed to scale satellite production to up to **100 units**.
+  - **Sarvam’s role:**
+    · Sarvam will provide the AI backbone. Its full-stack sovereign AI platform, including models and inference infrastructure developed and governed in India, will run directly on the satellite’s GPU layer.
+
+[u0457] Ch5 · Artemis II Mission
+  context: A. Recent Astronomical Activities · PDF p. 123
+  Artemis II was not a Moon-landing mission; it was a **crewed lunar flyby mission** meant to prove that NASA’s Space Launch System, Orion spacecraft, ground systems, recovery teams and mission procedures can safely carry humans beyond low Earth orbit and bring them back. NASA describes it as the first crewed Artemis flight and a key step toward long-term human return to the Moon and future crewed missions to Mars.
+  - Artemis II lifted off from the Kennedy Space Center on April 1, 2026, sending the first humans to the Moon since 1972. (Note: The Apollo 17 mission in 1972 sent humans to land on the Moon, whereas Artemis II sent humans toward the Moon.)
+  - During the mission, the crew completed a lunar flyby, returning humans to the Moon’s vicinity for the first time in 53 years after the final Apollo Mission to the Moon.
+  **Engineering Focus of the Mission**
+  - The Artemis II Orion heat shield is the critical thermal protection system on the base of Orion Spacecraft. Orion heat shield protect the Capsule and Astronauts from searing temperatures and Extreme friction during high speed atmospheric re-entry.
+  - During the flight, the astronauts tested Orion’s life-support, communications, control, navigation and manual operation systems in a deep-space environment.
+  - The mission also tested how well astronauts could live and work inside Orion during a lunar-return flight.
+  - This is important because Artemis is not only about reaching the Moon; it is about building the systems needed for repeated journeys, lunar surface work, and eventually Mars missions.
+  - The Orion Spacecraft used in Artemis II was named Integrity by the crew.
+  **Orion’s Heat Shield and Re-entry Lesson**
+  - One of the most important engineering lessons came from Orion’s heat shield. During Artemis I, NASA found unexpected cracking and shedding of heat-shield material.
+  - NASA later explained that heat and gases had accumulated inside the Avcoat material, creating internal pressure and uneven shedding during re-entry, although the spacecraft would still have kept a crew safe.
+  - For Artemis II, NASA closely monitored re-entry and the thermal protection system.
+  - The spacecraft returned at extremely high lunar-return speed, and NASA’s initial inspection found that the heat shield performed as expected and that heat-shield char loss was significantly reduced compared with Artemis I.
+  - This result is important for astronaut safety in future Moon-landing missions.
+  - Artemis III is now listed by NASA as a 2027 low-Earth orbit demonstration, mission to test one or both commerical landers from SpaceX and Blue Origin.
+
+[u0458] Ch5 · International Conference on Spacecraft Mission Operations, 2026
+  context: A. Recent Astronomical Activities · PDF p. 123
+  The second edition of the International Conference on Spacecraft Mission Operations — SMOPS-2026 was held from 8 to 10 April 2026 in Bengaluru/Bangalore, India.
+  - Its theme was “Innovative Operations for Smart and Sustainable Space Mission Management – Next Generation.” The conference was jointly organised by the Indian Space Research Organisation (ISRO), the Astronautical Society of India (ASI) and the International Academy of Astronautics (IAA).
+  - The conference was inaugurated on 8 April 2026 by Shri A. S. Kiran Kumar, former Chairman of ISRO and former Secretary, Department of Space.
+
+[u0459] Ch5 · New Telescopes in Ladakh
+  context: A. Recent Astronomical Activities · PDF p. 124
+  The Union Budget 2026-27 has given a major push to India’s astronomy programme. As per Budget 2026-27 four Telescope infrastructure facilities would be setup or upgraded. **1. National Large Solar Telescope (NLST)**
+  - The NLST will be built at Merak near Pangong Lake Ladakh. It is a 2-metre-class ground-based telescope that will observe the Sun in optical and near-infrared wavelengths.
+  - It is designed to study the origin and behaviour of solar magnetic fields at very high resolution. **2. National Large Optical–Infrared Telescope (NLOT)**
+  - NLOT will come up at Hanle (Ladakh) and is officially described as India’s next-generation flagship ground-based optical–infrared telescope.
+  - It will have a 13.7-metre segmented primary mirror, advanced adaptive optics for sharper infrared imaging, and instruments such as spectrographs and imagers. **3. Upgrade of the Himalayan Chandra Telescope (HCT)**
+  - The Indian Astronomical Observatory at Hanle is a high-altitude observatory in Ladakh. The Himalayan Chandra Telescope is the 2-M optical-infrared Telescope installed there.
+  - It obtained first light on 26 September 2000, began regular science observations in May 2003, and is a 2-metre optical–infrared telescope remotely operated from CREST near Bengaluru through a dedicated satellite link.
+  - The upgraded HCT is planned as a 3.7-metre segmented optical–infrared telescope, which would make it more useful for transient and multi-messenger astronomy. **4. COSMOS-2 Planetarium**
+  - It will be constructed at Amaravati and it will be implemented by Indian Institute of Astrophysics.
+
+[u0460] Ch5 · India’s first Private EO Satellite Constellation
+  context: A. Recent Astronomical Activities · PDF p. 124
+  Earth Observation (EO) data is critical for day-today governance (agriculture, infrastructure planning), climate monitoring, and disaster response. Recently, in January 21, 2026, the Indian National Space Promotion and Authorisation Centre (IN-SPACe) formalised its agreement with a Pixxel-led consortium called “Allied Orbits” to establish India’s first indigenous commercial Earth Observation satellite constellation under the Earth Observation Public-Private Partnership (EO-PPP) programme.
+  - The Indian National Space Promotion and Authorisation Centre (IN-SPACe) announced the selection of the **Pixxel Space** India-led consortium to design, build, and operate **India’s first fully indigenous commercial earth observation (EO) satellite constellation** under the public-private partnership (PPP) model.
+  - The Bengaluru-based **Pixxel Space** India consortium comprises **Piersight Space, SatSure Analytics India, and Dhruva Space**.
+  - It is for the first time in the history of the Indian space sector that a private consortium would invest more than ₹**1,200 crore** over the next five years (from January, 2026) to launch a constellation of **12 state-of-the-art EO satellites** equipped with panchromatic, multispectral, hyperspectral, and microwave Synthetic Aperture Radar (SAR) sensors. As per official Statement of August 12, 2026 the constellation is to be developed and operationalised by 2029.
+  - The constellation will deliver Analysis Ready Data (ARD) and Value-Added Services (VAS) for applications in climate change monitoring, disaster management.
+  **EO-PPP programme**
+  - EO-PPP programme is aimed at building a reliable national EO data backbone, reducing dependence on foreign satellite data and strengthening India’s geospatial and space-based services ecosystem through structured public-private collaboration.
+
+[u0461] Ch5 · ISRO’s LVM3 M6 Mission
+  context: A. Recent Astronomical Activities · PDF p. 124, 125
+  India’s heavy-lift launcher LVM3 (Launch Vehicle Mark-3) has been increasingly used for high-value national missions as well as international commercial launches. In the LVM3M6 mission, ISRO/NSIL launched the BlueBird Block-2 communications satellite of AST SpaceMobile (USA) and successfully placed it into the intended orbit.
+  - The Indian Space Research Organisation’s (ISRO) Launch Vehicle Mark-3 (LVM3) on December 24, 2025 and successfully placed the BlueBird Block-2 satellite in its intended low Earth orbit.
+  - ISRO accomplished two milestones with this mission as it was able to deploy the largest commercial communications satellite in low Earth orbit and also the BlueBird Block-2 satellite became the heaviest payload (6,100 kg.) to be launched by LVM3 from Indian soil.
+  - LVM3-M6 mission was the 104th launch from Sriharikota and also the ninth successful mission of the LVM-3 launch vehicle and the third dedicated commercial mission demonstrating its 100% reliability.
+  **AST SpaceMobile**
+  - AST SpaceMobile (AST & Science, LLC) is building the space-based cellular broadband network, which is accessible directly by smartphones and designed for both commercial and government applications.
+  - AST SpaceMobile has launched five satellites — BlueBird 1-5 in September 2024, which enable non-continuous internet coverage across the US and other select countries.
+  **The Blue Bird Block-2 satellite**
+  - The BlueBird Block-2 satellite features a 223 m2 phased array, making it the largest commercial communication satellite ever deployed into low Earth orbit.
+  - The BlueBird Block-2 mission is part of the global Low Earth Orbit constellation to provide direct-to-mobile connectivity through a satellite.
+  - This constellation would enable 4G and 5G voice and video calls, texts, streaming and data for anyone at any time, ISRO said.
+  - The BlueBird Block-2 spacecraft launched heaviest payload into Low Earth Orbit in the history of the LVM3 rocket on December 24, 2025.
+
+[u0462] Ch5 · India Mobile Congress 2026
+  context: B. Recent Science & Technologies · PDF p. 125
+  Prime Minister Shri Narendra Modi inaugurated the 10th edition of the India Mobile Congress (IMC) 2026, Asia’s leading digital technology and telecommunications forum, on 8 October 2026 at Yashobhoomi, New Delhi. The event, held from **October 7 to October 10, 2026,** was jointly organised by the Department of Telecommunications (DoT), Ministry of Communications, and the Cellular Operators Association of India (COAI) under the overarching **theme “Scale Without Boundaries**”, reflecting India’s ambition to expand digital innovation, connectivity and technology-led growth beyond traditional boundaries.
+  **The four key pillars of IMC 2026**
+  - **Srishti – Building the Future**: Promoting innovation, emerging technologies and next-generation digital infrastructure.
+  - **Samvardhan – Fueling Growth**: Accelerating investment, entrepreneurship, manufacturing and industry-led growth.
+  - **Sashakt – Expanding Opportunities**: Leveraging digital technologies to create opportunities for citizens, enterprises and communities.
+  - **Suraksha – Strengthening Trust**: Building secure, resilient and trusted digital networks and technology ecosystems.
+  **AI for Good Build-a-thon 5.0**
+  - The Department of Telecommunications (DoT), Ministry of Communications, Government of India, organised the Artificial Intelligence (AI) for Good Build-a-thon 5.0 on **October 10, 2026** at the India Mobile Congress (IMC) 2026, held at Yashobhoomi, New Delhi.
+  - The event, themed “Creating innovative agents in 5G”, was inaugurated by Dr. Bilel Jamoussi, Deputy Director and Chief, Study Groups and Policy Department, Telecommunication Standardization Bureau, ITU.
+    · The 1st prize went to Team Netaxis, RVCE Bangalore, for “Context Aware Agentic Orchestration of QoS and Adaptive Security in Resource Constrained 5G”.
+
+[u0463] Ch5 · Google’s India-first AI models
+  context: B. Recent Science & Technologies · PDF p. 125
+  Google DeepMind’s **AnthroKrishi** team developed Agricultural Landscape Understanding (ALU) and Agricultural Monitoring and Event Detection (AMED) to turn satellite imagery into useful agricultural information. Initially focused on India, these models now support applications in farming, agricultural credit, water management and policy beyond the country.
+  **Key Highlights**
+  **How the models work**
+  - **ALU:** Maps agricultural landscapes, including individual field boundaries, trees, woodlands and small irrigation structures such as farm wells and dug ponds.
+  - **AMED:** Tracks agricultural activity at the field level, including the likely crop and its sowing and harvesting periods.
+  - **Access:** The model outputs are freely accessible through application programming interfaces (APIs). ALU data is also available as a layer in Google Earth.
+  **From mapping fields to supporting farmers**
+  - One of the applications is in sustainable rice cultivation. CarbonFarm is using the ALU API alongside Gemini to automate field-level insights, including mapping individual field boundaries, as part of programmes aimed at reducing the environmental impact of rice farming.
+
+[u0464] Ch5 · India’s first LNG-powered train
+  context: B. Recent Science & Technologies · PDF p. 125, 126
+  On **September 27, 2026,** Union Home and Cooperation Minister Amit Shah formally flagged off India’s first LNG-powered train from Sabarmati Railway Station in Ahmedabad, Gujarat. The project introduces liquefied natural gas into railway propulsion to reduce diesel consumption and support cleaner, more fuel-efficient operations.
+  **Key specifications**
+  - The train is a Diesel Electric Multiple Unit (DEMU). It has two converted Driving Power Cars (DPCs), each rated at 1,400 horsepower (HP).
+  - The fuel system can replace up to around 40 per cent of diesel consumption with LNG.
+  - This figure refers to diesel substitution, rather than a measured 40 per cent reduction in emissions.
+  - Each DPC carries a 2,200-litre LNG tank.
+  - The onboard installation includes LNG receiving, storage and re-gasification equipment.
+  **Trials and inaugural route**
+  - The converted power cars completed more than 2,000 km of field trials to establish their performance in railway operations.
+  - The inaugural journey on 27 September 2026 ran from **Sabarmati to Mahesana Junction in Gujarat.**
+  - The September event marked the **formal flag-off** of a system that had entered passenger service earlier.
+
+[u0465] Ch5 · NIELIT Launches CYBER KUSHTI 2026
+  context: B. Recent Science & Technologies · PDF p. 126
+  On **August 15, 2026,** the National Institute of Electronics and Information Technology (NIELIT) launched CYBER KUSHTI 2026, a national cybersecurity and Artificial Intelligence (AI) hackathon. It is designed to test and recognise human judgment in cybersecurity assessment rather than merely rewarding the speed of vulnerability detection. The hackathon was formally launched by Prof. (Dr.) M. M. Tripathi, Director General of NIELIT and Vice-Chancellor of NIELIT Deemed-to-be University. It is the official parallel technical track of the 3rd National Conference on Cyber Security, Digital Forensics and Intelligence (NCCDFI 2026).
+  **Key Highlights**
+  - The competition is being conducted in collaboration with the Information Sharing and Analysis Center (ISAC Foundation) under the National Security Database initiative. The Indian Computer Emergency Response Team (CERT-In) is its Knowledge Partner.
+    · **Final Round – The Kesari:** To be held in person in **November, 2026** at the **Dr. Ambedkar International Centre, New Delhi**, where the ten finalist teams will work under supervision before presenting and defending their assessments on the main stage of NCCDFI 2026.
+  - The winning team will be awarded the title **“Cyber Kesari 2026”** and presented the traditional **Gada**. The runners-up will be recognised with the titles **“Rustam”** and **“Pahalwan.”**
+
+[u0466] Ch5 · AIKosh University Engagement Programme
+  context: B. Recent Science & Technologies · PDF p. 126
+  The IndiaAI Mission, under the Ministry of Electronics & Information Technology (MeitY), is strengthening India’s artificial intelligence ecosystem by promoting innovation, responsible AI development and wider access to national AI resources. As part of this effort, the Mission organised the AIKosh University Engagement Programme (UEP) at Chitkara University, Rajpura, on 6 August 2026, with the objective of familiarising students with AIKosh and encouraging practical engagement with India’s national AI infrastructure.
+  **AIKosh University Engagement Programme**
+  - The programme aimed to increase AI awareness, democratise access to AI resources and equip students with relevant knowledge and tools.
+  - More than 250 students from Chitkara University participated in expert sessions, live demonstrations and hands-on activities.
+  - The programme is part of a nationwide initiative to deepen AI adoption across higher educational institutions.
+  **IndiaAI Mission and AIKosh Platform**
+  - The IndiaAI Mission was approved by the Government of India in March 2024.
+  - AIKosh is a key pillar of the IndiaAI Mission and functions as India’s unified data platform.
+  - It provides access to (as on October 6, 2026):
+    · 16,000+ datasets
+    · 350+ AI models
+    · 200+ use cases
+  - AIKosh supports researchers, startups, developers and students in developing AI-based solutions using trusted national resources.
+
+[u0467] Ch5 · India’s First Hydrogen-Powered Train
+  context: B. Recent Science & Technologies · PDF p. 126, 127
+  Indian Railways is entering a new era of clean and sustainable transportation. **Hydrogen fuel cell technology** has emerged globally as a promising alternative to fossil fuel-based traction systems. India’s first indigenous hydrogen-powered train marks an important step in adopting this next-generation technology. It is a locomotive that generates its own electricity onboard using hydrogen. With the inauguration on **the Jind-Sonipat section (Haryana)** of the Northern Railway on **17 July 2026 by PM Narendra Modi,**the hydrogen fuel cell-powered train is begin its operations.
+  - The project combines advanced propulsion technology with dedicated hydrogen storage, refuelling and operational infrastructure.
+  - It will demonstrate the feasibility of clean rail transportation in India.
+  **Inside India’s First Hydrogen Train**
+  - The hydrogen train project has been developed in accordance with design approval and technical specifications prepared by the **Research, Designs & Standards Organisation (RDSO)**. Designed and developed entirely in India, the project demonstrates the vision of **Atmanirbhar Bharat**.
+  **Key Features of the Hydrogen Powered Train on the Jind- Sonipat Section-**
+  - The Train has two 1200 kW power cars, totalling 2400 kW hydrogen fuel cell propulsion system.
+  - Approved to operate at a maximum speed of **75 kmph** with a design speed of **110 kmph**.
+  - Capacity of Around **2,600** Passengers.
+  - Developed from the **design stage** through **prototype manufacturing**.
+  - It will connect Jind Junction, Gohana Junction and Sonipat while serving intermediate stations.
+  **Technology Behind the Train**
+  - Hydrogen fuel cell technology produces electricity through a chemical reaction using hydrogen.
+  - The primary energy source is a **Proton Exchange Membrane Fuel Cell (PEMFC)**. This is a fuel cell that generates electricity by reacting hydrogen and oxygen across a proton-conducting Perfluorosulfonic Acid (PFSA) polymer membrane.
+  - The process produces only water vapour and heat as byproducts. Hydrogen is a high-energy fuel, 120 MJ/Kg (megajoules per kilogram) in comparison to diesel, which is 43 MJ/Kg.
+  **Hydrogen Infrastructure**
+  - The country’s largest railway hydrogen storage and refuelling facility has been established at **Jind, Haryana**.
+  - The indigenous facility stores nearly **3,000 kg** of hydrogen at a time. It will support hydrogen-powered train operations.
+  - The train consists of **two Hydrogen Driving Power Cars (DPCs) and eight Trailer Coaches (TCs)**.
+  - Each DPC houses fuel cells, lithium iron phosphate (LFP) batteries and hydrogen storage cylinders.
+
+[u0468] Ch5 · First UN Global Dialogue on AI Governance
+  context: B. Recent Science & Technologies · PDF p. 127
+  The inaugural United Nations Global Dialogue on AI Governance was held in Geneva, Switzerland, on July 6–7, 2026. India was represented by Union Minister of State for External Affairs and Environment, Forest and Climate Change Kirti Vardhan Singh, who led the Indian delegation. The second session of the Dialogue is scheduled to be held in New York in May 2027.
+  **Key Highlights**
+  - It is a universal and multi-stakeholder UN platform where every country can participate in discussions on the international governance of AI.
+  - It seeks to complement existing international, regional, national and multi-stakeholder initiatives rather than replace them.
+  **Major Concerns Raised at the Dialogue**
+  - Deepfakes and AI-generated disinformation can influence elections, undermine public trust and make authentic evidence easier to dismiss as false.
+  - Large AI systems and data centres consume substantial amounts of electricity and water.
+
+[u0469] Ch5 · LineShine: World’s Fastest Supercomputer
+  context: B. Recent Science & Technologies · PDF p. 127, 128
+  The **67th edition** of the TOP500 list of the world’s most powerful supercomputers was announced on **June 23, 2026** at the ISC 2026 conference in Hamburg, Germany. LineShine, a previously unlisted system installed in China, debuts at No. 1, displacing El Capitan as the world’s most powerful supercomputer as measured by the High Performance Linpack (HPL) benchmark.
+  **Key Highlights**
+  - LineShine achieved 2.198 Exaflop/s on HPL — about 80 percent of its 2.736 Exaflop/s theoretical peak — making it the first system on the TOP500 to exceed two exaflops of sustained double-precision performance using CPUs only.
+  - Installed at the National Supercomputing Centre in Shenzhen (NSCS) and built by the Shenzhen Cloud Computing Center.
+  - LineShine draws approximately 42.2 megawatts of power, for an efficiency of 52.07 Gigaflops/Watt.
+  **Five Systems Now Cross the Exascale Threshold**
+  - Five Exascale Systems in the June 2026 TOP500 are-
+  | **Rank** | **System and location** | **Country** | **HPL performance** | **Cores** | **Power** |
+  | 1 | LineShine, National Supercomputing Centre in Shenzhen | China | 2.198 exaflop/s | 13,789, 440 | 42.220 MW |
+  | 2 | El Capitan, Lawrence Livermore National Laboratory | United States | 1.809 exaflop/s | 11,340, 000 | 29.685 MW |
+  | 3 | Frontier, Oak Ridge National Laboratory | United States | 1.353 exaflop/s | 9,066, 176 | 24.607 MW |
+  | 4 | Aurora, Argonne Leadership Computing Facility | United States | 1.012 exaflop/s | 9,264, 128 | 38.698 MW |
+  | 5 | JUPITER Booster, Jülich Supercomputing Centre | Germany | 1.000 exaflop/s | 4,801, 344 | 15.794 MW |
+  **Highest-Ranked Indian Supercomputers**
+  | **Global** | **System** | **Institution** | **HPL Rmax** | **Cores** | **Main technology** |
+  | **rank** |  |  |  |  |  |
+  | 211 | AIRAWAT– | Centre for Development | 8.50 | 81,344 | NVIDIA DGX A100, AMD EPYC 7742, NVIDIA A100 and HDR InfiniBand |
+  |  | PSAI | of Advanced Computing | petaflop/s |  |  |
+  | 219 | Arka | Indian Institute of | 8.28 | 290,016 | BullSequana XH2000, AMD EPYC 7643 and HDR InfiniBand |
+  |  |  | Tropical Meteorology | petaflop/s |  |  |
+  | 245 | PARAM | Centre for Development | 7.03 | 79,200 | C-DAC Rudra-104 server, Intel Xeon Gold 6240R, NVIDIA A100 and HDR100 InfiniBand |
+  |  | Rudra-104 | of Advanced Computing | petaflop/s |  |  |
+  | 274 | Arunika | National Centre for | 5.94 | 203,040 | BullSequana XH2000, AMD EPYC 7643 and HDR InfiniBand |
+  |  |  | Medium Range Weather | petaflop/s |  |  |
+  |  |  | Forecasting |  |  |  |
+  **Param Pragya Supercomputer**
+  Prime Minister Narendra Modi remotely inaugurated PARAM Pragya during IIT Delhi’s 57th Convocation in New Delhi on 8 August 2026. The supercomputing facility is installed at IIT Delhi’s Sonipat campus in Haryana. PARAM Pragya is an artificial intelligence-oriented high-performance computing facility.
+  - PARAM Pragya has 400 NVIDIA A100 graphics processing units, and each GPU has 80 GB of memory.
+  - It provides 250 AI petaflops of computing capacity.
+  - The announced funding comprised ₹120 crore from the Government through DST and MeitY.
+  - Its intended research areas include large-scale AI models, material discovery, energy, healthcare and robotics.
+  - The DST Annual Report 2025–26 lists PARAM Pragya among the latest deployments under the National Supercomputing Mission.
+
+[u0470] Ch5 · India’s First Advanced 3D Semiconductor Packaging Unit
+  context: B. Recent Science & Technologies · PDF p. 128
+  India’s semiconductor programme has entered an important advanced-packaging phase with the launch of the Heterogeneous Integration Packaging Solutions project promoted by 3D Glass Solutions. The foundation stone of India’s first advanced 3D chip packaging unit was laid in Bhubaneswar, Odisha.
+  - This project is not a conventional semiconductor fabrication plant. It is a greenfield, vertically integrated advanced packaging and embedded glass-substrate ATMP facility.
+  - It is among the 12 plants that have been approved under the ambitious scheme, including a chip fabrication plant being built by the Tata Group, and a number of other assembly and testing plants including the US-based Micron Technology, among others.
+  - The total investment in the project is ₹1,943.53 crore.
+  - Odisha has become the first State to host both India’s first compound semiconductor fabrication unit and an advanced 3D chip packaging facility based on glass substrates.
+
+[u0471] Ch5 · MeitY and Drone Federation India launch NIDAR 2.0
+  context: B. Recent Science & Technologies · PDF p. 128
+  Recently on **July 13, 2026,** the Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India (DFI), launched the second edition of the National Innovation Challenge for Drone Application and Research—NIDAR 2.0 (2026–27). The challenge has been launched under the SwaYaan initiative to promote student-led innovation in autonomous drones, indigenous avionics and critical drone components. The programme was organised in hybrid mode at Electronics Niketan, New Delhi.
+  - NIDAR stands for National Innovation Challenge for Drone Application and Research.
+  - It is the flagship innovation platform of the SwaYaan initiative and is described in its official rulebook as India’s largest drone innovation challenge.
+  - It provides students and researchers with opportunities to solve real-world problems through applied research in drone technology.
+  - The second edition shifts the focus from conventional drone airframes to autonomous systems, indigenous avionics, navigation technologies and core drone components.
+  **Bharat Innovates 2026**
+  - Bharat Innovates 2026 concluded in Nice, marking the completion of three days(**14-16 June 2026**) of technology showcases, business meetings, investor pitching and institutional engagements involving participants from India, France and across the world.
+  - The Summit showcased 120 curated Indian DeepTech innovators and around 45 technology projects from 15 premier Indian higher education institutions. Nearly 60 per cent of the participating startups were incubated in or were closely associated with the IITs, IISc and other leading Indian institutions.
+
+[u0472] Ch5 · E-Green Hydrogen Certification Portal of India
+  context: B. Recent Science & Technologies · PDF p. 128
+  Union Minister for New and Renewable Energy and Consumer Affairs, Food and Public Distribution, Pralhad Joshi, launched the **Green Hydrogen Certification Portal of India (GHCI)** on **June 17, 2026.** It was launched during the National Workshop on “Strengthening the National Green Hydrogen Mission: Through State Policies, Hubs & Infrastructure”, organised by the Ministry of New and Renewable Energy (MNRE).The portal provides a unified digital mechanism for certifying green hydrogen produced in India.
+  **Key Highlights**
+  - The platform has been developed by the **National e-Governance Division (NeGD)** for MNRE under the National Green Hydrogen Mission.
+  - It serves as the digital operational backbone of the Green Hydrogen Certification Scheme of India.
+  **Green Hydrogen**
+  - Green hydrogen is hydrogen produced from renewable energy instead of fossil fuels.
+  **The Green Hydrogen Certification of India (GHCI) Digital Portal**
+  - The Green Hydrogen Certification of India (GHCI) Digital Portal is a unified online platform developed by the National e-Governance Division (NeGD) for the Ministry of New & Renewable Energy (MNRE) under the National Green Hydrogen Mission.
+  **National Green Hydrogen Mission**
+  - The National Green Hydrogen Mission was launched in January 2023 to establish India as a global hub for the production, use and export of green hydrogen and its derivatives.
+
+[u0473] Ch5 · PFBR at Kalpakkam, Tamil Nadu
+  context: B. Recent Science & Technologies · PDF p. 129
+  India has marked a major milestone in its nuclear energy programme. The indigenously designed and built **Prototype Fast Breeder Reactor (PFBR)** at Kalpakkam in Tamil Nadu successfully attained its first criticality on 6th April 2026, marking the initiation of a sustained nuclear chain reaction. This PFBR is a 500 MWe (megawatt electrical) reactor built by Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI) at the Kalpakkam Nuclear Complex.
+  - With this achievement, India has officially entered the second stage of its three-stage nuclear power programme, a vision first conceived by Dr. Homi Jehangir Bhabha, the architect of India’s nuclear programme.
+  - The milestone carries substantial global significance. Once fully operational, India will become only the second country in the world after Russia to operate a commercial fast breeder reactor.
+  **India’s First Dedicated Quantum & AI University Campus**
+  - At the India AI Impact Summit 2026, the National Institute of Electronics & Information Technology (NIELIT), under the Ministry of Electronics and Information Technology (MeitY), signed an MoU with the Government of Andhra Pradesh on 20 February 2026 to establish India’s first dedicated Quantum and Artificial Intelligence university campus in Amaravati. The summit was held from 16 to 21 February 2026.
+  - The NIELIT Quantum-AI University at Amaravati Quantum Valley will anchor India’s next wave of deep-tech talent by converging quantum science, artificial intelligence, and industry-aligned skilling to build a globally competitive innovation ecosystem.”
+
+[u0474] Ch5 · Bodhan AI & Bharat EduAI Stack
+  context: B. Recent Science & Technologies · PDF p. 129
+  At the Bharat Bodhan AI Conclave 2026, the government formally launched the Bodhan AI Centre of Excellence and marked the beginning of the Bharat EduAI Stack as an open and interoperable architecture for AI solutions in education.
+  - This initiative follows the Union Government’s decision to establish a Centre of Excellence in AI for Education.
+  - IIT Madras has been chosen as the institutional anchor, and the centre has been set up as the IIT Madras Bodhan AI Foundation.
+  **Bodhan AI:**
+  - It is IIT Madras incubated initiative supported by Ministry of Education; building the Bharat Edu AI stack as a Sovereign Digital Public Infrastructure.
+  - **Bharat EduAI Stack:** It will function as an **open-**source digital public AI infrastructure to deploy AI tools across the **education ecosystem**, including **personalised AI tutors,** AI-assisted **teacher training and support**, institutional administration systems, and **data-driven policy-making** based on large learning datasets.
+  **Bharat Bodhan AI Conclave 2026**
+  - Bharat Bodhan AI Conclave 2026 was a two-day event held in Bharat Mandapam from February 12-13, 2026, sets Stage for nationwide EduAI collaboration. During the event, Shri Pradhan launched the **Bodhan AI Centre of Excellence.** The Conclave marks a significant step in advancing the integration of Artificial Intelligence (AI) across India’s education ecosystem.
+  - The Bharat Bodhan AI Conclave 2026 is envisioned as a **national platform for landscape discovery, strategic alignment, and partnership building** in AI-enabled education.
+
+[u0475] Ch5 · India-AI Impact Summit 2026
+  context: B. Recent Science & Technologies · PDF p. 129
+  The Government of India has cemented its position as a major player in the global technology landscape by officially unveiling the logo and key initiatives for the India AI Impact Summit 2026. It was hosted in New Delhi.
+  - The India-AI Impact Summit 2026 was held on February 16-21, 2026 at Bharat Mandapam, New Delhi.
+  - Being hosted for the first time by a Global South nation, the Summit is guided by the principles or Sutras of People, Planet, and Progress.
+  - The Global AI Impact commons was launched with 80+ impact stories from over 30+ countries.
+  - The discussions are further centered around 7 thematic Chakras and three Sutras
+  - **The Three Sutras –** People, Planet & Progress
+  **The Seven Chakras**
+  - The Sutras are translated into action through seven Chakras, areas of multilateral cooperation designed to deliver tangible outcomes:
+    · **Human Capital–** Address employment, skilling, and workforce transformation.
+    · **Inclusion for Social Empowerment–** Foster AI that reflects languages, cultures, and identities.
+    · **Safe and Trusted AI –** Provide democratized access to safety testing, transparency, and auditing tools.
+    · **Resilience, Innovation, and Efficiency –** Promote resource-efficient.
+    · **Science –** Expand responsible use of AI to accelerate research and discovery; strengthen ecosystems and partnerships in the Global South.
+    · **Democratizing AI Resources –** Forge pathways for equitable access to data, compute, models, and critical infrastructure.
+    · **AI for Economic Development & Social Good –** Identify and scale AI applications in public interest sectors.
+  **Official Logo**
+  - The official logo’s identity was the Ashoka Chakra, an emblem of ethical governance, justice, and constitutional values that guide India’s digital and technological journey.
+  **India’s progress**
+  - The India AI mission has made very good progress. India had a target of 10000 GPUs, and today India are at 38000GPUs.
+  - Target of 570 Data Labs will be spread across the country and open doors for students going forward.
+
+[u0476] Ch5 · ICMR Centre for High Altitude Medicine and Public Health Research
+  context: C. Body and Health Related Scientific Activities · PDF p. 130
+  On **October 12, 2026,** Union Health Minister Jagat Prakash Nadda laid the foundation stone of ICMR’s first dedicated Centre for High Altitude Medicine and Public Health Research at Keylong in Lahaul and Spiti district, Himachal Pradesh. High-altitude medicine studies how mountain conditions affect human health and how related illnesses can be prevented and treated.
+  - The centre will address public-health challenges arising from extreme weather, difficult terrain, geographical isolation and climate variability.
+  - It will facilitate long-term studies on the relationship between environmental conditions, climate change and human health, particularly among high-altitude and tribal populations.
+
+[u0477] Ch5 · Aarogya Manthan 2026
+  context: C. Body and Health Related Scientific Activities · PDF p. 130
+  Union Minister for Health and Family Welfare and Chemicals and Fertilizers, Shri J.P. Nadda, on **September 25, 2026,** inaugurated Aarogya Manthan 2026 at Vigyan Bhawan, New Delhi, marking eight years of Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) and five years of the Ayushman Bharat Digital Mission (ABDM). Organised by the National Health Authority (NHA).
+  **Key Highlights**
+  - Aarogya Manthan 2026 marks 8 years of Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) and 5 years of Ayushman Bharat Digital Mission (ABDM).
+  - The event focuses on health assurance, digital healthcare, efficient claim processing and interoperability of health data.
+  **Major Initiatives Launched at Aarogya Manthan 2026**
+  - **National Healthcare Providers Registry (NHPR) Mobile App**
+    · Brings the Healthcare Professionals Registry (HPR) and Health Facility Registry (HFR) services onto a single mobile platform.
+  - **NHCX Implementation Guide for Payers**
+    · Provides technical and operational guidance to health insurers, Third-Party Administrators (TPAs) and other payers for integrating with the National Health Claims Exchange (NHCX).
+  - **Guidebook for a Model Digital Health Facility**
+    · Provides guidelines for transforming hospitals and healthcare institutions into digitally enabled health facilities.
+  - **Secure Data Environment (SDE) Application**
+    · Developed by NHA with support from the Indian Institute of Science (IISc), Bengaluru.
+    · Provides a secure, governed environment for analysing health data generated under AB PM-JAY and ABDM.
+
+[u0478] Ch5 · JAMA Blood Group in Humans
+  context: C. Body and Health Related Scientific Activities · PDF p. 130
+  The International Society of Blood Transfusion (ISBT) has recognised JAMA as the 49th human blood group system, numbered ISBT 049. The discovery followed a joint investigation by researchers in the United Kingdom and Israel into unusual blood samples from a woman and her brother. ISBT ratified the system at its Kuala Lumpur Congress in 2026 and announced it on **September 14, 2026.** The finding adds to the understanding of rare blood characteristics and their possible importance in transfusion medicine.
+  **Key Highlights**
+  - Blood plays a vital role in the human body, carrying oxygen and essential nutrients to cells. For years, A, B, AB and O have been the blood groups most familiar to people.
+  - Now, scientists have identified a new blood group system called JAMA, taking the total number of recognised blood group systems to 49.
+  - The International Society of Blood Transfusion (ISBT) has officially recognised JAMA as the 49th blood group system.
+  - The discovery came from a joint investigation by researchers from the UK and Israel. It began when scientists examined the blood of an Israeli woman and her brother.
+  - The woman was found to have an antibody that reacted with the red blood cells of most people.
+  - However, the same reaction did not occur with her own red blood cells or those of her brother.
+  - This unusual result caught researchers’ attention because the antibody did not correspond to any previously identified blood group antigen.
+  - JAMA should not be viewed as another category alongside A, B, AB and O. Instead, it is a separate blood group system involving a specific antigen.
+  - This antigen is found on the red blood cells of most people. In the woman and her brother, however, it was absent.
+  - Their blood also contained a corresponding antibody, helping scientists identify the unusual blood group characteristics.
+
+[u0479] Ch5 · Bhutan Eliminates Dog Transmitted Human Rabies
+  context: C. Body and Health Related Scientific Activities · PDF p. 130, 131
+  On **September 4, 2026,** the World Health Organization (WHO) validated Bhutan’s elimination of dog-transmitted human rabies as a public health problem. Bhutan became the first country in the WHO South-East Asia Region to achieve this milestone.
+  **Key Highlights**
+  **WHO Validation and National Initiatives**
+  - Bhutan has recorded Zero human death from Dog mediated rabies since June, 2023.
+  - WHO fact sheet dated September 17, 2026 lists Bhutan, Chile and Mexico as the three countries validated from this form of elimination.
+  - The WHO criteria for rabies free validation established in 2018, require at least two years without dog mediated rabies deaths and the capacity to prevent re-emergence.
+  **Rabies: Important Scientific Facts**
+  - Rabies is a viral disease that is almost always fatal after clinical symptoms appear, but deaths can be prevented through timely treatment.
+  - Post-exposure prophylaxis (PEP) involves thorough wound washing, human rabies vaccination and rabies immunoglobulins (RIG), when indicated.
+  - Infected dogs account for up to 99% of human rabies transmissions globally.
+  - The Global Strategic Plan to End Human Deaths from Dog-Mediated Rabies by 2030.
+
+[u0480] Ch5 · Saushrutam 2026
+  context: C. Body and Health Related Scientific Activities · PDF p. 131
+  The President of India, Smt Droupadi Murmu inaugurated **‘Saushrutam 2026’** at the All India Institute of Ayurveda (AIIA), New Delhi (July 15, 2026), on Sushruta Jayanti. She also inaugurated an AI-enabled 3 Tesla High-Field MRI facility at AIIA and witnessed release of the National Commission for Indian System of Medicine (NCISM) study on the professional careers of women Ayurveda graduates.
+  **Key Highlights**
+  - The seminar has drawn experts from nine countries, including Thailand, Israel, Austria and the United Kingdom, for sessions on Shalya Tantra, Kshara Sutra, Agnikarma and integrative oncology.
+  - Sushruta Jayanti is celebrated to honour the birth anniversary of Acharya Sushruta, popularly recognised as the “father of surgery in ayurveda”.
+  - The Sushruta Samhita was authored by him. It mainly deals with surgical procedures.
+    · Saushrutam 2026 aimed to promote evidence-based dialogue concerning Ayurvedic surgical practices.
+    · expand international collaboration in Ayurvedic surgery.
+
+[u0481] Ch5 · Aarogya Setu 2.0
+  context: C. Body and Health Related Scientific Activities · PDF p. 131, 132
+  Union Minister for Health and Family Welfare and Chemicals and Fertilizers, Jagat Prakash Nadda, launched **Aarogya Setu 2.0** at Vigyan Bhawan, New Delhi, on **29 June 2026**. The application has been redesigned as a citizen-facing digital health platform under the **Ayushman Bharat Digital Mission (ABDM)**.It will function as a **Personal Health Record (PHR)** application for individuals and families and provide a single digital gateway to health records, hospitals, insurance services and personal health-management tools.
+  **Key Highlights**
+  - The Aarogya Setu application was developed by the Government of India during the COVID-19 pandemic as a national digital public good for contact tracing, risk awareness, and citizen engagement.
+  **Strategic Rational for Aarogya Setu 2.0**
+  - Aarogya Setu 2.0 adresses the need of people by serving as:
+    · A single, citizen-centric digital gateway for accessing health services
+    · A trusted personal health record for individuals and families
+    · A national awareness and adoption platform for ABDM services
+  **Features of the 2.0 version:**
+  - Access to ABDM-enabled services, including ABHA creation, health record management, and Scan & Register for seamless registration in hospitals.
+  - Digitization of medical health records upload - Using Artificial Intelligence(AI) to digitize the medical health records like lab reports.
+  **Major advance features can be used from 2.0 Version**
+  - **PM-JAY Wallet:** The PM-JAY Wallet feature shows a clear overview of healthcare coverage, including total balance, amount used, and family-wise consumption.
+  - **Search PM-JAY Empanelled Hospital**: This feature is integrated with Pradhan Mantri Jan Arogya Yojana and allows users to search empanelled hospitals offering cashless treatment.
+  **Other Digital Health Initiatives Launched on 29 June 2026**
+  - The following initiatives were launched alongside Aarogya Setu 2.0 under the aegis of the National Health Authority (NHA) and the National Resource Centre for EHR Standards (NRCeS).
+  | **Initiative** | Main purpose |
+  | **Ayushman App** | A one-stop platform for AB PM-JAY beneficiaries providing eligibility verification, Ayushman Card services, treatment history, hospital discovery, grievance redressal and beneficiary support. |
+  | **National Health Claims Exchange (NHCX)** | Enables standardised exchange of health-claim information between hospitals and payers under public and private insurance programmes, facilitating faster claims processing. |
+  | **Ayushman Sarathi WhatsApp Chatbot** | Provides PM-JAY services through a conversational WhatsApp interface and strengthens last-mile service delivery. |
+  | **e-Sushrut Clinic** | A plug-and-play clinic-management solution for digitising clinical workflows, maintaining electronic health records and connecting clinics with ABDM. |
+  | **Unified Health Interface (UHI)** | Provides an open and interoperable framework through which digital applications can connect citizens with healthcare service providers. |
+  | **Bharat Health Terminology Service (BHTS)** | Provides standard healthcare terminolo-gies, code systems and value sets so that different digital-health systems interpret information consistently. |
+
+[u0482] Ch5 · 10th National Summit on Innovation and Inclusivity
+  context: C. Body and Health Related Scientific Activities · PDF p. 132
+  The 10th National Summit on Innovation and Inclusivity: Best Practices Shaping India’s Health Future was organised in Chandigarh from 30 April to 1 May 2026 by the Union Ministry of Health and Family Welfare. It was inaugurated by Union Health Minister Shri J.P. Nadda. The summit acted as a national platform for States and Union Territories to present innovations and best practices for making healthcare more inclusive, accessible and affordable.
+  **Swasth Bharat Portal**
+  - The Swasth Bharat Portal is a **one-stop integrated platform** designed to bring multiple national health programmes onto a single digital interface.
+  **JANANI Portal**
+  - JANANI - Journey of Antenatal, Natal and Neonatal Integrated Care - Sehat ke Sath, Every Step of Care, a robust digital platform aligned with the ABDM framework, designed to serve as a single source of truth for Reproductive, Maternal, Newborn, Child, and Adolescent Health (RMNCH+A) data across the country.
+  - JANANI adopts a lifecycle approach to ensure continuum of care from pre-pregnancy through pregnancy, childbirth, and childhood.
+  - The application captures real-time, high-quality data on critical health parameters, enabling early identification of vulnerable groups, including high-risk Pregnancies and children with specific health conditions, and facilitating timely interventions.
+
+[u0483] Ch5 · Mission SEHAT
+  context: C. Body and Health Related Scientific Activities · PDF p. 132
+  Mission **SEHAT — Science Excellence for Health through Agricultural Transformation** is an important national initiative that connects agriculture with nutrition and public health. It was launched on **11 May 2026 in New Delhi** by **Shri Jagat Prakash Nadda**, Union Minister of Health & Family Welfare and Chemicals & Fertilisers, and **Shri Shivraj Singh Chouhan**, Union Minister of Agriculture and Farmers’ Welfare and Rural Development. The mission has been jointly launched by the **Indian Council of Agricultural Research (ICAR)** and the **Indian Council of Medical Research (ICMR)**.
+  - The core objective of Mission SEHAT is to convert agricultural progress into measurable health outcomes for the people of India.
+  - It seeks to build a framework for **“Healthy Food, Healthy Farms and a Healthy India”** by bringing together agricultural science, nutrition research and public health policy.
+
+[u0484] Ch5 · Takeda’s TAK-003 (Qdenga)
+  context: C. Body and Health Related Scientific Activities · PDF p. 132
+  Recently CDSCO’s subject expert committee recommended Takeda’s TAK-003 (Qdenga), its first dengue vaccine, cleared by the Subject Expert Committee (SEC) under the Drugs Controller General of India (DCGI) for individuals aged 4 to 60 years marking a historic shift from reactive vector control to preventive public health strategy.
+  - India’s dengue control strategy is entering a vaccine-assisted phase. The official NCVBDC table now records 2,89,235 cases and 485 deaths in 2023, 2,33,519 cases and 297 deaths in 2024, 1,21,824 cases and 131 deaths in 2025, and 6,927 cases with 10 deaths provisionally till 28 February 2026.
+  **TAK-003(Qdenga)**
+  - TAK-003(Qdenga), is a live-attenuated vaccine containing weakened versions of dengue virus serotypes 1, 2, 3 and 4 developed by Takeda Pharma (A Japanese pharmaceutical company).
+  - TAK-003 uses the DENV2 strain as the genomic backbone.
+  - The vaccine schedule is a 2-dose series three months apart, given to specific age groups and in specific circumstances according to WHO recommendations.
+
+[u0485] Ch5 · SAHI & BODH Health AI Initiatives
+  context: C. Body and Health Related Scientific Activities · PDF p. 132, 133
+  India has taken an important step in digital health governance with the launch of two new initiatives on 17 February 2026 at the India AI Impact Summit 2026 — SAHI (Strategy for Artificial Intelligence in Healthcare for India) and BODH (Benchmarking Open Data Platform for Health AI). These initiatives are meant to make the use of artificial intelligence in healthcare safe, ethical, evidence-based, transparent and inclusive.
+  **SAHI: a national framework for responsible Health AI**
+  - SAHI is a national guidance framework for the adoption of AI across India’s healthcare system. It gives strategic direction on governance, data stewardship, validation, deployment and monitoring of AI tools.
+  - An important feature of SAHI is that it is designed to create coordination between healthcare institutions, technology developers, researchers and policymakers.
+  **BODH: benchmarking and validation platform for Health AI**
+  - BODH has been developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority.
+  - It is a privacy-preserving benchmarking platform for Health AI. Its main role is to allow rigorous evaluation of AI models on diverse, anonymized real-world health data without sharing the underlying datasets.
+  **AI-Preneurs of India**
+  - On the same occasion, Atal Innovation Mission under NITI Aayog launched AI-Preneurs of India, a flagship coffee table book on India’s AI startup ecosystem.
+  - The book documents the journeys of 45 AI startups that are working on real-world problems.
+
+[u0486] Ch5 · India’s first state-funded Bio-Safety Level-4 (BSL-4) laboratory
+  context: C. Body and Health Related Scientific Activities · PDF p. 133
+  India is expanding its highest-level bio-containment capacity with a new Bio-Safety Level-4 (BSL-4) Bio-Containment Facility at the Gujarat Biotechnology Research Centre (GBRC), Gandhinagar. The foundation stone was laid on 13 January 2026 by Union Home Minister Amit Shah.
+  - The technical term “Bio-Safety Level 4) represents the highest level of biological containment.
+  - BSL-4 (Biosafety Level 4) facility is the maximum containment laboratory designed for studying the world’s most dangerous, often incurable pathogens (e.g., Ebola, Nipah, Marburg).
+  **Existing BSL-4 labs in India**
+  - Currently, there is only one civilian BSL-4 laboratory functional in India, located at the National Institute of Virology (NIV) in Pune, Maharashtra.
+
+[u0487] Ch5 · WHO Global Tuberculosis (TB) Report 2025
+  context: C. Body and Health Related Scientific Activities · PDF p. 133
+  Recently, WHO released the Global Tuberculosis Report 2025 on November 12, 2025, giving an updated assessment of the TB epidemic and response at global, regional and country levels based mainly on data up to 2024. Data from 184 countries and areas cover more than 99% of the world’s population and TB cases, giving the report very strong global representativeness.
+  - Tuberculosis (TB) is described as the **world’s leading cause of death from a single infectious agent**, and remains among the **top 10 causes of death worldwide**.
+  - TB is an **airborne, contagious** disease; since 2000, global efforts to combat TB have **saved an estimated 83 million lives**.
+  **Global TB Burden**
+  - In **2024**, an estimated **10.7 million people** developed TB, corresponding to **131 new cases per 100,000 population** worldwide.
+  - Top eight countries (≈ two-thirds of global TB burden):
+    · **India (25%),** Indonesia (10%), Philippines (6.8%), China (6.5%), Pakistan (6.3%), Nigeria (4.8%), Democratic Republic of the Congo (3.9%), Bangladesh (3.6%).
+  **TB Incidence in India**
+  - **TB incidence in India** has fallen by **21%**, from **237 per lakh population in 2015** to **187 per lakh population in 2024**, almost **double** the global decline of **12%**; this is described as one of the **highest declines** globally among high-burden countries.
+  - **TB mortality** in India (TB deaths in HIV-negative people) has reduced from **28 per lakh population in 2015** to **21 per lakh population in 2024**, with India achieving a **higher reduction** than the global reduction.
+  - India’s **treatment coverage** rose from **53% in 2015** to **over 92% in 2024**, ahead of global universal health coverage and other high-burden countries.
+  - In **2024**, **26.18 lakh TB patients** were diagnosed in India, out of an estimated **27 lakh** incident cases, reducing the “missing cases” from **15 lakh in 2015** to **less than one lakh in 2024**, with **no significant increase** in MDR-TB cases.
+
+[u0488] Ch5 · HPV Vaccination Drive for 14-Year-Old Girls
+  context: C. Body and Health Related Scientific Activities · PDF p. 133, 134
+  India launched the nationwide free HPV vaccination campaign on 28 February 2026 from Ajmer, Rajasthan. It targets 14-year-old girls across all 36 States and Union Territories. After the national launch, States and UTs also held their own rollout events. The campaign is aimed at reducing the future burden of cervical cancer through early prevention. Around 1.2 crore girls are expected to benefit every year.
+  - Cervical cancer remains a major women’s health challenge. WHO says it is largely preventable through HPV vaccination and regular screening.
+  - As per WHO fact sheet dated **July 3, 2026** Globally, it was the fifth most common cancer among women in 2024, with about 6,04,000 new cases and 2,80,000 deaths.
+  - In India, IARC-GLOBOCAN 2022 recorded 127,526 new cases and 79,906 deaths, making cervical cancer the second most common cancer among Indian women. GLOBOCAN 2024 India sheet estimates 79,360 new cases and 36,319 death.
+  **Target Population and Coverage:**
+  - The campaign will cover girls aged 14 years.
+  - As per Registrar General of India (RGI) 2021 estimates, the annual cohort of 14-year-old girls is approximately 1.2 crore, who are expected to benefit from this initiative each year.
+  **Key Features:**
+  - **Vaccination Duration:** three months (90 days) in campaign mode (as on September 11, 2026).
+  - After completion of the campaign phase, the HPV vaccine will be available on routine immunization session days.
+  - **Dose & Administration:** Single dose (0.5 ml) Intramuscular (IM) injection in the left upper arm
+  - Vaccination is voluntary, free of cost and will be administered only after parental/guardian consent.
+  - Beneficiaries may pre-register and schedule appointments on the U-WIN digital platform.
+  - The U-WIN platform will be used for session planning, registration, recording and reporting, while the e-VIN portal will manage vaccine stocks and logistics.
+
+[u0489] Ch5 · Malaria Vaccine: AdFalciVax
+  context: C. Body and Health Related Scientific Activities · PDF p. 134
+  - The **Regional Medical Research Centre (RMRC), Bhubaneswar,** of the **Indian Council of Medical Research (ICMR),** has developed a recombinant **multi-stage malaria vaccine candidate named AdFalciVax**.
+    · Its objective is to prevent **individual infection against Plasmodium falciparum** and to reduce **community-level transmission**.
+    · As of **June 17, 2026**, this technology has been **licensed to five Indian companies**, while it is still in the **preclinical stage (TRL 4)** and is **not approved for clinical use**.
+    · This vaccine candidate has **not yet been approved for clinical use**; hence, the timeline assessment will depend on regulatory progress.
+  - Currently, **WHO-recommended vaccines— RTS,S/AS01 (Mosquirix) and R21/Matrix-M— are available for widespread use in children**; both have received **WHO prequalification**.
+  - **AdFalciVax** has very high stability. It remains effective for up to **12 months at normal room temperature**.
+    · This eliminates the need for expensive **cold chain logistics**, which is a major challenge for vaccination campaigns in **remote and resource-limited areas**.
+  - The estimated **production cost of this vaccine is only** ₹**20 per dose**, compared to existing vaccines that cost **between** ₹**250 and** ₹**830 per dose**.
+    · This makes it extremely **cost-effective for large-scale immunization programs**.
+  - India aims to achieve zero indigenous malaria cases by 2027 and full elimination by 2030.
+
+[u0490] Ch5 · Ahuti Mk II
+  context: D. Defence · PDF p. 134
+  Ahuti Mk II is an electric multirotor interceptor developed by Hyderabad-based Apollyon Dynamics, a defence technology startup from the BITS Pilani Hyderabad Campus ecosystem. It gained national recognition after achieving a recorded test speed of 498 km/h. The development is relevant to India’s indigenous counter-drone capabilities and the role of academic incubation in defence innovation.
+  - The record was confirmed on 29 August 2026; the entry was published on 1 September 2026.
+  - According to Apollyon Dynamics, the speed exceeded the previous recorded benchmark of 325 km/h. The difference is 173 km/h.
+  - The manufacturer distinguishes the 498 km/h speed achieved by its developmental test platform from the approximately 400 km/h operational speed band targeted for production interceptors.
+  **Apollyon Dynamics and Its Founders**
+  - Apollyon Dynamics was founded by Jayant Khatri and Sourya Choudhury. The startup’s early development received support through the BITS Pilani SOLVE programme, under which Khatri’s undergraduate work received a prototype grant of ₹2 lakh.
+
+[u0491] Ch5 · DRDO develops indigenous GaN technology
+  context: D. Defence · PDF p. 134, 135
+  On May 13, 2026, SAMEER and ISRO’s ISTRAC agreed to develop X-band deep-space communication amplifiers using indigenous GaN chips from GAETEC, DRDO.
+  - Gallium Nitride (GaN) is a semiconductor technology suitable for high-frequency and high-power applications.
+  - A single indigenous GaN chip measuring 3.5 × 3 mm can deliver up to 30 watts of power and reportedly operate at speeds 300 times faster than silicon.
+  - The Solid State Physics Laboratory (SSPL) of DRDO has developed indigenous processes for manufacturing 4-inch Silicon Carbide (SiC) wafers.
+  - SSPL has fabricated GaN HEMTs with power capabilities up to 150 watts and MMICs up to 40 watts for applications up to X-band frequencies.
+  - Limited production capability for indigenous GaN-on-SiC MMICs has been established at GAETEC, Hyderabad.
+  - Under the Innovations for Defence Excellence (iDEX) initiative, a contract was signed with Agnit Semiconductors Private Limited to develop advanced GaN semiconductors for next-generation defence wireless transmitters.
+  **Applications and Strategic Significance**
+  - GaN technology is used in radars, electronic warfare systems, communications, intelligence, surveillance, reconnaissance (ISR) and unmanned systems.
+  - Its high power, high frequency and compact size make it suitable for radar transmitters and electronic warfare jammers.
+  - GaN-on-SiC technology offers higher efficiency, reduced size and weight, and improved performance.
+  - Multifunctional MMICs have applications in strategic systems, space, aerospace, 5G and satellite communications.
+
+[u0493] Ch5 · India’s first indigenous long-range attack drone KAL
+  context: D. Defence · PDF p. 135
+  IG Defence, a private defence technology company headquartered in Noida, has announced the successful flight trial of its indigenously developed KAL drone at the Pokhran Field Firing Range in Rajasthan. KAL is a long-range one-way attack system designed for autonomous strike missions. Its development is relevant to India’s efforts to build domestic capabilities in unmanned defence technology.
+  **KAL Technical Specifications and Navigation Terms**
+  | **Parameter** | **Manufacturer declared specification** |
+  | Range | Up to 1,000 km |
+  | Endurance | 7-8 hours |
+  | Maximum take-off weight | 200 kg |
+  | Payload configuration | 50 kg high-explosive warhead |
+  | Speed | Cruise 160 km/h; maximum 200 km/h |
+  | Operating altitude | Up to 5,000 m above mean sea level (AMSL) |
+  | Operating temperature | -20 degrees C to +60 degrees C |
+  | Launch and deployment | Rocket-assisted take-off or vehicle take-off |
+
+[u0492] Ch5 · INS Mangrol
+  context: D. Defence · PDF p. 135
+  INS Mangrol, the third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC) built by Cochin Shipyard Limited (CSL), Kochi, was commissioned into the Indian Navy on 12 October 2026 at Naval Dockyard, Mumbai. The commissioning ceremony was presided over by Vice Admiral Sanjay Vatsayan, Flag Officer Commanding-in-Chief, Western Naval Command. The vessel is named after Mangrol, a coastal town and fishing harbour in the Junagadh district of Gujarat. It carries forward the legacy of the former INS Mangrol (M85), a minesweeper that served the Indian Navy until **April 7, 2004.**
+  **Key Highlights**
+  **Indigenous Development and Technical Features**
+  - Built under the Make in India and Aatmanirbhar Bharat initiatives, INS Mangrol contains over 80% indigenous content.
+  - The vessel is equipped with advanced weapons and sensors, including:
+    · Abhay Hull-Mounted Sonar
+    · Lightweight torpedoes
+    · Indigenous anti-submarine rocket launcher
+    · Maareech Advanced Torpedo Decoy System
+  - Powered by three diesel engines with waterjet propulsion, the vessel offers high manoeuvrability in shallow waters.
+  - It is designed for underwater surveillance, anti-submarine warfare, low-intensity maritime operations and mine warfare-related tasks.
+  **Mahe Class and the ASW SWC Programme**
+  - The overall ASW-SWC programme comprises 16 vessels: eight contracted to CSL, Kochi, and eight to Garden Reach Shipbuilders and Engineers (GRSE), Kolkata.
+  - INS Mangrol is the third vessel in CSL’s eight-ship Mahe-class series. INS Mahe and INS Malvan were commissioned before it.
+  - The Mahe class is intended to replace the Abhay-class ASW corvettes.
+  - CSL’s construction contract was signed on 30 April 2019.
+  - The class has a maximum speed of 25 knots and an endurance of 1,800 nautical miles.
+  | **Order** | **Ship** | **Commissioning Date** | **Location** |
+  | 1st | INS Mahe | 24 November 2025 | Mumbai |
+  | 2nd | INS Malvan | 22 July 2026 | Karwar |
+  | 3rd | INS Mangrol | 12 October 2026 | Mumbai |
+
+[u0494] Ch5 · India’s First Indigenous 350 kg-Thrust-Class Expendable Turbojet Engine
+  context: D. Defence · PDF p. 135, 136
+  The first indigenous Expendable Turbo Jet Engine of 350 kg thrust class, designed by DRDO’s Gas Turbine Research Establishment (GTRE), has been successfully developed. GTRE had identified Azad Engineering, Hyderabad as Industry partner for the manufacturing and assembly of the engine. On July 22, 2026, the engine was successfully realised and delivered to GTRE by Azad Engineering, a landmark achievement for India’s aerospace and defence ecosystem. The delivery marks the culmination of years of precision engineering, advanced manufacturing, and close partnership between India’s scientific & industrial communities.
+  **Key Highlights**
+  - **The achievement demonstrates:**
+    · Indian capability to manufacture and integrate a complex propulsion system from an indigenous design.
+    · Increasing cooperation between DRDO laboratories and private manufacturers.
+    · Progress in precision engineering, advanced metallurgy and thermal management.
+    · The possibility of reducing dependence on imported compact propulsion systems after successful testing and production approval.
+
+[u0495] Ch5 · IOL launches ‘GARUD
+  context: D. Defence · PDF p. 136
+  India Optel Limited (IOL), a Mini Ratna Category-I Defence Public Sector Undertaking under the Department of Defence Production, launched the indigenous ‘GARUD’ High Resolution Binoculars for the civilian market on **August 13, 2026** at DPSU Bhawan, New Delhi. The product was launched in the presence of Joint Secretary (Land Systems) Dr Garima Bhagat.
+  **Key Highlights**
+  - GARUD has been developed and manufactured by Ordnance Factory, Dehradun, a unit of India Optel Limited.
+  **Key Features and Specifications**
+  - GARUD is designed to provide defence-grade optical performance for civilian users. Its major features include:
+    · 8x magnification
+    · 7.6-degree wide field of view
+    · ±5 diopter adjustment for different eyesight requirements
+    · Weight of approximately 610 grams
+
+[u0496] Ch5 · India’s first privately built FFSC rocket engine
+  context: D. Defence · PDF p. 136
+  On **August 7, 2026,** Bengaluru-based Astrobase Space Technologies unveiled EVEREST, which it describes as India’s first fully integrated, privately developed Full-Flow Staged Combustion (FFSC) rocket engine. As of **August 22, 2026,** full-scale integrated hot-fire testing remained pending, so reported performance figures were company-stated design targets.
+  **Key Highlights**
+  - **High Thrust FFSC Rocket Engines –** FFSC engines route fuel and oxidiser through separate pre-burners before the main combustion chamber. Gases produced drive turbines connected to pumps and then enter the chamber, ensuring that propellants contribute to thrust instead of being released into the atmosphere.
+  - **Efficiency and Reusability –** Unlike conventional engines, which use only part of the propellants to drive turbopumps, FFSC engines improve turbopump and propulsion efficiency. They support precise throttle control and reusable launch systems. LOX-methane propellants provide cleaner combustion, which can simplify refurbishment and support faster turnaround. However, the cycle is complex to design, develop and execute.
+  - **Significance of EVEREST –** EVEREST is presented as India’s first LOX-methane high-thrust engine and the fourth commercial FFSC development globally, after SpaceX, Stoke Space and LandSpace. It could support reusable launches carrying up to 30 tonnes to low Earth orbit and provide a medium-lift platform for commercial and strategic missions. Advanced manufacturing includes India’s largest industrial 3D printer.
+
+[u0497] Ch5 · The Indian Navy launched Machilipatnam
+  context: D. Defence · PDF p. 136, 137
+  Cochin Shipyard Limited launched Machilipatnam (BY 529), the seventh vessel in its eight-ship Mahe-class programme, at Kochi on **July 29, 2026.** An Anti-Submarine Warfare Shallow Water Craft is a compact warship designed to detect, track and counter underwater threats near the coast. Its small draught and specialised sensors make it suitable for littoral and shallow-water operations.
+  **Key Highlights**
+  - Machilipatnam was launched by Mrs Goolrukh Anand in the presence of Vice Admiral Atul Anand, Additional Secretary, Department of Military Affairs.
+  - It is named after Machilipatnam, the historic port city and headquarters of Krishna district in Andhra Pradesh.
+  - Its principal roles will include coastal anti-submarine warfare, underwater surveillance, Low-Intensity Maritime Operations and mine-laying operations.
+  - It will strengthen coastal defence, littoral security and Maritime Domain Awareness after commissioning.
+  - The project incorporates more than 80% indigenous content and supports Aatmanirbhar Bharat in naval shipbuilding.
+  **Project Background**
+  - The Ministry of Defence and CSL signed the contract for eight vessels on **April 30, 2019.**
+  - The broader procurement programme consists of 16 ASW SWCs—eight Mahe-class vessels from CSL, Kochi, and eight Arnala-class vessels from GRSE, Kolkata.
+  - Official sources describe the Arnala class as replacing the ageing Abhay-class corvettes and the Mahe class as a parallel CSL-built class. For examinations, it is safest to connect the Abhay-class replacement with the wider 16-vessel ASW-SWC programme.
+  - **Mangrol –** Delivered on **August 21, 2026,** commissioned on **October 12, 2026.**
+  - **Machilipatnam –** Launched on 29 July 2026; not delivered or commissioned
+  - “Seventh” denotes Machilipatnam’s construction position within CSL’s series. It does not mean that it is the seventh commissioned vessel.
+
+[u0498] Ch5 · INS Malvan commissioned into Indian Navy
+  context: D. Defence · PDF p. 137
+  INS Malvan, the second of the indigenously designed and built Mahe-class Anti-Submarine Warfare Shallow Water Craft (ASW-SWC), was commissioned at Karwar on **July 22, 2026.** The ship carries deep historical and cultural significance as it derives its name from the historical coastal town of Malvan in Maharashtra, a region intrinsically linked to the illustrious maritime heritage of Chhatrapati Shivaji Maharaj.
+  **Key Highlights**
+  - **INS Malvan is the second of eight ASW-SWCs, being indigenously built by CSL, Kochi,** and the sixth of 16 ASW-SWCs to be commissioned into Indian Navy.
+  - With over 80 percent indigenous content, the ship reinforces the Government of India’s vision of Aatmanirbhar Bharat and India’s expanding ecosystem of naval design, equipment, system integration, and growing self-reliance in defence shipbuilding.
+  - The crest of INS Malvan carries the ‘Bagh Nakha’ (Tiger’s Claw), symbolising bravery, warfare tactics, agility, and audacity, resonating with the ship’s ethos to attack rapidly and strike silently.
+  - The waves surrounding ‘Bagh Nakha’ reflect the vast sea surrounding the coasts and the Indian Navy’s unwavering resolve to remain ever vigilant, ever ready, and steadfast in safeguarding the nation’s seas and sovereignty.
+  - The ship’s motto, ‘Silent Claws’, embodies lethality, stealth, and the ability to strike the adversary swiftly.
+
+[u0499] Ch5 · Garudastra Mortar System
+  context: D. Defence · PDF p. 137
+  Recently on **June 17, 2026**, Pune-based defence manufacturer **Nibe Limited** demonstrated **Garudastra**, an advanced long-range 120 mm vehicle-mounted mortar and bomb system, to the Indian Army at the **Infantry School, Mhow**. The demonstration was conducted on a **No Cost–No Commitment (NC-NC)** basis. According to Nibe’s official stock-exchange filing, the system was presented in technical collaboration with a foreign original equipment manufacturer, or OEM.
+  **Key Highlights**
+  - Garudastra is a **120 mm mortar mounted on a mobile vehicle platform**. It is intended to provide a combination of:
+    · rapid battlefield mobility;
+    · high-volume firepower;
+    · quick deployment and withdrawal;
+
+[u0500] Ch5 · ICGS Akshay Commissioned into Bharatiya Tatrakshak Fleet
+  context: D. Defence · PDF p. 137
+  Bharatiya Tatrakshak marked another milestone in its force modernisation with the commissioning of ICGS Akshay, a new-generation Fast Patrol Vessel (FPV), at Goa Shipyard Limited, Goa, on June 27, 2026.Named Akshay, meaning **Indestructible**, the Fast Patrol Vessel embodies the enduring spirit, resilience and unwavering commitment of Bharatiya Tatrakshak towards safeguarding the nation’s maritime interests.
+  **Key Highlights**
+  - The vessel is equipped to undertake a wide range of Coast Guard operations, including maritime law enforcement, coastal security, search and rescue, marine environmental protection and assistance to mariners in distress, thereby enhancing the operational capability of Bharatiya Tatrakshak.
+  - Designed and constructed by Goa Shipyard Limited, ICGS Akshay is another significant achievement in indigenous shipbuilding and reflects the Government’s commitment to Aatmanirbhar Bharat.
+
+[u0501] Ch5 · I-2SEA Submarine Cable System Unveiled
+  context: D. Defence · PDF p. 137, 138
+  A consortium comprising Microsoft, Singtel, Tata Communications and AI connectivity platform Lightstorm will build the I-2SEA (“India- Southeast Asia) submarine cable system connecting India, Malaysia and Singapore. Lightstorm announced the signing of contracts to launch the construction of the cable system on July 2, 2026. The facility is designed to cater to the rapidly growing demand from hyperscalers, GPU infrastructure providers and enterprises running AI training and inference workloads across the India– Southeast Asia corridor.
+  **Key Highlights**
+  - The I-2SEA consortium will operate under a joint build agreement.
+  - NEC Corporation has been appointed as the system supplier and ASEAN Cableship as the marine installation partner. The system is open for capacity commitments.
+  **Route, Landing Stations and Connectivity**
+  - I-2SEA will link India’s east coast, which is home to the rapidly growing AI and hyperscaler data centre clusters in Hyderabad and Chennai, directly to Singapore, the region’s cloud interconnect and AI hub, and Malaysia’s emerging data centre corridor in Kuala Lumpur.
+  - The system will have dual landings in India.
+  - The landing at Machilipatnam will provide the shortest subsea access to Hyderabad, while the other landing will be located at a new and diverse location in South Chennai.
+  - The estimated length of the high-capacity cable will be 3,600 km from Singapore to Machilipatnam, with onward connectivity to Hyderabad.
+  - It is expected to deliver the fastest transmission on the Singapore–Malaysia–Hyderabad corridor, which is the most strategically critical city pair for AI workloads in the region.
+
+[u0502] Ch5 · India Becomes World’s Top Ship Recycling Nation in 2025
+  context: D. Defence · PDF p. 138
+  India emerged as the world’s leading ship-recycling nation in 2025, achieving an important target of the **Maritime India Vision 2030** five years ahead of schedule. According to the latest data of the United Nations Conference on Trade and Development (UNCTAD), cited by the Ministry of Ports, Shipping and Waterways on 22 June 2026, India accounted for **35.4% of global ship recycling in 2025.**
+  **Key Highlights**
+  - Ship recycling involves dismantling vessels that have reached the end of their operational lives and recovering reusable materials such as steel, machinery and equipment.
+  | **Indicator** | **2024** | **2025** |
+  | India’s share in global ship recycling | 30.1% | 35.4% |
+  | Volume of ships recycled | 1.86 million GT | 2.99 million GT |
+  | Annual growth in recycling volume | — | Nearly 60% |
+
+[u0503] Ch5 · ‘INS Mahendragiri’
+  context: D. Defence · PDF p. 138
+  The Indian Navy commissioned the indigenously built advanced stealth frigate **INS Mahendragiri** into its Eastern Fleet at Visakhapatnam, Andhra Pradesh, on **July 11, 2026.** INS Mahendragiri is the sixth Project 17A stealth frigate commissioned within approximately 18 months. Its induction represents an important milestone in India’s efforts to build a technologically advanced, combat-ready and self-reliant Navy.
+  - Named after the Mahendragiri mountain range in the Eastern Ghats, INS Mahendragiri symbolises strength, steadfastness and indomitable resolve, and bears the motto ‘Mighty, Majestic, Matchless’.
+  **Design, Operational Capabilities and Specifications**
+  - Designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited (MDL), Mumbai.
+  - The warship, with over 75 percent indigenous content, has a displacement of approximately 6,670 tonnes and the capability to reach speeds of up to 28 knots.
+  **Project 17A**
+  - Project 17A is the follow-on to the Project 17 or Shivalik-class frigates. The new ships possess improved stealth, automation, sensors, weapons, survivability and platform-management systems.
+  - The project covers seven next-generation guided-missile frigates—four built by Mazagon Dock Shipbuilders Limited (MDL), Mumbai, and three by Garden Reach Shipbuilders and Engineers Limited (GRSE), Kolkata.
+  - INS Mahendragiri belongs to the Nilgiri class of Project 17A frigates.
+  - INS Mahendragiri is the fourth Project 17A frigate built by MDL.
+  - The seventh ship, Vindhyagiri, was still under construction at the time of Mahendragiri’s commissioning.
+  - **Commissioning sequence I. INS Nilgiri** – January 2025 **II. INS Udaygiri** – August 2025 **III. INS Himgiri** – August 2025 **IV. INS Taragiri** – April 2026 **V. INS Dunagiri** – June 2026 **VI. INS Mahendragiri** – July 2026
+
+[u0504] Ch5 · First EXIM shipping container manufactured in India
+  context: D. Defence · PDF p. 138
+  Recently on **July 3, 2026,** Union Minister of Ports, Shipping and Waterways Sarbananda Sonowal unveiled the first export-import (EXIM) shipping container manufactured in India for global shipping company A.P. Moller–Maersk. The container was unveiled at the Maersk–Container Corporation of India (CONCOR) Inland Container Depot in Dadri, Uttar Pradesh.
+  - The first commercially procured India-made export container was rolled out 16 months after Prime Minister Narendra Modi met A.P. Moller–Maersk Chairman Robert Maersk Uggla in February 2025.
+  - The initiative is supported by the ₹10,000-crore Container Manufacturing Promotion Scheme announced in the Union Budget 2026–27.
+  - The government plans to increase India’s annual container-manufacturing capacity nearly tenfold to around 7.5 lakh TEUs.
+  **ICGS ACHAL Commissions in Indian Coast Guard**
+  - The commissioning of **Indian Coast Guard Ship ICGS Achal** is an important step in strengthening India’s maritime security and coastal surveillance capability. The vessel was commissioned on **May 09, 2026** at **Goa Shipyard Limited**. It is the **new-generation Adamya-class Fast Patrol Vessel series** of the Indian Coast Guard.
+  - **ICGS Achal** has been named from the word **“Achal”**, meaning **“firm”**.
+  - Designed and built indigenously by M/s Goa Shipyard Limited, it represents a significant milestone in India’s shipbuilding capabilities.
+
+[u0505] Ch5 · India’s 1st Indigenous Glide Weapon TARA
+  context: D. Defence · PDF p. 139
+  India has taken an important step in indigenous defence technology with the successful maiden flight-trial of **Tactical Advanced Range Augmentation (TARA)**. The trial was conducted jointly by the **Defence Research and Development Organisation (DRDO)** and the **Indian Air Force (IAF)** off the coast of Odisha on **7 May 2026**. TARA is a **modular range extension kit** and has been described as **India’s first indigenous glide weapon system** for converting unguided war heads into precision guided weapon.
+  **About TARA**
+  - TARA stands for Tactical Advanced Range Augmentation. It is a weapon kit designed to convert unguided warheads into precision-guided weapons.
+  **Objective of the System**
+  - The main purpose of TARA is to improve the combat value of low-cost aerial weapons.
+  - TARA has been designed and developed by Research Centre Imarat (RCI), Hyderabad, along with other DRDO laboratories.
+
+[u0506] Ch5 · Oreshnik Ballistic Missile
+  context: D. Defence · PDF p. 139
+  - Recently, on Sunday (May 24, 2026) that Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv. Oreshnik means “Hazel Tree”, based on its appearance when its multiple warheads fall to Earth in streaks of fiery light. The Ukrainians called the first one fired the “Kedr” – Cedar.
+  - It is likely a Intermediate-range ballistic missile, with its use so far indicating a range of 3,000 to 5,000 km.
+
+[u0507] Ch5 · Delivery of Malwan
+  context: D. Defence · PDF p. 139
+  The Indian Navy received **‘Malwan’**, an Anti-Submarine Warfare Shallow Water Craft, from **Cochin Shipyard Limited (CSL), Kochi**, on **March 31, 2026**.
+  - Malwan belongs to the **Mahe-class ASW Shallow Water Craft project** being executed by CSL for the Indian Navy.
+  - The broader ASW SWC programme is aimed at improving India’s capability to detect, track and counter submarines and other underwater threats in littoral, or near-shore, waters.
+  **Naming and Maritime Heritage**
+  - The vessel is named after **Malwan**, a historic coastal town in Maharashtra. CSL has specified that Malwan is located in **Sindhudurg district**.
+  - The name also reflects the maritime legacy associated with **Chhatrapati Shivaji Maharaj**.
+
+[u0508] Ch5 · Delivery of AGRAY
+  context: D. Defence · PDF p. 139
+  On **March 30, 2026,** Agray, the fourth of eight Anti-Submarine Warfare Shallow Water Craft (ASW SWC) being built by Garden Reach Shipbuilders and Engineers Ltd. (GRSE), Kolkata, was delivered to the Indian Navy at Kolkata.
+  **Agray: Design and Construction**
+  - Agray has been **indigenously designed and built by GRSE, Kolkata**.
+  - The ship is around **77 metres** long and belongs to a class of vessels described by the Indian Navy as the **largest Indian Naval warships propelled by waterjets**.
+  - **Sanshodhak — Survey Vessel Large** – GRSE also delivered **Sanshodhak**, the **fourth and final Survey Vessel (Large)** of its class. It is designed for full-scale coastal and deep-water hydrographic surveys, including surveys of ports, harbour approaches, navigation channels and maritime routes.
+
+[u0509] Ch5 · Intermediate Range Ballistic Missile ‘Agni-III’
+  context: D. Defence · PDF p. 139
+  Agni-III is an important part of India’s strategic deterrence system. On **February 6, 2026,** India successfully test-fired Agni-III from the Integrated Test Range, Chandipur, Odisha.
+  - With this test, the Agni series of missiles continues to strengthen India’s strategic capabilities. The series includes Agni-1 with a range of 700 km, Agni-2 with a range of 2,000 km, Agni-3 with a range of 3,000 km, Agni-4 capable of striking targets up to 4,000 km, and Agni-5, which has the longest striking range of 5,000 km.
+  **What is Agni 3 and why its success matters for India**
+  - The Agni-3 is an indigenous, two-stage, solid-fuelled intermediate-range ballistic missile, featuring a strike range of more than 3000 km and 1.5-tonne payload capacity.
+  **Launch of the First Cadet Training Ship ‘Krishna’**
+  - The launch of the first Cadet Training Ship, Krishna, is an important development for the Indian Navy. It strengthens India’s sea-training capacity for future officers and also reflects the wider national push toward indigenous defence production under Aatmanirbhar Bharat and Make in India.
+  - Yard 18003 (Krishna), **the first of the three** Cadet Training Ships (CTS) under construction at M/s L&T, Kattupalli (Chennai), has been launched on **16 Feb 2026**.
+
+[u0510] Ch5 · INS Aridaman
+  context: D. Defence · PDF p. 139, 140
+  India’s reported induction of its third nuclear-powered ballistic missile submarine, **INS Aridhaman/** **Aridaman**, and the official commissioning of the stealth frigate **INS Taragiri** at Visakhapatnam mark an important step in India’s naval modernisation.
+  - A larger 7,000-tonne vessel, INS Aridaman will carry more K-15 missiles, as well as the intermediate-range K-4 nuclear-capable submarine-launched ballistic missiles (SLBMs) – with nearly double the number of VLS tubes than its predecessors – that can hit targets 3,500 km away.
+
+[u0511] Ch5 · Indigenous Pilot trainer Aircraft ‘HANSA-3 NG”,
+  context: D. Defence · PDF p. 140
+  The CSIR–National Aerospace Laboratories (CSIR-NAL), Bengaluru, showcased a major step from “lab-to-market” by launching the production version of the indigenous HANSA 3 (NG) trainer aircraft, alongside multiple aerospace initiatives aimed at strengthening India’s civil and defence aviation ecosystem.
+  - Union Minister of State (Independent Charge) for Science and Technology Dr. Jitendra Singh on November 29, 2025 launched the production version of India’s indigenous HANSA-3 NG pilot trainer aircraft at CSIR–National Aerospace Laboratories (NAL) in Bengaluru.
+  - The Hansa-3 has an all-composite airframe (as opposed to purely metal), and is designed to meet the expanding demand for PPL (Private Pilot Licence) and CPL (Commercial Pilot Licence) training.
+  - First designed and developed by the CSIR-NAL in the early 1990s, the latest iteration of the HANSA-3 has undergone significant upgrades.
+
+[u0512] Ch5 · Dhvani: Hypersonic Missile
+  context: D. Defence · PDF p. 140
+  India’s Defence Research and Development Organisation (DRDO) is developing the **‘Dhvani’ Hypersonic Missile** under its advanced hypersonic weapons program. This is a next-generation missile system designed as a **Hypersonic Glide Vehicle (HGV)**, capable of performing **sharp maneuvers at high altitudes** at speeds exceeding **Mach 5 (more than 7,400 km/h)**.
+  - **Dhvani** is a Hypersonic Glide Vehicle (HGV) capable of high-speed changes in direction while traveling at hypersonic speeds at high altitudes.
+    · The missile’s potential **operational range** is **6,000 to 10,000 kilometers**, which could nearly **double** the reach of India’s Agni-V Intercontinental Ballistic Missile (ICBM).
+  - The missile’s **speed** is **greater than Mach 5**, making its **interception** by current missile defense systems virtually impossible.
+
+[u0514] Ch5 · ‘Saksham’ Counter-Unmanned Aerial System (C-UAS) Grid System
+  context: D. Defence · PDF p. 140
+  The Indian Army has initiated the procurement of the indigenously developed **‘Saksham’ Counter Unmanned Aerial System (C-UAS) Grid System** to strengthen its operational readiness against emerging aerial threats.
+  - **SAKSHAM** stands for **S**ituational **A**wareness for **K**inetic **S**oft and **H**ard Kill **A**ssets **M**anagement.
+  - It is an indigenously developed Counter-Unmanned Aerial System (C-UAS) grid system, developed by **Bharat Electronics Limited (BEL)**.
+  - **Its Objectives are:**
+    · To detect, track, identify, and neutralize enemy drones, quadcopter drones, and Unmanned Aerial Systems (UAS) in **real-time** in border areas.
+
+[u0513] Ch5 · Global Fintech Fest 2026
+  context: E. Miscellaneous · PDF p. 140, 141
+  India is reshaping the global fintech landscape through scale, innovation and Digital Public Infrastructure (DPI). The introduction of Aadhaar, expansion of internet connectivity and development of Unified Payments Interface (UPI) transformed financial services. These innovations enabled digital identity, instant payments and consent-based data sharing at population scale.
+  - This transformation has positioned India as a global centre for fintech innovation and digital finance. The **Global Fintech Fest (GFF) 2026** reflects India’s growing global influence in this sector. **The 7th edition of GFF was held in Mumbai from 8 to 11 September 2026**. It provides a platform for global dialogue, collaboration and innovation in financial technology.
+  - Since its inception in 2020, GFF has grown into one of the world’s leading fintech gatherings.
+  **GFF 2026 - Powering the Next Wave of Financial Innovation**
+  - The 7th Global Fintech Fest 2026 is far more than a conference. It is the world’s largest fintech festival, uniting the brightest minds to shape an AI-powered future.
+  **Global Fintech Fest - Theme**
+  - The theme of GFF 2026 is “**Potential to Impact: Agentic AI | Tokenisation | Quantum: Trusted, Connected, Global Systems for Inclusive Finance.”**
+  - It is built upon three foundational technologies that are shifting the landscape of global finance toward autonomous, programmable, and secure ecosystems.
+  - **Agentic AI**: It enables financial systems to sense, decide, and act in real time within strong governance frameworks.
+  - **Tokenisation**: It transforms assets into programmable digital units, enabling fractional ownership, instant settlement, and interoperable money.
+  - **Quantum**: Quantum technologies introduce a foundational shift in computation and security.
+  **Understanding Fintech**
+  - FinTech is generally described as an industry that leverages technology to make financial systems and the delivery of financial services more efficient.
+
+[u0515] Ch5 · Indian Telecom Services Performance Indicator Report 2026
+  context: E. Miscellaneous · PDF p. 141
+  The Telecom Regulatory Authority of India (TRAI) on **October 12, 2026** has released the “Indian Telecom Services Performance Indicator Report” for the quarter ending 30th June 2026 details of services in India for the period covering 1st April 2026 to 30th June 2026 compiled mainly on the basis of information furnished by the Service Providers.
+  **Internet Access and Data Use**
+  - Internet subscriptions rose from 1,092.79 million in March 2026 to 1,114.17 million in June 2026, an increase of 1.96%.
+  - Broadband subscriptions increased by 2.03% to 1,087.50 million, while narrowband subscriptions fell by 0.89% to 26.67 million.
+  - The internet base included 47.73 million wired connections and 1,066.43 million wireless connections. Mobile wireless access accounted for 94.07% of all internet subscriptions.
+  - Mobile data use rose by 8.30% to 84,424 petabytes (PB) during the quarter. Average monthly use per mobile data subscriber increased by 6.32% to 28.39 gigabytes (GB).
+  - Mobile data subscriptions reached 1,045.55 million, compared with 1,026.75 million in March.
+  - These rounded totals imply growth of about 1.83%, although the official summary states 1.86%.
+  **Telephone Connections**
+  - Total telephone subscriptions increased by 1.31% to 1,348.08 million. They were 10.65% higher than in June 2025.
+  - Overall tele-density rose from 93.26 to 94.31 connections per 100 people. The headline totals include Machine-to-Machine (M2M) cellular connections, which allow devices to communicate. Tele-density excluding M2M was 84.88.
+  - Wireless mobile and Fixed Wireless Access (FWA) connections together reached 1,300.25 million, up by 1.40%. Wireline subscriptions declined by 0.88% to 47.82 million. FWA uses a wireless link to serve a fixed location.
+  - Private operators held 92.50% of all telephone subscriptions, while public sector operators held 7.50%.
+  **The Urban and Rural Gap**
+  - Rural telephone subscriptions increased to 556.01 million, but their share of the national total fell from 41.47% to 41.24%.
+  - Urban subscriptions grew faster. The comparison below shows that the gap remained wide.
+  **Revenue and Usage**
+  - Monthly wireless Average Revenue per User (ARPU) rose by 1.19% to ₹187.12. Monthly Minutes of Usage (MOU) per subscriber fell by 2.65% to 933 minutes.
+  - Average revenue earned per GB of mobile data fell by 5.07% to ₹7.13. This is an operator revenue indicator, not a universal retail price for one GB.
+  - Access services contributed 83.85% of sector AGR. Licence fees increased by 2.41% to ₹7,103 crore.
+
+[u0516] Ch5 · Indigenous Micro Graphics Processing Unit at IIT Delhi
+  context: E. Miscellaneous · PDF p. 141
+  On **September 24, 2026,** IIT Delhi announced an indigenous micro-GPU for embedded devices. As of 13 October 2026, it has demonstrated the FPGA design, while ASIC development remains planned. A Graphics Processing Unit (GPU) is a specialised processor that renders images and handles many calculations in parallel. A micro-GPU is a compact graphics processor. This project targets embedded devices, which contain computers designed for specific functions.
+  **Key Highlights**
+  **Development and key features**
+  - M.Tech students Nammi Akash and M. Ravi Teja led the project under Prof. Jayadeva and Prof. Kaushik Saha of IIT Delhi’s Department of Electrical Engineering.
+  - The team demonstrated programmable graphics rendering using a custom floating-point GPU engine, implemented entirely in Register Transfer Language (RTL).
+  - The design was mapped to a Spartan-7 Field Programmable Gate Array (FPGA) and demonstrated on a standard development board. An FPGA is a chip whose logic can be programmed after manufacture.
+  - The processor is a scalable, programmable intellectual property (IP) design that can be adapted for different devices. It can run on an FPGA or be made as an Application-Specific Integrated Circuit (ASIC), a chip designed for a particular task.
+
+[u0517] Ch5 · NFI 2026 & Biovigilance Programme of India
+  context: E. Miscellaneous · PDF p. 142
+  Union Minister of State for Health & Family Welfare and Chemicals & Fertilizers, Smt. Anupriya Patel, on 21 September 2026 launched the 7th Edition of the National Formulary of India (NFI), the Guidance Document for Hospitals in India for Safety Monitoring and Reporting of Medical Device-Related Adverse Events, and the ADR-PvPI 2.0 Mobile App for iOS users at the 6th National Pharmacovigilance Week programme organised by the Indian Pharmacopoeia Commission (IPC) at Dr. Ambedkar International Centre, New Delhi. She also announced government approval of the Biovigilance Programme of India, extending safety monitoring to products used in organ and tissue transplantation.
+  **Key Highlights**
+  **Biovigilance Programme of India**
+  - The Government of India has approved the programme to strengthen the reporting, assessment, monitoring and prevention of adverse events associated with medicines and biological products used in organ and tissue transplantation.
+  - Its coverage includes products administered to both donors and recipients.
+
+[u0518] Ch5 · Cabinet approves scheme of Chemical Parks (BHAVYA Rasayan)
+  context: E. Miscellaneous · PDF p. 142
+  The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved **Bharat Audyogik Vikas Yojana Rasayan** or **BHAVYA - Rasayan Scheme** for establishing three dedicated Chemical Parks in the country. The Scheme was announced in the Union Budget of FY 2026–27.The Scheme will have a total financial outlay of **Rs.3,030 crore**, with Rs.3,000 crore towards meeting the cost of establishing the Common Infrastructure Facilities and Basic Utilities inside the park and Rs. 30 Crores as administrative expenditure. The scheme would run for a period of 5 years from FY 2026-27 to FY 2030-31.
+  **Key Highlights**
+  **Financial Assistance and Economic Benefits**
+  - Under this scheme central government would provide a grant of up to Rs.1,000 crore per park.
+  - This will be subject to minimum contribution of Rs.500 crore by the concerned State Government.
+  - BHAVYA Rasayan Scheme will promote development of the Chemical industry along the whole value chains including upstream, downstream and ancillary industries promoting efficient utilization of resources, leading to lower logistics cost.
+
+[u0519] Ch5 · India commissioned its first and deepest geothermal wells
+  context: E. Miscellaneous · PDF p. 142
+  The Ladakh administration has commissioned India’s first geothermal wells in the cold desert with two 1000-metre-deep wells at Puga Valley. It is a major step towards setting up India’s first-ever geothermal power plants in the region.
+  **Key Highlights**
+  - Established at an altitude of 14,000 feet, the two deep wells are expected to pave the way for a one-megawatt geothermal power plant in Ladakh.
+  - The project was inaugurated by VK Saxena, Lt Governor of Ladakh.
+  - “The two geothermal wells are critical for the successful implementation of the 1 MW pilot geothermal power project at Puga, which will be India’s first demonstration-scale geothermal power project.
+  - The maximum temperature of 135 degrees Celsius was recorded at a depth of 400 metres.
+  - This geothermal power project would act as a catalyst for Ladakh’s holistic development.
+
+[u0520] Ch5 · Bharat Electricity Summit 2026
+  context: E. Miscellaneous · PDF p. 142, 143
+  Over the past decade, India’s power sector has undergone a period of major structural change, transitioning to a system defined by adequacy, expanded capacity, and improved reliability.
+  - Bharat Electricity Summit 2026 was held from 19 to 22 March 2026 at Yashobhoomi, New Delhi.
+  - The Summit was a global conference-cum-exhibition for the power and electricity sector.
+  - It was held under the theme “Electrifying Growth. Empowering Sustainability. Connecting Globally.”
+  **The Summit was important for India’s long-term power-sector planning.**
+  - Two important reports were released at the Summit: the National Resource Adequacy Plan and the Transmission Plan for Integration of over 900 GW Non-Fossil Fuel Capacity by 2035–36.
+  - Transmission planning is necessary because renewable energy projects are often located far from major demand centres.
+  **India recorded major capacity expansion during FY 2025–26.**
+  - The figure of **52,537 MW** capacity addition belongs to the period **up to 31 January 2026**.
+  - For the completed FY 2025–26, official MNRE data state that **non-fossil capacity addition was 55.29 GW**, the highest increase in any year.
+  - In FY 2025–26, solar capacity addition reached **44.61 GW**, while wind capacity addition reached **6.05 GW**.
+  - As of 31 March 2026, India’s total installed power generation capacity was **5,32,740 MW**, or about **532.740 GW**.
+  - As of **March 31, 2026,** India’s total non-fossil capacity was **2,83,468 MW**, or about **283.468 GW**, forming **53.2%** of total installed capacity.
+  **The latest official renewable energy data show further growth after March 2026.**
+  - As of 31 May 2026, India’s total renewable energy capacity, including large hydro, was **282,745.08 MW**.
+  - As of 31 May 2026, India’s total non-fossil capacity was **291,525.08 MW**.
+  - Solar power remained the largest renewable segment, with cumulative solar capacity of **157.05 GW** as on May 31, 2026.
+  - Wind power capacity stood at **56,807.04 MW** as of 31 May 2026.
+  - The National Power Portal dashboard for June 2026 showed India’s total installed capacity at **548,848.48 MW**.
+  - In that classification, thermal capacity was **251,489.13 MW**, hydro capacity was **52,064.66 MW**, RES capacity excluding large hydro was **236,514.69 MW**, and nuclear capacity was **8,780 MW**.
+  **India’s transmission network has also expanded significantly**
+  - In January 2026, India’s national power transmission network crossed **5 lakh circuit kilometres** of transmission lines of 220 kV and above.
+  - At that milestone, transformation capacity reached **1,407 GVA**.
+  - The Ministry of Power described India’s grid as the **world’s largest synchronous national grid**.
+  - The milestone was linked to the vision of **“One Nation – One Grid – One Frequency.”**
+  - As per the National Power Portal data available for June 2026, India’s transmission network reached **509,603 ckm**, and transformation capacity reached **14,77,951 MVA**, or about **1,477.951 GVA**.
+  - Transmission expansion is important because India needs to evacuate and integrate large quantities of solar, wind, hydro and other non-fossil electricity into the national grid.
+  **India has moved close to power sufficiency.**
+  - In FY 2025–26, the country’s energy requirement was **17,07,493 MU**, while energy availability was **17,06,985 MU**.
+  - The energy deficit was only **0.03%** in FY 2025–26.
+  - The peak demand was **2,45,444 MW**, while maximum demand met was **2,45,416 MW**.
+  - The peak deficit was only **0.01%**, showing a very small gap between demand and supply.
+
+[u0521] Ch5 · Research Station: Approval for the Construction of Maitri II
+  context: E. Miscellaneous · PDF p. 143
+  India is now set to begin a new chapter on the world’s southernmost continent, Antarctica. According to a press release issued by the Ministry of Finance on October 4, 2025, approval has been granted for the construction of **‘Maitri II’**, which will be India’s proposed **fourth research station**, to be built in East Antarctica. The station is planned to be ready by 2032.
+  - India began research activities in Antarctica in the early 1980s.
+    · The first station, **‘Dakshin Gangotri’**, operated for a few years.
+  - Currently, India has two active stations—
+    · **Maitri** (since 1989),
+    · **Bharati** (since 2012).
+  - The Maitri station is situated on a 20 km long ice-free stretch of land called the **Schirmacher Oasis**.
+    · It is located at an altitude of approximately **50 meters** above sea level and about **100 km** inland from the coast.
+  - It is noteworthy that the project is being executed by the **National Centre for Polar and Ocean Research (NCPOR), Goa**.
+
+[u0522] Ch5 · News in Short
+  context: E. Miscellaneous · PDF p. 143
+  **India’s first national ship manufacturing heavy industry parka**
+  - The National Shipbuilding & Heavy Industries Park, Tamil Nadu (NSHIP, TN) has been established as the country’s first Special Purpose Vehicle (SPV) dedicated to developing a mega shipbuilding cluster.
+  **WAVES Animation Bazaar and 8th Edition of India Joy 2025**
+  - Recently, on November 1, 2025 WAVES Animation Bazaar and 8th edition of India Joy 2025, a two-day event dedicated to media and entertainment inaugurated in Hyderabad.
+  - The two-day event, being organised with support of Telangana government, the Telangana VFX, Animation and Gaming Association and the Union Ministry of I&B is dedicated to the creative economy across films, e-sports, VFX, animation, OTT, comics and other emerging digital entertainment sectors.
+  - The WAVES Bazaar platform aims to empower creators to monetise their work and accelerate industry growth, thus transforming craft to commerce.
+  **India International Science Festival (IISF), 2025**
+  - The 11th edition of IISF was held from December 6-9, 2025 in Panchkula, Haryana. This flagship event featured exhibitions, business-to-business meetings, competitions, and cultural programs that bridge the gap between laboratories and society.
+  - The theme of India International Science Festival (IISF) 2025 – **“Vigyan Se Samruddhi: for Atmanirbhar Bharat”** was to celebrate and advance the spirit of science-led growth for a self-reliant and prosperous India.
+
+[u1088] Ch10 · ACC Women’s T20 Asia Cup 2026
+  context: Cricket · PDF p. 221
+  - The women’s T20 Asia Cup 2026 was hosted in Dubai, U.A.E. from August 28 to September 13, 2026.
+  - 8 Asian women’s teams participated.
+  **Result –**
+  - **Champion –** India Women
+  - **Runner-up –** Sri Lanka Women
+  - Shafali Verma (India) was adjudged as the Player of the Tournament.
+  - **Most Runs –** Shafali Verma (India), 236 runs
+  - **Most Wickets –** Deepti Sharma (India), 14 wickets
+  - **Only century –** Smriti Mandhana (India) Vs Hong Kong
+  - **Fastest fifty** – Shafali Verma, 24 balls (Vs. Sri Lanka)
+
+[u1089] Ch10 · Duleep Trophy 2026-27
+  context: Cricket · PDF p. 221
+  - Duleep Trophy 2026-27 took place from August 23 to September 10, 2026.
+  **Winner –** East Zone (3rd title)
+
+[u1090] Ch10 · ICC Women’s T20 World Cup, 2026
+  context: Cricket · PDF p. 221
+  - The 10th edition of the ICC Women’s T20 World Cup was hosted by England and Wales from June 12 to July 5, 2026.
+  - For the first time, the competition was expanded to 12 teams.
+  - A record 33 matches were scheduled across seven venues.
+  - The Netherlands made their maiden women’s T20 World Cup appearance.
+  - The final match was played between Australia and England at Lord’s in London, England on July 5, 2026.
+  **Result –**
+  - **Champion –** Australia Women (7th title)
+  - **Runner-up –** England Women
+  **Awards**
+  - **Player of the Tournament –** Beth Mooney (Australia)
+  - **Most Wickets –** Shree Charani (India), 14 wickets
+
+[u1091] Ch10 · Wisden Cricketers’ Almanack 2026
+  context: Cricket · PDF p. 221
+  | **Wisden Award** | **Winner** |
+  | Leading Men’s Cricketer in the World | Mitchell Starc (Australia) |
+  | Leading Women’s Cricketer in the World | Deepti Sharma (India) |
+  | Leading T20 Cricketer in the World | Abhishek Sharma (India) |
+
+[u1092] Ch10 · Indian Premier League, 2026
+  context: Cricket · PDF p. 221
+  | The 19th IPL was organised from March 28 to May 31, 2026 across 13 venues. The tournament featured 10 teams competing in 74 matches. The final match was played at the Narendra Modi Stadium, Ahmedabad on May 31, 2026 between Royal Challengers Bengaluru and Gujarat Titans. |
+  | **Champion** |
+  | Royal Challengers Bengaluru (2nd title) |
+  | **I m p o r t a n t A w a r d & S t a t s** | **Most Valuable Player –** Vaibhav Suryavanshi (Rajasthan Royals) **Player of the Final Match –** Virat Kohli (RCB) **Orange Cap –** Vaibhav Suryavanshi (RR), 776 runs **Purple Cap –** Kagiso Rabada (GT), 29 wickets **Fastest fifty –** Urvil Patel (CSK), 13 balls **Fastest century –** Vaibhav Suryavanshi (RR), 36 balls |
+
+[u1093] Ch10 · ICC Men’s T20 World Cup, 2026
+  context: Cricket · PDF p. 222
+  - The 10th edition of the ICC Men’s T20 World Cup was co-hosted by India and Sri Lanka from February 7 to March 8, 2026.
+  - The final was played between India and New Zealand at the Narendra Modi Stadium, Ahmedabad on March 8, 2026.
+  **Champion** India (Record third title)
+  **Individual Awards**
+  - **Player of the Tournament –** Sanju Samson (India)
+  - **Player of the Match (Final) –** Jasprit Bumrah (India)
+  **Important Facts: T20 World Cup, 2026**
+  - **Teams –** 20
+  - **Total Matches –** 55
+  - **Highest Individual Score –** Yuvraj Samra (Canada, 110 runs)
+  - **Most Sixes -** Sanju Samson (India), 24 sixes
+  - **Fastest fifty –** Abhishek Sharma (India), 18 balls vs. New Zealand
+  - **Most Catches –** Glenn Phillips (New Zealand), 11 catches
+
+[u1094] Ch10 · ICC Men’s Under-19 World Cup, 2026
+  context: Cricket · PDF p. 222
+  - The 16th ICC Men’s Under-19 World Cup was held in Zimbabwe and Namibia from January 15 to February 6, 2026.
+  **Result – Champion –** India (Record 6th title) **Runner-up –** England
+  - **Player of the Series –** Vaibhav Suryavanshi (India)
+
+[u1095] Ch10 · TATA Women’s Premier League (WPL), 2026
+  context: Cricket · PDF p. 222
+  | **Result –** |
+  | **Champion –** Royal Challengers Bengaluru (2nd title) |
+  | **Runner-up –** Delhi Capitals |
+  | **I n d i v i d u a l A w a r d s a n d S t a t i s t i c s** | **Most Valuable Player –** Sophie Devine (Gujarat Giants) **Orange Cap for most runs –** Smriti Mandhana (RCB) **Purple Cap for most wickets –** Sophie Devine (Gujarat Giants) **Hat-trick (1) –** Nandani Sharma (Delhi Capitals) |
+
+[u1096] Ch10 · ICC Women’s Cricket World Cup 2025
+  context: Cricket · PDF p. 222
+  - The 13th edition of the ICC Women’s Cricket World Cup 2025 was hosted by India from September 30 to November 2, 2025.
+  - The final match was played at the DY Patil Stadium, Navi Mumbai.
+  **Result - Champion –** India (1st title) **Runner-up –** South Africa
+
+[u1097] Ch10 · Billie Jean King Cup 2026
+  context: Tennis · PDF p. 222
+  - The Billie Jean King Cup Finals 2026 took place from 22 to 27 September, 2026 in Shenzhen, China.
+  **Result –**
+  - **Winner –** Czech Republic
+  - **Runner-up –** Ukraine
+
+[u1098] Ch10 · Cincinnati Open, 2026
+  context: Tennis · PDF p. 222
+  | Tennis tournament Cincinnati Open, 2026 was held in Cincinnati, U.S. A. between 11 and 23 August, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Arthur Fils (France) |
+  | **Runner-up –** Frances Tiafoe (U.S. A.) |
+  | **Women’s** **Singles** | **Winner –** Coco Gauff (U.S. A.) |
+  | **Runner-up –** Jessica Pegula (U.S. A.) |
+
+[u1099] Ch10 · ATP Bonn Open, 2026
+  context: Tennis · PDF p. 222
+  | The professional men’s tennis tournament ATP Bonn Open, 2026 took place in Bonn, Germany from July 27 to August 2, 2026. |
+  | **Event** | **Winner** |
+  | **Men’s Singles** | Jan Choinski (U.K.) |
+  | **Men’s Doubles** | **Winners –** Vijay Sundar Prashanth and Ramkumar Ramanathan (Both India) |
+
+[u1100] Ch10 · Italian Open/BNL International Italy 2026
+  context: Tennis · PDF p. 222, 223
+  | The professional tennis tournament Italian Open 2026 was played in Rome, Italy from May 5 to 17, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Jannik Sinner (Italy) |
+  | **Runner-up –** Casper Ruud (Norway) |
+  | **Women’s** **Singles** | **Winner –** Elina Svitolina (Ukraine) |
+  | **Runner-up –** Coco Gauff (U.S. A.) |
+
+[u1101] Ch10 · Mutua Madrid Open, 2026
+  context: Tennis · PDF p. 223
+  | The professional tennis tournament Mutua Madrid Open, 2026 was played in Madrid, Spain from April 21 to May 3, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Jannik Sinner (Italy) |
+  | **Runner-up –** Alexander Zverev (Germany) |
+  | **Women’s** **Singles** | **Winner –** Marta Kostyuk (Ukraine) |
+  | **Runner-up –** Mirra Andreeva (Russia) |
+
+[u1102] Ch10 · Indian Wells Open/BNP Paribas Open 2026 (March 4 to 15, 2026)
+  context: Tennis · PDF p. 223
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Jannik Sinner (Italy) |
+  | **Runner-up –** Daniil Medvedev (Russia) |
+  | **Women’s** **Singles** | **Winner –** Aryna Sabalenka (Belarus) |
+  | **Runner-up –** Elena Rybakina (Kazakhstan) |
+
+[u1103] Ch10 · Miami Open, 2026 (March 17 to 29, 2026)
+  context: Tennis · PDF p. 223
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Jannik Sinner (Italy) |
+  | **Runner-up –** Jiri Lehecka (Czech Republic) |
+  | **Women’s** **Singles** | **Winner –** Aryna Sabalenka (Belarus) |
+  | **Runner-up –** Coco Gauff (U.S. A.) |
+  | **Sunshine Double** Winning the titles of Indian Wells Open and Miami Open in the same year is called the ‘Sunshine Double ’. Jannik Sinner and Aryna Sabalenka made history this March as both completed the Sunshine Double. |
+  | **Tennis Tournaments** |
+  | **Tournament** | **Winner** |
+  | **WTA Mumbai Open, 2026** | **Women’s Singles –** Mananchaya Sawangkaew (Thailand) |
+  | **ATP Delhi Open, 2026** | **Men’s Singles –** Stefanos Sakellaridis (Greece) **Men’s Doubles –** Siddhant Banthia (India) and Alexander Donski (Bulgaria) |
+  | **ATP Chennai Challenger, 2026** | **Men’s Singles –** Frederico Ferreira Silva (Portugal) **Men’s Doubles –** Pruchya Isaro (Thailand) & Niki Kaliyanda Poonacha (India) |
+  | **Davis Cup Finals 2025** | **Champion –** Italy (4th title) |
+
+[u1104] Ch10 · FIH Hockey Junior Asia Cup 2026
+  context: Hockey · PDF p. 223
+  | The Hockey Junior Asia Cup 2026 was hosted in Moqi, China from September 4 to 13, 2026. |
+  | **Men’s** **Hockey** | **Winner –** India (6th title) |
+  | **Runner-up –** South Korea |
+  | **Women’s** **Hockey** | **Winner –** India (3rd title) |
+  | **Runner-up –** China |
+
+[u1105] Ch10 · FIH Hockey World Cup, 2026
+  context: Hockey · PDF p. 223
+  | The FIH Hockey World Cup, 2026 was hosted jointly by Belgium and the Netherlands from 15 to 30 August, 2026. |
+  | **Result –** |
+  | **Men’s** **Hockey** | **Winner –** Germany (4th title) |
+  | **Runner-up –** Spain |
+  | **Women’s** **Hockey** | **Winner –** Argentina (3rd title) |
+  | **Runner-up –** Netherlands |
+
+[u1106] Ch10 · Men’s & Women’s Youth Hockey 5s Asian Championship 2026
+  context: Hockey · PDF p. 223
+  - The Men’s & Women’s Youth Hockey 5s Asian Championship 2026 was hosted in Muscat, Oman from 20 to 25 July, 2026.
+  **Result: U18 Men’s**
+  - **Champion –** India
+  - **Runner-up –** Pakistan
+  **Result: U20 Women’s**
+  - **Winner –** China
+  - **Runner-up –** India
+
+[u1107] Ch10 · FIH Hockey Pro League (Men’s) 2025-26
+  context: Hockey · PDF p. 223
+  - The FIH Pro League (Men’s) 2025-26 began on December 9, 2025 and finished on June 28, 2026.
+  - Nine national hockey teams participated in the tournament.
+  **Result –**
+  - **Winner –** Belgium (2nd title)
+  - **Runner-up –** England
+
+[u1108] Ch10 · FIH Hockey Pro League (Women’s) 2025-26
+  context: Hockey · PDF p. 224
+  - The Women’s Hockey Pro League 2025-26 was organised between December 9, 2025 and June 28, 2026.
+  **Result –**
+  - **Winner –** Netherlands (6th title)
+  - **Runner-up –** Argentina
+
+[u1109] Ch10 · Men’s Hockey Under-18 Asia Cup 2026
+  context: Hockey · PDF p. 224
+  - Men’s Hockey U18 Asia Cup was held in Kakamigahara, Japan from May 29 to June 6, 2026.
+  **Result –**
+  - **Winner –** India (3rd title)
+  - **Runner-up –** Japan
+
+[u1110] Ch10 · FIH Hockey Women’s Nations Cup, 2026
+  context: Hockey · PDF p. 224
+  - The FIH Hockey Women’s Nations Cup 2026 was organised in Auckland, New Zealand from June 15 to 21, 2026.
+  **Result – Winner –** India Women (2nd title) **Runner-up –** New Zealand Women
+  - **Hero Top Scorer –** Ashley Sessa (USA) & Deepika Sehrawat (India) (6 goals each)
+
+[u1111] Ch10 · FIH Hockey Men’s Nations Cup 2025-26
+  context: Hockey · PDF p. 224
+  - Hockey Men’s Nations Cup 2025-26 was organised in Cape Town, South Africa from June 11 to 20, 2026.
+  **Result – Winner –** France (1st title) **Runner-up –** South Africa
+
+[u1112] Ch10 · Men’s Hero Hockey India League 2025-26
+  context: Hockey · PDF p. 224
+  - The Men’s Hockey India League 2025-26 was played in Chennai, Ranchi and Bhubaneswar from January 3 to 26, 2026.
+  **Result – Winner –** Vedanta Kalinga Lancers (2nd title) **Runner-up –** Ranchi Royals
+
+[u1113] Ch10 · Women’s Hero Hockey India League 2025-26
+  context: Hockey · PDF p. 224
+  - The Women’s Hero Hockey India League 2025-26 was hosted in Ranchi, Jharkhand from December 28, 2025 to January 10, 2026.
+  **Result: Winner –** SG Pipers **Runner-up –** Shrachi Bengal Tigers
+
+[u1114] Ch10 · FIH Hockey Men’s Junior World Cup, 2025
+  context: Hockey · PDF p. 224
+  - The 14th Hockey Men’s Junior World Cup was hosted in Chennai and Madurai (Tamil Nadu) from November 28 to December 10, 2025.
+  **Result: Winner –** Germany (8th title) **Runner-up –** Spain
+  - The Indian team finished the tournament in third place.
+
+[u1115] Ch10 · Sultan Azlan Shah Cup 2025
+  context: Hockey · PDF p. 224
+  - The 31st edition of the tournament was held in Ipoh, Malaysia from November 23 to 30, 2025.
+  **Result: Winner –** Belgium (first title) **Runner-up –** India
+
+[u1116] Ch10 · FIFA U20 Women’s World Cup 2026
+  context: Football · PDF p. 224
+  - The FIFA Under 20 Women’s World Cup 2026 was hosted by Poland from September 5 to 27, 2026.
+  **Result –**
+  - **Champion –** Spain (2nd title)
+  - **Runner-up –** North Korea/P.R.K.
+
+[u1117] Ch10 · Durand Cup 2026
+  context: Football · PDF p. 224
+  **Result –**
+  - **Winner –** East Bengal FC
+  - **Runner-up –** Mohun Bagan Super Giant
+
+[u1118] Ch10 · SAFF Women’s Championship 2026
+  context: Football · PDF p. 224, 225
+  - The SAFF Women’s Championship 2026 was held in Margao, Goa from May 25 to June 6, 2026.
+  **Result–**
+  - **Champion –** India (6th title)
+  - **Runner-up –** Bangladesh
+  **Individual Awards**
+  - **Most Valuable Player –** Sanfida Nongrum (India)
+  - **Top Scorer –** Aveka Singh (India), 4 goals
+  - **Best Goalkeeper –** Panthoi Chanu Elangbam (India)
+  - **Fair Play Award –** Nepal
+
+[u1119] Ch10 · Indian Super League (ISL) 2025-26
+  context: Football · PDF p. 225
+  - The 12th season of ISL commenced on February 14 and concluded on May 21, 2026.
+  **Champion** East Bengal FC (1st title)
+
+[u1120] Ch10 · UEFA Women’s Champions League 2025-26
+  context: Football · PDF p. 225
+  - The UEFA Women’s Champions League 2025-26 was organised from October 7, 2025 to May 23, 2026.
+  **Result – Champion –** F.C. Barcelona Femeni (4th title) **Runner-up –** O.L. Lyonnes
+
+[u1121] Ch10 · UEFA Europa League 2025-26
+  context: Football · PDF p. 225
+  - The UEFA Europa League 2025-26 was organised from September 24, 2025 to May 20, 2026.
+  **Result – Winner –** Aston Villa (1st title) **Runner-up –** S.C. Freiburg
+
+[u1122] Ch10 · UEFA Champions League 2025-26
+  context: Football · PDF p. 225
+  - The UEFA Champions League 2025-26 was organised from September 16, 2025 to May 30, 2026.
+  **Result – Champion –** Paris Saint-Germain (2nd title) **Runner-up –** Arsenal
+
+[u1123] Ch10 · Indian Women’s League 2025-26
+  context: Football · PDF p. 225
+  - The Indian Women’s League 2025-26 was held in Kolkata and Kalyani from December 20, 2025 to May 18, 2026.
+  **Champion –** East Bengal FC (2nd title)
+
+[u1124] Ch10 · Indian Football League (IFL) 2025-26
+  context: Football · PDF p. 225
+  - Indian Football League 2025-26 was held between February 27 and May 23, 2026.
+  **Winner –** Diamond Harbour F.C.
+
+[u1125] Ch10 · SAFF U-20 Championship, 2026
+  context: Football · PDF p. 225
+  - The SAFF U-20 Championship 2026 took place in Male, Maldives from March 23 to April 3, 2026.
+  **Result: Winner –** Bangladesh (2nd title) **Runner-up –** India
+
+[u1126] Ch10 · Santosh Trophy 2025-26 (December 15, 2025 to February 8, 2026)
+  context: Football · PDF p. 225
+  **Result – Winner –** Services (8th title) **Runner-up -** Kerala
+
+[u1127] Ch10 · BWF Vietnam Open, 2026
+  context: Badminton · PDF p. 225
+  | The Badminton tournament Vietnam Open 2026 took place in Ho Chi Minh City, Vietnam, from September 8 to 13, 2026. |
+  | **Event** | **Result** |
+  | **Women’s** **Singles** | **Winner –** Sarunrak Vitidsarn (Thailand) |
+  | **Runner-up –** Isharani Baruah (India) |
+
+[u1128] Ch10 · BWF China Masters 2026
+  context: Badminton · PDF p. 225
+  | The Badminton tournament China Masters 2026 took place from September 1 to 6, 2026 in Shenzhen, China. |
+  | **Event** | **Result** |
+  | **Men’s** **Doubles** | **Winners –** Satwiksairaj Rankireddy and Chirag Shetty (Both India) |
+  | **Runners-up –** He Ji Ting and Ren Xiang Yu (Both China) |
+
+[u1129] Ch10 · BWF World Championship, 2026
+  context: Badminton · PDF p. 225, 226
+  - The BWF Badminton World Championship 2026 was hosted in New Delhi from 17 to 23 August, 2026.
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Alex Lanier (France) |
+  | **Runner-up –** Kodai Naraoka (Japan) |
+  | **Women’s** **Doubles** | **Winner –** An Se Young (South Korea) |
+  | **Runner-up –** Akane Yamaguchi (Japan) |
+
+[u1130] Ch10 · BWF Korea Masters, 2026
+  context: Badminton · PDF p. 226
+  | The badminton tournament Korea Masters 2026 took place in Asan, South Korea from 4 to 9 August, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Zhu Xuan Chen (China) |
+  | **Runner-up –** Yoo Tae Bin (South Korea) |
+  | **Women’s** **Singles** | **Winner –** Ashmita Chaliha (India) |
+  | **Runner-up –** Han Qian Xi (China) |
+
+[u1131] Ch10 · BWF Taipei Open, 2026
+  context: Badminton · PDF p. 226
+  | The badminton tournament BWF Taipei Open 2026 was held in Taipei City, Taiwan from July 28 to August 2, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Yudai Okimoto (Japan) |
+  | **Runner-up –** Yoo Tae Bin (South Korea) |
+  | **Women’s** **Singles** | **Winner –** Tanvi Sharma (India) |
+  | **Runner-up –** Nguyen Thuy Linh (Vietnam) |
+
+[u1132] Ch10 · BWF Japan Open, 2026
+  context: Badminton · PDF p. 226
+  | The badminton tournament BWF Japan Open 2026 took place in Tokyo, Japan from July 14 to 19, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Christo Popov (France) |
+  | **Runner-up –** Koki Watanabe (Japan) |
+  | **Women’s** **Singles** | **Winner –** P.V. Sindhu (India) |
+  | **Runner-up –** Akane Yamaguchi (Japan) |
+
+[u1133] Ch10 · BWF U.S. Open, 2026
+  context: Badminton · PDF p. 226
+  | The badminton tournament BWF U.S. Open, 2026 took place in Fullerton, California (U.S.A.) from June 23-28, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Su Li Yang (Chinese Taipei) |
+  | **Runner-up –** Srikanth Kidambi (India) |
+  | **Women’s** **Singles** | **Winner –** Line Christophersen (Denmark) |
+  | **Runner-up –** Kaloyana Nalbantova (Bulgaria) |
+
+[u1134] Ch10 · Thomas & Uber Cup Finals 2026
+  context: Badminton · PDF p. 226
+  - Badminton team tournaments Thomas & Uber Cup 2026 were hosted by Denmark from April 24 to May 3, 2026.
+  **Result: Thomas Cup (Men) Winner-** China **Runner-up –** France
+  **Result: Uber Cup (Women) Winner-** South Korea **Runner-up –** China
+
+[u1135] Ch10 · Badminton Asia Championships, 2026
+  context: Badminton · PDF p. 226
+  | The badminton Asia Championships 2026 were hosted in Ningbo, China between April 7 and 12, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Shi Yu Qi (China) |
+  | **Runner-up –** Ayush Shetty (India) |
+  | **Women’s** **Singles** | **Winner –** An Se Young (South Korea) |
+  | **Runner-up –** Wang Zhi Yi (China) |
+
+[u1136] Ch10 · All England Open Badminton Championships, 2026
+  context: Badminton · PDF p. 226
+  | The All England Open Badminton Championships 2026 took place in Birmingham, England (UK) from 3 to 8 March, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Lin Chun-Yi (Chinese Taipei) |
+  | **Runner-up –** Lakshya Sen (India) |
+  | **Women’s** **Singles** | **Winner –** Wang Zhi Yi (China) |
+  | **Runner-up –** An Se Young (South Korea) |
+
+[u1137] Ch10 · BWF Thailand Masters 2026 (January 27 to February 1, 2026)
+  context: Badminton · PDF p. 226
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Moh. Zaki Ubaidillah (Indonesia) |
+  | **Runner-up –** Panitchaphon Teeraratsakul (Thailand) |
+  | **Women’s** **Singles** | **Winner –** Devika Sihag (India) |
+  | **Runner-up –** Goh Jin Wei (Malaysia) |
+
+[u1138] Ch10 · BWF India Open 2026
+  context: Badminton · PDF p. 226, 227
+  | The Badminton tournament India Open 2026 took place in New Delhi from January 13 to 18, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Lin Chun-Yi (Chinese Taipei) |
+  | **Runner-up –** Jonatan Christie (Indonesia) |
+  | **Women’s** **Singles** | **Winner –** An Se Young (South Korea) |
+  | **Runner-up –** Wang Zhi Yi (China) |
+
+[u1139] Ch10 · Syed Modi India International 2025
+  context: Badminton · PDF p. 227
+  | The Syed Modi India International 2025 was organized in Lucknow, Uttar Pradesh from November 25 to 30, 2025. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Jason Gunawan (Hong Kong, China) |
+  | **Runner-up –** Kidambi Srikanth (India) |
+  | **Women’s** **Singles** | **Winner –** Hina Akechi (Japan) |
+  | **Runner-up –** Neslihan Arin (Turkiye) |
+  | **Women’s** **Doubles** | **Winners –** Treesa Jolly and Gayatri Gopichand Pullela (Both India) |
+  | **Runners-up –** Kaho Osawa and Mai Tanabe (Both Japan) |
+
+[u1140] Ch10 · 46th FIDE Chess Olympiad 2026
+  context: Chess · PDF p. 227
+  | The 46th FIDE Chess Olympiad was hosted in Samarkand, Uzbekistan from September 15 to 27, 2026. |
+  | **Event** | **Result** |
+  | **Open** **Team** | **Winner –** Uzbekistan (2nd title) |
+  | **Runner-up –** India |
+  | **Bronze –** Germany |
+  | **Women’s** **Team** | **Winner –** China |
+  | **Runner-up –** Kazakhstan |
+  | **Bronze –** India |
+  | India defended the prestigious Nona Gaprindashvili Trophy for the best combined team rating (Open & Women). This marks the third straight edition in which India has won the trophy, after 2022 & 2024. Indian men’s team – Arjun Erigaisi, R. Praggnanandhaa, Nihal Sarin, Gukesh D. and Vidit Gujrathi (Captain – Srinath Narayanan). |
+
+[u1141] Ch10 · Grand Chess Tour Finals 2026
+  context: Chess · PDF p. 227
+  - The Grand Chess Tour Finals 2026 were held in Saint Louis, Missouri, U.S.A. from 22 to 27 August, 2026.
+  **Result –**
+  - **Champion –** R. Praggnanandhaa (India)
+  - **Runner-up –** Fabiano Caruana (U.S.A.)
+
+[u1142] Ch10 · Sinquefield Cup, 2026
+  context: Chess · PDF p. 227
+  - The chess tournament Sinquefield Cup, 2026 was organised in Saint Louis, Missouri, U.S.A. from 8 to 21 August, 2026.
+  **Result –**
+  - **Winner –** Wesley So (U.S.A.)
+  - **Runner-up –** R. Praggnanandhaa (India)
+
+[u1143] Ch10 · Saint Louis Rapid & Blitz 2026
+  context: Chess · PDF p. 227
+  - The chess tournament Saint Louis Rapid & Blitz 2026 was hosted in Saint Louis, Missouri, U.S.A. from 31 July to 7 August, 2026.
+  **Result –**
+  - **Winner –** R. Praggnanandhaa (India)
+  - **Runner-up –** Javokhir Sindarov (Uzbekistan)
+
+[u1144] Ch10 · Chennai Grand Master 2026
+  context: Chess · PDF p. 227
+  - The fourth edition of the Chess tournament Chennai Grand Masters took place from 16 to 22 July, 2026 in Chennai, Tamil Nadu.
+  **Result –**
+  - **Winner –** Alireza Firouzja (France)
+  - **Runner-up –** Dmitry Andreikin (Russia/FIDE)
+
+[u1145] Ch10 · Asian Rapid & Blitz Chess Championship 2026
+  context: Chess · PDF p. 227
+  | The Asian Rapid & Blitz Chess Championship 2026 took place from 27 to 31 July, 2026 in Hong Kong. |
+  | **Event** | **Result** |
+  | **Open** **Rapid** | **Winner –** Aleksey Grebnev (Russia) |
+  | **Runner-up –** Goutham Krishna H (India) |
+  | **Open Blitz** | **Winner –** Le Tuan Minh (Vietnam) |
+  | **Runner-up –** Goutham Krishna H (India) |
+  | **Women’s** **Rapid** | **Winner –** Harika Dronavalli (India) |
+  | **Runner-up –** Anna Shukhman (Russia) |
+  | **Women’s** **Blitz** | **Winner –** Harika Dronavalli (India) |
+  | **Runner-up –** Valentina Gunina (Russia) |
+
+[u1146] Ch10 · Norway Chess 2026
+  context: Chess · PDF p. 227
+  | Norway Chess 2026 was held in Oslo, Norway from May 25 to June 5, 2026. |
+  | **Event** | **Result** |
+  | **Open** | **Winner –** Praggnanandhaa Rameshbabu (India) |
+  | **Runner-up –** Wesley So (U.S.A.) |
+
+[u1147] Ch10 · FIDE Candidates 2026
+  context: Chess · PDF p. 228
+  - The FIDE Candidates Tournament 2026 took place in Pegeia, Cyprus between March 28 and April 16, 2026.
+  - The tournament determined the challenger for the World Chess Championship, 2026.
+  **Winner: Candidates** Javokhir Sindarov (Uzbekistan)
+  - Javokhir Sindarov earned the right to play in the World Chess Championship 2026 against the reigning World Chess Champion Gukesh Dommaraju (India).
+  **Winner: Women’s Candidates** Vaishali Rameshbabu (India)
+  - Vaishali Rameshbabu earned the right to play the Women’s World Chess Championship 2026 match against the reigning Women’s World Chess Champion Ju Wenjun (China).
+
+[u1148] Ch10 · Tata Steel Chess India 2026
+  context: Chess · PDF p. 228
+  | Tata Steel Chess India 2026 took place in Kolkata, West Bengal from January 7 to 11, 2026. |
+  | **Event** | **Result** |
+  | **Open** **Blitz** | **Winner –** Wesley So (USA). |
+  | **Runner-up –** Nihal Sarin (India) |
+  | **Open** **Rapid** | **Winner –** Nihal Sarin (India) |
+  | **Runner-up –** Viswanathan Anand (India) |
+  | **Women’s** **Blitz** | **Winner –** Carissa Yip (USA) |
+  | **Runner-up –** Vantika Agrawal (India) |
+  | **Women’s** **Rapid** | **Winner –** Kateryna Lagno (Russia) |
+  | **Runner-up –** Aleksandra Goryachkina (Russia) |
+
+[u1149] Ch10 · Tata Steel Chess Tournament 2026
+  context: Chess · PDF p. 228
+  | The 88th edition of the Tata Steel Chess Tournament was held in Wijk aan Zee, the Netherlands from January 16 to February 1, 2026. |
+  | **Event** | **Result** |
+  | **Masters** | **Winner –** Nodirbek Abdusattorov (Uzbekistan) |
+  | **Runner-up –** Javokhir Sindarov (Uzbekistan) |
+  | **Challengers** | **Winner –** Andy Woodward (USA). |
+  | **Runner-up –** Vasyl Ivanchuk (Ukraine) |
+
+[u1150] Ch10 · Global Chess League (Season 3) 2025
+  context: Chess · PDF p. 228
+  - The Global Chess League 2025 was held in Mumbai, Maharashtra from December 13-24, 2025.
+  **Result: Winner –** Alpine SG Pipers **Runner-up –** Triveni Continental Kings
+
+[u1151] Ch10 · FIDE Chess World Cup, 2025
+  context: Chess · PDF p. 228
+  - The Chess World Cup 2025 was held in Goa, India from October 31 to November 27, 2025.
+  - India hosted the tournament for the second time after 2002.
+  - It was the 11th edition of the Chess World Cup.
+  **Result: Champion –** Javokhir Sindarov (Uzbekistan) **Runner-up –** Wei Yi (China)
+  - 19-year-old Javokhir Sindarov became the youngest player to win the Chess World Cup.
+  - The FIDE World Cup Trophy has been christened as the Viswanathan Anand Trophy, in honour of the Indian legend.
+
+[u1152] Ch10 · World Boxing Cup (Stage 2) 2026
+  context: Boxing · PDF p. 228
+  | The World Boxing Cup (Stage 2) 2026 was hosted in Guiyang City, China to June 15 from 21, 2026. |
+  | **Medal Table (Top 2 & India)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 5 | 1 | 3 | 9 |
+  | 2. | Kazakhstan | 5 | 0 | 3 | 8 |
+  | **5.** | **India** | **1** | **3** | **2** | **6** |
+  | **Indian Medal Winners** |
+  | **Women’s** | **Men’s** |
+  | Jyoti Gulia (48 kg) **– Gold** Minakshi Hooda (51 kg) **– Silver** Prachi (57 kg) **– Silver** | Deepak Poonia (70 kg) **– Silver** Nikhil (55 kg) **– Bronze** Jugnoo (85 kg) **– Bronze** |
+
+[u1153] Ch10 · Asian Boxing Championship (Elite), 2026
+  context: Boxing · PDF p. 228, 229
+  - The Asian Boxing Championship 2026 took place in Ulaanbaatar, Mongolia from March 30 to April 10, 2026.
+  | **Medal Table (Top 2)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Kazakhstan | 6 | 2 | 5 | 13 |
+  | **2.** | **India** | **5** | **3** | **8** | **16** |
+  | **Indian Gold Medal Winners** 1. Minakshi Hooda (Women’s 48 kg) 2. Preeti Pawar (Women’s 54 kg) 3. Priya Ghanghas (Women’s 60 kg) 4. Arundhati Choudhary (Women’s 70 kg) 5. Vishvanath Suresh (Men’s 50 kg) |
+
+[u1154] Ch10 · World Boxing Futures Cup, 2026
+  context: Boxing · PDF p. 229
+  | World Boxing Future Cup, 2026 was hosted in Bangkok, Thailand from March 8-15, 2026. |
+  | **Medal Table (Top 4)** |
+  | **Rank** | **Nation** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Uzbekistan | 4 | 5 | 2 | 11 |
+  | 2. | Kazakhstan | 4 | 4 | 3 | 11 |
+  | 3. | USA | 4 | 1 | 4 | 9 |
+  | **4.** | **India** | **1** | **3** | **1** | **5** |
+  | **Indian Medal Winners** 1. Chandrika Pujari (Women’s 51 kg) – **Gold Medal** 2. Gunjan (Women’s 48 kg) – **Silver Medal** 3. Joyshree Devi (Women’s 54 kg) – **Silver Medal** 4. Ambekar Meetei (Men’s 50 kg) – **Silver Medal** 5. Radhamani Longjam (Women’s 57 kg) – **Bronze Medal** |
+
+[u1155] Ch10 · World Boxing Cup Finals - 2025
+  context: Boxing · PDF p. 229
+  | India hosted the finals at the Shaheed Vijay Singh Pathik Sports Complex, Greater Noida (Uttar Pradesh) from November 16 to 20, 2025. |
+  | **Medal Table (Top 3)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | **1** | **India** | **9** | **6** | **5** | **20** |
+  | 2 | Uzbekistan | 4 | 5 | 4 | 13 |
+  | 3 | England | 2 | 1 | 3 | 6 |
+  | **Indian Gold Medal Winners** Minakshi Hooda (Women’s 48 kg) – Nikhat Zareen (Women’s 51 kg), Preeti Pawar (Women’s 54 kg), Jaismine Lamboria (Women’s 57 kg), Arundhati Choudhary (Women’s 70 kg), Nupur Sheoran (Women’s 80+ kg), Parveen Hooda (Women’s 60 kg), Sachin Siwach (Men’s 60 kg), Hitesh Gulia (Men’s 70 kg) |
+
+[u1156] Ch10 · ISSF World Cup (Rifle/Pistol/ Shotgun) Hangzhou 2026
+  context: Shooting · PDF p. 229
+  | The Shooting World Cup (Rifle/Pistol/Shotgun), Hangzhou 2026 was held in Hangzhou, China from July 20 to 29, 2026. |
+  | **Medal Table (Top 3)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 7 | 6 | 5 | 18 |
+  | 2. | U.S.A. | 2 | 2 | 0 | 4 |
+  | **3.** | **India** | **1** | **1** | **2** | **4** |
+  | Esha Singh (India) – Gold Medal – Women’s 25m Pistol |
+
+[u1157] Ch10 · ISSF World Cup (Rifle/Pistol) Munich 2026
+  context: Shooting · PDF p. 229
+  | Shooting World Cup (Rifle/Pistol), Munich 2026 was held in Munich, Germany from May 24 to 31, 2026. |
+  | **Medal Table (Top 3)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 4 | 0 | 3 | 7 |
+  | **2.** | **India** | **2** | **2** | **0** | **4** |
+  | 3. | Norway | 2 | 1 | 0 | 3 |
+  | **Indian Gold Medal Winners** 1. Suruchi Inder Singh (Women’s 10m Air Pistol) 2. Esha Singh (Women’s 25m Pistol) |
+
+[u1158] Ch10 · ISSF World Cup Final (Rifle/Pistol/Shotgun) 2025
+  context: Shooting · PDF p. 229
+  | The Shooting World Cup Final (Rifle/Pistol/ Shotgun) 2025 was organized in Doha, Qatar from December 4 to 9, 2025. |
+  | **Medal Table (Top 3)** |
+  | **Rank** | **Nation** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 4 | 2 | 3 | 9 |
+  | **2.** | **India** | **2** | **3** | **1** | **6** |
+  | 3. | USA | 2 | 2 | 2 | 6 |
+  | **Indian Gold Medal Winners** 1. Suruchi Inder Singh (Women’s 10m Air Pistol) 2. Simranpreet Kaur Brar (Women’s 25m Pistol) |
+
+[u1159] Ch10 · Arcehry World Cup Final 2026
+  context: Archery · PDF p. 230
+  - The Archery World Cup Final 2026 took place in Saltillo, Mexico from September 12 to 13, 2026.
+  - India Czech Republic, Austria and the U.S.A. jointly secured place first in the medal table with 1 gold medal each.
+  - Dhiraj Bommadevara (India) won gold medal in the Men’s Recurve event.
+
+[u1160] Ch10 · Archery World Cup (Stage-2) 2026
+  context: Archery · PDF p. 230
+  | Second stage of the Archery World Cup 2026 was held in Shanghai, China from May 5 to 10, 2026. |
+  | **Medal Standings (Top 2 & India)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Turkiye | 2 | 3 | 1 | 6 |
+  | 2. | China | 2 | 2 | 1 | 5 |
+  | **6.** | **India** | **1** | **0** | **1** | **2** |
+  | **Indian Medal Winners** |
+  | **Event** | **Medal** | **Archers** |
+  | **Recurve Women Team** | Gold | Ankita Bhakat, Deepika Kumari and Kumkum Anil Mohod |
+  | **Compound Men** | Bronze | Sahil Rajesh Jadhav |
+
+[u1161] Ch10 · Archery World Cup (Stage 1) 2026
+  context: Archery · PDF p. 230
+  | Stage I of the Archery World Cup 2026 was held in Puebla, Mexico from April 7 to 12, 2026. |
+  | **Medal Standings (Top 2 & India)** |
+  | **Rank** | **Nation** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 3 | 1 | 2 | 6 |
+  | 2. | USA | 2 | 2 | 1 | 5 |
+  | **5.** | **India** | **1** | **0** | **0** | **1** |
+  | **Indian Medal Winners** |
+  | **Event** | **Medal** | **Archers** |
+  | Compound Women Team | Gold | Madhura Dhamangaonkar, Jyothi Surekha Vennam and Pragati |
+
+[u1162] Ch10 · Archery Asia Cup 2026 – World Ranking Tournament, Stage-I
+  context: Archery · PDF p. 230
+  | Stage I of the Archery Asia Cup 2026 was held in Bangkok, Thailand from March 21 to 28, 2026. |
+  | **Medal Table (Top 2)** |
+  | **Rank** | **Nation** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Kazakhstan | 3 | 0 | 1 | 4 |
+  | **2.** | **India** | **2** | **4** | **4** | **10** |
+  **Indian Medal Gold Winners** 1. Uday Kamboj (Men’s Compound) 2. Chikitha Taniparthi & Rajat Chauhan (Compound Mixed Team)
+
+[u1163] Ch10 · WTT Feeder Puerto Princesa 2026
+  context: Table Tennis · PDF p. 230
+  | The table tennis tournament WTT Feeder Puerto Princesa 2026 took place in Puerto Princesa, Philippines from September 8 to 12, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Kang Dongsoo (South Korea) |
+  | **Runner-up –** Ankur Bhattacharjee (India) |
+  | **Women’s** **Singles** | **Winner –** Sreeja Akula (India) |
+  | **Runner-up –** Li Yu-Jhun (Chinese Taipei) |
+
+[u1164] Ch10 · WTT Feeder Olomouc 2026
+  context: Table Tennis · PDF p. 230
+  | The table tennis tournament WTT Feeder Olomouc 2026 was held in Olomouc, Czech Republic from 24 to 28 August, 2026. |
+  | **Event** | **Winner** |
+  | **Men’s Singles** | Ankur Bhattacharjee (India) |
+  | **Women’s Singles** | Rin Mende (Japan) |
+  | **Men’s Doubles** | Ankur Bhattacharjee and Akash Pal (Both from India) |
+
+[u1165] Ch10 · WTT Feeder Istanbul II-2026
+  context: Table Tennis · PDF p. 230
+  | Table Tennis tournament WTT Feeder Istanbul II-2026 was organised in Istanbul, Turkiye from July 1st and 5th, 2026. |
+  | **Event** | **Winner** |
+  | **Men’s Singles** | Nikita Artemenko (Russia) |
+  | **Women’s Singles** | Lee Seungeun (South Korea) |
+  | **Women’s Doubles** | Swastika Ghosh and Taneesha Kotecha (Both India) |
+
+[u1166] Ch10 · Commonwealth Table Tennis Championships 2026
+  context: Table Tennis · PDF p. 230, 231
+  | The 22nd Commonwealth Table Tennis Championship took place at Thyagraj Stadium in New Delhi from July 27 to August 2, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Team** | **Winner –** India |
+  | **Runner-up –** Malaysia |
+  | **Women’s** **Team** | **Winner –** India Women |
+  | **Runner-up –** Malaysia Women |
+  | **Men’s** **Singles** | **Winner –** Ankur Bhattacharjee (India) |
+  | **Runner-up –** Payas Jain (India) |
+  | **Women’s** **Singles** | **Winner –** Yashaswini Ghorpade (India) |
+  | **Runner-up –** Sreeja Akula (India) |
+  | **Women’s Doubles** | **Winners –** Sreeja Akula and Syndrela Das (Both from India) |
+  | **Mixed Doubles** | **Winners –** Manav Thakkar and Taneesha Kotecha (Both from India) |
+
+[u1167] Ch10 · WTT Contender Lagos 2026
+  context: Table Tennis · PDF p. 231
+  | The Table Tennis tournament WTT Contender Lagos 2026 was held in Lagos, Nigeria from May 19 to 24, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Doubles** | **Winners –** Manav Thakkar and Manush Shah (Both from India) |
+  | **Runners-up –** Iulian Chirita and Andrei Istrate (Both from Romania) |
+  | **Mixed** **Doubles** | **Winners –** Manush Shah and Diya Chitale (Both from India) |
+  | **Runners-up –** Leo De Nodrest and Camille Lutz (Both from France) |
+
+[u1168] Ch10 · WTT Contender Muscat 2026 (January 19-24, 2026)
+  context: Table Tennis · PDF p. 231
+  | **Event** | **Result** |
+  | **Mixed Doubles** | **Winners –** Manush Shah and Diya Chitale (Both from India) |
+
+[u1169] Ch10 · WTT Feeder Vadodara, 2026 (January 7-11, 2026)
+  context: Table Tennis · PDF p. 231
+  | **Event** | **Result** |
+  | **Men’s** **Singles** | **Winner –** Manush Shah (India) |
+  | **Runner-up –** Payas Jain (India) |
+  | **Women’s** **Singles** | **Winner –** Ryu Hanna (South Korea) |
+  | **Runner-up –** Anusha Kutumbale (India) |
+  | **Men’s Doubles** | **Winners –** Ankur Bhattacharjee and Payas Jain (Both India) |
+  | **Women’s Doubles** | **Winners –** Yoo Yerin and Ryu Hanna (Both South Korea) |
+  | **Mixed Doubles** | **Winners –** Payas Jain and Syndrela Das (Both India) |
+
+[u1170] Ch10 · Tuanku Muhriz Trophy (Squash) 2026
+  context: Billiards/Snooker/Squash · PDF p. 231
+  - The squash tournament Tuanku Muhriz Trophy 2026 took place in Seremban, Malaysia from August 26 to 30, 2026.
+  | **Event** | **Result** |
+  | **Men’s** | **Winner –** Abhay Singh (India) |
+  | **Runner-up –** Henry Leung (Hong Kong, China) |
+  | **Women’s** | **Winner –** Sohayla Hussein (Egypt) |
+
+[u1171] Ch10 · Budapest Open (Squash) 2026
+  context: Billiards/Snooker/Squash · PDF p. 231
+  - The squash tournament Budapest Open 2026 was held in Budapest, Hungary from August 24 to 28, 2026.
+  **Result –**
+  - **Winner –** Velavan Senthil Kumar (India)
+  - **Runner-up –** Balazs Farkas (Hungary)
+
+[u1172] Ch10 · Asian Doubles Squash Championship 2026
+  context: Billiards/Snooker/Squash · PDF p. 231
+  | The 3rd Asian Doubles Squash Championship was hosted in Sarawak, Malaysia from June 18 to 21, 2026. |
+  | **Event** | **Result** |
+  | **Men’s** **Doubles** | **Winners –** Velavan Senthilkumar and Abhay Singh (Both from India) |
+  | **Runners-up –** Nasir Iqbal and Noor Zaman (Both from Pakistan) |
+  | **Women’s Doubles** | **Winners –** Yee Xin Ying and Ainaa Amani (Both from Malaysia) |
+  | **Mixed Doubles** | **Winners –** Rachel Arnold and Ameeshenraj Chandaran (Both from Malaysia) |
+
+[u1173] Ch10 · Grasshopper Cup (Squash) 2026
+  context: Billiards/Snooker/Squash · PDF p. 231
+  | **Event** | **Winner** |
+  | **Men’s** | Karim Gawad (Egypt) |
+  | **Women’s** | Sivasangari Subramaniam (Malaysia) |
+
+[u1174] Ch10 · Squash World Cup, 2025
+  context: Billiards/Snooker/Squash · PDF p. 231
+  - The squash World Cup, 2025 was hosted in Chennai, Tamil Nadu from December 9 and 14, 2025.
+  - Twelve (12) nations competed in the fifth edition of the mixed team tournament.
+  **Result: Champion –** India (first title) **Runner-up –** Hong Kong, China
+  - Joshna Chinappa, Abhay Singh, Anahat Singh and Velavan Senthilkumar were the members of the Indian mixed team.
+
+[u1175] Ch10 · U20 World Championships 2026
+  context: Wrestling · PDF p. 232
+  - The Under 20 Wrestling World Championship 2026 were hosted in Bratislava, Slovakia from August 16 to 23, 2026.
+  - Indian wrestlers won a total of 6 medals (1 gold, 3 silver and 2 bronze).
+  - Kajal Dhochak won a gold medal in the women’s 76 kg event.
+  - Kajal Dhochak (India) won her second consecutive U20 World Championship title.
+
+[u1176] Ch10 · Asian Wrestling Championships, 2026
+  context: Wrestling · PDF p. 232
+  - The Asian Wrestling Championships, 2026 took place from April 6 to 12, 2026 in Bishkek, Kyrgyzstan.
+  - India finished the Asian Wrestling Championships with a haul of 17 medals (2 gold, 6 silver and 9 bronze).
+  **Indian Gold Medal Winners** 1. Sujeet Kalkal (Men’s 65 kg) 2. Abhimanyu Mandwal (Men’s 70 kg)
+
+[u1177] Ch10 · Pro Wrestling League 2026
+  context: Wrestling · PDF p. 232
+  - The 5th edition of the Pro Wrestling League was organised from January 15 to February 1, 2026 in Noida, Uttar Pradesh.
+  **Result – Champion –** Haryana Thunders **Runner-up –** Delhi Dangal Warriors
+
+[u1178] Ch10 · World Athletics Under 20 Championship 2026
+  context: Athletics · PDF p. 232
+  - The World Athletics Under 20 Championships 2026 were held from August 5 to 9, 2026 in Eugene, Oregon (U.S.A.).
+  - India won 3 medals (2 silver and 1 bronze) and finished 27th in the medal table.
+  - **Indian Medal Winners**
+  - 1. Ashish Yadav (Men’s Javelin Throw) – **Silver**
+  - 2. Basant Kumar Meghwal (Men’s High Jump) **– Silver**
+  - 3. Shahnavaz Khan (Men’s Long Jump) – Bronze
+
+[u1179] Ch10 · Asian Under 23 Athletics Championships 2026
+  context: Athletics · PDF p. 232
+  | The inaugural edition of the Asian Under 23 Athletics Championships was held in Ordos, China from July 9-12, 2026. |
+  | **Medal Table(Top 2 & India)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 23 | 17 | 12 | 52 |
+  | 2. | Japan | 7 | 8 | 7 | 22 |
+  | **4.** | **India** | **3** | **4** | **9** | **16** |
+  | **Indian Gold Medal Winners** |
+  | **Event** | **Athlete** |
+  | **Mixed 4 × 400m Relay** | Astik Pradhan, Sandramol Sabu, Setu Mishra and Shravani Sachin Sangle |
+  | **Men’s Javelin Throw** | Anand Singh |
+  | **Women’s 4 × 400m Relay** | Shravani Sachin Sangle, Sandramol Sabu, Pravallika Narimalla and Nofisa Khatun |
+
+[u1180] Ch10 · Asian Relays Championships, 2026
+  context: Athletics · PDF p. 232
+  - Asian Relays Championships 2026 took place in Shaoxing, China from June 20-21, 2026.
+  - India finished its campaign with a total of three medals (1 gold, 1 silver and 1 bronze).
+  **Indian Medal Winners Gold:** Women’s 4 × 100 m Relay Team (Tamanna, Sudeshna Shivankar, Sneha Shanuvalli and Srabani Nanda)
+
+[u1181] Ch10 · IAU 24 Hour Asia and Oceania Championships 2026
+  context: Athletics · PDF p. 232, 233
+  | The IAU 24 hour Asia and Oceania Championships 2026 were held in Hirosaki, Japan from May 23- 24, 2026. India secured a historic five medals (2G, 1S & 2B) at 24 hour Asia and Oceania Championships 2026, including clean sweep in the men’s individual event. |
+  | **Indian Medal Winners** |
+  | **Event** | **Medal** | **Athlete** |
+  | **Men’s Individual** | Gold Silver Bronze | **Amar Singh Devanda** (282.881 km) **Geeno Antony** (272.894 km) **Saurav Kumar Ranjan** (260.058 km) |
+  | **Men’s Team** | Gold | Amar Singh Devanda, Geeno Antony and Saurav Kumar Ranjan (Total Distance - 815.833 km) |
+  | **Women’s Team** | Bronze | Tenzin Dolma, Sunita Subba and Aparna Choudhary (Total Distance - 667.722 km). |
+
+[u1182] Ch10 · Asian Weightlifting Championships 2026
+  context: Weightlifting · PDF p. 233
+  | Asian Weightlifting Championships 2026 were hosted in Gandhinagar, Gujarat from May 11 to 17, 2026. |
+  | **Medal Table (Top 3 & India)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 21 | 12 | 8 | 41 |
+  | 2. | DPR Korea/ North Korea | 18 | 11 | 1 | 30 |
+  | 3. | Chinese Taipei | 3 | 7 | 3 | 13 |
+  | **11.** | **India** | **0** | **1** | **9** | **10** |
+  | **Indian Medal Winners Silver (1) –** Gyaneshwari Yadav (Women’s 53 kg Snatch) |
+
+[u1183] Ch10 · Commonwealth Youth and Junior Weightlifting Championships and Universal Cup, 2026
+  context: Weightlifting · PDF p. 233
+  | The Commonwealth Youth and Junior Weightlifting Championships and the Universal Cup, 2026 were held from April 27 to May 2, 2026 in Apia, Samoa. India won 5 gold medals and 1 silver medal in the Commonwealth Youth category. In the Commonwealth Junior category, India secured 6 gold and 2 silver medals. The Universal Weightlifting Cup was a senior-level international competition. India won a total of 15 medals in the Universal Cup, including 6 gold, 8 silver and 1 bronze medal. |
+  | **Indian Medal Winner at the Universal Cup** |
+  | **Athlete** | **Weight Category** | **Snatch** | **Clean & Jerk** | **Total Lift** |
+  | Gyaneshwari Yadav | Women’s 53 kg | Gold | Gold | Gold |
+  | Charu Pesi | Men’s 65 kg | Gold | Gold | Gold |
+  | Abhishek Suresh Nipane | Men’s 88 kg |
+  | Koyel Bar | Women’s 53 kg |
+  | Komal Kohar | Women’s 48 kg |
+  Silver Silver Silver Silver Silver Silver Bronze Silver Silver
+
+[u1184] Ch10 · Commonwealth Fencing Championship 2026
+  context: Miscellaneous · PDF p. 233
+  - The Commonwealth Fencing Championship 2026 took place from August 9 to 19, 2026 in Lagos, Nigeria.
+  - India created history by winning their maiden overall title (U23 & Senior) at Commonwealth Fencing Championships 2026.
+  - India finished the four-day competition with a record 35 medals (13 gold, 8 silver and 14 bronze).
+  - Its dominant showing earned India the Wilkinson Sword Trophy, for the best overall performance. **Indian’s Gold Medal Winners (Individual)** 1. Nikhil Wagh (U23 men’s sabre); 2. Joys Ashita (U23 women’s foil); 3. Prachi Lohan (U23 women’s epee); 4. Jeferlin (U23 women’s sabre); 5. Tanishka Khatri (Senior women’s epee); 6. Kanaglakshmi (Senior women’s foil); 7. Rajendran Shanthimol Sherjin (Senior men’s epee); 8. Karan Singh (Senior men’s sabre).
+
+[u1185] Ch10 · FPAI Awards, 2026
+  context: Miscellaneous · PDF p. 233
+  - The Football Players’ Association of India (FPAI) announced the winners in August, 2026.
+  - **Indian Player of the Year:** Lallianzuala Chhangte.
+  - **Indian Women’s Player of the Year:** Manisha Kalyan.
+
+[u1186] Ch10 · World Yogasana Championship, 2026
+  context: Miscellaneous · PDF p. 233
+  | The Inaugural World Yogasana Championship 2026 was hosted in Ahmedabad, Gujarat from June 4 and 8, 2026. |
+  | **Medal Table (Top 5)** |
+  | **Rank** | **Nation** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | **1.** | **India** | **102** | **9** | **3** | **114** |
+  | 2. | Japan | 3 | 3 | 5 | 11 |
+  | 3. | Argentina | 2 | 3 | 0 | 5 |
+  | 4. | Singapore | 2 | 2 | 3 | 7 |
+  | 5. | Nepal | 1 | 36 | 15 | 52 |
+
+[u1187] Ch10 · Asian Fencing Championship, 2026
+  context: Miscellaneous · PDF p. 234
+  | The Asian Fencing Championships 2026 were held in New Delhi from June 19 to 24, 2026. India hosted the continental championships for the first time. |
+  | **Medal Table (Top 3)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Japan | 6 | 5 | 4 | 15 |
+  | 2. | South Korea | 4 | 1 | 5 | 10 |
+  | 3. | Kazakhstan | 2 | 0 | 3 | 5 |
+
+[u1188] Ch10 · Asia Cup Bridge Championship, 2026
+  context: Miscellaneous · PDF p. 234
+  | The fifth edition of the Asia Cup Bridge Championship was held in Goa (India) from June 21 to 27, 2026. |
+  | **Medal Table (Top 3 & India)** |
+  | **Rank** | **Nation** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Australia | 2 | 1 | 1 | 4 |
+  | 2. | Hong Kong, China | 2 | 0 | 2 | 4 |
+  | 3. | China | 1 | 3 | 0 | 4 |
+  | **6.** | **India** | **0** | **3** | **1** | **4** |
+  | **Indian Medal Winners Senior Team – India B won the Silver Medal** Sukamal Das, Hemant Jalan, Jitendra Solani, Anil Padhye, Rajesh Dalal and Raju Tolani **Women’s Pairs –** Savleen Thadani and Sadhana Gupta won Silver Medal. **Senior Pairs –** Subir Majumder and Sujit Kumar Bhattacharjee won silver medal **Men’s Team –** India-A won the Bronze Medal |
+
+[u1189] Ch10 · IWUF Sanda World Cup, 2026
+  context: Miscellaneous · PDF p. 234
+  | The 11th Sanda World Cup was held from May 13 to 15, 2026 in Macao, China. |
+  | **Medal Table (Top 3)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 7 | 1 | 0 | 8 |
+  | 2. | Vietnam | 3 | 3 | 0 | 6 |
+  | **3.** | **India** | **2** | **1** | **2** | **5** |
+  **Indian Medal Winners Gold** Aparna Dahiya (Women’s 52 kg) and Shivani (Women’s 75 kg)
+
+[u1190] Ch10 · Khelo India Tribal Games, 2026
+  context: Miscellaneous · PDF p. 234
+  | The first edition of the Khelo India Tribal Games, 2026 was organised in Chhattisgarh across three major centres– Raipur, Jagdalpur and Sarguja. It was held from March 25 to April 3, 2026. The official mascot of the event was “Morveer”. |
+  | **Medal Table (Top 3)** |
+  | **Rank** | **State** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Karnataka | 23 | 8 | 7 | 38 |
+  | 2. | Odisha | 21 | 15 | 21 | 57 |
+  | 3. | Jharkhand | 16 | 8 | 11 | 35 |
+
+[u1191] Ch10 · Asian Beach Games, 2026
+  context: Miscellaneous · PDF p. 234
+  | The 6th Asian Beach Games were held from April 22 to 30, 2026 in Sanya, China. |
+  | **Medal Table (Top 3 & India)** |
+  | **Rank** | **Nation** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 24 | 18 | 13 | 55 |
+  | 2. | Thailand | 10 | 9 | 9 | 28 |
+  | 3. | Iran | 9 | 1 | 0 | 10 |
+  | **6.** | **India** | **3** | **2** | **1** | **6** |
+  | **Indian Gold Medal Winners** 1. Women’s Beach Kabaddi – India defeated Sri Lanka in the final. 2. Pushpa Yadav (Wrestling/Women’s 60 kg) 3. Priya Malik (Wrestling/Women’s 70+ kg) |
+
+[u1192] Ch10 · Laureus World Sports Awards 2026
+  context: Miscellaneous · PDF p. 234
+  | **Award** | **Winner** |
+  | **Laureus World Sportsman of the Year** | Carlos Alcaraz (Tennis/Spain) |
+  | **Laureus World Sportswoman of the Year** | Aryna Sabalenka (Tennis/Belarus) |
+
+[u1193] Ch10 · Hockey India Annual Awards 2025
+  context: Miscellaneous · PDF p. 234, 235
+  | The 8th Hockey India Annual Awards ceremony was held in New Delhi on March 27, 2026. |
+  | **Award** | **Winner 2025** |
+  | **Hockey India Balbir Singh Sr. Award for Player of the Year (Men)** | Hardik Singh |
+  | **Hockey India Balbir Singh Sr. Award for Player of the Year (Women)** | Navneet Kaur |
+  | **Hockey India Baljit Singh Award for Goalkeeper of the Year** | Bichu Devi Kharibam |
+  | **Major Dhyan Chand Lifetime Achievement Award** | Zafar Iqbal |
+
+[u1194] Ch10 · BCCI Naman Awards 2026
+  context: Miscellaneous · PDF p. 235
+  | The Board of Control for Cricket in India (BCCI) organised prestigious Naman Awards 2026 on March 15, 2026 in New Delhi. |
+  | **Award** | **Winner** |
+  | **Polly Umrigar Award for Best International Cricketer (Men) 2024-25** | Shubman Gill |
+  | **Best International Cricketer (Women) 2024-25** | Smriti Mandhana |
+  | **Col. C.K. Nayudu Lifetime Achievement Award** | Roger Binny and Rahul Dravid |
+  | **BCCI Lifetime Achievement Award for Women** | Mithali Raj |
+
+[u1195] Ch10 · Khelo India Winter Games, 2026
+  context: Miscellaneous · PDF p. 235
+  | Khelo India Winter Games 2026 were organised in two chapters. First chapter was held in Leh, Ladakh between 20 and 26 January, 2026. While second chapter was held in Gulmarg, Jammu and Kashmir from February 23-26, 2026. |
+  | **Medal Table (Top 3)** |
+  | **Rank** | **State/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Army | 9 | 6 | 8 | 23 |
+  | 2. | Himachal Pradesh | 6 | 7 | 1 | 14 |
+  | 3. | Haryana | 4 | 1 | 2 | 7 |
+
+[u1196] Ch10 · The Best FIFA Football Awards, 2025
+  context: Miscellaneous · PDF p. 235
+  | The Best FIFA Awards 2025 were presented on December 16, 2025. |
+  | **Award for 2025** | **Winner** |
+  | **The Best FIFA Men’s Player** | Ousmane Dembele (France) |
+  | **The Best FIFA Women’s Player** | Aitana Bonmati (Spain) |
+
+[u1197] Ch10 · Khelo India University Games (KIUG) 2025
+  context: Miscellaneous · PDF p. 235
+  - KIUG 2025 was held in Rajasthan from November 24 to December 5, 2025.
+  - Khamma and Ghani (Two Camels) were chosen as the mascots of KIUG 2025.
+  | **Medal Standings: Top 3** |
+  | **Rank** | **University** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1 | Chandigarh University | 42 | 14 | 11 | 67 |
+  | 2 | Lovely Professional University (Punjab) | 32 | 24 | 22 | 78 |
+  | 3 | Guru Nanak Dev University, Amritsar | 32 | 22 | 18 | 72 |
+
+[u1198] Ch10 · Women’s Kabaddi World Cup 2025
+  context: Miscellaneous · PDF p. 235
+  - The second edition of the Women’s Kabaddi World Cup was organized in Dhaka, Bangladesh from November 17-24, 2025.
+  **Result – Champion –** India (2nd title) **Runner-up –** Chinese Taipei
+  - Bangladesh and Iran won bronze medals.
+    · **Most Valuable Player –** Sanju Devi (India)
+
+[u1199] Ch10 · 25th Summer Deaflympics 2025
+  context: Miscellaneous · PDF p. 235
+  | 25th Summer Deaflympics were hosted in Tokyo, Japan from November 15-26, 2025. |
+  | **Medal Tally (Top 3 & India)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1 | Ukraine | 32 | 39 | 29 | 100 |
+  | 2 | USA | 17 | 7 | 12 | 36 |
+  | 3 | Japan | 16 | 12 | 23 | 51 |
+  | **6** | **India** | **9** | **7** | **4** | **20** |
+  - **India’s Gold Medal Winners:** **Deaflympics 2025**
+  - 1. Diksha Dagar – Golf (Women’s individual)
+  - 2. Mahit Sandhu/Dhanush Srikanth – Shooting (Mixed 10m Air Rifle team)
+  - 3. Dhanush Srikanth – Shooting (Men’s 10m Air Rifle)
+  - 4. Anuya Prasad – Shooting (Women’s 10m Air Pistol)
+  - 5. Abhinav Deshwal/Pranjali Dhumal – Shooting (Mixed 10m Air Pistol)
+  - 6. Mahit Sandhu – Shooting (Women’s 50m Rifle 3 positions)
+  - 7. Abhinav Deshwal – Shooting (Men’s 25m Pistol)
+  - 8. Pranjali Dhumal – Shooting (Women’s 25m Pistol)
+  - 9. Sumit Dahiya – Wrestling (Men’s Freestyle 97 kg)
+
+[u1200] Ch10 · Tennis Grand Slam Tournaments, 2026
+  context: Tennis Grand Slam Tournaments, 2026 · PDF p. 236
+  | **Category** | **Australian Open, 2026** | **French Open, 2026** | **Wimbledon, 2026** | **U.S. Open, 2026** |
+  | **Men’s Singles Winner Runner-up** | **Carlos Alcaraz (Spain)** Novak Djokovic (Serbia) | **Alexander Zverev (Germany)** Flavio Cobolli (Italy) | **Jannik Sinner (Italy)** Alexander Zverev (Germany) | **Alexander Zverev (Germany)** Ben Shelton (U.S.A.) |
+  | **Women’s Singles Winner Runner-up** | **Elena Rybakina (Kazakhstan)** Aryna Sabalenka (Belarus) | **Mirra Andreeva (Russia)** Maja Chwalinska (Poland) | **Linda Noskova (Czech Republic)** Karolina Muchova (Czech Republic) | **Elena Rybakina (Kazakhstan)** Aryna Sabalenka (Belarus) |
+  | **Men’s Doubles Winner Runner-up** | **Christian Harrison (USA) & Neal Skupski (UK)** Jason Kubler & Marc Polmans (Both Australia) | **Marcel Granollers (Spain) & Horacio Zeballos (Argentina)** Harri Heliovaara (Finland) & Henry Patten (Great Britain) | **Harri Heliovaara (Finland) & Henry Patten (UK)** Marcelo Arevalo (El Salvador) & Mate Pavic (Croatia) | **Christian Harrison (U.S.A.) & Neal Skupski (U.K.)** Kevin Krawietz & Tim Puetz (Both Germany) |
+  | **Women’s Doubles Winner Runner-up** | **Elise Mertens (Belgium) & Zhang Shuai (China)** Anna Danilina (Kazakhstan) & Aleksandra Krunic (Serbia) | **Katerina Siniakova (Czech Republic) & Taylor Townsend (USA)** Anna Danilina (Kazakhstan) & Aleksandra Krunic (Serbia) | **Hanyu Guo (China) & Kristina Mladenovic (France)** Gabriela Dabrowski (Canada) and Luisa Stefani (Brazil) | **Katerina Siniakova (Czech Republic) and Taylor Townsend (U.S.A.)** Ashlyn Krueger & Robin Montgomery (Both U.S.A.) |
+  | **Mixed Doubles Winner Runner-up** | **Olivia Gadecki & John Peers (Both Australia)** Kristina Mladenovic & Manuel Guinard (Both France) | **Sara Errani & Andrea Vavassori (Both Italy)** Gabriela Dabrowski (Canada) & Evan King (USA) | **Marcelo Arevalo (El Salvador) & Jelena Ostapenko (Latvia)** Marc Polmans & Storm Hunter (Both Australia) | **Karolina Muchova & Jakub Mensik (Both Czech Republic)** Belinda Bencic (Switzerland) & Flavio Cobolli (Italy) |
+
+[u1201] Ch10 · Major Marathons & Road Running
+  context: Major Marathons & Road Running · PDF p. 236
+  | **Marathon/Race** | **Men’s Winner** | **Women’s Winner** |
+  | **Chicago Marathon 2026** | Amos Kipruto (Kenya) | Hawi Feysa Gejia (Ethiopia) |
+  | **Berlin Marathon 2026** | Guye Adola (Ethiopia) | Tigst Assefa (Ethiopia) |
+  | **Cape Town Marathon 2026** | Mohamed Esa (Ethiopia) | Dera Dida Yami (Ethiopia) |
+  | **London Marathon 2026** | Sabastian Sawe (Kenya) (1: 59: 30 New World Record) | Tigst Assefa (Ethiopia) |
+  | **Boston Marathon 2026** | John Korir (Kenya) | Sharon Lokedi (Kenya) |
+  | **Tokyo Marathon 2026** | Tadese Takele (Ethiopia) | Brigid Kosgei (Kenya) |
+  | **Lisbon Half Marathon 2026** | Jacob Kiplimo (Uganda) | Tsigie Gebreselama (Ethiopia) |
+  | **TCS World 10K Bengaluru 2026** | Rodrigue Kwizera (Burundi) | Florence Niyonkuru (Rwanda) |
+  | **New Delhi Marathon 2026** | Kartik Karkera | Nirmaben Thakor |
+  | **Mumbai Marathon 2026** | Tadu Abate (Ethiopia) | Yeshi Chekole (Ethiopia) |
+  | **Los Angeles Marathon 2026** | Nathan Martin (USA) | Priscah Cherono (Kenya) |
+
+[u1202] Ch10 · Asian Games 2026
+  context: Asian Games 2026 · PDF p. 237
+  - The 20th edition was hosted in Aichi-Nagoya (Japan), from September 19 to October 4, 2026.
+  - Nagoya, the Capital City of Aichi Prefecture, is the third Japanese city to host the Asian Games, after Tokyo in 1958 and Hiroshima in 1994.
+  - ‘Honohon’ is the official mascot of the 20th Asian Games, meaning ‘flame’ in Japanese.
+  - The official Slogan, “Imagine One Asia”, emphasises unity, friendship and shared sporting aspirations across the Asian continent.
+  - A total of 46 teams participated in Aichi-Nagoya Games (45 National Olympic Committees and the OCA Refugee Team).
+  - The Asian Games 2026 featured 43 sports.
+  - 6 sports – Freestyle BMX, mixed martial arts, padel, surfing, teqball and virtual taekwondo made their Asian Games debut.
+  | **Medal Table (Top 5)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | China | 169 | 89 | 83 | 341 |
+  | 2. | Japan | 83 | 95 | 91 | 269 |
+  | 3. | Republic of Korea (South Korea) | 39 | 43 | 68 | 150 |
+  | **4.** | **India** | **21** | **27** | **37** | **85** |
+  | 5. | Uzbekistan | 21 | 25 | 24 | 70 |
+
+[u1203] Ch10 · India at Aichi-Nagoya
+  context: Asian Games 2026 · PDF p. 237
+  - Manu Bhaker (Shooting) and Pawan Sehrawat (Kabaddi) were the nation’s flag-bearers during the opening ceremony.
+  - Neeru Dhanda (Shooting) was the flag bearer for the closing ceremony.
+  - India finished fourth in the medal table with 85 medals, including 21 gold medals.
+  - It was India’s second-highest medal tally at the Asian Games after the 2022 edition.
+  - India won nine medals, including five gold medals, in Archery.
+  - Pranavi urs became the first Indian woman to win an individual golf gold medal.
+  - Athletics supplied 24 medals, the most by any sport for India, despite producing just one gold.
+  - Baranica Elangovan's bronze was India's first-ever Asian Games pole vault medal, while Sawan Barwal won marathon silver with a new national record.
+  - Kumkum Mohod won women’s individual recurve gold medal in Archery, becoming the first Indian woman to achieve this at the Asian Games.
+  - Anahat Singh became the first Indian woman to win women’s singles silver medal in Squash.
+  - Jay Meena secured India's first-ever medal in the soft tennis.
+  - Vithya Ramraj won bronze medal in women’s 400m hurdles, breaking P.T. Usha's 42-year-old national record.
+  **Indian Gold Medal Winners** 1. Neeru Dhanda (Shooting women’s trap); 2. Lovlina Borgohain (Boxing women’s 75 kg); 3. Parveen Hooda (Boxing women’s 65 kg); 4. Sujeet Kalkal (Wrestling Men's freestyle 65 kg); 5. Ankush Panghal (Boxing Men's 80 kg); 6. Kumkum Mohod (Archery women’s individual recurve); 7. Pranavi Urs (Golf); 8. Aman Sehrawat (Wrestling Men's freestyle 57 kg); 9. Kamaljeet Sohlot & Suruchi Singh (Shooting Mixed 10m air pistol team); 10. Chikitha Taniparthi & Sahil Jadhav (Archery Mixed compound team); 11. Kynan Chenai and Neeru Dhanda (Shooting Mixed Trap team); 12. Kiran Pahal, Prachi Choudhary, Poovamma Machettira, and Vithya Ramraj (Athletics Women’s 4 × 400m Relay); 13. Chikitha Taniparthi, Prithika Pradeep and Jyothi Surekha Vennam (Archery women’s compound team); 14. Kushal Dalal, T.G. Mani Ratnam and Sahil Jadhav (Archery Men's compound team); 15. Ankita Bhakat, Kumkum Mohod & Kriti Sharma (Archery Women’s Team Recurve); 16. Women’s Cricket Team; 17. Women’s Kabaddi Team; 18. Men's Kabaddi Team; 19. Women’s Field Hockey; 20. Men's Cricket Team; 21. Men's Hockey Team.
+
+[u1204] Ch10 · Commonwealth Games, 2026
+  context: Commonwealth Games, 2026 · PDF p. 237
+  - The 23rd edition of Commonwealth Games was held from July 23 to August 2, 2026 in Glasgow, Scotland (U.K.).
+  - This was the fourth Commonwealth Games hosted in Scotland, following the 1970 and 1986 Games in Edinburgh, and the 2014 Games in Glasgow.
+  - The United Kingdom has hosted the Commonwealth Games eight times across its constituent nations.
+  **Finnie**
+  - Finnie was the official mascot of the Commonwealth Games, 2026.
+  - She is a unicorn, the national animal of Scotland, with a traffic cone for a horn.
+
+[u1205] Ch10 · Sports and New Compact Model
+  context: Commonwealth Games, 2026 · PDF p. 237, 238
+  - The principal features were –
+    · Only 10 sports, compared with 19 at Birmingham 2022.
+    · Existing sports infrastructure was reused instead of constructing large new stadiums.
+    · Only 2715 athletes competed.
+  **10 Sports** 1. Athletics & Para Athletics 2. Swimming & Para Swimming 3. Artistic Gymnastics 4. Track Cycling & Para Track Cycling 5. Netball 6. Weightlifting & Para Powerlifting 7. Boxing 8. Judo 9. Bowls & Para Bowls 10. 3 × 3 Basketball & 3 × 3 Wheelchair Basketball
+  | **Medal Table (Top 5)** |
+  | **Rank** | **Nation/Team** | **Gold** | **Silver** | **Bronze** | **Total** |
+  | 1. | Australia | 70 | 45 | 56 | 171 |
+  | 2. | England | 29 | 45 | 36 | 110 |
+  | 3. | Canada | 19 | 20 | 23 | 62 |
+  | **4.** | **India** | **13** | **17** | **9** | **39** |
+  | 5. | Scotland | 13 | 9 | 17 | 39 |
+
+[u1206] Ch10 · India at Glasgow 2026
+  context: Commonwealth Games, 2026 · PDF p. 238
+  - At the opening ceremony, weightlifter Mirabai Chanu was the Indian flag-bearer and boxer Lovlina Borgohain served as the baton-bearer.
+  - Boxer Jaismine Lamboria served as the country’s flag-bearer during the closing ceremony.
+  - India won the most Gold medals in boxing (7 gold & 3 silver).
+  - Weightlifter Mirabai Chanu (women’s 48 kg) won country’s first gold medal at the Games.
+    · She became only the second Indian female athlete, after wrestler Vinesh Phogat, to win gold medals at three successive Commonwealth Games.
+  - India had its best-ever performance in judo at a single Commonwealth Games, including its first-ever gold medals won by Asmita Dey and Harsh Singh.
+  **David Dixon Award: Melanie Woods**
+  - Scotland’s Wheelchair Racer Melanie Woods was awarded the David Dixon Award.
+  - The award recognises the athlete’s sporting performance, fair play and contribution to their team.
+  - Chad le Clos of South Africa became the most decorated individual athlete in Commonwealth Games history, winning his 21st medal.
+  | **Indian Medal Winners (Only Gold)** |
+  | **Gold** | Mirabai Chanu | Weightlifting | Women's 48 kg |
+  | **Gold** | Sharmila Dhankar | Athletics | Women's Shot Put F57 |
+  | **Gold** | Dilip Gavit | Athletics | Men's 100 m T47 |
+  | **Gold** | Asmita Dey | Judo | Women's 48 kg |
+  | **Gold** | Harsh Singh | Judo | Men's 60 kg |
+  | **Gold** | Preeti Pawar | Boxing | Women's 54 kg |
+  | **Gold** | Jaismine Lamboria | Boxing | Women's 57 kg |
+  | **Gold** | Soman Rana | Athletics | Men's Shot Put F57 |
+  | **Gold** | Sakshi Chaudhary | Boxing | Women's 51 kg |
+  | **Gold** | Priya Ghanghas | Boxing | Women's 60 kg |
+  | **Gold** | Arundhati Choudhary | Boxing | Women's 70 kg |
+  | **Gold** | Sachin Siwach | Boxing | Men's 60 kg |
+  | **Gold** | Ankush Panghal | Boxing | Men's 80 kg |
+
+[u1207] Ch10 · FIFA World Cup, 2026
+  context: FIFA World Cup, 2026 · PDF p. 238
+  - The 23rd edition of the men’s FIFA World Cup was held from June 11 to July 19, 2026.
+  - For the first time, the tournament was jointly hosted by three countries – Canada, Mexico and the U.S.A.
+  - The tournament was played in 16 host cities.
+  - The 2026 edition was the first World Cup with 48 participating teams, an increase from the 32 teams that participated between 1998 and 2022.
+  | **Official Mascots: Maple, Zayu and Clutch** Three mascots were chosen for the FIFA World Cup 2026. |
+  | **Mascot** | **Representation** | **Host Country** |
+  | Maple | Moose and Goalkeeper | Canada |
+  | Zayu | Jaguar and Striker | Mexico |
+  | Clutch | Bald Eagle and Midfielder | U.S.A. |
+  - The expanded format increased the total number of matches to 104 in 2026. (64 Matches in 2022).
+  - Four teams reached the semi-finals.
+    · Spain Vs. France
+    · Argentina Vs. England
+  - England defeated France in the third-place match.
+
+[u1256] Ch10 · Spain-the Champion
+  context: FIFA World Cup, 2026 · PDF p. 238
+  - The final was played between Spain and Argentina on July 19, 2026 at New York - New Jersey Stadium, New Jersey (U.S.A.).
+  - Spain won its second men’s FIFA World Cup title, following its first in 2010.
+
+[u1208] Ch10 · Individual Awards
+  context: FIFA World Cup, 2026 · PDF p. 238, 239
+  - Golden Ball (Player of the Tournament) – Rodri (Spain)
+  - Golden Boot (Top Scorer) – Kylian Mbappe (France)
+  - Golden Glove (Best Goalkeeper) – Unai Simon (Spain)
+  - Best Young Player – Pau Cubarsi (Spain)
+  - Fair Play Trophy – Netherlands
+  **Kylian Mbappe**
+  - France captain Kylian Mbappe made FIFA World Cup history by becoming the first player ever to win Golden Boot at two consecutive FIFA World Cups (2022 & 2026)
+
+[u1257] Ch10 · Tournament Hat-tricks –
+  context: FIFA World Cup, 2026 · PDF p. 239
+  - Four hat-tricks were scored at the FIFA World Cup 2026.
+    · **Lionel Messi (Argentina) –** in the group stage against Algeria.
+    · **Jonathan David (Canada) –** in the group stage against Qatar.
+    · **Ousmane Dembele (France) –** in the group stage against Norway.
+    · **Bukayo Saka (England) –** in the third place play-off against France.
+
+[u1209] Ch10 · Cricket–
+  context: Upcoming Sports Events · PDF p. 239
+  - ICC Women’s Champions Trophy 2027 **- India**
+  - ICC U19 Women’s T20 World Cup 2027 **- Bangladesh & Nepal**
+  - 14th ICC Men’s ODI World Cup 2027 **- South Africa, Zimbabwe and Namibia**
+  - 15th ICC Men’s ODI World Cup 2031 **- India & Bangladesh**
+  - 11th ICC Men’s T20I World Cup 2028 **- Australia & New Zealand**
+  - 12th ICC Men’s T20I World Cup 2030 **- England, Wales, Ireland & Scotland**
+  - ACC Men’s Asia Cup 2027 **- Bangladesh (ODI)**
+  - ICC Men’s Champions Trophy 2029 **- India**
+
+[u1210] Ch10 · Football –
+  context: Upcoming Sports Events · PDF p. 239
+  - AFC Asian Cup 2027 **- Saudi Arabia**
+  - FIFA Women’s World Cup 2027 **- Brazil**
+  - FIFA World Cup 2030 **- Morocco, Portugal & Spain** **(Three centenary celebration matches – Argentina,** **Paraguay & Uruguay**
+  - FIFA World Cup 2034 **- Saudi Arabia**
+
+[u1211] Ch10 · Miscellaneous –
+  context: Upcoming Sports Events · PDF p. 239
+  - Summer Youth Olympic Games 2026 **- Dakar (Senegal)**
+  - UCI Road World Championship 2032 **- Pune (Maharashtra)**
+  - Asian Senior Wushu Championships 2028 **- India**
+  - Commonwealth Games 2030 **- Ahmedabad (Gujarat)**
+  - Asia Cup Archery (Leg-II) 2027 **- New Delhi**
+  - Commonwealth Youth Games 2027 **- Malta**
+  - Summer Deaflympics 2029 **- Athens, Greece**
+  - Asian Youth Games 2029 **- Tashkent, Uzbekistan**
+  - World Police and Fire Games 2029 **- Ahmedabad, Gujarat**
+  - 14th South Asian Games 2027 **- Pakistan**
+  - 47th Chess Olympiad 2028 **- Abu Dhabi (U.A.E.)**
+  - National Games 2027 **- Meghalaya**
+  - Asian Winter Games, 2029 **- Almaty, Kazakhstan**
+  - 21st Asian Games 2030 **- Doha, Qatar**
+  - 22nd Asian Games 2034 **- Riyadh, Saudi Arabia**
+  - 34th Olympic Games 2028 **- Los Angeles, USA**
+  - 35th Olympic Games 2032 **- Brisbane, Australia**
+  - 46th FIDE Chess Olympiad 2026 **- Uzbekistan**
+
+[u1212] Ch10 · Anandkumar Velkumar
+  context: Sportsperson in News · PDF p. 239
+  - An Indian inline speed skater.
+  - He won a silver medal in the men's 1000 meter sprint category at the World Skating Games in Paraguay. (2–18 October 2026)
+
+[u1213] Ch10 · ICC Player of the Month: September 2026
+  context: Sportsperson in News · PDF p. 239
+  - **Men's –** Shubman Gill (India)
+  - **Women's –** Shafali Verma (India)
+
+[u1214] Ch10 · Bodhana Sivanandan
+  context: Sportsperson in News · PDF p. 239
+  - 11-year-old Indian-origin chess prodigy.
+  - Bodhana Sivanandan (England) created history by becoming the youngest woman Grandmaster. (September 2026)
+
+[u1258] Ch10 · Lionel Messi
+  context: Sportsperson in News · PDF p. 239
+  - An Argentine professional footballer.
+  - Lionel Messi announced his retirement from International football. (31 August, 2026).
+  - As a citizen of both Argentina and Spain, Messi was eligible to play for both national teams.
+  - Messi made his debut with the Argentina’s senior national team in 2005, at the age of 18.
+  - He played his last international match in October 2026 against Benin.
+  - He scored 126 goals from 208 international matches.
+  - Messi is second in the all-time list of top international goal scorers’ after Portugal’s Cristiano Ronaldo.
+  - Messi has won record 8 Ballon d’Or awards.
+
+[u1215] Ch10 · G.B. Harshavardhan
+  context: Sportsperson in News · PDF p. 239
+  - A Tamil Nadu based Chess player.
+  - He has became India’s 97th Chess Grandmaster (June 2026).
+
+[u1216] Ch10 · Aswath S.
+  context: Sportsperson in News · PDF p. 239
+  - Tamil Nadu based Chess player.
+  - Aswath becomes India’s 98th Chess Grandmaster.
+
+[u1217] Ch10 · V.S. Rathanvel
+  context: Sportsperson in News · PDF p. 240
+  - Tamil Nadu base Chess player.
+  - Rathanvel becomes 99th Chess Grandmaster of India.
+
+[u1218] Ch10 · Neeru Dhanda
+  context: Sportsperson in News · PDF p. 240
+  - Indian woman shooter.
+  - She won the gold medal in women’s trap event at the ISSF Shotgun World Cup 2026 in Lonato, Italy. (July 11, 2026).
+
+[u1219] Ch10 · Anahat Singh
+  context: Sportsperson in News · PDF p. 240
+  - An 18 year old Indian woman squash player.
+  - Anahat Singh became the first Indian Squash player to the crowned a junior World Champion. (July, 2026).
+  - She defeated Egypt’s Ruqayya Salem in the women’s singles final at World Squash Junior Championships 2026.
+
+[u1220] Ch10 · Ethan Vaz
+  context: Sportsperson in News · PDF p. 240
+  - A 14 year old chess player belong to Goa.
+  - He has become India’s 96th Grandmaster. (June 27, 2026)
+
+[u1221] Ch10 · Arnav Paparkar
+  context: Sportsperson in News · PDF p. 240
+  - An 18 year old tennis player from Pune.
+  - He created history by becoming the first Indian in 36 years to reach the boys, singles quarter-finals at the Wimbledon Junior Championships 2026. (July 8, 2026)
+
+[u1222] Ch10 · Akshara Gupta
+  context: Sportsperson in News · PDF p. 240
+  - A 19 year old woman cricketer from Bihar.
+  - She created a new milestone in women’s domestic cricket by scoring an unbeaten 306 runs in the BCA Women’s U-19 One Day Trophy Tournament. (June, 2026).
+
+[u1223] Ch10 · Jaspal Rana
+  context: Sportsperson in News · PDF p. 240
+  - Former Indian Shooter, who passed away at the age of 49 years. (June 12, 2026)
+  - Jaspal Rana had a remarkable tally of 15 medals – 9 gold, 4 silver and 2 bronze – won across four editions of Commonwealth Games viz. 1994, 1998, 2002 and 2006.
+
+[u1224] Ch10 · Smriti Mandhana
+  context: Sportsperson in News · PDF p. 240
+  - Cricketer Smriti Mandhana was named by TIME Magazine among this year’s 100 most influential people in sports. (June, 2026)
+  - She was the only Indian on the list.
+
+[u1225] Ch10 · Raja Randhir Singh
+  context: Sportsperson in News · PDF p. 240
+  - Former Indian shooter.
+  - He passed away at the age of 79 (May 27, 2026).
+  - Randhir Singh became the first Indian shooter to win an Asian Games gold medal at Bangkok 1978.
+  - He was conferred with the Arjuna Award in 1979.
+  - In September 2024, he became the first Indian to be elected President of the Olympic Council of Asia (OCA).
+
+[u1226] Ch10 · Esha Singh
+  context: Sportsperson in News · PDF p. 240
+  - An Indian woman shooter.
+  - She won a gold medal in the women’s 25m pistol event a World Record score at the ISSF World Cup 2026 in Munich, Germany. (May 27, 2026).
+
+[u1227] Ch10 · Gurindervir Singh
+  context: Sportsperson in News · PDF p. 240
+  - He clinched the gold medal in the men’s 100m event at the 2026 Athletics Federation Cup, with a new national record time of 10.09 seconds. (May 22-25, 2026).
+
+[u1228] Ch10 · Sumit Antil
+  context: Sportsperson in News · PDF p. 240
+  - An Indian Para-athlete.
+  - He shattered his own world record in the Men’s Javelin Throw F64 category at 8th Indian Open International Para Athletics Championships 2026 in Bengaluru (27 May, 2026).
+  - Sumit Antil recorded a throw of 74.82 m to rewrite the mark.
+
+[u1229] Ch10 · Kami Rita Sherpa
+  context: Sportsperson in News · PDF p. 240
+  - A 56 year old Nepali mountaineer.
+  - He created history by climbing Mount Everest for a record 32nd time. (May 17, 2026).
+  - Kami Rita Sherpa first summited Everest in 1994.
+
+[u1230] Ch10 · Sahdev Yadav
+  context: Sportsperson in News · PDF p. 240
+  - President of Indian Weightlifting Federation.
+  - Sahdev Yadav was unanimously elected as President of the South Asian Weightlifting Federation (SAWF).
+
+[u1231] Ch10 · Yash Khandagale
+  context: Sportsperson in News · PDF p. 240
+  - A 18 year old Indian Weightlifter.
+  - Yash Khandagale clinched three medals for India in the men’s 71 kg category at the Weightlifting World Junior Championships 2026 in Ismailia, Egypt. (May 2-8, 2026)
+  - He bagged two silver medals with total lift and Snatch, and a bronze medal in the clean and jerk.
+
+[u1232] Ch10 · Vijay Kumar
+  context: Sportsperson in News · PDF p. 240
+  - Veteran Indian golfer.
+  - He died in his hometown of Lucknow at the age of 57. (28 April, 2026).
+  - He was winner of Indian Open 2002 and a four-time Order of Merit Champion.
+
+[u1233] Ch10 · C.D. Gopinath
+  context: Sportsperson in News · PDF p. 240, 241
+  - Former Indian cricketer.
+  - He died in Chennai at the age of 96. (April 9, 2026)
+  - Until his death, Gopinath was India’s oldest Test cricketer and the second-oldest worldwide after Australia’s Neil Harvey.
+
+[u1234] Ch10 · Gurbax Singh Grewal
+  context: Sportsperson in News · PDF p. 241
+  - Former Indian men’s hockey player.
+  - He died at the age of 84. (April 24, 2026).
+  - He was part of the bronze-medal-winning team at the Mexico City 1968 Olympics.
+
+[u1235] Ch10 · Ishank Singh
+  context: Sportsperson in News · PDF p. 241
+  - A seven year old boy from Jharkhand.
+  - He became the youngest swimmer to cross the Palk Strait, a 29 km stretch (April 30,2026).
+
+[u1236] Ch10 · Ajit Agarkar
+  context: Sportsperson in News · PDF p. 241
+  - He will continue as Chairman of the Senior Men’s Selection Committee after the BCCI decided to renew his contract for one more year. (April 19, 2026)
+
+[u1237] Ch10 · Mayank Chakraborty
+  context: Sportsperson in News · PDF p. 241
+  - An Indian chess player from Assam.
+  - He became India’s 94th Grandmaster. (March, 2026)
+  - Mayank became the first-ever Grandmaster from Assam and the Northeast region.
+
+[u1238] Ch10 · Sheetal Devi
+  context: Sportsperson in News · PDF p. 241
+  - 19 year old Indian woman para-archer from Jammu & Kashmir.
+  - She has been named ‘Para Archer of the Year’ in World Archery Awards 2025. (March, 2026)
+
+[u1239] Ch10 · Gurjant Singh
+  context: Sportsperson in News · PDF p. 241
+  - An Indian men’s hockey forward.
+  - He announced his retirement from international hockey. (March 27, 2026)
+  - He was part of the Olympics bronze medal winning teams at both Tokyo 2020 and Paris 2024.
+
+[u1240] Ch10 · Utagushimaninde Fanny
+  context: Sportsperson in News · PDF p. 241
+  - Woman cricketer from Rwanda.
+  - She became the youngest centurion (15 years and 223 days) ever in women’s T20I history. (March, 2026).
+  - She scored 111* runs off just 65 balls against Ghana in the Nigeria Invitational Women’s T20I Tournament.
+
+[u1241] Ch10 · Mirabai Chanu
+  context: Sportsperson in News · PDF p. 241
+  - An Indian woman weightlifter.
+  - She broke three national records during National Weightlifting Championships 2026 in Modinagar, Uttar Pradesh. (February 4, 2026)
+
+[u1242] Ch10 · Kabak Yano
+  context: Sportsperson in News · PDF p. 241
+  - An Indian woman mountaineer from Arunachal Pradesh.
+  - Kabak Yano has successfully summited Mount Aconcagua in Argentina, the highest peak in South America. (February, 2026)
+
+[u1243] Ch10 · Harmanpreet Kaur
+  context: Sportsperson in News · PDF p. 241
+  - An Indian woman cricketer.
+  - She became the most-capped women’s international cricketer (356 international matches) (February 19, 2026)
+
+[u1244] Ch10 · Davinder Singh Garcha
+  context: Sportsperson in News · PDF p. 241
+  - He died at the age of 73. (January 10, 2026).
+  - He scored eight goals in six matches at Moscow 1980.
+  - This was India’s eighth and last gold medal in men’s hockey at the Olympics.
+
+[u1245] Ch10 · I.S. Bindra
+  context: Sportsperson in News · PDF p. 241
+  - Former President of the BCCI (1993-96).
+  - He died in New Delhi at he age of 84. (January 25, 2026)
+
+[u1246] Ch10 · Sheikh Joaan bin Hamad Al Thani
+  context: Sportsperson in News · PDF p. 241
+  - He was elected as President of Olympic Council of Asia (OCA). (January 26, 2026)
+
+[u1247] Ch10 · Aaryan Varshney
+  context: Sportsperson in News · PDF p. 241
+  - 21 year old Indian chess player.
+  - Aaryan Varshney has become India’s 92nd Chess Grandmaster (January 15, 2026).
+  - He is 8th Grandmaster from Delhi.
+
+[u1248] Ch10 · Kaamya Karthikeyan
+  context: Sportsperson in News · PDF p. 241
+  - An 18 year old Indian mountaineer.
+  - Kaamya has set a new record as the youngest Indian and second youngest woman globally to ski to the South Pole. (December 27, 2025)
+
+[u1249] Ch10 · Sjoerd Marijne
+  context: Sportsperson in News · PDF p. 241
+  - A former field hockey player from the Netherlands.
+  - He was reappointed Chief Coach of the Indian Women’s hockey team. (January 2, 2026)
+
+[u1250] Ch10 · Lando Norris
+  context: Sportsperson in News · PDF p. 241
+  - Formula One car racing team McLaren’s driver.
+  - He became champion of 2025 Formula One Season.
+  - He won his first world title.
+
+[u1251] Ch10 · Ryan Williams
+  context: Sportsperson in News · PDF p. 241
+  - 32-year-old football player.
+  - He is officially eligible for selection to the Indian team.
+  - He has got FIFA approval for the change of member association after relinquishing his Australian citizenship. (November, 2025)
+
+[u1252] Ch10 · Roger Federer
+  context: Sportsperson in News · PDF p. 241
+  - Former tennis player of Switzerland.
+  - He has been elected into the International Tennis Hall of Fame in the class of 2026. (November 19, 2025)

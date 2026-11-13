@@ -1,0 +1,1295 @@
+{
+  "u0320": {
+    "gist": "Swiss President Guy Parmelin's State Visit to India (October 5–7, 2026) marked one year of the India–EFTA TEPA trade deal.",
+    "facts": [
+      "Visit October 5–7, 2026; talks at Hyderabad House; focus on 3Ts — Trade, Technology, Talent.",
+      "EFTA (set up 1960): Iceland, Liechtenstein, Norway, Switzerland; Switzerland is not in the EEA.",
+      "TEPA: signed 10 March 2024, entered into force 1 October 2025.",
+      "TEPA goal: US$100 billion investment and one million direct jobs in India over 15 years.",
+      "Young Professionals pact: 300 professionals a year from each country, expandable to 500.",
+      "Second India–EFTA Prosperity Summit: Bharat Mandapam, New Delhi, 7 October 2026."
+    ],
+    "hook": "EFTA's four = 'I Like Nice Sweets': Iceland, Liechtenstein, Norway, Switzerland.",
+    "trap": "TEPA was signed on 10 March 2024 but came into force on 1 October 2025; don't swap the two dates.",
+    "hindi": [
+      "Free Trade Association (मुक्त व्यापार संघ)",
+      "State Visit (राजकीय यात्रा)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which of these countries is NOT a member of EFTA, whose TEPA with India entered into force on 1 October 2025?",
+        "o": [
+          "Norway",
+          "Liechtenstein",
+          "Denmark",
+          "Iceland"
+        ],
+        "k": 2,
+        "why": "EFTA comprises Iceland, Liechtenstein, Norway and Switzerland; Denmark is not a member."
+      },
+      {
+        "q": "Under the India–Switzerland Young Professionals Exchange Agreement (October 2026), how many professionals can each country send annually?",
+        "o": [
+          "300",
+          "500",
+          "100",
+          "1,000"
+        ],
+        "k": 0,
+        "why": "It allows 300 professionals annually from each country, expandable to 500."
+      }
+    ]
+  },
+  "u0321": {
+    "gist": "Abe Memorial Corridor opened in Varanasi (7 October 2026), and the 16th India–Japan Annual Summit (July 2026) widened defence, AI and energy ties.",
+    "facts": [
+      "Abe Memorial Corridor (Rudraksh Centre, Varanasi) opened 7 October 2026 by CM Yogi Adityanath and Akie Abe.",
+      "Rudraksh Centre (Japanese-aided) opened by Modi on 15 July 2021; Abe received Padma Vibhushan in 2021.",
+      "UP: 500-acre Japan City planned in YEIDA region; Yamanashi Prefecture partners UP on green hydrogen.",
+      "16th Annual Summit: Japanese PM Sanae Takaichi in New Delhi, 1–3 July 2026; 16 official outcomes.",
+      "UNICORN = Unified Complex Radio Antenna, a naval defence co-development, announced outside the 16 outcomes.",
+      "ISRO–JAXA LUPEX = Chandrayaan-5; 2027 = Year of Shared Horizons (75 years of diplomatic ties)."
+    ],
+    "hook": "16th Summit → 16 official outcomes: the summit number equals the outcome count.",
+    "trap": "UNICORN was announced separately; it is NOT one of the 16 official outcomes.",
+    "hindi": [
+      "Special Strategic and Global Partnership (विशेष रणनीतिक और वैश्विक साझेदारी)",
+      "Green hydrogen (हरित हाइड्रोजन)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In October 2026, the Shinzo Abe Memorial Corridor was inaugurated at the Rudraksh Convention Centre in which city?",
+        "o": [
+          "Lucknow",
+          "Prayagraj",
+          "Varanasi",
+          "Kanpur"
+        ],
+        "k": 2,
+        "why": "CM Yogi Adityanath and Akie Abe opened it at Rudraksh Centre, Varanasi, on 7 October 2026."
+      },
+      {
+        "q": "The ISRO–JAXA Lunar Polar Exploration Mission (LUPEX), welcomed at the 16th India–Japan Annual Summit 2026, is also called:",
+        "o": [
+          "Chandrayaan-4",
+          "Chandrayaan-5",
+          "Gaganyaan-2",
+          "Mangalyaan-2"
+        ],
+        "k": 1,
+        "why": "The leaders welcomed progress in ISRO–JAXA LUPEX, also called Chandrayaan-5."
+      }
+    ]
+  },
+  "u0322": {
+    "gist": "PM Modi's Uzbekistan visit (29–30 August 2026) upgraded ties to a Comprehensive Strategic Partnership, focusing on uranium, minerals and trade.",
+    "facts": [
+      "Visit: 29–30 August 2026, on the invitation of President Shavkat Mirziyoyev.",
+      "Strategic Partnership (2011) upgraded to a Comprehensive Strategic Partnership.",
+      "Modi received the 'Oliy Darajali Do‘stlik' Order, Uzbekistan's highest state award.",
+      "Uzbekistan (double-landlocked): about 7,000 tonnes uranium output in 2025; reserves 139,000 tonnes.",
+      "Trade target US$5 billion by 2030; NIPL–NIPC deal lets UPI apps scan UZQR codes.",
+      "Exercise DUSTLIK (7th edition) held in Namangan Region, April 2026; LoI to conserve Fayaz Tepa, Kara Tepa."
+    ],
+    "trap": "Two trade figures: US$5 billion target by 2030 (summit) vs Goyal's call to double ~US$1.5 billion to ~US$3 billion in three years.",
+    "hindi": [
+      "Comprehensive Strategic Partnership (व्यापक रणनीतिक साझेदारी)",
+      "Landlocked country (स्थलरुद्ध देश)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which highest state award of Uzbekistan was conferred on PM Narendra Modi during his August 2026 visit?",
+        "o": [
+          "Great Honour Nishan",
+          "Agricola Medal",
+          "Oliy Darajali Do‘stlik Order",
+          "Grand Collar of the State of Palestine"
+        ],
+        "k": 2,
+        "why": "President Mirziyoyev conferred the 'Oliy Darajali Do‘stlik' Order, Uzbekistan's highest state award."
+      },
+      {
+        "q": "What is the name of the India–Uzbekistan joint military exercise whose 7th edition was held in Namangan Region in April 2026?",
+        "o": [
+          "DUSTLIK",
+          "KHANJAR",
+          "NOMADIC ELEPHANT",
+          "KAZIND"
+        ],
+        "k": 0,
+        "why": "Exercise DUSTLIK (7th edition) was last held in Uzbekistan's Namangan Region in April 2026."
+      }
+    ]
+  },
+  "u0323": {
+    "gist": "PM Modi's State Visit to Seychelles (27–29 June 2026) coincided with 50 years of Seychelles' independence and India ties, and produced 19 outcomes.",
+    "facts": [
+      "Visit: 27–29 June 2026; talks with President Dr Patrick Herminie.",
+      "Modi's second visit, after March 2015; advanced the SESEL Joint Vision of February 2026.",
+      "19 outcomes: five development-assistance measures, five announcements, nine agreements/MoUs.",
+      "India gifted Fast Patrol Vessel PS Lespwar to the Seychelles Coast Guard.",
+      "Seychelles decided to join the Coalition for Disaster Resilient Infrastructure.",
+      "NPCI International and Central Bank of Seychelles signed an MoU to implement UPI."
+    ],
+    "hook": "19 outcomes = 5 + 5 + 9 (assistance + announcements + agreements).",
+    "hindi": [
+      "Coast Guard (तटरक्षक बल)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "During PM Modi's June 2026 State Visit to Seychelles, which vessel did India gift to the Seychelles Coast Guard?",
+        "o": [
+          "INS Sukanya",
+          "INS Vikrant",
+          "INS Udaygiri",
+          "PS Lespwar"
+        ],
+        "k": 3,
+        "why": "India gifted the indigenously built Fast Patrol Vessel PS Lespwar to the Seychelles Coast Guard."
+      }
+    ]
+  },
+  "u0324": {
+    "gist": "India and Cyprus raised ties to a Strategic Partnership during President Nikos Christodoulides' State Visit to India, May 20–23, 2026.",
+    "facts": [
+      "First India visit of President Christodoulides in his current role; Business Forum held in Mumbai.",
+      "Diplomatic ties since February 17, 1962; 65th anniversary to be marked in 2027.",
+      "Five-year defence cooperation roadmap for 2026–2031 welcomed.",
+      "MoU between NPCI International Payments Limited and Eurobank Cyprus.",
+      "UPI to be made interoperable with the ECB's TIPS (Target Instant Payment Settlement) system."
+    ],
+    "hook": "1962 + 65 = 2027: the 65th anniversary year.",
+    "hindi": [
+      "Strategic Partnership (रणनीतिक साझेदारी)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "India and Cyprus, which became Strategic Partners in May 2026, established diplomatic relations in which year?",
+        "o": [
+          "1947",
+          "1971",
+          "1957",
+          "1962"
+        ],
+        "k": 3,
+        "why": "Diplomatic relations began on February 17, 1962; the 65th anniversary falls in 2027."
+      }
+    ]
+  },
+  "u0325": {
+    "gist": "Myanmar President U Min Aung Hlaing made his first foreign trip as President to India (May 30–June 3, 2026), stressing Kaladan and connectivity projects.",
+    "facts": [
+      "Visit: May 30 to June 3, 2026; his first foreign trip since taking office.",
+      "Prayed at Mahabodhi Temple, Bodh Gaya, and visited Sujata Temple.",
+      "Toured NTPC's research arm NETRA complex in Greater Noida (clean energy research).",
+      "Kaladan route: Sittwe Port → Paletwa (inland waterway) → Zorinpui, Mizoram (road).",
+      "Both sides pushed to finish the India–Myanmar–Thailand Trilateral Highway.",
+      "Mekong Ganga ICCR scholarships for Myanmar students raised from 36 to 100."
+    ],
+    "hook": "Kaladan = S-P-Z: Sittwe (port) → Paletwa (river) → Zorinpui (road, Mizoram).",
+    "hindi": [
+      "Neighbourhood First policy (पड़ोसी प्रथम नीति)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Under the Kaladan Multi-Modal Transit Transport Project, discussed during the Myanmar President's 2026 India visit, Zorinpui lies in which Indian state?",
+        "o": [
+          "Manipur",
+          "Tripura",
+          "Nagaland",
+          "Mizoram"
+        ],
+        "k": 3,
+        "why": "The road component connects Paletwa with Zorinpui in Mizoram."
+      }
+    ]
+  },
+  "u0326": {
+    "gist": "PM Modi's UAE visit (May 15, 2026) began a five-nation tour and produced oil storage, shipbuilding and supercomputing deals.",
+    "facts": [
+      "May 15, 2026: Modi in Abu Dhabi; tour order UAE, Netherlands, Sweden, Norway, Italy.",
+      "ISPRL–ADNOC MoU: up to 30 million barrels of ADNOC crude in India's strategic reserves.",
+      "Reserve sites: Visakhapatnam (Andhra Pradesh), Chandikhol (Odisha); Fujairah framework in the UAE.",
+      "Cochin Shipyard–Drydocks World MoU: Ship Repair Cluster at Vadinar; C-DAC–G42: 8-exaflop supercomputer.",
+      "MAITRI (Master Application for International Trade and Regulatory Interface) runs the Virtual Trade Corridor.",
+      "January 19, 2026 visit of UAE President: HPCL–ADNOC Gas 10-year deal, 0.5 million tonnes LNG yearly from 2028."
+    ],
+    "trap": "ISPRL–ADNOC = crude oil storage; IOCL–ADNOC = LPG supplies; HPCL–ADNOC Gas = LNG.",
+    "hindi": [
+      "Strategic petroleum reserve (सामरिक पेट्रोलियम भंडार)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Under the May 2026 MoU between ISPRL and ADNOC, up to how much ADNOC crude oil may be stored in India's strategic reserves?",
+        "o": [
+          "30 million barrels",
+          "10 million barrels",
+          "50 million barrels",
+          "8 million barrels"
+        ],
+        "k": 0,
+        "why": "The MoU provides for ADNOC crude storage of up to 30 million barrels in India's reserves."
+      },
+      {
+        "q": "Where will the Ship Repair Cluster under the 2026 Cochin Shipyard–Drydocks World MoU be set up?",
+        "o": [
+          "Kandla",
+          "Visakhapatnam",
+          "Chandikhol",
+          "Vadinar"
+        ],
+        "k": 3,
+        "why": "Cochin Shipyard and Drydocks World agreed to set up a Ship Repair Cluster at Vadinar."
+      }
+    ]
+  },
+  "u0327": {
+    "gist": "Canadian PM Mark Carney's India visit (February 27–March 2, 2026) marked a turning point, led by a CAD 2.6 billion uranium supply deal.",
+    "facts": [
+      "Visit: February 27 to March 2, 2026; 79 years of India–Canada diplomatic ties in 2026.",
+      "Cameco–Department of Atomic Energy deal: about CAD 2.6 billion, long-term uranium supply.",
+      "India's Viksit Bharat vision linked with Canada's 'Build Canada Strong' agenda.",
+      "Canada–India Pulse Protein Centre of Excellence proposed at NIFTEM Kundli.",
+      "AICTE–Mitacs MoU: about 300 Indian undergraduates yearly for Canadian research internships, from 2027.",
+      "Trade goal: about CAD 70 billion (INR 4.65 lakh crore) by 2030."
+    ],
+    "hindi": [
+      "Centre of Excellence (उत्कृष्टता केंद्र)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which Canadian company signed an approximately CAD 2.6 billion long-term uranium supply agreement with India's Department of Atomic Energy in 2026?",
+        "o": [
+          "Cameco",
+          "Mitacs",
+          "Brookfield",
+          "Nutrien"
+        ],
+        "k": 0,
+        "why": "The Cameco–DAE agreement, about CAD 2.6 billion, was the most significant commercial outcome."
+      }
+    ]
+  },
+  "u0328": {
+    "gist": "Brazil's President Lula's State Visit to India (February 18-22, 2026) included the India AI Impact Summit and a USD 30 billion trade goal.",
+    "facts": [
+      "Visit: February 18-22, 2026; talks with PM Modi at Hyderabad House on 21 February.",
+      "Attended the India AI Impact Summit 2026 (19–20 February).",
+      "Lula's fifth India visit as President, sixth overall, and his second State Visit.",
+      "Strategic Partnership since 2006; trade target over USD 30 billion by 2030.",
+      "MoU: India's Ministry of Steel with Brazil's Ministry of Mines and Energy on minerals for steel.",
+      "Partners in BRICS, G20, IBSA, G-4, WTO and the United Nations."
+    ],
+    "trap": "Three counts for Lula: fifth visit as President, sixth visit overall, second State Visit.",
+    "hindi": [
+      "Strategic Partnership (रणनीतिक साझेदारी)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "Brazilian President Lula's February 2026 State Visit to India was his which visit to India as President?",
+        "o": [
+          "Third",
+          "Fourth",
+          "Fifth",
+          "Sixth"
+        ],
+        "k": 2,
+        "why": "It was Lula's fifth visit as President, sixth overall, and his second State Visit."
+      }
+    ]
+  },
+  "u0329": {
+    "gist": "President Droupadi Murmu made State Visits to Moldova, North Macedonia and Romania (July 19–25, 2026), the first Indian presidential visits to the first two.",
+    "facts": [
+      "Dates: July 19–25, 2026; first Indian President to visit Moldova and North Macedonia.",
+      "Romania: first Indian presidential visit since Shankar Dayal Sharma in May 1994.",
+      "Moldova: met President Maia Sandu; KEC International built the 400-kV Vulcănesti–Chisinău line.",
+      "North Macedonia: met President Gordana Siljanovska-Davkova; Gandhi bust unveiled in Skopje.",
+      "Mother Teresa was born in Skopje and received the Bharat Ratna in 1980.",
+      "Romania: Doctor Honoris Causa from Bucharest University of Economic Studies; 2028 = India–Romania Year of Innovation."
+    ],
+    "trap": "'First-ever visit' applies only to Moldova and North Macedonia; Romania had a 1994 presidential visit.",
+    "hindi": [
+      "State Visit (राजकीय यात्रा)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "During her July 2026 State Visits, President Droupadi Murmu became the first Indian President to visit which pair of countries?",
+        "o": [
+          "Romania and Moldova",
+          "Moldova and Bulgaria",
+          "North Macedonia and Romania",
+          "Moldova and North Macedonia"
+        ],
+        "k": 3,
+        "why": "These were first presidential visits to Moldova and North Macedonia; Romania was last visited in May 1994."
+      }
+    ]
+  },
+  "u0330": {
+    "gist": "The India–UK CETA trade deal and Double Contribution Convention became operational on July 15, 2026, boosting trade, mobility and social-security relief.",
+    "facts": [
+      "Operational: July 15, 2026; CETA concluded 6 May 2025, signed in London 24 July 2025.",
+      "DCC signed 10 February 2026; ends double social-security payments for posted workers.",
+      "Took 14 negotiation rounds; built on Enhanced Trade Partnership and Roadmap 2030 (May 2021).",
+      "CETA has 30 chapters; UK gives zero duty on nearly 99% of Indian tariff lines.",
+      "UK service commitments: 12 sectors and 137 sub-sectors.",
+      "India kept dairy, cereals, millets, apples, edible oils and oilseeds out of major concessions."
+    ],
+    "trap": "CETA = trade agreement; DCC = social-security convention. DCC does not automatically give host-country pensions.",
+    "hindi": [
+      "Free Trade Agreement (मुक्त व्यापार समझौता)",
+      "Social security (सामाजिक सुरक्षा)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "The India–UK Double Contribution Convention (DCC), operational from July 15, 2026, mainly deals with:",
+        "o": [
+          "Avoiding double taxation of company profits",
+          "Zero-duty access for Indian exports",
+          "Mutual recognition of degrees",
+          "Avoiding dual social-security contributions of posted workers"
+        ],
+        "k": 3,
+        "why": "DCC prevents dual social-security contributions for eligible temporarily posted or detached workers."
+      },
+      {
+        "q": "How many chapters does the India–UK Comprehensive Economic and Trade Agreement (CETA), operational from July 2026, have?",
+        "o": [
+          "30",
+          "12",
+          "14",
+          "137"
+        ],
+        "k": 0,
+        "why": "CETA is a next-generation free trade agreement with 30 chapters."
+      }
+    ]
+  },
+  "u0331": {
+    "gist": "PM Modi's Oslo visit (18–19 May 2026) raised India–Norway ties to a Green Strategic Partnership; Oslo also hosted the 3rd India–Nordic Summit.",
+    "facts": [
+      "Visit: 18–19 May 2026; hosted by PM Jonas Gahr Støre; audience with King Harald V.",
+      "India–Norway relations established in February 1947.",
+      "Ties upgraded to a Green Strategic Partnership for climate action and green industries.",
+      "3rd India–Nordic Summit, Oslo, May 19, 2026: Green Technology and Innovation Strategic Partnership.",
+      "India's Arctic station Himadri is at Ny-Ålesund, Svalbard; Norway joined the Indo-Pacific Oceans Initiative.",
+      "First Maritime Security, Disarmament and Non-Proliferation Dialogue: Oslo, September 11, 2025."
+    ],
+    "trap": "Bilateral (Norway) = Green Strategic Partnership; India–Nordic = Green Technology and Innovation Strategic Partnership.",
+    "hindi": [
+      "Green Strategic Partnership (हरित रणनीतिक साझेदारी)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "During PM Modi's May 2026 Oslo visit, India–Norway ties were elevated to which partnership?",
+        "o": [
+          "Green Strategic Partnership",
+          "Special Strategic Partnership",
+          "Comprehensive Strategic Partnership",
+          "Special Global Strategic Partnership"
+        ],
+        "k": 0,
+        "why": "Both sides elevated the relationship to a Green Strategic Partnership."
+      },
+      {
+        "q": "Where is India's Arctic research station Himadri, mentioned in the India–Norway joint statement of May 2026?",
+        "o": [
+          "Oslo",
+          "Tromsø",
+          "Ny-Ålesund, Svalbard",
+          "Bergen"
+        ],
+        "k": 2,
+        "why": "India's Himadri research station is at Ny-Ålesund, Svalbard."
+      }
+    ]
+  },
+  "u0332": {
+    "gist": "PM Modi's Italy visit (May 19-20, 2026) upgraded ties to a Special Strategic Partnership; FAO gave him its highest honour, the Agricola Medal.",
+    "facts": [
+      "Met PM Giorgia Meloni and President Sergio Mattarella in Rome, May 19-20, 2026.",
+      "Ties upgraded to a Special Strategic Partnership; annual leaders' meetings agreed.",
+      "Joint Strategic Action Plan 2025–2029 was adopted at the 2024 G20 Summit.",
+      "Trade target: €20 billion by 2029.",
+      "2027 designated Year of Culture and Tourism; INNOVIT India innovation hub launched.",
+      "FAO headquarters, Rome: Modi received the Agricola Medal, FAO's highest honour, for food security work."
+    ],
+    "trap": "The Agricola Medal is given by FAO (a UN body in Rome), not by the Italian government.",
+    "hindi": [
+      "Food security (खाद्य सुरक्षा)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which honour did PM Narendra Modi receive at FAO headquarters, Rome, in May 2026?",
+        "o": [
+          "Great Honour Nishan",
+          "Speaker of the Knesset Medal",
+          "Oliy Darajali Do‘stlik Order",
+          "Agricola Medal"
+        ],
+        "k": 3,
+        "why": "At FAO headquarters, Modi received the Agricola Medal, FAO's highest honour."
+      }
+    ]
+  },
+  "u0333": {
+    "gist": "President Macron's India visit (17–19 February 2026) upgraded ties to a Special Global Strategic Partnership under the Horizon 2047 Roadmap.",
+    "facts": [
+      "Visit: 17–19 February 2026; partnership placed under the Horizon 2047 Roadmap.",
+      "India-France Year of Innovation 2026 launched in Mumbai (AI, science, health, education).",
+      "Tata-Airbus H125 Final Assembly Line, Vamagal, Karnataka: India's first private-sector helicopter line (17 February 2026).",
+      "BEL–Safran joint-venture MoU to make HAMMER missiles in India.",
+      "France backs India's target of 100 GW nuclear capacity by 2047; Jaitapur project progressed."
+    ],
+    "hook": "2047 twice: Horizon 2047 Roadmap and 100 GW nuclear by 2047.",
+    "trap": "France = 'Special Global Strategic Partnership'; Italy = 'Special Strategic Partnership' (both 2026).",
+    "hindi": [
+      "Nuclear power (परमाणु ऊर्जा)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "India's first private-sector helicopter Final Assembly Line, inaugurated on February 17, 2026, is located at:",
+        "o": [
+          "Vadodara, Gujarat",
+          "Vamagal, Karnataka",
+          "Nashik, Maharashtra",
+          "Hosur, Tamil Nadu"
+        ],
+        "k": 1,
+        "why": "The Tata-Airbus H125 Final Assembly Line at Vamagal, Karnataka, opened on February 17, 2026."
+      }
+    ]
+  },
+  "u0334": {
+    "gist": "German Chancellor Friedrich Merz visited India (January 12–13, 2026) for talks with PM Modi in Ahmedabad on trade, defence, skills and migration.",
+    "facts": [
+      "Visit: January 12–13, 2026; talks held in Ahmedabad, Gujarat.",
+      "Bilateral goods and services trade crossed US$50 billion in 2024.",
+      "Germany: visa-free airport transit for Indian passport holders from June 3, 2026.",
+      "Joint Declaration of Intent on Global Skills Partnership: ethical recruitment, especially of health workers.",
+      "Renewable-energy skilling Centre of Excellence proposed at National Skill Training Institute, Hyderabad."
+    ],
+    "hindi": [
+      "Migration (प्रवासन)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "From which date did Germany introduce visa-free airport transit for Indian passport holders, announced during Chancellor Merz's January 2026 visit?",
+        "o": [
+          "June 3, 2026",
+          "January 13, 2026",
+          "March 1, 2026",
+          "July 1, 2026"
+        ],
+        "k": 0,
+        "why": "Germany announced visa-free airport transit for Indian passport holders effective June 3, 2026."
+      }
+    ]
+  },
+  "u0335": {
+    "gist": "India and Liberia launched GoF on S4, a UN group on shipping safety and seafarers, on 25 September 2026 in New York.",
+    "facts": [
+      "GoF on S4 = Group of Friends on Safety and Security of Shipping and Seafarers.",
+      "Launched 25 September 2026 at UN HQ during the 81st UNGA; about 25 countries attended.",
+      "Co-chairs: Dr. S. Jaishankar and Liberian Foreign Minister Sara Beysolow Nyanti.",
+      "Liberia has the world's largest ship registry by Gross Tonnage; India is a major seafarer supplier.",
+      "Three priorities: shipping safety, maritime security, seafarers' welfare; supports IMO and ILO.",
+      "Key laws: UNCLOS Article 94, SOLAS Convention 1974, Maritime Labour Convention 2006."
+    ],
+    "hook": "S4 = four S-words: Safety, Security, Shipping, Seafarers.",
+    "hindi": [
+      "Seafarers (नाविक)",
+      "Maritime security (समुद्री सुरक्षा)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "India launched the Group of Friends on Safety and Security of Shipping and Seafarers (GoF on S4) at the 81st UNGA in September 2026 with which country?",
+        "o": [
+          "Panama",
+          "Singapore",
+          "Marshall Islands",
+          "Liberia"
+        ],
+        "k": 3,
+        "why": "India and Liberia launched GoF on S4 on September 25, 2026, and serve as co-chairs."
+      }
+    ]
+  },
+  "u0336": {
+    "gist": "The first India–Mali Forum for the Promotion of Exports was held in Bamako on June 19–20, 2026, to boost trade and partnership.",
+    "facts": [
+      "Held June 19–20, 2026, in Bamako; theme 'Reinforcing Trade and Strategic Partnerships.'",
+      "Chaired by Malian PM Major General Abdoulaye Maïga; India's team led by Joint Secretary Amit Kumar.",
+      "Bilateral trade: US$326.61 million in FY 2025–26, up 55%.",
+      "India's Duty-Free Tariff Preference (DFTP) Scheme supported trade.",
+      "Mali exports cotton, leather, cashew, gum arabic; India supplies pharmaceuticals, textiles, vehicles."
+    ],
+    "hindi": [
+      "Export promotion (निर्यात संवर्धन)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "In which city was the first India–Mali Forum for the Promotion of Exports held in June 2026?",
+        "o": [
+          "Niamey",
+          "Dakar",
+          "Bamako",
+          "Ouagadougou"
+        ],
+        "k": 2,
+        "why": "The forum was held on June 19–20, 2026 in Bamako, Mali."
+      }
+    ]
+  },
+  "u0337": {
+    "gist": "PM Modi's first bilateral visit to Ethiopia (16–17 December 2025) raised ties to a Strategic Partnership; he received Ethiopia's highest award.",
+    "facts": [
+      "Visit: 16–17 December 2025, Addis Ababa; talks with PM Dr. Abiy Ahmed Ali.",
+      "Modi addressed a Joint Session of the Ethiopian Parliament.",
+      "Awarded the 'Great Honour Nishan of Ethiopia', the country's highest award.",
+      "Ties raised to a Strategic Partnership; formal diplomatic relations since 1950.",
+      "Second Joint Defence Cooperation meeting: Addis Ababa, September 28, 2026.",
+      "Addis Ababa hosts the headquarters of the African Union."
+    ],
+    "hindi": [
+      "African Union (अफ्रीकी संघ)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which award did Ethiopia confer on PM Narendra Modi during his December 2025 visit to Addis Ababa?",
+        "o": [
+          "Great Honour Nishan of Ethiopia",
+          "Oliy Darajali Do‘stlik Order",
+          "Agricola Medal",
+          "Speaker of the Knesset Medal"
+        ],
+        "k": 0,
+        "why": "Modi was conferred Ethiopia's highest award, the 'Great Honour Nishan of Ethiopia'."
+      }
+    ]
+  },
+  "u0338": {
+    "gist": "PM Modi attended the Third Australia–India Annual Summit in Melbourne (9 July 2026), boosting maritime, uranium, space and sports cooperation.",
+    "facts": [
+      "Visit: July 8–10, 2026; summit in Melbourne on 9 July with PM Anthony Albanese.",
+      "Comprehensive Strategic Partnership dates from 2020; new declaration expands the 2009 security framework.",
+      "Maritime Security Collaboration Roadmap; Indian Coast Guard–Maritime Border Command MoU.",
+      "Australia backed India's Nuclear Suppliers Group membership and Gaganyaan; uranium exports under IAEA safeguards.",
+      "Temporary tracking terminal commissioned on the Cocos Islands.",
+      "Sports Roadmap launched at Melbourne Cricket Ground, 10 July 2026; links 2030 CWG Ahmedabad, 2032 Brisbane Olympics."
+    ],
+    "hindi": [
+      "Comprehensive Strategic Partnership (व्यापक रणनीतिक साझेदारी)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Where was a temporary tracking terminal commissioned under India–Australia space cooperation noted at the July 2026 Annual Summit?",
+        "o": [
+          "Darwin",
+          "Christmas Island",
+          "Perth",
+          "Cocos Islands"
+        ],
+        "k": 3,
+        "why": "A temporary tracking terminal was commissioned on the Cocos Islands."
+      },
+      {
+        "q": "As per the India–Australia Roadmap for Sports Collaboration (July 2026), the 2030 Commonwealth Games will be held in:",
+        "o": [
+          "Ahmedabad",
+          "Brisbane",
+          "Melbourne",
+          "New Delhi"
+        ],
+        "k": 0,
+        "why": "The roadmap links cooperation to the 2030 Commonwealth Games in Ahmedabad and 2032 Games in Brisbane."
+      }
+    ]
+  },
+  "u0339": {
+    "gist": "PM Modi's Auckland visit (July 10–11, 2026), the first by an Indian PM in four decades, set up an India–New Zealand Strategic Partnership.",
+    "facts": [
+      "Visit: July 10–11, 2026, Auckland; Strategic Partnership and Roadmap to 2030 adopted.",
+      "First Indian prime-ministerial visit to New Zealand in four decades; ten agreements concluded.",
+      "FTA talks began during PM Christopher Luxon's India visit, March 2025.",
+      "Trade: about NZ$3.95 billion now, target NZ$7 billion by 2030.",
+      "NZ to facilitate US$20 billion investment over 15 years; up to 5,000 skilled visa pathways.",
+      "Kiwifruit Centres of Excellence planned in Nagaland and Uttarakhand."
+    ],
+    "trap": "The Roadmap to 2030 is not legally binding: no enforceable obligations or automatic funding.",
+    "hindi": [
+      "Strategic Partnership (रणनीतिक साझेदारी)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "During PM Modi's July 2026 New Zealand visit, Kiwifruit Centres of Excellence were planned in which two Indian states?",
+        "o": [
+          "Nagaland and Uttarakhand",
+          "Himachal Pradesh and Sikkim",
+          "Arunachal Pradesh and Meghalaya",
+          "Uttarakhand and Himachal Pradesh"
+        ],
+        "k": 0,
+        "why": "Kiwifruit Centres of Excellence are planned in Nagaland and Uttarakhand."
+      }
+    ]
+  },
+  "u0340": {
+    "gist": "WJP Rule of Law Index 2026 (October 21, 2026) ranked India 88th of 143, down two places; Denmark topped.",
+    "facts": [
+      "Released by World Justice Project on October 21, 2026; India 88th of 143, score 0.48.",
+      "India was 86th in 2025 (score 0.49); slipped two places.",
+      "Rule of law declined in 62% of countries — ninth straight year decline beat improvement.",
+      "Index uses eight factors, 44 sub-factors; score 0 (weakest) to 1 (strongest).",
+      "India: 3rd of six in South Asia; best in Open Government (45th), worst in Civil Justice (116th).",
+      "Top: Denmark (0.90), Norway, Finland; last: Venezuela (143rd)."
+    ],
+    "trap": "India's 2026 score 0.48 and rank 88th vs 2025 score 0.49 and rank 86th.",
+    "hindi": [
+      "Rule of Law (विधि का शासन)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In the WJP Rule of Law Index 2026, released in October 2026, what was India's rank?",
+        "o": [
+          "86th",
+          "88th",
+          "92nd",
+          "75th"
+        ],
+        "k": 1,
+        "why": "India ranked 88th among 143 countries with a score of 0.48, down from 86th."
+      }
+    ]
+  },
+  "u0341": {
+    "gist": "The 2026 Nobel Prizes were announced on October 5–12, 2026, in six fields; Peace went to Navi Pillay, a jurist of Indian Tamil origin.",
+    "facts": [
+      "Medicine: Karl Deisseroth, Peter Hegemann, Georg Nagel — optogenetics (light-controlled neurons); announced 5 October.",
+      "Physics: Francis Halzen — IceCube Neutrino Observatory in Antarctic ice; high-energy astrophysical neutrinos.",
+      "Chemistry: Henri B. Kagan and Kenso Soai — chirality (molecular handedness): asymmetric catalysis and autocatalysis.",
+      "Literature (8 October): Anne Carson, Canadian poet and classicist; works include Autobiography of Red, Nox.",
+      "Peace: Navi Pillay, South African jurist of Indian Tamil origin; UN High Commissioner for Human Rights 2008–2014.",
+      "Economics: Robert E. Hall (Stanford) and Michael Woodford (Columbia) — macroeconomic stabilisation (12 October)."
+    ],
+    "hook": "Optogenetics = 'opto' (light) + genetics: selected neurons switched on or off using light.",
+    "trap": "Two Stanford names: Karl Deisseroth (Medicine) and Robert E. Hall (Economics) are both from Stanford University.",
+    "hindi": [
+      "Nobel Peace Prize (नोबेल शांति पुरस्कार)",
+      "Human rights (मानवाधिकार)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Who received the Nobel Peace Prize 2026 for efforts to promote peace and international law?",
+        "o": [
+          "Anne Carson",
+          "Navanethem “Navi” Pillay",
+          "Maria Ressa",
+          "Ursula von der Leyen"
+        ],
+        "k": 1,
+        "why": "Navi Pillay, South African jurist of Indian Tamil origin, won for promoting peace and international law."
+      },
+      {
+        "q": "The 2026 Nobel Prize in Physics went to Francis Halzen for his role in which project?",
+        "o": [
+          "LIGO",
+          "Event Horizon Telescope",
+          "IceCube Neutrino Observatory",
+          "James Webb Space Telescope"
+        ],
+        "k": 2,
+        "why": "Halzen played a decisive role in IceCube, which uses Antarctic ice to detect neutrinos."
+      }
+    ]
+  },
+  "u0342": {
+    "gist": "Global Hunger Index 2026 ranked India 100th of 122 countries (score 24.1, 'serious'); theme: 'No Security Without Food Security.'",
+    "facts": [
+      "Released October 2026; 21st edition; first published in 2006.",
+      "Publishers: Concern Worldwide, Welthungerhilfe and IFHV.",
+      "India: 100th of 122, score 24.1 ('serious'); South Asia average 23.5, world 18.1.",
+      "Four indicators: undernourishment (1/3), child stunting (1/6), child wasting (1/6), under-five mortality (1/3).",
+      "India: child wasting 19.0% (main concern); stunting fell from 50% (2000) to 29.3%.",
+      "Last: Somalia (122nd, 47.0, 'alarming'); 24 countries share ranks 1–24."
+    ],
+    "hook": "Weights add up to 1: undernourishment and child mortality 1/3 each; stunting and wasting 1/6 each.",
+    "trap": "GHI score runs backwards: 0 is best, 100 is worst — a higher score means more hunger.",
+    "hindi": [
+      "Undernourishment (अल्पपोषण)",
+      "Stunting (बौनापन)",
+      "Child wasting (दुबलापन)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In the Global Hunger Index 2026, released in October 2026, what was India's rank?",
+        "o": [
+          "105th",
+          "111th",
+          "102nd",
+          "100th"
+        ],
+        "k": 3,
+        "why": "India ranked 100th among 122 countries with a score of 24.1 ('serious')."
+      }
+    ]
+  },
+  "u0343": {
+    "gist": "A WHO–UNICEF JMP report (September 22, 2026) on school water, sanitation and hygiene warns universal coverage by 2030 is unlikely.",
+    "facts": [
+      "Released September 22, 2026: 'Progress on Drinking Water, Sanitation and Hygiene in Schools 2015–2025'.",
+      "Tracks SDG Indicator 4.a.1; universal coverage means over 99%.",
+      "Global 2025: schools with basic water 78%, sanitation 77%, hygiene 72%.",
+      "India basic coverage: water 96.6%, sanitation 80.8% (2025); hygiene 52.9% (2024).",
+      "About 50 million Indian children lacked school sanitation — nearly one-fifth of the global 244 million.",
+      "India among 28 of 62 countries on track for universal basic drinking water."
+    ],
+    "trap": "Needed speed-up: fourfold for water, fivefold for sanitation; for hygiene WHO says fourfold, parts of the JMP report say fivefold.",
+    "hindi": [
+      "Sanitation (स्वच्छता)",
+      "Drinking water (पेयजल)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "According to the WHO–UNICEF JMP report released in September 2026, what was India's basic drinking water coverage in schools (2025)?",
+        "o": [
+          "80.8%",
+          "52.9%",
+          "96.6%",
+          "78%"
+        ],
+        "k": 2,
+        "why": "India: drinking water 96.6% (2025), sanitation 80.8% (2025), hygiene 52.9% (2024)."
+      }
+    ]
+  },
+  "u0344": {
+    "gist": "Scholars at Risk's Free to Think 2026 report (September 15, 2026) rated India's academic freedom 'severely restricted'; its AFI score fell to 0.14.",
+    "facts": [
+      "12th edition of Free to Think, by Scholars at Risk (SAR), released September 15, 2026.",
+      "India's Academic Freedom Index score: 0.16 (2024) → 0.14; category 'severely restricted'.",
+      "Report counted 382 attacks from 321 incidents in 59 countries (1 July 2025–30 June 2026).",
+      "AFI covers 179 countries; run by FAU (Germany) and V-Dem Institute with 2,357 experts.",
+      "Five indicators include freedom to research and teach, institutional autonomy and campus integrity.",
+      "Same category as India: Hong Kong, Indonesia, Pakistan, West Bank, Ukraine."
+    ],
+    "trap": "Free to Think is SAR's report; the Academic Freedom Index itself is run by FAU and the V-Dem Institute.",
+    "hindi": [
+      "Academic freedom (शैक्षणिक स्वतंत्रता)",
+      "Institutional autonomy (संस्थागत स्वायत्तता)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "How did Scholars at Risk's Free to Think 2026 report classify academic freedom in India?",
+        "o": [
+          "Severely restricted",
+          "Completely restricted",
+          "Moderately restricted",
+          "Mostly free"
+        ],
+        "k": 0,
+        "why": "SAR classified India as 'severely restricted'; its AFI score fell from 0.16 to 0.14."
+      }
+    ]
+  },
+  "u0345": {
+    "gist": "WEF's 20th Global Gender Gap Report (September 16, 2026) ranked India 131st of 145 with 64.5% parity; Iceland topped again.",
+    "facts": [
+      "India: 131st of 145, same rank as 2025; score up from 64.4% to 64.5%.",
+      "India's weakest: Political Empowerment 24.5% (67th) and Economic Participation 41.2%.",
+      "India's strongest: Educational Attainment 96.6%, Health and Survival 95.6%.",
+      "Index launched by WEF in 2006; scores 0 (disparity) to 1 (full parity).",
+      "Iceland first (93.0%) for the 17th straight year; Chad last (145th).",
+      "Globally 69.2% of the gap closed; full parity needs another 120 years."
+    ],
+    "hook": "India's four pillars fall from school to parliament: Study 96.6, Health 95.6, Money 41.2, Power 24.5 (% parity).",
+    "trap": "Rank 131st is unchanged from 2025; only the score moved (64.4% → 64.5%).",
+    "hindi": [
+      "Gender gap (लैंगिक अंतराल)",
+      "Political empowerment (राजनीतिक सशक्तिकरण)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In WEF's Global Gender Gap Report 2026, released in September 2026, India ranked:",
+        "o": [
+          "127th",
+          "135th",
+          "131st",
+          "129th"
+        ],
+        "k": 2,
+        "why": "India ranked 131st among 145 economies with 64.5% parity, same rank as 2025."
+      }
+    ]
+  },
+  "u0346": {
+    "gist": "In September 2026 India endorsed the US-led 'Call to Action for 6G Leadership and Security', joining the US and 24 other countries.",
+    "facts": [
+      "Followed the G20 Innovation Ministers' Meeting, Chapel Hill, North Carolina, September 1–2, 2026.",
+      "Initiative launched July 2026 under the US Commerce Department's NTIA.",
+      "India's participation coordinated by the Department of Telecommunications (DoT).",
+      "India aims for about 10% of global 6G standards and patents by 2030.",
+      "Bharat 6G Vision launched March 2023; Bharat 6G Alliance grew from 14 to 85 members.",
+      "India represented by MoS Jitin Prasada; around 4,000 patents contributed by March 2026."
+    ],
+    "hindi": [
+      "Telecommunications (दूरसंचार)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which Indian body coordinates India's participation in the US-led 'Call to Action for 6G Leadership and Security' endorsed in September 2026?",
+        "o": [
+          "Ministry of Electronics and IT",
+          "Department of Science and Technology",
+          "NITI Aayog",
+          "Department of Telecommunications"
+        ],
+        "k": 3,
+        "why": "India's participation will be coordinated by the Department of Telecommunications (DoT)."
+      }
+    ]
+  },
+  "u0347": {
+    "gist": "Oxford Economics Global Cities Index 2026 ranked Delhi 268th of 1,000 cities, India's best; New York stayed first.",
+    "facts": [
+      "Delhi 268th (India's best), Bengaluru 311th, Mumbai 330th; no Indian city in global top 100.",
+      "Global top three: New York, London, Paris.",
+      "Index introduced in 2024 by Oxford Economics; covers 1,000 cities.",
+      "Five pillars: Economics, Human Capital, Quality of Life, Environment, Governance.",
+      "Delhi scored 57.6/100; best pillar Human Capital (13th globally).",
+      "Other Indian top-10: Chennai, Hyderabad, Pune, Thrissur, Kochi, Kolkata, Kozhikode (499th)."
+    ],
+    "hindi": [
+      "Quality of life (जीवन की गुणवत्ता)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "In the Oxford Economics Global Cities Index 2026, which was India's highest-ranked city?",
+        "o": [
+          "Mumbai",
+          "Bengaluru",
+          "Delhi",
+          "Chennai"
+        ],
+        "k": 2,
+        "why": "Delhi ranked 268th of 1,000 cities, ahead of Bengaluru (311th) and Mumbai (330th)."
+      }
+    ]
+  },
+  "u0348": {
+    "gist": "On September 22, 2026, the US, Denmark and Greenland signed an Arctic Defense Agreement at the UN in New York, expanding US military access.",
+    "facts": [
+      "Signed by Donald Trump, Danish PM Mette Frederiksen and Greenland PM Jens-Frederik Nielsen.",
+      "Amends the 1951 Defense Agreement (signed 27 April 1951) under the North Atlantic Treaty.",
+      "Earlier supplements: 1991 MoU and 2004 Igaliku Agreement.",
+      "Expands US activity at Pituffik Space Base (formerly Thule Air Base), north-western Greenland.",
+      "Recognises Denmark's sovereignty and Greenland's self-determination; refers to US Golden Dome missile defence.",
+      "Generally bars non-NATO countries from military bases in Greenland without the parties' agreement."
+    ],
+    "trap": "Pituffik Space Base and Thule Air Base are the same place (old and new names).",
+    "hindi": [
+      "Self-determination (आत्मनिर्णय)",
+      "Sovereignty (संप्रभुता)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "The 2026 US–Denmark–Greenland Arctic Defense Agreement allows expansion of US military activity at which base, formerly called Thule Air Base?",
+        "o": [
+          "Igaliku Base",
+          "Nuuk Air Station",
+          "Pituffik Space Base",
+          "Keflavik Base"
+        ],
+        "k": 2,
+        "why": "It permits expansion at Pituffik Space Base, formerly Thule Air Base, in north-western Greenland."
+      }
+    ]
+  },
+  "u0349": {
+    "gist": "PM Modi attended the 26th SCO Summit in Bishkek (August 31–September 1, 2026), which adopted the Bishkek Declaration in SCO's 25th anniversary year.",
+    "facts": [
+      "Venue: Bishkek, Kyrgyz Republic; chaired by President Sadyr Japarov; 28 documents approved.",
+      "India's approach: Security, Connectivity and Opportunity; backed English as an SCO official language.",
+      "India to host the first SCO Civilisation Dialogue Forum later in 2026.",
+      "SCO set up June 15, 2001 (from Shanghai Five, 1996); 10 members; Secretariat in Beijing.",
+      "Joined: India and Pakistan 2017, Iran 2023, Belarus 2024; RATS is in Tashkent.",
+      "Pakistan holds 2026–27 presidency; Lahore named SCO Tourism and Cultural Capital 2026–27."
+    ],
+    "hook": "India's SCO approach spells S-C-O: Security, Connectivity, Opportunity.",
+    "trap": "Heads of State summit = 26th, Bishkek (Modi); Heads of Government meeting = 25th, Dushanbe (Rajnath Singh).",
+    "hindi": [
+      "Declaration (घोषणापत्र)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which city was designated the SCO Tourism and Cultural Capital for 2026–27?",
+        "o": [
+          "Bishkek",
+          "Lahore",
+          "Dushanbe",
+          "Tashkent"
+        ],
+        "k": 1,
+        "why": "Pakistan took the 2026–27 presidency; Lahore was named SCO Tourism and Cultural Capital."
+      },
+      {
+        "q": "Where was the 26th SCO Council of Heads of State meeting held on August 31–September 1, 2026?",
+        "o": [
+          "Dushanbe",
+          "Astana",
+          "Tashkent",
+          "Bishkek"
+        ],
+        "k": 3,
+        "why": "Modi attended the 26th SCO Heads of State meeting in Bishkek, Kyrgyz Republic."
+      }
+    ]
+  },
+  "u0350": {
+    "gist": "India ranked 125th of 197 in Global Citizen Solutions' Global Passport Index 2026, slipping from 124th in 2025; Sweden topped.",
+    "facts": [
+      "Index by Global Citizen Solutions, a private advisory firm; 14 indicators.",
+      "Weights: Enhanced Mobility 50%, Investment 25%, Quality of Living 25%.",
+      "India's score 45.1; Mobility 135th, Investment 94th, Quality of Living 118th.",
+      "Indian passport: free access 6, visa-on-arrival 10, e-visa 64, conventional visa 88 destinations.",
+      "Top: Sweden (96.05); last: Afghanistan (23.10).",
+      "India was 127th during 2021–2023."
+    ],
+    "hook": "Weights 50–25–25: Mobility counts double, so it moves India's rank the most.",
+    "hindi": [
+      "Mobility (गतिशीलता)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In Global Citizen Solutions' Global Passport Index 2026, what was India's rank among 197 countries and territories?",
+        "o": [
+          "124th",
+          "127th",
+          "125th",
+          "135th"
+        ],
+        "k": 2,
+        "why": "India ranked 125th, compared with 124th in 2025 and 127th during 2021–2023."
+      }
+    ]
+  },
+  "u0351": {
+    "gist": "The FAO Food Price Index averaged 131.1 points in July 2026, its highest since early 2023, driven by cereals, vegetable oils and sugar.",
+    "facts": [
+      "FFPI: 131.1 points in July 2026, up 0.7 points (0.6%) from June.",
+      "Still 29.1 points (18.2%) below the March 2022 peak.",
+      "Tracks five groups: cereals, vegetable oils, meat, dairy, sugar; base period 2014–2016.",
+      "Cereals up 3.4% (wheat 5.8%); sugar up 5.6%; vegetable oils up 2.0%.",
+      "Meat fell 2.8% from its June record; dairy fell 0.7%.",
+      "Higher world food prices can push domestic inflation and complicate RBI policy."
+    ],
+    "trap": "FFPI tracks international commodity prices, not domestic retail food prices.",
+    "hindi": [
+      "Food price index (खाद्य मूल्य सूचकांक)",
+      "Inflation (मुद्रास्फीति)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "Which organisation publishes the Food Price Index that averaged 131.1 points in July 2026?",
+        "o": [
+          "World Food Programme",
+          "FAO",
+          "IFAD",
+          "World Bank"
+        ],
+        "k": 1,
+        "why": "The Food and Agriculture Organization reported the FFPI averaged 131.1 points in July 2026."
+      }
+    ]
+  },
+  "u0352": {
+    "gist": "UNCTAD's World Investment Report 2026 (July 7, 2026) said global FDI rose 6% to about US$1.6 trillion; India's inflows rose nearly 44%.",
+    "facts": [
+      "Released July 7, 2026 by UNCTAD (UN Trade and Development); title 'International Investment in a Turbulent Era'.",
+      "Global FDI up 6% to about US$1.6 trillion in 2025, ending two years of decline.",
+      "India inward FDI: US$27.1 billion (2024) → US$38.9 billion (2025); rank 13th → 11th.",
+      "India outward FDI: US$24.3 billion → US$35.7 billion; rank 20th → 18th.",
+      "Top FDI destination 2025: United States ($277 billion), then Singapore.",
+      "FDI usually means at least 10% voting power (lasting interest)."
+    ],
+    "trap": "Inward FDI rank = 11th; outward FDI rank = 18th — don't swap.",
+    "hindi": [
+      "Foreign Direct Investment (प्रत्यक्ष विदेशी निवेश)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "According to UNCTAD's World Investment Report 2026, India's rank as an FDI destination in 2025 improved to:",
+        "o": [
+          "13th",
+          "20th",
+          "18th",
+          "11th"
+        ],
+        "k": 3,
+        "why": "India's inward FDI rose to US$38.9 billion in 2025, improving its rank from 13th to 11th."
+      }
+    ]
+  },
+  "u0353": {
+    "gist": "The US and Saudi Arabia signed a Section 123 civil nuclear agreement in July 2026, valid 30 years, without Saudi renouncing enrichment.",
+    "facts": [
+      "Signed by US Energy Secretary Chris Wright (20 July, Washington) and Prince Abdulaziz bin Salman (22 July, Riyadh).",
+      "Legal basis: Section 123 of the US Atomic Energy Act, 1954.",
+      "Duration: 30 years after entry into force (Article 16).",
+      "Article 7: two-year joint study on enrichment; later enrichment needs written consent.",
+      "Unlike the 2009 US–UAE deal, Saudi Arabia has not renounced enrichment and reprocessing.",
+      "IAEA Additional Protocol not mandatory; Trump sent it to Congress on 24 August 2026."
+    ],
+    "trap": "'Gold Standard' = giving up enrichment and reprocessing. The 2009 US–UAE deal has it; the Saudi deal does not.",
+    "hindi": [
+      "Civil nuclear cooperation (असैन्य परमाणु सहयोग)",
+      "Uranium enrichment (यूरेनियम संवर्धन)"
+    ],
+    "priority": 2,
+    "mcq": [
+      {
+        "q": "The US–Saudi Arabia civil nuclear agreement signed in July 2026 is based on Section 123 of which US law?",
+        "o": [
+          "Atomic Energy Act, 1954",
+          "Nuclear Non-Proliferation Act",
+          "Arms Export Control Act",
+          "Energy Policy Act"
+        ],
+        "k": 0,
+        "why": "Its legal basis is Section 123 of the US Atomic Energy Act, 1954."
+      }
+    ]
+  },
+  "u0354": {
+    "gist": "On June 17, 2026, the US and Iran signed a 14-point MoU, an initial peace deal and ceasefire to end the four-month West Asia war.",
+    "facts": [
+      "June 17, 2026: Trump and Iran's President Masoud Pezeshkian signed the 14-point MoU electronically; mainly a ceasefire.",
+      "Ends fighting on all fronts, including Lebanon; Strait of Hormuz reopens toll-free within 30 days.",
+      "Sanctions relief: US Treasury waivers let Iran export crude oil and petroleum products.",
+      "Nuclear: Iran halts enrichment and down-blends (dilutes) highly enriched uranium to 3.67% under IAEA monitoring.",
+      "Reconstruction fund of at least $300 billion, to be financed by Gulf Arab nations; US not directly.",
+      "US to unfreeze Iranian assets (Tehran seeks about $24 billion); 60-day talks for a final nuclear pact."
+    ],
+    "hook": "Hormuz in 30 days, final nuclear deal in 60 days: the harder job gets double the time.",
+    "trap": "$300 billion is the reconstruction fund (Gulf Arab money, not US); $24 billion is Iran's frozen assets.",
+    "hindi": [
+      "Ceasefire (युद्धविराम)",
+      "Sanctions (प्रतिबंध)",
+      "Memorandum of Understanding (समझौता ज्ञापन)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Under the 14-point US–Iran MoU signed on June 17, 2026, to what level must Iran down-blend its existing highly enriched uranium?",
+        "o": [
+          "20%",
+          "60%",
+          "3.67%",
+          "90%"
+        ],
+        "k": 2,
+        "why": "Iran must halt enrichment and down-blend its highly enriched uranium to 3.67% under IAEA monitoring."
+      },
+      {
+        "q": "Under the US–Iran initial peace MoU of June 17, 2026, within how many days is passage through the Strait of Hormuz to be fully restored?",
+        "o": [
+          "14 days",
+          "30 days",
+          "60 days",
+          "90 days"
+        ],
+        "k": 1,
+        "why": "Free, toll-free passage through the Strait of Hormuz is restored to full capacity within 30 days."
+      }
+    ]
+  },
+  "u0355": {
+    "gist": "SIPRI Yearbook 2026 (57th edition, 8 June 2026) put India's nuclear stockpile at 190 warheads; India is the 5th largest military spender.",
+    "facts": [
+      "Released 8 June 2026 by Stockholm International Peace Research Institute (founded 1966).",
+      "India: 190 warheads total stockpile, 12 deployed; Pakistan 170; China 620.",
+      "India's 2025 military spending: US$92.1 billion, up 8.9% — 5th largest.",
+      "Top spender: United States (954.0 billion, down 7.5%), then China, Russia, Germany.",
+      "Arms imports: Ukraine 9.7%, India 8.2% (2nd); exports: US 42.0%, France 9.8% (2nd).",
+      "World total inventory 12,187 warheads; Russia 5,420 and US 5,042 hold the most."
+    ],
+    "trap": "India is the 2nd largest arms importer but the 5th largest military spender.",
+    "hindi": [
+      "Military expenditure (सैन्य व्यय)",
+      "Nuclear weapons (परमाणु हथियार)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "According to the SIPRI Yearbook 2026, what is India's share of global arms imports, making it the second-largest importer?",
+        "o": [
+          "9.7%",
+          "8.2%",
+          "6.8%",
+          "6.4%"
+        ],
+        "k": 1,
+        "why": "Ukraine led with 9.7%; India was second with 8.2% of global arms imports."
+      },
+      {
+        "q": "SIPRI estimated India's military expenditure in 2025 at:",
+        "o": [
+          "US$92.1 billion",
+          "US$114.0 billion",
+          "US$190.0 billion",
+          "US$336.0 billion"
+        ],
+        "k": 0,
+        "why": "SIPRI put India's 2025 military spending at US$92.1 billion, up 8.9% over 2024."
+      }
+    ]
+  },
+  "u0356": {
+    "gist": "IMD's World Competitiveness Ranking 2026 (June 18, 2026) placed India 44th of 70 economies, down from 41st; Singapore regained the top spot.",
+    "facts": [
+      "Released June 18, 2026 by IMD Business School.",
+      "India fell three places: 41st (2025) → 44th (2026), out of 70.",
+      "Top five: Singapore, Hong Kong SAR, Switzerland, Taiwan, UAE.",
+      "Four pillars: Economic Performance, Government Efficiency, Business Efficiency, Infrastructure.",
+      "Vietnam joined in 2026 at 27th, taking the total to 70 economies."
+    ],
+    "hindi": [
+      "Competitiveness (प्रतिस्पर्धात्मकता)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In IMD's World Competitiveness Ranking 2026, India's rank was:",
+        "o": [
+          "41st",
+          "27th",
+          "44th",
+          "39th"
+        ],
+        "k": 2,
+        "why": "India fell three places from 41st in 2025 to 44th of 70 economies."
+      }
+    ]
+  },
+  "u0357": {
+    "gist": "QS World University Rankings 2027 (June 18, 2026): IIT Delhi (118th) stayed India's best; MIT first for the 15th year; India has 52 ranked institutions.",
+    "facts": [
+      "Released June 18, 2026; more than 1,500 institutions in 106 countries and territories.",
+      "MIT top for the 15th consecutive year; Imperial College London and Stanford tied second.",
+      "India: 52 ranked institutions; fifth most represented after US, UK, mainland China, Germany.",
+      "IIT Delhi 118th (best Indian); IIT Bombay joint 134th; IIT Madras 170th.",
+      "IISc Bengaluru and IIT Kanpur both joint 221st.",
+      "Shoolini University joint 452nd: India's top private university, only one in global top 500."
+    ],
+    "trap": "The edition is called '2027' but was released in June 2026.",
+    "hindi": [
+      "Higher education (उच्च शिक्षा)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "Which Indian institution ranked highest in the QS World University Rankings 2027, released in June 2026?",
+        "o": [
+          "IIT Bombay",
+          "IISc Bengaluru",
+          "IIT Madras",
+          "IIT Delhi"
+        ],
+        "k": 3,
+        "why": "IIT Delhi ranked 118th and remained the highest-ranked Indian institution."
+      }
+    ]
+  },
+  "u0358": {
+    "gist": "RSF's World Press Freedom Index 2026 ranked India 157th of 180, down six places from 151st, in the 'very serious' category.",
+    "facts": [
+      "Released by Reporters Without Borders (RSF), covering 180 countries and territories.",
+      "India: 157th, score 31.96; was 151st in 2025.",
+      "India placed in the 'very serious' category.",
+      "Five indicators: political, legal, economic and sociocultural context, plus safety.",
+      "Top: Norway, Netherlands, Estonia; bottom: Eritrea (180th), North Korea (179th).",
+      "India below Nepal (87th), Maldives, Sri Lanka, Bhutan, Bangladesh and Pakistan (153rd)."
+    ],
+    "hindi": [
+      "Press freedom (प्रेस स्वतंत्रता)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In RSF's World Press Freedom Index 2026, India was ranked:",
+        "o": [
+          "151st",
+          "153rd",
+          "157th",
+          "161st"
+        ],
+        "k": 2,
+        "why": "India ranked 157th of 180 (score 31.96), down six places from 151st in 2025."
+      }
+    ]
+  },
+  "u0359": {
+    "gist": "World Happiness Report 2026 (14th edition, March 19, 2026) ranked India 116th of 147; Finland was happiest for the ninth year in a row.",
+    "facts": [
+      "Released March 19, 2026, ahead of the International Day of Happiness (20 March).",
+      "Published by Oxford's Wellbeing Research Centre with Gallup and UN SDSN.",
+      "Ranking based on the Cantril Ladder: people rate their life on a 0–10 scale.",
+      "Top five: Finland (7.764), Iceland, Denmark, Costa Rica, Sweden.",
+      "India 116th of 147; China 65th; last: Afghanistan (147th).",
+      "2026 focus: Social Media and Wellbeing."
+    ],
+    "trap": "Happiness Day is 20 March; the 2026 report came out a day earlier, on 19 March.",
+    "hindi": [
+      "Happiness (खुशहाली)",
+      "Wellbeing (कल्याण)"
+    ],
+    "priority": 1,
+    "mcq": [
+      {
+        "q": "In the World Happiness Report 2026, what was India's rank among 147 countries?",
+        "o": [
+          "126th",
+          "116th",
+          "118th",
+          "97th"
+        ],
+        "k": 1,
+        "why": "India ranked 116th out of 147 countries in the 2026 report."
+      }
+    ]
+  }
+}

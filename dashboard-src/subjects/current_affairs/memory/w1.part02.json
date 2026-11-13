@@ -1,0 +1,419 @@
+{
+ "u0051": {
+  "line": "'Bharat Taxi', India's first cooperative-based ride-hailing platform → launched at Vigyan Bhavan, New Delhi by Amit Shah, Home and Cooperation Minister (February 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Cooperative (सहकारी)"
+  ],
+  "priority": 1
+ },
+ "u0052": {
+  "line": "PLASTINDIA 2026 (5–10 February 2026) → inaugurated at Bharat Mandapam, New Delhi; theme 'Bharat Next'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0053": {
+  "line": "Sunetra Pawar → sworn in as Deputy Chief Minister of Maharashtra (31 Jan 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Deputy Chief Minister (उपमुख्यमंत्री)"
+  ],
+  "priority": 2
+ },
+ "u0054": {
+  "line": "UP Statehood Day (24 Jan 2026), Rashtra Prerna Sthal, Lucknow: Amit Shah launched 'One District, One Cuisine', inaugurated Sardar Patel Industrial Area Scheme; UP tableau: 'Culture of Bundelkhand'.",
+  "hook": "",
+  "trap": "Launched = One District, One Cuisine; inaugurated = Sardar Patel Industrial Area Scheme. UP tableau = 'Culture of Bundelkhand'; Ministry of Culture tableau = '150 Years of Vande Mataram'.",
+  "hindi": [
+   "Tableau (झांकी)",
+   "Cuisine (व्यंजन)"
+  ],
+  "priority": 1
+ },
+ "u0055": {
+  "line": "Union Cabinet approved continuing the Atal Pension Yojana (APY) up to FY 2030–31 (21 January 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Pension scheme (पेंशन योजना)"
+  ],
+  "priority": 1
+ },
+ "u0056": {
+  "line": "Learjet 45 of M/s VSR Ventures crashed at Baramati (28 Jan 2026) on the Mumbai–Baramati sector; five on board, including Maharashtra Deputy CM Ajit Pawar.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0057": {
+  "line": "UIDAI (Unique Identification Authority of India) launched the new Aadhaar mascot 'Udai' (January 2026).",
+  "hook": "'Udai' hides inside the name U-I-D-A-I.",
+  "trap": "",
+  "hindi": [
+   "Mascot (शुभंकर)"
+  ],
+  "priority": 2
+ },
+ "u0058": {
+  "line": "20th session of UNESCO's Intangible Cultural Heritage Committee → Red Fort, New Delhi (8–13 Dec 2025), chaired by Vishal V. Sharma; Deepavali inscribed → India now 16 elements.",
+  "hook": "",
+  "trap": "20 = session number; 16 = India's elements after Deepavali.",
+  "hindi": [
+   "Intangible cultural heritage (अमूर्त सांस्कृतिक विरासत)"
+  ],
+  "priority": 1
+ },
+ "u0059": {
+  "line": "India's first fully indigenous hydrogen fuel cell-powered passenger vessel → commercial operations began in Varanasi (11 December 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Passenger vessel (यात्री जहाज)"
+  ],
+  "priority": 1
+ },
+ "u0060": {
+  "line": "Bihar Police announced a special squad called 'Abhaya Brigade' (December 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0061": {
+  "line": "Amit Shah, Home and Cooperation Minister, inaugurated a Bio-CNG and Fertilizer Plant in Vav–Tharad district, Gujarat (6 December 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Fertilizer (उर्वरक)"
+  ],
+  "priority": 2
+ },
+ "u0062": {
+  "line": "Maharashtra set a Guinness World Record: 45,911 solar irrigation pumps installed in one month (December 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Solar pump (सौर पंप)"
+  ],
+  "priority": 1
+ },
+ "u0063": {
+  "line": "World Summit on Disaster Management (WSDM) 2025 → Dehradun (28–30 November 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Disaster management (आपदा प्रबंधन)"
+  ],
+  "priority": 2
+ },
+ "u0064": {
+  "line": "India Internet Governance Forum (IIGF) 2025, fifth edition → New Delhi (27–28 Nov 2025). 4th Kashi Tamil Sangamam → Varanasi.",
+  "hook": "",
+  "trap": "IIGF 2025 = fifth edition; Kashi Tamil Sangamam = 4th edition.",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0065": {
+  "line": "Sardar@150 Unity March (26 Nov–6 Dec 2025) → nationwide march for Sardar Vallabhbhai Patel's 150th birth anniversary.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Unity (एकता)",
+   "Birth anniversary (जयंती)"
+  ],
+  "priority": 1
+ },
+ "u0066": {
+  "line": "Sixteenth Finance Commission (Chairman Dr. Arvind Panagariya) submitted its report for 2026–27 to 2030–31 to the President of India (17 Nov 2025).",
+  "hook": "",
+  "trap": "Report was submitted in 2025 but covers 2026–27 to 2030–31.",
+  "hindi": [
+   "Finance Commission (वित्त आयोग)"
+  ],
+  "priority": 1
+ },
+ "u0067": {
+  "line": "Nitish Kumar took oath as Chief Minister of Bihar for the tenth time (20 November 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Oath (शपथ)"
+  ],
+  "priority": 1
+ },
+ "u0068": {
+  "line": "India launched its first indigenous CRISPR-based gene therapy → for sickle cell disease (19 November 2025).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Gene therapy (जीन चिकित्सा)"
+  ],
+  "priority": 1
+ },
+ "u0069": {
+  "line": "International Arya Mahasammelan 2025 → New Delhi (30 Oct–2 Nov 2025); marked Arya Samaj's 150th anniversary and Maharshi Dayanand Saraswati's 200th birth anniversary.",
+  "hook": "",
+  "trap": "150 = Arya Samaj's anniversary; 200 = Dayanand Saraswati's birth anniversary.",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0070": {
+  "line": "Eighth Session of the International Solar Alliance (ISA) Assembly → Bharat Mandapam, New Delhi (27–30 Oct 2025); theme 'One Sun, One World, One Grid'.",
+  "hook": "Three 'One's: One Sun, One World, One Grid.",
+  "trap": "",
+  "hindi": [
+   "Solar energy (सौर ऊर्जा)"
+  ],
+  "priority": 1
+ },
+ "u0071": {
+  "line": "WHO released 'State of Inequality in Non-communicable Diseases and Their Risk Factors' (20 Oct 2026): four diseases (cardiovascular, cancer, diabetes, chronic respiratory) and five risk factors.",
+  "hook": "",
+  "trap": "Four = diseases; five = risk factors.",
+  "hindi": [
+   "Non-communicable disease (गैर-संचारी रोग)"
+  ],
+  "priority": 2
+ },
+ "u0072": {
+  "line": "IMF World Economic Outlook, October 2026: 'Resilience Under Strain, Urgent Choices'; global growth projected 3.1% for 2026 and 3.4% for 2027.",
+  "hook": "",
+  "trap": "3.1% is for 2026; 3.4% is for 2027.",
+  "hindi": [
+   "Economic growth (आर्थिक वृद्धि)"
+  ],
+  "priority": 1
+ },
+ "u0073": {
+  "line": "2026 Nobel Memorial Prize in Economic Sciences → Robert E. Hall and Michael Woodford, for research on microeconomic foundations of macroeconomic stabilisation.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0074": {
+  "line": "2026 Nobel Peace Prize → Navi Pillay (Navanethem Pillay), a jurist from South Africa, for efforts to promote peace and international law.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Jurist (न्यायविद)",
+   "International law (अंतरराष्ट्रीय कानून)"
+  ],
+  "priority": 1
+ },
+ "u0075": {
+  "line": "UN Climate Change Conference COP–31 → Antalya, Türkiye; scheduled from 9 to 20 November 2026.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Climate change (जलवायु परिवर्तन)"
+  ],
+  "priority": 1
+ },
+ "u0076": {
+  "line": "2026 Nobel Prize in Literature → Anne Carson, writer from Canada (announced 8 October 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Literature (साहित्य)"
+  ],
+  "priority": 1
+ },
+ "u0077": {
+  "line": "Young Indian cricketer Vaibhav Suryavanshi → included in TIME magazine's TIME–100 Next, 2026 list (September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0078": {
+  "line": "Times Higher Education World University Rankings 2027 (30 Sept 2026): first Oxford, second MIT; India's best → Indian Institute of Science, Bengaluru (joint 254th).",
+  "hook": "",
+  "trap": "The rankings are named '2027' but were released in September 2026.",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0079": {
+  "line": "Global Innovation Index 2026 by WIPO (World Intellectual Property Organization): Switzerland first; India 38th.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Innovation (नवाचार)",
+   "Intellectual property (बौद्धिक संपदा)"
+  ],
+  "priority": 1
+ },
+ "u0080": {
+  "line": "Fatima Ezzahra El Mansouri → Morocco's first woman head of government, appointed by King Mohammed VI (29 September 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0081": {
+  "line": "28th session of FAO Committee on Forestry → Rome, Italy (28 Sept–2 Oct 2026), with tenth World Forest Week; State of the World's Forests 2026 theme: forest and landscape restoration.",
+  "hook": "",
+  "trap": "28th = Committee on Forestry session; tenth = World Forest Week edition.",
+  "hindi": [
+   "Forestry (वानिकी)"
+  ],
+  "priority": 2
+ },
+ "u0082": {
+  "line": "Global Gender Gap Index 2026 by World Economic Forum (WEF): Iceland first; India 131st.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Gender gap (लैंगिक अंतर)"
+  ],
+  "priority": 1
+ },
+ "u0083": {
+  "line": "UNICEF: climate-related disasters disrupted education of more than 17.1 crore students worldwide in 2025 — one in every ten students.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Climate disaster (जलवायु आपदा)"
+  ],
+  "priority": 2
+ },
+ "u0084": {
+  "line": "Mirza Fakhrul Islam Alamgir (Bangladesh Nationalist Party) → President of Bangladesh (21 Aug 2026); official residence: Bangabhaban.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0085": {
+  "line": "First direct commercial container freight train India → Nepal (28 July 2026): Kolkata Port → Biratnagar Customs Yard, via Indian border station Jogbani.",
+  "hook": "",
+  "trap": "Jogbani is the Indian border station; Biratnagar is the destination in Nepal.",
+  "hindi": [
+   "Freight train (मालगाड़ी)"
+  ],
+  "priority": 1
+ },
+ "u0086": {
+  "line": "Keiko Fujimori → President of Peru (capital Lima) (28 July 2026). ASEAN 2026 chairmanship theme: 'Navigating Our Future, Together'.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0087": {
+  "line": "President Droupadi Murmu's July 2026 state visits → Moldova (first stop), North Macedonia (first-ever Indian President's visit) and Romania.",
+  "hook": "M-N-R route: Moldova → North Macedonia → Romania.",
+  "trap": "",
+  "hindi": [
+   "State visit (राजकीय यात्रा)"
+  ],
+  "priority": 2
+ },
+ "u0088": {
+  "line": "UN Department of Economic and Social Affairs released the SDG Report 2026 (7 July 2026); 17 Sustainable Development Goals, deadline 2030.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Sustainable development (सतत विकास)"
+  ],
+  "priority": 1
+ },
+ "u0089": {
+  "line": "PM Narendra Modi received Indonesia's highest civilian honour 'Bintang Adipurna' from President Prabowo Subianto (7 July 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Civilian honour (नागरिक सम्मान)"
+  ],
+  "priority": 1
+ },
+ "u0090": {
+  "line": "First Global Dialogue on Artificial Intelligence Governance → Geneva, Switzerland, under the United Nations (6–7 July 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0091": {
+  "line": "ITU announced the 'AI for Good Global Commission' (2 July 2026); founding leadership includes Rwanda's President Paul Kagame; ITU headquarters: Geneva.",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0092": {
+  "line": "Ireland took the rotating presidency of the Council of the European Union for the eighth time (1 July to 31 December 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 2
+ },
+ "u0093": {
+  "line": "52nd G7 Summit → Évian-les-Bains, France (June 15–17, 2026), led by Emmanuel Macron; PM Modi represented India; Migrant Smuggling Declaration; Japan's PM Takaichi launched POWERR Asia.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Smuggling (तस्करी)"
+  ],
+  "priority": 1
+ },
+ "u0094": {
+  "line": "16th BRICS Agriculture Ministers' Meeting → Indore, Madhya Pradesh (June 12–13, 2026) under India's BRICS Presidency; Indore Declaration adopted.",
+  "hook": "Indore hosts → Indore Declaration.",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0095": {
+  "line": "Slovakia's highest national award, 'Order of the White Double Cross' → presented to PM Modi in Bratislava (June 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ },
+ "u0096": {
+  "line": "Uzbekistan → became the 10th member of the New Development Bank (NDB), June 2026.",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Development bank (विकास बैंक)"
+  ],
+  "priority": 1,
+  "check": "The question says Uzbekistan joined 'in June 2026' but the story is dated May 21, 2026."
+ },
+ "u0097": {
+  "line": "Janez Janša assumed office as Prime Minister of Slovenia (4 June 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3
+ },
+ "u0098": {
+  "line": "Ahmadou Al Aminou Lo assumed office as the new Prime Minister of Senegal (25 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 3
+ },
+ "u0099": {
+  "line": "8th India–France Maritime Cooperation Dialogue → Paris, France (22 May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [
+   "Maritime (समुद्री)"
+  ],
+  "priority": 2
+ },
+ "u0100": {
+  "line": "Saudi Arabia → 26th member country of the India-led 'International Big Cat Alliance' (IBCA) (May 2026).",
+  "hook": "",
+  "trap": "",
+  "hindi": [],
+  "priority": 1
+ }
+}

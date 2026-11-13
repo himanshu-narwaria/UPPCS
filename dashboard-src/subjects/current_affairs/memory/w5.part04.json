@@ -1,0 +1,1033 @@
+{
+ "u1127": {
+  "gist": "Sarunrak Vitidsarn (Thailand) won women's singles at the BWF Vietnam Open 2026 in Ho Chi Minh City; India's Isharani Baruah was runner-up.",
+  "facts": [
+   "Held in Ho Chi Minh City, Vietnam, September 8 to 13, 2026.",
+   "Women's singles: winner Sarunrak Vitidsarn (Thailand); runner-up Isharani Baruah (India)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which Indian shuttler was runner-up in women's singles at the BWF Vietnam Open 2026?",
+    "o": [
+     "Tanvi Sharma",
+     "Isharani Baruah",
+     "Ashmita Chaliha",
+     "Devika Sihag"
+    ],
+    "k": 1,
+    "why": "Sarunrak Vitidsarn (Thailand) won; Isharani Baruah (India) was runner-up."
+   }
+  ]
+ },
+ "u1128": {
+  "gist": "Satwiksairaj Rankireddy and Chirag Shetty (India) won the men's doubles at the BWF China Masters 2026 in Shenzhen.",
+  "facts": [
+   "Held September 1 to 6, 2026 in Shenzhen, China.",
+   "Men's doubles winners: Satwiksairaj Rankireddy and Chirag Shetty (both India).",
+   "Runners-up: He Ji Ting and Ren Xiang Yu (both China)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was the BWF China Masters 2026, won in men's doubles by Satwiksairaj Rankireddy and Chirag Shetty, held?",
+    "o": [
+     "Ningbo",
+     "Shenzhen",
+     "Guiyang",
+     "Hangzhou"
+    ],
+    "k": 1,
+    "why": "The China Masters 2026 took place from September 1 to 6, 2026 in Shenzhen, China."
+   }
+  ]
+ },
+ "u1129": {
+  "gist": "India hosted the BWF Badminton World Championship 2026 in New Delhi (17-23 August); Alex Lanier (France) and An Se Young (South Korea) won.",
+  "facts": [
+   "Hosted in New Delhi, 17 to 23 August 2026.",
+   "Men's singles: winner Alex Lanier (France); runner-up Kodai Naraoka (Japan).",
+   "Women's (printed as 'Doubles'): winner An Se Young (South Korea); runner-up Akane Yamaguchi (Japan)."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "check": "The women's result is labelled 'Doubles' but lists single players (An Se Young, Akane Yamaguchi); it is probably women's singles.",
+  "mcq": [
+   {
+    "q": "The BWF Badminton World Championship 2026 was hosted in which city?",
+    "o": [
+     "New Delhi",
+     "Kuala Lumpur",
+     "Paris",
+     "Tokyo"
+    ],
+    "k": 0,
+    "why": "It was hosted in New Delhi from 17 to 23 August 2026."
+   },
+   {
+    "q": "Who won the men's singles title at the BWF World Championship 2026?",
+    "o": [
+     "Kodai Naraoka",
+     "Christo Popov",
+     "Alex Lanier",
+     "Shi Yu Qi"
+    ],
+    "k": 2,
+    "why": "Alex Lanier (France) won; Kodai Naraoka (Japan) was runner-up."
+   }
+  ]
+ },
+ "u1130": {
+  "gist": "India's Ashmita Chaliha won women's singles at the BWF Korea Masters 2026 in Asan; Zhu Xuan Chen (China) won men's singles.",
+  "facts": [
+   "Held in Asan, South Korea, 4 to 9 August 2026.",
+   "Men's singles: winner Zhu Xuan Chen (China); runner-up Yoo Tae Bin (South Korea).",
+   "Women's singles: winner Ashmita Chaliha (India); runner-up Han Qian Xi (China)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Indian won the women's singles title at the BWF Korea Masters 2026?",
+    "o": [
+     "Tanvi Sharma",
+     "Devika Sihag",
+     "Ashmita Chaliha",
+     "P.V. Sindhu"
+    ],
+    "k": 2,
+    "why": "Ashmita Chaliha (India) won; Han Qian Xi (China) was runner-up."
+   }
+  ]
+ },
+ "u1131": {
+  "gist": "India's Tanvi Sharma won women's singles at the BWF Taipei Open 2026; Yudai Okimoto (Japan) won men's singles.",
+  "facts": [
+   "Held in Taipei City, Taiwan, July 28 to August 2, 2026.",
+   "Men's singles: winner Yudai Okimoto (Japan); runner-up Yoo Tae Bin (South Korea).",
+   "Women's singles: winner Tanvi Sharma (India); runner-up Nguyen Thuy Linh (Vietnam)."
+  ],
+  "trap": "Indian women's singles winners 2026: Tanvi Sharma (Taipei), Ashmita Chaliha (Korea Masters), P.V. Sindhu (Japan), Devika Sihag (Thailand Masters).",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the women's singles title at the BWF Taipei Open 2026?",
+    "o": [
+     "Ashmita Chaliha",
+     "Devika Sihag",
+     "Nguyen Thuy Linh",
+     "Tanvi Sharma"
+    ],
+    "k": 3,
+    "why": "Tanvi Sharma (India) won; Nguyen Thuy Linh (Vietnam) was runner-up."
+   }
+  ]
+ },
+ "u1132": {
+  "gist": "P.V. Sindhu (India) won women's singles at the BWF Japan Open 2026 in Tokyo; Christo Popov (France) won men's singles.",
+  "facts": [
+   "Held in Tokyo, Japan, July 14 to 19, 2026.",
+   "Men's singles: winner Christo Popov (France); runner-up Koki Watanabe (Japan).",
+   "Women's singles: winner P.V. Sindhu (India); runner-up Akane Yamaguchi (Japan)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Indian won the women's singles title at the BWF Japan Open 2026?",
+    "o": [
+     "Tanvi Sharma",
+     "Ashmita Chaliha",
+     "Isharani Baruah",
+     "P.V. Sindhu"
+    ],
+    "k": 3,
+    "why": "P.V. Sindhu (India) won; Akane Yamaguchi (Japan) was runner-up."
+   }
+  ]
+ },
+ "u1133": {
+  "gist": "At the BWF U.S. Open 2026 in Fullerton, Su Li Yang (Chinese Taipei) won men's singles with India's Srikanth Kidambi runner-up; Line Christophersen won women's.",
+  "facts": [
+   "Held in Fullerton, California (U.S.A.), June 23-28, 2026.",
+   "Men's singles: winner Su Li Yang (Chinese Taipei); runner-up Srikanth Kidambi (India).",
+   "Women's singles: winner Line Christophersen (Denmark); runner-up Kaloyana Nalbantova (Bulgaria)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which Indian was runner-up in men's singles at the BWF U.S. Open 2026?",
+    "o": [
+     "Lakshya Sen",
+     "Ayush Shetty",
+     "Srikanth Kidambi",
+     "Satwiksairaj Rankireddy"
+    ],
+    "k": 2,
+    "why": "Su Li Yang (Chinese Taipei) won; Srikanth Kidambi (India) was runner-up."
+   }
+  ]
+ },
+ "u1134": {
+  "gist": "China won the Thomas Cup (men) and South Korea the Uber Cup (women) at the 2026 Finals hosted by Denmark, April 24 to May 3.",
+  "facts": [
+   "Hosted by Denmark, April 24 to May 3, 2026.",
+   "Thomas Cup (men): winner China; runner-up France.",
+   "Uber Cup (women): winner South Korea; runner-up China."
+  ],
+  "trap": "Thomas Cup = men's team title (China won); Uber Cup = women's team title (South Korea won).",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which country won the Uber Cup (women's badminton team title) in 2026?",
+    "o": [
+     "South Korea",
+     "Japan",
+     "China",
+     "Denmark"
+    ],
+    "k": 0,
+    "why": "South Korea won the Uber Cup; China was runner-up."
+   }
+  ]
+ },
+ "u1135": {
+  "gist": "At the Badminton Asia Championships 2026 in Ningbo, Shi Yu Qi (China) won men's singles with India's Ayush Shetty runner-up; An Se Young won women's.",
+  "facts": [
+   "Hosted in Ningbo, China, April 7 to 12, 2026.",
+   "Men's singles: winner Shi Yu Qi (China); runner-up Ayush Shetty (India).",
+   "Women's singles: winner An Se Young (South Korea); runner-up Wang Zhi Yi (China)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Indian was runner-up in men's singles at the Badminton Asia Championships 2026?",
+    "o": [
+     "Ayush Shetty",
+     "Lakshya Sen",
+     "Srikanth Kidambi",
+     "H.S. Prannoy"
+    ],
+    "k": 0,
+    "why": "Shi Yu Qi (China) won; Ayush Shetty (India) was runner-up."
+   }
+  ]
+ },
+ "u1136": {
+  "gist": "Lin Chun-Yi (Chinese Taipei) won All England Open 2026 men's singles with India's Lakshya Sen runner-up; Wang Zhi Yi (China) won women's singles.",
+  "facts": [
+   "Held in Birmingham, England (UK), 3 to 8 March 2026.",
+   "Men's singles: winner Lin Chun-Yi (Chinese Taipei); runner-up Lakshya Sen (India).",
+   "Women's singles: winner Wang Zhi Yi (China); runner-up An Se Young (South Korea)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The All England Open Badminton Championships 2026, where Lakshya Sen was runner-up, were held in:",
+    "o": [
+     "London",
+     "Birmingham",
+     "Manchester",
+     "Glasgow"
+    ],
+    "k": 1,
+    "why": "The 2026 championships took place in Birmingham, England, from 3 to 8 March."
+   }
+  ]
+ },
+ "u1137": {
+  "gist": "India's Devika Sihag won women's singles at the BWF Thailand Masters 2026 (January 27 to February 1).",
+  "facts": [
+   "Held January 27 to February 1, 2026.",
+   "Men's singles: winner Moh. Zaki Ubaidillah (Indonesia); runner-up Panitchaphon Teeraratsakul (Thailand).",
+   "Women's singles: winner Devika Sihag (India); runner-up Goh Jin Wei (Malaysia)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the women's singles title at the BWF Thailand Masters 2026?",
+    "o": [
+     "Devika Sihag",
+     "Goh Jin Wei",
+     "Tanvi Sharma",
+     "Sarunrak Vitidsarn"
+    ],
+    "k": 0,
+    "why": "Devika Sihag (India) won; Goh Jin Wei (Malaysia) was runner-up."
+   }
+  ]
+ },
+ "u1138": {
+  "gist": "Lin Chun-Yi (Chinese Taipei) and An Se Young (South Korea) won the singles titles at the BWF India Open 2026 in New Delhi, January 13-18.",
+  "facts": [
+   "Held in New Delhi, January 13 to 18, 2026.",
+   "Men's singles: winner Lin Chun-Yi (Chinese Taipei); runner-up Jonatan Christie (Indonesia).",
+   "Women's singles: winner An Se Young (South Korea); runner-up Wang Zhi Yi (China)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the women's singles title at the BWF India Open 2026?",
+    "o": [
+     "Wang Zhi Yi",
+     "P.V. Sindhu",
+     "An Se Young",
+     "Akane Yamaguchi"
+    ],
+    "k": 2,
+    "why": "An Se Young (South Korea) won; Wang Zhi Yi (China) was runner-up."
+   }
+  ]
+ },
+ "u1139": {
+  "gist": "The Syed Modi India International 2025 was held in Lucknow, Uttar Pradesh (November 25-30); India's Treesa Jolly and Gayatri Gopichand Pullela won women's doubles.",
+  "facts": [
+   "Held in Lucknow, Uttar Pradesh, November 25 to 30, 2025.",
+   "Men's singles: winner Jason Gunawan (Hong Kong, China); runner-up Kidambi Srikanth (India).",
+   "Women's singles: winner Hina Akechi (Japan); runner-up Neslihan Arin (Turkiye).",
+   "Women's doubles: Treesa Jolly and Gayatri Gopichand Pullela (India) beat Kaho Osawa and Mai Tanabe (Japan)."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In which city was the Syed Modi India International 2025 badminton tournament held?",
+    "o": [
+     "Lucknow",
+     "Varanasi",
+     "Guwahati",
+     "Hyderabad"
+    ],
+    "k": 0,
+    "why": "It was organised in Lucknow, Uttar Pradesh, from November 25 to 30, 2025."
+   }
+  ]
+ },
+ "u1140": {
+  "gist": "At the 46th Chess Olympiad (Samarkand, 2026), Uzbekistan won Open and China Women's gold; India took silver, bronze and the Nona Gaprindashvili Trophy.",
+  "facts": [
+   "46th FIDE Chess Olympiad: Samarkand, Uzbekistan, September 15 to 27, 2026.",
+   "Open: Uzbekistan won (2nd title); India runner-up; Germany bronze.",
+   "Women's: China won; Kazakhstan runner-up; India bronze.",
+   "India kept the Nona Gaprindashvili Trophy (best combined Open + Women rating): third straight, after 2022 and 2024.",
+   "Indian men: Arjun Erigaisi, R. Praggnanandhaa, Nihal Sarin, Gukesh D., Vidit Gujrathi; captain Srinath Narayanan."
+  ],
+  "trap": "India got Open silver and Women's bronze, but won the Nona Gaprindashvili Trophy for combined rating.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which country won the Open section of the 46th FIDE Chess Olympiad 2026?",
+    "o": [
+     "India",
+     "Germany",
+     "China",
+     "Uzbekistan"
+    ],
+    "k": 3,
+    "why": "Uzbekistan won its 2nd title; India was runner-up and Germany took bronze."
+   },
+   {
+    "q": "Which trophy for the best combined team rating did India retain at the 46th Chess Olympiad (2026)?",
+    "o": [
+     "Hamilton-Russell Cup",
+     "Vera Menchik Cup",
+     "Nona Gaprindashvili Trophy",
+     "Viswanathan Anand Trophy"
+    ],
+    "k": 2,
+    "why": "India defended the Nona Gaprindashvili Trophy for the third straight edition."
+   }
+  ]
+ },
+ "u1141": {
+  "gist": "R. Praggnanandhaa (India) won the Grand Chess Tour Finals 2026 in Saint Louis, USA, with Fabiano Caruana as runner-up.",
+  "facts": [
+   "Held in Saint Louis, Missouri, U.S.A., 22 to 27 August 2026.",
+   "Champion: R. Praggnanandhaa (India); runner-up: Fabiano Caruana (U.S.A.)."
+  ],
+  "trap": "Grand Chess Tour Finals 2026: Praggnanandhaa won. Sinquefield Cup 2026: Wesley So won, Praggnanandhaa second.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the Grand Chess Tour Finals 2026?",
+    "o": [
+     "Fabiano Caruana",
+     "Wesley So",
+     "R. Praggnanandhaa",
+     "Gukesh D."
+    ],
+    "k": 2,
+    "why": "R. Praggnanandhaa (India) was champion; Fabiano Caruana was runner-up."
+   }
+  ]
+ },
+ "u1142": {
+  "gist": "Wesley So (USA) won the Sinquefield Cup 2026 in Saint Louis, with India's R. Praggnanandhaa as runner-up.",
+  "facts": [
+   "Held in Saint Louis, Missouri, U.S.A., 8 to 21 August 2026.",
+   "Winner: Wesley So (U.S.A.); runner-up: R. Praggnanandhaa (India)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the Sinquefield Cup 2026 chess tournament?",
+    "o": [
+     "Wesley So",
+     "R. Praggnanandhaa",
+     "Fabiano Caruana",
+     "Javokhir Sindarov"
+    ],
+    "k": 0,
+    "why": "Wesley So (U.S.A.) won; R. Praggnanandhaa was runner-up."
+   }
+  ]
+ },
+ "u1143": {
+  "gist": "R. Praggnanandhaa (India) won the Saint Louis Rapid & Blitz 2026, with Javokhir Sindarov (Uzbekistan) as runner-up.",
+  "facts": [
+   "Held in Saint Louis, Missouri, U.S.A., 31 July to 7 August 2026.",
+   "Winner: R. Praggnanandhaa (India); runner-up: Javokhir Sindarov (Uzbekistan)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the Saint Louis Rapid & Blitz 2026 chess tournament?",
+    "o": [
+     "Javokhir Sindarov",
+     "Wesley So",
+     "Fabiano Caruana",
+     "R. Praggnanandhaa"
+    ],
+    "k": 3,
+    "why": "R. Praggnanandhaa (India) won; Javokhir Sindarov was runner-up."
+   }
+  ]
+ },
+ "u1144": {
+  "gist": "Alireza Firouzja (France) won the fourth Chennai Grand Masters chess tournament, held 16-22 July 2026.",
+  "facts": [
+   "Fourth edition; held in Chennai, Tamil Nadu, 16 to 22 July 2026.",
+   "Winner: Alireza Firouzja (France); runner-up: Dmitry Andreikin (Russia/FIDE)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the Chennai Grand Masters chess tournament 2026?",
+    "o": [
+     "Arjun Erigaisi",
+     "Dmitry Andreikin",
+     "Nihal Sarin",
+     "Alireza Firouzja"
+    ],
+    "k": 3,
+    "why": "Alireza Firouzja (France) won; Dmitry Andreikin was runner-up."
+   }
+  ]
+ },
+ "u1145": {
+  "gist": "India's Harika Dronavalli won both the women's rapid and blitz titles at the Asian Rapid & Blitz Chess Championship 2026 in Hong Kong.",
+  "facts": [
+   "Held in Hong Kong, 27 to 31 July 2026.",
+   "Women's Rapid and Women's Blitz: both won by Harika Dronavalli (India).",
+   "Open Rapid: Aleksey Grebnev (Russia); Open Blitz: Le Tuan Minh (Vietnam).",
+   "India's Goutham Krishna H was runner-up in both Open Rapid and Open Blitz."
+  ],
+  "hook": "Harika double gold (rapid + blitz); Goutham double silver.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Indian won both the women's rapid and women's blitz titles at the Asian Rapid & Blitz Chess Championship 2026?",
+    "o": [
+     "Vaishali Rameshbabu",
+     "Vantika Agrawal",
+     "Koneru Humpy",
+     "Harika Dronavalli"
+    ],
+    "k": 3,
+    "why": "Harika Dronavalli (India) won both the Women's Rapid and Women's Blitz."
+   }
+  ]
+ },
+ "u1146": {
+  "gist": "Praggnanandhaa Rameshbabu (India) won Norway Chess 2026 in Oslo (May 25 to June 5), with Wesley So as runner-up.",
+  "facts": [
+   "Held in Oslo, Norway, May 25 to June 5, 2026.",
+   "Open winner: Praggnanandhaa Rameshbabu (India); runner-up: Wesley So (U.S.A.)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the Open section of Norway Chess 2026?",
+    "o": [
+     "Wesley So",
+     "Praggnanandhaa Rameshbabu",
+     "Gukesh Dommaraju",
+     "Alireza Firouzja"
+    ],
+    "k": 1,
+    "why": "Praggnanandhaa Rameshbabu (India) won; Wesley So was runner-up."
+   }
+  ]
+ },
+ "u1147": {
+  "gist": "Javokhir Sindarov won the FIDE Candidates 2026 in Cyprus to challenge World Champion Gukesh; India's Vaishali Rameshbabu won the Women's Candidates.",
+  "facts": [
+   "Held in Pegeia, Cyprus, March 28 to April 16, 2026.",
+   "Candidates winner: Javokhir Sindarov (Uzbekistan); will challenge World Champion Gukesh Dommaraju (India).",
+   "Women's Candidates winner: Vaishali Rameshbabu (India).",
+   "Vaishali will play Women's World Champion Ju Wenjun (China) in 2026."
+  ],
+  "trap": "Sindarov = challenger to Gukesh (open); Vaishali = challenger to Ju Wenjun (women's).",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who won the Women's Candidates Tournament 2026 to earn a title match against Ju Wenjun?",
+    "o": [
+     "Harika Dronavalli",
+     "Vaishali Rameshbabu",
+     "Kateryna Lagno",
+     "Koneru Humpy"
+    ],
+    "k": 1,
+    "why": "Vaishali Rameshbabu (India) won the Women's Candidates."
+   },
+   {
+    "q": "Who won the FIDE Candidates Tournament 2026 to challenge World Champion Gukesh Dommaraju?",
+    "o": [
+     "Fabiano Caruana",
+     "R. Praggnanandhaa",
+     "Wesley So",
+     "Javokhir Sindarov"
+    ],
+    "k": 3,
+    "why": "Javokhir Sindarov (Uzbekistan) won the Candidates in Pegeia, Cyprus."
+   }
+  ]
+ },
+ "u1148": {
+  "gist": "At Tata Steel Chess India 2026 (Kolkata), Nihal Sarin won Open Rapid; Wesley So, Carissa Yip and Kateryna Lagno won the other titles.",
+  "facts": [
+   "Held in Kolkata, West Bengal, January 7 to 11, 2026.",
+   "Open Blitz: Wesley So (USA) won; Nihal Sarin (India) runner-up.",
+   "Open Rapid: Nihal Sarin (India) won; Viswanathan Anand (India) runner-up.",
+   "Women's Blitz: Carissa Yip (USA) won; Vantika Agrawal (India) runner-up.",
+   "Women's Rapid: Kateryna Lagno won; Aleksandra Goryachkina runner-up (both Russia)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the Open Rapid section at Tata Steel Chess India 2026 in Kolkata?",
+    "o": [
+     "Wesley So",
+     "Viswanathan Anand",
+     "Nihal Sarin",
+     "Arjun Erigaisi"
+    ],
+    "k": 2,
+    "why": "Nihal Sarin (India) won the Open Rapid; Viswanathan Anand was runner-up."
+   }
+  ]
+ },
+ "u1149": {
+  "gist": "Nodirbek Abdusattorov (Uzbekistan) won the Masters at the 88th Tata Steel Chess Tournament in Wijk aan Zee, Netherlands (January 16 to February 1, 2026).",
+  "facts": [
+   "88th edition; Wijk aan Zee, the Netherlands, January 16 to February 1, 2026.",
+   "Masters: winner Nodirbek Abdusattorov; runner-up Javokhir Sindarov (both Uzbekistan).",
+   "Challengers: winner Andy Woodward (USA); runner-up Vasyl Ivanchuk (Ukraine)."
+  ],
+  "trap": "Tata Steel Chess India = Kolkata (rapid and blitz); Tata Steel Chess Tournament = Wijk aan Zee, Netherlands (88th edition).",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won the Masters section of the 88th Tata Steel Chess Tournament (2026)?",
+    "o": [
+     "Javokhir Sindarov",
+     "Nodirbek Abdusattorov",
+     "Andy Woodward",
+     "Wesley So"
+    ],
+    "k": 1,
+    "why": "Nodirbek Abdusattorov won the Masters; Javokhir Sindarov was runner-up."
+   }
+  ]
+ },
+ "u1150": {
+  "gist": "Alpine SG Pipers won the Global Chess League (Season 3) 2025 in Mumbai, with Triveni Continental Kings as runner-up.",
+  "facts": [
+   "Held in Mumbai, Maharashtra, December 13-24, 2025.",
+   "Winner: Alpine SG Pipers; runner-up: Triveni Continental Kings."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which team won the Global Chess League (Season 3) 2025, held in Mumbai?",
+    "o": [
+     "Alpine SG Pipers",
+     "Ganges Grandmasters",
+     "Triveni Continental Kings",
+     "Mumba Masters"
+    ],
+    "k": 0,
+    "why": "Alpine SG Pipers won; Triveni Continental Kings were runners-up."
+   }
+  ]
+ },
+ "u1151": {
+  "gist": "Uzbekistan's Javokhir Sindarov, 19, won the 11th FIDE Chess World Cup 2025 in Goa as its youngest winner; the trophy honours Viswanathan Anand.",
+  "facts": [
+   "Held in Goa, India, October 31 to November 27, 2025.",
+   "India hosted it for the second time, after 2002; it was the 11th edition.",
+   "Champion: Javokhir Sindarov (Uzbekistan); runner-up: Wei Yi (China).",
+   "Sindarov, 19, became the youngest player to win the Chess World Cup.",
+   "The FIDE World Cup Trophy was named the Viswanathan Anand Trophy."
+  ],
+  "hook": "Goa 2025: a 19-year-old won the trophy named after Anand.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "The FIDE Chess World Cup trophy has been named after which Indian chess legend?",
+    "o": [
+     "Viswanathan Anand",
+     "Koneru Humpy",
+     "Pentala Harikrishna",
+     "Dibyendu Barua"
+    ],
+    "k": 0,
+    "why": "The FIDE World Cup Trophy has been christened the Viswanathan Anand Trophy."
+   },
+   {
+    "q": "Who won the FIDE Chess World Cup 2025 held in Goa?",
+    "o": [
+     "Wei Yi",
+     "Javokhir Sindarov",
+     "Gukesh D.",
+     "Nodirbek Abdusattorov"
+    ],
+    "k": 1,
+    "why": "Javokhir Sindarov, 19, won; Wei Yi (China) was runner-up."
+   }
+  ]
+ },
+ "u1152": {
+  "gist": "At the World Boxing Cup (Stage 2) 2026 in Guiyang, China, India finished 5th with 6 medals; Jyoti Gulia won India's only gold.",
+  "facts": [
+   "Hosted in Guiyang City, China, in June 2026.",
+   "Top two: China (5 gold, 9 total) and Kazakhstan (5 gold, 8 total).",
+   "India 5th: 1 gold, 3 silver, 2 bronze = 6 medals.",
+   "Gold: Jyoti Gulia (women's 48 kg).",
+   "Silvers: Minakshi Hooda, Prachi, Deepak Poonia; bronzes: Nikhil, Jugnoo."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "check": "The dates are garbled in the source ('to June 15 from 21, 2026'); probably 15 to 21 June 2026.",
+  "mcq": [
+   {
+    "q": "Who won India's only gold medal at the World Boxing Cup (Stage 2) 2026 in Guiyang?",
+    "o": [
+     "Minakshi Hooda",
+     "Nikhat Zareen",
+     "Prachi",
+     "Jyoti Gulia"
+    ],
+    "k": 3,
+    "why": "Jyoti Gulia won gold in women's 48 kg; India's other medals were silver and bronze."
+   }
+  ]
+ },
+ "u1153": {
+  "gist": "India finished 2nd with 16 medals (5 gold) at the Asian Boxing Championship 2026 in Ulaanbaatar; Kazakhstan topped with 6 golds.",
+  "facts": [
+   "Held in Ulaanbaatar, Mongolia, March 30 to April 10, 2026.",
+   "1st: Kazakhstan (6 gold, 2 silver, 5 bronze = 13).",
+   "2nd: India (5 gold, 3 silver, 8 bronze = 16).",
+   "Women's golds: Minakshi Hooda (48), Preeti Pawar (54), Priya Ghanghas (60), Arundhati Choudhary (70 kg).",
+   "Indian men's gold: Vishvanath Suresh, 50 kg."
+  ],
+  "trap": "India won more medals in total (16 vs 13) but was 2nd, with fewer golds (5 vs 6).",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was the Asian Boxing Championship (Elite) 2026 held?",
+    "o": [
+     "Bangkok",
+     "Ulaanbaatar",
+     "Tashkent",
+     "Bishkek"
+    ],
+    "k": 1,
+    "why": "It took place in Ulaanbaatar, Mongolia, from March 30 to April 10, 2026."
+   },
+   {
+    "q": "How many medals in total did India win at the Asian Boxing Championship 2026?",
+    "o": [
+     "13",
+     "20",
+     "16",
+     "11"
+    ],
+    "k": 2,
+    "why": "India won 5 gold, 3 silver and 8 bronze: 16 medals."
+   }
+  ]
+ },
+ "u1154": {
+  "gist": "India finished 4th with 5 medals at the World Boxing Futures Cup 2026 in Bangkok; Chandrika Pujari won gold.",
+  "facts": [
+   "Hosted in Bangkok, Thailand, March 8-15, 2026.",
+   "Top three: Uzbekistan (4 gold, 11 total), Kazakhstan (4 gold, 11), USA (4 gold, 9).",
+   "India 4th: 1 gold, 3 silver, 1 bronze = 5 medals.",
+   "Gold: Chandrika Pujari (women's 51 kg).",
+   "Silver: Gunjan (48 kg), Joyshree Devi (54 kg), Ambekar Meetei (men's 50 kg); bronze: Radhamani Longjam (57 kg)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Who won India's gold medal at the World Boxing Futures Cup 2026 in Bangkok?",
+    "o": [
+     "Chandrika Pujari",
+     "Joyshree Devi",
+     "Gunjan",
+     "Radhamani Longjam"
+    ],
+    "k": 0,
+    "why": "Chandrika Pujari won gold in women's 51 kg."
+   }
+  ]
+ },
+ "u1155": {
+  "gist": "India topped the World Boxing Cup Finals 2025 at Greater Noida, Uttar Pradesh, with 20 medals including 9 golds.",
+  "facts": [
+   "Venue: Shaheed Vijay Singh Pathik Sports Complex, Greater Noida (Uttar Pradesh), November 16 to 20, 2025.",
+   "1st: India (9 gold, 6 silver, 5 bronze = 20).",
+   "2nd: Uzbekistan (13 medals); 3rd: England (6 medals).",
+   "Women's golds: Minakshi Hooda, Nikhat Zareen, Preeti Pawar, Jaismine Lamboria, Arundhati Choudhary, Nupur Sheoran, Parveen Hooda.",
+   "Men's golds: Sachin Siwach (60 kg) and Hitesh Gulia (70 kg)."
+  ],
+  "hook": "Greater Noida (UP): India No. 1 with 9 golds and 20 medals.",
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where were the World Boxing Cup Finals 2025, topped by India, held?",
+    "o": [
+     "Greater Noida",
+     "New Delhi",
+     "Bengaluru",
+     "Lucknow"
+    ],
+    "k": 0,
+    "why": "Held at Shaheed Vijay Singh Pathik Sports Complex, Greater Noida (Uttar Pradesh)."
+   },
+   {
+    "q": "How many gold medals did India win at the World Boxing Cup Finals 2025?",
+    "o": [
+     "5",
+     "6",
+     "9",
+     "20"
+    ],
+    "k": 2,
+    "why": "India won 9 gold, 6 silver and 5 bronze (20 medals)."
+   }
+  ]
+ },
+ "u1156": {
+  "gist": "India finished 3rd (1 gold, 4 medals) at the ISSF World Cup Hangzhou 2026; Esha Singh won gold in women's 25m pistol.",
+  "facts": [
+   "Held in Hangzhou, China, July 20 to 29, 2026.",
+   "1st China (7 gold, 18 total); 2nd U.S.A. (2 gold, 4 total).",
+   "3rd India: 1 gold, 1 silver, 2 bronze = 4 medals.",
+   "Gold: Esha Singh, women's 25m pistol."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Indian shooter won gold at the ISSF World Cup Hangzhou 2026?",
+    "o": [
+     "Suruchi Inder Singh",
+     "Manu Bhaker",
+     "Simranpreet Kaur Brar",
+     "Esha Singh"
+    ],
+    "k": 3,
+    "why": "Esha Singh won gold in the women's 25m pistol."
+   }
+  ]
+ },
+ "u1157": {
+  "gist": "India finished 2nd at the ISSF World Cup Munich 2026 with 2 golds: Suruchi Inder Singh (10m air pistol) and Esha Singh (25m pistol).",
+  "facts": [
+   "Held in Munich, Germany, May 24 to 31, 2026.",
+   "1st China (4 gold, 7 total); 3rd Norway (2 gold, 3 total).",
+   "2nd India: 2 gold, 2 silver = 4 medals.",
+   "Golds: Suruchi Inder Singh (women's 10m air pistol), Esha Singh (women's 25m pistol)."
+  ],
+  "hook": "Suruchi = 10m air pistol; Esha = 25m pistol.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "At the ISSF World Cup Munich 2026, Suruchi Inder Singh won gold in which event?",
+    "o": [
+     "Women's 25m Pistol",
+     "Women's 10m Air Pistol",
+     "Women's 10m Air Rifle",
+     "Women's 50m Rifle 3 Positions"
+    ],
+    "k": 1,
+    "why": "Suruchi Inder Singh won the women's 10m air pistol; Esha Singh won the 25m pistol."
+   }
+  ]
+ },
+ "u1158": {
+  "gist": "India finished 2nd at the ISSF World Cup Final 2025 in Doha with 6 medals; Suruchi Inder Singh and Simranpreet Kaur Brar won gold.",
+  "facts": [
+   "Held in Doha, Qatar, December 4 to 9, 2025.",
+   "1st China (4 gold, 9 total); 3rd USA (2 gold, 6 total).",
+   "2nd India: 2 gold, 3 silver, 1 bronze = 6 medals.",
+   "Golds: Suruchi Inder Singh (women's 10m air pistol), Simranpreet Kaur Brar (women's 25m pistol)."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was the ISSF World Cup Final (Rifle/Pistol/Shotgun) 2025 held?",
+    "o": [
+     "Doha",
+     "Munich",
+     "Hangzhou",
+     "New Delhi"
+    ],
+    "k": 0,
+    "why": "It was organised in Doha, Qatar, from December 4 to 9, 2025."
+   }
+  ]
+ },
+ "u1159": {
+  "gist": "Dhiraj Bommadevara (India) won the men's recurve gold at the Archery World Cup Final 2026 in Saltillo, Mexico.",
+  "facts": [
+   "Held in Saltillo, Mexico, September 12 to 13, 2026.",
+   "Dhiraj Bommadevara (India): gold in men's recurve.",
+   "India, Czech Republic, Austria and U.S.A. shared first place in the medal table, 1 gold each."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which Indian archer won gold in men's recurve at the Archery World Cup Final 2026?",
+    "o": [
+     "Dhiraj Bommadevara",
+     "Tarundeep Rai",
+     "Atanu Das",
+     "Sahil Rajesh Jadhav"
+    ],
+    "k": 0,
+    "why": "Dhiraj Bommadevara won the men's recurve gold in Saltillo, Mexico."
+   }
+  ]
+ },
+ "u1160": {
+  "gist": "At Archery World Cup Stage 2, 2026 in Shanghai, India's recurve women's team won gold and India ranked 6th; Turkiye topped the table.",
+  "facts": [
+   "Held in Shanghai, China, May 5 to 10, 2026.",
+   "1st Turkiye (2 gold, 6 total); 2nd China (2 gold, 5 total).",
+   "India 6th: 1 gold, 1 bronze.",
+   "Gold: recurve women's team of Ankita Bhakat, Deepika Kumari and Kumkum Anil Mohod.",
+   "Bronze: Sahil Rajesh Jadhav (compound men)."
+  ],
+  "trap": "Stage 2 (Shanghai): recurve women's team gold. Stage 1 (Puebla): compound women's team gold.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "India's gold medal at Archery World Cup Stage 2, 2026 (Shanghai) came in which event?",
+    "o": [
+     "Compound Women Team",
+     "Compound Men",
+     "Recurve Mixed Team",
+     "Recurve Women Team"
+    ],
+    "k": 3,
+    "why": "Ankita Bhakat, Deepika Kumari and Kumkum Anil Mohod won the recurve women team gold."
+   }
+  ]
+ },
+ "u1161": {
+  "gist": "India's compound women's team won gold at Archery World Cup Stage 1, 2026 in Puebla, Mexico; India ranked 5th.",
+  "facts": [
+   "Held in Puebla, Mexico, April 7 to 12, 2026.",
+   "1st China (3 gold, 6 total); 2nd USA (2 gold, 5 total).",
+   "India 5th, with 1 gold.",
+   "Gold: compound women's team of Madhura Dhamangaonkar, Jyothi Surekha Vennam and Pragati."
+  ],
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Where was Stage 1 of the Archery World Cup 2026 held?",
+    "o": [
+     "Shanghai",
+     "Puebla",
+     "Saltillo",
+     "Bangkok"
+    ],
+    "k": 1,
+    "why": "Stage I was held in Puebla, Mexico, from April 7 to 12, 2026."
+   }
+  ]
+ },
+ "u1162": {
+  "gist": "India finished 2nd with 10 medals (2 gold) at the Archery Asia Cup 2026 Stage-I in Bangkok; Kazakhstan topped with 3 golds.",
+  "facts": [
+   "Held in Bangkok, Thailand, March 21 to 28, 2026.",
+   "1st Kazakhstan (3 gold, 4 total); 2nd India (2 gold, 4 silver, 4 bronze = 10).",
+   "Golds: Uday Kamboj (men's compound); Chikitha Taniparthi and Rajat Chauhan (compound mixed team)."
+  ],
+  "trap": "India won more medals (10) than Kazakhstan (4) but was 2nd, with fewer golds.",
+  "hindi": [],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "How many medals did India win at the Archery Asia Cup 2026 Stage-I in Bangkok?",
+    "o": [
+     "4",
+     "6",
+     "10",
+     "12"
+    ],
+    "k": 2,
+    "why": "India won 2 gold, 4 silver and 4 bronze: 10 medals."
+   }
+  ]
+ },
+ "u1163": {
+  "gist": "India's Sreeja Akula won women's singles at WTT Feeder Puerto Princesa 2026 (Philippines); Ankur Bhattacharjee was men's runner-up.",
+  "facts": [
+   "Held in Puerto Princesa, Philippines, September 8 to 12, 2026.",
+   "Men's singles: winner Kang Dongsoo (South Korea); runner-up Ankur Bhattacharjee (India).",
+   "Women's singles: winner Sreeja Akula (India); runner-up Li Yu-Jhun (Chinese Taipei)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Who won the women's singles at WTT Feeder Puerto Princesa 2026?",
+    "o": [
+     "Yashaswini Ghorpade",
+     "Diya Chitale",
+     "Li Yu-Jhun",
+     "Sreeja Akula"
+    ],
+    "k": 3,
+    "why": "Sreeja Akula (India) won; Li Yu-Jhun (Chinese Taipei) was runner-up."
+   }
+  ]
+ },
+ "u1164": {
+  "gist": "India's Ankur Bhattacharjee won men's singles and, with Akash Pal, men's doubles at WTT Feeder Olomouc 2026 in the Czech Republic.",
+  "facts": [
+   "Held in Olomouc, Czech Republic, 24 to 28 August 2026.",
+   "Men's singles: Ankur Bhattacharjee (India).",
+   "Women's singles: Rin Mende (Japan).",
+   "Men's doubles: Ankur Bhattacharjee and Akash Pal (India)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Who won the men's singles at WTT Feeder Olomouc 2026?",
+    "o": [
+     "Manush Shah",
+     "Payas Jain",
+     "Ankur Bhattacharjee",
+     "Manav Thakkar"
+    ],
+    "k": 2,
+    "why": "Ankur Bhattacharjee (India) won the men's singles and also the men's doubles with Akash Pal."
+   }
+  ]
+ },
+ "u1165": {
+  "gist": "India's Swastika Ghosh and Taneesha Kotecha won the women's doubles at WTT Feeder Istanbul II-2026 in Turkiye.",
+  "facts": [
+   "Held in Istanbul, Turkiye, July 1st to 5th, 2026.",
+   "Men's singles: Nikita Artemenko (Russia); women's singles: Lee Seungeun (South Korea).",
+   "Women's doubles: Swastika Ghosh and Taneesha Kotecha (India)."
+  ],
+  "hindi": [],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which Indian pair won the women's doubles at WTT Feeder Istanbul II-2026?",
+    "o": [
+     "Sreeja Akula and Syndrela Das",
+     "Ayhika Mukherjee and Sutirtha Mukherjee",
+     "Diya Chitale and Yashaswini Ghorpade",
+     "Swastika Ghosh and Taneesha Kotecha"
+    ],
+    "k": 3,
+    "why": "Swastika Ghosh and Taneesha Kotecha (both India) won the women's doubles."
+   }
+  ]
+ },
+ "u1166": {
+  "gist": "India swept the 22nd Commonwealth Table Tennis Championship 2026 at Thyagraj Stadium, New Delhi, winning both team titles and all listed individual titles.",
+  "facts": [
+   "22nd edition: Thyagraj Stadium, New Delhi, July 27 to August 2, 2026.",
+   "Team titles: India men and India women won; Malaysia runner-up in both.",
+   "Men's singles: Ankur Bhattacharjee won; Payas Jain runner-up (all-India final).",
+   "Women's singles: Yashaswini Ghorpade won; Sreeja Akula runner-up.",
+   "Women's doubles: Sreeja Akula and Syndrela Das; mixed doubles: Manav Thakkar and Taneesha Kotecha."
+  ],
+  "hindi": [],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who won the women's singles title at the 22nd Commonwealth Table Tennis Championship 2026?",
+    "o": [
+     "Sreeja Akula",
+     "Yashaswini Ghorpade",
+     "Syndrela Das",
+     "Taneesha Kotecha"
+    ],
+    "k": 1,
+    "why": "Yashaswini Ghorpade won; Sreeja Akula was runner-up."
+   },
+   {
+    "q": "Where was the 22nd Commonwealth Table Tennis Championship 2026 held?",
+    "o": [
+     "Thyagraj Stadium, New Delhi",
+     "Indira Gandhi Stadium, New Delhi",
+     "Glasgow",
+     "Kuala Lumpur"
+    ],
+    "k": 0,
+    "why": "It took place at Thyagraj Stadium, New Delhi, from July 27 to August 2, 2026."
+   }
+  ]
+ }
+}

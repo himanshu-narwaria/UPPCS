@@ -1,0 +1,848 @@
+{
+ "u1061": {
+  "gist": "NHAI signed an MoU with Reliance Jio in December 2025 to bring a telecom-based safety alert system to National Highways.",
+  "facts": [
+   "MoU: NHAI + Reliance Jio; December 2025.",
+   "Telecom-based safety alert system across the National Highways network."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "With which telecom company did NHAI sign an MoU in December 2025 for a safety alert system on National Highways?",
+    "o": [
+     "Bharti Airtel",
+     "Vodafone Idea",
+     "BSNL",
+     "Reliance Jio"
+    ],
+    "k": 3,
+    "why": "NHAI signed the MoU with Reliance Jio."
+   }
+  ]
+ },
+ "u1062": {
+  "gist": "RBI gave in-principle approval to Fino Payments Bank to become a small finance bank in December 2025.",
+  "facts": [
+   "Fino Payments Bank to transition into a small finance bank.",
+   "In-principle approval by RBI; December 2025."
+  ],
+  "hindi": [
+   "Small finance bank (लघु वित्त बैंक)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which payments bank got RBI's in-principle approval in December 2025 to become a small finance bank?",
+    "o": [
+     "Fino Payments Bank",
+     "Airtel Payments Bank",
+     "Paytm Payments Bank",
+     "India Post Payments Bank"
+    ],
+    "k": 0,
+    "why": "RBI approved Fino Payments Bank's transition in principle."
+   }
+  ]
+ },
+ "u1063": {
+  "gist": "ADB and Japan signed financing deals with AM Green Ammonia (India) for one of the world's largest renewable-energy ammonia plants (press release October 15, 2026).",
+  "facts": [
+   "Borrower: AM Green Ammonia (India) Private Limited; plant in India.",
+   "First investment under ACCEL (Action for Creating Energy Security for Long-term Resilience).",
+   "Includes $100 million loan from Leading Asia's Private Infrastructure Fund 2 (JICA-financed, ADB-administered)."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "ADB's October 2026 financing for AM Green Ammonia (India) is the first investment under which initiative?",
+    "o": [
+     "LEAP",
+     "ACCEL",
+     "IF-CAP",
+     "ACEF"
+    ],
+    "k": 1,
+    "why": "It marks the first investment under ACCEL."
+   }
+  ]
+ },
+ "u1064": {
+  "gist": "The IMF and World Bank Group released the 'Bangkok Blueprint' with the Bank of Thailand on October 14, 2026 to fight cyber-enabled financial fraud.",
+  "facts": [
+   "Bangkok Blueprint: high-level framework by IMF and WBG, with the Bank of Thailand.",
+   "Helps countries prevent, detect and address cyber-enabled fraud in digital finance; October 14, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "The 'Bangkok Blueprint', released by the IMF and World Bank Group in October 2026, deals with:",
+    "o": [
+     "Climate finance",
+     "Debt restructuring",
+     "Cyber-enabled fraud in digital financial services",
+     "Trade tariffs"
+    ],
+    "k": 2,
+    "why": "It aims to prevent, detect and address cyber-enabled fraud in digital finance."
+   }
+  ]
+ },
+ "u1065": {
+  "gist": "China's Northwestern Polytechnical University set a Guinness record by running 116 autonomous underwater vehicles together in formation.",
+  "facts": [
+   "116 Autonomous Underwater Vehicles (AUVs) in coordinated formation navigation.",
+   "Partner: Xi'an Tianhe Maritime Technologies; attempt on August 29, 2026.",
+   "Guinness category: 'Most Autonomous Underwater Vehicles Operating Simultaneously' (press release September 24, 2026)."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "How many autonomous underwater vehicles did China's NPU operate simultaneously to set a Guinness World Record in 2026?",
+    "o": [
+     "96",
+     "116",
+     "136",
+     "106"
+    ],
+    "k": 1,
+    "why": "NPU navigated 116 AUVs simultaneously in formation."
+   }
+  ]
+ },
+ "u1066": {
+  "gist": "On August 15, 2026, SpaceX launched two Falcon 9 rockets just 38 minutes apart, a record for one launch provider.",
+  "facts": [
+   "Two Falcon 9 launches, 38 minutes apart; August 15, 2026.",
+   "From Cape Canaveral, Florida (9:12 p.m. EDT) and Vandenberg, California (9:50 p.m. EDT).",
+   "Previous record: 65 minutes, August 31, 2024 (two Starlink launches)."
+  ],
+  "trap": "New record 38 minutes; old record 65 minutes.",
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "On August 15, 2026, SpaceX set a record by launching two Falcon 9 rockets how many minutes apart?",
+    "o": [
+     "38",
+     "65",
+     "45",
+     "50"
+    ],
+    "k": 0,
+    "why": "The two launches were only 38 minutes apart; the old record was 65 minutes."
+   }
+  ]
+ },
+ "u1067": {
+  "gist": "The ICC Board admitted Mauritius as its 111th Member on July 15, 2026.",
+  "facts": [
+   "Mauritius: 111th Member of the International Cricket Council.",
+   "Approved by the ICC Board on July 15, 2026."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which country was admitted as the 111th Member of the ICC on July 15, 2026?",
+    "o": [
+     "Seychelles",
+     "Fiji",
+     "Maldives",
+     "Mauritius"
+    ],
+    "k": 3,
+    "why": "The ICC Board approved Mauritius as its 111th Member."
+   }
+  ]
+ },
+ "u1068": {
+  "gist": "ADB approved a $230 million loan on July 3, 2026 to modernise Chennai's water supply and sanitation, helping 4.5 million residents.",
+  "facts": [
+   "$230 million ADB loan; July 3, 2026; Greater Chennai, 4.5 million residents.",
+   "Over 170 km of water and sewer pipes; seven water and 38 sewer pumping stations upgraded.",
+   "Chennai: first Indian city with a comprehensive ring-main solution."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which city will become the first in India to implement a comprehensive water ring-main solution under a July 2026 ADB loan?",
+    "o": [
+     "Chennai",
+     "Bengaluru",
+     "Hyderabad",
+     "Pune"
+    ],
+    "k": 0,
+    "why": "ADB's $230 million loan makes Chennai the first such city."
+   }
+  ]
+ },
+ "u1069": {
+  "gist": "WHO added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing on July 2, 2026.",
+  "facts": [
+   "First molecular diagnostic test for Bundibugyo virus (BDBV); added to WHO EUL July 2, 2026.",
+   "Detects the virus's genetic material in blood samples."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In July 2026, WHO added the first molecular diagnostic test for which virus to its Emergency Use Listing?",
+    "o": [
+     "Nipah virus",
+     "Bundibugyo virus",
+     "Zika virus",
+     "Marburg virus"
+    ],
+    "k": 1,
+    "why": "WHO listed the first molecular test for Bundibugyo virus (BDBV)."
+   }
+  ]
+ },
+ "u1070": {
+  "gist": "NIFTEM-Kundli signed an MoU with Massey University, New Zealand, on July 2, 2026.",
+  "facts": [
+   "NIFTEM-K: National Institute of Food Technology Entrepreneurship and Management, Kundli.",
+   "MoU with Massey University, New Zealand; July 2, 2026."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "NIFTEM-Kundli signed an MoU on July 2, 2026 with a university from which country?",
+    "o": [
+     "Australia",
+     "United Kingdom",
+     "New Zealand",
+     "Canada"
+    ],
+    "k": 2,
+    "why": "The MoU was with Massey University, New Zealand."
+   }
+  ]
+ },
+ "u1071": {
+  "gist": "Saudi Arabia (May 2026), Bangladesh (June 2026) and Ghana (October 2026) joined the International Big Cat Alliance (IBCA), now 29 members.",
+  "facts": [
+   "Saudi Arabia joined IBCA on May 22, 2026.",
+   "Bangladesh joined in June 2026; Ghana joined on October 7, 2026.",
+   "IBCA now has 29 member countries."
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "How many countries are members of the International Big Cat Alliance (IBCA) after Ghana joined in October 2026?",
+    "o": [
+     "24",
+     "27",
+     "29",
+     "31"
+    ],
+    "k": 2,
+    "why": "As of now, 29 countries have joined IBCA."
+   }
+  ]
+ },
+ "u1072": {
+  "gist": "On May 17, 2026, WHO declared the Ebola outbreaks in DR Congo and Uganda a Public Health Emergency of International Concern (PHEIC).",
+  "facts": [
+   "Ebola Disease outbreaks: Democratic Republic of the Congo and Uganda.",
+   "Declared PHEIC under International Health Regulations, 2005; May 17, 2026."
+  ],
+  "hindi": [
+   "Public health emergency (सार्वजनिक स्वास्थ्य आपातकाल)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In May 2026, WHO declared outbreaks of which disease in DR Congo and Uganda a Public Health Emergency of International Concern?",
+    "o": [
+     "Mpox",
+     "Marburg",
+     "Cholera",
+     "Ebola Disease"
+    ],
+    "k": 3,
+    "why": "WHO declared the Ebola outbreaks a PHEIC on May 17, 2026."
+   }
+  ]
+ },
+ "u1073": {
+  "gist": "The Education Ministry gave the University of Liverpool (UK) a Letter of Approval on June 4, 2026 to set up a campus in Bengaluru.",
+  "facts": [
+   "Letter of Approval (LoA) by Ministry of Education; June 4, 2026.",
+   "University of Liverpool, UK, to open a branch campus in Bengaluru, Karnataka."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "In which Indian city will the University of Liverpool set up its branch campus (LoA of June 2026)?",
+    "o": [
+     "Bengaluru",
+     "Mumbai",
+     "Gurugram",
+     "GIFT City"
+    ],
+    "k": 0,
+    "why": "The LoA was for a branch campus in Bengaluru, Karnataka."
+   }
+  ]
+ },
+ "u1074": {
+  "gist": "Microsoft unveiled Majorana 2, its next-generation topological quantum chip, in June 2026.",
+  "facts": [
+   "Majorana 2: topological quantum chip, made with help of Microsoft Discovery's agentic AI.",
+   "New materials stack: 1,000-fold better reliability than the previous qubits."
+  ],
+  "hindi": [
+   "Quantum computing (क्वांटम कंप्यूटिंग)"
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "What is 'Majorana 2', unveiled by Microsoft in June 2026?",
+    "o": [
+     "An AI chatbot",
+     "A topological quantum chip",
+     "A satellite",
+     "A cloud data centre"
+    ],
+    "k": 1,
+    "why": "Majorana 2 is Microsoft's next-generation topological quantum chip."
+   }
+  ]
+ },
+ "u1075": {
+  "gist": "WHO prequalified the first malaria treatment for newborns (April 2026) and verified Chile as leprosy-free; the US formally exited WHO on January 22, 2026.",
+  "facts": [
+   "April 24, 2026: first malaria treatment for newborns and infants weighing two to five kg prequalified.",
+   "Chile verified for eliminating leprosy, March 2026: first in the Americas, second globally.",
+   "United States formally exited WHO on January 22, 2026.",
+   "Fiji validated for eliminating trachoma as a public health problem, October 20, 2025."
+  ],
+  "trap": "Chile = leprosy; Fiji = trachoma.",
+  "hindi": [
+   "Leprosy (कुष्ठ रोग)",
+   "Malaria (मलेरिया)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which country became the first in the Americas to be verified by WHO for eliminating leprosy (March 2026)?",
+    "o": [
+     "Brazil",
+     "Argentina",
+     "Chile",
+     "Colombia"
+    ],
+    "k": 2,
+    "why": "WHO verified Chile: first in the Americas, second globally."
+   },
+   {
+    "q": "WHO validated which country for eliminating trachoma as a public health problem on October 20, 2025?",
+    "o": [
+     "Seychelles",
+     "Chile",
+     "Mauritius",
+     "Fiji"
+    ],
+    "k": 3,
+    "why": "Fiji was validated for eliminating trachoma on October 20, 2025."
+   }
+  ]
+ },
+ "u1076": {
+  "gist": "ADB's April 2026 Asian Development Outlook projects India's GDP growth to ease to 6.9% in FY2026 from 7.6% in FY2025.",
+  "facts": [
+   "FY2026 (ending 31 March 2027) growth forecast: 6.9%.",
+   "FY2025 growth: 7.6%.",
+   "Source: Asian Development Outlook (ADO) April 2026, released April 10, 2026."
+  ],
+  "hindi": [
+   "Gross domestic product (सकल घरेलू उत्पाद)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What GDP growth rate did ADB (ADO April 2026) project for India in FY2026?",
+    "o": [
+     "6.5%",
+     "6.9%",
+     "7.2%",
+     "7.6%"
+    ],
+    "k": 1,
+    "why": "ADB projects growth to ease to 6.9% from 7.6% in FY2025."
+   }
+  ]
+ },
+ "u1077": {
+  "gist": "The World Bank Group and Sri Lanka launched a five-year Country Partnership Framework on April 2, 2026 to support recovery and 7% growth.",
+  "facts": [
+   "New five-year Country Partnership Framework (CPF); April 2, 2026.",
+   "Aim: Sri Lanka's recovery and 7% medium-term growth target."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "With which country did the World Bank Group launch a new five-year Country Partnership Framework on April 2, 2026?",
+    "o": [
+     "Sri Lanka",
+     "Bangladesh",
+     "Nepal",
+     "Maldives"
+    ],
+    "k": 0,
+    "why": "The CPF supports Sri Lanka's recovery and 7% growth target."
+   }
+  ]
+ },
+ "u1078": {
+  "gist": "Singapore Changi Airport was named Airport of the Year 2026 at the World Airport Awards in London on March 18, 2026, for the 13th time.",
+  "facts": [
+   "Airport of the Year 2026: Singapore Changi Airport.",
+   "World Airport Awards, London, March 18, 2026; top spot for the 13th time."
+  ],
+  "priority": 2,
+  "mcq": [
+   {
+    "q": "Which airport was named Airport of the Year 2026 at the World Airport Awards?",
+    "o": [
+     "Hamad International, Doha",
+     "Singapore Changi Airport",
+     "Dubai International",
+     "Tokyo Haneda"
+    ],
+    "k": 1,
+    "why": "Changi reclaimed the top spot for the 13th time."
+   }
+  ]
+ },
+ "u1079": {
+  "gist": "Bahrain, Colombia, DR Congo, Latvia and Liberia began two-year UNSC non-permanent terms on January 1, 2026, joining five members serving through 2026.",
+  "facts": [
+   "New members: Bahrain, Colombia, Democratic Republic of the Congo, Latvia, Liberia.",
+   "Replaced: Algeria, Guyana, Republic of Korea, Sierra Leone, Slovenia.",
+   "Two-year terms from January 1, 2026.",
+   "Continuing members till end of 2026: Denmark, Greece, Pakistan, Panama, Somalia."
+  ],
+  "hook": "New five 'B-C-D-L-L' (Bahrain, Colombia, DR Congo, Latvia, Liberia); old five 'D-G-P-P-S' (Denmark, Greece, Pakistan, Panama, Somalia).",
+  "hindi": [
+   "Security Council (सुरक्षा परिषद)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which of these countries began a two-year UNSC non-permanent term on January 1, 2026?",
+    "o": [
+     "Slovenia",
+     "Latvia",
+     "Algeria",
+     "Guyana"
+    ],
+    "k": 1,
+    "why": "Latvia joined; Slovenia, Algeria and Guyana were replaced."
+   },
+   {
+    "q": "Which of these countries is a UNSC non-permanent member serving through the end of 2026, joined by the five new members?",
+    "o": [
+     "Algeria",
+     "Guyana",
+     "Slovenia",
+     "Pakistan"
+    ],
+    "k": 3,
+    "why": "Denmark, Greece, Pakistan, Panama and Somalia serve through the end of 2026."
+   }
+  ]
+ },
+ "u1080": {
+  "gist": "Major national conferences and summits of 2025-26 with venues and themes, from INDIA CHEM and India Mobile Congress to the India-AI Impact Summit.",
+  "facts": [
+   "10th India Mobile Congress (October 7 to 10, 2026), Yashobhoomi, New Delhi; theme 'Scale Without Boundaries'.",
+   "5th Kautilya Economic Conclave (October 3–5, 2026), New Delhi; theme 'Resilience in an Age of Flux'.",
+   "14th INDIA CHEM 2026 in Mumbai; 5th India Energy Week 2027 at New Town Convention Centre, Kolkata.",
+   "India-AI Impact Summit 2026 (February 16-20, 2026), Bharat Mandapam; theme 'Welfare for All, Happiness of All'.",
+   "Lucknow: CII UP AI Tech Summit (July 29, 2026), UP Regional AI Impact Conference, Army's Strategic Communication Conclave.",
+   "GeodCon-26, first national geodesy conference, by IIT Kanpur's National Centre for Geodesy (March 11-13, 2026).",
+   "8th Windergy India (October 7–9, 2026), Chennai, inaugurated by Pralhad Joshi; 11th BRICS Culture Ministers' Meeting, Bhopal."
+  ],
+  "hook": "Lucknow hosted many meets: CII UP AI Tech Summit, MY Bharat Youth Volunteers Convention, UP Regional AI Impact Conference, Strategic Communication Conclave.",
+  "check": "The printed table's last national rows are misaligned. Per the page: Earth Summit 2025 → Gandhinagar, Gujarat, inaugurated by Amit Shah; India International Space Conclave 2025 → New Delhi, organised by Indian Space Association (ISpA); Tribal Business Conclave 2025 → New Delhi, organised by DPIIT, Ministry of Tribal Affairs, Ministry of Culture & FICCI; National Tribal Literary Fest 2025 → National Tribal Research Institute and Ministry of Tribal Affairs; Vision for Sujalam Bharat Summit-2025 → Bharat Mandapam, New Delhi, Ministry of Jal Shakti.",
+  "hindi": [
+   "Conference (सम्मेलन)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the 10th edition of India Mobile Congress (October 7 to 10, 2026) held?",
+    "o": [
+     "Yashobhoomi, New Delhi",
+     "Bharat Mandapam, New Delhi",
+     "Bombay Exhibition Centre, Mumbai",
+     "NASC Complex, Pusa"
+    ],
+    "k": 0,
+    "why": "The 10th India Mobile Congress was held at Yashobhoomi, New Delhi."
+   },
+   {
+    "q": "What was the theme of the 5th Kautilya Economic Conclave (October 3–5, 2026)?",
+    "o": [
+     "Scale Without Boundaries",
+     "Climate Resilient Water Management",
+     "Resilience in an Age of Flux",
+     "Advantage BHARAT"
+    ],
+    "k": 2,
+    "why": "KEC 2026 theme: 'Resilience in an Age of Flux'."
+   },
+   {
+    "q": "Which city will host the 5th India Energy Week (IEW) 2027?",
+    "o": [
+     "Goa",
+     "New Delhi",
+     "Bengaluru",
+     "Kolkata"
+    ],
+    "k": 3,
+    "why": "IEW 2027 is at New Town Convention Centre, Kolkata, West Bengal."
+   }
+  ]
+ },
+ "u1081": {
+  "gist": "Etihad Airways was named the world's safest full-service airline for 2026 by AirlineRatings.com (January 2026), the first Gulf carrier to top the list.",
+  "facts": [
+   "World's safest full-service airline for 2026: Etihad Airways.",
+   "Report by AirlineRatings.com, January 2026; first Gulf carrier to top the list."
+  ],
+  "priority": 3,
+  "mcq": [
+   {
+    "q": "Which airline was named the world's safest full-service airline for 2026 by AirlineRatings.com?",
+    "o": [
+     "Emirates",
+     "Qatar Airways",
+     "Etihad Airways",
+     "Air India"
+    ],
+    "k": 2,
+    "why": "Etihad became the first Gulf carrier to top the list."
+   }
+  ]
+ },
+ "u1082": {
+  "gist": "India was re-elected to the International Maritime Organization (IMO) Council in Category B for the 2026-27 biennium on November 28, 2025.",
+  "facts": [
+   "IMO = International Maritime Organization; India re-elected to its Council.",
+   "Category B, for the 2026-27 biennium; November 28, 2025.",
+   "Category B: 10 countries with the largest interest in international seaborne trade."
+  ],
+  "hindi": [
+   "Maritime (समुद्री)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "In which category was India re-elected to the IMO Council for the 2026-27 biennium?",
+    "o": [
+     "Category A",
+     "Category C",
+     "Category B",
+     "Category D"
+    ],
+    "k": 2,
+    "why": "India was re-elected in Category B: 10 countries with largest seaborne-trade interest."
+   }
+  ]
+ },
+ "u1083": {
+  "gist": "Major international conferences of 2025-26 with venues and Indian leads, from the SCO meeting in Dushanbe to BRICS meetings hosted across India.",
+  "facts": [
+   "25th SCO Heads of Government meeting (October 19-20, 2026), Dushanbe; India led by Rajnath Singh.",
+   "First BIMSTEC Home Ministers' Meeting, New Delhi; chaired by Amit Shah.",
+   "153rd IPU Assembly (Arusha, Tanzania) and 69th Commonwealth Parliamentary Conference (Cape Town): Indian teams led by Harivansh.",
+   "11th AIIB Board of Governors meeting (September 28-29, 2026): Doha, Qatar.",
+   "BRICS 2026 in India: Youth and Sports (Visakhapatnam), Communications (Pune), Trade (Jaipur), Statistics heads (Lucknow), Health (Chandigarh).",
+   "11th Quad Foreign Ministers' Meeting (May 26, 2026), New Delhi, hosted by S. Jaishankar; NATO Summit 2026: Ankara.",
+   "2nd Global Buddhist Summit (January 24-25, 2026), Bharat Mandapam; 10th International Gita Mahotsav 2025, Kurukshetra."
+  ],
+  "hindi": [
+   "Summit (शिखर सम्मेलन)"
+  ],
+  "check": "The printed table is misaligned (overprinted rows, dates pushed into the next row). Per the page: First BIMSTEC Home Ministers' Meeting (October 13, 2026) → New Delhi; World Health Summit 2026 (October 11-13, 2026) → Berlin; 20th East Asia Summit Energy Ministers' Meeting (October 8, 2026) → Manila; 16th BRICS Health Ministers' Meeting (July 22-24, 2026) → Chandigarh; 33rd ASEAN Regional Forum (July 23, 2026) → Manila, the Philippines; International Conference on Postal Ballot – Special Voting Arrangements (July 21, 2026) → Kolkata.",
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Where was the 25th meeting of the SCO Council of Heads of Government (October 19-20, 2026) held?",
+    "o": [
+     "Tashkent, Uzbekistan",
+     "Astana, Kazakhstan",
+     "Dushanbe, Tajikistan",
+     "Bishkek, Kyrgyzstan"
+    ],
+    "k": 2,
+    "why": "It was held in Dushanbe; Rajnath Singh led India's delegation."
+   },
+   {
+    "q": "Which Indian city hosted the Meeting of Heads of National Statistical Offices of BRICS Countries in August 2026?",
+    "o": [
+     "Visakhapatnam",
+     "Pune",
+     "Jaipur",
+     "Lucknow"
+    ],
+    "k": 3,
+    "why": "MoSPI hosted it in Lucknow, Uttar Pradesh (August 3-4, 2026)."
+   },
+   {
+    "q": "Where was the NATO Summit 2026 held?",
+    "o": [
+     "Ankara, Türkiye",
+     "Brussels, Belgium",
+     "Vienna, Austria",
+     "Geneva, Switzerland"
+    ],
+    "k": 0,
+    "why": "NATO Summit 2026 (July 7–8) was held in Ankara, Türkiye."
+   }
+  ]
+ },
+ "u1084": {
+  "gist": "India's military exercises and operations of 2025-26 with partner countries and venues, from SIMBEX and VARUNA to MALABAR and Operation Sagar Bandhu.",
+  "facts": [
+   "Navy: 33rd SIMBEX-2026 (Singapore) at Visakhapatnam; 24th VARUNA 2026 (France) at Toulon Naval Base.",
+   "Army: KAZIND 2026 (Kazakhstan) at Oskemen; 15th MAITREE 2026 (Thailand) at Surat Thani.",
+   "23rd Yudh Abhyas 2026 (India-US): Auli, Uttarakhand and Mahajan, Rajasthan; Udara Shakti 2026 (IAF–RMAF): Subang.",
+   "Operation Cy-Vajra 2026 (July 7-13, 2026): conducted by Uttar Pradesh Police.",
+   "Sudarshan Shakti-V: counter-hijacking and counter-terrorism mock exercise at IGI Airport, New Delhi.",
+   "29th MALABAR-2025: India, Japan, Australia, US, around Guam; 19th SURYA KIRAN-2025 (Nepal) at Pithoragarh.",
+   "Operation Sagar Bandhu (November 28, 2025): India's help to Sri Lanka after Cyclone Ditwah."
+  ],
+  "hook": "Partner pairs: KAZIND = Kazakhstan; KHANJAR = Kyrgyzstan; Yudh Abhyas and VAJRA PRAHAR = USA; VINBAX = Vietnam; CINBAX = Cambodia; MAITREE = Thailand; SIMBEX = Singapore; AJEYA WARRIOR = UK; Harimau Shakti = Malaysia; GARUDA SHAKTI = Indonesia; LAMITIYE = Seychelles.",
+  "check": "The printed page overprints the MOUNTAIN GUARDIAN and SAREX-2026 rows: the stray 'Uttarakhand' after AUSTRAHIND belongs to MOUNTAIN GUARDIAN (Chaubatia), and '(October 5 to 18, 2026)' under SAREX-2026 is MOUNTAIN GUARDIAN's dates.",
+  "hindi": [
+   "Military exercise (सैन्य अभ्यास)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Operation Cy-Vajra 2026 (July 7-13, 2026) was conducted by:",
+    "o": [
+     "Indian Army",
+     "Uttar Pradesh Police",
+     "CRPF",
+     "National Security Guard"
+    ],
+    "k": 1,
+    "why": "The table lists Uttar Pradesh Police for Operation Cy-Vajra 2026."
+   },
+   {
+    "q": "Exercise KAZIND 2026 is a joint military exercise between India and which country?",
+    "o": [
+     "Kyrgyzstan",
+     "Uzbekistan",
+     "Kazakhstan",
+     "Tajikistan"
+    ],
+    "k": 2,
+    "why": "KAZIND is the India–Kazakhstan exercise, held at Oskemen."
+   },
+   {
+    "q": "India launched Operation Sagar Bandhu in November 2025 to help which country after Cyclone Ditwah?",
+    "o": [
+     "Maldives",
+     "Bangladesh",
+     "Myanmar",
+     "Sri Lanka"
+    ],
+    "k": 3,
+    "why": "It gave assistance to Sri Lanka after Cyclone Ditwah."
+   }
+  ]
+ },
+ "u1085": {
+  "gist": "Important national days of India with dates and themes, such as National Space Day, National Science Day and National Voters' Day.",
+  "facts": [
+   "National Space Day: 23 August; National Sports Day: 29 August; Indian Akshay Urja Day: 20 August.",
+   "National Science Day 2026: 28 February; theme 'Women in Science: Catalysing Viksit Bharat'.",
+   "National Voters' Day 2026: 25 January, theme 'My India, My Vote'; National Tourism Day also 25 January.",
+   "National Girl Child Day: 24 January; National Youth Day: 12 January.",
+   "National Statistics Day 2026: 29 June; theme 'Data for Development'.",
+   "National Handloom Day: 7 August; Kargil Vijay Diwas: 26 July; National Flag Day: 22 July.",
+   "Good Governance Day: 25 December; National Mathematics Day: 22 December; National Education Day: 11 November."
+  ],
+  "hook": "25 January double: National Voters' Day + National Tourism Day; Girl Child Day comes just before (24 January).",
+  "hindi": [
+   "National Voters' Day (राष्ट्रीय मतदाता दिवस)",
+   "Good Governance Day (सुशासन दिवस)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "What was the theme of National Science Day 2026 (28 February)?",
+    "o": [
+     "Women in Science: Catalysing Viksit Bharat",
+     "Data for Development",
+     "My India, My Vote",
+     "Empowering Girls for a Sustainable Future"
+    ],
+    "k": 0,
+    "why": "National Science Day 2026 theme: 'Women in Science: Catalysing Viksit Bharat'."
+   },
+   {
+    "q": "On which date is Indian Akshay Urja Day observed?",
+    "o": [
+     "7 August",
+     "23 August",
+     "20 August",
+     "29 August"
+    ],
+    "k": 2,
+    "why": "The table lists Indian Akshay Urja Day on 20 August."
+   },
+   {
+    "q": "Which day is observed on 29 June, with the 2026 theme 'Data for Development'?",
+    "o": [
+     "National Mathematics Day",
+     "National Statistics Day",
+     "National Small Industry Day",
+     "National Science Day"
+    ],
+    "k": 1,
+    "why": "National Statistics Day 2026: 29 June, theme 'Data for Development'."
+   }
+  ]
+ },
+ "u1086": {
+  "gist": "Important international days with dates and themes, plus UN international years for 2026, 2027 and 2029.",
+  "facts": [
+   "UN years 2026: International Year of the Woman Farmer; International Year of Volunteers for Sustainable Development.",
+   "2027: Sustainable and Resilient Tourism; 2029: Asteroid Awareness and Planetary Defence.",
+   "World Environment Day (5 June) theme: 'Inspired by Nature. For Climate. For Our Future'.",
+   "International Day of Yoga (21 June): 'Yoga for Healthy Ageing'; World Water Day (22 March): 'Water and Gender'.",
+   "International Women's Day 2026 (8 March): 'Rights. Justice. Action. For ALL Women and Girls'.",
+   "World Hindi Day 2026 (10 January): 'Hindi: From Traditional Knowledge to Artificial Intelligence'.",
+   "World Rhino Day (22 September): 'Keep the Five Alive'; International Literacy Day: 8 September."
+  ],
+  "check": "Source table contains editorial notes, not themes (e.g., 'No official 2026 annual theme verified. The quotation in your original table should not be presented as a theme.'), and some rows are misaligned (World Arthritis Day / Disaster Risk Reduction / World Standards Day).",
+  "hindi": [
+   "International Day (अंतरराष्ट्रीय दिवस)",
+   "Theme (विषय)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which year has the UN declared the International Year of the Woman Farmer?",
+    "o": [
+     "2025",
+     "2026",
+     "2027",
+     "2029"
+    ],
+    "k": 1,
+    "why": "International Year of the Woman Farmer: Year 2026."
+   },
+   {
+    "q": "What theme is listed for the International Day of Yoga (21 June) in 2026?",
+    "o": [
+     "Yoga for Self and Society",
+     "Yoga for Humanity",
+     "Yoga for Healthy Ageing",
+     "Yoga for One Earth One Health"
+    ],
+    "k": 2,
+    "why": "The table lists International Day of Yoga: 'Yoga for Healthy Ageing'."
+   },
+   {
+    "q": "What was the theme of World Water Day 2026 (22 March)?",
+    "o": [
+     "Groundwater: Making the Invisible Visible",
+     "Water for Peace",
+     "Valuing Water",
+     "Water and Gender"
+    ],
+    "k": 3,
+    "why": "World Water Day 2026 theme: 'Water and Gender'."
+   }
+  ]
+ },
+ "u1087": {
+  "gist": "Recent books and their authors, including works by Ram Nath Kovind, Sonia Gandhi, Sudha Murty, Kailash Satyarthi and General Manoj Mukund Naravane.",
+  "facts": [
+   "Ram Nath Kovind: 'Triumph of the Indian Republic: My Life, My Struggles' (autobiography).",
+   "Sonia Gandhi: 'Belonging: A Journey of Love' (memoir); Kiran Desai: 'The Loneliness of Sonia and Sunny'.",
+   "Manoj Mukund Naravane: 'Four Stars of Destiny'; CDS General Anil Chauhan: 'Ready, Relevant and Resurgent II'.",
+   "Sudha Murty: 'Tides of Time: Bharat's History through Murals in Parliament'; Kailash Satyarthi: 'Karuna: The Power of Compassion'.",
+   "Shikhar Dhawan: 'The One: Cricket, My Life and More'; Anupam Kher: 'Different But No Less'.",
+   "Justice D.Y. Chandrachud: 'Why the Constitution Matters'; Srinath Raghavan: 'Indira Gandhi and the Years that Transformed India'.",
+   "Shivraj Singh Chouhan: 'Apnapan: Narendra Modi Sang Mere Anubhav'; Bandaru Dattatreya: 'Janata Ki Kahani, Meri Aatmakatha'."
+  ],
+  "hook": "Book–author pairs: Karuna → Kailash Satyarthi; Four Stars of Destiny → Naravane; Tides of Time → Sudha Murty; Belonging → Sonia Gandhi.",
+  "trap": "'The Loneliness of Sonia and Sunny' is by Kiran Desai; Sonia Gandhi's own book is 'Belonging'.",
+  "check": "List repeats two books ('The Loneliness of Sonia and Sunny', 'The One') and has a typo 'WA Different Kind of Power'.",
+  "hindi": [
+   "Autobiography (आत्मकथा)",
+   "Memoir (संस्मरण)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Who wrote 'Four Stars of Destiny: An Autobiography'?",
+    "o": [
+     "Manoj Mukund Naravane",
+     "Anil Chauhan",
+     "Dhiraj Seth",
+     "Upendra Dwivedi"
+    ],
+    "k": 0,
+    "why": "The list shows 'Four Stars of Destiny' by Manoj Mukund Naravane."
+   },
+   {
+    "q": "'Tides of Time: Bharat's History through Murals in Parliament' is written by:",
+    "o": [
+     "Kiran Desai",
+     "Sudha Murty",
+     "Sonia Gandhi",
+     "Harinder Baweja"
+    ],
+    "k": 1,
+    "why": "The book is by Smt. Sudha Murty."
+   },
+   {
+    "q": "Who is the author of 'Karuna: The Power of Compassion'?",
+    "o": [
+     "Anupam Kher",
+     "Hindol Sengupta",
+     "Kailash Satyarthi",
+     "Prem Prakash"
+    ],
+    "k": 2,
+    "why": "The list shows 'Karuna: The Power of Compassion' by Kailash Satyarthi."
+   }
+  ]
+ },
+ "u1255": {
+  "gist": "Manipuri-language film 'Boong', directed by Lakshmipriya Devi, won BAFTA 2026's Best Children's & Family Film, the first Indian film to win this category.",
+  "facts": [
+   "Boong: a Manipuri-language film directed by Lakshmipriya Devi, backed by Farhan Akhtar.",
+   "Won the BAFTA 2026 award for Best Children's & Family Film.",
+   "First Indian film to win in this category.",
+   "Shows global recognition of regional Indian cinema, especially from Northeast India.",
+   "Beat major international contenders like Zootopia 2 and Lilo & Stitch."
+  ],
+  "trap": "Lakshmipriya Devi directed Boong; Farhan Akhtar only backed it.",
+  "hindi": [
+   "Regional cinema (क्षेत्रीय सिनेमा)"
+  ],
+  "priority": 1,
+  "mcq": [
+   {
+    "q": "Which Manipuri-language film became the first Indian film to win BAFTA's Best Children's & Family Film award in 2026?",
+    "o": [
+     "Angh",
+     "Homebound",
+     "Boong",
+     "Gondhal"
+    ],
+    "k": 2,
+    "why": "Boong, directed by Lakshmipriya Devi, won the category, a first for an Indian film."
+   }
+  ]
+ }
+}

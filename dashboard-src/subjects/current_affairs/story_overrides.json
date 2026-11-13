@@ -1,0 +1,27 @@
+{
+ "about": "Chapter-1 story boundaries checked by a reviewer where ca_extract.story_of() guesses wrong. start_new: this question opens a new news item. continue: this question is a follow-up of the story before it.",
+ "start_new": {
+  "q063": "Space Industry E-Catalogue, not FATF",
+  "q272": "Sanae Takaichi (Japan), not the Malaysia visit",
+  "q311": "UP Startup Policy, not the World Circular Economy Forum",
+  "q317": "Energy Transition Index, not CPCL Navratna",
+  "q327": "SRS Bulletin 2024, not the Logistics Port Performance Index",
+  "q455": "menopause clinics, not the port anti-drone system",
+  "q530": "Pulitzer Prize, not International Workers' Day"
+ },
+ "continue": {
+  "q268": "Tanzanian delegation of the India-Tanzania meeting",
+  "q323": "GSER 2026 startup ecosystem report",
+  "q324": "GSER 2026 startup ecosystem report",
+  "q330": "SRS Bulletin: birth rate 2014",
+  "q331": "SRS Bulletin: birth rate 2024",
+  "q332": "SRS Bulletin: death rate 2014",
+  "q333": "SRS Bulletin: death rate 2024",
+  "q341": "Union Budget 2026-27 figures",
+  "q369": "revised Artemis plan",
+  "q371": "Kazind-2026 exercise",
+  "q372": "Kazind-2026 exercise",
+  "q456": "World Menopause Day, with the menopause clinics",
+  "q571": "68th Grammy Awards"
+ }
+}
